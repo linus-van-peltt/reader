@@ -1,0 +1,135 @@
+{
+  "text": "Were the plans at NASA included in this? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Were the plans at NASA included in this?",
+        "start_offset": 31,
+        "end_offset": 94,
+        "start": 2.48,
+        "end": 7.5200000000000005
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 158,
+        "end_offset": 190,
+        "start": 12.64,
+        "end": 15.200000000000001
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 205,
+        "end_offset": 245,
+        "start": 16.4,
+        "end": 19.6
+      }
+    ],
+    "word": [
+      {
+        "word": "Were",
+        "start_offset": 31,
+        "end_offset": 38,
+        "start": 2.48,
+        "end": 3.04
+      },
+      {
+        "word": "the",
+        "start_offset": 38,
+        "end_offset": 42,
+        "start": 3.04,
+        "end": 3.36
+      },
+      {
+        "word": "plans",
+        "start_offset": 46,
+        "end_offset": 51,
+        "start": 3.68,
+        "end": 4.08
+      },
+      {
+        "word": "at",
+        "start_offset": 54,
+        "end_offset": 57,
+        "start": 4.32,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "NASA",
+        "start_offset": 57,
+        "end_offset": 64,
+        "start": 4.5600000000000005,
+        "end": 5.12
+      },
+      {
+        "word": "included",
+        "start_offset": 75,
+        "end_offset": 86,
+        "start": 6.0,
+        "end": 6.88
+      },
+      {
+        "word": "in",
+        "start_offset": 86,
+        "end_offset": 90,
+        "start": 6.88,
+        "end": 7.2
+      },
+      {
+        "word": "this?",
+        "start_offset": 90,
+        "end_offset": 94,
+        "start": 7.2,
+        "end": 7.5200000000000005
+      },
+      {
+        "word": "I",
+        "start_offset": 158,
+        "end_offset": 162,
+        "start": 12.64,
+        "end": 12.96
+      },
+      {
+        "word": "am",
+        "start_offset": 174,
+        "end_offset": 178,
+        "start": 13.92,
+        "end": 14.24
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 186,
+        "end_offset": 190,
+        "start": 14.88,
+        "end": 15.200000000000001
+      },
+      {
+        "word": "This",
+        "start_offset": 205,
+        "end_offset": 209,
+        "start": 16.4,
+        "end": 16.72
+      },
+      {
+        "word": "is",
+        "start_offset": 217,
+        "end_offset": 221,
+        "start": 17.36,
+        "end": 17.68
+      },
+      {
+        "word": "correct.",
+        "start_offset": 233,
+        "end_offset": 245,
+        "start": 18.64,
+        "end": 19.6
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "020-39.mp3",
+    "audio_duration": 20.04,
+    "transcription_time": 0.08,
+    "rtfx": 236.68,
+    "timestamp": "2026-01-06T21:48:21.999576+00:00"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "text": "Communicate now.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Communicate now.",
+        "start_offset": 52,
+        "end_offset": 82,
+        "start": 4.16,
+        "end": 6.5600000000000005
+      }
+    ],
+    "word": [
+      {
+        "word": "Communicate",
+        "start_offset": 52,
+        "end_offset": 71,
+        "start": 4.16,
+        "end": 5.68
+      },
+      {
+        "word": "now.",
+        "start_offset": 78,
+        "end_offset": 82,
+        "start": 6.24,
+        "end": 6.5600000000000005
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "047-00.mp3",
+    "audio_duration": 7.55,
+    "transcription_time": 0.08,
+    "rtfx": 93.02,
+    "timestamp": "2026-01-06T21:51:30.974656+00:00"
+  }
+}

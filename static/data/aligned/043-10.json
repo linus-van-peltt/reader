@@ -1,0 +1,220 @@
+{
+  "text": "Why is physical pain a part of the end of fourth density? I am Ra. You would call this variety of pain weariness.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Why is physical pain a part of the end of fourth density?",
+        "start_offset": 0,
+        "end_offset": 57,
+        "start": 0.74,
+        "end": 8.444
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 58,
+        "end_offset": 66,
+        "start": 14.507,
+        "end": 17.029
+      },
+      {
+        "segment": "You would call this variety of pain weariness.",
+        "start_offset": 67,
+        "end_offset": 113,
+        "start": 19.03,
+        "end": 31.616
+      }
+    ],
+    "word": [
+      {
+        "word": "Why",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 0.74,
+        "end": 0.92,
+        "score": -1.7346
+      },
+      {
+        "word": "is",
+        "start_offset": 4,
+        "end_offset": 6,
+        "start": 0.981,
+        "end": 1.081,
+        "score": -1.6289
+      },
+      {
+        "word": "physical",
+        "start_offset": 7,
+        "end_offset": 15,
+        "start": 1.141,
+        "end": 1.561,
+        "score": -1.1563
+      },
+      {
+        "word": "pain",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 1.661,
+        "end": 2.041,
+        "score": -0.8503
+      },
+      {
+        "word": "a",
+        "start_offset": 21,
+        "end_offset": 22,
+        "start": 4.883,
+        "end": 4.903,
+        "score": -2.1547
+      },
+      {
+        "word": "part",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 5.403,
+        "end": 5.683,
+        "score": -1.6813
+      },
+      {
+        "word": "of",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 5.803,
+        "end": 5.943,
+        "score": -1.8284
+      },
+      {
+        "word": "the",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 6.023,
+        "end": 6.123,
+        "score": -2.0697
+      },
+      {
+        "word": "end",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 6.323,
+        "end": 6.563,
+        "score": -1.3432
+      },
+      {
+        "word": "of",
+        "start_offset": 39,
+        "end_offset": 41,
+        "start": 7.564,
+        "end": 7.644,
+        "score": -2.9542
+      },
+      {
+        "word": "fourth",
+        "start_offset": 42,
+        "end_offset": 48,
+        "start": 7.684,
+        "end": 7.964,
+        "score": -2.3857
+      },
+      {
+        "word": "density?",
+        "start_offset": 49,
+        "end_offset": 57,
+        "start": 8.004,
+        "end": 8.444,
+        "score": -0.9434
+      },
+      {
+        "word": "I",
+        "start_offset": 58,
+        "end_offset": 59,
+        "start": 14.507,
+        "end": 14.527,
+        "score": -1.3259
+      },
+      {
+        "word": "am",
+        "start_offset": 60,
+        "end_offset": 62,
+        "start": 15.568,
+        "end": 15.908,
+        "score": -1.6444
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 63,
+        "end_offset": 66,
+        "start": 16.889,
+        "end": 17.029,
+        "score": -0.9699
+      },
+      {
+        "word": "You",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 19.03,
+        "end": 19.17,
+        "score": -0.8683
+      },
+      {
+        "word": "would",
+        "start_offset": 71,
+        "end_offset": 76,
+        "start": 20.19,
+        "end": 20.571,
+        "score": -0.952
+      },
+      {
+        "word": "call",
+        "start_offset": 77,
+        "end_offset": 81,
+        "start": 21.131,
+        "end": 21.691,
+        "score": -0.7128
+      },
+      {
+        "word": "this",
+        "start_offset": 82,
+        "end_offset": 86,
+        "start": 22.492,
+        "end": 22.912,
+        "score": -0.746
+      },
+      {
+        "word": "variety",
+        "start_offset": 87,
+        "end_offset": 94,
+        "start": 23.972,
+        "end": 25.173,
+        "score": -0.7787
+      },
+      {
+        "word": "of",
+        "start_offset": 95,
+        "end_offset": 97,
+        "start": 26.634,
+        "end": 26.974,
+        "score": -0.7863
+      },
+      {
+        "word": "pain",
+        "start_offset": 98,
+        "end_offset": 102,
+        "start": 27.794,
+        "end": 28.355,
+        "score": -0.8839
+      },
+      {
+        "word": "weariness.",
+        "start_offset": 103,
+        "end_offset": 113,
+        "start": 30.216,
+        "end": 31.616,
+        "score": -1.6477
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "043-10.mp3",
+    "audio_duration": 34.0376,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

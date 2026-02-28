@@ -1,0 +1,732 @@
+{
+  "text": "Considering only our Milky Way Galaxy: At its beginnings, I will assume that the first— was the first occurrence that we could find presently with our physical apparatus— was the first occurrence the appearance of a star of the nature of our sun? I am Ra. In the case of the galactic systems the first manifestation of the Logos is a cluster of central systems which generate the outward swirling energies producing, in their turn, further energy centers for the Logos or what you would call stars.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Considering only our Milky Way Galaxy: At its beginnings, I will assume that the first— was the first occurrence that we could find presently with our physical apparatus— was the first occurrence the appearance of a star of the nature of our sun?",
+        "start_offset": 0,
+        "end_offset": 246,
+        "start": 2.18,
+        "end": 41.664
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 247,
+        "end_offset": 255,
+        "start": 54.406,
+        "end": 56.686
+      },
+      {
+        "segment": "In the case of the galactic systems the first manifestation of the Logos is a cluster of central systems which generate the outward swirling energies producing, in their turn, further energy centers for the Logos or what you would call stars.",
+        "start_offset": 256,
+        "end_offset": 498,
+        "start": 59.326,
+        "end": 135.415
+      }
+    ],
+    "word": [
+      {
+        "word": "Considering",
+        "start_offset": 0,
+        "end_offset": 11,
+        "start": 2.18,
+        "end": 2.76,
+        "score": -2.246
+      },
+      {
+        "word": "only",
+        "start_offset": 12,
+        "end_offset": 16,
+        "start": 4.44,
+        "end": 4.66,
+        "score": -1.1605
+      },
+      {
+        "word": "our",
+        "start_offset": 17,
+        "end_offset": 20,
+        "start": 4.861,
+        "end": 5.061,
+        "score": -1.7783
+      },
+      {
+        "word": "Milky",
+        "start_offset": 21,
+        "end_offset": 26,
+        "start": 5.121,
+        "end": 5.441,
+        "score": -1.5621
+      },
+      {
+        "word": "Way",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 5.521,
+        "end": 5.701,
+        "score": -0.7878
+      },
+      {
+        "word": "Galaxy:",
+        "start_offset": 31,
+        "end_offset": 38,
+        "start": 5.781,
+        "end": 6.281,
+        "score": -0.8343
+      },
+      {
+        "word": "At",
+        "start_offset": 39,
+        "end_offset": 41,
+        "start": 9.961,
+        "end": 10.081,
+        "score": -1.648
+      },
+      {
+        "word": "its",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 10.121,
+        "end": 10.261,
+        "score": -1.5687
+      },
+      {
+        "word": "beginnings,",
+        "start_offset": 46,
+        "end_offset": 57,
+        "start": 10.341,
+        "end": 10.841,
+        "score": -2.0454
+      },
+      {
+        "word": "I",
+        "start_offset": 58,
+        "end_offset": 59,
+        "start": 13.281,
+        "end": 13.301,
+        "score": -6.2177
+      },
+      {
+        "word": "will",
+        "start_offset": 60,
+        "end_offset": 64,
+        "start": 13.321,
+        "end": 13.421,
+        "score": -6.055
+      },
+      {
+        "word": "assume",
+        "start_offset": 65,
+        "end_offset": 71,
+        "start": 13.441,
+        "end": 13.861,
+        "score": -2.3844
+      },
+      {
+        "word": "that",
+        "start_offset": 72,
+        "end_offset": 76,
+        "start": 13.881,
+        "end": 14.002,
+        "score": -4.8889
+      },
+      {
+        "word": "the",
+        "start_offset": 77,
+        "end_offset": 80,
+        "start": 14.062,
+        "end": 14.142,
+        "score": -3.7147
+      },
+      {
+        "word": "first—",
+        "start_offset": 81,
+        "end_offset": 87,
+        "start": 14.222,
+        "end": 14.602,
+        "score": -4.7004
+      },
+      {
+        "word": "was",
+        "start_offset": 88,
+        "end_offset": 91,
+        "start": 19.322,
+        "end": 19.482,
+        "score": -3.0842
+      },
+      {
+        "word": "the",
+        "start_offset": 92,
+        "end_offset": 95,
+        "start": 19.542,
+        "end": 19.642,
+        "score": -3.3634
+      },
+      {
+        "word": "first",
+        "start_offset": 96,
+        "end_offset": 101,
+        "start": 19.802,
+        "end": 20.222,
+        "score": -3.6171
+      },
+      {
+        "word": "occurrence",
+        "start_offset": 102,
+        "end_offset": 112,
+        "start": 23.463,
+        "end": 24.023,
+        "score": -6.6896
+      },
+      {
+        "word": "that",
+        "start_offset": 113,
+        "end_offset": 117,
+        "start": 26.063,
+        "end": 26.303,
+        "score": -1.7554
+      },
+      {
+        "word": "we",
+        "start_offset": 118,
+        "end_offset": 120,
+        "start": 26.403,
+        "end": 26.503,
+        "score": -1.7366
+      },
+      {
+        "word": "could",
+        "start_offset": 121,
+        "end_offset": 126,
+        "start": 26.923,
+        "end": 27.223,
+        "score": -1.6098
+      },
+      {
+        "word": "find",
+        "start_offset": 127,
+        "end_offset": 131,
+        "start": 28.843,
+        "end": 29.263,
+        "score": -2.317
+      },
+      {
+        "word": "presently",
+        "start_offset": 132,
+        "end_offset": 141,
+        "start": 29.363,
+        "end": 30.003,
+        "score": -1.7983
+      },
+      {
+        "word": "with",
+        "start_offset": 142,
+        "end_offset": 146,
+        "start": 30.303,
+        "end": 30.483,
+        "score": -2.5907
+      },
+      {
+        "word": "our",
+        "start_offset": 147,
+        "end_offset": 150,
+        "start": 30.563,
+        "end": 30.683,
+        "score": -2.8756
+      },
+      {
+        "word": "physical",
+        "start_offset": 151,
+        "end_offset": 159,
+        "start": 30.723,
+        "end": 31.123,
+        "score": -2.7712
+      },
+      {
+        "word": "apparatus—",
+        "start_offset": 160,
+        "end_offset": 170,
+        "start": 31.223,
+        "end": 31.743,
+        "score": -6.3376
+      },
+      {
+        "word": "was",
+        "start_offset": 171,
+        "end_offset": 174,
+        "start": 32.103,
+        "end": 32.263,
+        "score": -3.8882
+      },
+      {
+        "word": "the",
+        "start_offset": 175,
+        "end_offset": 178,
+        "start": 32.303,
+        "end": 32.383,
+        "score": -3.9253
+      },
+      {
+        "word": "first",
+        "start_offset": 179,
+        "end_offset": 184,
+        "start": 32.443,
+        "end": 32.744,
+        "score": -4.165
+      },
+      {
+        "word": "occurrence",
+        "start_offset": 185,
+        "end_offset": 195,
+        "start": 32.784,
+        "end": 33.304,
+        "score": -4.6521
+      },
+      {
+        "word": "the",
+        "start_offset": 196,
+        "end_offset": 199,
+        "start": 34.524,
+        "end": 34.644,
+        "score": -3.7451
+      },
+      {
+        "word": "appearance",
+        "start_offset": 200,
+        "end_offset": 210,
+        "start": 35.824,
+        "end": 36.404,
+        "score": -1.4175
+      },
+      {
+        "word": "of",
+        "start_offset": 211,
+        "end_offset": 213,
+        "start": 36.564,
+        "end": 36.824,
+        "score": -1.8375
+      },
+      {
+        "word": "a",
+        "start_offset": 214,
+        "end_offset": 215,
+        "start": 38.384,
+        "end": 38.404,
+        "score": -1.5881
+      },
+      {
+        "word": "star",
+        "start_offset": 216,
+        "end_offset": 220,
+        "start": 38.904,
+        "end": 39.284,
+        "score": -1.5394
+      },
+      {
+        "word": "of",
+        "start_offset": 221,
+        "end_offset": 223,
+        "start": 40.444,
+        "end": 40.504,
+        "score": -1.2149
+      },
+      {
+        "word": "the",
+        "start_offset": 224,
+        "end_offset": 227,
+        "start": 40.544,
+        "end": 40.624,
+        "score": -1.4737
+      },
+      {
+        "word": "nature",
+        "start_offset": 228,
+        "end_offset": 234,
+        "start": 40.664,
+        "end": 40.984,
+        "score": -1.3199
+      },
+      {
+        "word": "of",
+        "start_offset": 235,
+        "end_offset": 237,
+        "start": 41.004,
+        "end": 41.064,
+        "score": -1.4198
+      },
+      {
+        "word": "our",
+        "start_offset": 238,
+        "end_offset": 241,
+        "start": 41.144,
+        "end": 41.284,
+        "score": -1.5175
+      },
+      {
+        "word": "sun?",
+        "start_offset": 242,
+        "end_offset": 246,
+        "start": 41.364,
+        "end": 41.664,
+        "score": -3.4463
+      },
+      {
+        "word": "I",
+        "start_offset": 247,
+        "end_offset": 248,
+        "start": 54.406,
+        "end": 54.426,
+        "score": -1.2036
+      },
+      {
+        "word": "am",
+        "start_offset": 249,
+        "end_offset": 251,
+        "start": 55.086,
+        "end": 55.386,
+        "score": -2.3994
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 252,
+        "end_offset": 255,
+        "start": 56.566,
+        "end": 56.686,
+        "score": -2.1156
+      },
+      {
+        "word": "In",
+        "start_offset": 256,
+        "end_offset": 258,
+        "start": 59.326,
+        "end": 59.526,
+        "score": -0.734
+      },
+      {
+        "word": "the",
+        "start_offset": 259,
+        "end_offset": 262,
+        "start": 60.086,
+        "end": 60.226,
+        "score": -0.8609
+      },
+      {
+        "word": "case",
+        "start_offset": 263,
+        "end_offset": 267,
+        "start": 60.787,
+        "end": 61.407,
+        "score": -0.7343
+      },
+      {
+        "word": "of",
+        "start_offset": 268,
+        "end_offset": 270,
+        "start": 61.627,
+        "end": 62.007,
+        "score": -3.3897
+      },
+      {
+        "word": "the",
+        "start_offset": 271,
+        "end_offset": 274,
+        "start": 62.227,
+        "end": 62.367,
+        "score": -0.8179
+      },
+      {
+        "word": "galactic",
+        "start_offset": 275,
+        "end_offset": 283,
+        "start": 62.967,
+        "end": 63.967,
+        "score": -0.9959
+      },
+      {
+        "word": "systems",
+        "start_offset": 284,
+        "end_offset": 291,
+        "start": 64.367,
+        "end": 65.287,
+        "score": -0.7751
+      },
+      {
+        "word": "the",
+        "start_offset": 292,
+        "end_offset": 295,
+        "start": 68.967,
+        "end": 69.107,
+        "score": -0.7766
+      },
+      {
+        "word": "first",
+        "start_offset": 296,
+        "end_offset": 301,
+        "start": 69.747,
+        "end": 70.368,
+        "score": -0.7182
+      },
+      {
+        "word": "manifestation",
+        "start_offset": 302,
+        "end_offset": 315,
+        "start": 71.968,
+        "end": 74.188,
+        "score": -0.7099
+      },
+      {
+        "word": "of",
+        "start_offset": 316,
+        "end_offset": 318,
+        "start": 76.088,
+        "end": 76.388,
+        "score": -0.7031
+      },
+      {
+        "word": "the",
+        "start_offset": 319,
+        "end_offset": 322,
+        "start": 76.668,
+        "end": 76.828,
+        "score": -0.8313
+      },
+      {
+        "word": "Logos",
+        "start_offset": 323,
+        "end_offset": 328,
+        "start": 77.408,
+        "end": 78.328,
+        "score": -0.7264
+      },
+      {
+        "word": "is",
+        "start_offset": 329,
+        "end_offset": 331,
+        "start": 80.169,
+        "end": 80.649,
+        "score": -0.7053
+      },
+      {
+        "word": "a",
+        "start_offset": 332,
+        "end_offset": 333,
+        "start": 82.729,
+        "end": 82.749,
+        "score": -0.8319
+      },
+      {
+        "word": "cluster",
+        "start_offset": 334,
+        "end_offset": 341,
+        "start": 84.069,
+        "end": 84.929,
+        "score": -0.7324
+      },
+      {
+        "word": "of",
+        "start_offset": 342,
+        "end_offset": 344,
+        "start": 86.609,
+        "end": 87.049,
+        "score": -0.7331
+      },
+      {
+        "word": "central",
+        "start_offset": 345,
+        "end_offset": 352,
+        "start": 88.389,
+        "end": 89.39,
+        "score": -0.7719
+      },
+      {
+        "word": "systems",
+        "start_offset": 353,
+        "end_offset": 360,
+        "start": 91.21,
+        "end": 92.33,
+        "score": -0.7179
+      },
+      {
+        "word": "which",
+        "start_offset": 361,
+        "end_offset": 366,
+        "start": 93.81,
+        "end": 94.29,
+        "score": -0.7605
+      },
+      {
+        "word": "generate",
+        "start_offset": 367,
+        "end_offset": 375,
+        "start": 95.97,
+        "end": 97.79,
+        "score": -1.2544
+      },
+      {
+        "word": "the",
+        "start_offset": 376,
+        "end_offset": 379,
+        "start": 99.691,
+        "end": 99.851,
+        "score": -0.767
+      },
+      {
+        "word": "outward",
+        "start_offset": 380,
+        "end_offset": 387,
+        "start": 101.271,
+        "end": 102.171,
+        "score": -0.7111
+      },
+      {
+        "word": "swirling",
+        "start_offset": 388,
+        "end_offset": 396,
+        "start": 103.731,
+        "end": 105.131,
+        "score": -0.9914
+      },
+      {
+        "word": "energies",
+        "start_offset": 397,
+        "end_offset": 405,
+        "start": 106.671,
+        "end": 108.072,
+        "score": -0.7918
+      },
+      {
+        "word": "producing,",
+        "start_offset": 406,
+        "end_offset": 416,
+        "start": 109.452,
+        "end": 111.152,
+        "score": -1.9777
+      },
+      {
+        "word": "in",
+        "start_offset": 417,
+        "end_offset": 419,
+        "start": 112.392,
+        "end": 112.692,
+        "score": -5.879
+      },
+      {
+        "word": "their",
+        "start_offset": 420,
+        "end_offset": 425,
+        "start": 113.532,
+        "end": 113.992,
+        "score": -0.9545
+      },
+      {
+        "word": "turn,",
+        "start_offset": 426,
+        "end_offset": 431,
+        "start": 114.712,
+        "end": 115.332,
+        "score": -0.731
+      },
+      {
+        "word": "further",
+        "start_offset": 432,
+        "end_offset": 439,
+        "start": 116.793,
+        "end": 117.673,
+        "score": -0.7853
+      },
+      {
+        "word": "energy",
+        "start_offset": 440,
+        "end_offset": 446,
+        "start": 119.233,
+        "end": 120.053,
+        "score": -0.7311
+      },
+      {
+        "word": "centers",
+        "start_offset": 447,
+        "end_offset": 454,
+        "start": 121.453,
+        "end": 122.553,
+        "score": -0.7548
+      },
+      {
+        "word": "for",
+        "start_offset": 455,
+        "end_offset": 458,
+        "start": 123.753,
+        "end": 124.233,
+        "score": -0.7274
+      },
+      {
+        "word": "the",
+        "start_offset": 459,
+        "end_offset": 462,
+        "start": 124.653,
+        "end": 124.793,
+        "score": -2.8372
+      },
+      {
+        "word": "Logos",
+        "start_offset": 463,
+        "end_offset": 468,
+        "start": 125.453,
+        "end": 126.414,
+        "score": -0.7432
+      },
+      {
+        "word": "or",
+        "start_offset": 469,
+        "end_offset": 471,
+        "start": 128.554,
+        "end": 128.894,
+        "score": -0.733
+      },
+      {
+        "word": "what",
+        "start_offset": 472,
+        "end_offset": 476,
+        "start": 129.994,
+        "end": 130.314,
+        "score": -0.7472
+      },
+      {
+        "word": "you",
+        "start_offset": 477,
+        "end_offset": 480,
+        "start": 130.934,
+        "end": 131.054,
+        "score": -4.9915
+      },
+      {
+        "word": "would",
+        "start_offset": 481,
+        "end_offset": 486,
+        "start": 131.674,
+        "end": 131.994,
+        "score": -2.9674
+      },
+      {
+        "word": "call",
+        "start_offset": 487,
+        "end_offset": 491,
+        "start": 132.874,
+        "end": 133.414,
+        "score": -0.7396
+      },
+      {
+        "word": "stars.",
+        "start_offset": 492,
+        "end_offset": 498,
+        "start": 134.454,
+        "end": 135.415,
+        "score": -0.7214
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "082-08.mp3",
+    "audio_duration": 141.0351,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

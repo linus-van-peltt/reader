@@ -1,0 +1,513 @@
+{
+  "text": "Am I to understand that the harvest will occur in the year 2011, or will it be spread? I am Ra. This is an approximation. We have stated we have difficulty with your time/space. This is an appropriate probable/possible time/space nexus for harvest. Those who are not in incarnation at this time will be included in the harvest.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Am I to understand that the harvest will occur in the year or will it be spread?",
+        "start_offset": 0,
+        "end_offset": 86,
+        "start": 1.66,
+        "end": 17.005
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 87,
+        "end_offset": 95,
+        "start": 17.025,
+        "end": 17.285
+      },
+      {
+        "segment": "This is an approximation.",
+        "start_offset": 96,
+        "end_offset": 121,
+        "start": 18.585,
+        "end": 22.146
+      },
+      {
+        "segment": "We have stated we have difficulty with your time/space.",
+        "start_offset": 122,
+        "end_offset": 177,
+        "start": 23.307,
+        "end": 31.509
+      },
+      {
+        "segment": "This is an appropriate probable/possible time/space nexus for harvest.",
+        "start_offset": 178,
+        "end_offset": 248,
+        "start": 32.389,
+        "end": 43.932
+      },
+      {
+        "segment": "Those who are not in incarnation at this time will be included in the harvest.",
+        "start_offset": 249,
+        "end_offset": 327,
+        "start": 45.093,
+        "end": 56.776
+      }
+    ],
+    "word": [
+      {
+        "word": "Am",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 1.66,
+        "end": 1.76,
+        "score": -4.047
+      },
+      {
+        "word": "I",
+        "start_offset": 3,
+        "end_offset": 4,
+        "start": 1.921,
+        "end": 1.941,
+        "score": -4.825
+      },
+      {
+        "word": "to",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 2.001,
+        "end": 2.081,
+        "score": -5.9062
+      },
+      {
+        "word": "understand",
+        "start_offset": 8,
+        "end_offset": 18,
+        "start": 2.201,
+        "end": 2.881,
+        "score": -4.8941
+      },
+      {
+        "word": "that",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 2.961,
+        "end": 3.181,
+        "score": -8.1952
+      },
+      {
+        "word": "the",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 3.461,
+        "end": 3.541,
+        "score": -4.7541
+      },
+      {
+        "word": "harvest",
+        "start_offset": 28,
+        "end_offset": 35,
+        "start": 3.681,
+        "end": 4.141,
+        "score": -5.5663
+      },
+      {
+        "word": "will",
+        "start_offset": 36,
+        "end_offset": 40,
+        "start": 4.501,
+        "end": 6.442,
+        "score": -8.3347
+      },
+      {
+        "word": "occur",
+        "start_offset": 41,
+        "end_offset": 46,
+        "start": 6.462,
+        "end": 7.262,
+        "score": -8.3586
+      },
+      {
+        "word": "in",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 14.824,
+        "end": 15.804,
+        "score": -1.6648
+      },
+      {
+        "word": "the",
+        "start_offset": 50,
+        "end_offset": 53,
+        "start": 15.824,
+        "end": 16.365,
+        "score": -7.4266
+      },
+      {
+        "word": "year",
+        "start_offset": 54,
+        "end_offset": 58,
+        "start": 16.385,
+        "end": 16.505,
+        "score": -5.2347
+      },
+      {
+        "word": "or",
+        "start_offset": 65,
+        "end_offset": 67,
+        "start": 16.545,
+        "end": 16.585,
+        "score": -7.8115
+      },
+      {
+        "word": "will",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 16.605,
+        "end": 16.705,
+        "score": -5.7842
+      },
+      {
+        "word": "it",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 16.725,
+        "end": 16.765,
+        "score": -6.335
+      },
+      {
+        "word": "be",
+        "start_offset": 76,
+        "end_offset": 78,
+        "start": 16.785,
+        "end": 16.825,
+        "score": -5.9907
+      },
+      {
+        "word": "spread?",
+        "start_offset": 79,
+        "end_offset": 86,
+        "start": 16.845,
+        "end": 17.005,
+        "score": -7.1313
+      },
+      {
+        "word": "I",
+        "start_offset": 87,
+        "end_offset": 88,
+        "start": 17.025,
+        "end": 17.045,
+        "score": -8.6172
+      },
+      {
+        "word": "am",
+        "start_offset": 89,
+        "end_offset": 91,
+        "start": 17.085,
+        "end": 17.145,
+        "score": -7.9135
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 92,
+        "end_offset": 95,
+        "start": 17.225,
+        "end": 17.285,
+        "score": -7.7666
+      },
+      {
+        "word": "This",
+        "start_offset": 96,
+        "end_offset": 100,
+        "start": 18.585,
+        "end": 18.905,
+        "score": -0.7695
+      },
+      {
+        "word": "is",
+        "start_offset": 101,
+        "end_offset": 103,
+        "start": 19.426,
+        "end": 19.706,
+        "score": -0.8085
+      },
+      {
+        "word": "an",
+        "start_offset": 104,
+        "end_offset": 106,
+        "start": 20.146,
+        "end": 20.346,
+        "score": -1.0293
+      },
+      {
+        "word": "approximation.",
+        "start_offset": 107,
+        "end_offset": 121,
+        "start": 20.726,
+        "end": 22.146,
+        "score": -0.7386
+      },
+      {
+        "word": "We",
+        "start_offset": 122,
+        "end_offset": 124,
+        "start": 23.307,
+        "end": 23.427,
+        "score": -0.77
+      },
+      {
+        "word": "have",
+        "start_offset": 125,
+        "end_offset": 129,
+        "start": 23.787,
+        "end": 24.107,
+        "score": -0.8202
+      },
+      {
+        "word": "stated",
+        "start_offset": 130,
+        "end_offset": 136,
+        "start": 24.287,
+        "end": 24.927,
+        "score": -0.7007
+      },
+      {
+        "word": "we",
+        "start_offset": 137,
+        "end_offset": 139,
+        "start": 25.647,
+        "end": 25.787,
+        "score": -0.8868
+      },
+      {
+        "word": "have",
+        "start_offset": 140,
+        "end_offset": 144,
+        "start": 26.448,
+        "end": 26.768,
+        "score": -0.7662
+      },
+      {
+        "word": "difficulty",
+        "start_offset": 145,
+        "end_offset": 155,
+        "start": 27.128,
+        "end": 28.048,
+        "score": -0.9308
+      },
+      {
+        "word": "with",
+        "start_offset": 156,
+        "end_offset": 160,
+        "start": 29.148,
+        "end": 29.448,
+        "score": -0.919
+      },
+      {
+        "word": "your",
+        "start_offset": 161,
+        "end_offset": 165,
+        "start": 29.828,
+        "end": 30.069,
+        "score": -1.8386
+      },
+      {
+        "word": "time/space.",
+        "start_offset": 166,
+        "end_offset": 177,
+        "start": 30.389,
+        "end": 31.509,
+        "score": -0.7157
+      },
+      {
+        "word": "This",
+        "start_offset": 178,
+        "end_offset": 182,
+        "start": 32.389,
+        "end": 32.689,
+        "score": -1.063
+      },
+      {
+        "word": "is",
+        "start_offset": 183,
+        "end_offset": 185,
+        "start": 33.129,
+        "end": 33.389,
+        "score": -1.1563
+      },
+      {
+        "word": "an",
+        "start_offset": 186,
+        "end_offset": 188,
+        "start": 34.99,
+        "end": 35.17,
+        "score": -0.7441
+      },
+      {
+        "word": "appropriate",
+        "start_offset": 189,
+        "end_offset": 200,
+        "start": 35.49,
+        "end": 36.55,
+        "score": -0.9874
+      },
+      {
+        "word": "probable/possible",
+        "start_offset": 201,
+        "end_offset": 218,
+        "start": 37.371,
+        "end": 39.111,
+        "score": -0.7133
+      },
+      {
+        "word": "time/space",
+        "start_offset": 219,
+        "end_offset": 229,
+        "start": 39.791,
+        "end": 40.932,
+        "score": -0.7085
+      },
+      {
+        "word": "nexus",
+        "start_offset": 230,
+        "end_offset": 235,
+        "start": 41.232,
+        "end": 41.732,
+        "score": -1.5689
+      },
+      {
+        "word": "for",
+        "start_offset": 236,
+        "end_offset": 239,
+        "start": 42.512,
+        "end": 42.752,
+        "score": -0.7151
+      },
+      {
+        "word": "harvest.",
+        "start_offset": 240,
+        "end_offset": 248,
+        "start": 43.192,
+        "end": 43.932,
+        "score": -0.8284
+      },
+      {
+        "word": "Those",
+        "start_offset": 249,
+        "end_offset": 254,
+        "start": 45.093,
+        "end": 45.553,
+        "score": -0.7396
+      },
+      {
+        "word": "who",
+        "start_offset": 255,
+        "end_offset": 258,
+        "start": 46.113,
+        "end": 46.233,
+        "score": -0.6985
+      },
+      {
+        "word": "are",
+        "start_offset": 259,
+        "end_offset": 262,
+        "start": 46.873,
+        "end": 47.073,
+        "score": -0.7087
+      },
+      {
+        "word": "not",
+        "start_offset": 263,
+        "end_offset": 266,
+        "start": 47.353,
+        "end": 47.614,
+        "score": -0.6954
+      },
+      {
+        "word": "in",
+        "start_offset": 267,
+        "end_offset": 269,
+        "start": 47.894,
+        "end": 48.014,
+        "score": -0.7043
+      },
+      {
+        "word": "incarnation",
+        "start_offset": 270,
+        "end_offset": 281,
+        "start": 48.314,
+        "end": 49.354,
+        "score": -0.7404
+      },
+      {
+        "word": "at",
+        "start_offset": 282,
+        "end_offset": 284,
+        "start": 50.114,
+        "end": 50.254,
+        "score": -0.7085
+      },
+      {
+        "word": "this",
+        "start_offset": 285,
+        "end_offset": 289,
+        "start": 50.494,
+        "end": 50.754,
+        "score": -0.8005
+      },
+      {
+        "word": "time",
+        "start_offset": 290,
+        "end_offset": 294,
+        "start": 50.874,
+        "end": 51.355,
+        "score": -0.7523
+      },
+      {
+        "word": "will",
+        "start_offset": 295,
+        "end_offset": 299,
+        "start": 52.195,
+        "end": 52.455,
+        "score": -0.72
+      },
+      {
+        "word": "be",
+        "start_offset": 300,
+        "end_offset": 302,
+        "start": 52.875,
+        "end": 52.995,
+        "score": -0.7068
+      },
+      {
+        "word": "included",
+        "start_offset": 303,
+        "end_offset": 311,
+        "start": 53.355,
+        "end": 54.295,
+        "score": -0.7702
+      },
+      {
+        "word": "in",
+        "start_offset": 312,
+        "end_offset": 314,
+        "start": 55.036,
+        "end": 55.196,
+        "score": -0.7138
+      },
+      {
+        "word": "the",
+        "start_offset": 315,
+        "end_offset": 318,
+        "start": 55.576,
+        "end": 55.696,
+        "score": -0.8037
+      },
+      {
+        "word": "harvest.",
+        "start_offset": 319,
+        "end_offset": 327,
+        "start": 56.056,
+        "end": 56.776,
+        "score": -0.8675
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "017-29.mp3",
+    "audio_duration": 59.0367,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

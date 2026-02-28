@@ -1,0 +1,196 @@
+{
+  "text": "Does the cat Fairchild have any of this same type of problem? I am Ra. Not at this space/time nexus.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Does the cat Fairchild have any of this same type of problem?",
+        "start_offset": 0,
+        "end_offset": 61,
+        "start": 2.561,
+        "end": 6.863
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 62,
+        "end_offset": 70,
+        "start": 10.365,
+        "end": 12.986
+      },
+      {
+        "segment": "Not at this space/time nexus.",
+        "start_offset": 71,
+        "end_offset": 100,
+        "start": 20.949,
+        "end": 27.212
+      }
+    ],
+    "word": [
+      {
+        "word": "Does",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.561,
+        "end": 2.721,
+        "score": -3.6643
+      },
+      {
+        "word": "the",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 3.241,
+        "end": 3.321,
+        "score": -3.2484
+      },
+      {
+        "word": "cat",
+        "start_offset": 9,
+        "end_offset": 12,
+        "start": 3.381,
+        "end": 3.602,
+        "score": -1.8771
+      },
+      {
+        "word": "Fairchild",
+        "start_offset": 13,
+        "end_offset": 22,
+        "start": 3.662,
+        "end": 4.202,
+        "score": -2.2375
+      },
+      {
+        "word": "have",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 4.242,
+        "end": 4.442,
+        "score": -1.718
+      },
+      {
+        "word": "any",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 5.422,
+        "end": 5.602,
+        "score": -1.8918
+      },
+      {
+        "word": "of",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 5.622,
+        "end": 5.662,
+        "score": -5.5358
+      },
+      {
+        "word": "this",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 5.682,
+        "end": 5.823,
+        "score": -2.7611
+      },
+      {
+        "word": "same",
+        "start_offset": 40,
+        "end_offset": 44,
+        "start": 5.903,
+        "end": 6.123,
+        "score": -2.9504
+      },
+      {
+        "word": "type",
+        "start_offset": 45,
+        "end_offset": 49,
+        "start": 6.163,
+        "end": 6.403,
+        "score": -1.9459
+      },
+      {
+        "word": "of",
+        "start_offset": 50,
+        "end_offset": 52,
+        "start": 6.423,
+        "end": 6.463,
+        "score": -6.3435
+      },
+      {
+        "word": "problem?",
+        "start_offset": 53,
+        "end_offset": 61,
+        "start": 6.483,
+        "end": 6.863,
+        "score": -2.6877
+      },
+      {
+        "word": "I",
+        "start_offset": 62,
+        "end_offset": 63,
+        "start": 10.365,
+        "end": 10.385,
+        "score": -3.6289
+      },
+      {
+        "word": "am",
+        "start_offset": 64,
+        "end_offset": 66,
+        "start": 11.305,
+        "end": 11.525,
+        "score": -5.387
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 12.906,
+        "end": 12.986,
+        "score": -6.4324
+      },
+      {
+        "word": "Not",
+        "start_offset": 71,
+        "end_offset": 74,
+        "start": 20.949,
+        "end": 21.289,
+        "score": -0.8312
+      },
+      {
+        "word": "at",
+        "start_offset": 75,
+        "end_offset": 77,
+        "start": 22.01,
+        "end": 22.25,
+        "score": -1.907
+      },
+      {
+        "word": "this",
+        "start_offset": 78,
+        "end_offset": 82,
+        "start": 23.29,
+        "end": 23.59,
+        "score": -1.6885
+      },
+      {
+        "word": "space/time",
+        "start_offset": 83,
+        "end_offset": 93,
+        "start": 24.391,
+        "end": 25.951,
+        "score": -1.0434
+      },
+      {
+        "word": "nexus.",
+        "start_offset": 94,
+        "end_offset": 100,
+        "start": 26.592,
+        "end": 27.212,
+        "score": -1.8022
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "098-13.mp3",
+    "audio_duration": 31.0335,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

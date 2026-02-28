@@ -1,0 +1,587 @@
+{
+  "text": "Let's take as an example the planet that we are on now and tell me how much of the creation was created by the same Logos that created this planet? I am Ra. This planetary Logos is a strong Logos creating approximately two hundred fifty billion 250, 000, 000, 000 of your star systems for Its creation. The, shall we say, laws or physical ways of this creation will remain, therefore, constant.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Let's take as an example the planet that we are on now and tell me how much of the creation was created by the same Logos that created this planet?",
+        "start_offset": 0,
+        "end_offset": 147,
+        "start": 2.46,
+        "end": 22.222
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 148,
+        "end_offset": 156,
+        "start": 28.323,
+        "end": 30.963
+      },
+      {
+        "segment": "This planetary Logos is a strong Logos creating approximately two hundred fifty billion of your star systems for Its creation.",
+        "start_offset": 157,
+        "end_offset": 302,
+        "start": 33.043,
+        "end": 73.088
+      },
+      {
+        "segment": "The, shall we say, laws or physical ways of this creation will remain, therefore, constant.",
+        "start_offset": 303,
+        "end_offset": 394,
+        "start": 74.768,
+        "end": 98.15
+      }
+    ],
+    "word": [
+      {
+        "word": "Let's",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.46,
+        "end": 2.68,
+        "score": -2.8599
+      },
+      {
+        "word": "take",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 2.74,
+        "end": 2.98,
+        "score": -1.6746
+      },
+      {
+        "word": "as",
+        "start_offset": 11,
+        "end_offset": 13,
+        "start": 3.04,
+        "end": 3.12,
+        "score": -2.7147
+      },
+      {
+        "word": "an",
+        "start_offset": 14,
+        "end_offset": 16,
+        "start": 3.16,
+        "end": 3.22,
+        "score": -1.9515
+      },
+      {
+        "word": "example",
+        "start_offset": 17,
+        "end_offset": 24,
+        "start": 3.28,
+        "end": 5.801,
+        "score": -2.7225
+      },
+      {
+        "word": "the",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 7.741,
+        "end": 7.841,
+        "score": -2.8959
+      },
+      {
+        "word": "planet",
+        "start_offset": 29,
+        "end_offset": 35,
+        "start": 7.941,
+        "end": 8.401,
+        "score": -3.7442
+      },
+      {
+        "word": "that",
+        "start_offset": 36,
+        "end_offset": 40,
+        "start": 9.101,
+        "end": 9.241,
+        "score": -3.7415
+      },
+      {
+        "word": "we",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 9.301,
+        "end": 9.381,
+        "score": -3.1473
+      },
+      {
+        "word": "are",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 9.461,
+        "end": 9.561,
+        "score": -2.799
+      },
+      {
+        "word": "on",
+        "start_offset": 48,
+        "end_offset": 50,
+        "start": 9.621,
+        "end": 9.661,
+        "score": -4.6694
+      },
+      {
+        "word": "now",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 9.721,
+        "end": 9.821,
+        "score": -3.3585
+      },
+      {
+        "word": "and",
+        "start_offset": 55,
+        "end_offset": 58,
+        "start": 11.981,
+        "end": 12.121,
+        "score": -0.8905
+      },
+      {
+        "word": "tell",
+        "start_offset": 59,
+        "end_offset": 63,
+        "start": 12.201,
+        "end": 12.441,
+        "score": -0.7681
+      },
+      {
+        "word": "me",
+        "start_offset": 64,
+        "end_offset": 66,
+        "start": 12.501,
+        "end": 12.601,
+        "score": -0.7681
+      },
+      {
+        "word": "how",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 14.582,
+        "end": 14.802,
+        "score": -0.7371
+      },
+      {
+        "word": "much",
+        "start_offset": 71,
+        "end_offset": 75,
+        "start": 14.942,
+        "end": 15.242,
+        "score": -0.7037
+      },
+      {
+        "word": "of",
+        "start_offset": 76,
+        "end_offset": 78,
+        "start": 15.362,
+        "end": 15.442,
+        "score": -0.7174
+      },
+      {
+        "word": "the",
+        "start_offset": 79,
+        "end_offset": 82,
+        "start": 15.482,
+        "end": 15.562,
+        "score": -0.8437
+      },
+      {
+        "word": "creation",
+        "start_offset": 83,
+        "end_offset": 91,
+        "start": 15.622,
+        "end": 16.262,
+        "score": -1.3215
+      },
+      {
+        "word": "was",
+        "start_offset": 92,
+        "end_offset": 95,
+        "start": 16.622,
+        "end": 16.782,
+        "score": -2.5021
+      },
+      {
+        "word": "created",
+        "start_offset": 96,
+        "end_offset": 103,
+        "start": 16.842,
+        "end": 17.342,
+        "score": -1.1192
+      },
+      {
+        "word": "by",
+        "start_offset": 104,
+        "end_offset": 106,
+        "start": 17.402,
+        "end": 17.662,
+        "score": -0.9325
+      },
+      {
+        "word": "the",
+        "start_offset": 107,
+        "end_offset": 110,
+        "start": 18.162,
+        "end": 18.262,
+        "score": -0.9846
+      },
+      {
+        "word": "same",
+        "start_offset": 111,
+        "end_offset": 115,
+        "start": 18.422,
+        "end": 18.742,
+        "score": -0.9494
+      },
+      {
+        "word": "Logos",
+        "start_offset": 116,
+        "end_offset": 121,
+        "start": 18.822,
+        "end": 19.422,
+        "score": -2.0854
+      },
+      {
+        "word": "that",
+        "start_offset": 122,
+        "end_offset": 126,
+        "start": 20.822,
+        "end": 20.942,
+        "score": -2.6859
+      },
+      {
+        "word": "created",
+        "start_offset": 127,
+        "end_offset": 134,
+        "start": 20.982,
+        "end": 21.482,
+        "score": -1.557
+      },
+      {
+        "word": "this",
+        "start_offset": 135,
+        "end_offset": 139,
+        "start": 21.542,
+        "end": 21.702,
+        "score": -1.3452
+      },
+      {
+        "word": "planet?",
+        "start_offset": 140,
+        "end_offset": 147,
+        "start": 21.782,
+        "end": 22.222,
+        "score": -0.9669
+      },
+      {
+        "word": "I",
+        "start_offset": 148,
+        "end_offset": 149,
+        "start": 28.323,
+        "end": 28.343,
+        "score": -1.0024
+      },
+      {
+        "word": "am",
+        "start_offset": 150,
+        "end_offset": 152,
+        "start": 29.243,
+        "end": 29.643,
+        "score": -3.3997
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 153,
+        "end_offset": 156,
+        "start": 30.783,
+        "end": 30.963,
+        "score": -1.1242
+      },
+      {
+        "word": "This",
+        "start_offset": 157,
+        "end_offset": 161,
+        "start": 33.043,
+        "end": 33.503,
+        "score": -1.5954
+      },
+      {
+        "word": "planetary",
+        "start_offset": 162,
+        "end_offset": 171,
+        "start": 35.344,
+        "end": 36.664,
+        "score": -0.8685
+      },
+      {
+        "word": "Logos",
+        "start_offset": 172,
+        "end_offset": 177,
+        "start": 38.104,
+        "end": 39.064,
+        "score": -0.7778
+      },
+      {
+        "word": "is",
+        "start_offset": 178,
+        "end_offset": 180,
+        "start": 40.584,
+        "end": 40.964,
+        "score": -0.8541
+      },
+      {
+        "word": "a",
+        "start_offset": 181,
+        "end_offset": 182,
+        "start": 43.565,
+        "end": 43.585,
+        "score": -0.9138
+      },
+      {
+        "word": "strong",
+        "start_offset": 183,
+        "end_offset": 189,
+        "start": 43.725,
+        "end": 44.425,
+        "score": -0.7277
+      },
+      {
+        "word": "Logos",
+        "start_offset": 190,
+        "end_offset": 195,
+        "start": 45.845,
+        "end": 46.745,
+        "score": -0.7332
+      },
+      {
+        "word": "creating",
+        "start_offset": 196,
+        "end_offset": 204,
+        "start": 48.185,
+        "end": 49.725,
+        "score": -0.7695
+      },
+      {
+        "word": "approximately",
+        "start_offset": 205,
+        "end_offset": 218,
+        "start": 51.265,
+        "end": 53.326,
+        "score": -0.8019
+      },
+      {
+        "word": "two",
+        "start_offset": 219,
+        "end_offset": 222,
+        "start": 55.106,
+        "end": 55.406,
+        "score": -1.602
+      },
+      {
+        "word": "hundred",
+        "start_offset": 223,
+        "end_offset": 230,
+        "start": 56.406,
+        "end": 57.306,
+        "score": -4.6522
+      },
+      {
+        "word": "fifty",
+        "start_offset": 231,
+        "end_offset": 236,
+        "start": 58.626,
+        "end": 59.446,
+        "score": -3.5842
+      },
+      {
+        "word": "billion",
+        "start_offset": 237,
+        "end_offset": 244,
+        "start": 60.826,
+        "end": 61.606,
+        "score": -1.0783
+      },
+      {
+        "word": "of",
+        "start_offset": 264,
+        "end_offset": 266,
+        "start": 63.007,
+        "end": 63.387,
+        "score": -0.748
+      },
+      {
+        "word": "your",
+        "start_offset": 267,
+        "end_offset": 271,
+        "start": 63.947,
+        "end": 64.407,
+        "score": -1.9047
+      },
+      {
+        "word": "star",
+        "start_offset": 272,
+        "end_offset": 276,
+        "start": 65.567,
+        "end": 66.267,
+        "score": -0.7061
+      },
+      {
+        "word": "systems",
+        "start_offset": 277,
+        "end_offset": 284,
+        "start": 67.167,
+        "end": 68.187,
+        "score": -0.7073
+      },
+      {
+        "word": "for",
+        "start_offset": 285,
+        "end_offset": 288,
+        "start": 69.107,
+        "end": 69.567,
+        "score": -0.7829
+      },
+      {
+        "word": "Its",
+        "start_offset": 289,
+        "end_offset": 292,
+        "start": 70.647,
+        "end": 71.027,
+        "score": -0.8039
+      },
+      {
+        "word": "creation.",
+        "start_offset": 293,
+        "end_offset": 302,
+        "start": 71.887,
+        "end": 73.088,
+        "score": -0.7643
+      },
+      {
+        "word": "The,",
+        "start_offset": 303,
+        "end_offset": 307,
+        "start": 74.768,
+        "end": 74.928,
+        "score": -0.7628
+      },
+      {
+        "word": "shall",
+        "start_offset": 308,
+        "end_offset": 313,
+        "start": 76.568,
+        "end": 77.048,
+        "score": -0.7692
+      },
+      {
+        "word": "we",
+        "start_offset": 314,
+        "end_offset": 316,
+        "start": 77.328,
+        "end": 77.488,
+        "score": -0.7072
+      },
+      {
+        "word": "say,",
+        "start_offset": 317,
+        "end_offset": 321,
+        "start": 77.908,
+        "end": 78.308,
+        "score": -0.8896
+      },
+      {
+        "word": "laws",
+        "start_offset": 322,
+        "end_offset": 326,
+        "start": 79.768,
+        "end": 80.488,
+        "score": -1.0107
+      },
+      {
+        "word": "or",
+        "start_offset": 327,
+        "end_offset": 329,
+        "start": 81.328,
+        "end": 81.648,
+        "score": -0.7141
+      },
+      {
+        "word": "physical",
+        "start_offset": 330,
+        "end_offset": 338,
+        "start": 83.289,
+        "end": 84.309,
+        "score": -0.7326
+      },
+      {
+        "word": "ways",
+        "start_offset": 339,
+        "end_offset": 343,
+        "start": 84.949,
+        "end": 85.729,
+        "score": -1.1753
+      },
+      {
+        "word": "of",
+        "start_offset": 344,
+        "end_offset": 346,
+        "start": 87.109,
+        "end": 87.369,
+        "score": -6.2456
+      },
+      {
+        "word": "this",
+        "start_offset": 347,
+        "end_offset": 351,
+        "start": 87.749,
+        "end": 88.249,
+        "score": -0.7084
+      },
+      {
+        "word": "creation",
+        "start_offset": 352,
+        "end_offset": 360,
+        "start": 88.889,
+        "end": 90.489,
+        "score": -0.7437
+      },
+      {
+        "word": "will",
+        "start_offset": 361,
+        "end_offset": 365,
+        "start": 91.99,
+        "end": 92.37,
+        "score": -1.0428
+      },
+      {
+        "word": "remain,",
+        "start_offset": 366,
+        "end_offset": 373,
+        "start": 92.87,
+        "end": 93.69,
+        "score": -0.7262
+      },
+      {
+        "word": "therefore,",
+        "start_offset": 374,
+        "end_offset": 384,
+        "start": 94.65,
+        "end": 95.95,
+        "score": -0.8037
+      },
+      {
+        "word": "constant.",
+        "start_offset": 385,
+        "end_offset": 394,
+        "start": 96.81,
+        "end": 98.15,
+        "score": -0.71
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "028-08.mp3",
+    "audio_duration": 99.0302,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

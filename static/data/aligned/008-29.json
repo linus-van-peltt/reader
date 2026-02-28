@@ -1,0 +1,682 @@
+{
+  "text": "Why do we have a plant in Mexico? I am Ra. The necessity is both for dryness of the ground and for a near total lack of population. Therefore, your so-called government and the so-called government of your neighboring geographical vicinity arranged for an underground installation. The government officials who agreed did not know the use to which their land would be put, but thought it a governmental research installation for use in what you would call bacteriological warfare.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Why do we have a plant in Mexico?",
+        "start_offset": 0,
+        "end_offset": 33,
+        "start": 3.0,
+        "end": 10.461
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 34,
+        "end_offset": 42,
+        "start": 10.581,
+        "end": 10.781
+      },
+      {
+        "segment": "The necessity is both for dryness of the ground and for a near total lack of population.",
+        "start_offset": 43,
+        "end_offset": 131,
+        "start": 12.421,
+        "end": 41.683
+      },
+      {
+        "segment": "Therefore, your so-called government and the so-called government of your neighboring geographical vicinity arranged for an underground installation.",
+        "start_offset": 132,
+        "end_offset": 281,
+        "start": 42.883,
+        "end": 79.566
+      },
+      {
+        "segment": "The government officials who agreed did not know the use to which their land would be put, but thought it a governmental research installation for use in what you would call bacteriological warfare.",
+        "start_offset": 282,
+        "end_offset": 480,
+        "start": 80.966,
+        "end": 138.51
+      }
+    ],
+    "word": [
+      {
+        "word": "Why",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 3.0,
+        "end": 3.06,
+        "score": -6.5479
+      },
+      {
+        "word": "do",
+        "start_offset": 4,
+        "end_offset": 6,
+        "start": 6.1,
+        "end": 6.14,
+        "score": -6.5156
+      },
+      {
+        "word": "we",
+        "start_offset": 7,
+        "end_offset": 9,
+        "start": 6.16,
+        "end": 6.2,
+        "score": -8.3164
+      },
+      {
+        "word": "have",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 7.821,
+        "end": 8.181,
+        "score": -6.8179
+      },
+      {
+        "word": "a",
+        "start_offset": 15,
+        "end_offset": 16,
+        "start": 8.201,
+        "end": 8.221,
+        "score": -8.6279
+      },
+      {
+        "word": "plant",
+        "start_offset": 17,
+        "end_offset": 22,
+        "start": 8.961,
+        "end": 9.121,
+        "score": -6.7528
+      },
+      {
+        "word": "in",
+        "start_offset": 23,
+        "end_offset": 25,
+        "start": 9.141,
+        "end": 9.221,
+        "score": -4.431
+      },
+      {
+        "word": "Mexico?",
+        "start_offset": 26,
+        "end_offset": 33,
+        "start": 9.241,
+        "end": 10.461,
+        "score": -7.2714
+      },
+      {
+        "word": "I",
+        "start_offset": 34,
+        "end_offset": 35,
+        "start": 10.581,
+        "end": 10.601,
+        "score": -4.2113
+      },
+      {
+        "word": "am",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 10.621,
+        "end": 10.661,
+        "score": -8.3126
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 10.721,
+        "end": 10.781,
+        "score": -7.1695
+      },
+      {
+        "word": "The",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 12.421,
+        "end": 12.581,
+        "score": -0.8148
+      },
+      {
+        "word": "necessity",
+        "start_offset": 47,
+        "end_offset": 56,
+        "start": 13.721,
+        "end": 14.821,
+        "score": -0.701
+      },
+      {
+        "word": "is",
+        "start_offset": 57,
+        "end_offset": 59,
+        "start": 16.261,
+        "end": 16.581,
+        "score": -0.7044
+      },
+      {
+        "word": "both",
+        "start_offset": 60,
+        "end_offset": 64,
+        "start": 17.301,
+        "end": 17.661,
+        "score": -0.746
+      },
+      {
+        "word": "for",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 18.661,
+        "end": 19.021,
+        "score": -0.8482
+      },
+      {
+        "word": "dryness",
+        "start_offset": 69,
+        "end_offset": 76,
+        "start": 20.261,
+        "end": 21.802,
+        "score": -0.9633
+      },
+      {
+        "word": "of",
+        "start_offset": 77,
+        "end_offset": 79,
+        "start": 22.922,
+        "end": 23.242,
+        "score": -0.7537
+      },
+      {
+        "word": "the",
+        "start_offset": 80,
+        "end_offset": 83,
+        "start": 24.942,
+        "end": 25.082,
+        "score": -0.7429
+      },
+      {
+        "word": "ground",
+        "start_offset": 84,
+        "end_offset": 90,
+        "start": 26.642,
+        "end": 27.582,
+        "score": -0.7099
+      },
+      {
+        "word": "and",
+        "start_offset": 91,
+        "end_offset": 94,
+        "start": 28.682,
+        "end": 29.062,
+        "score": -0.856
+      },
+      {
+        "word": "for",
+        "start_offset": 95,
+        "end_offset": 98,
+        "start": 30.342,
+        "end": 30.702,
+        "score": -1.6271
+      },
+      {
+        "word": "a",
+        "start_offset": 99,
+        "end_offset": 100,
+        "start": 32.242,
+        "end": 32.262,
+        "score": -0.7484
+      },
+      {
+        "word": "near",
+        "start_offset": 101,
+        "end_offset": 105,
+        "start": 33.382,
+        "end": 33.742,
+        "score": -0.8564
+      },
+      {
+        "word": "total",
+        "start_offset": 106,
+        "end_offset": 111,
+        "start": 34.602,
+        "end": 35.302,
+        "score": -0.8014
+      },
+      {
+        "word": "lack",
+        "start_offset": 112,
+        "end_offset": 116,
+        "start": 36.303,
+        "end": 36.763,
+        "score": -0.8321
+      },
+      {
+        "word": "of",
+        "start_offset": 117,
+        "end_offset": 119,
+        "start": 37.783,
+        "end": 38.083,
+        "score": -0.7163
+      },
+      {
+        "word": "population.",
+        "start_offset": 120,
+        "end_offset": 131,
+        "start": 39.323,
+        "end": 41.683,
+        "score": -1.1422
+      },
+      {
+        "word": "Therefore,",
+        "start_offset": 132,
+        "end_offset": 142,
+        "start": 42.883,
+        "end": 44.343,
+        "score": -1.024
+      },
+      {
+        "word": "your",
+        "start_offset": 143,
+        "end_offset": 147,
+        "start": 45.643,
+        "end": 46.123,
+        "score": -1.6164
+      },
+      {
+        "word": "so-called",
+        "start_offset": 148,
+        "end_offset": 157,
+        "start": 47.983,
+        "end": 49.263,
+        "score": -0.726
+      },
+      {
+        "word": "government",
+        "start_offset": 158,
+        "end_offset": 168,
+        "start": 50.264,
+        "end": 51.444,
+        "score": -0.707
+      },
+      {
+        "word": "and",
+        "start_offset": 169,
+        "end_offset": 172,
+        "start": 52.524,
+        "end": 52.844,
+        "score": -0.717
+      },
+      {
+        "word": "the",
+        "start_offset": 173,
+        "end_offset": 176,
+        "start": 53.404,
+        "end": 53.564,
+        "score": -0.7721
+      },
+      {
+        "word": "so-called",
+        "start_offset": 177,
+        "end_offset": 186,
+        "start": 54.684,
+        "end": 56.324,
+        "score": -0.7147
+      },
+      {
+        "word": "government",
+        "start_offset": 187,
+        "end_offset": 197,
+        "start": 57.964,
+        "end": 59.344,
+        "score": -0.7232
+      },
+      {
+        "word": "of",
+        "start_offset": 198,
+        "end_offset": 200,
+        "start": 60.164,
+        "end": 60.384,
+        "score": -0.7088
+      },
+      {
+        "word": "your",
+        "start_offset": 201,
+        "end_offset": 205,
+        "start": 61.124,
+        "end": 61.384,
+        "score": -0.8625
+      },
+      {
+        "word": "neighboring",
+        "start_offset": 206,
+        "end_offset": 217,
+        "start": 62.364,
+        "end": 63.104,
+        "score": -0.9237
+      },
+      {
+        "word": "geographical",
+        "start_offset": 218,
+        "end_offset": 230,
+        "start": 64.185,
+        "end": 65.765,
+        "score": -0.8388
+      },
+      {
+        "word": "vicinity",
+        "start_offset": 231,
+        "end_offset": 239,
+        "start": 67.965,
+        "end": 68.845,
+        "score": -0.7178
+      },
+      {
+        "word": "arranged",
+        "start_offset": 240,
+        "end_offset": 248,
+        "start": 70.265,
+        "end": 71.265,
+        "score": -0.8259
+      },
+      {
+        "word": "for",
+        "start_offset": 249,
+        "end_offset": 252,
+        "start": 72.225,
+        "end": 72.625,
+        "score": -0.8524
+      },
+      {
+        "word": "an",
+        "start_offset": 253,
+        "end_offset": 255,
+        "start": 74.125,
+        "end": 74.385,
+        "score": -0.7452
+      },
+      {
+        "word": "underground",
+        "start_offset": 256,
+        "end_offset": 267,
+        "start": 75.425,
+        "end": 77.145,
+        "score": -0.721
+      },
+      {
+        "word": "installation.",
+        "start_offset": 268,
+        "end_offset": 281,
+        "start": 78.046,
+        "end": 79.566,
+        "score": -1.1217
+      },
+      {
+        "word": "The",
+        "start_offset": 282,
+        "end_offset": 285,
+        "start": 80.966,
+        "end": 81.126,
+        "score": -0.7623
+      },
+      {
+        "word": "government",
+        "start_offset": 286,
+        "end_offset": 296,
+        "start": 82.546,
+        "end": 83.806,
+        "score": -1.2058
+      },
+      {
+        "word": "officials",
+        "start_offset": 297,
+        "end_offset": 306,
+        "start": 84.986,
+        "end": 85.966,
+        "score": -0.701
+      },
+      {
+        "word": "who",
+        "start_offset": 307,
+        "end_offset": 310,
+        "start": 87.406,
+        "end": 87.546,
+        "score": -0.8967
+      },
+      {
+        "word": "agreed",
+        "start_offset": 311,
+        "end_offset": 317,
+        "start": 88.526,
+        "end": 89.446,
+        "score": -0.7658
+      },
+      {
+        "word": "did",
+        "start_offset": 318,
+        "end_offset": 321,
+        "start": 90.926,
+        "end": 91.266,
+        "score": -0.7024
+      },
+      {
+        "word": "not",
+        "start_offset": 322,
+        "end_offset": 325,
+        "start": 92.026,
+        "end": 92.427,
+        "score": -0.6977
+      },
+      {
+        "word": "know",
+        "start_offset": 326,
+        "end_offset": 330,
+        "start": 93.547,
+        "end": 93.927,
+        "score": -0.9434
+      },
+      {
+        "word": "the",
+        "start_offset": 331,
+        "end_offset": 334,
+        "start": 95.547,
+        "end": 95.687,
+        "score": -0.869
+      },
+      {
+        "word": "use",
+        "start_offset": 335,
+        "end_offset": 338,
+        "start": 96.607,
+        "end": 97.047,
+        "score": -0.7529
+      },
+      {
+        "word": "to",
+        "start_offset": 339,
+        "end_offset": 341,
+        "start": 97.847,
+        "end": 98.067,
+        "score": -0.85
+      },
+      {
+        "word": "which",
+        "start_offset": 342,
+        "end_offset": 347,
+        "start": 98.907,
+        "end": 99.327,
+        "score": -0.7292
+      },
+      {
+        "word": "their",
+        "start_offset": 348,
+        "end_offset": 353,
+        "start": 100.707,
+        "end": 101.107,
+        "score": -0.8386
+      },
+      {
+        "word": "land",
+        "start_offset": 354,
+        "end_offset": 358,
+        "start": 102.607,
+        "end": 103.107,
+        "score": -0.7041
+      },
+      {
+        "word": "would",
+        "start_offset": 359,
+        "end_offset": 364,
+        "start": 103.907,
+        "end": 104.267,
+        "score": -1.009
+      },
+      {
+        "word": "be",
+        "start_offset": 365,
+        "end_offset": 367,
+        "start": 105.347,
+        "end": 105.467,
+        "score": -0.8954
+      },
+      {
+        "word": "put,",
+        "start_offset": 368,
+        "end_offset": 372,
+        "start": 106.708,
+        "end": 107.128,
+        "score": -1.7602
+      },
+      {
+        "word": "but",
+        "start_offset": 373,
+        "end_offset": 376,
+        "start": 108.308,
+        "end": 108.608,
+        "score": -0.7735
+      },
+      {
+        "word": "thought",
+        "start_offset": 377,
+        "end_offset": 384,
+        "start": 109.928,
+        "end": 110.308,
+        "score": -0.8294
+      },
+      {
+        "word": "it",
+        "start_offset": 385,
+        "end_offset": 387,
+        "start": 111.188,
+        "end": 111.408,
+        "score": -0.7172
+      },
+      {
+        "word": "a",
+        "start_offset": 388,
+        "end_offset": 389,
+        "start": 112.928,
+        "end": 112.948,
+        "score": -0.8446
+      },
+      {
+        "word": "governmental",
+        "start_offset": 390,
+        "end_offset": 402,
+        "start": 115.528,
+        "end": 117.308,
+        "score": -1.5347
+      },
+      {
+        "word": "research",
+        "start_offset": 403,
+        "end_offset": 411,
+        "start": 118.348,
+        "end": 119.588,
+        "score": -1.1595
+      },
+      {
+        "word": "installation",
+        "start_offset": 412,
+        "end_offset": 424,
+        "start": 120.629,
+        "end": 122.369,
+        "score": -1.8614
+      },
+      {
+        "word": "for",
+        "start_offset": 425,
+        "end_offset": 428,
+        "start": 124.089,
+        "end": 124.429,
+        "score": -0.7233
+      },
+      {
+        "word": "use",
+        "start_offset": 429,
+        "end_offset": 432,
+        "start": 125.349,
+        "end": 125.749,
+        "score": -0.7218
+      },
+      {
+        "word": "in",
+        "start_offset": 433,
+        "end_offset": 435,
+        "start": 126.509,
+        "end": 126.749,
+        "score": -0.7231
+      },
+      {
+        "word": "what",
+        "start_offset": 436,
+        "end_offset": 440,
+        "start": 128.009,
+        "end": 128.309,
+        "score": -0.7461
+      },
+      {
+        "word": "you",
+        "start_offset": 441,
+        "end_offset": 444,
+        "start": 129.029,
+        "end": 129.169,
+        "score": -0.7421
+      },
+      {
+        "word": "would",
+        "start_offset": 445,
+        "end_offset": 450,
+        "start": 130.229,
+        "end": 130.549,
+        "score": -2.3742
+      },
+      {
+        "word": "call",
+        "start_offset": 451,
+        "end_offset": 455,
+        "start": 131.309,
+        "end": 131.829,
+        "score": -0.7082
+      },
+      {
+        "word": "bacteriological",
+        "start_offset": 456,
+        "end_offset": 471,
+        "start": 132.789,
+        "end": 136.31,
+        "score": -0.8603
+      },
+      {
+        "word": "warfare.",
+        "start_offset": 472,
+        "end_offset": 480,
+        "start": 137.27,
+        "end": 138.51,
+        "score": -0.8868
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "008-29.mp3",
+    "audio_duration": 139.0498,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

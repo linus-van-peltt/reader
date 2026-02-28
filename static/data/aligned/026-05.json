@@ -1,0 +1,196 @@
+{
+  "text": "Does the Bible as we know it have portions of this law in it? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Does the Bible as we know it have portions of this law in it?",
+        "start_offset": 0,
+        "end_offset": 61,
+        "start": 2.701,
+        "end": 7.523
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 62,
+        "end_offset": 70,
+        "start": 12.165,
+        "end": 14.646
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 71,
+        "end_offset": 87,
+        "start": 16.647,
+        "end": 20.328
+      }
+    ],
+    "word": [
+      {
+        "word": "Does",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.701,
+        "end": 2.961,
+        "score": -1.054
+      },
+      {
+        "word": "the",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 3.061,
+        "end": 3.181,
+        "score": -0.9364
+      },
+      {
+        "word": "Bible",
+        "start_offset": 9,
+        "end_offset": 14,
+        "start": 4.582,
+        "end": 5.022,
+        "score": -1.9071
+      },
+      {
+        "word": "as",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 5.162,
+        "end": 5.242,
+        "score": -0.7473
+      },
+      {
+        "word": "we",
+        "start_offset": 18,
+        "end_offset": 20,
+        "start": 5.302,
+        "end": 5.382,
+        "score": -0.7126
+      },
+      {
+        "word": "know",
+        "start_offset": 21,
+        "end_offset": 25,
+        "start": 5.462,
+        "end": 5.622,
+        "score": -0.7968
+      },
+      {
+        "word": "it",
+        "start_offset": 26,
+        "end_offset": 28,
+        "start": 5.662,
+        "end": 5.762,
+        "score": -1.4035
+      },
+      {
+        "word": "have",
+        "start_offset": 29,
+        "end_offset": 33,
+        "start": 5.822,
+        "end": 6.002,
+        "score": -0.7381
+      },
+      {
+        "word": "portions",
+        "start_offset": 34,
+        "end_offset": 42,
+        "start": 6.042,
+        "end": 6.523,
+        "score": -0.7123
+      },
+      {
+        "word": "of",
+        "start_offset": 43,
+        "end_offset": 45,
+        "start": 6.563,
+        "end": 6.643,
+        "score": -0.7132
+      },
+      {
+        "word": "this",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 6.683,
+        "end": 6.883,
+        "score": -1.4923
+      },
+      {
+        "word": "law",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 7.003,
+        "end": 7.323,
+        "score": -3.8647
+      },
+      {
+        "word": "in",
+        "start_offset": 55,
+        "end_offset": 57,
+        "start": 7.383,
+        "end": 7.463,
+        "score": -2.4902
+      },
+      {
+        "word": "it?",
+        "start_offset": 58,
+        "end_offset": 61,
+        "start": 7.483,
+        "end": 7.523,
+        "score": -4.6732
+      },
+      {
+        "word": "I",
+        "start_offset": 62,
+        "end_offset": 63,
+        "start": 12.165,
+        "end": 12.185,
+        "score": -0.9509
+      },
+      {
+        "word": "am",
+        "start_offset": 64,
+        "end_offset": 66,
+        "start": 13.125,
+        "end": 13.466,
+        "score": -2.5031
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 14.486,
+        "end": 14.646,
+        "score": -0.926
+      },
+      {
+        "word": "This",
+        "start_offset": 71,
+        "end_offset": 75,
+        "start": 16.647,
+        "end": 17.087,
+        "score": -0.747
+      },
+      {
+        "word": "is",
+        "start_offset": 76,
+        "end_offset": 78,
+        "start": 18.267,
+        "end": 18.628,
+        "score": -0.7605
+      },
+      {
+        "word": "correct.",
+        "start_offset": 79,
+        "end_offset": 87,
+        "start": 19.408,
+        "end": 20.328,
+        "score": -0.7208
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "026-05.mp3",
+    "audio_duration": 21.0286,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

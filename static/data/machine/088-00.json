@@ -1,0 +1,72 @@
+{
+  "text": "Raw number eighty-eight, May twenty-ninth, nineteen eighty-two.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Raw number eighty-eight, May twenty-ninth, nineteen eighty-two.",
+        "start_offset": 75,
+        "end_offset": 133,
+        "start": 6.0,
+        "end": 10.64
+      }
+    ],
+    "word": [
+      {
+        "word": "Raw",
+        "start_offset": 75,
+        "end_offset": 81,
+        "start": 6.0,
+        "end": 6.48
+      },
+      {
+        "word": "number",
+        "start_offset": 84,
+        "end_offset": 90,
+        "start": 6.72,
+        "end": 7.2
+      },
+      {
+        "word": "eighty-eight,",
+        "start_offset": 90,
+        "end_offset": 99,
+        "start": 7.2,
+        "end": 7.92
+      },
+      {
+        "word": "May",
+        "start_offset": 103,
+        "end_offset": 107,
+        "start": 8.24,
+        "end": 8.56
+      },
+      {
+        "word": "twenty-ninth,",
+        "start_offset": 107,
+        "end_offset": 118,
+        "start": 8.56,
+        "end": 9.44
+      },
+      {
+        "word": "nineteen",
+        "start_offset": 120,
+        "end_offset": 126,
+        "start": 9.6,
+        "end": 10.08
+      },
+      {
+        "word": "eighty-two.",
+        "start_offset": 126,
+        "end_offset": 133,
+        "start": 10.08,
+        "end": 10.64
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "088-00.mp3",
+    "audio_duration": 11.05,
+    "transcription_time": 0.08,
+    "rtfx": 130.87,
+    "timestamp": "2026-01-06T21:58:04.351773+00:00"
+  }
+}

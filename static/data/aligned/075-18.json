@@ -1,0 +1,300 @@
+{
+  "text": "What was the Orion entity's objective with respect to the entity you spoke of who, in a demanding manner, sings the Mass? I am Ra. The Orion entity wishes to remove the instrument.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What was the Orion entity's objective with respect to the entity you spoke of who, in a demanding manner, sings the Mass?",
+        "start_offset": 0,
+        "end_offset": 121,
+        "start": 7.061,
+        "end": 22.304
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 122,
+        "end_offset": 130,
+        "start": 28.786,
+        "end": 30.846
+      },
+      {
+        "segment": "The Orion entity wishes to remove the instrument.",
+        "start_offset": 131,
+        "end_offset": 180,
+        "start": 33.347,
+        "end": 51.05
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 7.061,
+        "end": 7.241,
+        "score": -1.0525
+      },
+      {
+        "word": "was",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 7.301,
+        "end": 7.481,
+        "score": -0.876
+      },
+      {
+        "word": "the",
+        "start_offset": 9,
+        "end_offset": 12,
+        "start": 7.582,
+        "end": 7.702,
+        "score": -0.8291
+      },
+      {
+        "word": "Orion",
+        "start_offset": 13,
+        "end_offset": 18,
+        "start": 8.322,
+        "end": 8.842,
+        "score": -1.1486
+      },
+      {
+        "word": "entity's",
+        "start_offset": 19,
+        "end_offset": 27,
+        "start": 8.982,
+        "end": 9.502,
+        "score": -0.8518
+      },
+      {
+        "word": "objective",
+        "start_offset": 28,
+        "end_offset": 37,
+        "start": 9.682,
+        "end": 10.542,
+        "score": -0.7171
+      },
+      {
+        "word": "with",
+        "start_offset": 38,
+        "end_offset": 42,
+        "start": 11.782,
+        "end": 11.942,
+        "score": -0.9527
+      },
+      {
+        "word": "respect",
+        "start_offset": 43,
+        "end_offset": 50,
+        "start": 12.002,
+        "end": 12.543,
+        "score": -0.7539
+      },
+      {
+        "word": "to",
+        "start_offset": 51,
+        "end_offset": 53,
+        "start": 12.663,
+        "end": 12.783,
+        "score": -0.8509
+      },
+      {
+        "word": "the",
+        "start_offset": 54,
+        "end_offset": 57,
+        "start": 12.923,
+        "end": 13.023,
+        "score": -0.9443
+      },
+      {
+        "word": "entity",
+        "start_offset": 58,
+        "end_offset": 64,
+        "start": 14.463,
+        "end": 14.783,
+        "score": -0.7223
+      },
+      {
+        "word": "you",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 14.863,
+        "end": 14.963,
+        "score": -1.7986
+      },
+      {
+        "word": "spoke",
+        "start_offset": 69,
+        "end_offset": 74,
+        "start": 15.043,
+        "end": 15.423,
+        "score": -0.7727
+      },
+      {
+        "word": "of",
+        "start_offset": 75,
+        "end_offset": 77,
+        "start": 15.483,
+        "end": 15.603,
+        "score": -0.8137
+      },
+      {
+        "word": "who,",
+        "start_offset": 78,
+        "end_offset": 82,
+        "start": 15.723,
+        "end": 15.843,
+        "score": -0.948
+      },
+      {
+        "word": "in",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 16.943,
+        "end": 17.023,
+        "score": -0.7359
+      },
+      {
+        "word": "a",
+        "start_offset": 86,
+        "end_offset": 87,
+        "start": 17.063,
+        "end": 17.083,
+        "score": -0.7322
+      },
+      {
+        "word": "demanding",
+        "start_offset": 88,
+        "end_offset": 97,
+        "start": 17.143,
+        "end": 17.704,
+        "score": -0.7075
+      },
+      {
+        "word": "manner,",
+        "start_offset": 98,
+        "end_offset": 105,
+        "start": 17.744,
+        "end": 18.084,
+        "score": -3.0496
+      },
+      {
+        "word": "sings",
+        "start_offset": 106,
+        "end_offset": 111,
+        "start": 19.984,
+        "end": 20.444,
+        "score": -1.7111
+      },
+      {
+        "word": "the",
+        "start_offset": 112,
+        "end_offset": 115,
+        "start": 20.464,
+        "end": 20.584,
+        "score": -4.9462
+      },
+      {
+        "word": "Mass?",
+        "start_offset": 116,
+        "end_offset": 121,
+        "start": 21.804,
+        "end": 22.304,
+        "score": -1.9787
+      },
+      {
+        "word": "I",
+        "start_offset": 122,
+        "end_offset": 123,
+        "start": 28.786,
+        "end": 28.806,
+        "score": -2.4892
+      },
+      {
+        "word": "am",
+        "start_offset": 124,
+        "end_offset": 126,
+        "start": 29.606,
+        "end": 29.886,
+        "score": -4.4476
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 127,
+        "end_offset": 130,
+        "start": 30.706,
+        "end": 30.846,
+        "score": -6.6586
+      },
+      {
+        "word": "The",
+        "start_offset": 131,
+        "end_offset": 134,
+        "start": 33.347,
+        "end": 33.487,
+        "score": -0.8393
+      },
+      {
+        "word": "Orion",
+        "start_offset": 135,
+        "end_offset": 140,
+        "start": 35.907,
+        "end": 36.667,
+        "score": -1.2829
+      },
+      {
+        "word": "entity",
+        "start_offset": 141,
+        "end_offset": 147,
+        "start": 38.648,
+        "end": 39.208,
+        "score": -1.1017
+      },
+      {
+        "word": "wishes",
+        "start_offset": 148,
+        "end_offset": 154,
+        "start": 41.308,
+        "end": 41.888,
+        "score": -0.7294
+      },
+      {
+        "word": "to",
+        "start_offset": 155,
+        "end_offset": 157,
+        "start": 43.269,
+        "end": 43.429,
+        "score": -1.0252
+      },
+      {
+        "word": "remove",
+        "start_offset": 158,
+        "end_offset": 164,
+        "start": 45.249,
+        "end": 46.129,
+        "score": -0.805
+      },
+      {
+        "word": "the",
+        "start_offset": 165,
+        "end_offset": 168,
+        "start": 48.41,
+        "end": 48.55,
+        "score": -1.0948
+      },
+      {
+        "word": "instrument.",
+        "start_offset": 169,
+        "end_offset": 180,
+        "start": 49.93,
+        "end": 51.05,
+        "score": -0.8764
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "075-18.mp3",
+    "audio_duration": 57.0514,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

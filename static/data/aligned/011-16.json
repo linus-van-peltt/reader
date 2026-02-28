@@ -1,0 +1,268 @@
+{
+  "text": "What do the crusaders do? I am Ra. The crusaders move in their chariots to conquer planetary mind/body/spirit social complexes before they reach the stage of achieving social memory.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What do the crusaders do?",
+        "start_offset": 0,
+        "end_offset": 25,
+        "start": 3.101,
+        "end": 4.401
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 26,
+        "end_offset": 34,
+        "start": 8.983,
+        "end": 11.583
+      },
+      {
+        "segment": "The crusaders move in their chariots to conquer planetary mind/body/spirit social complexes before they reach the stage of achieving social memory.",
+        "start_offset": 35,
+        "end_offset": 182,
+        "start": 14.384,
+        "end": 56.916
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 3.101,
+        "end": 3.261,
+        "score": -1.699
+      },
+      {
+        "word": "do",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 3.321,
+        "end": 3.401,
+        "score": -4.0319
+      },
+      {
+        "word": "the",
+        "start_offset": 8,
+        "end_offset": 11,
+        "start": 3.481,
+        "end": 3.561,
+        "score": -1.7785
+      },
+      {
+        "word": "crusaders",
+        "start_offset": 12,
+        "end_offset": 21,
+        "start": 3.601,
+        "end": 4.241,
+        "score": -1.9823
+      },
+      {
+        "word": "do?",
+        "start_offset": 22,
+        "end_offset": 25,
+        "start": 4.301,
+        "end": 4.401,
+        "score": -3.1163
+      },
+      {
+        "word": "I",
+        "start_offset": 26,
+        "end_offset": 27,
+        "start": 8.983,
+        "end": 9.003,
+        "score": -0.789
+      },
+      {
+        "word": "am",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 10.003,
+        "end": 10.243,
+        "score": -1.0614
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 11.423,
+        "end": 11.583,
+        "score": -1.0699
+      },
+      {
+        "word": "The",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 14.384,
+        "end": 14.544,
+        "score": -0.7635
+      },
+      {
+        "word": "crusaders",
+        "start_offset": 39,
+        "end_offset": 48,
+        "start": 16.405,
+        "end": 17.845,
+        "score": -0.8626
+      },
+      {
+        "word": "move",
+        "start_offset": 49,
+        "end_offset": 53,
+        "start": 20.186,
+        "end": 20.626,
+        "score": -0.7502
+      },
+      {
+        "word": "in",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 21.526,
+        "end": 21.726,
+        "score": -0.7153
+      },
+      {
+        "word": "their",
+        "start_offset": 57,
+        "end_offset": 62,
+        "start": 22.987,
+        "end": 23.327,
+        "score": -1.3471
+      },
+      {
+        "word": "chariots",
+        "start_offset": 63,
+        "end_offset": 71,
+        "start": 24.767,
+        "end": 25.907,
+        "score": -0.8067
+      },
+      {
+        "word": "to",
+        "start_offset": 72,
+        "end_offset": 74,
+        "start": 28.768,
+        "end": 29.088,
+        "score": -1.8254
+      },
+      {
+        "word": "conquer",
+        "start_offset": 75,
+        "end_offset": 82,
+        "start": 30.609,
+        "end": 31.369,
+        "score": -2.0884
+      },
+      {
+        "word": "planetary",
+        "start_offset": 83,
+        "end_offset": 92,
+        "start": 33.53,
+        "end": 34.59,
+        "score": -0.7911
+      },
+      {
+        "word": "mind/body/spirit",
+        "start_offset": 93,
+        "end_offset": 109,
+        "start": 36.87,
+        "end": 39.711,
+        "score": -0.7131
+      },
+      {
+        "word": "social",
+        "start_offset": 110,
+        "end_offset": 116,
+        "start": 41.272,
+        "end": 41.832,
+        "score": -0.7492
+      },
+      {
+        "word": "complexes",
+        "start_offset": 117,
+        "end_offset": 126,
+        "start": 42.632,
+        "end": 43.852,
+        "score": -0.7408
+      },
+      {
+        "word": "before",
+        "start_offset": 127,
+        "end_offset": 133,
+        "start": 45.133,
+        "end": 46.073,
+        "score": -0.7199
+      },
+      {
+        "word": "they",
+        "start_offset": 134,
+        "end_offset": 138,
+        "start": 47.173,
+        "end": 47.413,
+        "score": -0.7177
+      },
+      {
+        "word": "reach",
+        "start_offset": 139,
+        "end_offset": 144,
+        "start": 48.074,
+        "end": 48.474,
+        "score": -0.7023
+      },
+      {
+        "word": "the",
+        "start_offset": 145,
+        "end_offset": 148,
+        "start": 49.434,
+        "end": 49.554,
+        "score": -0.7864
+      },
+      {
+        "word": "stage",
+        "start_offset": 149,
+        "end_offset": 154,
+        "start": 50.134,
+        "end": 50.894,
+        "score": -0.6988
+      },
+      {
+        "word": "of",
+        "start_offset": 155,
+        "end_offset": 157,
+        "start": 51.955,
+        "end": 52.215,
+        "score": -0.6987
+      },
+      {
+        "word": "achieving",
+        "start_offset": 158,
+        "end_offset": 167,
+        "start": 52.575,
+        "end": 53.475,
+        "score": -1.1771
+      },
+      {
+        "word": "social",
+        "start_offset": 168,
+        "end_offset": 174,
+        "start": 54.696,
+        "end": 55.356,
+        "score": -0.7035
+      },
+      {
+        "word": "memory.",
+        "start_offset": 175,
+        "end_offset": 182,
+        "start": 56.376,
+        "end": 56.916,
+        "score": -0.7708
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "011-16.mp3",
+    "audio_duration": 59.0367,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

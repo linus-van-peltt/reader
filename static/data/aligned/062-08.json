@@ -1,0 +1,403 @@
+{
+  "text": "Would you expand on what you just said about the expelling of breath? I wasn't quite sure what you meant. I am Ra. The repetition of that performed well at this working is advisable if the circle is walked in less than the appropriate configuration.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would you expand on what you just said about the expelling of breath?",
+        "start_offset": 0,
+        "end_offset": 69,
+        "start": 3.121,
+        "end": 14.405
+      },
+      {
+        "segment": "I wasn't quite sure what you meant.",
+        "start_offset": 70,
+        "end_offset": 105,
+        "start": 14.465,
+        "end": 16.106
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 106,
+        "end_offset": 114,
+        "start": 16.166,
+        "end": 17.266
+      },
+      {
+        "segment": "The repetition of that performed well at this working is advisable if the circle is walked in less than the appropriate configuration.",
+        "start_offset": 115,
+        "end_offset": 249,
+        "start": 18.627,
+        "end": 54.66
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 3.121,
+        "end": 3.261,
+        "score": -8.8167
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 3.301,
+        "end": 3.361,
+        "score": -8.0493
+      },
+      {
+        "word": "expand",
+        "start_offset": 10,
+        "end_offset": 16,
+        "start": 4.942,
+        "end": 5.362,
+        "score": -7.4915
+      },
+      {
+        "word": "on",
+        "start_offset": 17,
+        "end_offset": 19,
+        "start": 5.382,
+        "end": 5.442,
+        "score": -9.0821
+      },
+      {
+        "word": "what",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 5.482,
+        "end": 5.642,
+        "score": -7.6334
+      },
+      {
+        "word": "you",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 5.682,
+        "end": 5.742,
+        "score": -7.8729
+      },
+      {
+        "word": "just",
+        "start_offset": 29,
+        "end_offset": 33,
+        "start": 5.802,
+        "end": 5.982,
+        "score": -7.0758
+      },
+      {
+        "word": "said",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 6.002,
+        "end": 6.202,
+        "score": -7.5193
+      },
+      {
+        "word": "about",
+        "start_offset": 39,
+        "end_offset": 44,
+        "start": 6.222,
+        "end": 6.422,
+        "score": -7.7858
+      },
+      {
+        "word": "the",
+        "start_offset": 45,
+        "end_offset": 48,
+        "start": 6.442,
+        "end": 6.502,
+        "score": -6.7725
+      },
+      {
+        "word": "expelling",
+        "start_offset": 49,
+        "end_offset": 58,
+        "start": 6.582,
+        "end": 13.485,
+        "score": -7.0799
+      },
+      {
+        "word": "of",
+        "start_offset": 59,
+        "end_offset": 61,
+        "start": 13.505,
+        "end": 13.545,
+        "score": -9.3132
+      },
+      {
+        "word": "breath?",
+        "start_offset": 62,
+        "end_offset": 69,
+        "start": 13.565,
+        "end": 14.405,
+        "score": -9.5506
+      },
+      {
+        "word": "I",
+        "start_offset": 70,
+        "end_offset": 71,
+        "start": 14.465,
+        "end": 14.485,
+        "score": -1.4401
+      },
+      {
+        "word": "wasn't",
+        "start_offset": 72,
+        "end_offset": 78,
+        "start": 14.585,
+        "end": 14.805,
+        "score": -7.6268
+      },
+      {
+        "word": "quite",
+        "start_offset": 79,
+        "end_offset": 84,
+        "start": 15.526,
+        "end": 15.626,
+        "score": -9.9579
+      },
+      {
+        "word": "sure",
+        "start_offset": 85,
+        "end_offset": 89,
+        "start": 15.646,
+        "end": 15.726,
+        "score": -5.5856
+      },
+      {
+        "word": "what",
+        "start_offset": 90,
+        "end_offset": 94,
+        "start": 15.746,
+        "end": 15.906,
+        "score": -6.1436
+      },
+      {
+        "word": "you",
+        "start_offset": 95,
+        "end_offset": 98,
+        "start": 15.926,
+        "end": 15.986,
+        "score": -7.5469
+      },
+      {
+        "word": "meant.",
+        "start_offset": 99,
+        "end_offset": 105,
+        "start": 16.006,
+        "end": 16.106,
+        "score": -8.3276
+      },
+      {
+        "word": "I",
+        "start_offset": 106,
+        "end_offset": 107,
+        "start": 16.166,
+        "end": 16.186,
+        "score": -8.4051
+      },
+      {
+        "word": "am",
+        "start_offset": 108,
+        "end_offset": 110,
+        "start": 16.266,
+        "end": 16.526,
+        "score": -8.7378
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 111,
+        "end_offset": 114,
+        "start": 16.706,
+        "end": 17.266,
+        "score": -8.7519
+      },
+      {
+        "word": "The",
+        "start_offset": 115,
+        "end_offset": 118,
+        "start": 18.627,
+        "end": 18.767,
+        "score": -0.7381
+      },
+      {
+        "word": "repetition",
+        "start_offset": 119,
+        "end_offset": 129,
+        "start": 20.367,
+        "end": 21.848,
+        "score": -0.7657
+      },
+      {
+        "word": "of",
+        "start_offset": 130,
+        "end_offset": 132,
+        "start": 23.188,
+        "end": 23.509,
+        "score": -0.7151
+      },
+      {
+        "word": "that",
+        "start_offset": 133,
+        "end_offset": 137,
+        "start": 24.009,
+        "end": 24.409,
+        "score": -0.7684
+      },
+      {
+        "word": "performed",
+        "start_offset": 138,
+        "end_offset": 147,
+        "start": 25.469,
+        "end": 26.53,
+        "score": -0.7168
+      },
+      {
+        "word": "well",
+        "start_offset": 148,
+        "end_offset": 152,
+        "start": 27.53,
+        "end": 27.91,
+        "score": -1.108
+      },
+      {
+        "word": "at",
+        "start_offset": 153,
+        "end_offset": 155,
+        "start": 28.85,
+        "end": 29.111,
+        "score": -0.6978
+      },
+      {
+        "word": "this",
+        "start_offset": 156,
+        "end_offset": 160,
+        "start": 29.691,
+        "end": 30.071,
+        "score": -0.7776
+      },
+      {
+        "word": "working",
+        "start_offset": 161,
+        "end_offset": 168,
+        "start": 30.971,
+        "end": 31.591,
+        "score": -0.6976
+      },
+      {
+        "word": "is",
+        "start_offset": 169,
+        "end_offset": 171,
+        "start": 32.732,
+        "end": 33.072,
+        "score": -0.703
+      },
+      {
+        "word": "advisable",
+        "start_offset": 172,
+        "end_offset": 181,
+        "start": 33.952,
+        "end": 35.533,
+        "score": -0.7559
+      },
+      {
+        "word": "if",
+        "start_offset": 182,
+        "end_offset": 184,
+        "start": 36.873,
+        "end": 37.174,
+        "score": -0.7005
+      },
+      {
+        "word": "the",
+        "start_offset": 185,
+        "end_offset": 188,
+        "start": 38.194,
+        "end": 38.334,
+        "score": -0.7573
+      },
+      {
+        "word": "circle",
+        "start_offset": 189,
+        "end_offset": 195,
+        "start": 39.034,
+        "end": 39.694,
+        "score": -0.8344
+      },
+      {
+        "word": "is",
+        "start_offset": 196,
+        "end_offset": 198,
+        "start": 40.915,
+        "end": 41.295,
+        "score": -0.7695
+      },
+      {
+        "word": "walked",
+        "start_offset": 199,
+        "end_offset": 205,
+        "start": 43.696,
+        "end": 44.276,
+        "score": -0.8826
+      },
+      {
+        "word": "in",
+        "start_offset": 206,
+        "end_offset": 208,
+        "start": 45.016,
+        "end": 45.296,
+        "score": -0.7186
+      },
+      {
+        "word": "less",
+        "start_offset": 209,
+        "end_offset": 213,
+        "start": 46.157,
+        "end": 46.577,
+        "score": -0.7431
+      },
+      {
+        "word": "than",
+        "start_offset": 214,
+        "end_offset": 218,
+        "start": 47.437,
+        "end": 47.837,
+        "score": -0.7377
+      },
+      {
+        "word": "the",
+        "start_offset": 219,
+        "end_offset": 222,
+        "start": 48.378,
+        "end": 48.518,
+        "score": -0.7925
+      },
+      {
+        "word": "appropriate",
+        "start_offset": 223,
+        "end_offset": 234,
+        "start": 49.698,
+        "end": 51.539,
+        "score": -0.9413
+      },
+      {
+        "word": "configuration.",
+        "start_offset": 235,
+        "end_offset": 249,
+        "start": 52.399,
+        "end": 54.66,
+        "score": -0.7231
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "062-08.mp3",
+    "audio_duration": 55.04,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

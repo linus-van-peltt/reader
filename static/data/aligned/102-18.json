@@ -1,0 +1,140 @@
+{
+  "text": "Do you mean by that Arthur Schoen? I am Ra. That is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Do you mean by that Arthur Schoen?",
+        "start_offset": 0,
+        "end_offset": 34,
+        "start": 3.122,
+        "end": 5.544
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 35,
+        "end_offset": 43,
+        "start": 9.988,
+        "end": 12.63
+      },
+      {
+        "segment": "That is correct.",
+        "start_offset": 44,
+        "end_offset": 60,
+        "start": 14.872,
+        "end": 18.975
+      }
+    ],
+    "word": [
+      {
+        "word": "Do",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 3.122,
+        "end": 3.163,
+        "score": -5.1313
+      },
+      {
+        "word": "you",
+        "start_offset": 3,
+        "end_offset": 6,
+        "start": 3.183,
+        "end": 3.243,
+        "score": -4.4941
+      },
+      {
+        "word": "mean",
+        "start_offset": 7,
+        "end_offset": 11,
+        "start": 3.283,
+        "end": 3.403,
+        "score": -2.9796
+      },
+      {
+        "word": "by",
+        "start_offset": 12,
+        "end_offset": 14,
+        "start": 3.483,
+        "end": 3.623,
+        "score": -0.8657
+      },
+      {
+        "word": "that",
+        "start_offset": 15,
+        "end_offset": 19,
+        "start": 3.663,
+        "end": 4.343,
+        "score": -1.5028
+      },
+      {
+        "word": "Arthur",
+        "start_offset": 20,
+        "end_offset": 26,
+        "start": 4.984,
+        "end": 5.224,
+        "score": -1.3548
+      },
+      {
+        "word": "Schoen?",
+        "start_offset": 27,
+        "end_offset": 34,
+        "start": 5.264,
+        "end": 5.544,
+        "score": -3.8994
+      },
+      {
+        "word": "I",
+        "start_offset": 35,
+        "end_offset": 36,
+        "start": 9.988,
+        "end": 10.008,
+        "score": -3.0201
+      },
+      {
+        "word": "am",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 10.969,
+        "end": 12.51,
+        "score": -2.7946
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 40,
+        "end_offset": 43,
+        "start": 12.57,
+        "end": 12.63,
+        "score": -3.922
+      },
+      {
+        "word": "That",
+        "start_offset": 44,
+        "end_offset": 48,
+        "start": 14.872,
+        "end": 15.292,
+        "score": -2.546
+      },
+      {
+        "word": "is",
+        "start_offset": 49,
+        "end_offset": 51,
+        "start": 16.273,
+        "end": 16.573,
+        "score": -0.7864
+      },
+      {
+        "word": "correct.",
+        "start_offset": 52,
+        "end_offset": 60,
+        "start": 18.174,
+        "end": 18.975,
+        "score": -2.5845
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "102-18.mp3",
+    "audio_duration": 20.0359,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

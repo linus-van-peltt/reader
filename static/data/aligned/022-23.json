@@ -1,0 +1,722 @@
+{
+  "text": "Then were there what we would call priests trained in these temples? I am Ra. You would not call them priests in the sense of celibacy, of obedience, and of poverty. They were priests in the sense of those devoted to learning. The difficulties became apparent as those trained in this learning began to attempt to use crystal powers for those things other than healing, as they were involved not only with learning but became involved with what you would call the governmental structure.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then were there what we would call priests trained in these temples?",
+        "start_offset": 0,
+        "end_offset": 68,
+        "start": 2.38,
+        "end": 10.501
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 69,
+        "end_offset": 77,
+        "start": 10.521,
+        "end": 12.221
+      },
+      {
+        "segment": "You would not call them priests in the sense of celibacy, of obedience, and of poverty.",
+        "start_offset": 78,
+        "end_offset": 165,
+        "start": 15.461,
+        "end": 33.302
+      },
+      {
+        "segment": "They were priests in the sense of those devoted to learning.",
+        "start_offset": 166,
+        "end_offset": 226,
+        "start": 34.962,
+        "end": 47.023
+      },
+      {
+        "segment": "The difficulties became apparent as those trained in this learning began to attempt to use crystal powers for those things other than healing, as they were involved not only with learning but became involved with what you would call the governmental structure.",
+        "start_offset": 227,
+        "end_offset": 487,
+        "start": 48.483,
+        "end": 101.067
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.38,
+        "end": 2.6,
+        "score": -7.0264
+      },
+      {
+        "word": "were",
+        "start_offset": 5,
+        "end_offset": 9,
+        "start": 2.68,
+        "end": 3.48,
+        "score": -10.5413
+      },
+      {
+        "word": "there",
+        "start_offset": 10,
+        "end_offset": 15,
+        "start": 3.58,
+        "end": 3.74,
+        "score": -9.3536
+      },
+      {
+        "word": "what",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 3.76,
+        "end": 3.88,
+        "score": -10.5057
+      },
+      {
+        "word": "we",
+        "start_offset": 21,
+        "end_offset": 23,
+        "start": 3.92,
+        "end": 3.98,
+        "score": -9.8943
+      },
+      {
+        "word": "would",
+        "start_offset": 24,
+        "end_offset": 29,
+        "start": 4.04,
+        "end": 4.18,
+        "score": -11.3201
+      },
+      {
+        "word": "call",
+        "start_offset": 30,
+        "end_offset": 34,
+        "start": 4.22,
+        "end": 4.42,
+        "score": -10.5084
+      },
+      {
+        "word": "priests",
+        "start_offset": 35,
+        "end_offset": 42,
+        "start": 4.56,
+        "end": 5.12,
+        "score": -9.5691
+      },
+      {
+        "word": "trained",
+        "start_offset": 43,
+        "end_offset": 50,
+        "start": 5.32,
+        "end": 5.78,
+        "score": -9.7706
+      },
+      {
+        "word": "in",
+        "start_offset": 51,
+        "end_offset": 53,
+        "start": 6.38,
+        "end": 6.48,
+        "score": -7.9691
+      },
+      {
+        "word": "these",
+        "start_offset": 54,
+        "end_offset": 59,
+        "start": 6.54,
+        "end": 6.74,
+        "score": -9.1132
+      },
+      {
+        "word": "temples?",
+        "start_offset": 60,
+        "end_offset": 68,
+        "start": 6.76,
+        "end": 10.501,
+        "score": -9.4473
+      },
+      {
+        "word": "I",
+        "start_offset": 69,
+        "end_offset": 70,
+        "start": 10.521,
+        "end": 10.541,
+        "score": -0.816
+      },
+      {
+        "word": "am",
+        "start_offset": 71,
+        "end_offset": 73,
+        "start": 11.161,
+        "end": 11.421,
+        "score": -1.6204
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 74,
+        "end_offset": 77,
+        "start": 12.081,
+        "end": 12.221,
+        "score": -0.9855
+      },
+      {
+        "word": "You",
+        "start_offset": 78,
+        "end_offset": 81,
+        "start": 15.461,
+        "end": 15.641,
+        "score": -0.7099
+      },
+      {
+        "word": "would",
+        "start_offset": 82,
+        "end_offset": 87,
+        "start": 16.261,
+        "end": 16.601,
+        "score": -0.7433
+      },
+      {
+        "word": "not",
+        "start_offset": 88,
+        "end_offset": 91,
+        "start": 17.041,
+        "end": 17.461,
+        "score": -0.6949
+      },
+      {
+        "word": "call",
+        "start_offset": 92,
+        "end_offset": 96,
+        "start": 17.921,
+        "end": 18.401,
+        "score": -0.7001
+      },
+      {
+        "word": "them",
+        "start_offset": 97,
+        "end_offset": 101,
+        "start": 18.881,
+        "end": 19.221,
+        "score": -0.7372
+      },
+      {
+        "word": "priests",
+        "start_offset": 102,
+        "end_offset": 109,
+        "start": 19.921,
+        "end": 20.741,
+        "score": -0.7056
+      },
+      {
+        "word": "in",
+        "start_offset": 110,
+        "end_offset": 112,
+        "start": 21.801,
+        "end": 22.001,
+        "score": -0.6955
+      },
+      {
+        "word": "the",
+        "start_offset": 113,
+        "end_offset": 116,
+        "start": 22.362,
+        "end": 22.462,
+        "score": -0.7842
+      },
+      {
+        "word": "sense",
+        "start_offset": 117,
+        "end_offset": 122,
+        "start": 22.722,
+        "end": 23.362,
+        "score": -0.9089
+      },
+      {
+        "word": "of",
+        "start_offset": 123,
+        "end_offset": 125,
+        "start": 24.622,
+        "end": 24.942,
+        "score": -0.7005
+      },
+      {
+        "word": "celibacy,",
+        "start_offset": 126,
+        "end_offset": 135,
+        "start": 25.642,
+        "end": 26.622,
+        "score": -1.1653
+      },
+      {
+        "word": "of",
+        "start_offset": 136,
+        "end_offset": 138,
+        "start": 28.282,
+        "end": 28.562,
+        "score": -0.6974
+      },
+      {
+        "word": "obedience,",
+        "start_offset": 139,
+        "end_offset": 149,
+        "start": 29.002,
+        "end": 30.182,
+        "score": -0.7658
+      },
+      {
+        "word": "and",
+        "start_offset": 150,
+        "end_offset": 153,
+        "start": 31.442,
+        "end": 31.722,
+        "score": -0.7698
+      },
+      {
+        "word": "of",
+        "start_offset": 154,
+        "end_offset": 156,
+        "start": 31.962,
+        "end": 32.162,
+        "score": -0.7034
+      },
+      {
+        "word": "poverty.",
+        "start_offset": 157,
+        "end_offset": 165,
+        "start": 32.462,
+        "end": 33.302,
+        "score": -0.6962
+      },
+      {
+        "word": "They",
+        "start_offset": 166,
+        "end_offset": 170,
+        "start": 34.962,
+        "end": 35.242,
+        "score": -0.7164
+      },
+      {
+        "word": "were",
+        "start_offset": 171,
+        "end_offset": 175,
+        "start": 35.782,
+        "end": 36.122,
+        "score": -0.7074
+      },
+      {
+        "word": "priests",
+        "start_offset": 176,
+        "end_offset": 183,
+        "start": 36.622,
+        "end": 37.463,
+        "score": -0.702
+      },
+      {
+        "word": "in",
+        "start_offset": 184,
+        "end_offset": 186,
+        "start": 38.523,
+        "end": 38.703,
+        "score": -0.6956
+      },
+      {
+        "word": "the",
+        "start_offset": 187,
+        "end_offset": 190,
+        "start": 38.983,
+        "end": 39.123,
+        "score": -0.7962
+      },
+      {
+        "word": "sense",
+        "start_offset": 191,
+        "end_offset": 196,
+        "start": 39.423,
+        "end": 40.063,
+        "score": -0.829
+      },
+      {
+        "word": "of",
+        "start_offset": 197,
+        "end_offset": 199,
+        "start": 41.023,
+        "end": 41.263,
+        "score": -0.7007
+      },
+      {
+        "word": "those",
+        "start_offset": 200,
+        "end_offset": 205,
+        "start": 42.423,
+        "end": 42.943,
+        "score": -0.7309
+      },
+      {
+        "word": "devoted",
+        "start_offset": 206,
+        "end_offset": 213,
+        "start": 43.363,
+        "end": 44.443,
+        "score": -0.6952
+      },
+      {
+        "word": "to",
+        "start_offset": 214,
+        "end_offset": 216,
+        "start": 45.563,
+        "end": 45.743,
+        "score": -0.6975
+      },
+      {
+        "word": "learning.",
+        "start_offset": 217,
+        "end_offset": 226,
+        "start": 46.443,
+        "end": 47.023,
+        "score": -0.7169
+      },
+      {
+        "word": "The",
+        "start_offset": 227,
+        "end_offset": 230,
+        "start": 48.483,
+        "end": 48.603,
+        "score": -2.1142
+      },
+      {
+        "word": "difficulties",
+        "start_offset": 231,
+        "end_offset": 243,
+        "start": 49.143,
+        "end": 50.563,
+        "score": -1.4757
+      },
+      {
+        "word": "became",
+        "start_offset": 244,
+        "end_offset": 250,
+        "start": 51.523,
+        "end": 52.504,
+        "score": -2.5149
+      },
+      {
+        "word": "apparent",
+        "start_offset": 251,
+        "end_offset": 259,
+        "start": 53.904,
+        "end": 54.964,
+        "score": -0.7001
+      },
+      {
+        "word": "as",
+        "start_offset": 260,
+        "end_offset": 262,
+        "start": 56.124,
+        "end": 56.504,
+        "score": -0.6974
+      },
+      {
+        "word": "those",
+        "start_offset": 263,
+        "end_offset": 268,
+        "start": 56.884,
+        "end": 57.464,
+        "score": -0.7025
+      },
+      {
+        "word": "trained",
+        "start_offset": 269,
+        "end_offset": 276,
+        "start": 57.744,
+        "end": 58.504,
+        "score": -0.7621
+      },
+      {
+        "word": "in",
+        "start_offset": 277,
+        "end_offset": 279,
+        "start": 59.644,
+        "end": 59.824,
+        "score": -5.8772
+      },
+      {
+        "word": "this",
+        "start_offset": 280,
+        "end_offset": 284,
+        "start": 60.244,
+        "end": 60.624,
+        "score": -0.6974
+      },
+      {
+        "word": "learning",
+        "start_offset": 285,
+        "end_offset": 293,
+        "start": 61.064,
+        "end": 61.704,
+        "score": -0.7161
+      },
+      {
+        "word": "began",
+        "start_offset": 294,
+        "end_offset": 299,
+        "start": 63.064,
+        "end": 63.804,
+        "score": -2.8972
+      },
+      {
+        "word": "to",
+        "start_offset": 300,
+        "end_offset": 302,
+        "start": 64.124,
+        "end": 64.304,
+        "score": -0.7031
+      },
+      {
+        "word": "attempt",
+        "start_offset": 303,
+        "end_offset": 310,
+        "start": 64.764,
+        "end": 65.744,
+        "score": -1.1649
+      },
+      {
+        "word": "to",
+        "start_offset": 311,
+        "end_offset": 313,
+        "start": 66.724,
+        "end": 66.905,
+        "score": -0.6985
+      },
+      {
+        "word": "use",
+        "start_offset": 314,
+        "end_offset": 317,
+        "start": 67.445,
+        "end": 67.925,
+        "score": -0.6989
+      },
+      {
+        "word": "crystal",
+        "start_offset": 318,
+        "end_offset": 325,
+        "start": 68.625,
+        "end": 69.445,
+        "score": -1.2455
+      },
+      {
+        "word": "powers",
+        "start_offset": 326,
+        "end_offset": 332,
+        "start": 70.065,
+        "end": 71.005,
+        "score": -0.7004
+      },
+      {
+        "word": "for",
+        "start_offset": 333,
+        "end_offset": 336,
+        "start": 72.105,
+        "end": 72.505,
+        "score": -0.696
+      },
+      {
+        "word": "those",
+        "start_offset": 337,
+        "end_offset": 342,
+        "start": 73.545,
+        "end": 74.005,
+        "score": -2.3125
+      },
+      {
+        "word": "things",
+        "start_offset": 343,
+        "end_offset": 349,
+        "start": 74.265,
+        "end": 74.945,
+        "score": -2.5972
+      },
+      {
+        "word": "other",
+        "start_offset": 350,
+        "end_offset": 355,
+        "start": 75.365,
+        "end": 75.745,
+        "score": -0.6955
+      },
+      {
+        "word": "than",
+        "start_offset": 356,
+        "end_offset": 360,
+        "start": 76.585,
+        "end": 76.905,
+        "score": -2.9389
+      },
+      {
+        "word": "healing,",
+        "start_offset": 361,
+        "end_offset": 369,
+        "start": 77.325,
+        "end": 78.005,
+        "score": -0.7189
+      },
+      {
+        "word": "as",
+        "start_offset": 370,
+        "end_offset": 372,
+        "start": 79.125,
+        "end": 79.485,
+        "score": -0.7
+      },
+      {
+        "word": "they",
+        "start_offset": 373,
+        "end_offset": 377,
+        "start": 79.825,
+        "end": 80.105,
+        "score": -0.7383
+      },
+      {
+        "word": "were",
+        "start_offset": 378,
+        "end_offset": 382,
+        "start": 80.885,
+        "end": 81.225,
+        "score": -0.7002
+      },
+      {
+        "word": "involved",
+        "start_offset": 383,
+        "end_offset": 391,
+        "start": 81.585,
+        "end": 82.746,
+        "score": -0.7088
+      },
+      {
+        "word": "not",
+        "start_offset": 392,
+        "end_offset": 395,
+        "start": 83.806,
+        "end": 84.146,
+        "score": -0.6947
+      },
+      {
+        "word": "only",
+        "start_offset": 396,
+        "end_offset": 400,
+        "start": 84.606,
+        "end": 84.946,
+        "score": -3.6948
+      },
+      {
+        "word": "with",
+        "start_offset": 401,
+        "end_offset": 405,
+        "start": 85.966,
+        "end": 86.346,
+        "score": -0.6955
+      },
+      {
+        "word": "learning",
+        "start_offset": 406,
+        "end_offset": 414,
+        "start": 86.646,
+        "end": 87.326,
+        "score": -0.7174
+      },
+      {
+        "word": "but",
+        "start_offset": 415,
+        "end_offset": 418,
+        "start": 88.386,
+        "end": 88.686,
+        "score": -0.6947
+      },
+      {
+        "word": "became",
+        "start_offset": 419,
+        "end_offset": 425,
+        "start": 89.046,
+        "end": 89.866,
+        "score": -0.6941
+      },
+      {
+        "word": "involved",
+        "start_offset": 426,
+        "end_offset": 434,
+        "start": 90.166,
+        "end": 91.086,
+        "score": -1.9236
+      },
+      {
+        "word": "with",
+        "start_offset": 435,
+        "end_offset": 439,
+        "start": 91.946,
+        "end": 92.226,
+        "score": -0.6951
+      },
+      {
+        "word": "what",
+        "start_offset": 440,
+        "end_offset": 444,
+        "start": 92.386,
+        "end": 92.626,
+        "score": -0.6981
+      },
+      {
+        "word": "you",
+        "start_offset": 445,
+        "end_offset": 448,
+        "start": 92.906,
+        "end": 93.046,
+        "score": -0.7021
+      },
+      {
+        "word": "would",
+        "start_offset": 449,
+        "end_offset": 454,
+        "start": 93.806,
+        "end": 94.206,
+        "score": -0.7431
+      },
+      {
+        "word": "call",
+        "start_offset": 455,
+        "end_offset": 459,
+        "start": 94.726,
+        "end": 95.226,
+        "score": -0.7503
+      },
+      {
+        "word": "the",
+        "start_offset": 460,
+        "end_offset": 463,
+        "start": 96.547,
+        "end": 96.687,
+        "score": -0.7592
+      },
+      {
+        "word": "governmental",
+        "start_offset": 464,
+        "end_offset": 476,
+        "start": 97.207,
+        "end": 98.927,
+        "score": -0.701
+      },
+      {
+        "word": "structure.",
+        "start_offset": 477,
+        "end_offset": 487,
+        "start": 99.987,
+        "end": 101.067,
+        "score": -1.5265
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "022-23.mp3",
+    "audio_duration": 103.0269,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

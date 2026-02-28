@@ -1,0 +1,352 @@
+{
+  "text": "Where are these crafts constructed? These crafts are constructed one by one in two locations in the desert or arid regions of your soul called New Mexico and in the desert or arid regions of your so called Mexico, both installations, a being under the ground.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Where are these crafts constructed?",
+        "start_offset": 32,
+        "end_offset": 60,
+        "start": 2.56,
+        "end": 4.8
+      },
+      {
+        "segment": "These crafts are constructed one by one in two locations in the desert or arid regions of your soul called New Mexico and in the desert or arid regions of your so called Mexico, both installations, a being under the ground.",
+        "start_offset": 119,
+        "end_offset": 916,
+        "start": 9.52,
+        "end": 73.28
+      }
+    ],
+    "word": [
+      {
+        "word": "Where",
+        "start_offset": 32,
+        "end_offset": 38,
+        "start": 2.56,
+        "end": 3.04
+      },
+      {
+        "word": "are",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 3.04,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "these",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 3.2800000000000002,
+        "end": 3.52
+      },
+      {
+        "word": "crafts",
+        "start_offset": 44,
+        "end_offset": 49,
+        "start": 3.52,
+        "end": 3.92
+      },
+      {
+        "word": "constructed?",
+        "start_offset": 51,
+        "end_offset": 60,
+        "start": 4.08,
+        "end": 4.8
+      },
+      {
+        "word": "These",
+        "start_offset": 119,
+        "end_offset": 127,
+        "start": 9.52,
+        "end": 10.16
+      },
+      {
+        "word": "crafts",
+        "start_offset": 131,
+        "end_offset": 149,
+        "start": 10.48,
+        "end": 11.92
+      },
+      {
+        "word": "are",
+        "start_offset": 157,
+        "end_offset": 161,
+        "start": 12.56,
+        "end": 12.88
+      },
+      {
+        "word": "constructed",
+        "start_offset": 173,
+        "end_offset": 189,
+        "start": 13.84,
+        "end": 15.120000000000001
+      },
+      {
+        "word": "one",
+        "start_offset": 205,
+        "end_offset": 209,
+        "start": 16.4,
+        "end": 16.72
+      },
+      {
+        "word": "by",
+        "start_offset": 221,
+        "end_offset": 225,
+        "start": 17.68,
+        "end": 18.0
+      },
+      {
+        "word": "one",
+        "start_offset": 241,
+        "end_offset": 245,
+        "start": 19.28,
+        "end": 19.6
+      },
+      {
+        "word": "in",
+        "start_offset": 263,
+        "end_offset": 267,
+        "start": 21.04,
+        "end": 21.36
+      },
+      {
+        "word": "two",
+        "start_offset": 279,
+        "end_offset": 283,
+        "start": 22.32,
+        "end": 22.64
+      },
+      {
+        "word": "locations",
+        "start_offset": 295,
+        "end_offset": 307,
+        "start": 23.6,
+        "end": 24.560000000000002
+      },
+      {
+        "word": "in",
+        "start_offset": 329,
+        "end_offset": 333,
+        "start": 26.32,
+        "end": 26.64
+      },
+      {
+        "word": "the",
+        "start_offset": 345,
+        "end_offset": 349,
+        "start": 27.6,
+        "end": 27.92
+      },
+      {
+        "word": "desert",
+        "start_offset": 381,
+        "end_offset": 393,
+        "start": 30.48,
+        "end": 31.44
+      },
+      {
+        "word": "or",
+        "start_offset": 397,
+        "end_offset": 401,
+        "start": 31.76,
+        "end": 32.08
+      },
+      {
+        "word": "arid",
+        "start_offset": 405,
+        "end_offset": 413,
+        "start": 32.4,
+        "end": 33.04
+      },
+      {
+        "word": "regions",
+        "start_offset": 425,
+        "end_offset": 433,
+        "start": 34.0,
+        "end": 34.64
+      },
+      {
+        "word": "of",
+        "start_offset": 445,
+        "end_offset": 449,
+        "start": 35.6,
+        "end": 35.92
+      },
+      {
+        "word": "your",
+        "start_offset": 461,
+        "end_offset": 465,
+        "start": 36.88,
+        "end": 37.2
+      },
+      {
+        "word": "soul",
+        "start_offset": 490,
+        "end_offset": 497,
+        "start": 39.2,
+        "end": 39.76
+      },
+      {
+        "word": "called",
+        "start_offset": 500,
+        "end_offset": 511,
+        "start": 40.0,
+        "end": 40.88
+      },
+      {
+        "word": "New",
+        "start_offset": 515,
+        "end_offset": 519,
+        "start": 41.2,
+        "end": 41.52
+      },
+      {
+        "word": "Mexico",
+        "start_offset": 531,
+        "end_offset": 542,
+        "start": 42.480000000000004,
+        "end": 43.36
+      },
+      {
+        "word": "and",
+        "start_offset": 561,
+        "end_offset": 565,
+        "start": 44.88,
+        "end": 45.2
+      },
+      {
+        "word": "in",
+        "start_offset": 577,
+        "end_offset": 581,
+        "start": 46.160000000000004,
+        "end": 46.480000000000004
+      },
+      {
+        "word": "the",
+        "start_offset": 593,
+        "end_offset": 597,
+        "start": 47.44,
+        "end": 47.76
+      },
+      {
+        "word": "desert",
+        "start_offset": 607,
+        "end_offset": 615,
+        "start": 48.56,
+        "end": 49.2
+      },
+      {
+        "word": "or",
+        "start_offset": 623,
+        "end_offset": 627,
+        "start": 49.84,
+        "end": 50.160000000000004
+      },
+      {
+        "word": "arid",
+        "start_offset": 635,
+        "end_offset": 643,
+        "start": 50.800000000000004,
+        "end": 51.44
+      },
+      {
+        "word": "regions",
+        "start_offset": 655,
+        "end_offset": 663,
+        "start": 52.4,
+        "end": 53.04
+      },
+      {
+        "word": "of",
+        "start_offset": 675,
+        "end_offset": 679,
+        "start": 54.0,
+        "end": 54.32
+      },
+      {
+        "word": "your",
+        "start_offset": 691,
+        "end_offset": 694,
+        "start": 55.28,
+        "end": 55.52
+      },
+      {
+        "word": "so",
+        "start_offset": 708,
+        "end_offset": 712,
+        "start": 56.64,
+        "end": 56.96
+      },
+      {
+        "word": "called",
+        "start_offset": 719,
+        "end_offset": 729,
+        "start": 57.52,
+        "end": 58.32
+      },
+      {
+        "word": "Mexico,",
+        "start_offset": 737,
+        "end_offset": 749,
+        "start": 58.96,
+        "end": 59.92
+      },
+      {
+        "word": "both",
+        "start_offset": 782,
+        "end_offset": 790,
+        "start": 62.56,
+        "end": 63.2
+      },
+      {
+        "word": "installations,",
+        "start_offset": 798,
+        "end_offset": 822,
+        "start": 63.84,
+        "end": 65.76
+      },
+      {
+        "word": "a",
+        "start_offset": 844,
+        "end_offset": 848,
+        "start": 67.52,
+        "end": 67.84
+      },
+      {
+        "word": "being",
+        "start_offset": 848,
+        "end_offset": 856,
+        "start": 67.84,
+        "end": 68.48
+      },
+      {
+        "word": "under",
+        "start_offset": 880,
+        "end_offset": 884,
+        "start": 70.4,
+        "end": 70.72
+      },
+      {
+        "word": "the",
+        "start_offset": 892,
+        "end_offset": 896,
+        "start": 71.36,
+        "end": 71.68
+      },
+      {
+        "word": "ground.",
+        "start_offset": 908,
+        "end_offset": 916,
+        "start": 72.64,
+        "end": 73.28
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "008-24.mp3",
+    "audio_duration": 75.05,
+    "transcription_time": 0.13,
+    "rtfx": 557.59,
+    "timestamp": "2026-01-06T21:46:25.501280+00:00"
+  }
+}

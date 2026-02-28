@@ -1,0 +1,268 @@
+{
+  "text": "Then the Confederation gardeners did nothing, I'm assuming, until some of the plants in their garden, shall I say, called them for help. Is this correct? I am raw. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then the Confederation gardeners did nothing, I'm assuming, until some of the plants in their garden, shall I say, called them for help.",
+        "start_offset": 36,
+        "end_offset": 201,
+        "start": 2.88,
+        "end": 16.080000000000002
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 204,
+        "end_offset": 222,
+        "start": 16.32,
+        "end": 17.76
+      },
+      {
+        "segment": "I am raw.",
+        "start_offset": 246,
+        "end_offset": 273,
+        "start": 19.68,
+        "end": 21.84
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 282,
+        "end_offset": 312,
+        "start": 22.56,
+        "end": 24.96
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 2.88,
+        "end": 3.12
+      },
+      {
+        "word": "the",
+        "start_offset": 43,
+        "end_offset": 47,
+        "start": 3.44,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "Confederation",
+        "start_offset": 47,
+        "end_offset": 60,
+        "start": 3.7600000000000002,
+        "end": 4.8
+      },
+      {
+        "word": "gardeners",
+        "start_offset": 60,
+        "end_offset": 72,
+        "start": 4.8,
+        "end": 5.76
+      },
+      {
+        "word": "did",
+        "start_offset": 88,
+        "end_offset": 92,
+        "start": 7.04,
+        "end": 7.36
+      },
+      {
+        "word": "nothing,",
+        "start_offset": 95,
+        "end_offset": 100,
+        "start": 7.6000000000000005,
+        "end": 8.0
+      },
+      {
+        "word": "I'm",
+        "start_offset": 101,
+        "end_offset": 105,
+        "start": 8.08,
+        "end": 8.4
+      },
+      {
+        "word": "assuming,",
+        "start_offset": 105,
+        "end_offset": 111,
+        "start": 8.4,
+        "end": 8.88
+      },
+      {
+        "word": "until",
+        "start_offset": 114,
+        "end_offset": 122,
+        "start": 9.120000000000001,
+        "end": 9.76
+      },
+      {
+        "word": "some",
+        "start_offset": 129,
+        "end_offset": 133,
+        "start": 10.32,
+        "end": 10.64
+      },
+      {
+        "word": "of",
+        "start_offset": 133,
+        "end_offset": 137,
+        "start": 10.64,
+        "end": 10.96
+      },
+      {
+        "word": "the",
+        "start_offset": 137,
+        "end_offset": 140,
+        "start": 10.96,
+        "end": 11.200000000000001
+      },
+      {
+        "word": "plants",
+        "start_offset": 140,
+        "end_offset": 146,
+        "start": 11.200000000000001,
+        "end": 11.68
+      },
+      {
+        "word": "in",
+        "start_offset": 146,
+        "end_offset": 149,
+        "start": 11.68,
+        "end": 11.92
+      },
+      {
+        "word": "their",
+        "start_offset": 149,
+        "end_offset": 151,
+        "start": 11.92,
+        "end": 12.08
+      },
+      {
+        "word": "garden,",
+        "start_offset": 151,
+        "end_offset": 156,
+        "start": 12.08,
+        "end": 12.48
+      },
+      {
+        "word": "shall",
+        "start_offset": 157,
+        "end_offset": 161,
+        "start": 12.56,
+        "end": 12.88
+      },
+      {
+        "word": "I",
+        "start_offset": 161,
+        "end_offset": 165,
+        "start": 12.88,
+        "end": 13.200000000000001
+      },
+      {
+        "word": "say,",
+        "start_offset": 165,
+        "end_offset": 169,
+        "start": 13.200000000000001,
+        "end": 13.52
+      },
+      {
+        "word": "called",
+        "start_offset": 176,
+        "end_offset": 186,
+        "start": 14.08,
+        "end": 14.88
+      },
+      {
+        "word": "them",
+        "start_offset": 186,
+        "end_offset": 190,
+        "start": 14.88,
+        "end": 15.200000000000001
+      },
+      {
+        "word": "for",
+        "start_offset": 190,
+        "end_offset": 194,
+        "start": 15.200000000000001,
+        "end": 15.52
+      },
+      {
+        "word": "help.",
+        "start_offset": 194,
+        "end_offset": 201,
+        "start": 15.52,
+        "end": 16.080000000000002
+      },
+      {
+        "word": "Is",
+        "start_offset": 204,
+        "end_offset": 208,
+        "start": 16.32,
+        "end": 16.64
+      },
+      {
+        "word": "this",
+        "start_offset": 208,
+        "end_offset": 212,
+        "start": 16.64,
+        "end": 16.96
+      },
+      {
+        "word": "correct?",
+        "start_offset": 212,
+        "end_offset": 222,
+        "start": 16.96,
+        "end": 17.76
+      },
+      {
+        "word": "I",
+        "start_offset": 246,
+        "end_offset": 250,
+        "start": 19.68,
+        "end": 20.0
+      },
+      {
+        "word": "am",
+        "start_offset": 254,
+        "end_offset": 258,
+        "start": 20.32,
+        "end": 20.64
+      },
+      {
+        "word": "raw.",
+        "start_offset": 262,
+        "end_offset": 273,
+        "start": 20.96,
+        "end": 21.84
+      },
+      {
+        "word": "This",
+        "start_offset": 282,
+        "end_offset": 286,
+        "start": 22.56,
+        "end": 22.88
+      },
+      {
+        "word": "is",
+        "start_offset": 294,
+        "end_offset": 298,
+        "start": 23.52,
+        "end": 23.84
+      },
+      {
+        "word": "correct.",
+        "start_offset": 302,
+        "end_offset": 312,
+        "start": 24.16,
+        "end": 24.96
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "021-15.mp3",
+    "audio_duration": 25.34,
+    "transcription_time": 0.09,
+    "rtfx": 274.74,
+    "timestamp": "2026-01-06T21:48:28.150118+00:00"
+  }
+}

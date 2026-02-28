@@ -1,0 +1,221 @@
+{
+  "text": "Would you define the word galaxy as you just used it? We use that term in this sense as you would use star systems.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would you define the word galaxy as you just used it?",
+        "start_offset": 0,
+        "end_offset": 53,
+        "start": 1.381,
+        "end": 6.145
+      },
+      {
+        "segment": "We use that term in this sense as you would use star systems.",
+        "start_offset": 54,
+        "end_offset": 115,
+        "start": 6.165,
+        "end": 18.575
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 1.381,
+        "end": 1.541,
+        "score": -8.2593
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 1.561,
+        "end": 1.641,
+        "score": -7.5695
+      },
+      {
+        "word": "define",
+        "start_offset": 10,
+        "end_offset": 16,
+        "start": 1.661,
+        "end": 2.042,
+        "score": -6.8827
+      },
+      {
+        "word": "the",
+        "start_offset": 17,
+        "end_offset": 20,
+        "start": 2.502,
+        "end": 2.582,
+        "score": -6.5977
+      },
+      {
+        "word": "word",
+        "start_offset": 21,
+        "end_offset": 25,
+        "start": 2.642,
+        "end": 2.822,
+        "score": -6.4047
+      },
+      {
+        "word": "galaxy",
+        "start_offset": 26,
+        "end_offset": 32,
+        "start": 2.862,
+        "end": 3.363,
+        "score": -7.6183
+      },
+      {
+        "word": "as",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 3.383,
+        "end": 3.483,
+        "score": -6.5043
+      },
+      {
+        "word": "you",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 3.543,
+        "end": 3.623,
+        "score": -9.6074
+      },
+      {
+        "word": "just",
+        "start_offset": 40,
+        "end_offset": 44,
+        "start": 3.643,
+        "end": 5.985,
+        "score": -8.0229
+      },
+      {
+        "word": "used",
+        "start_offset": 45,
+        "end_offset": 49,
+        "start": 6.005,
+        "end": 6.085,
+        "score": -7.2597
+      },
+      {
+        "word": "it?",
+        "start_offset": 50,
+        "end_offset": 53,
+        "start": 6.105,
+        "end": 6.145,
+        "score": -7.9841
+      },
+      {
+        "word": "We",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 6.165,
+        "end": 6.305,
+        "score": -0.8673
+      },
+      {
+        "word": "use",
+        "start_offset": 57,
+        "end_offset": 60,
+        "start": 7.186,
+        "end": 7.526,
+        "score": -0.7482
+      },
+      {
+        "word": "that",
+        "start_offset": 61,
+        "end_offset": 65,
+        "start": 7.546,
+        "end": 8.347,
+        "score": -4.7822
+      },
+      {
+        "word": "term",
+        "start_offset": 66,
+        "end_offset": 70,
+        "start": 8.807,
+        "end": 9.247,
+        "score": -1.1128
+      },
+      {
+        "word": "in",
+        "start_offset": 71,
+        "end_offset": 73,
+        "start": 9.828,
+        "end": 10.028,
+        "score": -1.7583
+      },
+      {
+        "word": "this",
+        "start_offset": 74,
+        "end_offset": 78,
+        "start": 10.749,
+        "end": 11.109,
+        "score": -1.075
+      },
+      {
+        "word": "sense",
+        "start_offset": 79,
+        "end_offset": 84,
+        "start": 11.749,
+        "end": 12.25,
+        "score": -1.8806
+      },
+      {
+        "word": "as",
+        "start_offset": 85,
+        "end_offset": 87,
+        "start": 12.79,
+        "end": 13.15,
+        "score": -0.7139
+      },
+      {
+        "word": "you",
+        "start_offset": 88,
+        "end_offset": 91,
+        "start": 13.811,
+        "end": 13.971,
+        "score": -0.8272
+      },
+      {
+        "word": "would",
+        "start_offset": 92,
+        "end_offset": 97,
+        "start": 14.592,
+        "end": 14.932,
+        "score": -0.7865
+      },
+      {
+        "word": "use",
+        "start_offset": 98,
+        "end_offset": 101,
+        "start": 15.612,
+        "end": 15.933,
+        "score": -0.9786
+      },
+      {
+        "word": "star",
+        "start_offset": 102,
+        "end_offset": 106,
+        "start": 16.653,
+        "end": 17.094,
+        "score": -0.7405
+      },
+      {
+        "word": "systems.",
+        "start_offset": 107,
+        "end_offset": 115,
+        "start": 17.694,
+        "end": 18.575,
+        "score": -1.4451
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-34.mp3",
+    "audio_duration": 20.0359,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

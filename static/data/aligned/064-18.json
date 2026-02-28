@@ -1,0 +1,307 @@
+{
+  "text": "I know it is totally unimportant, but as a service to Dr. Monroe I thought that I should ask that. I am Ra. This entity was one of a small group of thought-forms.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I know it is totally unimportant, but as a service to Dr.",
+        "start_offset": 0,
+        "end_offset": 57,
+        "start": 2.401,
+        "end": 8.402
+      },
+      {
+        "segment": "Monroe I thought that I should ask that.",
+        "start_offset": 58,
+        "end_offset": 98,
+        "start": 8.482,
+        "end": 15.765
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 99,
+        "end_offset": 107,
+        "start": 16.065,
+        "end": 19.346
+      },
+      {
+        "segment": "This entity was one of a small group of thought-forms.",
+        "start_offset": 108,
+        "end_offset": 162,
+        "start": 19.426,
+        "end": 34.53
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 2.401,
+        "end": 2.421,
+        "score": -7.3086
+      },
+      {
+        "word": "know",
+        "start_offset": 2,
+        "end_offset": 6,
+        "start": 2.441,
+        "end": 2.701,
+        "score": -4.5365
+      },
+      {
+        "word": "it",
+        "start_offset": 7,
+        "end_offset": 9,
+        "start": 2.741,
+        "end": 2.821,
+        "score": -4.0741
+      },
+      {
+        "word": "is",
+        "start_offset": 10,
+        "end_offset": 12,
+        "start": 2.841,
+        "end": 2.961,
+        "score": -3.7323
+      },
+      {
+        "word": "totally",
+        "start_offset": 13,
+        "end_offset": 20,
+        "start": 3.001,
+        "end": 3.301,
+        "score": -3.2778
+      },
+      {
+        "word": "unimportant,",
+        "start_offset": 21,
+        "end_offset": 33,
+        "start": 3.381,
+        "end": 3.961,
+        "score": -1.9127
+      },
+      {
+        "word": "but",
+        "start_offset": 34,
+        "end_offset": 37,
+        "start": 4.581,
+        "end": 4.901,
+        "score": -2.3741
+      },
+      {
+        "word": "as",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 7.182,
+        "end": 7.282,
+        "score": -3.029
+      },
+      {
+        "word": "a",
+        "start_offset": 41,
+        "end_offset": 42,
+        "start": 7.342,
+        "end": 7.362,
+        "score": -2.3025
+      },
+      {
+        "word": "service",
+        "start_offset": 43,
+        "end_offset": 50,
+        "start": 7.442,
+        "end": 7.882,
+        "score": -3.2333
+      },
+      {
+        "word": "to",
+        "start_offset": 51,
+        "end_offset": 53,
+        "start": 7.942,
+        "end": 8.022,
+        "score": -3.2322
+      },
+      {
+        "word": "Dr.",
+        "start_offset": 54,
+        "end_offset": 57,
+        "start": 8.122,
+        "end": 8.402,
+        "score": -4.28
+      },
+      {
+        "word": "Monroe",
+        "start_offset": 58,
+        "end_offset": 64,
+        "start": 8.482,
+        "end": 8.903,
+        "score": -4.535
+      },
+      {
+        "word": "I",
+        "start_offset": 65,
+        "end_offset": 66,
+        "start": 8.943,
+        "end": 8.963,
+        "score": -4.2887
+      },
+      {
+        "word": "thought",
+        "start_offset": 67,
+        "end_offset": 74,
+        "start": 9.023,
+        "end": 9.223,
+        "score": -5.8692
+      },
+      {
+        "word": "that",
+        "start_offset": 75,
+        "end_offset": 79,
+        "start": 9.243,
+        "end": 9.363,
+        "score": -4.0752
+      },
+      {
+        "word": "I",
+        "start_offset": 80,
+        "end_offset": 81,
+        "start": 9.443,
+        "end": 9.463,
+        "score": -5.0922
+      },
+      {
+        "word": "should",
+        "start_offset": 82,
+        "end_offset": 88,
+        "start": 9.523,
+        "end": 9.683,
+        "score": -4.8992
+      },
+      {
+        "word": "ask",
+        "start_offset": 89,
+        "end_offset": 92,
+        "start": 9.763,
+        "end": 9.943,
+        "score": -5.0483
+      },
+      {
+        "word": "that.",
+        "start_offset": 93,
+        "end_offset": 98,
+        "start": 9.963,
+        "end": 15.765,
+        "score": -4.822
+      },
+      {
+        "word": "I",
+        "start_offset": 99,
+        "end_offset": 100,
+        "start": 16.065,
+        "end": 16.085,
+        "score": -1.4696
+      },
+      {
+        "word": "am",
+        "start_offset": 101,
+        "end_offset": 103,
+        "start": 16.845,
+        "end": 17.185,
+        "score": -2.3501
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 104,
+        "end_offset": 107,
+        "start": 18.025,
+        "end": 19.346,
+        "score": -3.044
+      },
+      {
+        "word": "This",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 19.426,
+        "end": 19.846,
+        "score": -0.9103
+      },
+      {
+        "word": "entity",
+        "start_offset": 113,
+        "end_offset": 119,
+        "start": 20.806,
+        "end": 21.466,
+        "score": -0.7242
+      },
+      {
+        "word": "was",
+        "start_offset": 120,
+        "end_offset": 123,
+        "start": 24.327,
+        "end": 24.787,
+        "score": -0.8405
+      },
+      {
+        "word": "one",
+        "start_offset": 124,
+        "end_offset": 127,
+        "start": 25.187,
+        "end": 25.507,
+        "score": -0.7933
+      },
+      {
+        "word": "of",
+        "start_offset": 128,
+        "end_offset": 130,
+        "start": 25.908,
+        "end": 26.228,
+        "score": -3.0675
+      },
+      {
+        "word": "a",
+        "start_offset": 131,
+        "end_offset": 132,
+        "start": 26.748,
+        "end": 26.768,
+        "score": -0.8554
+      },
+      {
+        "word": "small",
+        "start_offset": 133,
+        "end_offset": 138,
+        "start": 28.128,
+        "end": 28.608,
+        "score": -0.9095
+      },
+      {
+        "word": "group",
+        "start_offset": 139,
+        "end_offset": 144,
+        "start": 29.449,
+        "end": 29.969,
+        "score": -2.8267
+      },
+      {
+        "word": "of",
+        "start_offset": 145,
+        "end_offset": 147,
+        "start": 31.069,
+        "end": 31.369,
+        "score": -3.1695
+      },
+      {
+        "word": "thought-forms.",
+        "start_offset": 148,
+        "end_offset": 162,
+        "start": 32.189,
+        "end": 34.53,
+        "score": -2.9102
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "064-18.mp3",
+    "audio_duration": 35.0303,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

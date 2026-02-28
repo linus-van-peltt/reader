@@ -1,0 +1,936 @@
+{
+  "text": "I have a question that I couldn't properly answer last night. It was asked by Morris. It has to do with the vibrations of the densities. I understand that first density is composed of core atomic vibrations that are in the red spectrum, second in the orange, etc. Am I to understand that the core vibrations of our planet are still in the red and that second-density beings are still in the orange at this time/space or space/time right now and that each density as it exists on our planet at this time has a different core vibration, or is this incorrect? I am Ra. This is precisely correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I have a question that I couldn't properly answer last night.",
+        "start_offset": 0,
+        "end_offset": 61,
+        "start": 2.7,
+        "end": 10.741
+      },
+      {
+        "segment": "It was asked by Morris.",
+        "start_offset": 62,
+        "end_offset": 85,
+        "start": 10.781,
+        "end": 11.821
+      },
+      {
+        "segment": "It has to do with the vibrations of the densities.",
+        "start_offset": 86,
+        "end_offset": 136,
+        "start": 14.741,
+        "end": 19.322
+      },
+      {
+        "segment": "I understand that first density is composed of core atomic vibrations that are in the red spectrum, second in the orange, etc.",
+        "start_offset": 137,
+        "end_offset": 263,
+        "start": 22.062,
+        "end": 34.203
+      },
+      {
+        "segment": "Am I to understand that the core vibrations of our planet are still in the red and that second-density beings are still in the orange at this time/space or space/time right now and that each density as it exists on our planet at this time has a different core vibration, or is this incorrect?",
+        "start_offset": 264,
+        "end_offset": 556,
+        "start": 38.043,
+        "end": 67.666
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 557,
+        "end_offset": 565,
+        "start": 69.646,
+        "end": 71.426
+      },
+      {
+        "segment": "This is precisely correct.",
+        "start_offset": 566,
+        "end_offset": 592,
+        "start": 72.826,
+        "end": 78.146
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 2.7,
+        "end": 2.72,
+        "score": -2.9404
+      },
+      {
+        "word": "have",
+        "start_offset": 2,
+        "end_offset": 6,
+        "start": 2.78,
+        "end": 3.04,
+        "score": -1.8191
+      },
+      {
+        "word": "a",
+        "start_offset": 7,
+        "end_offset": 8,
+        "start": 4.18,
+        "end": 4.2,
+        "score": -2.8599
+      },
+      {
+        "word": "question",
+        "start_offset": 9,
+        "end_offset": 17,
+        "start": 4.28,
+        "end": 4.74,
+        "score": -1.6515
+      },
+      {
+        "word": "that",
+        "start_offset": 18,
+        "end_offset": 22,
+        "start": 5.42,
+        "end": 5.54,
+        "score": -3.5347
+      },
+      {
+        "word": "I",
+        "start_offset": 23,
+        "end_offset": 24,
+        "start": 5.68,
+        "end": 5.7,
+        "score": -2.6767
+      },
+      {
+        "word": "couldn't",
+        "start_offset": 25,
+        "end_offset": 33,
+        "start": 5.76,
+        "end": 6.121,
+        "score": -1.7296
+      },
+      {
+        "word": "properly",
+        "start_offset": 34,
+        "end_offset": 42,
+        "start": 7.721,
+        "end": 8.141,
+        "score": -0.8281
+      },
+      {
+        "word": "answer",
+        "start_offset": 43,
+        "end_offset": 49,
+        "start": 8.301,
+        "end": 8.621,
+        "score": -1.0109
+      },
+      {
+        "word": "last",
+        "start_offset": 50,
+        "end_offset": 54,
+        "start": 9.421,
+        "end": 9.701,
+        "score": -3.3116
+      },
+      {
+        "word": "night.",
+        "start_offset": 55,
+        "end_offset": 61,
+        "start": 9.741,
+        "end": 10.741,
+        "score": -2.9297
+      },
+      {
+        "word": "It",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 10.781,
+        "end": 10.821,
+        "score": -5.0487
+      },
+      {
+        "word": "was",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 10.841,
+        "end": 10.901,
+        "score": -4.1628
+      },
+      {
+        "word": "asked",
+        "start_offset": 69,
+        "end_offset": 74,
+        "start": 11.061,
+        "end": 11.181,
+        "score": -4.4965
+      },
+      {
+        "word": "by",
+        "start_offset": 75,
+        "end_offset": 77,
+        "start": 11.241,
+        "end": 11.421,
+        "score": -4.3128
+      },
+      {
+        "word": "Morris.",
+        "start_offset": 78,
+        "end_offset": 85,
+        "start": 11.461,
+        "end": 11.821,
+        "score": -2.5187
+      },
+      {
+        "word": "It",
+        "start_offset": 86,
+        "end_offset": 88,
+        "start": 14.741,
+        "end": 14.781,
+        "score": -3.9719
+      },
+      {
+        "word": "has",
+        "start_offset": 89,
+        "end_offset": 92,
+        "start": 14.801,
+        "end": 14.921,
+        "score": -2.0529
+      },
+      {
+        "word": "to",
+        "start_offset": 93,
+        "end_offset": 95,
+        "start": 14.961,
+        "end": 15.041,
+        "score": -2.0348
+      },
+      {
+        "word": "do",
+        "start_offset": 96,
+        "end_offset": 98,
+        "start": 15.101,
+        "end": 15.201,
+        "score": -2.2838
+      },
+      {
+        "word": "with",
+        "start_offset": 99,
+        "end_offset": 103,
+        "start": 15.301,
+        "end": 15.461,
+        "score": -2.6652
+      },
+      {
+        "word": "the",
+        "start_offset": 104,
+        "end_offset": 107,
+        "start": 15.501,
+        "end": 15.601,
+        "score": -4.0589
+      },
+      {
+        "word": "vibrations",
+        "start_offset": 108,
+        "end_offset": 118,
+        "start": 17.581,
+        "end": 18.362,
+        "score": -2.592
+      },
+      {
+        "word": "of",
+        "start_offset": 119,
+        "end_offset": 121,
+        "start": 18.402,
+        "end": 18.462,
+        "score": -2.6615
+      },
+      {
+        "word": "the",
+        "start_offset": 122,
+        "end_offset": 125,
+        "start": 18.502,
+        "end": 18.562,
+        "score": -3.659
+      },
+      {
+        "word": "densities.",
+        "start_offset": 126,
+        "end_offset": 136,
+        "start": 18.642,
+        "end": 19.322,
+        "score": -2.4626
+      },
+      {
+        "word": "I",
+        "start_offset": 137,
+        "end_offset": 138,
+        "start": 22.062,
+        "end": 22.082,
+        "score": -1.6023
+      },
+      {
+        "word": "understand",
+        "start_offset": 139,
+        "end_offset": 149,
+        "start": 22.142,
+        "end": 22.702,
+        "score": -1.0538
+      },
+      {
+        "word": "that",
+        "start_offset": 150,
+        "end_offset": 154,
+        "start": 22.982,
+        "end": 23.082,
+        "score": -3.9362
+      },
+      {
+        "word": "first",
+        "start_offset": 155,
+        "end_offset": 160,
+        "start": 23.122,
+        "end": 23.402,
+        "score": -0.8913
+      },
+      {
+        "word": "density",
+        "start_offset": 161,
+        "end_offset": 168,
+        "start": 23.442,
+        "end": 23.862,
+        "score": -1.2816
+      },
+      {
+        "word": "is",
+        "start_offset": 169,
+        "end_offset": 171,
+        "start": 23.942,
+        "end": 24.002,
+        "score": -0.7673
+      },
+      {
+        "word": "composed",
+        "start_offset": 172,
+        "end_offset": 180,
+        "start": 24.042,
+        "end": 24.602,
+        "score": -0.7033
+      },
+      {
+        "word": "of",
+        "start_offset": 181,
+        "end_offset": 183,
+        "start": 24.662,
+        "end": 24.762,
+        "score": -0.8438
+      },
+      {
+        "word": "core",
+        "start_offset": 184,
+        "end_offset": 188,
+        "start": 27.102,
+        "end": 27.402,
+        "score": -1.8745
+      },
+      {
+        "word": "atomic",
+        "start_offset": 189,
+        "end_offset": 195,
+        "start": 27.442,
+        "end": 27.882,
+        "score": -0.9675
+      },
+      {
+        "word": "vibrations",
+        "start_offset": 196,
+        "end_offset": 206,
+        "start": 27.942,
+        "end": 28.682,
+        "score": -0.7803
+      },
+      {
+        "word": "that",
+        "start_offset": 207,
+        "end_offset": 211,
+        "start": 28.722,
+        "end": 28.882,
+        "score": -1.3514
+      },
+      {
+        "word": "are",
+        "start_offset": 212,
+        "end_offset": 215,
+        "start": 28.942,
+        "end": 29.102,
+        "score": -2.6553
+      },
+      {
+        "word": "in",
+        "start_offset": 216,
+        "end_offset": 218,
+        "start": 29.962,
+        "end": 30.042,
+        "score": -1.2296
+      },
+      {
+        "word": "the",
+        "start_offset": 219,
+        "end_offset": 222,
+        "start": 30.082,
+        "end": 30.163,
+        "score": -1.6408
+      },
+      {
+        "word": "red",
+        "start_offset": 223,
+        "end_offset": 226,
+        "start": 30.263,
+        "end": 30.563,
+        "score": -1.5577
+      },
+      {
+        "word": "spectrum,",
+        "start_offset": 227,
+        "end_offset": 236,
+        "start": 31.283,
+        "end": 31.743,
+        "score": -2.7119
+      },
+      {
+        "word": "second",
+        "start_offset": 237,
+        "end_offset": 243,
+        "start": 32.483,
+        "end": 32.863,
+        "score": -3.062
+      },
+      {
+        "word": "in",
+        "start_offset": 244,
+        "end_offset": 246,
+        "start": 33.183,
+        "end": 33.263,
+        "score": -2.2798
+      },
+      {
+        "word": "the",
+        "start_offset": 247,
+        "end_offset": 250,
+        "start": 33.283,
+        "end": 33.363,
+        "score": -2.722
+      },
+      {
+        "word": "orange,",
+        "start_offset": 251,
+        "end_offset": 258,
+        "start": 33.483,
+        "end": 33.883,
+        "score": -1.8838
+      },
+      {
+        "word": "etc.",
+        "start_offset": 259,
+        "end_offset": 263,
+        "start": 34.063,
+        "end": 34.203,
+        "score": -3.4788
+      },
+      {
+        "word": "Am",
+        "start_offset": 264,
+        "end_offset": 266,
+        "start": 38.043,
+        "end": 38.123,
+        "score": -2.6779
+      },
+      {
+        "word": "I",
+        "start_offset": 267,
+        "end_offset": 268,
+        "start": 38.303,
+        "end": 38.323,
+        "score": -0.9405
+      },
+      {
+        "word": "to",
+        "start_offset": 269,
+        "end_offset": 271,
+        "start": 38.343,
+        "end": 38.403,
+        "score": -6.1458
+      },
+      {
+        "word": "understand",
+        "start_offset": 272,
+        "end_offset": 282,
+        "start": 38.543,
+        "end": 39.183,
+        "score": -0.7247
+      },
+      {
+        "word": "that",
+        "start_offset": 283,
+        "end_offset": 287,
+        "start": 39.223,
+        "end": 39.383,
+        "score": -0.7397
+      },
+      {
+        "word": "the",
+        "start_offset": 288,
+        "end_offset": 291,
+        "start": 39.463,
+        "end": 39.583,
+        "score": -0.8482
+      },
+      {
+        "word": "core",
+        "start_offset": 292,
+        "end_offset": 296,
+        "start": 40.323,
+        "end": 40.563,
+        "score": -1.065
+      },
+      {
+        "word": "vibrations",
+        "start_offset": 297,
+        "end_offset": 307,
+        "start": 40.623,
+        "end": 41.343,
+        "score": -0.7598
+      },
+      {
+        "word": "of",
+        "start_offset": 308,
+        "end_offset": 310,
+        "start": 41.383,
+        "end": 41.463,
+        "score": -0.7124
+      },
+      {
+        "word": "our",
+        "start_offset": 311,
+        "end_offset": 314,
+        "start": 41.563,
+        "end": 41.703,
+        "score": -0.852
+      },
+      {
+        "word": "planet",
+        "start_offset": 315,
+        "end_offset": 321,
+        "start": 42.904,
+        "end": 43.344,
+        "score": -0.7271
+      },
+      {
+        "word": "are",
+        "start_offset": 322,
+        "end_offset": 325,
+        "start": 44.744,
+        "end": 44.884,
+        "score": -0.8001
+      },
+      {
+        "word": "still",
+        "start_offset": 326,
+        "end_offset": 331,
+        "start": 44.944,
+        "end": 45.264,
+        "score": -0.9545
+      },
+      {
+        "word": "in",
+        "start_offset": 332,
+        "end_offset": 334,
+        "start": 45.444,
+        "end": 45.564,
+        "score": -1.3761
+      },
+      {
+        "word": "the",
+        "start_offset": 335,
+        "end_offset": 338,
+        "start": 45.624,
+        "end": 45.744,
+        "score": -2.2631
+      },
+      {
+        "word": "red",
+        "start_offset": 339,
+        "end_offset": 342,
+        "start": 46.184,
+        "end": 46.524,
+        "score": -1.0854
+      },
+      {
+        "word": "and",
+        "start_offset": 343,
+        "end_offset": 346,
+        "start": 46.784,
+        "end": 46.884,
+        "score": -1.2849
+      },
+      {
+        "word": "that",
+        "start_offset": 347,
+        "end_offset": 351,
+        "start": 46.924,
+        "end": 47.084,
+        "score": -1.3785
+      },
+      {
+        "word": "second-density",
+        "start_offset": 352,
+        "end_offset": 366,
+        "start": 47.184,
+        "end": 47.804,
+        "score": -1.6422
+      },
+      {
+        "word": "beings",
+        "start_offset": 367,
+        "end_offset": 373,
+        "start": 47.964,
+        "end": 48.484,
+        "score": -1.5233
+      },
+      {
+        "word": "are",
+        "start_offset": 374,
+        "end_offset": 377,
+        "start": 49.444,
+        "end": 49.584,
+        "score": -1.4095
+      },
+      {
+        "word": "still",
+        "start_offset": 378,
+        "end_offset": 383,
+        "start": 49.744,
+        "end": 50.024,
+        "score": -0.7658
+      },
+      {
+        "word": "in",
+        "start_offset": 384,
+        "end_offset": 386,
+        "start": 50.104,
+        "end": 50.164,
+        "score": -0.7297
+      },
+      {
+        "word": "the",
+        "start_offset": 387,
+        "end_offset": 390,
+        "start": 50.204,
+        "end": 50.284,
+        "score": -0.9763
+      },
+      {
+        "word": "orange",
+        "start_offset": 391,
+        "end_offset": 397,
+        "start": 50.404,
+        "end": 50.844,
+        "score": -0.7327
+      },
+      {
+        "word": "at",
+        "start_offset": 398,
+        "end_offset": 400,
+        "start": 51.204,
+        "end": 51.284,
+        "score": -1.0535
+      },
+      {
+        "word": "this",
+        "start_offset": 401,
+        "end_offset": 405,
+        "start": 51.344,
+        "end": 51.524,
+        "score": -1.1742
+      },
+      {
+        "word": "time/space",
+        "start_offset": 406,
+        "end_offset": 416,
+        "start": 52.264,
+        "end": 53.124,
+        "score": -0.7869
+      },
+      {
+        "word": "or",
+        "start_offset": 417,
+        "end_offset": 419,
+        "start": 53.384,
+        "end": 53.484,
+        "score": -3.4917
+      },
+      {
+        "word": "space/time",
+        "start_offset": 420,
+        "end_offset": 430,
+        "start": 53.584,
+        "end": 54.084,
+        "score": -1.4132
+      },
+      {
+        "word": "right",
+        "start_offset": 431,
+        "end_offset": 436,
+        "start": 54.104,
+        "end": 54.265,
+        "score": -1.3652
+      },
+      {
+        "word": "now",
+        "start_offset": 437,
+        "end_offset": 440,
+        "start": 54.345,
+        "end": 54.545,
+        "score": -0.9146
+      },
+      {
+        "word": "and",
+        "start_offset": 441,
+        "end_offset": 444,
+        "start": 55.585,
+        "end": 55.765,
+        "score": -1.9181
+      },
+      {
+        "word": "that",
+        "start_offset": 445,
+        "end_offset": 449,
+        "start": 55.805,
+        "end": 55.965,
+        "score": -2.6044
+      },
+      {
+        "word": "each",
+        "start_offset": 450,
+        "end_offset": 454,
+        "start": 60.225,
+        "end": 60.445,
+        "score": -0.8112
+      },
+      {
+        "word": "density",
+        "start_offset": 455,
+        "end_offset": 462,
+        "start": 60.945,
+        "end": 61.325,
+        "score": -1.8323
+      },
+      {
+        "word": "as",
+        "start_offset": 463,
+        "end_offset": 465,
+        "start": 61.365,
+        "end": 61.465,
+        "score": -3.1177
+      },
+      {
+        "word": "it",
+        "start_offset": 466,
+        "end_offset": 468,
+        "start": 61.745,
+        "end": 61.825,
+        "score": -0.9049
+      },
+      {
+        "word": "exists",
+        "start_offset": 469,
+        "end_offset": 475,
+        "start": 62.185,
+        "end": 62.645,
+        "score": -0.7453
+      },
+      {
+        "word": "on",
+        "start_offset": 476,
+        "end_offset": 478,
+        "start": 62.705,
+        "end": 62.785,
+        "score": -0.7805
+      },
+      {
+        "word": "our",
+        "start_offset": 479,
+        "end_offset": 482,
+        "start": 62.845,
+        "end": 62.925,
+        "score": -1.8463
+      },
+      {
+        "word": "planet",
+        "start_offset": 483,
+        "end_offset": 489,
+        "start": 62.985,
+        "end": 63.265,
+        "score": -1.0411
+      },
+      {
+        "word": "at",
+        "start_offset": 490,
+        "end_offset": 492,
+        "start": 63.285,
+        "end": 63.325,
+        "score": -4.0816
+      },
+      {
+        "word": "this",
+        "start_offset": 493,
+        "end_offset": 497,
+        "start": 63.385,
+        "end": 63.525,
+        "score": -0.821
+      },
+      {
+        "word": "time",
+        "start_offset": 498,
+        "end_offset": 502,
+        "start": 63.585,
+        "end": 63.865,
+        "score": -0.7844
+      },
+      {
+        "word": "has",
+        "start_offset": 503,
+        "end_offset": 506,
+        "start": 63.885,
+        "end": 64.005,
+        "score": -2.049
+      },
+      {
+        "word": "a",
+        "start_offset": 507,
+        "end_offset": 508,
+        "start": 64.045,
+        "end": 64.065,
+        "score": -0.7713
+      },
+      {
+        "word": "different",
+        "start_offset": 509,
+        "end_offset": 518,
+        "start": 64.125,
+        "end": 64.445,
+        "score": -0.7927
+      },
+      {
+        "word": "core",
+        "start_offset": 519,
+        "end_offset": 523,
+        "start": 64.485,
+        "end": 64.685,
+        "score": -1.2208
+      },
+      {
+        "word": "vibration,",
+        "start_offset": 524,
+        "end_offset": 534,
+        "start": 64.725,
+        "end": 65.365,
+        "score": -1.5011
+      },
+      {
+        "word": "or",
+        "start_offset": 535,
+        "end_offset": 537,
+        "start": 66.486,
+        "end": 66.586,
+        "score": -0.8608
+      },
+      {
+        "word": "is",
+        "start_offset": 538,
+        "end_offset": 540,
+        "start": 66.626,
+        "end": 66.706,
+        "score": -0.9402
+      },
+      {
+        "word": "this",
+        "start_offset": 541,
+        "end_offset": 545,
+        "start": 66.726,
+        "end": 66.886,
+        "score": -0.8356
+      },
+      {
+        "word": "incorrect?",
+        "start_offset": 546,
+        "end_offset": 556,
+        "start": 66.946,
+        "end": 67.666,
+        "score": -0.7955
+      },
+      {
+        "word": "I",
+        "start_offset": 557,
+        "end_offset": 558,
+        "start": 69.646,
+        "end": 69.666,
+        "score": -4.1368
+      },
+      {
+        "word": "am",
+        "start_offset": 559,
+        "end_offset": 561,
+        "start": 70.426,
+        "end": 71.286,
+        "score": -5.3126
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 562,
+        "end_offset": 565,
+        "start": 71.306,
+        "end": 71.426,
+        "score": -6.9656
+      },
+      {
+        "word": "This",
+        "start_offset": 566,
+        "end_offset": 570,
+        "start": 72.826,
+        "end": 73.206,
+        "score": -2.6886
+      },
+      {
+        "word": "is",
+        "start_offset": 571,
+        "end_offset": 573,
+        "start": 73.946,
+        "end": 74.266,
+        "score": -2.1462
+      },
+      {
+        "word": "precisely",
+        "start_offset": 574,
+        "end_offset": 583,
+        "start": 75.046,
+        "end": 76.306,
+        "score": -1.2042
+      },
+      {
+        "word": "correct.",
+        "start_offset": 584,
+        "end_offset": 592,
+        "start": 77.306,
+        "end": 78.146,
+        "score": -2.3862
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "062-27.mp3",
+    "audio_duration": 79.0466,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

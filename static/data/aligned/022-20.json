@@ -1,0 +1,196 @@
+{
+  "text": "Was this first calling then at a time before Atlantis became technologically advanced? I am Ra. This is basically correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Was this first calling then at a time before Atlantis became technologically advanced?",
+        "start_offset": 0,
+        "end_offset": 86,
+        "start": 1.621,
+        "end": 8.868
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 87,
+        "end_offset": 95,
+        "start": 13.952,
+        "end": 15.634
+      },
+      {
+        "segment": "This is basically correct.",
+        "start_offset": 96,
+        "end_offset": 122,
+        "start": 18.056,
+        "end": 22.62
+      }
+    ],
+    "word": [
+      {
+        "word": "Was",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 1.621,
+        "end": 1.762,
+        "score": -0.704
+      },
+      {
+        "word": "this",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 1.822,
+        "end": 2.002,
+        "score": -0.7185
+      },
+      {
+        "word": "first",
+        "start_offset": 9,
+        "end_offset": 14,
+        "start": 2.062,
+        "end": 2.342,
+        "score": -0.7008
+      },
+      {
+        "word": "calling",
+        "start_offset": 15,
+        "end_offset": 22,
+        "start": 2.402,
+        "end": 2.822,
+        "score": -0.7131
+      },
+      {
+        "word": "then",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 2.883,
+        "end": 3.083,
+        "score": -1.0838
+      },
+      {
+        "word": "at",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 4.764,
+        "end": 4.864,
+        "score": -0.9142
+      },
+      {
+        "word": "a",
+        "start_offset": 31,
+        "end_offset": 32,
+        "start": 4.884,
+        "end": 4.904,
+        "score": -0.8424
+      },
+      {
+        "word": "time",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 5.004,
+        "end": 5.265,
+        "score": -2.5193
+      },
+      {
+        "word": "before",
+        "start_offset": 38,
+        "end_offset": 44,
+        "start": 5.305,
+        "end": 5.665,
+        "score": -0.7152
+      },
+      {
+        "word": "Atlantis",
+        "start_offset": 45,
+        "end_offset": 53,
+        "start": 5.765,
+        "end": 6.285,
+        "score": -0.8197
+      },
+      {
+        "word": "became",
+        "start_offset": 54,
+        "end_offset": 60,
+        "start": 6.426,
+        "end": 6.866,
+        "score": -0.7128
+      },
+      {
+        "word": "technologically",
+        "start_offset": 61,
+        "end_offset": 76,
+        "start": 7.466,
+        "end": 8.287,
+        "score": -0.7656
+      },
+      {
+        "word": "advanced?",
+        "start_offset": 77,
+        "end_offset": 86,
+        "start": 8.347,
+        "end": 8.868,
+        "score": -0.7401
+      },
+      {
+        "word": "I",
+        "start_offset": 87,
+        "end_offset": 88,
+        "start": 13.952,
+        "end": 13.972,
+        "score": -1.0123
+      },
+      {
+        "word": "am",
+        "start_offset": 89,
+        "end_offset": 91,
+        "start": 14.593,
+        "end": 14.873,
+        "score": -1.873
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 92,
+        "end_offset": 95,
+        "start": 15.493,
+        "end": 15.634,
+        "score": -1.2234
+      },
+      {
+        "word": "This",
+        "start_offset": 96,
+        "end_offset": 100,
+        "start": 18.056,
+        "end": 18.396,
+        "score": -0.8131
+      },
+      {
+        "word": "is",
+        "start_offset": 101,
+        "end_offset": 103,
+        "start": 18.976,
+        "end": 19.277,
+        "score": -0.8699
+      },
+      {
+        "word": "basically",
+        "start_offset": 104,
+        "end_offset": 113,
+        "start": 19.957,
+        "end": 20.818,
+        "score": -0.9552
+      },
+      {
+        "word": "correct.",
+        "start_offset": 114,
+        "end_offset": 122,
+        "start": 21.739,
+        "end": 22.62,
+        "score": -0.7274
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "022-20.mp3",
+    "audio_duration": 23.04,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

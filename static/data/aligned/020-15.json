@@ -1,0 +1,203 @@
+{
+  "text": "Then in 25, 000 years we lost two hundred years of life span. Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then in years we lost two hundred years of life span.",
+        "start_offset": 0,
+        "end_offset": 61,
+        "start": 0.721,
+        "end": 5.286
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 62,
+        "end_offset": 78,
+        "start": 6.267,
+        "end": 6.928
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 79,
+        "end_offset": 87,
+        "start": 10.232,
+        "end": 11.714
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 88,
+        "end_offset": 104,
+        "start": 12.835,
+        "end": 15.699
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 0.721,
+        "end": 0.881,
+        "score": -0.7043
+      },
+      {
+        "word": "in",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 0.921,
+        "end": 1.001,
+        "score": -0.7149
+      },
+      {
+        "word": "years",
+        "start_offset": 16,
+        "end_offset": 21,
+        "start": 2.123,
+        "end": 2.423,
+        "score": -0.7039
+      },
+      {
+        "word": "we",
+        "start_offset": 22,
+        "end_offset": 24,
+        "start": 2.483,
+        "end": 2.563,
+        "score": -0.6991
+      },
+      {
+        "word": "lost",
+        "start_offset": 25,
+        "end_offset": 29,
+        "start": 2.623,
+        "end": 2.883,
+        "score": -0.7005
+      },
+      {
+        "word": "two",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 2.944,
+        "end": 3.084,
+        "score": -3.3364
+      },
+      {
+        "word": "hundred",
+        "start_offset": 34,
+        "end_offset": 41,
+        "start": 3.124,
+        "end": 3.404,
+        "score": -3.3387
+      },
+      {
+        "word": "years",
+        "start_offset": 42,
+        "end_offset": 47,
+        "start": 3.464,
+        "end": 3.825,
+        "score": -0.7481
+      },
+      {
+        "word": "of",
+        "start_offset": 48,
+        "end_offset": 50,
+        "start": 4.365,
+        "end": 4.465,
+        "score": -1.4135
+      },
+      {
+        "word": "life",
+        "start_offset": 51,
+        "end_offset": 55,
+        "start": 4.585,
+        "end": 4.866,
+        "score": -0.8845
+      },
+      {
+        "word": "span.",
+        "start_offset": 56,
+        "end_offset": 61,
+        "start": 4.886,
+        "end": 5.286,
+        "score": -1.1028
+      },
+      {
+        "word": "Is",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 6.267,
+        "end": 6.328,
+        "score": -4.6351
+      },
+      {
+        "word": "this",
+        "start_offset": 65,
+        "end_offset": 69,
+        "start": 6.348,
+        "end": 6.508,
+        "score": -2.513
+      },
+      {
+        "word": "correct?",
+        "start_offset": 70,
+        "end_offset": 78,
+        "start": 6.548,
+        "end": 6.928,
+        "score": -0.7347
+      },
+      {
+        "word": "I",
+        "start_offset": 79,
+        "end_offset": 80,
+        "start": 10.232,
+        "end": 10.252,
+        "score": -0.789
+      },
+      {
+        "word": "am",
+        "start_offset": 81,
+        "end_offset": 83,
+        "start": 10.633,
+        "end": 11.013,
+        "score": -2.0133
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 84,
+        "end_offset": 87,
+        "start": 11.554,
+        "end": 11.714,
+        "score": -1.1538
+      },
+      {
+        "word": "This",
+        "start_offset": 88,
+        "end_offset": 92,
+        "start": 12.835,
+        "end": 13.256,
+        "score": -0.8169
+      },
+      {
+        "word": "is",
+        "start_offset": 93,
+        "end_offset": 95,
+        "start": 13.917,
+        "end": 14.237,
+        "score": -0.7669
+      },
+      {
+        "word": "correct.",
+        "start_offset": 96,
+        "end_offset": 104,
+        "start": 14.838,
+        "end": 15.699,
+        "score": -0.7511
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "020-15.mp3",
+    "audio_duration": 16.0392,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

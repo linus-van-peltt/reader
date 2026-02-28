@@ -1,0 +1,135 @@
+{
+  "text": "Is it possible to over-energize the instrument with sexual energy transfers? Hi. And well.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is it possible to over-energize the instrument with sexual energy transfers?",
+        "start_offset": 32,
+        "end_offset": 96,
+        "start": 2.56,
+        "end": 7.68
+      },
+      {
+        "segment": "Hi.",
+        "start_offset": 148,
+        "end_offset": 152,
+        "start": 11.84,
+        "end": 12.16
+      },
+      {
+        "segment": "And well.",
+        "start_offset": 163,
+        "end_offset": 181,
+        "start": 13.040000000000001,
+        "end": 14.48
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 2.56,
+        "end": 2.88
+      },
+      {
+        "word": "it",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 3.04,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "possible",
+        "start_offset": 41,
+        "end_offset": 47,
+        "start": 3.2800000000000002,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "to",
+        "start_offset": 47,
+        "end_offset": 50,
+        "start": 3.7600000000000002,
+        "end": 4.0
+      },
+      {
+        "word": "over-energize",
+        "start_offset": 50,
+        "end_offset": 62,
+        "start": 4.0,
+        "end": 4.96
+      },
+      {
+        "word": "the",
+        "start_offset": 62,
+        "end_offset": 63,
+        "start": 4.96,
+        "end": 5.04
+      },
+      {
+        "word": "instrument",
+        "start_offset": 63,
+        "end_offset": 69,
+        "start": 5.04,
+        "end": 5.5200000000000005
+      },
+      {
+        "word": "with",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 5.5200000000000005,
+        "end": 5.76
+      },
+      {
+        "word": "sexual",
+        "start_offset": 72,
+        "end_offset": 78,
+        "start": 5.76,
+        "end": 6.24
+      },
+      {
+        "word": "energy",
+        "start_offset": 78,
+        "end_offset": 84,
+        "start": 6.24,
+        "end": 6.72
+      },
+      {
+        "word": "transfers?",
+        "start_offset": 84,
+        "end_offset": 96,
+        "start": 6.72,
+        "end": 7.68
+      },
+      {
+        "word": "Hi.",
+        "start_offset": 148,
+        "end_offset": 152,
+        "start": 11.84,
+        "end": 12.16
+      },
+      {
+        "word": "And",
+        "start_offset": 163,
+        "end_offset": 165,
+        "start": 13.040000000000001,
+        "end": 13.200000000000001
+      },
+      {
+        "word": "well.",
+        "start_offset": 179,
+        "end_offset": 181,
+        "start": 14.32,
+        "end": 14.48
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "072-16.mp3",
+    "audio_duration": 17.03,
+    "transcription_time": 0.08,
+    "rtfx": 203.13,
+    "timestamp": "2026-01-06T21:55:17.973785+00:00"
+  }
+}

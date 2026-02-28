@@ -1,0 +1,211 @@
+{
+  "text": "Just was one thing I forgot. Is it possible to do another session late today? I am Ra. It is well.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Just was one thing I forgot.",
+        "start_offset": 0,
+        "end_offset": 28,
+        "start": 1.942,
+        "end": 2.843
+      },
+      {
+        "segment": "Is it possible to do another session late today?",
+        "start_offset": 29,
+        "end_offset": 77,
+        "start": 3.484,
+        "end": 5.567
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 78,
+        "end_offset": 86,
+        "start": 11.254,
+        "end": 13.517
+      },
+      {
+        "segment": "It is well.",
+        "start_offset": 87,
+        "end_offset": 98,
+        "start": 15.339,
+        "end": 18.202
+      }
+    ],
+    "word": [
+      {
+        "word": "Just",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 1.942,
+        "end": 2.083,
+        "score": -7.712
+      },
+      {
+        "word": "was",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 2.103,
+        "end": 2.163,
+        "score": -6.177
+      },
+      {
+        "word": "one",
+        "start_offset": 9,
+        "end_offset": 12,
+        "start": 2.203,
+        "end": 2.263,
+        "score": -4.0271
+      },
+      {
+        "word": "thing",
+        "start_offset": 13,
+        "end_offset": 18,
+        "start": 2.283,
+        "end": 2.423,
+        "score": -3.3996
+      },
+      {
+        "word": "I",
+        "start_offset": 19,
+        "end_offset": 20,
+        "start": 2.443,
+        "end": 2.463,
+        "score": -3.2267
+      },
+      {
+        "word": "forgot.",
+        "start_offset": 21,
+        "end_offset": 28,
+        "start": 2.523,
+        "end": 2.843,
+        "score": -2.4931
+      },
+      {
+        "word": "Is",
+        "start_offset": 29,
+        "end_offset": 31,
+        "start": 3.484,
+        "end": 3.524,
+        "score": -3.9644
+      },
+      {
+        "word": "it",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 3.624,
+        "end": 3.664,
+        "score": -3.9563
+      },
+      {
+        "word": "possible",
+        "start_offset": 35,
+        "end_offset": 43,
+        "start": 3.685,
+        "end": 3.985,
+        "score": -4.2679
+      },
+      {
+        "word": "to",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 4.005,
+        "end": 4.085,
+        "score": -3.4199
+      },
+      {
+        "word": "do",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 4.145,
+        "end": 4.245,
+        "score": -1.7856
+      },
+      {
+        "word": "another",
+        "start_offset": 50,
+        "end_offset": 57,
+        "start": 4.305,
+        "end": 4.566,
+        "score": -3.7117
+      },
+      {
+        "word": "session",
+        "start_offset": 58,
+        "end_offset": 65,
+        "start": 4.626,
+        "end": 4.986,
+        "score": -1.3848
+      },
+      {
+        "word": "late",
+        "start_offset": 66,
+        "end_offset": 70,
+        "start": 5.046,
+        "end": 5.246,
+        "score": -2.1122
+      },
+      {
+        "word": "today?",
+        "start_offset": 71,
+        "end_offset": 77,
+        "start": 5.266,
+        "end": 5.567,
+        "score": -3.2243
+      },
+      {
+        "word": "I",
+        "start_offset": 78,
+        "end_offset": 79,
+        "start": 11.254,
+        "end": 11.274,
+        "score": -0.9623
+      },
+      {
+        "word": "am",
+        "start_offset": 80,
+        "end_offset": 82,
+        "start": 12.155,
+        "end": 12.375,
+        "score": -1.9398
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 83,
+        "end_offset": 86,
+        "start": 13.416,
+        "end": 13.517,
+        "score": -1.178
+      },
+      {
+        "word": "It",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 15.339,
+        "end": 15.539,
+        "score": -0.764
+      },
+      {
+        "word": "is",
+        "start_offset": 90,
+        "end_offset": 92,
+        "start": 16.5,
+        "end": 16.801,
+        "score": -0.7592
+      },
+      {
+        "word": "well.",
+        "start_offset": 93,
+        "end_offset": 98,
+        "start": 17.942,
+        "end": 18.202,
+        "score": -0.8234
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "011-32.mp3",
+    "audio_duration": 19.0433,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

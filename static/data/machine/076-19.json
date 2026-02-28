@@ -1,0 +1,219 @@
+{
+  "text": "I'm assuming that I'm entering into third density for this planet, disease did not exist in any form. Is this correct? I and this is incorrect.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I'm assuming that I'm entering into third density for this planet, disease did not exist in any form.",
+        "start_offset": 30,
+        "end_offset": 309,
+        "start": 2.4,
+        "end": 24.72
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 311,
+        "end_offset": 328,
+        "start": 24.88,
+        "end": 26.240000000000002
+      },
+      {
+        "segment": "I and this is incorrect.",
+        "start_offset": 376,
+        "end_offset": 478,
+        "start": 30.080000000000002,
+        "end": 38.24
+      }
+    ],
+    "word": [
+      {
+        "word": "I'm",
+        "start_offset": 30,
+        "end_offset": 37,
+        "start": 2.4,
+        "end": 2.96
+      },
+      {
+        "word": "assuming",
+        "start_offset": 37,
+        "end_offset": 45,
+        "start": 2.96,
+        "end": 3.6
+      },
+      {
+        "word": "that",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 3.6,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "I'm",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 3.92,
+        "end": 4.16
+      },
+      {
+        "word": "entering",
+        "start_offset": 53,
+        "end_offset": 57,
+        "start": 4.24,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "into",
+        "start_offset": 58,
+        "end_offset": 61,
+        "start": 4.64,
+        "end": 4.88
+      },
+      {
+        "word": "third",
+        "start_offset": 61,
+        "end_offset": 67,
+        "start": 4.88,
+        "end": 5.36
+      },
+      {
+        "word": "density",
+        "start_offset": 67,
+        "end_offset": 77,
+        "start": 5.36,
+        "end": 6.16
+      },
+      {
+        "word": "for",
+        "start_offset": 105,
+        "end_offset": 109,
+        "start": 8.4,
+        "end": 8.72
+      },
+      {
+        "word": "this",
+        "start_offset": 113,
+        "end_offset": 117,
+        "start": 9.040000000000001,
+        "end": 9.36
+      },
+      {
+        "word": "planet,",
+        "start_offset": 133,
+        "end_offset": 141,
+        "start": 10.64,
+        "end": 11.28
+      },
+      {
+        "word": "disease",
+        "start_offset": 182,
+        "end_offset": 194,
+        "start": 14.56,
+        "end": 15.52
+      },
+      {
+        "word": "did",
+        "start_offset": 257,
+        "end_offset": 261,
+        "start": 20.56,
+        "end": 20.88
+      },
+      {
+        "word": "not",
+        "start_offset": 261,
+        "end_offset": 265,
+        "start": 20.88,
+        "end": 21.2
+      },
+      {
+        "word": "exist",
+        "start_offset": 269,
+        "end_offset": 273,
+        "start": 21.52,
+        "end": 21.84
+      },
+      {
+        "word": "in",
+        "start_offset": 297,
+        "end_offset": 301,
+        "start": 23.76,
+        "end": 24.080000000000002
+      },
+      {
+        "word": "any",
+        "start_offset": 301,
+        "end_offset": 305,
+        "start": 24.080000000000002,
+        "end": 24.400000000000002
+      },
+      {
+        "word": "form.",
+        "start_offset": 305,
+        "end_offset": 309,
+        "start": 24.400000000000002,
+        "end": 24.72
+      },
+      {
+        "word": "Is",
+        "start_offset": 311,
+        "end_offset": 315,
+        "start": 24.88,
+        "end": 25.2
+      },
+      {
+        "word": "this",
+        "start_offset": 315,
+        "end_offset": 318,
+        "start": 25.2,
+        "end": 25.44
+      },
+      {
+        "word": "correct?",
+        "start_offset": 318,
+        "end_offset": 328,
+        "start": 25.44,
+        "end": 26.240000000000002
+      },
+      {
+        "word": "I",
+        "start_offset": 376,
+        "end_offset": 380,
+        "start": 30.080000000000002,
+        "end": 30.400000000000002
+      },
+      {
+        "word": "and",
+        "start_offset": 391,
+        "end_offset": 395,
+        "start": 31.28,
+        "end": 31.6
+      },
+      {
+        "word": "this",
+        "start_offset": 428,
+        "end_offset": 432,
+        "start": 34.24,
+        "end": 34.56
+      },
+      {
+        "word": "is",
+        "start_offset": 444,
+        "end_offset": 448,
+        "start": 35.52,
+        "end": 35.84
+      },
+      {
+        "word": "incorrect.",
+        "start_offset": 464,
+        "end_offset": 478,
+        "start": 37.12,
+        "end": 38.24
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "076-19.mp3",
+    "audio_duration": 40.05,
+    "transcription_time": 0.1,
+    "rtfx": 399.74,
+    "timestamp": "2026-01-06T21:56:02.514551+00:00"
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "text": "I am wrong. This is correct. I am wrong. I leave you in the love and the light of the one in it creator forth, therefore, rejoicing in the power and the one quick paint or something.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I am wrong.",
+        "start_offset": 172,
+        "end_offset": 214,
+        "start": 13.76,
+        "end": 17.12
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 223,
+        "end_offset": 267,
+        "start": 17.84,
+        "end": 21.36
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 321,
+        "end_offset": 365,
+        "start": 25.68,
+        "end": 29.2
+      },
+      {
+        "segment": "I leave you in the love and the light of the one in it creator forth, therefore, rejoicing in the power and the one quick paint or something.",
+        "start_offset": 392,
+        "end_offset": 1064,
+        "start": 31.36,
+        "end": 85.12
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 172,
+        "end_offset": 176,
+        "start": 13.76,
+        "end": 14.08
+      },
+      {
+        "word": "am",
+        "start_offset": 184,
+        "end_offset": 187,
+        "start": 14.72,
+        "end": 14.96
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 202,
+        "end_offset": 214,
+        "start": 16.16,
+        "end": 17.12
+      },
+      {
+        "word": "This",
+        "start_offset": 223,
+        "end_offset": 227,
+        "start": 17.84,
+        "end": 18.16
+      },
+      {
+        "word": "is",
+        "start_offset": 239,
+        "end_offset": 243,
+        "start": 19.12,
+        "end": 19.44
+      },
+      {
+        "word": "correct.",
+        "start_offset": 255,
+        "end_offset": 267,
+        "start": 20.400000000000002,
+        "end": 21.36
+      },
+      {
+        "word": "I",
+        "start_offset": 321,
+        "end_offset": 325,
+        "start": 25.68,
+        "end": 26.0
+      },
+      {
+        "word": "am",
+        "start_offset": 337,
+        "end_offset": 341,
+        "start": 26.96,
+        "end": 27.28
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 357,
+        "end_offset": 365,
+        "start": 28.560000000000002,
+        "end": 29.2
+      },
+      {
+        "word": "I",
+        "start_offset": 392,
+        "end_offset": 396,
+        "start": 31.36,
+        "end": 31.68
+      },
+      {
+        "word": "leave",
+        "start_offset": 417,
+        "end_offset": 424,
+        "start": 33.36,
+        "end": 33.92
+      },
+      {
+        "word": "you",
+        "start_offset": 445,
+        "end_offset": 449,
+        "start": 35.6,
+        "end": 35.92
+      },
+      {
+        "word": "in",
+        "start_offset": 457,
+        "end_offset": 461,
+        "start": 36.56,
+        "end": 36.88
+      },
+      {
+        "word": "the",
+        "start_offset": 471,
+        "end_offset": 474,
+        "start": 37.68,
+        "end": 37.92
+      },
+      {
+        "word": "love",
+        "start_offset": 488,
+        "end_offset": 492,
+        "start": 39.04,
+        "end": 39.36
+      },
+      {
+        "word": "and",
+        "start_offset": 509,
+        "end_offset": 513,
+        "start": 40.72,
+        "end": 41.04
+      },
+      {
+        "word": "the",
+        "start_offset": 524,
+        "end_offset": 528,
+        "start": 41.92,
+        "end": 42.24
+      },
+      {
+        "word": "light",
+        "start_offset": 536,
+        "end_offset": 546,
+        "start": 42.88,
+        "end": 43.68
+      },
+      {
+        "word": "of",
+        "start_offset": 554,
+        "end_offset": 558,
+        "start": 44.32,
+        "end": 44.64
+      },
+      {
+        "word": "the",
+        "start_offset": 572,
+        "end_offset": 576,
+        "start": 45.76,
+        "end": 46.08
+      },
+      {
+        "word": "one",
+        "start_offset": 588,
+        "end_offset": 591,
+        "start": 47.04,
+        "end": 47.28
+      },
+      {
+        "word": "in",
+        "start_offset": 610,
+        "end_offset": 612,
+        "start": 48.800000000000004,
+        "end": 48.96
+      },
+      {
+        "word": "it",
+        "start_offset": 617,
+        "end_offset": 621,
+        "start": 49.36,
+        "end": 49.68
+      },
+      {
+        "word": "creator",
+        "start_offset": 630,
+        "end_offset": 640,
+        "start": 50.4,
+        "end": 51.2
+      },
+      {
+        "word": "forth,",
+        "start_offset": 682,
+        "end_offset": 693,
+        "start": 54.56,
+        "end": 55.44
+      },
+      {
+        "word": "therefore,",
+        "start_offset": 701,
+        "end_offset": 712,
+        "start": 56.08,
+        "end": 56.96
+      },
+      {
+        "word": "rejoicing",
+        "start_offset": 727,
+        "end_offset": 743,
+        "start": 58.160000000000004,
+        "end": 59.44
+      },
+      {
+        "word": "in",
+        "start_offset": 755,
+        "end_offset": 759,
+        "start": 60.4,
+        "end": 60.72
+      },
+      {
+        "word": "the",
+        "start_offset": 771,
+        "end_offset": 775,
+        "start": 61.68,
+        "end": 62.0
+      },
+      {
+        "word": "power",
+        "start_offset": 783,
+        "end_offset": 791,
+        "start": 62.64,
+        "end": 63.28
+      },
+      {
+        "word": "and",
+        "start_offset": 806,
+        "end_offset": 810,
+        "start": 64.48,
+        "end": 64.8
+      },
+      {
+        "word": "the",
+        "start_offset": 821,
+        "end_offset": 825,
+        "start": 65.68,
+        "end": 66.0
+      },
+      {
+        "word": "one",
+        "start_offset": 893,
+        "end_offset": 897,
+        "start": 71.44,
+        "end": 71.76
+      },
+      {
+        "word": "quick",
+        "start_offset": 912,
+        "end_offset": 918,
+        "start": 72.96000000000001,
+        "end": 73.44
+      },
+      {
+        "word": "paint",
+        "start_offset": 921,
+        "end_offset": 925,
+        "start": 73.68,
+        "end": 74.0
+      },
+      {
+        "word": "or",
+        "start_offset": 927,
+        "end_offset": 929,
+        "start": 74.16,
+        "end": 74.32000000000001
+      },
+      {
+        "word": "something.",
+        "start_offset": 1064,
+        "end_offset": 1064,
+        "start": 85.12,
+        "end": 85.12
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "013-27.mp3",
+    "audio_duration": 129.04,
+    "transcription_time": 0.18,
+    "rtfx": 720.7,
+    "timestamp": "2026-01-06T21:47:10.414043+00:00"
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "text": "Then are all of the landings that have occurred except for the landing when Asenar was contacted. Are all of those landings of the Orion group or similar type groups? I am Ra except for isolated instances of those of shall we say no affiliation. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then are all of the landings that have occurred except for the landing when Asenar was contacted.",
+        "start_offset": 28,
+        "end_offset": 157,
+        "start": 2.24,
+        "end": 12.56
+      },
+      {
+        "segment": "Are all of those landings of the Orion group or similar type groups?",
+        "start_offset": 165,
+        "end_offset": 233,
+        "start": 13.200000000000001,
+        "end": 18.64
+      },
+      {
+        "segment": "I am Ra except for isolated instances of those of shall we say no affiliation.",
+        "start_offset": 267,
+        "end_offset": 574,
+        "start": 21.36,
+        "end": 45.92
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 594,
+        "end_offset": 632,
+        "start": 47.52,
+        "end": 50.56
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 2.24,
+        "end": 2.56
+      },
+      {
+        "word": "are",
+        "start_offset": 36,
+        "end_offset": 40,
+        "start": 2.88,
+        "end": 3.2
+      },
+      {
+        "word": "all",
+        "start_offset": 44,
+        "end_offset": 48,
+        "start": 3.52,
+        "end": 3.84
+      },
+      {
+        "word": "of",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 3.84,
+        "end": 4.16
+      },
+      {
+        "word": "the",
+        "start_offset": 52,
+        "end_offset": 56,
+        "start": 4.16,
+        "end": 4.48
+      },
+      {
+        "word": "landings",
+        "start_offset": 56,
+        "end_offset": 64,
+        "start": 4.48,
+        "end": 5.12
+      },
+      {
+        "word": "that",
+        "start_offset": 70,
+        "end_offset": 74,
+        "start": 5.6000000000000005,
+        "end": 5.92
+      },
+      {
+        "word": "have",
+        "start_offset": 74,
+        "end_offset": 77,
+        "start": 5.92,
+        "end": 6.16
+      },
+      {
+        "word": "occurred",
+        "start_offset": 77,
+        "end_offset": 86,
+        "start": 6.16,
+        "end": 6.88
+      },
+      {
+        "word": "except",
+        "start_offset": 86,
+        "end_offset": 98,
+        "start": 6.88,
+        "end": 7.84
+      },
+      {
+        "word": "for",
+        "start_offset": 102,
+        "end_offset": 106,
+        "start": 8.16,
+        "end": 8.48
+      },
+      {
+        "word": "the",
+        "start_offset": 106,
+        "end_offset": 110,
+        "start": 8.48,
+        "end": 8.8
+      },
+      {
+        "word": "landing",
+        "start_offset": 110,
+        "end_offset": 122,
+        "start": 8.8,
+        "end": 9.76
+      },
+      {
+        "word": "when",
+        "start_offset": 126,
+        "end_offset": 130,
+        "start": 10.08,
+        "end": 10.4
+      },
+      {
+        "word": "Asenar",
+        "start_offset": 130,
+        "end_offset": 141,
+        "start": 10.4,
+        "end": 11.28
+      },
+      {
+        "word": "was",
+        "start_offset": 144,
+        "end_offset": 147,
+        "start": 11.52,
+        "end": 11.76
+      },
+      {
+        "word": "contacted.",
+        "start_offset": 147,
+        "end_offset": 157,
+        "start": 11.76,
+        "end": 12.56
+      },
+      {
+        "word": "Are",
+        "start_offset": 165,
+        "end_offset": 170,
+        "start": 13.200000000000001,
+        "end": 13.6
+      },
+      {
+        "word": "all",
+        "start_offset": 170,
+        "end_offset": 172,
+        "start": 13.6,
+        "end": 13.76
+      },
+      {
+        "word": "of",
+        "start_offset": 172,
+        "end_offset": 174,
+        "start": 13.76,
+        "end": 13.92
+      },
+      {
+        "word": "those",
+        "start_offset": 174,
+        "end_offset": 178,
+        "start": 13.92,
+        "end": 14.24
+      },
+      {
+        "word": "landings",
+        "start_offset": 178,
+        "end_offset": 185,
+        "start": 14.24,
+        "end": 14.8
+      },
+      {
+        "word": "of",
+        "start_offset": 185,
+        "end_offset": 187,
+        "start": 14.8,
+        "end": 14.96
+      },
+      {
+        "word": "the",
+        "start_offset": 187,
+        "end_offset": 190,
+        "start": 14.96,
+        "end": 15.200000000000001
+      },
+      {
+        "word": "Orion",
+        "start_offset": 190,
+        "end_offset": 198,
+        "start": 15.200000000000001,
+        "end": 15.84
+      },
+      {
+        "word": "group",
+        "start_offset": 201,
+        "end_offset": 207,
+        "start": 16.080000000000002,
+        "end": 16.56
+      },
+      {
+        "word": "or",
+        "start_offset": 207,
+        "end_offset": 211,
+        "start": 16.56,
+        "end": 16.88
+      },
+      {
+        "word": "similar",
+        "start_offset": 211,
+        "end_offset": 217,
+        "start": 16.88,
+        "end": 17.36
+      },
+      {
+        "word": "type",
+        "start_offset": 217,
+        "end_offset": 222,
+        "start": 17.36,
+        "end": 17.76
+      },
+      {
+        "word": "groups?",
+        "start_offset": 222,
+        "end_offset": 233,
+        "start": 17.76,
+        "end": 18.64
+      },
+      {
+        "word": "I",
+        "start_offset": 267,
+        "end_offset": 270,
+        "start": 21.36,
+        "end": 21.6
+      },
+      {
+        "word": "am",
+        "start_offset": 282,
+        "end_offset": 286,
+        "start": 22.56,
+        "end": 22.88
+      },
+      {
+        "word": "Ra",
+        "start_offset": 298,
+        "end_offset": 302,
+        "start": 23.84,
+        "end": 24.16
+      },
+      {
+        "word": "except",
+        "start_offset": 325,
+        "end_offset": 337,
+        "start": 26.0,
+        "end": 26.96
+      },
+      {
+        "word": "for",
+        "start_offset": 345,
+        "end_offset": 349,
+        "start": 27.6,
+        "end": 27.92
+      },
+      {
+        "word": "isolated",
+        "start_offset": 369,
+        "end_offset": 393,
+        "start": 29.52,
+        "end": 31.44
+      },
+      {
+        "word": "instances",
+        "start_offset": 413,
+        "end_offset": 425,
+        "start": 33.04,
+        "end": 34.0
+      },
+      {
+        "word": "of",
+        "start_offset": 445,
+        "end_offset": 449,
+        "start": 35.6,
+        "end": 35.92
+      },
+      {
+        "word": "those",
+        "start_offset": 464,
+        "end_offset": 472,
+        "start": 37.12,
+        "end": 37.76
+      },
+      {
+        "word": "of",
+        "start_offset": 487,
+        "end_offset": 491,
+        "start": 38.96,
+        "end": 39.28
+      },
+      {
+        "word": "shall",
+        "start_offset": 497,
+        "end_offset": 504,
+        "start": 39.76,
+        "end": 40.32
+      },
+      {
+        "word": "we",
+        "start_offset": 512,
+        "end_offset": 516,
+        "start": 40.96,
+        "end": 41.28
+      },
+      {
+        "word": "say",
+        "start_offset": 520,
+        "end_offset": 524,
+        "start": 41.6,
+        "end": 41.92
+      },
+      {
+        "word": "no",
+        "start_offset": 540,
+        "end_offset": 544,
+        "start": 43.2,
+        "end": 43.52
+      },
+      {
+        "word": "affiliation.",
+        "start_offset": 552,
+        "end_offset": 574,
+        "start": 44.160000000000004,
+        "end": 45.92
+      },
+      {
+        "word": "This",
+        "start_offset": 594,
+        "end_offset": 598,
+        "start": 47.52,
+        "end": 47.84
+      },
+      {
+        "word": "is",
+        "start_offset": 606,
+        "end_offset": 610,
+        "start": 48.480000000000004,
+        "end": 48.800000000000004
+      },
+      {
+        "word": "correct.",
+        "start_offset": 622,
+        "end_offset": 632,
+        "start": 49.76,
+        "end": 50.56
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "026-33.mp3",
+    "audio_duration": 51.04,
+    "transcription_time": 0.12,
+    "rtfx": 442.59,
+    "timestamp": "2026-01-06T21:49:08.289960+00:00"
+  }
+}

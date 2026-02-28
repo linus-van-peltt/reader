@@ -1,0 +1,290 @@
+{
+  "text": "Thank you. One more question before we start on the specific questions with respect to archetypes. Do all Logoi evolving after the veil have twenty-two archetypes? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 0,
+        "end_offset": 10,
+        "start": 2.241,
+        "end": 2.581
+      },
+      {
+        "segment": "One more question before we start on the specific questions with respect to archetypes.",
+        "start_offset": 11,
+        "end_offset": 98,
+        "start": 6.322,
+        "end": 12.545
+      },
+      {
+        "segment": "Do all Logoi evolving after the veil have twenty-two archetypes?",
+        "start_offset": 99,
+        "end_offset": 163,
+        "start": 14.225,
+        "end": 24.429
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 164,
+        "end_offset": 172,
+        "start": 24.449,
+        "end": 25.109
+      },
+      {
+        "segment": "No.",
+        "start_offset": 173,
+        "end_offset": 176,
+        "start": 36.894,
+        "end": 38.034
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.241,
+        "end": 2.461,
+        "score": -5.0356
+      },
+      {
+        "word": "you.",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 2.481,
+        "end": 2.581,
+        "score": -7.7487
+      },
+      {
+        "word": "One",
+        "start_offset": 11,
+        "end_offset": 14,
+        "start": 6.322,
+        "end": 6.422,
+        "score": -0.7871
+      },
+      {
+        "word": "more",
+        "start_offset": 15,
+        "end_offset": 19,
+        "start": 6.442,
+        "end": 6.622,
+        "score": -0.7819
+      },
+      {
+        "word": "question",
+        "start_offset": 20,
+        "end_offset": 28,
+        "start": 6.663,
+        "end": 7.043,
+        "score": -0.8379
+      },
+      {
+        "word": "before",
+        "start_offset": 29,
+        "end_offset": 35,
+        "start": 7.083,
+        "end": 7.383,
+        "score": -0.9242
+      },
+      {
+        "word": "we",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 7.403,
+        "end": 7.503,
+        "score": -1.0533
+      },
+      {
+        "word": "start",
+        "start_offset": 39,
+        "end_offset": 44,
+        "start": 9.263,
+        "end": 9.504,
+        "score": -0.7398
+      },
+      {
+        "word": "on",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 9.564,
+        "end": 9.604,
+        "score": -4.1246
+      },
+      {
+        "word": "the",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 9.624,
+        "end": 9.704,
+        "score": -6.019
+      },
+      {
+        "word": "specific",
+        "start_offset": 52,
+        "end_offset": 60,
+        "start": 9.724,
+        "end": 10.284,
+        "score": -0.7051
+      },
+      {
+        "word": "questions",
+        "start_offset": 61,
+        "end_offset": 70,
+        "start": 10.644,
+        "end": 11.124,
+        "score": -1.7915
+      },
+      {
+        "word": "with",
+        "start_offset": 71,
+        "end_offset": 75,
+        "start": 11.164,
+        "end": 11.284,
+        "score": -0.7376
+      },
+      {
+        "word": "respect",
+        "start_offset": 76,
+        "end_offset": 83,
+        "start": 11.324,
+        "end": 11.724,
+        "score": -0.8352
+      },
+      {
+        "word": "to",
+        "start_offset": 84,
+        "end_offset": 86,
+        "start": 11.764,
+        "end": 11.824,
+        "score": -0.7992
+      },
+      {
+        "word": "archetypes.",
+        "start_offset": 87,
+        "end_offset": 98,
+        "start": 11.944,
+        "end": 12.545,
+        "score": -2.4007
+      },
+      {
+        "word": "Do",
+        "start_offset": 99,
+        "end_offset": 101,
+        "start": 14.225,
+        "end": 14.305,
+        "score": -0.7163
+      },
+      {
+        "word": "all",
+        "start_offset": 102,
+        "end_offset": 105,
+        "start": 14.485,
+        "end": 14.646,
+        "score": -0.7679
+      },
+      {
+        "word": "Logoi",
+        "start_offset": 106,
+        "end_offset": 111,
+        "start": 14.746,
+        "end": 15.186,
+        "score": -2.2167
+      },
+      {
+        "word": "evolving",
+        "start_offset": 112,
+        "end_offset": 120,
+        "start": 16.366,
+        "end": 16.946,
+        "score": -1.9238
+      },
+      {
+        "word": "after",
+        "start_offset": 121,
+        "end_offset": 126,
+        "start": 20.128,
+        "end": 20.388,
+        "score": -0.8818
+      },
+      {
+        "word": "the",
+        "start_offset": 127,
+        "end_offset": 130,
+        "start": 20.448,
+        "end": 20.528,
+        "score": -0.7922
+      },
+      {
+        "word": "veil",
+        "start_offset": 131,
+        "end_offset": 135,
+        "start": 20.588,
+        "end": 20.888,
+        "score": -2.35
+      },
+      {
+        "word": "have",
+        "start_offset": 136,
+        "end_offset": 140,
+        "start": 22.929,
+        "end": 23.169,
+        "score": -1.7275
+      },
+      {
+        "word": "twenty-two",
+        "start_offset": 141,
+        "end_offset": 151,
+        "start": 23.209,
+        "end": 23.689,
+        "score": -6.1872
+      },
+      {
+        "word": "archetypes?",
+        "start_offset": 152,
+        "end_offset": 163,
+        "start": 23.849,
+        "end": 24.429,
+        "score": -1.0269
+      },
+      {
+        "word": "I",
+        "start_offset": 164,
+        "end_offset": 165,
+        "start": 24.449,
+        "end": 24.469,
+        "score": -10.7249
+      },
+      {
+        "word": "am",
+        "start_offset": 166,
+        "end_offset": 168,
+        "start": 24.489,
+        "end": 24.529,
+        "score": -9.4856
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 169,
+        "end_offset": 172,
+        "start": 24.809,
+        "end": 25.109,
+        "score": -10.4744
+      },
+      {
+        "word": "No.",
+        "start_offset": 173,
+        "end_offset": 176,
+        "start": 36.894,
+        "end": 38.034,
+        "score": -10.6728
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "091-14.mp3",
+    "audio_duration": 38.0343,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

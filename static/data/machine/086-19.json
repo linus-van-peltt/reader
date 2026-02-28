@@ -1,0 +1,387 @@
+{
+  "text": "Perhaps you could give examples of use of the body prior to bailing and after the after veiling in the same aspect too, so that we could understand the change in knowledge and control over the body more clearly. Could you do this please? I am wow. We could",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Perhaps you could give examples of use of the body prior to bailing and after the after veiling in the same aspect too, so that we could understand the change in knowledge and control over the body more clearly.",
+        "start_offset": 24,
+        "end_offset": 372,
+        "start": 1.92,
+        "end": 29.76
+      },
+      {
+        "segment": "Could you do this please?",
+        "start_offset": 384,
+        "end_offset": 405,
+        "start": 30.72,
+        "end": 32.4
+      },
+      {
+        "segment": "I am wow.",
+        "start_offset": 423,
+        "end_offset": 456,
+        "start": 33.84,
+        "end": 36.480000000000004
+      },
+      {
+        "segment": "We could",
+        "start_offset": 472,
+        "end_offset": 487,
+        "start": 37.76,
+        "end": 38.96
+      }
+    ],
+    "word": [
+      {
+        "word": "Perhaps",
+        "start_offset": 24,
+        "end_offset": 36,
+        "start": 1.92,
+        "end": 2.88
+      },
+      {
+        "word": "you",
+        "start_offset": 36,
+        "end_offset": 40,
+        "start": 2.88,
+        "end": 3.2
+      },
+      {
+        "word": "could",
+        "start_offset": 40,
+        "end_offset": 44,
+        "start": 3.2,
+        "end": 3.52
+      },
+      {
+        "word": "give",
+        "start_offset": 52,
+        "end_offset": 60,
+        "start": 4.16,
+        "end": 4.8
+      },
+      {
+        "word": "examples",
+        "start_offset": 72,
+        "end_offset": 87,
+        "start": 5.76,
+        "end": 6.96
+      },
+      {
+        "word": "of",
+        "start_offset": 87,
+        "end_offset": 91,
+        "start": 6.96,
+        "end": 7.28
+      },
+      {
+        "word": "use",
+        "start_offset": 119,
+        "end_offset": 123,
+        "start": 9.52,
+        "end": 9.84
+      },
+      {
+        "word": "of",
+        "start_offset": 125,
+        "end_offset": 127,
+        "start": 10.0,
+        "end": 10.16
+      },
+      {
+        "word": "the",
+        "start_offset": 127,
+        "end_offset": 131,
+        "start": 10.16,
+        "end": 10.48
+      },
+      {
+        "word": "body",
+        "start_offset": 131,
+        "end_offset": 139,
+        "start": 10.48,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "prior",
+        "start_offset": 139,
+        "end_offset": 145,
+        "start": 11.120000000000001,
+        "end": 11.6
+      },
+      {
+        "word": "to",
+        "start_offset": 145,
+        "end_offset": 149,
+        "start": 11.6,
+        "end": 11.92
+      },
+      {
+        "word": "bailing",
+        "start_offset": 149,
+        "end_offset": 156,
+        "start": 11.92,
+        "end": 12.48
+      },
+      {
+        "word": "and",
+        "start_offset": 156,
+        "end_offset": 158,
+        "start": 12.48,
+        "end": 12.64
+      },
+      {
+        "word": "after",
+        "start_offset": 158,
+        "end_offset": 162,
+        "start": 12.64,
+        "end": 12.96
+      },
+      {
+        "word": "the",
+        "start_offset": 162,
+        "end_offset": 164,
+        "start": 12.96,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "after",
+        "start_offset": 167,
+        "end_offset": 172,
+        "start": 13.36,
+        "end": 13.76
+      },
+      {
+        "word": "veiling",
+        "start_offset": 172,
+        "end_offset": 179,
+        "start": 13.76,
+        "end": 14.32
+      },
+      {
+        "word": "in",
+        "start_offset": 179,
+        "end_offset": 182,
+        "start": 14.32,
+        "end": 14.56
+      },
+      {
+        "word": "the",
+        "start_offset": 182,
+        "end_offset": 185,
+        "start": 14.56,
+        "end": 14.8
+      },
+      {
+        "word": "same",
+        "start_offset": 185,
+        "end_offset": 193,
+        "start": 14.8,
+        "end": 15.44
+      },
+      {
+        "word": "aspect",
+        "start_offset": 201,
+        "end_offset": 209,
+        "start": 16.080000000000002,
+        "end": 16.72
+      },
+      {
+        "word": "too,",
+        "start_offset": 228,
+        "end_offset": 236,
+        "start": 18.240000000000002,
+        "end": 18.88
+      },
+      {
+        "word": "so",
+        "start_offset": 240,
+        "end_offset": 244,
+        "start": 19.2,
+        "end": 19.52
+      },
+      {
+        "word": "that",
+        "start_offset": 244,
+        "end_offset": 248,
+        "start": 19.52,
+        "end": 19.84
+      },
+      {
+        "word": "we",
+        "start_offset": 248,
+        "end_offset": 252,
+        "start": 19.84,
+        "end": 20.16
+      },
+      {
+        "word": "could",
+        "start_offset": 252,
+        "end_offset": 256,
+        "start": 20.16,
+        "end": 20.48
+      },
+      {
+        "word": "understand",
+        "start_offset": 256,
+        "end_offset": 264,
+        "start": 20.48,
+        "end": 21.12
+      },
+      {
+        "word": "the",
+        "start_offset": 268,
+        "end_offset": 272,
+        "start": 21.44,
+        "end": 21.76
+      },
+      {
+        "word": "change",
+        "start_offset": 320,
+        "end_offset": 328,
+        "start": 25.6,
+        "end": 26.240000000000002
+      },
+      {
+        "word": "in",
+        "start_offset": 328,
+        "end_offset": 332,
+        "start": 26.240000000000002,
+        "end": 26.560000000000002
+      },
+      {
+        "word": "knowledge",
+        "start_offset": 332,
+        "end_offset": 338,
+        "start": 26.560000000000002,
+        "end": 27.04
+      },
+      {
+        "word": "and",
+        "start_offset": 338,
+        "end_offset": 342,
+        "start": 27.04,
+        "end": 27.36
+      },
+      {
+        "word": "control",
+        "start_offset": 342,
+        "end_offset": 346,
+        "start": 27.36,
+        "end": 27.68
+      },
+      {
+        "word": "over",
+        "start_offset": 348,
+        "end_offset": 351,
+        "start": 27.84,
+        "end": 28.080000000000002
+      },
+      {
+        "word": "the",
+        "start_offset": 351,
+        "end_offset": 354,
+        "start": 28.080000000000002,
+        "end": 28.32
+      },
+      {
+        "word": "body",
+        "start_offset": 354,
+        "end_offset": 359,
+        "start": 28.32,
+        "end": 28.72
+      },
+      {
+        "word": "more",
+        "start_offset": 359,
+        "end_offset": 361,
+        "start": 28.72,
+        "end": 28.88
+      },
+      {
+        "word": "clearly.",
+        "start_offset": 361,
+        "end_offset": 372,
+        "start": 28.88,
+        "end": 29.76
+      },
+      {
+        "word": "Could",
+        "start_offset": 384,
+        "end_offset": 388,
+        "start": 30.72,
+        "end": 31.04
+      },
+      {
+        "word": "you",
+        "start_offset": 388,
+        "end_offset": 390,
+        "start": 31.04,
+        "end": 31.2
+      },
+      {
+        "word": "do",
+        "start_offset": 390,
+        "end_offset": 393,
+        "start": 31.2,
+        "end": 31.44
+      },
+      {
+        "word": "this",
+        "start_offset": 393,
+        "end_offset": 395,
+        "start": 31.44,
+        "end": 31.6
+      },
+      {
+        "word": "please?",
+        "start_offset": 397,
+        "end_offset": 405,
+        "start": 31.76,
+        "end": 32.4
+      },
+      {
+        "word": "I",
+        "start_offset": 423,
+        "end_offset": 427,
+        "start": 33.84,
+        "end": 34.160000000000004
+      },
+      {
+        "word": "am",
+        "start_offset": 436,
+        "end_offset": 438,
+        "start": 34.88,
+        "end": 35.04
+      },
+      {
+        "word": "wow.",
+        "start_offset": 450,
+        "end_offset": 456,
+        "start": 36.0,
+        "end": 36.480000000000004
+      },
+      {
+        "word": "We",
+        "start_offset": 472,
+        "end_offset": 476,
+        "start": 37.76,
+        "end": 38.08
+      },
+      {
+        "word": "could",
+        "start_offset": 485,
+        "end_offset": 487,
+        "start": 38.800000000000004,
+        "end": 38.96
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "086-19.mp3",
+    "audio_duration": 40.05,
+    "transcription_time": 0.55,
+    "rtfx": 72.34,
+    "timestamp": "2026-01-06T21:57:50.245581+00:00"
+  }
+}

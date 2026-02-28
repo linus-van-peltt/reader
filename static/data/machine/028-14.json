@@ -1,0 +1,394 @@
+{
+  "text": "Is there any reason for some portions being much more efficient in learning? I am raw. Is there any reason for some to learn more quickly than others? Look if you wish to the function of the will, the shall we say attraction to the upward spiraling line of light.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there any reason for some portions being much more efficient in learning?",
+        "start_offset": 4,
+        "end_offset": 96,
+        "start": 0.32,
+        "end": 7.68
+      },
+      {
+        "segment": "I am raw.",
+        "start_offset": 198,
+        "end_offset": 237,
+        "start": 15.84,
+        "end": 18.96
+      },
+      {
+        "segment": "Is there any reason for some to learn more quickly than others?",
+        "start_offset": 263,
+        "end_offset": 491,
+        "start": 21.04,
+        "end": 39.28
+      },
+      {
+        "segment": "Look if you wish to the function of the will, the shall we say attraction to the upward spiraling line of light.",
+        "start_offset": 506,
+        "end_offset": 936,
+        "start": 40.480000000000004,
+        "end": 74.88
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 0.32,
+        "end": 0.64
+      },
+      {
+        "word": "there",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 0.64,
+        "end": 0.96
+      },
+      {
+        "word": "any",
+        "start_offset": 12,
+        "end_offset": 16,
+        "start": 0.96,
+        "end": 1.28
+      },
+      {
+        "word": "reason",
+        "start_offset": 20,
+        "end_offset": 30,
+        "start": 1.6,
+        "end": 2.4
+      },
+      {
+        "word": "for",
+        "start_offset": 30,
+        "end_offset": 34,
+        "start": 2.4,
+        "end": 2.72
+      },
+      {
+        "word": "some",
+        "start_offset": 38,
+        "end_offset": 42,
+        "start": 3.04,
+        "end": 3.36
+      },
+      {
+        "word": "portions",
+        "start_offset": 42,
+        "end_offset": 50,
+        "start": 3.36,
+        "end": 4.0
+      },
+      {
+        "word": "being",
+        "start_offset": 54,
+        "end_offset": 62,
+        "start": 4.32,
+        "end": 4.96
+      },
+      {
+        "word": "much",
+        "start_offset": 62,
+        "end_offset": 66,
+        "start": 4.96,
+        "end": 5.28
+      },
+      {
+        "word": "more",
+        "start_offset": 66,
+        "end_offset": 70,
+        "start": 5.28,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "efficient",
+        "start_offset": 70,
+        "end_offset": 82,
+        "start": 5.6000000000000005,
+        "end": 6.5600000000000005
+      },
+      {
+        "word": "in",
+        "start_offset": 82,
+        "end_offset": 86,
+        "start": 6.5600000000000005,
+        "end": 6.88
+      },
+      {
+        "word": "learning?",
+        "start_offset": 86,
+        "end_offset": 96,
+        "start": 6.88,
+        "end": 7.68
+      },
+      {
+        "word": "I",
+        "start_offset": 198,
+        "end_offset": 202,
+        "start": 15.84,
+        "end": 16.16
+      },
+      {
+        "word": "am",
+        "start_offset": 210,
+        "end_offset": 214,
+        "start": 16.8,
+        "end": 17.12
+      },
+      {
+        "word": "raw.",
+        "start_offset": 229,
+        "end_offset": 237,
+        "start": 18.32,
+        "end": 18.96
+      },
+      {
+        "word": "Is",
+        "start_offset": 263,
+        "end_offset": 267,
+        "start": 21.04,
+        "end": 21.36
+      },
+      {
+        "word": "there",
+        "start_offset": 275,
+        "end_offset": 279,
+        "start": 22.0,
+        "end": 22.32
+      },
+      {
+        "word": "any",
+        "start_offset": 291,
+        "end_offset": 295,
+        "start": 23.28,
+        "end": 23.6
+      },
+      {
+        "word": "reason",
+        "start_offset": 311,
+        "end_offset": 323,
+        "start": 24.88,
+        "end": 25.84
+      },
+      {
+        "word": "for",
+        "start_offset": 335,
+        "end_offset": 339,
+        "start": 26.8,
+        "end": 27.12
+      },
+      {
+        "word": "some",
+        "start_offset": 363,
+        "end_offset": 367,
+        "start": 29.04,
+        "end": 29.36
+      },
+      {
+        "word": "to",
+        "start_offset": 379,
+        "end_offset": 383,
+        "start": 30.32,
+        "end": 30.64
+      },
+      {
+        "word": "learn",
+        "start_offset": 395,
+        "end_offset": 409,
+        "start": 31.6,
+        "end": 32.72
+      },
+      {
+        "word": "more",
+        "start_offset": 421,
+        "end_offset": 425,
+        "start": 33.68,
+        "end": 34.0
+      },
+      {
+        "word": "quickly",
+        "start_offset": 437,
+        "end_offset": 451,
+        "start": 34.96,
+        "end": 36.08
+      },
+      {
+        "word": "than",
+        "start_offset": 459,
+        "end_offset": 463,
+        "start": 36.72,
+        "end": 37.04
+      },
+      {
+        "word": "others?",
+        "start_offset": 479,
+        "end_offset": 491,
+        "start": 38.32,
+        "end": 39.28
+      },
+      {
+        "word": "Look",
+        "start_offset": 506,
+        "end_offset": 514,
+        "start": 40.480000000000004,
+        "end": 41.12
+      },
+      {
+        "word": "if",
+        "start_offset": 524,
+        "end_offset": 528,
+        "start": 41.92,
+        "end": 42.24
+      },
+      {
+        "word": "you",
+        "start_offset": 540,
+        "end_offset": 544,
+        "start": 43.2,
+        "end": 43.52
+      },
+      {
+        "word": "wish",
+        "start_offset": 564,
+        "end_offset": 572,
+        "start": 45.12,
+        "end": 45.76
+      },
+      {
+        "word": "to",
+        "start_offset": 589,
+        "end_offset": 593,
+        "start": 47.12,
+        "end": 47.44
+      },
+      {
+        "word": "the",
+        "start_offset": 601,
+        "end_offset": 605,
+        "start": 48.08,
+        "end": 48.4
+      },
+      {
+        "word": "function",
+        "start_offset": 613,
+        "end_offset": 621,
+        "start": 49.04,
+        "end": 49.68
+      },
+      {
+        "word": "of",
+        "start_offset": 637,
+        "end_offset": 641,
+        "start": 50.96,
+        "end": 51.28
+      },
+      {
+        "word": "the",
+        "start_offset": 653,
+        "end_offset": 657,
+        "start": 52.24,
+        "end": 52.56
+      },
+      {
+        "word": "will,",
+        "start_offset": 669,
+        "end_offset": 673,
+        "start": 53.52,
+        "end": 53.84
+      },
+      {
+        "word": "the",
+        "start_offset": 697,
+        "end_offset": 701,
+        "start": 55.76,
+        "end": 56.08
+      },
+      {
+        "word": "shall",
+        "start_offset": 733,
+        "end_offset": 741,
+        "start": 58.64,
+        "end": 59.28
+      },
+      {
+        "word": "we",
+        "start_offset": 741,
+        "end_offset": 745,
+        "start": 59.28,
+        "end": 59.6
+      },
+      {
+        "word": "say",
+        "start_offset": 749,
+        "end_offset": 753,
+        "start": 59.92,
+        "end": 60.24
+      },
+      {
+        "word": "attraction",
+        "start_offset": 771,
+        "end_offset": 787,
+        "start": 61.68,
+        "end": 62.96
+      },
+      {
+        "word": "to",
+        "start_offset": 811,
+        "end_offset": 815,
+        "start": 64.88,
+        "end": 65.2
+      },
+      {
+        "word": "the",
+        "start_offset": 834,
+        "end_offset": 838,
+        "start": 66.72,
+        "end": 67.04
+      },
+      {
+        "word": "upward",
+        "start_offset": 842,
+        "end_offset": 854,
+        "start": 67.36,
+        "end": 68.32000000000001
+      },
+      {
+        "word": "spiraling",
+        "start_offset": 864,
+        "end_offset": 880,
+        "start": 69.12,
+        "end": 70.4
+      },
+      {
+        "word": "line",
+        "start_offset": 896,
+        "end_offset": 908,
+        "start": 71.68,
+        "end": 72.64
+      },
+      {
+        "word": "of",
+        "start_offset": 916,
+        "end_offset": 920,
+        "start": 73.28,
+        "end": 73.60000000000001
+      },
+      {
+        "word": "light.",
+        "start_offset": 928,
+        "end_offset": 936,
+        "start": 74.24,
+        "end": 74.88
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "028-14.mp3",
+    "audio_duration": 79.05,
+    "transcription_time": 0.13,
+    "rtfx": 585.78,
+    "timestamp": "2026-01-06T21:49:24.712336+00:00"
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "text": "I love the side, I am having a difficulty communicating with this instrument. We must diva state. This occurred approximately five hundred thousand of your ears.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I love the side, I am having a difficulty communicating with this instrument.",
+        "start_offset": 29,
+        "end_offset": 432,
+        "start": 2.32,
+        "end": 34.56
+      },
+      {
+        "segment": "We must diva state.",
+        "start_offset": 462,
+        "end_offset": 544,
+        "start": 36.96,
+        "end": 43.52
+      },
+      {
+        "segment": "This occurred approximately five hundred thousand of your ears.",
+        "start_offset": 632,
+        "end_offset": 824,
+        "start": 50.56,
+        "end": 65.92
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 29,
+        "end_offset": 30,
+        "start": 2.32,
+        "end": 2.4
+      },
+      {
+        "word": "love",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 2.64,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "the",
+        "start_offset": 38,
+        "end_offset": 39,
+        "start": 3.04,
+        "end": 3.12
+      },
+      {
+        "word": "side,",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 3.6,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "I",
+        "start_offset": 278,
+        "end_offset": 282,
+        "start": 22.240000000000002,
+        "end": 22.56
+      },
+      {
+        "word": "am",
+        "start_offset": 310,
+        "end_offset": 314,
+        "start": 24.8,
+        "end": 25.12
+      },
+      {
+        "word": "having",
+        "start_offset": 322,
+        "end_offset": 330,
+        "start": 25.76,
+        "end": 26.400000000000002
+      },
+      {
+        "word": "a",
+        "start_offset": 330,
+        "end_offset": 334,
+        "start": 26.400000000000002,
+        "end": 26.72
+      },
+      {
+        "word": "difficulty",
+        "start_offset": 334,
+        "end_offset": 346,
+        "start": 26.72,
+        "end": 27.68
+      },
+      {
+        "word": "communicating",
+        "start_offset": 354,
+        "end_offset": 372,
+        "start": 28.32,
+        "end": 29.76
+      },
+      {
+        "word": "with",
+        "start_offset": 384,
+        "end_offset": 388,
+        "start": 30.72,
+        "end": 31.04
+      },
+      {
+        "word": "this",
+        "start_offset": 404,
+        "end_offset": 408,
+        "start": 32.32,
+        "end": 32.64
+      },
+      {
+        "word": "instrument.",
+        "start_offset": 420,
+        "end_offset": 432,
+        "start": 33.6,
+        "end": 34.56
+      },
+      {
+        "word": "We",
+        "start_offset": 462,
+        "end_offset": 466,
+        "start": 36.96,
+        "end": 37.28
+      },
+      {
+        "word": "must",
+        "start_offset": 474,
+        "end_offset": 482,
+        "start": 37.92,
+        "end": 38.56
+      },
+      {
+        "word": "diva",
+        "start_offset": 496,
+        "end_offset": 505,
+        "start": 39.68,
+        "end": 40.4
+      },
+      {
+        "word": "state.",
+        "start_offset": 536,
+        "end_offset": 544,
+        "start": 42.88,
+        "end": 43.52
+      },
+      {
+        "word": "This",
+        "start_offset": 632,
+        "end_offset": 636,
+        "start": 50.56,
+        "end": 50.88
+      },
+      {
+        "word": "occurred",
+        "start_offset": 652,
+        "end_offset": 666,
+        "start": 52.160000000000004,
+        "end": 53.28
+      },
+      {
+        "word": "approximately",
+        "start_offset": 678,
+        "end_offset": 696,
+        "start": 54.24,
+        "end": 55.68
+      },
+      {
+        "word": "five",
+        "start_offset": 719,
+        "end_offset": 727,
+        "start": 57.52,
+        "end": 58.160000000000004
+      },
+      {
+        "word": "hundred",
+        "start_offset": 744,
+        "end_offset": 752,
+        "start": 59.52,
+        "end": 60.160000000000004
+      },
+      {
+        "word": "thousand",
+        "start_offset": 772,
+        "end_offset": 784,
+        "start": 61.76,
+        "end": 62.72
+      },
+      {
+        "word": "of",
+        "start_offset": 796,
+        "end_offset": 800,
+        "start": 63.68,
+        "end": 64.0
+      },
+      {
+        "word": "your",
+        "start_offset": 804,
+        "end_offset": 808,
+        "start": 64.32000000000001,
+        "end": 64.64
+      },
+      {
+        "word": "ears.",
+        "start_offset": 816,
+        "end_offset": 824,
+        "start": 65.28,
+        "end": 65.92
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "006-12.mp3",
+    "audio_duration": 76.04,
+    "transcription_time": 0.13,
+    "rtfx": 577.36,
+    "timestamp": "2026-01-06T21:46:03.432149+00:00"
+  }
+}

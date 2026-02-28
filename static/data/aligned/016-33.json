@@ -1,0 +1,769 @@
+{
+  "text": "With such a large number of planets in this galaxy, I was wondering if— you say there are approximately five hundred Confederation planets. That seems to me to be a relatively small percentage of the total number of fourth- and fifth-density planets around. Is there any reason for this relatively small percentage in this Confederation? I am Ra. There are many Confederations. This Confederation works with the planetary spheres of seven of your galaxies, if you will, and is responsible for the callings of the densities of these galaxies.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "With such a large number of planets in this galaxy, I was wondering if— you say there are approximately five hundred Confederation planets.",
+        "start_offset": 0,
+        "end_offset": 139,
+        "start": 1.801,
+        "end": 11.403
+      },
+      {
+        "segment": "That seems to me to be a relatively small percentage of the total number of fourth- and fifth-density planets around.",
+        "start_offset": 140,
+        "end_offset": 257,
+        "start": 11.423,
+        "end": 32.85
+      },
+      {
+        "segment": "Is there any reason for this relatively small percentage in this Confederation?",
+        "start_offset": 258,
+        "end_offset": 337,
+        "start": 32.87,
+        "end": 36.631
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 338,
+        "end_offset": 346,
+        "start": 36.651,
+        "end": 36.851
+      },
+      {
+        "segment": "There are many Confederations.",
+        "start_offset": 347,
+        "end_offset": 377,
+        "start": 36.871,
+        "end": 40.972
+      },
+      {
+        "segment": "This Confederation works with the planetary spheres of seven of your galaxies, if you will, and is responsible for the callings of the densities of these galaxies.",
+        "start_offset": 378,
+        "end_offset": 541,
+        "start": 42.553,
+        "end": 75.342
+      }
+    ],
+    "word": [
+      {
+        "word": "With",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 1.801,
+        "end": 2.001,
+        "score": -8.2578
+      },
+      {
+        "word": "such",
+        "start_offset": 5,
+        "end_offset": 9,
+        "start": 2.021,
+        "end": 2.141,
+        "score": -7.962
+      },
+      {
+        "word": "a",
+        "start_offset": 10,
+        "end_offset": 11,
+        "start": 2.161,
+        "end": 2.181,
+        "score": -4.1377
+      },
+      {
+        "word": "large",
+        "start_offset": 12,
+        "end_offset": 17,
+        "start": 2.221,
+        "end": 2.381,
+        "score": -7.5857
+      },
+      {
+        "word": "number",
+        "start_offset": 18,
+        "end_offset": 24,
+        "start": 2.421,
+        "end": 2.601,
+        "score": -7.3444
+      },
+      {
+        "word": "of",
+        "start_offset": 25,
+        "end_offset": 27,
+        "start": 2.621,
+        "end": 2.661,
+        "score": -10.562
+      },
+      {
+        "word": "planets",
+        "start_offset": 28,
+        "end_offset": 35,
+        "start": 2.681,
+        "end": 2.841,
+        "score": -7.3221
+      },
+      {
+        "word": "in",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 2.861,
+        "end": 2.921,
+        "score": -5.3073
+      },
+      {
+        "word": "this",
+        "start_offset": 39,
+        "end_offset": 43,
+        "start": 2.941,
+        "end": 3.041,
+        "score": -8.1044
+      },
+      {
+        "word": "galaxy,",
+        "start_offset": 44,
+        "end_offset": 51,
+        "start": 3.061,
+        "end": 3.221,
+        "score": -7.5843
+      },
+      {
+        "word": "I",
+        "start_offset": 52,
+        "end_offset": 53,
+        "start": 3.241,
+        "end": 3.261,
+        "score": -7.5401
+      },
+      {
+        "word": "was",
+        "start_offset": 54,
+        "end_offset": 57,
+        "start": 3.281,
+        "end": 3.341,
+        "score": -8.3417
+      },
+      {
+        "word": "wondering",
+        "start_offset": 58,
+        "end_offset": 67,
+        "start": 3.361,
+        "end": 3.561,
+        "score": -7.994
+      },
+      {
+        "word": "if—",
+        "start_offset": 68,
+        "end_offset": 71,
+        "start": 3.581,
+        "end": 3.621,
+        "score": -9.0192
+      },
+      {
+        "word": "you",
+        "start_offset": 72,
+        "end_offset": 75,
+        "start": 3.641,
+        "end": 3.701,
+        "score": -8.1137
+      },
+      {
+        "word": "say",
+        "start_offset": 76,
+        "end_offset": 79,
+        "start": 3.721,
+        "end": 3.781,
+        "score": -8.3375
+      },
+      {
+        "word": "there",
+        "start_offset": 80,
+        "end_offset": 85,
+        "start": 3.801,
+        "end": 3.961,
+        "score": -8.2748
+      },
+      {
+        "word": "are",
+        "start_offset": 86,
+        "end_offset": 89,
+        "start": 3.981,
+        "end": 4.301,
+        "score": -8.9852
+      },
+      {
+        "word": "approximately",
+        "start_offset": 90,
+        "end_offset": 103,
+        "start": 4.341,
+        "end": 5.202,
+        "score": -9.3294
+      },
+      {
+        "word": "five",
+        "start_offset": 104,
+        "end_offset": 108,
+        "start": 5.942,
+        "end": 6.122,
+        "score": -9.3846
+      },
+      {
+        "word": "hundred",
+        "start_offset": 109,
+        "end_offset": 116,
+        "start": 6.862,
+        "end": 8.242,
+        "score": -9.4148
+      },
+      {
+        "word": "Confederation",
+        "start_offset": 117,
+        "end_offset": 130,
+        "start": 8.402,
+        "end": 11.243,
+        "score": -8.4466
+      },
+      {
+        "word": "planets.",
+        "start_offset": 131,
+        "end_offset": 139,
+        "start": 11.263,
+        "end": 11.403,
+        "score": -9.002
+      },
+      {
+        "word": "That",
+        "start_offset": 140,
+        "end_offset": 144,
+        "start": 11.423,
+        "end": 11.523,
+        "score": -6.628
+      },
+      {
+        "word": "seems",
+        "start_offset": 145,
+        "end_offset": 150,
+        "start": 11.543,
+        "end": 11.683,
+        "score": -7.6958
+      },
+      {
+        "word": "to",
+        "start_offset": 151,
+        "end_offset": 153,
+        "start": 11.703,
+        "end": 11.743,
+        "score": -8.9359
+      },
+      {
+        "word": "me",
+        "start_offset": 154,
+        "end_offset": 156,
+        "start": 11.763,
+        "end": 11.823,
+        "score": -7.4438
+      },
+      {
+        "word": "to",
+        "start_offset": 157,
+        "end_offset": 159,
+        "start": 11.864,
+        "end": 11.904,
+        "score": -9.0168
+      },
+      {
+        "word": "be",
+        "start_offset": 160,
+        "end_offset": 162,
+        "start": 11.924,
+        "end": 11.964,
+        "score": -7.0494
+      },
+      {
+        "word": "a",
+        "start_offset": 163,
+        "end_offset": 164,
+        "start": 12.004,
+        "end": 12.024,
+        "score": -4.2179
+      },
+      {
+        "word": "relatively",
+        "start_offset": 165,
+        "end_offset": 175,
+        "start": 12.064,
+        "end": 12.404,
+        "score": -7.6748
+      },
+      {
+        "word": "small",
+        "start_offset": 176,
+        "end_offset": 181,
+        "start": 12.504,
+        "end": 12.724,
+        "score": -8.464
+      },
+      {
+        "word": "percentage",
+        "start_offset": 182,
+        "end_offset": 192,
+        "start": 12.744,
+        "end": 13.704,
+        "score": -8.1162
+      },
+      {
+        "word": "of",
+        "start_offset": 193,
+        "end_offset": 195,
+        "start": 19.126,
+        "end": 19.226,
+        "score": -10.0884
+      },
+      {
+        "word": "the",
+        "start_offset": 196,
+        "end_offset": 199,
+        "start": 19.246,
+        "end": 19.326,
+        "score": -9.1578
+      },
+      {
+        "word": "total",
+        "start_offset": 200,
+        "end_offset": 205,
+        "start": 19.446,
+        "end": 23.187,
+        "score": -8.0756
+      },
+      {
+        "word": "number",
+        "start_offset": 206,
+        "end_offset": 212,
+        "start": 23.227,
+        "end": 23.347,
+        "score": -8.4143
+      },
+      {
+        "word": "of",
+        "start_offset": 213,
+        "end_offset": 215,
+        "start": 23.367,
+        "end": 23.427,
+        "score": -10.5105
+      },
+      {
+        "word": "fourth-",
+        "start_offset": 216,
+        "end_offset": 223,
+        "start": 24.227,
+        "end": 24.347,
+        "score": -7.3154
+      },
+      {
+        "word": "and",
+        "start_offset": 224,
+        "end_offset": 227,
+        "start": 24.387,
+        "end": 24.447,
+        "score": -7.8676
+      },
+      {
+        "word": "fifth-density",
+        "start_offset": 228,
+        "end_offset": 241,
+        "start": 24.487,
+        "end": 32.049,
+        "score": -7.3814
+      },
+      {
+        "word": "planets",
+        "start_offset": 242,
+        "end_offset": 249,
+        "start": 32.069,
+        "end": 32.63,
+        "score": -8.7114
+      },
+      {
+        "word": "around.",
+        "start_offset": 250,
+        "end_offset": 257,
+        "start": 32.65,
+        "end": 32.85,
+        "score": -5.5167
+      },
+      {
+        "word": "Is",
+        "start_offset": 258,
+        "end_offset": 260,
+        "start": 32.87,
+        "end": 32.91,
+        "score": -9.1266
+      },
+      {
+        "word": "there",
+        "start_offset": 261,
+        "end_offset": 266,
+        "start": 32.93,
+        "end": 33.05,
+        "score": -8.7664
+      },
+      {
+        "word": "any",
+        "start_offset": 267,
+        "end_offset": 270,
+        "start": 33.33,
+        "end": 33.43,
+        "score": -9.1566
+      },
+      {
+        "word": "reason",
+        "start_offset": 271,
+        "end_offset": 277,
+        "start": 33.49,
+        "end": 33.61,
+        "score": -7.676
+      },
+      {
+        "word": "for",
+        "start_offset": 278,
+        "end_offset": 281,
+        "start": 33.63,
+        "end": 33.71,
+        "score": -6.8463
+      },
+      {
+        "word": "this",
+        "start_offset": 282,
+        "end_offset": 286,
+        "start": 33.73,
+        "end": 33.81,
+        "score": -7.9106
+      },
+      {
+        "word": "relatively",
+        "start_offset": 287,
+        "end_offset": 297,
+        "start": 33.83,
+        "end": 34.09,
+        "score": -7.7233
+      },
+      {
+        "word": "small",
+        "start_offset": 298,
+        "end_offset": 303,
+        "start": 34.11,
+        "end": 35.511,
+        "score": -7.3437
+      },
+      {
+        "word": "percentage",
+        "start_offset": 304,
+        "end_offset": 314,
+        "start": 35.531,
+        "end": 35.851,
+        "score": -6.7291
+      },
+      {
+        "word": "in",
+        "start_offset": 315,
+        "end_offset": 317,
+        "start": 35.871,
+        "end": 35.911,
+        "score": -3.4224
+      },
+      {
+        "word": "this",
+        "start_offset": 318,
+        "end_offset": 322,
+        "start": 35.931,
+        "end": 36.011,
+        "score": -7.4232
+      },
+      {
+        "word": "Confederation?",
+        "start_offset": 323,
+        "end_offset": 337,
+        "start": 36.031,
+        "end": 36.631,
+        "score": -9.5224
+      },
+      {
+        "word": "I",
+        "start_offset": 338,
+        "end_offset": 339,
+        "start": 36.651,
+        "end": 36.671,
+        "score": -8.4843
+      },
+      {
+        "word": "am",
+        "start_offset": 340,
+        "end_offset": 342,
+        "start": 36.691,
+        "end": 36.731,
+        "score": -6.3729
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 343,
+        "end_offset": 346,
+        "start": 36.811,
+        "end": 36.851,
+        "score": -8.495
+      },
+      {
+        "word": "There",
+        "start_offset": 347,
+        "end_offset": 352,
+        "start": 36.871,
+        "end": 36.971,
+        "score": -6.7415
+      },
+      {
+        "word": "are",
+        "start_offset": 353,
+        "end_offset": 356,
+        "start": 36.991,
+        "end": 37.231,
+        "score": -9.4259
+      },
+      {
+        "word": "many",
+        "start_offset": 357,
+        "end_offset": 361,
+        "start": 38.111,
+        "end": 38.471,
+        "score": -0.7146
+      },
+      {
+        "word": "Confederations.",
+        "start_offset": 362,
+        "end_offset": 377,
+        "start": 39.172,
+        "end": 40.972,
+        "score": -2.1324
+      },
+      {
+        "word": "This",
+        "start_offset": 378,
+        "end_offset": 382,
+        "start": 42.553,
+        "end": 42.873,
+        "score": -0.7535
+      },
+      {
+        "word": "Confederation",
+        "start_offset": 383,
+        "end_offset": 396,
+        "start": 43.193,
+        "end": 44.773,
+        "score": -2.6223
+      },
+      {
+        "word": "works",
+        "start_offset": 397,
+        "end_offset": 402,
+        "start": 46.074,
+        "end": 46.554,
+        "score": -0.7095
+      },
+      {
+        "word": "with",
+        "start_offset": 403,
+        "end_offset": 407,
+        "start": 46.814,
+        "end": 47.154,
+        "score": -0.7568
+      },
+      {
+        "word": "the",
+        "start_offset": 408,
+        "end_offset": 411,
+        "start": 47.614,
+        "end": 47.754,
+        "score": -1.0276
+      },
+      {
+        "word": "planetary",
+        "start_offset": 412,
+        "end_offset": 421,
+        "start": 48.634,
+        "end": 49.655,
+        "score": -0.9243
+      },
+      {
+        "word": "spheres",
+        "start_offset": 422,
+        "end_offset": 429,
+        "start": 50.495,
+        "end": 51.195,
+        "score": -1.1939
+      },
+      {
+        "word": "of",
+        "start_offset": 430,
+        "end_offset": 432,
+        "start": 52.295,
+        "end": 52.536,
+        "score": -0.7616
+      },
+      {
+        "word": "seven",
+        "start_offset": 433,
+        "end_offset": 438,
+        "start": 53.496,
+        "end": 53.936,
+        "score": -0.9448
+      },
+      {
+        "word": "of",
+        "start_offset": 439,
+        "end_offset": 441,
+        "start": 54.696,
+        "end": 54.876,
+        "score": -5.8812
+      },
+      {
+        "word": "your",
+        "start_offset": 442,
+        "end_offset": 446,
+        "start": 55.396,
+        "end": 55.696,
+        "score": -1.5735
+      },
+      {
+        "word": "galaxies,",
+        "start_offset": 447,
+        "end_offset": 456,
+        "start": 56.877,
+        "end": 57.877,
+        "score": -0.8081
+      },
+      {
+        "word": "if",
+        "start_offset": 457,
+        "end_offset": 459,
+        "start": 58.377,
+        "end": 58.537,
+        "score": -5.487
+      },
+      {
+        "word": "you",
+        "start_offset": 460,
+        "end_offset": 463,
+        "start": 59.057,
+        "end": 59.198,
+        "score": -0.9506
+      },
+      {
+        "word": "will,",
+        "start_offset": 464,
+        "end_offset": 469,
+        "start": 60.058,
+        "end": 60.358,
+        "score": -0.9881
+      },
+      {
+        "word": "and",
+        "start_offset": 470,
+        "end_offset": 473,
+        "start": 61.718,
+        "end": 61.998,
+        "score": -0.7171
+      },
+      {
+        "word": "is",
+        "start_offset": 474,
+        "end_offset": 476,
+        "start": 62.539,
+        "end": 62.839,
+        "score": -0.7117
+      },
+      {
+        "word": "responsible",
+        "start_offset": 477,
+        "end_offset": 488,
+        "start": 63.339,
+        "end": 64.499,
+        "score": -0.7543
+      },
+      {
+        "word": "for",
+        "start_offset": 489,
+        "end_offset": 492,
+        "start": 65.239,
+        "end": 65.479,
+        "score": -0.7249
+      },
+      {
+        "word": "the",
+        "start_offset": 493,
+        "end_offset": 496,
+        "start": 66.04,
+        "end": 66.16,
+        "score": -3.0984
+      },
+      {
+        "word": "callings",
+        "start_offset": 497,
+        "end_offset": 505,
+        "start": 67.74,
+        "end": 68.62,
+        "score": -1.4795
+      },
+      {
+        "word": "of",
+        "start_offset": 506,
+        "end_offset": 508,
+        "start": 69.561,
+        "end": 69.781,
+        "score": -0.7264
+      },
+      {
+        "word": "the",
+        "start_offset": 509,
+        "end_offset": 512,
+        "start": 70.181,
+        "end": 70.301,
+        "score": -0.735
+      },
+      {
+        "word": "densities",
+        "start_offset": 513,
+        "end_offset": 522,
+        "start": 70.681,
+        "end": 71.701,
+        "score": -1.5609
+      },
+      {
+        "word": "of",
+        "start_offset": 523,
+        "end_offset": 525,
+        "start": 72.461,
+        "end": 72.682,
+        "score": -1.002
+      },
+      {
+        "word": "these",
+        "start_offset": 526,
+        "end_offset": 531,
+        "start": 73.242,
+        "end": 73.702,
+        "score": -2.2204
+      },
+      {
+        "word": "galaxies.",
+        "start_offset": 532,
+        "end_offset": 541,
+        "start": 74.322,
+        "end": 75.342,
+        "score": -1.4166
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-33.mp3",
+    "audio_duration": 76.0425,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

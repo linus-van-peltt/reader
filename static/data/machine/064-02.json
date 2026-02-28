@@ -1,0 +1,135 @@
+{
+  "text": "Can you tell what the transitory distortion is? Hi, yeah. This is marginal information.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell what the transitory distortion is?",
+        "start_offset": 23,
+        "end_offset": 75,
+        "start": 1.84,
+        "end": 6.0
+      },
+      {
+        "segment": "Hi, yeah.",
+        "start_offset": 135,
+        "end_offset": 153,
+        "start": 10.8,
+        "end": 12.24
+      },
+      {
+        "segment": "This is marginal information.",
+        "start_offset": 191,
+        "end_offset": 259,
+        "start": 15.280000000000001,
+        "end": 20.72
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 1.84,
+        "end": 2.16
+      },
+      {
+        "word": "you",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 2.16,
+        "end": 2.48
+      },
+      {
+        "word": "tell",
+        "start_offset": 31,
+        "end_offset": 37,
+        "start": 2.48,
+        "end": 2.96
+      },
+      {
+        "word": "what",
+        "start_offset": 37,
+        "end_offset": 41,
+        "start": 2.96,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "the",
+        "start_offset": 41,
+        "end_offset": 45,
+        "start": 3.2800000000000002,
+        "end": 3.6
+      },
+      {
+        "word": "transitory",
+        "start_offset": 49,
+        "end_offset": 61,
+        "start": 3.92,
+        "end": 4.88
+      },
+      {
+        "word": "distortion",
+        "start_offset": 61,
+        "end_offset": 71,
+        "start": 4.88,
+        "end": 5.68
+      },
+      {
+        "word": "is?",
+        "start_offset": 71,
+        "end_offset": 75,
+        "start": 5.68,
+        "end": 6.0
+      },
+      {
+        "word": "Hi,",
+        "start_offset": 135,
+        "end_offset": 139,
+        "start": 10.8,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "yeah.",
+        "start_offset": 146,
+        "end_offset": 153,
+        "start": 11.68,
+        "end": 12.24
+      },
+      {
+        "word": "This",
+        "start_offset": 191,
+        "end_offset": 195,
+        "start": 15.280000000000001,
+        "end": 15.6
+      },
+      {
+        "word": "is",
+        "start_offset": 203,
+        "end_offset": 207,
+        "start": 16.240000000000002,
+        "end": 16.56
+      },
+      {
+        "word": "marginal",
+        "start_offset": 219,
+        "end_offset": 231,
+        "start": 17.52,
+        "end": 18.48
+      },
+      {
+        "word": "information.",
+        "start_offset": 243,
+        "end_offset": 259,
+        "start": 19.44,
+        "end": 20.72
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "064-02.mp3",
+    "audio_duration": 21.03,
+    "transcription_time": 0.08,
+    "rtfx": 250.39,
+    "timestamp": "2026-01-06T21:53:49.343375+00:00"
+  }
+}

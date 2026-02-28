@@ -1,0 +1,276 @@
+{
+  "text": "How long ago did this transfer occur from the Red Planet to Earth? I am Ra. In your time this transfer occurred approximately seven five zero zero zero 75, 000 years ago.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "How long ago did this transfer occur from the Red Planet to Earth?",
+        "start_offset": 0,
+        "end_offset": 66,
+        "start": 1.801,
+        "end": 21.529
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 67,
+        "end_offset": 75,
+        "start": 21.549,
+        "end": 24.39
+      },
+      {
+        "segment": "In your time this transfer occurred approximately seven five zero zero zero years ago.",
+        "start_offset": 76,
+        "end_offset": 170,
+        "start": 27.651,
+        "end": 53.082
+      }
+    ],
+    "word": [
+      {
+        "word": "How",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 1.801,
+        "end": 1.941,
+        "score": -4.726
+      },
+      {
+        "word": "long",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 2.001,
+        "end": 2.221,
+        "score": -3.9292
+      },
+      {
+        "word": "ago",
+        "start_offset": 9,
+        "end_offset": 12,
+        "start": 2.241,
+        "end": 2.421,
+        "score": -4.3778
+      },
+      {
+        "word": "did",
+        "start_offset": 13,
+        "end_offset": 16,
+        "start": 2.541,
+        "end": 2.701,
+        "score": -6.4767
+      },
+      {
+        "word": "this",
+        "start_offset": 17,
+        "end_offset": 21,
+        "start": 2.721,
+        "end": 2.861,
+        "score": -5.6545
+      },
+      {
+        "word": "transfer",
+        "start_offset": 22,
+        "end_offset": 30,
+        "start": 2.921,
+        "end": 3.141,
+        "score": -6.8802
+      },
+      {
+        "word": "occur",
+        "start_offset": 31,
+        "end_offset": 36,
+        "start": 3.161,
+        "end": 3.381,
+        "score": -6.2296
+      },
+      {
+        "word": "from",
+        "start_offset": 37,
+        "end_offset": 41,
+        "start": 3.401,
+        "end": 3.521,
+        "score": -7.9467
+      },
+      {
+        "word": "the",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 3.622,
+        "end": 3.722,
+        "score": -5.6099
+      },
+      {
+        "word": "Red",
+        "start_offset": 46,
+        "end_offset": 49,
+        "start": 3.822,
+        "end": 3.942,
+        "score": -6.3136
+      },
+      {
+        "word": "Planet",
+        "start_offset": 50,
+        "end_offset": 56,
+        "start": 4.482,
+        "end": 5.302,
+        "score": -7.3958
+      },
+      {
+        "word": "to",
+        "start_offset": 57,
+        "end_offset": 59,
+        "start": 5.322,
+        "end": 5.402,
+        "score": -7.4309
+      },
+      {
+        "word": "Earth?",
+        "start_offset": 60,
+        "end_offset": 66,
+        "start": 21.229,
+        "end": 21.529,
+        "score": -7.3834
+      },
+      {
+        "word": "I",
+        "start_offset": 67,
+        "end_offset": 68,
+        "start": 21.549,
+        "end": 21.569,
+        "score": -0.9446
+      },
+      {
+        "word": "am",
+        "start_offset": 69,
+        "end_offset": 71,
+        "start": 22.449,
+        "end": 22.689,
+        "score": -1.8538
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 72,
+        "end_offset": 75,
+        "start": 24.25,
+        "end": 24.39,
+        "score": -1.5874
+      },
+      {
+        "word": "In",
+        "start_offset": 76,
+        "end_offset": 78,
+        "start": 27.651,
+        "end": 27.852,
+        "score": -0.7517
+      },
+      {
+        "word": "your",
+        "start_offset": 79,
+        "end_offset": 83,
+        "start": 28.812,
+        "end": 29.112,
+        "score": -2.2385
+      },
+      {
+        "word": "time",
+        "start_offset": 84,
+        "end_offset": 88,
+        "start": 30.313,
+        "end": 30.953,
+        "score": -0.9853
+      },
+      {
+        "word": "this",
+        "start_offset": 89,
+        "end_offset": 93,
+        "start": 32.233,
+        "end": 32.634,
+        "score": -0.8439
+      },
+      {
+        "word": "transfer",
+        "start_offset": 94,
+        "end_offset": 102,
+        "start": 33.514,
+        "end": 34.534,
+        "score": -0.8354
+      },
+      {
+        "word": "occurred",
+        "start_offset": 103,
+        "end_offset": 111,
+        "start": 35.775,
+        "end": 36.595,
+        "score": -1.4333
+      },
+      {
+        "word": "approximately",
+        "start_offset": 112,
+        "end_offset": 125,
+        "start": 38.516,
+        "end": 40.117,
+        "score": -1.2197
+      },
+      {
+        "word": "seven",
+        "start_offset": 126,
+        "end_offset": 131,
+        "start": 42.198,
+        "end": 42.638,
+        "score": -3.2309
+      },
+      {
+        "word": "five",
+        "start_offset": 132,
+        "end_offset": 136,
+        "start": 43.598,
+        "end": 44.158,
+        "score": -1.9723
+      },
+      {
+        "word": "zero",
+        "start_offset": 137,
+        "end_offset": 141,
+        "start": 45.919,
+        "end": 46.319,
+        "score": -7.4213
+      },
+      {
+        "word": "zero",
+        "start_offset": 142,
+        "end_offset": 146,
+        "start": 47.28,
+        "end": 47.68,
+        "score": -9.2001
+      },
+      {
+        "word": "zero",
+        "start_offset": 147,
+        "end_offset": 151,
+        "start": 48.76,
+        "end": 49.14,
+        "score": -7.4485
+      },
+      {
+        "word": "years",
+        "start_offset": 160,
+        "end_offset": 165,
+        "start": 50.501,
+        "end": 51.041,
+        "score": -0.7461
+      },
+      {
+        "word": "ago.",
+        "start_offset": 166,
+        "end_offset": 170,
+        "start": 52.702,
+        "end": 53.082,
+        "score": -0.9254
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "009-11.mp3",
+    "audio_duration": 58.0441,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

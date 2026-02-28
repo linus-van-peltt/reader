@@ -1,0 +1,79 @@
+{
+  "text": "Raw, session number seven, January twenty-fifth, nineteen eighty-one.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Raw, session number seven, January twenty-fifth, nineteen eighty-one.",
+        "start_offset": 90,
+        "end_offset": 149,
+        "start": 7.2,
+        "end": 11.92
+      }
+    ],
+    "word": [
+      {
+        "word": "Raw,",
+        "start_offset": 90,
+        "end_offset": 96,
+        "start": 7.2,
+        "end": 7.68
+      },
+      {
+        "word": "session",
+        "start_offset": 100,
+        "end_offset": 106,
+        "start": 8.0,
+        "end": 8.48
+      },
+      {
+        "word": "number",
+        "start_offset": 106,
+        "end_offset": 109,
+        "start": 8.48,
+        "end": 8.72
+      },
+      {
+        "word": "seven,",
+        "start_offset": 109,
+        "end_offset": 114,
+        "start": 8.72,
+        "end": 9.120000000000001
+      },
+      {
+        "word": "January",
+        "start_offset": 116,
+        "end_offset": 124,
+        "start": 9.28,
+        "end": 9.92
+      },
+      {
+        "word": "twenty-fifth,",
+        "start_offset": 124,
+        "end_offset": 134,
+        "start": 9.92,
+        "end": 10.72
+      },
+      {
+        "word": "nineteen",
+        "start_offset": 136,
+        "end_offset": 141,
+        "start": 10.88,
+        "end": 11.28
+      },
+      {
+        "word": "eighty-one.",
+        "start_offset": 143,
+        "end_offset": 149,
+        "start": 11.44,
+        "end": 11.92
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "007-00.mp3",
+    "audio_duration": 13.04,
+    "transcription_time": 0.09,
+    "rtfx": 150.76,
+    "timestamp": "2026-01-06T21:46:10.746980+00:00"
+  }
+}

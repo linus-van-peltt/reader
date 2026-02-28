@@ -1,0 +1,196 @@
+{
+  "text": "Would you please first give us a reading on the instrument's condition? I am Ra. It is as previously stated.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would you please first give us a reading on the instrument's condition?",
+        "start_offset": 0,
+        "end_offset": 71,
+        "start": 0.52,
+        "end": 4.683
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 72,
+        "end_offset": 80,
+        "start": 11.848,
+        "end": 14.37
+      },
+      {
+        "segment": "It is as previously stated.",
+        "start_offset": 81,
+        "end_offset": 108,
+        "start": 18.033,
+        "end": 25.458
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 0.52,
+        "end": 0.62,
+        "score": -10.3541
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 0.64,
+        "end": 0.741,
+        "score": -1.9251
+      },
+      {
+        "word": "please",
+        "start_offset": 10,
+        "end_offset": 16,
+        "start": 0.801,
+        "end": 1.081,
+        "score": -2.8384
+      },
+      {
+        "word": "first",
+        "start_offset": 17,
+        "end_offset": 22,
+        "start": 1.101,
+        "end": 1.401,
+        "score": -0.7301
+      },
+      {
+        "word": "give",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 1.461,
+        "end": 1.701,
+        "score": -6.2538
+      },
+      {
+        "word": "us",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 1.761,
+        "end": 1.801,
+        "score": -4.886
+      },
+      {
+        "word": "a",
+        "start_offset": 31,
+        "end_offset": 32,
+        "start": 2.462,
+        "end": 2.482,
+        "score": -1.1772
+      },
+      {
+        "word": "reading",
+        "start_offset": 33,
+        "end_offset": 40,
+        "start": 3.022,
+        "end": 3.322,
+        "score": -0.7313
+      },
+      {
+        "word": "on",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 3.402,
+        "end": 3.482,
+        "score": -0.7035
+      },
+      {
+        "word": "the",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 3.502,
+        "end": 3.582,
+        "score": -0.7977
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 48,
+        "end_offset": 60,
+        "start": 3.663,
+        "end": 4.163,
+        "score": -0.8017
+      },
+      {
+        "word": "condition?",
+        "start_offset": 61,
+        "end_offset": 71,
+        "start": 4.203,
+        "end": 4.683,
+        "score": -0.7026
+      },
+      {
+        "word": "I",
+        "start_offset": 72,
+        "end_offset": 73,
+        "start": 11.848,
+        "end": 11.868,
+        "score": -0.774
+      },
+      {
+        "word": "am",
+        "start_offset": 74,
+        "end_offset": 76,
+        "start": 12.929,
+        "end": 13.169,
+        "score": -0.8629
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 77,
+        "end_offset": 80,
+        "start": 14.25,
+        "end": 14.37,
+        "score": -1.3665
+      },
+      {
+        "word": "It",
+        "start_offset": 81,
+        "end_offset": 83,
+        "start": 18.033,
+        "end": 18.253,
+        "score": -0.7091
+      },
+      {
+        "word": "is",
+        "start_offset": 84,
+        "end_offset": 86,
+        "start": 19.053,
+        "end": 19.333,
+        "score": -0.7089
+      },
+      {
+        "word": "as",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 20.514,
+        "end": 20.895,
+        "score": -0.7233
+      },
+      {
+        "word": "previously",
+        "start_offset": 90,
+        "end_offset": 100,
+        "start": 23.016,
+        "end": 23.957,
+        "score": -0.7116
+      },
+      {
+        "word": "stated.",
+        "start_offset": 101,
+        "end_offset": 108,
+        "start": 24.937,
+        "end": 25.458,
+        "score": -0.6991
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "049-01.mp3",
+    "audio_duration": 30.0409,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

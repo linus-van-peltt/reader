@@ -1,0 +1,77 @@
+{
+  "text": "I am Ra. We communicate now.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I am Ra.",
+        "start_offset": 0,
+        "end_offset": 8,
+        "start": 4.961,
+        "end": 7.342
+      },
+      {
+        "segment": "We communicate now.",
+        "start_offset": 9,
+        "end_offset": 28,
+        "start": 13.263,
+        "end": 18.184
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 4.961,
+        "end": 4.981,
+        "score": -6.4378
+      },
+      {
+        "word": "am",
+        "start_offset": 2,
+        "end_offset": 4,
+        "start": 5.081,
+        "end": 5.841,
+        "score": -1.6426
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 5.981,
+        "end": 7.342,
+        "score": -1.4708
+      },
+      {
+        "word": "We",
+        "start_offset": 9,
+        "end_offset": 11,
+        "start": 13.263,
+        "end": 13.403,
+        "score": -1.6419
+      },
+      {
+        "word": "communicate",
+        "start_offset": 12,
+        "end_offset": 23,
+        "start": 13.743,
+        "end": 15.664,
+        "score": -2.6722
+      },
+      {
+        "word": "now.",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 17.764,
+        "end": 18.184,
+        "score": -1.9953
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "085-00.mp3",
+    "audio_duration": 56.0327,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

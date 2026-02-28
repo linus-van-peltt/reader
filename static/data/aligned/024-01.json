@@ -1,0 +1,481 @@
+{
+  "text": "We are a little concerned about the physical condition of the instrument. She has a slight congestion. If you can tell me of the suitability of this session at all, I would appreciate it. I am Ra. This instrument's vital energies of the physical complex are low. The session will be appropriately shortened.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "We are a little concerned about the physical condition of the instrument.",
+        "start_offset": 0,
+        "end_offset": 73,
+        "start": 1.62,
+        "end": 5.581
+      },
+      {
+        "segment": "She has a slight congestion.",
+        "start_offset": 74,
+        "end_offset": 102,
+        "start": 5.961,
+        "end": 9.762
+      },
+      {
+        "segment": "If you can tell me of the suitability of this session at all, I would appreciate it.",
+        "start_offset": 103,
+        "end_offset": 187,
+        "start": 12.603,
+        "end": 17.584
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 188,
+        "end_offset": 196,
+        "start": 27.246,
+        "end": 29.686
+      },
+      {
+        "segment": "This instrument's vital energies of the physical complex are low.",
+        "start_offset": 197,
+        "end_offset": 262,
+        "start": 32.347,
+        "end": 48.67
+      },
+      {
+        "segment": "The session will be appropriately shortened.",
+        "start_offset": 263,
+        "end_offset": 307,
+        "start": 51.431,
+        "end": 61.953
+      }
+    ],
+    "word": [
+      {
+        "word": "We",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 1.62,
+        "end": 1.7,
+        "score": -0.7603
+      },
+      {
+        "word": "are",
+        "start_offset": 3,
+        "end_offset": 6,
+        "start": 1.82,
+        "end": 1.94,
+        "score": -0.7961
+      },
+      {
+        "word": "a",
+        "start_offset": 7,
+        "end_offset": 8,
+        "start": 1.96,
+        "end": 1.98,
+        "score": -0.7368
+      },
+      {
+        "word": "little",
+        "start_offset": 9,
+        "end_offset": 15,
+        "start": 2.06,
+        "end": 2.28,
+        "score": -5.5377
+      },
+      {
+        "word": "concerned",
+        "start_offset": 16,
+        "end_offset": 25,
+        "start": 2.341,
+        "end": 2.981,
+        "score": -0.7303
+      },
+      {
+        "word": "about",
+        "start_offset": 26,
+        "end_offset": 31,
+        "start": 3.041,
+        "end": 3.361,
+        "score": -0.8121
+      },
+      {
+        "word": "the",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 3.481,
+        "end": 3.601,
+        "score": -1.0078
+      },
+      {
+        "word": "physical",
+        "start_offset": 36,
+        "end_offset": 44,
+        "start": 3.761,
+        "end": 4.161,
+        "score": -0.7969
+      },
+      {
+        "word": "condition",
+        "start_offset": 45,
+        "end_offset": 54,
+        "start": 4.221,
+        "end": 4.701,
+        "score": -0.862
+      },
+      {
+        "word": "of",
+        "start_offset": 55,
+        "end_offset": 57,
+        "start": 4.781,
+        "end": 4.861,
+        "score": -0.9841
+      },
+      {
+        "word": "the",
+        "start_offset": 58,
+        "end_offset": 61,
+        "start": 4.901,
+        "end": 4.981,
+        "score": -1.1033
+      },
+      {
+        "word": "instrument.",
+        "start_offset": 62,
+        "end_offset": 73,
+        "start": 5.061,
+        "end": 5.581,
+        "score": -0.9652
+      },
+      {
+        "word": "She",
+        "start_offset": 74,
+        "end_offset": 77,
+        "start": 5.961,
+        "end": 6.061,
+        "score": -1.2357
+      },
+      {
+        "word": "has",
+        "start_offset": 78,
+        "end_offset": 81,
+        "start": 6.221,
+        "end": 6.481,
+        "score": -1.7226
+      },
+      {
+        "word": "a",
+        "start_offset": 82,
+        "end_offset": 83,
+        "start": 7.482,
+        "end": 7.502,
+        "score": -1.3687
+      },
+      {
+        "word": "slight",
+        "start_offset": 84,
+        "end_offset": 90,
+        "start": 8.502,
+        "end": 8.882,
+        "score": -1.2702
+      },
+      {
+        "word": "congestion.",
+        "start_offset": 91,
+        "end_offset": 102,
+        "start": 9.082,
+        "end": 9.762,
+        "score": -1.0672
+      },
+      {
+        "word": "If",
+        "start_offset": 103,
+        "end_offset": 105,
+        "start": 12.603,
+        "end": 12.703,
+        "score": -0.973
+      },
+      {
+        "word": "you",
+        "start_offset": 106,
+        "end_offset": 109,
+        "start": 12.783,
+        "end": 12.883,
+        "score": -0.8939
+      },
+      {
+        "word": "can",
+        "start_offset": 110,
+        "end_offset": 113,
+        "start": 12.963,
+        "end": 13.143,
+        "score": -0.8117
+      },
+      {
+        "word": "tell",
+        "start_offset": 114,
+        "end_offset": 118,
+        "start": 13.743,
+        "end": 13.943,
+        "score": -0.8768
+      },
+      {
+        "word": "me",
+        "start_offset": 119,
+        "end_offset": 121,
+        "start": 13.983,
+        "end": 14.063,
+        "score": -0.8529
+      },
+      {
+        "word": "of",
+        "start_offset": 122,
+        "end_offset": 124,
+        "start": 14.703,
+        "end": 14.763,
+        "score": -4.3972
+      },
+      {
+        "word": "the",
+        "start_offset": 125,
+        "end_offset": 128,
+        "start": 14.783,
+        "end": 14.843,
+        "score": -1.0178
+      },
+      {
+        "word": "suitability",
+        "start_offset": 129,
+        "end_offset": 140,
+        "start": 14.903,
+        "end": 15.483,
+        "score": -1.626
+      },
+      {
+        "word": "of",
+        "start_offset": 141,
+        "end_offset": 143,
+        "start": 15.543,
+        "end": 15.603,
+        "score": -1.0945
+      },
+      {
+        "word": "this",
+        "start_offset": 144,
+        "end_offset": 148,
+        "start": 15.623,
+        "end": 15.783,
+        "score": -1.8905
+      },
+      {
+        "word": "session",
+        "start_offset": 149,
+        "end_offset": 156,
+        "start": 15.883,
+        "end": 16.243,
+        "score": -0.9774
+      },
+      {
+        "word": "at",
+        "start_offset": 157,
+        "end_offset": 159,
+        "start": 16.303,
+        "end": 16.384,
+        "score": -3.3746
+      },
+      {
+        "word": "all,",
+        "start_offset": 160,
+        "end_offset": 164,
+        "start": 16.484,
+        "end": 16.584,
+        "score": -1.8227
+      },
+      {
+        "word": "I",
+        "start_offset": 165,
+        "end_offset": 166,
+        "start": 16.624,
+        "end": 16.644,
+        "score": -7.8212
+      },
+      {
+        "word": "would",
+        "start_offset": 167,
+        "end_offset": 172,
+        "start": 16.684,
+        "end": 16.804,
+        "score": -4.8898
+      },
+      {
+        "word": "appreciate",
+        "start_offset": 173,
+        "end_offset": 183,
+        "start": 16.884,
+        "end": 17.524,
+        "score": -1.06
+      },
+      {
+        "word": "it.",
+        "start_offset": 184,
+        "end_offset": 187,
+        "start": 17.544,
+        "end": 17.584,
+        "score": -6.973
+      },
+      {
+        "word": "I",
+        "start_offset": 188,
+        "end_offset": 189,
+        "start": 27.246,
+        "end": 27.266,
+        "score": -1.1976
+      },
+      {
+        "word": "am",
+        "start_offset": 190,
+        "end_offset": 192,
+        "start": 28.306,
+        "end": 28.606,
+        "score": -2.6287
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 193,
+        "end_offset": 196,
+        "start": 29.566,
+        "end": 29.686,
+        "score": -1.1924
+      },
+      {
+        "word": "This",
+        "start_offset": 197,
+        "end_offset": 201,
+        "start": 32.347,
+        "end": 32.707,
+        "score": -0.7388
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 202,
+        "end_offset": 214,
+        "start": 33.727,
+        "end": 34.707,
+        "score": -1.4017
+      },
+      {
+        "word": "vital",
+        "start_offset": 215,
+        "end_offset": 220,
+        "start": 36.508,
+        "end": 36.948,
+        "score": -0.7696
+      },
+      {
+        "word": "energies",
+        "start_offset": 221,
+        "end_offset": 229,
+        "start": 38.448,
+        "end": 39.168,
+        "score": -0.8345
+      },
+      {
+        "word": "of",
+        "start_offset": 230,
+        "end_offset": 232,
+        "start": 40.729,
+        "end": 40.909,
+        "score": -0.715
+      },
+      {
+        "word": "the",
+        "start_offset": 233,
+        "end_offset": 236,
+        "start": 41.109,
+        "end": 41.249,
+        "score": -0.775
+      },
+      {
+        "word": "physical",
+        "start_offset": 237,
+        "end_offset": 245,
+        "start": 42.529,
+        "end": 43.149,
+        "score": -0.707
+      },
+      {
+        "word": "complex",
+        "start_offset": 246,
+        "end_offset": 253,
+        "start": 44.329,
+        "end": 45.13,
+        "score": -0.7
+      },
+      {
+        "word": "are",
+        "start_offset": 254,
+        "end_offset": 257,
+        "start": 47.13,
+        "end": 47.41,
+        "score": -1.5529
+      },
+      {
+        "word": "low.",
+        "start_offset": 258,
+        "end_offset": 262,
+        "start": 48.39,
+        "end": 48.67,
+        "score": -1.5348
+      },
+      {
+        "word": "The",
+        "start_offset": 263,
+        "end_offset": 266,
+        "start": 51.431,
+        "end": 51.571,
+        "score": -0.8279
+      },
+      {
+        "word": "session",
+        "start_offset": 267,
+        "end_offset": 274,
+        "start": 52.431,
+        "end": 52.951,
+        "score": -0.7699
+      },
+      {
+        "word": "will",
+        "start_offset": 275,
+        "end_offset": 279,
+        "start": 54.952,
+        "end": 55.272,
+        "score": -0.9821
+      },
+      {
+        "word": "be",
+        "start_offset": 280,
+        "end_offset": 282,
+        "start": 56.352,
+        "end": 56.472,
+        "score": -0.7057
+      },
+      {
+        "word": "appropriately",
+        "start_offset": 283,
+        "end_offset": 296,
+        "start": 58.533,
+        "end": 59.793,
+        "score": -0.7701
+      },
+      {
+        "word": "shortened.",
+        "start_offset": 297,
+        "end_offset": 307,
+        "start": 61.273,
+        "end": 61.953,
+        "score": -0.7525
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "024-01.mp3",
+    "audio_duration": 63.0335,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

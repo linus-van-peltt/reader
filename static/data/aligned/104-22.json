@@ -1,0 +1,283 @@
+{
+  "text": "I had asked if the drops should be administered once per diurnal period. Is that correct? I am Ra. This depends upon the allopathic physician from whom you receive them.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I had asked if the drops should be administered once per diurnal period.",
+        "start_offset": 0,
+        "end_offset": 72,
+        "start": 3.401,
+        "end": 10.043
+      },
+      {
+        "segment": "Is that correct?",
+        "start_offset": 73,
+        "end_offset": 89,
+        "start": 10.103,
+        "end": 10.664
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 90,
+        "end_offset": 98,
+        "start": 15.265,
+        "end": 18.466
+      },
+      {
+        "segment": "This depends upon the allopathic physician from whom you receive them.",
+        "start_offset": 99,
+        "end_offset": 169,
+        "start": 22.348,
+        "end": 44.475
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 3.401,
+        "end": 3.421,
+        "score": -5.4211
+      },
+      {
+        "word": "had",
+        "start_offset": 2,
+        "end_offset": 5,
+        "start": 3.461,
+        "end": 3.561,
+        "score": -3.1581
+      },
+      {
+        "word": "asked",
+        "start_offset": 6,
+        "end_offset": 11,
+        "start": 3.621,
+        "end": 4.081,
+        "score": -4.5308
+      },
+      {
+        "word": "if",
+        "start_offset": 12,
+        "end_offset": 14,
+        "start": 4.181,
+        "end": 4.261,
+        "score": -4.0888
+      },
+      {
+        "word": "the",
+        "start_offset": 15,
+        "end_offset": 18,
+        "start": 4.321,
+        "end": 4.381,
+        "score": -3.9918
+      },
+      {
+        "word": "drops",
+        "start_offset": 19,
+        "end_offset": 24,
+        "start": 5.482,
+        "end": 5.762,
+        "score": -2.3594
+      },
+      {
+        "word": "should",
+        "start_offset": 25,
+        "end_offset": 31,
+        "start": 5.782,
+        "end": 5.942,
+        "score": -2.8928
+      },
+      {
+        "word": "be",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 5.982,
+        "end": 6.042,
+        "score": -1.1328
+      },
+      {
+        "word": "administered",
+        "start_offset": 35,
+        "end_offset": 47,
+        "start": 6.602,
+        "end": 7.262,
+        "score": -1.855
+      },
+      {
+        "word": "once",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 7.823,
+        "end": 8.023,
+        "score": -1.2657
+      },
+      {
+        "word": "per",
+        "start_offset": 53,
+        "end_offset": 56,
+        "start": 8.443,
+        "end": 8.563,
+        "score": -2.4762
+      },
+      {
+        "word": "diurnal",
+        "start_offset": 57,
+        "end_offset": 64,
+        "start": 9.163,
+        "end": 9.603,
+        "score": -2.4208
+      },
+      {
+        "word": "period.",
+        "start_offset": 65,
+        "end_offset": 72,
+        "start": 9.663,
+        "end": 10.043,
+        "score": -2.343
+      },
+      {
+        "word": "Is",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 10.103,
+        "end": 10.203,
+        "score": -1.6478
+      },
+      {
+        "word": "that",
+        "start_offset": 76,
+        "end_offset": 80,
+        "start": 10.223,
+        "end": 10.383,
+        "score": -3.2671
+      },
+      {
+        "word": "correct?",
+        "start_offset": 81,
+        "end_offset": 89,
+        "start": 10.424,
+        "end": 10.664,
+        "score": -4.6923
+      },
+      {
+        "word": "I",
+        "start_offset": 90,
+        "end_offset": 91,
+        "start": 15.265,
+        "end": 15.285,
+        "score": -2.7792
+      },
+      {
+        "word": "am",
+        "start_offset": 92,
+        "end_offset": 94,
+        "start": 16.145,
+        "end": 16.365,
+        "score": -4.8461
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 95,
+        "end_offset": 98,
+        "start": 18.186,
+        "end": 18.466,
+        "score": -7.7815
+      },
+      {
+        "word": "This",
+        "start_offset": 99,
+        "end_offset": 103,
+        "start": 22.348,
+        "end": 22.708,
+        "score": -0.8501
+      },
+      {
+        "word": "depends",
+        "start_offset": 104,
+        "end_offset": 111,
+        "start": 25.168,
+        "end": 26.009,
+        "score": -0.7432
+      },
+      {
+        "word": "upon",
+        "start_offset": 112,
+        "end_offset": 116,
+        "start": 27.029,
+        "end": 27.609,
+        "score": -1.9344
+      },
+      {
+        "word": "the",
+        "start_offset": 117,
+        "end_offset": 120,
+        "start": 28.069,
+        "end": 28.189,
+        "score": -0.9037
+      },
+      {
+        "word": "allopathic",
+        "start_offset": 121,
+        "end_offset": 131,
+        "start": 30.67,
+        "end": 32.411,
+        "score": -1.7892
+      },
+      {
+        "word": "physician",
+        "start_offset": 132,
+        "end_offset": 141,
+        "start": 33.251,
+        "end": 34.532,
+        "score": -2.1147
+      },
+      {
+        "word": "from",
+        "start_offset": 142,
+        "end_offset": 146,
+        "start": 38.793,
+        "end": 39.173,
+        "score": -0.7344
+      },
+      {
+        "word": "whom",
+        "start_offset": 147,
+        "end_offset": 151,
+        "start": 39.533,
+        "end": 39.893,
+        "score": -0.7425
+      },
+      {
+        "word": "you",
+        "start_offset": 152,
+        "end_offset": 155,
+        "start": 40.554,
+        "end": 40.694,
+        "score": -0.9766
+      },
+      {
+        "word": "receive",
+        "start_offset": 156,
+        "end_offset": 163,
+        "start": 41.554,
+        "end": 42.614,
+        "score": -1.211
+      },
+      {
+        "word": "them.",
+        "start_offset": 164,
+        "end_offset": 169,
+        "start": 44.135,
+        "end": 44.475,
+        "score": -3.3854
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "104-22.mp3",
+    "audio_duration": 45.0351,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

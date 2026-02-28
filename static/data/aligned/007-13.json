@@ -1,0 +1,361 @@
+{
+  "text": "You mentioned both our people and those of Orion coming here. Can you expand on that? I am Ra. Your thought complexes did not match your vibratory sound complexes. We are unable to respond. Please restate your query.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "You mentioned both our people and those of Orion coming here.",
+        "start_offset": 0,
+        "end_offset": 61,
+        "start": 3.02,
+        "end": 14.102
+      },
+      {
+        "segment": "Can you expand on that?",
+        "start_offset": 62,
+        "end_offset": 85,
+        "start": 14.602,
+        "end": 16.643
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 86,
+        "end_offset": 94,
+        "start": 26.124,
+        "end": 28.384
+      },
+      {
+        "segment": "Your thought complexes did not match your vibratory sound complexes.",
+        "start_offset": 95,
+        "end_offset": 163,
+        "start": 29.885,
+        "end": 45.707
+      },
+      {
+        "segment": "We are unable to respond.",
+        "start_offset": 164,
+        "end_offset": 189,
+        "start": 46.867,
+        "end": 52.788
+      },
+      {
+        "segment": "Please restate your query.",
+        "start_offset": 190,
+        "end_offset": 216,
+        "start": 53.888,
+        "end": 59.309
+      }
+    ],
+    "word": [
+      {
+        "word": "You",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 3.02,
+        "end": 3.12,
+        "score": -3.565
+      },
+      {
+        "word": "mentioned",
+        "start_offset": 4,
+        "end_offset": 13,
+        "start": 3.201,
+        "end": 3.741,
+        "score": -4.0088
+      },
+      {
+        "word": "both",
+        "start_offset": 14,
+        "end_offset": 18,
+        "start": 7.421,
+        "end": 7.661,
+        "score": -4.3134
+      },
+      {
+        "word": "our",
+        "start_offset": 19,
+        "end_offset": 22,
+        "start": 7.821,
+        "end": 7.941,
+        "score": -0.733
+      },
+      {
+        "word": "people",
+        "start_offset": 23,
+        "end_offset": 29,
+        "start": 8.021,
+        "end": 8.421,
+        "score": -0.7726
+      },
+      {
+        "word": "and",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 9.802,
+        "end": 10.082,
+        "score": -2.0656
+      },
+      {
+        "word": "those",
+        "start_offset": 34,
+        "end_offset": 39,
+        "start": 10.922,
+        "end": 11.182,
+        "score": -1.8804
+      },
+      {
+        "word": "of",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 11.202,
+        "end": 11.262,
+        "score": -6.5095
+      },
+      {
+        "word": "Orion",
+        "start_offset": 43,
+        "end_offset": 48,
+        "start": 11.302,
+        "end": 11.802,
+        "score": -2.2567
+      },
+      {
+        "word": "coming",
+        "start_offset": 49,
+        "end_offset": 55,
+        "start": 13.442,
+        "end": 13.762,
+        "score": -1.9861
+      },
+      {
+        "word": "here.",
+        "start_offset": 56,
+        "end_offset": 61,
+        "start": 13.822,
+        "end": 14.102,
+        "score": -2.8916
+      },
+      {
+        "word": "Can",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 14.602,
+        "end": 14.802,
+        "score": -5.676
+      },
+      {
+        "word": "you",
+        "start_offset": 66,
+        "end_offset": 69,
+        "start": 15.622,
+        "end": 15.742,
+        "score": -1.3776
+      },
+      {
+        "word": "expand",
+        "start_offset": 70,
+        "end_offset": 76,
+        "start": 15.862,
+        "end": 16.303,
+        "score": -1.1458
+      },
+      {
+        "word": "on",
+        "start_offset": 77,
+        "end_offset": 79,
+        "start": 16.343,
+        "end": 16.443,
+        "score": -3.2273
+      },
+      {
+        "word": "that?",
+        "start_offset": 80,
+        "end_offset": 85,
+        "start": 16.463,
+        "end": 16.643,
+        "score": -3.8915
+      },
+      {
+        "word": "I",
+        "start_offset": 86,
+        "end_offset": 87,
+        "start": 26.124,
+        "end": 26.144,
+        "score": -0.8479
+      },
+      {
+        "word": "am",
+        "start_offset": 88,
+        "end_offset": 90,
+        "start": 27.024,
+        "end": 27.264,
+        "score": -0.9864
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 91,
+        "end_offset": 94,
+        "start": 28.244,
+        "end": 28.384,
+        "score": -4.5612
+      },
+      {
+        "word": "Your",
+        "start_offset": 95,
+        "end_offset": 99,
+        "start": 29.885,
+        "end": 30.165,
+        "score": -1.4512
+      },
+      {
+        "word": "thought",
+        "start_offset": 100,
+        "end_offset": 107,
+        "start": 31.965,
+        "end": 32.305,
+        "score": -0.9252
+      },
+      {
+        "word": "complexes",
+        "start_offset": 108,
+        "end_offset": 117,
+        "start": 33.485,
+        "end": 34.585,
+        "score": -0.7429
+      },
+      {
+        "word": "did",
+        "start_offset": 118,
+        "end_offset": 121,
+        "start": 35.466,
+        "end": 35.766,
+        "score": -0.7064
+      },
+      {
+        "word": "not",
+        "start_offset": 122,
+        "end_offset": 125,
+        "start": 37.006,
+        "end": 37.426,
+        "score": -0.6985
+      },
+      {
+        "word": "match",
+        "start_offset": 126,
+        "end_offset": 131,
+        "start": 38.386,
+        "end": 38.926,
+        "score": -0.8481
+      },
+      {
+        "word": "your",
+        "start_offset": 132,
+        "end_offset": 136,
+        "start": 39.966,
+        "end": 40.246,
+        "score": -1.0873
+      },
+      {
+        "word": "vibratory",
+        "start_offset": 137,
+        "end_offset": 146,
+        "start": 41.347,
+        "end": 42.387,
+        "score": -0.7529
+      },
+      {
+        "word": "sound",
+        "start_offset": 147,
+        "end_offset": 152,
+        "start": 43.107,
+        "end": 43.587,
+        "score": -0.7819
+      },
+      {
+        "word": "complexes.",
+        "start_offset": 153,
+        "end_offset": 163,
+        "start": 44.287,
+        "end": 45.707,
+        "score": -0.7467
+      },
+      {
+        "word": "We",
+        "start_offset": 164,
+        "end_offset": 166,
+        "start": 46.867,
+        "end": 47.007,
+        "score": -0.7723
+      },
+      {
+        "word": "are",
+        "start_offset": 167,
+        "end_offset": 170,
+        "start": 47.627,
+        "end": 47.848,
+        "score": -2.3027
+      },
+      {
+        "word": "unable",
+        "start_offset": 171,
+        "end_offset": 177,
+        "start": 48.688,
+        "end": 49.628,
+        "score": -0.7633
+      },
+      {
+        "word": "to",
+        "start_offset": 178,
+        "end_offset": 180,
+        "start": 50.388,
+        "end": 50.628,
+        "score": -0.7027
+      },
+      {
+        "word": "respond.",
+        "start_offset": 181,
+        "end_offset": 189,
+        "start": 51.788,
+        "end": 52.788,
+        "score": -0.8554
+      },
+      {
+        "word": "Please",
+        "start_offset": 190,
+        "end_offset": 196,
+        "start": 53.888,
+        "end": 54.529,
+        "score": -1.2471
+      },
+      {
+        "word": "restate",
+        "start_offset": 197,
+        "end_offset": 204,
+        "start": 55.369,
+        "end": 56.769,
+        "score": -0.7428
+      },
+      {
+        "word": "your",
+        "start_offset": 205,
+        "end_offset": 209,
+        "start": 57.629,
+        "end": 57.929,
+        "score": -0.7732
+      },
+      {
+        "word": "query.",
+        "start_offset": 210,
+        "end_offset": 216,
+        "start": 58.669,
+        "end": 59.309,
+        "score": -0.9373
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "007-13.mp3",
+    "audio_duration": 60.0294,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

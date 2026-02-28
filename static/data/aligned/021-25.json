@@ -1,0 +1,474 @@
+{
+  "text": "Just to quickly refresh my mind— how many years ago did Lemuria suffer its catastrophe? I am Ra. This was approximately fifty thousand 50, 000 of your years ago. The origins being approximately five three, fifty-three thousand 53, 000 of your years ago. The damage being completed in that last small cycle of the first master cycle.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Just to quickly refresh my mind— how many years ago did Lemuria suffer its catastrophe?",
+        "start_offset": 0,
+        "end_offset": 87,
+        "start": 1.06,
+        "end": 8.781
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 88,
+        "end_offset": 96,
+        "start": 9.021,
+        "end": 10.621
+      },
+      {
+        "segment": "This was approximately fifty thousand of your years ago.",
+        "start_offset": 97,
+        "end_offset": 161,
+        "start": 12.202,
+        "end": 23.583
+      },
+      {
+        "segment": "The origins being approximately five three, fifty-three thousand of your years ago.",
+        "start_offset": 162,
+        "end_offset": 253,
+        "start": 25.143,
+        "end": 41.806
+      },
+      {
+        "segment": "The damage being completed in that last small cycle of the first master cycle.",
+        "start_offset": 254,
+        "end_offset": 332,
+        "start": 43.186,
+        "end": 59.908
+      }
+    ],
+    "word": [
+      {
+        "word": "Just",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 1.06,
+        "end": 1.22,
+        "score": -4.9421
+      },
+      {
+        "word": "to",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 1.24,
+        "end": 1.28,
+        "score": -5.8359
+      },
+      {
+        "word": "quickly",
+        "start_offset": 8,
+        "end_offset": 15,
+        "start": 1.32,
+        "end": 1.6,
+        "score": -7.8267
+      },
+      {
+        "word": "refresh",
+        "start_offset": 16,
+        "end_offset": 23,
+        "start": 1.64,
+        "end": 1.96,
+        "score": -5.7921
+      },
+      {
+        "word": "my",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 2.0,
+        "end": 2.04,
+        "score": -7.7212
+      },
+      {
+        "word": "mind—",
+        "start_offset": 27,
+        "end_offset": 32,
+        "start": 2.16,
+        "end": 2.38,
+        "score": -7.2802
+      },
+      {
+        "word": "how",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 2.44,
+        "end": 2.54,
+        "score": -7.7458
+      },
+      {
+        "word": "many",
+        "start_offset": 37,
+        "end_offset": 41,
+        "start": 2.56,
+        "end": 2.7,
+        "score": -6.4292
+      },
+      {
+        "word": "years",
+        "start_offset": 42,
+        "end_offset": 47,
+        "start": 2.74,
+        "end": 2.92,
+        "score": -4.5879
+      },
+      {
+        "word": "ago",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 2.96,
+        "end": 3.1,
+        "score": -6.783
+      },
+      {
+        "word": "did",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 3.38,
+        "end": 3.52,
+        "score": -8.1305
+      },
+      {
+        "word": "Lemuria",
+        "start_offset": 56,
+        "end_offset": 63,
+        "start": 3.6,
+        "end": 4.081,
+        "score": -5.9983
+      },
+      {
+        "word": "suffer",
+        "start_offset": 64,
+        "end_offset": 70,
+        "start": 4.161,
+        "end": 4.461,
+        "score": -9.1874
+      },
+      {
+        "word": "its",
+        "start_offset": 71,
+        "end_offset": 74,
+        "start": 4.481,
+        "end": 4.601,
+        "score": -9.2234
+      },
+      {
+        "word": "catastrophe?",
+        "start_offset": 75,
+        "end_offset": 87,
+        "start": 4.621,
+        "end": 8.781,
+        "score": -8.553
+      },
+      {
+        "word": "I",
+        "start_offset": 88,
+        "end_offset": 89,
+        "start": 9.021,
+        "end": 9.041,
+        "score": -1.6114
+      },
+      {
+        "word": "am",
+        "start_offset": 90,
+        "end_offset": 92,
+        "start": 9.621,
+        "end": 9.941,
+        "score": -3.372
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 93,
+        "end_offset": 96,
+        "start": 10.481,
+        "end": 10.621,
+        "score": -1.6039
+      },
+      {
+        "word": "This",
+        "start_offset": 97,
+        "end_offset": 101,
+        "start": 12.202,
+        "end": 12.642,
+        "score": -0.7987
+      },
+      {
+        "word": "was",
+        "start_offset": 102,
+        "end_offset": 105,
+        "start": 13.162,
+        "end": 13.762,
+        "score": -0.7066
+      },
+      {
+        "word": "approximately",
+        "start_offset": 106,
+        "end_offset": 119,
+        "start": 14.202,
+        "end": 15.762,
+        "score": -0.8588
+      },
+      {
+        "word": "fifty",
+        "start_offset": 120,
+        "end_offset": 125,
+        "start": 17.802,
+        "end": 18.342,
+        "score": -4.6524
+      },
+      {
+        "word": "thousand",
+        "start_offset": 126,
+        "end_offset": 134,
+        "start": 18.963,
+        "end": 19.883,
+        "score": -2.9516
+      },
+      {
+        "word": "of",
+        "start_offset": 143,
+        "end_offset": 145,
+        "start": 20.563,
+        "end": 20.803,
+        "score": -0.7856
+      },
+      {
+        "word": "your",
+        "start_offset": 146,
+        "end_offset": 150,
+        "start": 21.043,
+        "end": 21.423,
+        "score": -1.189
+      },
+      {
+        "word": "years",
+        "start_offset": 151,
+        "end_offset": 156,
+        "start": 21.803,
+        "end": 22.463,
+        "score": -0.7114
+      },
+      {
+        "word": "ago.",
+        "start_offset": 157,
+        "end_offset": 161,
+        "start": 23.223,
+        "end": 23.583,
+        "score": -0.8268
+      },
+      {
+        "word": "The",
+        "start_offset": 162,
+        "end_offset": 165,
+        "start": 25.143,
+        "end": 25.263,
+        "score": -0.8625
+      },
+      {
+        "word": "origins",
+        "start_offset": 166,
+        "end_offset": 173,
+        "start": 25.903,
+        "end": 26.984,
+        "score": -0.8114
+      },
+      {
+        "word": "being",
+        "start_offset": 174,
+        "end_offset": 179,
+        "start": 27.984,
+        "end": 28.684,
+        "score": -0.7692
+      },
+      {
+        "word": "approximately",
+        "start_offset": 180,
+        "end_offset": 193,
+        "start": 29.904,
+        "end": 31.384,
+        "score": -0.8369
+      },
+      {
+        "word": "five",
+        "start_offset": 194,
+        "end_offset": 198,
+        "start": 32.524,
+        "end": 33.124,
+        "score": -1.9857
+      },
+      {
+        "word": "three,",
+        "start_offset": 199,
+        "end_offset": 205,
+        "start": 33.424,
+        "end": 33.805,
+        "score": -6.5431
+      },
+      {
+        "word": "fifty-three",
+        "start_offset": 206,
+        "end_offset": 217,
+        "start": 35.005,
+        "end": 37.265,
+        "score": -6.8139
+      },
+      {
+        "word": "thousand",
+        "start_offset": 218,
+        "end_offset": 226,
+        "start": 37.405,
+        "end": 38.385,
+        "score": -1.4335
+      },
+      {
+        "word": "of",
+        "start_offset": 235,
+        "end_offset": 237,
+        "start": 39.185,
+        "end": 39.445,
+        "score": -0.7273
+      },
+      {
+        "word": "your",
+        "start_offset": 238,
+        "end_offset": 242,
+        "start": 39.725,
+        "end": 40.085,
+        "score": -1.0189
+      },
+      {
+        "word": "years",
+        "start_offset": 243,
+        "end_offset": 248,
+        "start": 40.345,
+        "end": 40.925,
+        "score": -0.7074
+      },
+      {
+        "word": "ago.",
+        "start_offset": 249,
+        "end_offset": 253,
+        "start": 41.446,
+        "end": 41.806,
+        "score": -0.7158
+      },
+      {
+        "word": "The",
+        "start_offset": 254,
+        "end_offset": 257,
+        "start": 43.186,
+        "end": 43.346,
+        "score": -0.7269
+      },
+      {
+        "word": "damage",
+        "start_offset": 258,
+        "end_offset": 264,
+        "start": 43.866,
+        "end": 44.626,
+        "score": -0.6979
+      },
+      {
+        "word": "being",
+        "start_offset": 265,
+        "end_offset": 270,
+        "start": 45.566,
+        "end": 46.026,
+        "score": -0.7402
+      },
+      {
+        "word": "completed",
+        "start_offset": 271,
+        "end_offset": 280,
+        "start": 46.306,
+        "end": 47.426,
+        "score": -0.697
+      },
+      {
+        "word": "in",
+        "start_offset": 281,
+        "end_offset": 283,
+        "start": 48.266,
+        "end": 48.487,
+        "score": -0.706
+      },
+      {
+        "word": "that",
+        "start_offset": 284,
+        "end_offset": 288,
+        "start": 49.087,
+        "end": 49.507,
+        "score": -0.7627
+      },
+      {
+        "word": "last",
+        "start_offset": 289,
+        "end_offset": 293,
+        "start": 50.387,
+        "end": 51.007,
+        "score": -0.7125
+      },
+      {
+        "word": "small",
+        "start_offset": 294,
+        "end_offset": 299,
+        "start": 51.967,
+        "end": 52.567,
+        "score": -0.7859
+      },
+      {
+        "word": "cycle",
+        "start_offset": 300,
+        "end_offset": 305,
+        "start": 52.947,
+        "end": 53.587,
+        "score": -1.2417
+      },
+      {
+        "word": "of",
+        "start_offset": 306,
+        "end_offset": 308,
+        "start": 54.687,
+        "end": 54.927,
+        "score": -0.7957
+      },
+      {
+        "word": "the",
+        "start_offset": 309,
+        "end_offset": 312,
+        "start": 55.227,
+        "end": 55.367,
+        "score": -0.8729
+      },
+      {
+        "word": "first",
+        "start_offset": 313,
+        "end_offset": 318,
+        "start": 56.728,
+        "end": 57.288,
+        "score": -1.101
+      },
+      {
+        "word": "master",
+        "start_offset": 319,
+        "end_offset": 325,
+        "start": 58.068,
+        "end": 58.748,
+        "score": -1.3299
+      },
+      {
+        "word": "cycle.",
+        "start_offset": 326,
+        "end_offset": 332,
+        "start": 59.268,
+        "end": 59.908,
+        "score": -1.3114
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "021-25.mp3",
+    "audio_duration": 61.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

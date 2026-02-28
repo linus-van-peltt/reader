@@ -1,0 +1,235 @@
+{
+  "text": "Did they have any of their craft in our area at that time? I am Ra. There was no craft. There was a thought-form.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Did they have any of their craft in our area at that time?",
+        "start_offset": 0,
+        "end_offset": 58,
+        "start": 3.242,
+        "end": 15.368
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 59,
+        "end_offset": 67,
+        "start": 15.628,
+        "end": 17.929
+      },
+      {
+        "segment": "There was no craft.",
+        "start_offset": 68,
+        "end_offset": 87,
+        "start": 17.949,
+        "end": 22.492
+      },
+      {
+        "segment": "There was a thought-form.",
+        "start_offset": 88,
+        "end_offset": 113,
+        "start": 25.213,
+        "end": 30.676
+      }
+    ],
+    "word": [
+      {
+        "word": "Did",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 3.242,
+        "end": 3.662,
+        "score": -5.3214
+      },
+      {
+        "word": "they",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 4.162,
+        "end": 6.363,
+        "score": -5.6984
+      },
+      {
+        "word": "have",
+        "start_offset": 9,
+        "end_offset": 13,
+        "start": 6.403,
+        "end": 6.964,
+        "score": -5.1112
+      },
+      {
+        "word": "any",
+        "start_offset": 14,
+        "end_offset": 17,
+        "start": 7.204,
+        "end": 9.945,
+        "score": -5.557
+      },
+      {
+        "word": "of",
+        "start_offset": 18,
+        "end_offset": 20,
+        "start": 10.065,
+        "end": 10.185,
+        "score": -5.5101
+      },
+      {
+        "word": "their",
+        "start_offset": 21,
+        "end_offset": 26,
+        "start": 12.426,
+        "end": 12.847,
+        "score": -3.744
+      },
+      {
+        "word": "craft",
+        "start_offset": 27,
+        "end_offset": 32,
+        "start": 13.487,
+        "end": 13.687,
+        "score": -6.2782
+      },
+      {
+        "word": "in",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 13.707,
+        "end": 13.787,
+        "score": -3.6367
+      },
+      {
+        "word": "our",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 14.648,
+        "end": 14.748,
+        "score": -4.6556
+      },
+      {
+        "word": "area",
+        "start_offset": 40,
+        "end_offset": 44,
+        "start": 14.808,
+        "end": 15.068,
+        "score": -4.219
+      },
+      {
+        "word": "at",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 15.088,
+        "end": 15.128,
+        "score": -4.9805
+      },
+      {
+        "word": "that",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 15.148,
+        "end": 15.228,
+        "score": -6.2129
+      },
+      {
+        "word": "time?",
+        "start_offset": 53,
+        "end_offset": 58,
+        "start": 15.248,
+        "end": 15.368,
+        "score": -5.6856
+      },
+      {
+        "word": "I",
+        "start_offset": 59,
+        "end_offset": 60,
+        "start": 15.628,
+        "end": 15.648,
+        "score": -6.2791
+      },
+      {
+        "word": "am",
+        "start_offset": 61,
+        "end_offset": 63,
+        "start": 17.789,
+        "end": 17.849,
+        "score": -4.7023
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 17.869,
+        "end": 17.929,
+        "score": -5.7007
+      },
+      {
+        "word": "There",
+        "start_offset": 68,
+        "end_offset": 73,
+        "start": 17.949,
+        "end": 18.309,
+        "score": -1.8957
+      },
+      {
+        "word": "was",
+        "start_offset": 74,
+        "end_offset": 77,
+        "start": 19.07,
+        "end": 19.61,
+        "score": -1.1277
+      },
+      {
+        "word": "no",
+        "start_offset": 78,
+        "end_offset": 80,
+        "start": 20.351,
+        "end": 20.511,
+        "score": -1.8684
+      },
+      {
+        "word": "craft.",
+        "start_offset": 81,
+        "end_offset": 87,
+        "start": 21.651,
+        "end": 22.492,
+        "score": -3.6404
+      },
+      {
+        "word": "There",
+        "start_offset": 88,
+        "end_offset": 93,
+        "start": 25.213,
+        "end": 25.593,
+        "score": -1.7018
+      },
+      {
+        "word": "was",
+        "start_offset": 94,
+        "end_offset": 97,
+        "start": 26.254,
+        "end": 26.774,
+        "score": -1.0543
+      },
+      {
+        "word": "a",
+        "start_offset": 98,
+        "end_offset": 99,
+        "start": 27.814,
+        "end": 27.834,
+        "score": -2.5115
+      },
+      {
+        "word": "thought-form.",
+        "start_offset": 100,
+        "end_offset": 113,
+        "start": 28.935,
+        "end": 30.676,
+        "score": -2.9254
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "012-12.mp3",
+    "audio_duration": 34.0376,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

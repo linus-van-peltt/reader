@@ -1,0 +1,387 @@
+{
+  "text": "Using this piece of wood then, I would determine the position between the piece of wood and my navel, I would determine the position to be approximately the top of the piece of wood. Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Using this piece of wood then, I would determine the position between the piece of wood and my navel, I would determine the position to be approximately the top of the piece of wood.",
+        "start_offset": 0,
+        "end_offset": 182,
+        "start": 5.364,
+        "end": 16.431
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 183,
+        "end_offset": 199,
+        "start": 16.451,
+        "end": 17.352
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 200,
+        "end_offset": 208,
+        "start": 19.994,
+        "end": 21.895
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 209,
+        "end_offset": 225,
+        "start": 23.276,
+        "end": 26.819
+      }
+    ],
+    "word": [
+      {
+        "word": "Using",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 5.364,
+        "end": 5.584,
+        "score": -1.5637
+      },
+      {
+        "word": "this",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 5.604,
+        "end": 5.744,
+        "score": -2.2297
+      },
+      {
+        "word": "piece",
+        "start_offset": 11,
+        "end_offset": 16,
+        "start": 5.824,
+        "end": 6.064,
+        "score": -2.8734
+      },
+      {
+        "word": "of",
+        "start_offset": 17,
+        "end_offset": 19,
+        "start": 6.104,
+        "end": 6.164,
+        "score": -2.2438
+      },
+      {
+        "word": "wood",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 6.304,
+        "end": 6.505,
+        "score": -4.3637
+      },
+      {
+        "word": "then,",
+        "start_offset": 25,
+        "end_offset": 30,
+        "start": 6.565,
+        "end": 6.785,
+        "score": -2.9267
+      },
+      {
+        "word": "I",
+        "start_offset": 31,
+        "end_offset": 32,
+        "start": 8.326,
+        "end": 8.346,
+        "score": -5.6034
+      },
+      {
+        "word": "would",
+        "start_offset": 33,
+        "end_offset": 38,
+        "start": 8.466,
+        "end": 8.586,
+        "score": -3.2052
+      },
+      {
+        "word": "determine",
+        "start_offset": 39,
+        "end_offset": 48,
+        "start": 8.606,
+        "end": 9.026,
+        "score": -0.9338
+      },
+      {
+        "word": "the",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 9.046,
+        "end": 9.106,
+        "score": -2.6529
+      },
+      {
+        "word": "position",
+        "start_offset": 53,
+        "end_offset": 61,
+        "start": 9.126,
+        "end": 9.607,
+        "score": -1.7844
+      },
+      {
+        "word": "between",
+        "start_offset": 62,
+        "end_offset": 69,
+        "start": 10.167,
+        "end": 10.407,
+        "score": -4.6252
+      },
+      {
+        "word": "the",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 10.427,
+        "end": 10.487,
+        "score": -6.0512
+      },
+      {
+        "word": "piece",
+        "start_offset": 74,
+        "end_offset": 79,
+        "start": 10.507,
+        "end": 10.747,
+        "score": -2.2194
+      },
+      {
+        "word": "of",
+        "start_offset": 80,
+        "end_offset": 82,
+        "start": 10.767,
+        "end": 10.868,
+        "score": -2.6494
+      },
+      {
+        "word": "wood",
+        "start_offset": 83,
+        "end_offset": 87,
+        "start": 11.208,
+        "end": 11.408,
+        "score": -3.9742
+      },
+      {
+        "word": "and",
+        "start_offset": 88,
+        "end_offset": 91,
+        "start": 12.168,
+        "end": 12.228,
+        "score": -4.4401
+      },
+      {
+        "word": "my",
+        "start_offset": 92,
+        "end_offset": 94,
+        "start": 12.249,
+        "end": 12.289,
+        "score": -5.2244
+      },
+      {
+        "word": "navel,",
+        "start_offset": 95,
+        "end_offset": 101,
+        "start": 12.309,
+        "end": 12.569,
+        "score": -2.6119
+      },
+      {
+        "word": "I",
+        "start_offset": 102,
+        "end_offset": 103,
+        "start": 12.629,
+        "end": 12.649,
+        "score": -4.1108
+      },
+      {
+        "word": "would",
+        "start_offset": 104,
+        "end_offset": 109,
+        "start": 12.669,
+        "end": 12.789,
+        "score": -3.4986
+      },
+      {
+        "word": "determine",
+        "start_offset": 110,
+        "end_offset": 119,
+        "start": 12.809,
+        "end": 13.289,
+        "score": -1.9283
+      },
+      {
+        "word": "the",
+        "start_offset": 120,
+        "end_offset": 123,
+        "start": 13.309,
+        "end": 13.389,
+        "score": -2.5421
+      },
+      {
+        "word": "position",
+        "start_offset": 124,
+        "end_offset": 132,
+        "start": 14.03,
+        "end": 14.39,
+        "score": -0.9962
+      },
+      {
+        "word": "to",
+        "start_offset": 133,
+        "end_offset": 135,
+        "start": 14.41,
+        "end": 14.45,
+        "score": -2.8885
+      },
+      {
+        "word": "be",
+        "start_offset": 136,
+        "end_offset": 138,
+        "start": 14.51,
+        "end": 14.57,
+        "score": -1.2947
+      },
+      {
+        "word": "approximately",
+        "start_offset": 139,
+        "end_offset": 152,
+        "start": 14.61,
+        "end": 15.151,
+        "score": -2.8891
+      },
+      {
+        "word": "the",
+        "start_offset": 153,
+        "end_offset": 156,
+        "start": 15.211,
+        "end": 15.291,
+        "score": -1.1764
+      },
+      {
+        "word": "top",
+        "start_offset": 157,
+        "end_offset": 160,
+        "start": 15.351,
+        "end": 15.611,
+        "score": -0.783
+      },
+      {
+        "word": "of",
+        "start_offset": 161,
+        "end_offset": 163,
+        "start": 15.691,
+        "end": 15.731,
+        "score": -2.4353
+      },
+      {
+        "word": "the",
+        "start_offset": 164,
+        "end_offset": 167,
+        "start": 15.751,
+        "end": 15.811,
+        "score": -4.633
+      },
+      {
+        "word": "piece",
+        "start_offset": 168,
+        "end_offset": 173,
+        "start": 15.831,
+        "end": 16.051,
+        "score": -1.7411
+      },
+      {
+        "word": "of",
+        "start_offset": 174,
+        "end_offset": 176,
+        "start": 16.091,
+        "end": 16.171,
+        "score": -0.9736
+      },
+      {
+        "word": "wood.",
+        "start_offset": 177,
+        "end_offset": 182,
+        "start": 16.231,
+        "end": 16.431,
+        "score": -2.5964
+      },
+      {
+        "word": "Is",
+        "start_offset": 183,
+        "end_offset": 185,
+        "start": 16.451,
+        "end": 16.752,
+        "score": -4.2768
+      },
+      {
+        "word": "this",
+        "start_offset": 186,
+        "end_offset": 190,
+        "start": 16.852,
+        "end": 16.932,
+        "score": -4.5481
+      },
+      {
+        "word": "correct?",
+        "start_offset": 191,
+        "end_offset": 199,
+        "start": 16.972,
+        "end": 17.352,
+        "score": -0.8171
+      },
+      {
+        "word": "I",
+        "start_offset": 200,
+        "end_offset": 201,
+        "start": 19.994,
+        "end": 20.014,
+        "score": -3.365
+      },
+      {
+        "word": "am",
+        "start_offset": 202,
+        "end_offset": 204,
+        "start": 20.674,
+        "end": 21.115,
+        "score": -4.0921
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 205,
+        "end_offset": 208,
+        "start": 21.735,
+        "end": 21.895,
+        "score": -5.771
+      },
+      {
+        "word": "This",
+        "start_offset": 209,
+        "end_offset": 213,
+        "start": 23.276,
+        "end": 23.716,
+        "score": -1.1549
+      },
+      {
+        "word": "is",
+        "start_offset": 214,
+        "end_offset": 216,
+        "start": 24.517,
+        "end": 24.837,
+        "score": -0.9345
+      },
+      {
+        "word": "correct.",
+        "start_offset": 217,
+        "end_offset": 225,
+        "start": 25.878,
+        "end": 26.819,
+        "score": -0.9705
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "057-11.mp3",
+    "audio_duration": 30.0409,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

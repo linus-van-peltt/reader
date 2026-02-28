@@ -1,0 +1,394 @@
+{
+  "text": "What is the maximum speed on this colour? I am the maximum speed of these crafts is equal to the earth energy squared. This field varies. The limit is a approximately one half of the light speed as you would call it. This is due to imperfections in design.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What is the maximum speed on this colour?",
+        "start_offset": 31,
+        "end_offset": 66,
+        "start": 2.48,
+        "end": 5.28
+      },
+      {
+        "segment": "I am the maximum speed of these crafts is equal to the earth energy squared.",
+        "start_offset": 142,
+        "end_offset": 497,
+        "start": 11.36,
+        "end": 39.76
+      },
+      {
+        "segment": "This field varies.",
+        "start_offset": 510,
+        "end_offset": 554,
+        "start": 40.800000000000004,
+        "end": 44.32
+      },
+      {
+        "segment": "The limit is a approximately one half of the light speed as you would call it.",
+        "start_offset": 570,
+        "end_offset": 835,
+        "start": 45.6,
+        "end": 66.8
+      },
+      {
+        "segment": "This is due to imperfections in design.",
+        "start_offset": 849,
+        "end_offset": 973,
+        "start": 67.92,
+        "end": 77.84
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 31,
+        "end_offset": 36,
+        "start": 2.48,
+        "end": 2.88
+      },
+      {
+        "word": "is",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 2.88,
+        "end": 3.04
+      },
+      {
+        "word": "the",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 3.04,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "maximum",
+        "start_offset": 41,
+        "end_offset": 48,
+        "start": 3.2800000000000002,
+        "end": 3.84
+      },
+      {
+        "word": "speed",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 3.84,
+        "end": 4.16
+      },
+      {
+        "word": "on",
+        "start_offset": 54,
+        "end_offset": 55,
+        "start": 4.32,
+        "end": 4.4
+      },
+      {
+        "word": "this",
+        "start_offset": 57,
+        "end_offset": 58,
+        "start": 4.5600000000000005,
+        "end": 4.64
+      },
+      {
+        "word": "colour?",
+        "start_offset": 61,
+        "end_offset": 66,
+        "start": 4.88,
+        "end": 5.28
+      },
+      {
+        "word": "I",
+        "start_offset": 142,
+        "end_offset": 146,
+        "start": 11.36,
+        "end": 11.68
+      },
+      {
+        "word": "am",
+        "start_offset": 161,
+        "end_offset": 164,
+        "start": 12.88,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "the",
+        "start_offset": 210,
+        "end_offset": 214,
+        "start": 16.8,
+        "end": 17.12
+      },
+      {
+        "word": "maximum",
+        "start_offset": 234,
+        "end_offset": 250,
+        "start": 18.72,
+        "end": 20.0
+      },
+      {
+        "word": "speed",
+        "start_offset": 266,
+        "end_offset": 274,
+        "start": 21.28,
+        "end": 21.92
+      },
+      {
+        "word": "of",
+        "start_offset": 286,
+        "end_offset": 290,
+        "start": 22.88,
+        "end": 23.2
+      },
+      {
+        "word": "these",
+        "start_offset": 306,
+        "end_offset": 310,
+        "start": 24.48,
+        "end": 24.8
+      },
+      {
+        "word": "crafts",
+        "start_offset": 326,
+        "end_offset": 353,
+        "start": 26.080000000000002,
+        "end": 28.240000000000002
+      },
+      {
+        "word": "is",
+        "start_offset": 357,
+        "end_offset": 361,
+        "start": 28.560000000000002,
+        "end": 28.88
+      },
+      {
+        "word": "equal",
+        "start_offset": 369,
+        "end_offset": 384,
+        "start": 29.52,
+        "end": 30.72
+      },
+      {
+        "word": "to",
+        "start_offset": 392,
+        "end_offset": 396,
+        "start": 31.36,
+        "end": 31.68
+      },
+      {
+        "word": "the",
+        "start_offset": 412,
+        "end_offset": 416,
+        "start": 32.96,
+        "end": 33.28
+      },
+      {
+        "word": "earth",
+        "start_offset": 440,
+        "end_offset": 451,
+        "start": 35.2,
+        "end": 36.08
+      },
+      {
+        "word": "energy",
+        "start_offset": 459,
+        "end_offset": 471,
+        "start": 36.72,
+        "end": 37.68
+      },
+      {
+        "word": "squared.",
+        "start_offset": 483,
+        "end_offset": 497,
+        "start": 38.64,
+        "end": 39.76
+      },
+      {
+        "word": "This",
+        "start_offset": 510,
+        "end_offset": 514,
+        "start": 40.800000000000004,
+        "end": 41.12
+      },
+      {
+        "word": "field",
+        "start_offset": 526,
+        "end_offset": 534,
+        "start": 42.08,
+        "end": 42.72
+      },
+      {
+        "word": "varies.",
+        "start_offset": 546,
+        "end_offset": 554,
+        "start": 43.68,
+        "end": 44.32
+      },
+      {
+        "word": "The",
+        "start_offset": 570,
+        "end_offset": 574,
+        "start": 45.6,
+        "end": 45.92
+      },
+      {
+        "word": "limit",
+        "start_offset": 586,
+        "end_offset": 598,
+        "start": 46.88,
+        "end": 47.84
+      },
+      {
+        "word": "is",
+        "start_offset": 610,
+        "end_offset": 614,
+        "start": 48.800000000000004,
+        "end": 49.120000000000005
+      },
+      {
+        "word": "a",
+        "start_offset": 630,
+        "end_offset": 634,
+        "start": 50.4,
+        "end": 50.72
+      },
+      {
+        "word": "approximately",
+        "start_offset": 638,
+        "end_offset": 662,
+        "start": 51.04,
+        "end": 52.96
+      },
+      {
+        "word": "one",
+        "start_offset": 680,
+        "end_offset": 684,
+        "start": 54.4,
+        "end": 54.72
+      },
+      {
+        "word": "half",
+        "start_offset": 703,
+        "end_offset": 711,
+        "start": 56.24,
+        "end": 56.88
+      },
+      {
+        "word": "of",
+        "start_offset": 722,
+        "end_offset": 726,
+        "start": 57.76,
+        "end": 58.08
+      },
+      {
+        "word": "the",
+        "start_offset": 726,
+        "end_offset": 730,
+        "start": 58.08,
+        "end": 58.4
+      },
+      {
+        "word": "light",
+        "start_offset": 750,
+        "end_offset": 758,
+        "start": 60.0,
+        "end": 60.64
+      },
+      {
+        "word": "speed",
+        "start_offset": 758,
+        "end_offset": 770,
+        "start": 60.64,
+        "end": 61.6
+      },
+      {
+        "word": "as",
+        "start_offset": 779,
+        "end_offset": 783,
+        "start": 62.32,
+        "end": 62.64
+      },
+      {
+        "word": "you",
+        "start_offset": 791,
+        "end_offset": 795,
+        "start": 63.28,
+        "end": 63.6
+      },
+      {
+        "word": "would",
+        "start_offset": 807,
+        "end_offset": 811,
+        "start": 64.56,
+        "end": 64.88
+      },
+      {
+        "word": "call",
+        "start_offset": 819,
+        "end_offset": 827,
+        "start": 65.52,
+        "end": 66.16
+      },
+      {
+        "word": "it.",
+        "start_offset": 831,
+        "end_offset": 835,
+        "start": 66.48,
+        "end": 66.8
+      },
+      {
+        "word": "This",
+        "start_offset": 849,
+        "end_offset": 853,
+        "start": 67.92,
+        "end": 68.24
+      },
+      {
+        "word": "is",
+        "start_offset": 861,
+        "end_offset": 865,
+        "start": 68.88,
+        "end": 69.2
+      },
+      {
+        "word": "due",
+        "start_offset": 877,
+        "end_offset": 881,
+        "start": 70.16,
+        "end": 70.48
+      },
+      {
+        "word": "to",
+        "start_offset": 893,
+        "end_offset": 897,
+        "start": 71.44,
+        "end": 71.76
+      },
+      {
+        "word": "imperfections",
+        "start_offset": 913,
+        "end_offset": 937,
+        "start": 73.04,
+        "end": 74.96000000000001
+      },
+      {
+        "word": "in",
+        "start_offset": 953,
+        "end_offset": 957,
+        "start": 76.24,
+        "end": 76.56
+      },
+      {
+        "word": "design.",
+        "start_offset": 965,
+        "end_offset": 973,
+        "start": 77.2,
+        "end": 77.84
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "008-10.mp3",
+    "audio_duration": 93.05,
+    "transcription_time": 0.15,
+    "rtfx": 622.94,
+    "timestamp": "2026-01-06T21:46:22.199546+00:00"
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "text": "But you mentioned the expelling of the breath to the left, I believe. Would you tell me what you meant by that? I am Ra. It is as you have just accomplished, the breath being sent above the instrument's head from its right side to its left.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "But you mentioned the expelling of the breath to the left, I believe.",
+        "start_offset": 0,
+        "end_offset": 69,
+        "start": 3.021,
+        "end": 6.622
+      },
+      {
+        "segment": "Would you tell me what you meant by that?",
+        "start_offset": 70,
+        "end_offset": 111,
+        "start": 7.402,
+        "end": 8.683
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 112,
+        "end_offset": 120,
+        "start": 11.383,
+        "end": 13.424
+      },
+      {
+        "segment": "It is as you have just accomplished, the breath being sent above the instrument's head from its right side to its left.",
+        "start_offset": 121,
+        "end_offset": 240,
+        "start": 16.385,
+        "end": 46.794
+      }
+    ],
+    "word": [
+      {
+        "word": "But",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 3.021,
+        "end": 3.181,
+        "score": -3.5989
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 3.401,
+        "end": 3.521,
+        "score": -3.9219
+      },
+      {
+        "word": "mentioned",
+        "start_offset": 8,
+        "end_offset": 17,
+        "start": 3.741,
+        "end": 4.181,
+        "score": -4.7692
+      },
+      {
+        "word": "the",
+        "start_offset": 18,
+        "end_offset": 21,
+        "start": 4.201,
+        "end": 4.261,
+        "score": -6.2382
+      },
+      {
+        "word": "expelling",
+        "start_offset": 22,
+        "end_offset": 31,
+        "start": 4.321,
+        "end": 4.801,
+        "score": -4.6708
+      },
+      {
+        "word": "of",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 4.861,
+        "end": 4.902,
+        "score": -9.4285
+      },
+      {
+        "word": "the",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 4.922,
+        "end": 4.982,
+        "score": -8.7452
+      },
+      {
+        "word": "breath",
+        "start_offset": 39,
+        "end_offset": 45,
+        "start": 5.002,
+        "end": 5.302,
+        "score": -4.5307
+      },
+      {
+        "word": "to",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 5.402,
+        "end": 5.482,
+        "score": -4.3816
+      },
+      {
+        "word": "the",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 5.542,
+        "end": 5.622,
+        "score": -4.2732
+      },
+      {
+        "word": "left,",
+        "start_offset": 53,
+        "end_offset": 58,
+        "start": 5.722,
+        "end": 6.062,
+        "score": -4.4968
+      },
+      {
+        "word": "I",
+        "start_offset": 59,
+        "end_offset": 60,
+        "start": 6.202,
+        "end": 6.222,
+        "score": -4.4921
+      },
+      {
+        "word": "believe.",
+        "start_offset": 61,
+        "end_offset": 69,
+        "start": 6.262,
+        "end": 6.622,
+        "score": -5.5136
+      },
+      {
+        "word": "Would",
+        "start_offset": 70,
+        "end_offset": 75,
+        "start": 7.402,
+        "end": 7.522,
+        "score": -7.7909
+      },
+      {
+        "word": "you",
+        "start_offset": 76,
+        "end_offset": 79,
+        "start": 7.542,
+        "end": 7.622,
+        "score": -6.1951
+      },
+      {
+        "word": "tell",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 7.662,
+        "end": 7.822,
+        "score": -8.1488
+      },
+      {
+        "word": "me",
+        "start_offset": 85,
+        "end_offset": 87,
+        "start": 7.842,
+        "end": 7.882,
+        "score": -6.9287
+      },
+      {
+        "word": "what",
+        "start_offset": 88,
+        "end_offset": 92,
+        "start": 7.902,
+        "end": 7.982,
+        "score": -9.1813
+      },
+      {
+        "word": "you",
+        "start_offset": 93,
+        "end_offset": 96,
+        "start": 8.022,
+        "end": 8.082,
+        "score": -7.427
+      },
+      {
+        "word": "meant",
+        "start_offset": 97,
+        "end_offset": 102,
+        "start": 8.102,
+        "end": 8.283,
+        "score": -6.6524
+      },
+      {
+        "word": "by",
+        "start_offset": 103,
+        "end_offset": 105,
+        "start": 8.323,
+        "end": 8.363,
+        "score": -7.6876
+      },
+      {
+        "word": "that?",
+        "start_offset": 106,
+        "end_offset": 111,
+        "start": 8.483,
+        "end": 8.683,
+        "score": -7.4712
+      },
+      {
+        "word": "I",
+        "start_offset": 112,
+        "end_offset": 113,
+        "start": 11.383,
+        "end": 11.403,
+        "score": -0.8094
+      },
+      {
+        "word": "am",
+        "start_offset": 114,
+        "end_offset": 116,
+        "start": 12.184,
+        "end": 12.524,
+        "score": -1.8257
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 117,
+        "end_offset": 120,
+        "start": 13.284,
+        "end": 13.424,
+        "score": -1.4935
+      },
+      {
+        "word": "It",
+        "start_offset": 121,
+        "end_offset": 123,
+        "start": 16.385,
+        "end": 16.625,
+        "score": -0.7001
+      },
+      {
+        "word": "is",
+        "start_offset": 124,
+        "end_offset": 126,
+        "start": 17.065,
+        "end": 17.465,
+        "score": -0.7164
+      },
+      {
+        "word": "as",
+        "start_offset": 127,
+        "end_offset": 129,
+        "start": 18.286,
+        "end": 18.666,
+        "score": -0.7156
+      },
+      {
+        "word": "you",
+        "start_offset": 130,
+        "end_offset": 133,
+        "start": 19.066,
+        "end": 19.206,
+        "score": -0.8109
+      },
+      {
+        "word": "have",
+        "start_offset": 134,
+        "end_offset": 138,
+        "start": 20.626,
+        "end": 21.106,
+        "score": -0.7248
+      },
+      {
+        "word": "just",
+        "start_offset": 139,
+        "end_offset": 143,
+        "start": 21.927,
+        "end": 22.527,
+        "score": -0.723
+      },
+      {
+        "word": "accomplished,",
+        "start_offset": 144,
+        "end_offset": 157,
+        "start": 23.647,
+        "end": 25.008,
+        "score": -2.4107
+      },
+      {
+        "word": "the",
+        "start_offset": 158,
+        "end_offset": 161,
+        "start": 26.548,
+        "end": 26.688,
+        "score": -0.9086
+      },
+      {
+        "word": "breath",
+        "start_offset": 162,
+        "end_offset": 168,
+        "start": 27.829,
+        "end": 28.349,
+        "score": -1.3359
+      },
+      {
+        "word": "being",
+        "start_offset": 169,
+        "end_offset": 174,
+        "start": 29.789,
+        "end": 30.289,
+        "score": -0.721
+      },
+      {
+        "word": "sent",
+        "start_offset": 175,
+        "end_offset": 179,
+        "start": 31.27,
+        "end": 31.73,
+        "score": -0.8193
+      },
+      {
+        "word": "above",
+        "start_offset": 180,
+        "end_offset": 185,
+        "start": 32.85,
+        "end": 33.71,
+        "score": -1.8418
+      },
+      {
+        "word": "the",
+        "start_offset": 186,
+        "end_offset": 189,
+        "start": 34.651,
+        "end": 34.771,
+        "score": -0.7574
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 190,
+        "end_offset": 202,
+        "start": 35.551,
+        "end": 36.991,
+        "score": -1.4602
+      },
+      {
+        "word": "head",
+        "start_offset": 203,
+        "end_offset": 207,
+        "start": 38.532,
+        "end": 39.032,
+        "score": -2.6696
+      },
+      {
+        "word": "from",
+        "start_offset": 208,
+        "end_offset": 212,
+        "start": 40.072,
+        "end": 40.492,
+        "score": -0.7219
+      },
+      {
+        "word": "its",
+        "start_offset": 213,
+        "end_offset": 216,
+        "start": 41.113,
+        "end": 41.413,
+        "score": -0.7244
+      },
+      {
+        "word": "right",
+        "start_offset": 217,
+        "end_offset": 222,
+        "start": 41.953,
+        "end": 42.353,
+        "score": -0.7453
+      },
+      {
+        "word": "side",
+        "start_offset": 223,
+        "end_offset": 227,
+        "start": 43.093,
+        "end": 43.653,
+        "score": -0.7097
+      },
+      {
+        "word": "to",
+        "start_offset": 228,
+        "end_offset": 230,
+        "start": 44.154,
+        "end": 44.334,
+        "score": -0.7246
+      },
+      {
+        "word": "its",
+        "start_offset": 231,
+        "end_offset": 234,
+        "start": 45.434,
+        "end": 45.714,
+        "score": -0.7418
+      },
+      {
+        "word": "left.",
+        "start_offset": 235,
+        "end_offset": 240,
+        "start": 46.294,
+        "end": 46.794,
+        "score": -0.7748
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "062-09.mp3",
+    "audio_duration": 52.0359,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "text": "Thank you. Can you tell me of the earliest, first known thing in the creation? I am Ra. The first known thing in the creation is infinity. The infinity is creation.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 0,
+        "end_offset": 10,
+        "start": 5.521,
+        "end": 8.281
+      },
+      {
+        "segment": "Can you tell me of the earliest, first known thing in the creation?",
+        "start_offset": 11,
+        "end_offset": 78,
+        "start": 10.622,
+        "end": 29.805
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 79,
+        "end_offset": 87,
+        "start": 29.905,
+        "end": 32.005
+      },
+      {
+        "segment": "The first known thing in the creation is infinity.",
+        "start_offset": 88,
+        "end_offset": 138,
+        "start": 32.685,
+        "end": 47.567
+      },
+      {
+        "segment": "The infinity is creation.",
+        "start_offset": 139,
+        "end_offset": 164,
+        "start": 51.028,
+        "end": 59.169
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 5.521,
+        "end": 5.921,
+        "score": -5.678
+      },
+      {
+        "word": "you.",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 8.041,
+        "end": 8.281,
+        "score": -8.0054
+      },
+      {
+        "word": "Can",
+        "start_offset": 11,
+        "end_offset": 14,
+        "start": 10.622,
+        "end": 13.082,
+        "score": -7.2179
+      },
+      {
+        "word": "you",
+        "start_offset": 15,
+        "end_offset": 18,
+        "start": 13.122,
+        "end": 13.202,
+        "score": -6.5691
+      },
+      {
+        "word": "tell",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 13.262,
+        "end": 13.362,
+        "score": -8.3484
+      },
+      {
+        "word": "me",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 13.422,
+        "end": 15.422,
+        "score": -7.3077
+      },
+      {
+        "word": "of",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 26.584,
+        "end": 26.624,
+        "score": -7.5389
+      },
+      {
+        "word": "the",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 26.644,
+        "end": 26.704,
+        "score": -6.2864
+      },
+      {
+        "word": "earliest,",
+        "start_offset": 34,
+        "end_offset": 43,
+        "start": 26.724,
+        "end": 27.044,
+        "score": -5.513
+      },
+      {
+        "word": "first",
+        "start_offset": 44,
+        "end_offset": 49,
+        "start": 27.064,
+        "end": 28.084,
+        "score": -6.5992
+      },
+      {
+        "word": "known",
+        "start_offset": 50,
+        "end_offset": 55,
+        "start": 29.085,
+        "end": 29.185,
+        "score": -5.9225
+      },
+      {
+        "word": "thing",
+        "start_offset": 56,
+        "end_offset": 61,
+        "start": 29.205,
+        "end": 29.385,
+        "score": -6.3391
+      },
+      {
+        "word": "in",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 29.425,
+        "end": 29.465,
+        "score": -5.6397
+      },
+      {
+        "word": "the",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 29.485,
+        "end": 29.545,
+        "score": -5.8736
+      },
+      {
+        "word": "creation?",
+        "start_offset": 69,
+        "end_offset": 78,
+        "start": 29.565,
+        "end": 29.805,
+        "score": -6.9655
+      },
+      {
+        "word": "I",
+        "start_offset": 79,
+        "end_offset": 80,
+        "start": 29.905,
+        "end": 29.925,
+        "score": -6.5216
+      },
+      {
+        "word": "am",
+        "start_offset": 81,
+        "end_offset": 83,
+        "start": 31.665,
+        "end": 31.725,
+        "score": -4.028
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 84,
+        "end_offset": 87,
+        "start": 31.825,
+        "end": 32.005,
+        "score": -3.5915
+      },
+      {
+        "word": "The",
+        "start_offset": 88,
+        "end_offset": 91,
+        "start": 32.685,
+        "end": 32.825,
+        "score": -2.377
+      },
+      {
+        "word": "first",
+        "start_offset": 92,
+        "end_offset": 97,
+        "start": 33.005,
+        "end": 33.605,
+        "score": -1.3873
+      },
+      {
+        "word": "known",
+        "start_offset": 98,
+        "end_offset": 103,
+        "start": 34.645,
+        "end": 35.086,
+        "score": -2.9548
+      },
+      {
+        "word": "thing",
+        "start_offset": 104,
+        "end_offset": 109,
+        "start": 36.506,
+        "end": 36.866,
+        "score": -3.8385
+      },
+      {
+        "word": "in",
+        "start_offset": 110,
+        "end_offset": 112,
+        "start": 38.546,
+        "end": 38.766,
+        "score": -2.1219
+      },
+      {
+        "word": "the",
+        "start_offset": 113,
+        "end_offset": 116,
+        "start": 39.706,
+        "end": 39.866,
+        "score": -3.7227
+      },
+      {
+        "word": "creation",
+        "start_offset": 117,
+        "end_offset": 125,
+        "start": 40.826,
+        "end": 41.847,
+        "score": -2.1035
+      },
+      {
+        "word": "is",
+        "start_offset": 126,
+        "end_offset": 128,
+        "start": 43.947,
+        "end": 44.307,
+        "score": -1.9964
+      },
+      {
+        "word": "infinity.",
+        "start_offset": 129,
+        "end_offset": 138,
+        "start": 46.027,
+        "end": 47.567,
+        "score": -2.9396
+      },
+      {
+        "word": "The",
+        "start_offset": 139,
+        "end_offset": 142,
+        "start": 51.028,
+        "end": 51.168,
+        "score": -3.0312
+      },
+      {
+        "word": "infinity",
+        "start_offset": 143,
+        "end_offset": 151,
+        "start": 52.928,
+        "end": 54.028,
+        "score": -1.6584
+      },
+      {
+        "word": "is",
+        "start_offset": 152,
+        "end_offset": 154,
+        "start": 56.829,
+        "end": 57.209,
+        "score": -2.083
+      },
+      {
+        "word": "creation.",
+        "start_offset": 155,
+        "end_offset": 164,
+        "start": 58.289,
+        "end": 59.169,
+        "score": -1.3915
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "013-05.mp3",
+    "audio_duration": 60.0294,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

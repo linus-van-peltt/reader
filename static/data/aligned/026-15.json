@@ -1,0 +1,665 @@
+{
+  "text": "Wondering if the one, Abraham Lincoln, could have possibly been a Wanderer? I am Ra. This is incorrect. This entity was a normal, shall we say, Earth being which chose to leave the vehicle and allow an entity to use it on a permanent basis. This is relatively rare compared to the phenomenon of Wanderers. You would do better considering the incarnations of Wanderers such as the one known as \"Thomas, \" the one known as \"Benjamin. \"",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Wondering if the one, Abraham Lincoln, could have possibly been a Wanderer?",
+        "start_offset": 0,
+        "end_offset": 75,
+        "start": 2.02,
+        "end": 16.222
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 76,
+        "end_offset": 84,
+        "start": 16.242,
+        "end": 16.662
+      },
+      {
+        "segment": "This is incorrect.",
+        "start_offset": 85,
+        "end_offset": 103,
+        "start": 17.882,
+        "end": 23.543
+      },
+      {
+        "segment": "This entity was a normal, shall we say, Earth being which chose to leave the vehicle and allow an entity to use it on a permanent basis.",
+        "start_offset": 104,
+        "end_offset": 240,
+        "start": 25.143,
+        "end": 69.93
+      },
+      {
+        "segment": "This is relatively rare compared to the phenomenon of Wanderers.",
+        "start_offset": 241,
+        "end_offset": 305,
+        "start": 71.23,
+        "end": 88.512
+      },
+      {
+        "segment": "You would do better considering the incarnations of Wanderers such as the one known as \"Thomas, the one known as \"Benjamin.",
+        "start_offset": 306,
+        "end_offset": 431,
+        "start": 89.932,
+        "end": 121.297
+      }
+    ],
+    "word": [
+      {
+        "word": "Wondering",
+        "start_offset": 0,
+        "end_offset": 9,
+        "start": 2.02,
+        "end": 2.38,
+        "score": -9.6014
+      },
+      {
+        "word": "if",
+        "start_offset": 10,
+        "end_offset": 12,
+        "start": 2.42,
+        "end": 3.16,
+        "score": -12.0408
+      },
+      {
+        "word": "the",
+        "start_offset": 13,
+        "end_offset": 16,
+        "start": 3.18,
+        "end": 3.26,
+        "score": -9.7176
+      },
+      {
+        "word": "one,",
+        "start_offset": 17,
+        "end_offset": 21,
+        "start": 3.38,
+        "end": 3.981,
+        "score": -10.7356
+      },
+      {
+        "word": "Abraham",
+        "start_offset": 22,
+        "end_offset": 29,
+        "start": 4.061,
+        "end": 4.501,
+        "score": -7.205
+      },
+      {
+        "word": "Lincoln,",
+        "start_offset": 30,
+        "end_offset": 38,
+        "start": 4.581,
+        "end": 6.421,
+        "score": -9.5019
+      },
+      {
+        "word": "could",
+        "start_offset": 39,
+        "end_offset": 44,
+        "start": 6.601,
+        "end": 6.801,
+        "score": -9.8352
+      },
+      {
+        "word": "have",
+        "start_offset": 45,
+        "end_offset": 49,
+        "start": 6.821,
+        "end": 6.941,
+        "score": -10.0299
+      },
+      {
+        "word": "possibly",
+        "start_offset": 50,
+        "end_offset": 58,
+        "start": 6.961,
+        "end": 14.022,
+        "score": -9.3439
+      },
+      {
+        "word": "been",
+        "start_offset": 59,
+        "end_offset": 63,
+        "start": 14.042,
+        "end": 14.142,
+        "score": -8.7783
+      },
+      {
+        "word": "a",
+        "start_offset": 64,
+        "end_offset": 65,
+        "start": 14.162,
+        "end": 14.182,
+        "score": -9.6327
+      },
+      {
+        "word": "Wanderer?",
+        "start_offset": 66,
+        "end_offset": 75,
+        "start": 14.782,
+        "end": 16.222,
+        "score": -4.967
+      },
+      {
+        "word": "I",
+        "start_offset": 76,
+        "end_offset": 77,
+        "start": 16.242,
+        "end": 16.262,
+        "score": -8.1229
+      },
+      {
+        "word": "am",
+        "start_offset": 78,
+        "end_offset": 80,
+        "start": 16.302,
+        "end": 16.502,
+        "score": -5.222
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 81,
+        "end_offset": 84,
+        "start": 16.522,
+        "end": 16.662,
+        "score": -7.5565
+      },
+      {
+        "word": "This",
+        "start_offset": 85,
+        "end_offset": 89,
+        "start": 17.882,
+        "end": 18.403,
+        "score": -0.9225
+      },
+      {
+        "word": "is",
+        "start_offset": 90,
+        "end_offset": 92,
+        "start": 19.303,
+        "end": 19.743,
+        "score": -0.7402
+      },
+      {
+        "word": "incorrect.",
+        "start_offset": 93,
+        "end_offset": 103,
+        "start": 20.843,
+        "end": 23.543,
+        "score": -1.2449
+      },
+      {
+        "word": "This",
+        "start_offset": 104,
+        "end_offset": 108,
+        "start": 25.143,
+        "end": 25.603,
+        "score": -0.704
+      },
+      {
+        "word": "entity",
+        "start_offset": 109,
+        "end_offset": 115,
+        "start": 26.364,
+        "end": 27.324,
+        "score": -0.7105
+      },
+      {
+        "word": "was",
+        "start_offset": 116,
+        "end_offset": 119,
+        "start": 28.864,
+        "end": 29.444,
+        "score": -0.7179
+      },
+      {
+        "word": "a",
+        "start_offset": 120,
+        "end_offset": 121,
+        "start": 31.364,
+        "end": 31.384,
+        "score": -0.8144
+      },
+      {
+        "word": "normal,",
+        "start_offset": 122,
+        "end_offset": 129,
+        "start": 33.505,
+        "end": 34.425,
+        "score": -0.7085
+      },
+      {
+        "word": "shall",
+        "start_offset": 130,
+        "end_offset": 135,
+        "start": 35.085,
+        "end": 35.605,
+        "score": -2.476
+      },
+      {
+        "word": "we",
+        "start_offset": 136,
+        "end_offset": 138,
+        "start": 36.045,
+        "end": 36.245,
+        "score": -0.9522
+      },
+      {
+        "word": "say,",
+        "start_offset": 139,
+        "end_offset": 143,
+        "start": 36.965,
+        "end": 37.445,
+        "score": -1.4834
+      },
+      {
+        "word": "Earth",
+        "start_offset": 144,
+        "end_offset": 149,
+        "start": 38.605,
+        "end": 39.065,
+        "score": -0.8409
+      },
+      {
+        "word": "being",
+        "start_offset": 150,
+        "end_offset": 155,
+        "start": 39.985,
+        "end": 40.586,
+        "score": -0.7236
+      },
+      {
+        "word": "which",
+        "start_offset": 156,
+        "end_offset": 161,
+        "start": 41.986,
+        "end": 42.566,
+        "score": -0.8768
+      },
+      {
+        "word": "chose",
+        "start_offset": 162,
+        "end_offset": 167,
+        "start": 43.586,
+        "end": 44.566,
+        "score": -0.8019
+      },
+      {
+        "word": "to",
+        "start_offset": 168,
+        "end_offset": 170,
+        "start": 45.486,
+        "end": 45.766,
+        "score": -0.7219
+      },
+      {
+        "word": "leave",
+        "start_offset": 171,
+        "end_offset": 176,
+        "start": 47.086,
+        "end": 47.726,
+        "score": -1.26
+      },
+      {
+        "word": "the",
+        "start_offset": 177,
+        "end_offset": 180,
+        "start": 49.007,
+        "end": 49.167,
+        "score": -0.8205
+      },
+      {
+        "word": "vehicle",
+        "start_offset": 181,
+        "end_offset": 188,
+        "start": 50.707,
+        "end": 51.967,
+        "score": -0.7541
+      },
+      {
+        "word": "and",
+        "start_offset": 189,
+        "end_offset": 192,
+        "start": 53.267,
+        "end": 53.727,
+        "score": -0.7487
+      },
+      {
+        "word": "allow",
+        "start_offset": 193,
+        "end_offset": 198,
+        "start": 54.427,
+        "end": 55.488,
+        "score": -1.7987
+      },
+      {
+        "word": "an",
+        "start_offset": 199,
+        "end_offset": 201,
+        "start": 57.088,
+        "end": 57.468,
+        "score": -1.0526
+      },
+      {
+        "word": "entity",
+        "start_offset": 202,
+        "end_offset": 208,
+        "start": 58.128,
+        "end": 59.128,
+        "score": -0.7145
+      },
+      {
+        "word": "to",
+        "start_offset": 209,
+        "end_offset": 211,
+        "start": 60.488,
+        "end": 60.768,
+        "score": -0.7254
+      },
+      {
+        "word": "use",
+        "start_offset": 212,
+        "end_offset": 215,
+        "start": 61.728,
+        "end": 62.308,
+        "score": -0.7017
+      },
+      {
+        "word": "it",
+        "start_offset": 216,
+        "end_offset": 218,
+        "start": 62.749,
+        "end": 63.149,
+        "score": -0.7062
+      },
+      {
+        "word": "on",
+        "start_offset": 219,
+        "end_offset": 221,
+        "start": 64.389,
+        "end": 64.849,
+        "score": -0.7556
+      },
+      {
+        "word": "a",
+        "start_offset": 222,
+        "end_offset": 223,
+        "start": 65.349,
+        "end": 65.369,
+        "score": -0.8173
+      },
+      {
+        "word": "permanent",
+        "start_offset": 224,
+        "end_offset": 233,
+        "start": 66.209,
+        "end": 67.829,
+        "score": -0.7004
+      },
+      {
+        "word": "basis.",
+        "start_offset": 234,
+        "end_offset": 240,
+        "start": 68.849,
+        "end": 69.93,
+        "score": -0.724
+      },
+      {
+        "word": "This",
+        "start_offset": 241,
+        "end_offset": 245,
+        "start": 71.23,
+        "end": 71.73,
+        "score": -0.7193
+      },
+      {
+        "word": "is",
+        "start_offset": 246,
+        "end_offset": 248,
+        "start": 72.59,
+        "end": 73.07,
+        "score": -0.7017
+      },
+      {
+        "word": "relatively",
+        "start_offset": 249,
+        "end_offset": 259,
+        "start": 73.95,
+        "end": 75.51,
+        "score": -0.7434
+      },
+      {
+        "word": "rare",
+        "start_offset": 260,
+        "end_offset": 264,
+        "start": 76.91,
+        "end": 77.571,
+        "score": -1.5433
+      },
+      {
+        "word": "compared",
+        "start_offset": 265,
+        "end_offset": 273,
+        "start": 78.631,
+        "end": 80.031,
+        "score": -0.7578
+      },
+      {
+        "word": "to",
+        "start_offset": 274,
+        "end_offset": 276,
+        "start": 81.051,
+        "end": 81.271,
+        "score": -0.7143
+      },
+      {
+        "word": "the",
+        "start_offset": 277,
+        "end_offset": 280,
+        "start": 82.011,
+        "end": 82.191,
+        "score": -0.7756
+      },
+      {
+        "word": "phenomenon",
+        "start_offset": 281,
+        "end_offset": 291,
+        "start": 82.831,
+        "end": 84.772,
+        "score": -1.0736
+      },
+      {
+        "word": "of",
+        "start_offset": 292,
+        "end_offset": 294,
+        "start": 85.832,
+        "end": 86.172,
+        "score": -3.469
+      },
+      {
+        "word": "Wanderers.",
+        "start_offset": 295,
+        "end_offset": 305,
+        "start": 86.792,
+        "end": 88.512,
+        "score": -0.8439
+      },
+      {
+        "word": "You",
+        "start_offset": 306,
+        "end_offset": 309,
+        "start": 89.932,
+        "end": 90.092,
+        "score": -0.9309
+      },
+      {
+        "word": "would",
+        "start_offset": 310,
+        "end_offset": 315,
+        "start": 90.972,
+        "end": 91.412,
+        "score": -0.9596
+      },
+      {
+        "word": "do",
+        "start_offset": 316,
+        "end_offset": 318,
+        "start": 91.993,
+        "end": 92.133,
+        "score": -0.6991
+      },
+      {
+        "word": "better",
+        "start_offset": 319,
+        "end_offset": 325,
+        "start": 93.073,
+        "end": 93.693,
+        "score": -0.7074
+      },
+      {
+        "word": "considering",
+        "start_offset": 326,
+        "end_offset": 337,
+        "start": 94.773,
+        "end": 96.953,
+        "score": -0.7055
+      },
+      {
+        "word": "the",
+        "start_offset": 338,
+        "end_offset": 341,
+        "start": 98.113,
+        "end": 98.273,
+        "score": -0.7895
+      },
+      {
+        "word": "incarnations",
+        "start_offset": 342,
+        "end_offset": 354,
+        "start": 98.933,
+        "end": 101.554,
+        "score": -0.7201
+      },
+      {
+        "word": "of",
+        "start_offset": 355,
+        "end_offset": 357,
+        "start": 102.754,
+        "end": 103.074,
+        "score": -6.3678
+      },
+      {
+        "word": "Wanderers",
+        "start_offset": 358,
+        "end_offset": 367,
+        "start": 103.514,
+        "end": 105.274,
+        "score": -1.5876
+      },
+      {
+        "word": "such",
+        "start_offset": 368,
+        "end_offset": 372,
+        "start": 106.555,
+        "end": 107.055,
+        "score": -2.4396
+      },
+      {
+        "word": "as",
+        "start_offset": 373,
+        "end_offset": 375,
+        "start": 107.595,
+        "end": 108.095,
+        "score": -4.3188
+      },
+      {
+        "word": "the",
+        "start_offset": 376,
+        "end_offset": 379,
+        "start": 109.215,
+        "end": 109.355,
+        "score": -3.1727
+      },
+      {
+        "word": "one",
+        "start_offset": 380,
+        "end_offset": 383,
+        "start": 110.195,
+        "end": 110.375,
+        "score": -3.9499
+      },
+      {
+        "word": "known",
+        "start_offset": 384,
+        "end_offset": 389,
+        "start": 110.775,
+        "end": 111.335,
+        "score": -0.7386
+      },
+      {
+        "word": "as",
+        "start_offset": 390,
+        "end_offset": 392,
+        "start": 112.355,
+        "end": 112.775,
+        "score": -0.7016
+      },
+      {
+        "word": "\"Thomas,",
+        "start_offset": 393,
+        "end_offset": 401,
+        "start": 113.215,
+        "end": 114.536,
+        "score": -2.1759
+      },
+      {
+        "word": "the",
+        "start_offset": 404,
+        "end_offset": 407,
+        "start": 115.916,
+        "end": 116.056,
+        "score": -3.2599
+      },
+      {
+        "word": "one",
+        "start_offset": 408,
+        "end_offset": 411,
+        "start": 116.896,
+        "end": 117.076,
+        "score": -4.068
+      },
+      {
+        "word": "known",
+        "start_offset": 412,
+        "end_offset": 417,
+        "start": 117.476,
+        "end": 118.056,
+        "score": -1.2063
+      },
+      {
+        "word": "as",
+        "start_offset": 418,
+        "end_offset": 420,
+        "start": 119.096,
+        "end": 119.556,
+        "score": -0.7138
+      },
+      {
+        "word": "\"Benjamin.",
+        "start_offset": 421,
+        "end_offset": 431,
+        "start": 120.076,
+        "end": 121.297,
+        "score": -1.927
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "026-15.mp3",
+    "audio_duration": 123.0367,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

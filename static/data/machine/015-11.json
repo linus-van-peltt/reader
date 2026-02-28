@@ -1,0 +1,226 @@
+{
+  "text": "Can you tell me how you balance it? I am wrong. We cannot work with this concept as it is misapplied, and understanding cannot come from it.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me how you balance it?",
+        "start_offset": 18,
+        "end_offset": 40,
+        "start": 1.44,
+        "end": 3.2
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 112,
+        "end_offset": 145,
+        "start": 8.96,
+        "end": 11.6
+      },
+      {
+        "segment": "We cannot work with this concept as it is misapplied, and understanding cannot come from it.",
+        "start_offset": 173,
+        "end_offset": 492,
+        "start": 13.84,
+        "end": 39.36
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 18,
+        "end_offset": 20,
+        "start": 1.44,
+        "end": 1.6
+      },
+      {
+        "word": "you",
+        "start_offset": 22,
+        "end_offset": 24,
+        "start": 1.76,
+        "end": 1.92
+      },
+      {
+        "word": "tell",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 1.92,
+        "end": 2.08
+      },
+      {
+        "word": "me",
+        "start_offset": 26,
+        "end_offset": 28,
+        "start": 2.08,
+        "end": 2.24
+      },
+      {
+        "word": "how",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 2.24,
+        "end": 2.4
+      },
+      {
+        "word": "you",
+        "start_offset": 30,
+        "end_offset": 32,
+        "start": 2.4,
+        "end": 2.56
+      },
+      {
+        "word": "balance",
+        "start_offset": 34,
+        "end_offset": 37,
+        "start": 2.72,
+        "end": 2.96
+      },
+      {
+        "word": "it?",
+        "start_offset": 39,
+        "end_offset": 40,
+        "start": 3.12,
+        "end": 3.2
+      },
+      {
+        "word": "I",
+        "start_offset": 112,
+        "end_offset": 116,
+        "start": 8.96,
+        "end": 9.28
+      },
+      {
+        "word": "am",
+        "start_offset": 124,
+        "end_offset": 128,
+        "start": 9.92,
+        "end": 10.24
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 136,
+        "end_offset": 145,
+        "start": 10.88,
+        "end": 11.6
+      },
+      {
+        "word": "We",
+        "start_offset": 173,
+        "end_offset": 177,
+        "start": 13.84,
+        "end": 14.16
+      },
+      {
+        "word": "cannot",
+        "start_offset": 185,
+        "end_offset": 197,
+        "start": 14.8,
+        "end": 15.76
+      },
+      {
+        "word": "work",
+        "start_offset": 229,
+        "end_offset": 233,
+        "start": 18.32,
+        "end": 18.64
+      },
+      {
+        "word": "with",
+        "start_offset": 241,
+        "end_offset": 245,
+        "start": 19.28,
+        "end": 19.6
+      },
+      {
+        "word": "this",
+        "start_offset": 257,
+        "end_offset": 261,
+        "start": 20.56,
+        "end": 20.88
+      },
+      {
+        "word": "concept",
+        "start_offset": 273,
+        "end_offset": 285,
+        "start": 21.84,
+        "end": 22.8
+      },
+      {
+        "word": "as",
+        "start_offset": 301,
+        "end_offset": 305,
+        "start": 24.080000000000002,
+        "end": 24.400000000000002
+      },
+      {
+        "word": "it",
+        "start_offset": 313,
+        "end_offset": 317,
+        "start": 25.04,
+        "end": 25.36
+      },
+      {
+        "word": "is",
+        "start_offset": 329,
+        "end_offset": 333,
+        "start": 26.32,
+        "end": 26.64
+      },
+      {
+        "word": "misapplied,",
+        "start_offset": 349,
+        "end_offset": 380,
+        "start": 27.92,
+        "end": 30.400000000000002
+      },
+      {
+        "word": "and",
+        "start_offset": 396,
+        "end_offset": 400,
+        "start": 31.68,
+        "end": 32.0
+      },
+      {
+        "word": "understanding",
+        "start_offset": 412,
+        "end_offset": 428,
+        "start": 32.96,
+        "end": 34.24
+      },
+      {
+        "word": "cannot",
+        "start_offset": 440,
+        "end_offset": 452,
+        "start": 35.2,
+        "end": 36.160000000000004
+      },
+      {
+        "word": "come",
+        "start_offset": 464,
+        "end_offset": 468,
+        "start": 37.12,
+        "end": 37.44
+      },
+      {
+        "word": "from",
+        "start_offset": 476,
+        "end_offset": 480,
+        "start": 38.08,
+        "end": 38.4
+      },
+      {
+        "word": "it.",
+        "start_offset": 488,
+        "end_offset": 492,
+        "start": 39.04,
+        "end": 39.36
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "015-11.mp3",
+    "audio_duration": 40.05,
+    "transcription_time": 0.1,
+    "rtfx": 388.63,
+    "timestamp": "2026-01-06T21:47:23.604681+00:00"
+  }
+}

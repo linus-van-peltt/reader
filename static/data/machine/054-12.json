@@ -1,0 +1,471 @@
+{
+  "text": "This question may be no good, but I'll ask it. Can you give me an idea of the maximum percentage of this energy it's possible to block in any one color, or does that make any sense? I am ray in an entity's pattern of in streaming energy a complete blockage in any energy or color or combination of energies or colors.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "This question may be no good, but I'll ask it.",
+        "start_offset": 24,
+        "end_offset": 120,
+        "start": 1.92,
+        "end": 9.6
+      },
+      {
+        "segment": "Can you give me an idea of the maximum percentage of this energy it's possible to block in any one color, or does that make any sense?",
+        "start_offset": 131,
+        "end_offset": 269,
+        "start": 10.48,
+        "end": 21.52
+      },
+      {
+        "segment": "I am ray in an entity's pattern of in streaming energy a complete blockage in any energy or color or combination of energies or colors.",
+        "start_offset": 325,
+        "end_offset": 1019,
+        "start": 26.0,
+        "end": 81.52
+      }
+    ],
+    "word": [
+      {
+        "word": "This",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 1.92,
+        "end": 2.24
+      },
+      {
+        "word": "question",
+        "start_offset": 32,
+        "end_offset": 40,
+        "start": 2.56,
+        "end": 3.2
+      },
+      {
+        "word": "may",
+        "start_offset": 44,
+        "end_offset": 48,
+        "start": 3.52,
+        "end": 3.84
+      },
+      {
+        "word": "be",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 4.48,
+        "end": 4.8
+      },
+      {
+        "word": "no",
+        "start_offset": 93,
+        "end_offset": 96,
+        "start": 7.44,
+        "end": 7.68
+      },
+      {
+        "word": "good,",
+        "start_offset": 98,
+        "end_offset": 101,
+        "start": 7.84,
+        "end": 8.08
+      },
+      {
+        "word": "but",
+        "start_offset": 103,
+        "end_offset": 105,
+        "start": 8.24,
+        "end": 8.4
+      },
+      {
+        "word": "I'll",
+        "start_offset": 105,
+        "end_offset": 110,
+        "start": 8.4,
+        "end": 8.8
+      },
+      {
+        "word": "ask",
+        "start_offset": 110,
+        "end_offset": 116,
+        "start": 8.8,
+        "end": 9.28
+      },
+      {
+        "word": "it.",
+        "start_offset": 116,
+        "end_offset": 120,
+        "start": 9.28,
+        "end": 9.6
+      },
+      {
+        "word": "Can",
+        "start_offset": 131,
+        "end_offset": 135,
+        "start": 10.48,
+        "end": 10.8
+      },
+      {
+        "word": "you",
+        "start_offset": 139,
+        "end_offset": 143,
+        "start": 11.120000000000001,
+        "end": 11.44
+      },
+      {
+        "word": "give",
+        "start_offset": 151,
+        "end_offset": 159,
+        "start": 12.08,
+        "end": 12.72
+      },
+      {
+        "word": "me",
+        "start_offset": 159,
+        "end_offset": 163,
+        "start": 12.72,
+        "end": 13.040000000000001
+      },
+      {
+        "word": "an",
+        "start_offset": 170,
+        "end_offset": 174,
+        "start": 13.6,
+        "end": 13.92
+      },
+      {
+        "word": "idea",
+        "start_offset": 174,
+        "end_offset": 182,
+        "start": 13.92,
+        "end": 14.56
+      },
+      {
+        "word": "of",
+        "start_offset": 182,
+        "end_offset": 186,
+        "start": 14.56,
+        "end": 14.88
+      },
+      {
+        "word": "the",
+        "start_offset": 186,
+        "end_offset": 190,
+        "start": 14.88,
+        "end": 15.200000000000001
+      },
+      {
+        "word": "maximum",
+        "start_offset": 190,
+        "end_offset": 199,
+        "start": 15.200000000000001,
+        "end": 15.92
+      },
+      {
+        "word": "percentage",
+        "start_offset": 199,
+        "end_offset": 206,
+        "start": 15.92,
+        "end": 16.48
+      },
+      {
+        "word": "of",
+        "start_offset": 206,
+        "end_offset": 208,
+        "start": 16.48,
+        "end": 16.64
+      },
+      {
+        "word": "this",
+        "start_offset": 208,
+        "end_offset": 212,
+        "start": 16.64,
+        "end": 16.96
+      },
+      {
+        "word": "energy",
+        "start_offset": 212,
+        "end_offset": 217,
+        "start": 16.96,
+        "end": 17.36
+      },
+      {
+        "word": "it's",
+        "start_offset": 217,
+        "end_offset": 222,
+        "start": 17.36,
+        "end": 17.76
+      },
+      {
+        "word": "possible",
+        "start_offset": 222,
+        "end_offset": 227,
+        "start": 17.76,
+        "end": 18.16
+      },
+      {
+        "word": "to",
+        "start_offset": 227,
+        "end_offset": 229,
+        "start": 18.16,
+        "end": 18.32
+      },
+      {
+        "word": "block",
+        "start_offset": 229,
+        "end_offset": 234,
+        "start": 18.32,
+        "end": 18.72
+      },
+      {
+        "word": "in",
+        "start_offset": 234,
+        "end_offset": 236,
+        "start": 18.72,
+        "end": 18.88
+      },
+      {
+        "word": "any",
+        "start_offset": 236,
+        "end_offset": 239,
+        "start": 18.88,
+        "end": 19.12
+      },
+      {
+        "word": "one",
+        "start_offset": 239,
+        "end_offset": 242,
+        "start": 19.12,
+        "end": 19.36
+      },
+      {
+        "word": "color,",
+        "start_offset": 242,
+        "end_offset": 245,
+        "start": 19.36,
+        "end": 19.6
+      },
+      {
+        "word": "or",
+        "start_offset": 246,
+        "end_offset": 248,
+        "start": 19.68,
+        "end": 19.84
+      },
+      {
+        "word": "does",
+        "start_offset": 248,
+        "end_offset": 251,
+        "start": 19.84,
+        "end": 20.080000000000002
+      },
+      {
+        "word": "that",
+        "start_offset": 251,
+        "end_offset": 254,
+        "start": 20.080000000000002,
+        "end": 20.32
+      },
+      {
+        "word": "make",
+        "start_offset": 254,
+        "end_offset": 257,
+        "start": 20.32,
+        "end": 20.56
+      },
+      {
+        "word": "any",
+        "start_offset": 257,
+        "end_offset": 261,
+        "start": 20.56,
+        "end": 20.88
+      },
+      {
+        "word": "sense?",
+        "start_offset": 261,
+        "end_offset": 269,
+        "start": 20.88,
+        "end": 21.52
+      },
+      {
+        "word": "I",
+        "start_offset": 325,
+        "end_offset": 329,
+        "start": 26.0,
+        "end": 26.32
+      },
+      {
+        "word": "am",
+        "start_offset": 340,
+        "end_offset": 342,
+        "start": 27.2,
+        "end": 27.36
+      },
+      {
+        "word": "ray",
+        "start_offset": 356,
+        "end_offset": 418,
+        "start": 28.48,
+        "end": 33.44
+      },
+      {
+        "word": "in",
+        "start_offset": 450,
+        "end_offset": 454,
+        "start": 36.0,
+        "end": 36.32
+      },
+      {
+        "word": "an",
+        "start_offset": 478,
+        "end_offset": 482,
+        "start": 38.24,
+        "end": 38.56
+      },
+      {
+        "word": "entity's",
+        "start_offset": 506,
+        "end_offset": 526,
+        "start": 40.480000000000004,
+        "end": 42.08
+      },
+      {
+        "word": "pattern",
+        "start_offset": 550,
+        "end_offset": 558,
+        "start": 44.0,
+        "end": 44.64
+      },
+      {
+        "word": "of",
+        "start_offset": 574,
+        "end_offset": 578,
+        "start": 45.92,
+        "end": 46.24
+      },
+      {
+        "word": "in",
+        "start_offset": 598,
+        "end_offset": 602,
+        "start": 47.84,
+        "end": 48.160000000000004
+      },
+      {
+        "word": "streaming",
+        "start_offset": 606,
+        "end_offset": 621,
+        "start": 48.480000000000004,
+        "end": 49.68
+      },
+      {
+        "word": "energy",
+        "start_offset": 633,
+        "end_offset": 641,
+        "start": 50.64,
+        "end": 51.28
+      },
+      {
+        "word": "a",
+        "start_offset": 670,
+        "end_offset": 674,
+        "start": 53.6,
+        "end": 53.92
+      },
+      {
+        "word": "complete",
+        "start_offset": 690,
+        "end_offset": 702,
+        "start": 55.2,
+        "end": 56.160000000000004
+      },
+      {
+        "word": "blockage",
+        "start_offset": 722,
+        "end_offset": 734,
+        "start": 57.76,
+        "end": 58.72
+      },
+      {
+        "word": "in",
+        "start_offset": 754,
+        "end_offset": 758,
+        "start": 60.32,
+        "end": 60.64
+      },
+      {
+        "word": "any",
+        "start_offset": 778,
+        "end_offset": 782,
+        "start": 62.24,
+        "end": 62.56
+      },
+      {
+        "word": "energy",
+        "start_offset": 818,
+        "end_offset": 830,
+        "start": 65.44,
+        "end": 66.4
+      },
+      {
+        "word": "or",
+        "start_offset": 837,
+        "end_offset": 841,
+        "start": 66.96000000000001,
+        "end": 67.28
+      },
+      {
+        "word": "color",
+        "start_offset": 853,
+        "end_offset": 861,
+        "start": 68.24,
+        "end": 68.88
+      },
+      {
+        "word": "or",
+        "start_offset": 885,
+        "end_offset": 889,
+        "start": 70.8,
+        "end": 71.12
+      },
+      {
+        "word": "combination",
+        "start_offset": 909,
+        "end_offset": 928,
+        "start": 72.72,
+        "end": 74.24
+      },
+      {
+        "word": "of",
+        "start_offset": 940,
+        "end_offset": 944,
+        "start": 75.2,
+        "end": 75.52
+      },
+      {
+        "word": "energies",
+        "start_offset": 964,
+        "end_offset": 976,
+        "start": 77.12,
+        "end": 78.08
+      },
+      {
+        "word": "or",
+        "start_offset": 991,
+        "end_offset": 995,
+        "start": 79.28,
+        "end": 79.60000000000001
+      },
+      {
+        "word": "colors.",
+        "start_offset": 1011,
+        "end_offset": 1019,
+        "start": 80.88,
+        "end": 81.52
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "054-12.mp3",
+    "audio_duration": 83.04,
+    "transcription_time": 0.15,
+    "rtfx": 561.04,
+    "timestamp": "2026-01-06T21:52:23.506939+00:00"
+  }
+}

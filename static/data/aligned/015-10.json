@@ -1,0 +1,364 @@
+{
+  "text": "Am I correct in assuming that one of the blockages of a mind/body/spirit complex might be due to an unbalance of, shall we say, ego, and this could be balanced using, say, a worthiness/unworthiness balance? I am Ra. This is incorrect.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Am I correct in assuming that one of the blockages of a mind/body/spirit complex might be due to an unbalance of, shall we say, ego, and this could be balanced using, say, a worthiness/unworthiness balance?",
+        "start_offset": 0,
+        "end_offset": 206,
+        "start": 4.062,
+        "end": 24.789
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 207,
+        "end_offset": 215,
+        "start": 28.831,
+        "end": 30.792
+      },
+      {
+        "segment": "This is incorrect.",
+        "start_offset": 216,
+        "end_offset": 234,
+        "start": 32.112,
+        "end": 36.994
+      }
+    ],
+    "word": [
+      {
+        "word": "Am",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 4.062,
+        "end": 4.162,
+        "score": -1.8182
+      },
+      {
+        "word": "I",
+        "start_offset": 3,
+        "end_offset": 4,
+        "start": 4.242,
+        "end": 4.262,
+        "score": -4.2683
+      },
+      {
+        "word": "correct",
+        "start_offset": 5,
+        "end_offset": 12,
+        "start": 4.362,
+        "end": 4.782,
+        "score": -2.1265
+      },
+      {
+        "word": "in",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 4.842,
+        "end": 4.922,
+        "score": -1.8075
+      },
+      {
+        "word": "assuming",
+        "start_offset": 16,
+        "end_offset": 24,
+        "start": 4.962,
+        "end": 5.402,
+        "score": -2.1943
+      },
+      {
+        "word": "that",
+        "start_offset": 25,
+        "end_offset": 29,
+        "start": 5.422,
+        "end": 5.542,
+        "score": -6.5683
+      },
+      {
+        "word": "one",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 5.582,
+        "end": 5.702,
+        "score": -2.3001
+      },
+      {
+        "word": "of",
+        "start_offset": 34,
+        "end_offset": 36,
+        "start": 5.722,
+        "end": 5.782,
+        "score": -0.8132
+      },
+      {
+        "word": "the",
+        "start_offset": 37,
+        "end_offset": 40,
+        "start": 5.802,
+        "end": 5.862,
+        "score": -0.8464
+      },
+      {
+        "word": "blockages",
+        "start_offset": 41,
+        "end_offset": 50,
+        "start": 5.922,
+        "end": 6.602,
+        "score": -2.8198
+      },
+      {
+        "word": "of",
+        "start_offset": 51,
+        "end_offset": 53,
+        "start": 6.803,
+        "end": 6.883,
+        "score": -4.4371
+      },
+      {
+        "word": "a",
+        "start_offset": 54,
+        "end_offset": 55,
+        "start": 6.943,
+        "end": 6.963,
+        "score": -1.7818
+      },
+      {
+        "word": "mind/body/spirit",
+        "start_offset": 56,
+        "end_offset": 72,
+        "start": 7.023,
+        "end": 7.983,
+        "score": -1.8457
+      },
+      {
+        "word": "complex",
+        "start_offset": 73,
+        "end_offset": 80,
+        "start": 8.043,
+        "end": 8.663,
+        "score": -4.1576
+      },
+      {
+        "word": "might",
+        "start_offset": 81,
+        "end_offset": 86,
+        "start": 8.763,
+        "end": 9.143,
+        "score": -1.7346
+      },
+      {
+        "word": "be",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 11.264,
+        "end": 11.324,
+        "score": -4.27
+      },
+      {
+        "word": "due",
+        "start_offset": 90,
+        "end_offset": 93,
+        "start": 11.444,
+        "end": 11.504,
+        "score": -5.5276
+      },
+      {
+        "word": "to",
+        "start_offset": 94,
+        "end_offset": 96,
+        "start": 11.604,
+        "end": 11.684,
+        "score": -1.5406
+      },
+      {
+        "word": "an",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 11.884,
+        "end": 11.944,
+        "score": -1.9884
+      },
+      {
+        "word": "unbalance",
+        "start_offset": 100,
+        "end_offset": 109,
+        "start": 12.065,
+        "end": 12.645,
+        "score": -0.872
+      },
+      {
+        "word": "of,",
+        "start_offset": 110,
+        "end_offset": 113,
+        "start": 12.665,
+        "end": 12.745,
+        "score": -0.8923
+      },
+      {
+        "word": "shall",
+        "start_offset": 114,
+        "end_offset": 119,
+        "start": 12.785,
+        "end": 12.965,
+        "score": -2.6473
+      },
+      {
+        "word": "we",
+        "start_offset": 120,
+        "end_offset": 122,
+        "start": 12.985,
+        "end": 13.045,
+        "score": -2.1404
+      },
+      {
+        "word": "say,",
+        "start_offset": 123,
+        "end_offset": 127,
+        "start": 13.145,
+        "end": 13.325,
+        "score": -1.6811
+      },
+      {
+        "word": "ego,",
+        "start_offset": 128,
+        "end_offset": 132,
+        "start": 13.525,
+        "end": 13.745,
+        "score": -1.4315
+      },
+      {
+        "word": "and",
+        "start_offset": 133,
+        "end_offset": 136,
+        "start": 15.386,
+        "end": 15.586,
+        "score": -3.9036
+      },
+      {
+        "word": "this",
+        "start_offset": 137,
+        "end_offset": 141,
+        "start": 17.407,
+        "end": 17.707,
+        "score": -1.2396
+      },
+      {
+        "word": "could",
+        "start_offset": 142,
+        "end_offset": 147,
+        "start": 18.347,
+        "end": 18.527,
+        "score": -1.9097
+      },
+      {
+        "word": "be",
+        "start_offset": 148,
+        "end_offset": 150,
+        "start": 18.587,
+        "end": 18.687,
+        "score": -0.8892
+      },
+      {
+        "word": "balanced",
+        "start_offset": 151,
+        "end_offset": 159,
+        "start": 19.267,
+        "end": 19.907,
+        "score": -1.1388
+      },
+      {
+        "word": "using,",
+        "start_offset": 160,
+        "end_offset": 166,
+        "start": 21.508,
+        "end": 21.868,
+        "score": -3.2432
+      },
+      {
+        "word": "say,",
+        "start_offset": 167,
+        "end_offset": 171,
+        "start": 22.088,
+        "end": 22.288,
+        "score": -0.9873
+      },
+      {
+        "word": "a",
+        "start_offset": 172,
+        "end_offset": 173,
+        "start": 22.568,
+        "end": 22.589,
+        "score": -1.9796
+      },
+      {
+        "word": "worthiness/unworthiness",
+        "start_offset": 174,
+        "end_offset": 197,
+        "start": 22.869,
+        "end": 24.189,
+        "score": -2.5098
+      },
+      {
+        "word": "balance?",
+        "start_offset": 198,
+        "end_offset": 206,
+        "start": 24.269,
+        "end": 24.789,
+        "score": -1.0558
+      },
+      {
+        "word": "I",
+        "start_offset": 207,
+        "end_offset": 208,
+        "start": 28.831,
+        "end": 28.851,
+        "score": -1.9418
+      },
+      {
+        "word": "am",
+        "start_offset": 209,
+        "end_offset": 211,
+        "start": 29.571,
+        "end": 30.632,
+        "score": -2.8772
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 212,
+        "end_offset": 215,
+        "start": 30.692,
+        "end": 30.792,
+        "score": -2.2411
+      },
+      {
+        "word": "This",
+        "start_offset": 216,
+        "end_offset": 220,
+        "start": 32.112,
+        "end": 32.492,
+        "score": -1.4757
+      },
+      {
+        "word": "is",
+        "start_offset": 221,
+        "end_offset": 223,
+        "start": 33.393,
+        "end": 33.673,
+        "score": -1.2192
+      },
+      {
+        "word": "incorrect.",
+        "start_offset": 224,
+        "end_offset": 234,
+        "start": 34.713,
+        "end": 36.994,
+        "score": -2.1405
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "015-10.mp3",
+    "audio_duration": 38.0343,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

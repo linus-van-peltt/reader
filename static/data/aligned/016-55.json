@@ -1,0 +1,324 @@
+{
+  "text": "To make this a little more clear, if I were to daydream strongly about building a ship, would this occur in one of these other densities? I am Ra. This would, would have, or shall occur.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "To make this a little more clear, if I were to daydream strongly about building a ship, would this occur in one of these other densities?",
+        "start_offset": 0,
+        "end_offset": 137,
+        "start": 3.843,
+        "end": 20.594
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 138,
+        "end_offset": 146,
+        "start": 20.614,
+        "end": 20.915
+      },
+      {
+        "segment": "This would, would have, or shall occur.",
+        "start_offset": 147,
+        "end_offset": 186,
+        "start": 22.195,
+        "end": 28.58
+      }
+    ],
+    "word": [
+      {
+        "word": "To",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 3.843,
+        "end": 5.424,
+        "score": -6.0755
+      },
+      {
+        "word": "make",
+        "start_offset": 3,
+        "end_offset": 7,
+        "start": 6.444,
+        "end": 6.805,
+        "score": -5.8253
+      },
+      {
+        "word": "this",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 6.905,
+        "end": 7.265,
+        "score": -5.2715
+      },
+      {
+        "word": "a",
+        "start_offset": 13,
+        "end_offset": 14,
+        "start": 7.325,
+        "end": 7.345,
+        "score": -4.7068
+      },
+      {
+        "word": "little",
+        "start_offset": 15,
+        "end_offset": 21,
+        "start": 7.365,
+        "end": 7.665,
+        "score": -6.2182
+      },
+      {
+        "word": "more",
+        "start_offset": 22,
+        "end_offset": 26,
+        "start": 7.705,
+        "end": 7.785,
+        "score": -6.7134
+      },
+      {
+        "word": "clear,",
+        "start_offset": 27,
+        "end_offset": 33,
+        "start": 7.825,
+        "end": 7.966,
+        "score": -5.8405
+      },
+      {
+        "word": "if",
+        "start_offset": 34,
+        "end_offset": 36,
+        "start": 8.006,
+        "end": 8.106,
+        "score": -6.5657
+      },
+      {
+        "word": "I",
+        "start_offset": 37,
+        "end_offset": 38,
+        "start": 8.166,
+        "end": 8.186,
+        "score": -4.163
+      },
+      {
+        "word": "were",
+        "start_offset": 39,
+        "end_offset": 43,
+        "start": 8.206,
+        "end": 8.386,
+        "score": -6.5752
+      },
+      {
+        "word": "to",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 8.466,
+        "end": 8.546,
+        "score": -5.5606
+      },
+      {
+        "word": "daydream",
+        "start_offset": 47,
+        "end_offset": 55,
+        "start": 8.766,
+        "end": 9.286,
+        "score": -6.1043
+      },
+      {
+        "word": "strongly",
+        "start_offset": 56,
+        "end_offset": 64,
+        "start": 10.147,
+        "end": 12.509,
+        "score": -6.2021
+      },
+      {
+        "word": "about",
+        "start_offset": 65,
+        "end_offset": 70,
+        "start": 12.529,
+        "end": 12.729,
+        "score": -6.1421
+      },
+      {
+        "word": "building",
+        "start_offset": 71,
+        "end_offset": 79,
+        "start": 12.829,
+        "end": 13.209,
+        "score": -6.2686
+      },
+      {
+        "word": "a",
+        "start_offset": 80,
+        "end_offset": 81,
+        "start": 13.269,
+        "end": 13.289,
+        "score": -3.7703
+      },
+      {
+        "word": "ship,",
+        "start_offset": 82,
+        "end_offset": 87,
+        "start": 13.389,
+        "end": 13.529,
+        "score": -6.4353
+      },
+      {
+        "word": "would",
+        "start_offset": 88,
+        "end_offset": 93,
+        "start": 13.549,
+        "end": 13.75,
+        "score": -6.9083
+      },
+      {
+        "word": "this",
+        "start_offset": 94,
+        "end_offset": 98,
+        "start": 13.77,
+        "end": 14.13,
+        "score": -4.6074
+      },
+      {
+        "word": "occur",
+        "start_offset": 99,
+        "end_offset": 104,
+        "start": 14.23,
+        "end": 18.593,
+        "score": -6.2352
+      },
+      {
+        "word": "in",
+        "start_offset": 105,
+        "end_offset": 107,
+        "start": 18.673,
+        "end": 18.713,
+        "score": -3.6256
+      },
+      {
+        "word": "one",
+        "start_offset": 108,
+        "end_offset": 111,
+        "start": 18.733,
+        "end": 19.474,
+        "score": -7.1678
+      },
+      {
+        "word": "of",
+        "start_offset": 112,
+        "end_offset": 114,
+        "start": 19.494,
+        "end": 19.554,
+        "score": -7.5524
+      },
+      {
+        "word": "these",
+        "start_offset": 115,
+        "end_offset": 120,
+        "start": 19.574,
+        "end": 19.694,
+        "score": -5.138
+      },
+      {
+        "word": "other",
+        "start_offset": 121,
+        "end_offset": 126,
+        "start": 19.714,
+        "end": 19.814,
+        "score": -6.6934
+      },
+      {
+        "word": "densities?",
+        "start_offset": 127,
+        "end_offset": 137,
+        "start": 19.834,
+        "end": 20.594,
+        "score": -6.0573
+      },
+      {
+        "word": "I",
+        "start_offset": 138,
+        "end_offset": 139,
+        "start": 20.614,
+        "end": 20.634,
+        "score": -7.1483
+      },
+      {
+        "word": "am",
+        "start_offset": 140,
+        "end_offset": 142,
+        "start": 20.714,
+        "end": 20.754,
+        "score": -4.2699
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 143,
+        "end_offset": 146,
+        "start": 20.854,
+        "end": 20.915,
+        "score": -3.9138
+      },
+      {
+        "word": "This",
+        "start_offset": 147,
+        "end_offset": 151,
+        "start": 22.195,
+        "end": 22.556,
+        "score": -2.557
+      },
+      {
+        "word": "would,",
+        "start_offset": 152,
+        "end_offset": 158,
+        "start": 23.757,
+        "end": 24.097,
+        "score": -2.5071
+      },
+      {
+        "word": "would",
+        "start_offset": 159,
+        "end_offset": 164,
+        "start": 25.017,
+        "end": 25.238,
+        "score": -2.3203
+      },
+      {
+        "word": "have,",
+        "start_offset": 165,
+        "end_offset": 170,
+        "start": 25.318,
+        "end": 25.778,
+        "score": -2.4551
+      },
+      {
+        "word": "or",
+        "start_offset": 171,
+        "end_offset": 173,
+        "start": 26.478,
+        "end": 26.578,
+        "score": -1.8398
+      },
+      {
+        "word": "shall",
+        "start_offset": 174,
+        "end_offset": 179,
+        "start": 26.719,
+        "end": 27.079,
+        "score": -2.6716
+      },
+      {
+        "word": "occur.",
+        "start_offset": 180,
+        "end_offset": 186,
+        "start": 28.18,
+        "end": 28.58,
+        "score": -2.4798
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-55.mp3",
+    "audio_duration": 30.0409,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

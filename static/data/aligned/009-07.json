@@ -1,0 +1,731 @@
+{
+  "text": "What race is that, and how did they get from Mars to here? I am Ra. The race is a combination of the mind/body/spirit complexes of those of your so-called Red Planet and a careful series of genetical adjustments made by the guardians of that time. These entities arrived, or were preserved, for the experience upon your sphere by a type of birthing which is non-reproductive, but consists of preparing genetic material for the incarnation of the mind/body/spirit complexes of those entities from the Red Planet.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What race is that, and how did they get from Mars to here?",
+        "start_offset": 0,
+        "end_offset": 58,
+        "start": 2.92,
+        "end": 13.001
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 59,
+        "end_offset": 67,
+        "start": 13.141,
+        "end": 16.321
+      },
+      {
+        "segment": "The race is a combination of the mind/body/spirit complexes of those of your so-called Red Planet and a careful series of genetical adjustments made by the guardians of that time.",
+        "start_offset": 68,
+        "end_offset": 247,
+        "start": 19.102,
+        "end": 78.027
+      },
+      {
+        "segment": "These entities arrived, or were preserved, for the experience upon your sphere by a type of birthing which is non-reproductive, but consists of preparing genetic material for the incarnation of the mind/body/spirit complexes of those entities from the Red Planet.",
+        "start_offset": 248,
+        "end_offset": 511,
+        "start": 80.387,
+        "end": 159.214
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.92,
+        "end": 3.04,
+        "score": -7.2382
+      },
+      {
+        "word": "race",
+        "start_offset": 5,
+        "end_offset": 9,
+        "start": 3.06,
+        "end": 3.24,
+        "score": -8.105
+      },
+      {
+        "word": "is",
+        "start_offset": 10,
+        "end_offset": 12,
+        "start": 3.26,
+        "end": 3.38,
+        "score": -7.0347
+      },
+      {
+        "word": "that,",
+        "start_offset": 13,
+        "end_offset": 18,
+        "start": 3.4,
+        "end": 3.6,
+        "score": -8.1263
+      },
+      {
+        "word": "and",
+        "start_offset": 19,
+        "end_offset": 22,
+        "start": 3.62,
+        "end": 3.76,
+        "score": -6.265
+      },
+      {
+        "word": "how",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 3.78,
+        "end": 4.14,
+        "score": -8.4577
+      },
+      {
+        "word": "did",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 4.32,
+        "end": 4.44,
+        "score": -8.9957
+      },
+      {
+        "word": "they",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 4.5,
+        "end": 4.6,
+        "score": -8.0209
+      },
+      {
+        "word": "get",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 4.62,
+        "end": 4.68,
+        "score": -8.0464
+      },
+      {
+        "word": "from",
+        "start_offset": 40,
+        "end_offset": 44,
+        "start": 4.7,
+        "end": 4.8,
+        "score": -6.4194
+      },
+      {
+        "word": "Mars",
+        "start_offset": 45,
+        "end_offset": 49,
+        "start": 4.82,
+        "end": 4.98,
+        "score": -5.139
+      },
+      {
+        "word": "to",
+        "start_offset": 50,
+        "end_offset": 52,
+        "start": 5.0,
+        "end": 5.04,
+        "score": -7.622
+      },
+      {
+        "word": "here?",
+        "start_offset": 53,
+        "end_offset": 58,
+        "start": 5.08,
+        "end": 13.001,
+        "score": -4.7044
+      },
+      {
+        "word": "I",
+        "start_offset": 59,
+        "end_offset": 60,
+        "start": 13.141,
+        "end": 13.161,
+        "score": -1.0688
+      },
+      {
+        "word": "am",
+        "start_offset": 61,
+        "end_offset": 63,
+        "start": 14.621,
+        "end": 14.801,
+        "score": -2.3993
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 16.161,
+        "end": 16.321,
+        "score": -1.9444
+      },
+      {
+        "word": "The",
+        "start_offset": 68,
+        "end_offset": 71,
+        "start": 19.102,
+        "end": 19.222,
+        "score": -0.9263
+      },
+      {
+        "word": "race",
+        "start_offset": 72,
+        "end_offset": 76,
+        "start": 20.442,
+        "end": 21.042,
+        "score": -1.8584
+      },
+      {
+        "word": "is",
+        "start_offset": 77,
+        "end_offset": 79,
+        "start": 22.322,
+        "end": 22.662,
+        "score": -0.7412
+      },
+      {
+        "word": "a",
+        "start_offset": 80,
+        "end_offset": 81,
+        "start": 24.102,
+        "end": 24.122,
+        "score": -0.8042
+      },
+      {
+        "word": "combination",
+        "start_offset": 82,
+        "end_offset": 93,
+        "start": 25.302,
+        "end": 28.042,
+        "score": -1.5061
+      },
+      {
+        "word": "of",
+        "start_offset": 94,
+        "end_offset": 96,
+        "start": 29.383,
+        "end": 29.683,
+        "score": -4.6565
+      },
+      {
+        "word": "the",
+        "start_offset": 97,
+        "end_offset": 100,
+        "start": 31.143,
+        "end": 31.263,
+        "score": -0.9152
+      },
+      {
+        "word": "mind/body/spirit",
+        "start_offset": 101,
+        "end_offset": 117,
+        "start": 33.383,
+        "end": 36.303,
+        "score": -0.8635
+      },
+      {
+        "word": "complexes",
+        "start_offset": 118,
+        "end_offset": 127,
+        "start": 37.323,
+        "end": 39.043,
+        "score": -0.8233
+      },
+      {
+        "word": "of",
+        "start_offset": 128,
+        "end_offset": 130,
+        "start": 40.223,
+        "end": 40.463,
+        "score": -4.3949
+      },
+      {
+        "word": "those",
+        "start_offset": 131,
+        "end_offset": 136,
+        "start": 41.224,
+        "end": 41.804,
+        "score": -0.7295
+      },
+      {
+        "word": "of",
+        "start_offset": 137,
+        "end_offset": 139,
+        "start": 43.084,
+        "end": 43.344,
+        "score": -1.4031
+      },
+      {
+        "word": "your",
+        "start_offset": 140,
+        "end_offset": 144,
+        "start": 44.904,
+        "end": 45.284,
+        "score": -1.6649
+      },
+      {
+        "word": "so-called",
+        "start_offset": 145,
+        "end_offset": 154,
+        "start": 46.664,
+        "end": 48.044,
+        "score": -0.8765
+      },
+      {
+        "word": "Red",
+        "start_offset": 155,
+        "end_offset": 158,
+        "start": 49.004,
+        "end": 49.324,
+        "score": -0.7556
+      },
+      {
+        "word": "Planet",
+        "start_offset": 159,
+        "end_offset": 165,
+        "start": 50.404,
+        "end": 51.184,
+        "score": -0.817
+      },
+      {
+        "word": "and",
+        "start_offset": 166,
+        "end_offset": 169,
+        "start": 52.745,
+        "end": 53.085,
+        "score": -0.7939
+      },
+      {
+        "word": "a",
+        "start_offset": 170,
+        "end_offset": 171,
+        "start": 55.225,
+        "end": 55.245,
+        "score": -0.8292
+      },
+      {
+        "word": "careful",
+        "start_offset": 172,
+        "end_offset": 179,
+        "start": 57.625,
+        "end": 58.425,
+        "score": -0.712
+      },
+      {
+        "word": "series",
+        "start_offset": 180,
+        "end_offset": 186,
+        "start": 59.705,
+        "end": 60.545,
+        "score": -0.7015
+      },
+      {
+        "word": "of",
+        "start_offset": 187,
+        "end_offset": 189,
+        "start": 61.585,
+        "end": 61.845,
+        "score": -0.7267
+      },
+      {
+        "word": "genetical",
+        "start_offset": 190,
+        "end_offset": 199,
+        "start": 63.105,
+        "end": 64.526,
+        "score": -0.7732
+      },
+      {
+        "word": "adjustments",
+        "start_offset": 200,
+        "end_offset": 211,
+        "start": 65.746,
+        "end": 67.226,
+        "score": -1.2785
+      },
+      {
+        "word": "made",
+        "start_offset": 212,
+        "end_offset": 216,
+        "start": 68.426,
+        "end": 68.926,
+        "score": -1.0784
+      },
+      {
+        "word": "by",
+        "start_offset": 217,
+        "end_offset": 219,
+        "start": 69.826,
+        "end": 70.166,
+        "score": -1.668
+      },
+      {
+        "word": "the",
+        "start_offset": 220,
+        "end_offset": 223,
+        "start": 71.706,
+        "end": 71.866,
+        "score": -1.126
+      },
+      {
+        "word": "guardians",
+        "start_offset": 224,
+        "end_offset": 233,
+        "start": 73.146,
+        "end": 74.206,
+        "score": -1.184
+      },
+      {
+        "word": "of",
+        "start_offset": 234,
+        "end_offset": 236,
+        "start": 75.186,
+        "end": 75.447,
+        "score": -0.7146
+      },
+      {
+        "word": "that",
+        "start_offset": 237,
+        "end_offset": 241,
+        "start": 76.107,
+        "end": 76.487,
+        "score": -0.8018
+      },
+      {
+        "word": "time.",
+        "start_offset": 242,
+        "end_offset": 247,
+        "start": 77.407,
+        "end": 78.027,
+        "score": -0.9449
+      },
+      {
+        "word": "These",
+        "start_offset": 248,
+        "end_offset": 253,
+        "start": 80.387,
+        "end": 80.947,
+        "score": -0.9765
+      },
+      {
+        "word": "entities",
+        "start_offset": 254,
+        "end_offset": 262,
+        "start": 81.947,
+        "end": 83.167,
+        "score": -0.8572
+      },
+      {
+        "word": "arrived,",
+        "start_offset": 263,
+        "end_offset": 271,
+        "start": 84.787,
+        "end": 85.927,
+        "score": -0.9437
+      },
+      {
+        "word": "or",
+        "start_offset": 272,
+        "end_offset": 274,
+        "start": 87.208,
+        "end": 87.428,
+        "score": -0.7253
+      },
+      {
+        "word": "were",
+        "start_offset": 275,
+        "end_offset": 279,
+        "start": 88.068,
+        "end": 88.428,
+        "score": -1.8003
+      },
+      {
+        "word": "preserved,",
+        "start_offset": 280,
+        "end_offset": 290,
+        "start": 90.068,
+        "end": 91.148,
+        "score": -0.7497
+      },
+      {
+        "word": "for",
+        "start_offset": 291,
+        "end_offset": 294,
+        "start": 92.568,
+        "end": 92.928,
+        "score": -0.8776
+      },
+      {
+        "word": "the",
+        "start_offset": 295,
+        "end_offset": 298,
+        "start": 93.768,
+        "end": 93.908,
+        "score": -0.8856
+      },
+      {
+        "word": "experience",
+        "start_offset": 299,
+        "end_offset": 309,
+        "start": 95.208,
+        "end": 96.728,
+        "score": -0.8004
+      },
+      {
+        "word": "upon",
+        "start_offset": 310,
+        "end_offset": 314,
+        "start": 97.708,
+        "end": 98.328,
+        "score": -0.7512
+      },
+      {
+        "word": "your",
+        "start_offset": 315,
+        "end_offset": 319,
+        "start": 99.169,
+        "end": 99.549,
+        "score": -1.5926
+      },
+      {
+        "word": "sphere",
+        "start_offset": 320,
+        "end_offset": 326,
+        "start": 100.609,
+        "end": 101.249,
+        "score": -1.8979
+      },
+      {
+        "word": "by",
+        "start_offset": 327,
+        "end_offset": 329,
+        "start": 102.509,
+        "end": 102.909,
+        "score": -1.6322
+      },
+      {
+        "word": "a",
+        "start_offset": 330,
+        "end_offset": 331,
+        "start": 103.769,
+        "end": 103.789,
+        "score": -0.777
+      },
+      {
+        "word": "type",
+        "start_offset": 332,
+        "end_offset": 336,
+        "start": 105.009,
+        "end": 105.689,
+        "score": -0.8839
+      },
+      {
+        "word": "of",
+        "start_offset": 337,
+        "end_offset": 339,
+        "start": 107.049,
+        "end": 107.349,
+        "score": -0.7448
+      },
+      {
+        "word": "birthing",
+        "start_offset": 340,
+        "end_offset": 348,
+        "start": 109.649,
+        "end": 110.35,
+        "score": -0.8511
+      },
+      {
+        "word": "which",
+        "start_offset": 349,
+        "end_offset": 354,
+        "start": 111.75,
+        "end": 112.21,
+        "score": -1.0314
+      },
+      {
+        "word": "is",
+        "start_offset": 355,
+        "end_offset": 357,
+        "start": 113.15,
+        "end": 113.49,
+        "score": -0.7114
+      },
+      {
+        "word": "non-reproductive,",
+        "start_offset": 358,
+        "end_offset": 375,
+        "start": 115.35,
+        "end": 119.69,
+        "score": -0.8011
+      },
+      {
+        "word": "but",
+        "start_offset": 376,
+        "end_offset": 379,
+        "start": 121.23,
+        "end": 121.57,
+        "score": -0.8321
+      },
+      {
+        "word": "consists",
+        "start_offset": 380,
+        "end_offset": 388,
+        "start": 122.291,
+        "end": 123.611,
+        "score": -2.0433
+      },
+      {
+        "word": "of",
+        "start_offset": 389,
+        "end_offset": 391,
+        "start": 124.891,
+        "end": 125.151,
+        "score": -0.7228
+      },
+      {
+        "word": "preparing",
+        "start_offset": 392,
+        "end_offset": 401,
+        "start": 126.171,
+        "end": 127.931,
+        "score": -0.9085
+      },
+      {
+        "word": "genetic",
+        "start_offset": 402,
+        "end_offset": 409,
+        "start": 129.251,
+        "end": 130.631,
+        "score": -0.7913
+      },
+      {
+        "word": "material",
+        "start_offset": 410,
+        "end_offset": 418,
+        "start": 131.611,
+        "end": 132.671,
+        "score": -1.5289
+      },
+      {
+        "word": "for",
+        "start_offset": 419,
+        "end_offset": 422,
+        "start": 134.692,
+        "end": 135.132,
+        "score": -0.9888
+      },
+      {
+        "word": "the",
+        "start_offset": 423,
+        "end_offset": 426,
+        "start": 136.232,
+        "end": 136.372,
+        "score": -0.9247
+      },
+      {
+        "word": "incarnation",
+        "start_offset": 427,
+        "end_offset": 438,
+        "start": 138.692,
+        "end": 141.112,
+        "score": -0.7574
+      },
+      {
+        "word": "of",
+        "start_offset": 439,
+        "end_offset": 441,
+        "start": 142.412,
+        "end": 142.632,
+        "score": -6.5231
+      },
+      {
+        "word": "the",
+        "start_offset": 442,
+        "end_offset": 445,
+        "start": 143.012,
+        "end": 143.152,
+        "score": -0.789
+      },
+      {
+        "word": "mind/body/spirit",
+        "start_offset": 446,
+        "end_offset": 462,
+        "start": 143.992,
+        "end": 147.093,
+        "score": -0.7284
+      },
+      {
+        "word": "complexes",
+        "start_offset": 463,
+        "end_offset": 472,
+        "start": 147.993,
+        "end": 149.513,
+        "score": -2.1508
+      },
+      {
+        "word": "of",
+        "start_offset": 473,
+        "end_offset": 475,
+        "start": 150.613,
+        "end": 150.853,
+        "score": -6.8904
+      },
+      {
+        "word": "those",
+        "start_offset": 476,
+        "end_offset": 481,
+        "start": 151.533,
+        "end": 152.033,
+        "score": -2.1811
+      },
+      {
+        "word": "entities",
+        "start_offset": 482,
+        "end_offset": 490,
+        "start": 152.913,
+        "end": 153.773,
+        "score": -0.754
+      },
+      {
+        "word": "from",
+        "start_offset": 491,
+        "end_offset": 495,
+        "start": 154.913,
+        "end": 155.293,
+        "score": -0.7151
+      },
+      {
+        "word": "the",
+        "start_offset": 496,
+        "end_offset": 499,
+        "start": 155.933,
+        "end": 156.073,
+        "score": -0.7991
+      },
+      {
+        "word": "Red",
+        "start_offset": 500,
+        "end_offset": 503,
+        "start": 157.194,
+        "end": 157.514,
+        "score": -0.7082
+      },
+      {
+        "word": "Planet.",
+        "start_offset": 504,
+        "end_offset": 511,
+        "start": 158.434,
+        "end": 159.214,
+        "score": -0.7346
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "009-07.mp3",
+    "audio_duration": 166.0343,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

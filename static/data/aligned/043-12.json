@@ -1,0 +1,220 @@
+{
+  "text": "Then, is there a time/space— Are there multiple incarnations in fourth density with time/space experiences between incarnations? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then, is there a time/space— Are there multiple incarnations in fourth density with time/space experiences between incarnations?",
+        "start_offset": 0,
+        "end_offset": 128,
+        "start": 1.441,
+        "end": 12.566
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 129,
+        "end_offset": 137,
+        "start": 15.907,
+        "end": 18.228
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 138,
+        "end_offset": 154,
+        "start": 20.189,
+        "end": 23.551
+      }
+    ],
+    "word": [
+      {
+        "word": "Then,",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 1.441,
+        "end": 1.761,
+        "score": -0.8574
+      },
+      {
+        "word": "is",
+        "start_offset": 6,
+        "end_offset": 8,
+        "start": 5.122,
+        "end": 5.242,
+        "score": -1.0405
+      },
+      {
+        "word": "there",
+        "start_offset": 9,
+        "end_offset": 14,
+        "start": 5.302,
+        "end": 5.462,
+        "score": -0.9507
+      },
+      {
+        "word": "a",
+        "start_offset": 15,
+        "end_offset": 16,
+        "start": 5.523,
+        "end": 5.543,
+        "score": -0.8479
+      },
+      {
+        "word": "time/space—",
+        "start_offset": 17,
+        "end_offset": 28,
+        "start": 5.703,
+        "end": 6.623,
+        "score": -1.0087
+      },
+      {
+        "word": "Are",
+        "start_offset": 29,
+        "end_offset": 32,
+        "start": 6.723,
+        "end": 6.823,
+        "score": -0.9547
+      },
+      {
+        "word": "there",
+        "start_offset": 33,
+        "end_offset": 38,
+        "start": 6.843,
+        "end": 7.023,
+        "score": -0.9436
+      },
+      {
+        "word": "multiple",
+        "start_offset": 39,
+        "end_offset": 47,
+        "start": 7.343,
+        "end": 7.784,
+        "score": -0.6982
+      },
+      {
+        "word": "incarnations",
+        "start_offset": 48,
+        "end_offset": 60,
+        "start": 7.844,
+        "end": 8.584,
+        "score": -0.703
+      },
+      {
+        "word": "in",
+        "start_offset": 61,
+        "end_offset": 63,
+        "start": 8.624,
+        "end": 8.684,
+        "score": -1.6688
+      },
+      {
+        "word": "fourth",
+        "start_offset": 64,
+        "end_offset": 70,
+        "start": 8.764,
+        "end": 9.044,
+        "score": -1.072
+      },
+      {
+        "word": "density",
+        "start_offset": 71,
+        "end_offset": 78,
+        "start": 9.084,
+        "end": 9.484,
+        "score": -0.9584
+      },
+      {
+        "word": "with",
+        "start_offset": 79,
+        "end_offset": 83,
+        "start": 9.564,
+        "end": 9.704,
+        "score": -0.7198
+      },
+      {
+        "word": "time/space",
+        "start_offset": 84,
+        "end_offset": 94,
+        "start": 9.784,
+        "end": 10.465,
+        "score": -0.9167
+      },
+      {
+        "word": "experiences",
+        "start_offset": 95,
+        "end_offset": 106,
+        "start": 10.505,
+        "end": 11.185,
+        "score": -0.8187
+      },
+      {
+        "word": "between",
+        "start_offset": 107,
+        "end_offset": 114,
+        "start": 11.365,
+        "end": 11.745,
+        "score": -0.7685
+      },
+      {
+        "word": "incarnations?",
+        "start_offset": 115,
+        "end_offset": 128,
+        "start": 11.785,
+        "end": 12.566,
+        "score": -0.7566
+      },
+      {
+        "word": "I",
+        "start_offset": 129,
+        "end_offset": 130,
+        "start": 15.907,
+        "end": 15.927,
+        "score": -1.5872
+      },
+      {
+        "word": "am",
+        "start_offset": 131,
+        "end_offset": 133,
+        "start": 16.748,
+        "end": 17.128,
+        "score": -2.6686
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 134,
+        "end_offset": 137,
+        "start": 18.068,
+        "end": 18.228,
+        "score": -1.5454
+      },
+      {
+        "word": "This",
+        "start_offset": 138,
+        "end_offset": 142,
+        "start": 20.189,
+        "end": 20.649,
+        "score": -0.9001
+      },
+      {
+        "word": "is",
+        "start_offset": 143,
+        "end_offset": 145,
+        "start": 21.61,
+        "end": 21.91,
+        "score": -0.7936
+      },
+      {
+        "word": "correct.",
+        "start_offset": 146,
+        "end_offset": 154,
+        "start": 22.71,
+        "end": 23.551,
+        "score": -0.7104
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "043-12.mp3",
+    "audio_duration": 25.0514,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

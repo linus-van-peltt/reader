@@ -1,0 +1,79 @@
+{
+  "text": "Could you uh have the instrument called, please?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you uh have the instrument called, please?",
+        "start_offset": 40,
+        "end_offset": 83,
+        "start": 3.2,
+        "end": 6.640000000000001
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 40,
+        "end_offset": 47,
+        "start": 3.2,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "you",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 3.7600000000000002,
+        "end": 3.92
+      },
+      {
+        "word": "uh",
+        "start_offset": 50,
+        "end_offset": 53,
+        "start": 4.0,
+        "end": 4.24
+      },
+      {
+        "word": "have",
+        "start_offset": 55,
+        "end_offset": 58,
+        "start": 4.4,
+        "end": 4.64
+      },
+      {
+        "word": "the",
+        "start_offset": 58,
+        "end_offset": 60,
+        "start": 4.64,
+        "end": 4.8
+      },
+      {
+        "word": "instrument",
+        "start_offset": 60,
+        "end_offset": 64,
+        "start": 4.8,
+        "end": 5.12
+      },
+      {
+        "word": "called,",
+        "start_offset": 68,
+        "end_offset": 73,
+        "start": 5.44,
+        "end": 5.84
+      },
+      {
+        "word": "please?",
+        "start_offset": 75,
+        "end_offset": 83,
+        "start": 6.0,
+        "end": 6.640000000000001
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "024-05.mp3",
+    "audio_duration": 10.03,
+    "transcription_time": 0.08,
+    "rtfx": 120.32,
+    "timestamp": "2026-01-06T21:48:49.060771+00:00"
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "text": "Could you first please give me the condition of the instrument? I am Ra. The parameters of this instrument are marginal, both physically and mental/emotionally. The vital energy of this entity is biased towards strength/weakness.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you first please give me the condition of the instrument?",
+        "start_offset": 0,
+        "end_offset": 63,
+        "start": 1.86,
+        "end": 10.021
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 64,
+        "end_offset": 72,
+        "start": 10.041,
+        "end": 11.041
+      },
+      {
+        "segment": "The parameters of this instrument are marginal, both physically and mental/emotionally.",
+        "start_offset": 73,
+        "end_offset": 160,
+        "start": 12.661,
+        "end": 36.504
+      },
+      {
+        "segment": "The vital energy of this entity is biased towards strength/weakness.",
+        "start_offset": 161,
+        "end_offset": 229,
+        "start": 38.964,
+        "end": 77.088
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 1.86,
+        "end": 1.96,
+        "score": -9.0136
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 1.98,
+        "end": 2.08,
+        "score": -8.1168
+      },
+      {
+        "word": "first",
+        "start_offset": 10,
+        "end_offset": 15,
+        "start": 2.24,
+        "end": 2.48,
+        "score": -7.3698
+      },
+      {
+        "word": "please",
+        "start_offset": 16,
+        "end_offset": 22,
+        "start": 2.92,
+        "end": 3.42,
+        "score": -7.0334
+      },
+      {
+        "word": "give",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 3.44,
+        "end": 3.52,
+        "score": -8.1556
+      },
+      {
+        "word": "me",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 4.08,
+        "end": 4.12,
+        "score": -7.1002
+      },
+      {
+        "word": "the",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 4.14,
+        "end": 4.22,
+        "score": -7.4033
+      },
+      {
+        "word": "condition",
+        "start_offset": 35,
+        "end_offset": 44,
+        "start": 4.28,
+        "end": 9.041,
+        "score": -8.389
+      },
+      {
+        "word": "of",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 9.501,
+        "end": 9.541,
+        "score": -7.648
+      },
+      {
+        "word": "the",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 9.561,
+        "end": 9.681,
+        "score": -5.3756
+      },
+      {
+        "word": "instrument?",
+        "start_offset": 52,
+        "end_offset": 63,
+        "start": 9.821,
+        "end": 10.021,
+        "score": -7.0927
+      },
+      {
+        "word": "I",
+        "start_offset": 64,
+        "end_offset": 65,
+        "start": 10.041,
+        "end": 10.061,
+        "score": -7.6678
+      },
+      {
+        "word": "am",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 10.081,
+        "end": 10.421,
+        "score": -8.2894
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 10.721,
+        "end": 11.041,
+        "score": -9.0601
+      },
+      {
+        "word": "The",
+        "start_offset": 73,
+        "end_offset": 76,
+        "start": 12.661,
+        "end": 12.741,
+        "score": -5.1243
+      },
+      {
+        "word": "parameters",
+        "start_offset": 77,
+        "end_offset": 87,
+        "start": 12.841,
+        "end": 14.141,
+        "score": -0.8374
+      },
+      {
+        "word": "of",
+        "start_offset": 88,
+        "end_offset": 90,
+        "start": 15.482,
+        "end": 15.762,
+        "score": -0.9106
+      },
+      {
+        "word": "this",
+        "start_offset": 91,
+        "end_offset": 95,
+        "start": 16.142,
+        "end": 16.562,
+        "score": -0.7681
+      },
+      {
+        "word": "instrument",
+        "start_offset": 96,
+        "end_offset": 106,
+        "start": 18.402,
+        "end": 19.922,
+        "score": -0.7128
+      },
+      {
+        "word": "are",
+        "start_offset": 107,
+        "end_offset": 110,
+        "start": 22.642,
+        "end": 22.982,
+        "score": -1.6454
+      },
+      {
+        "word": "marginal,",
+        "start_offset": 111,
+        "end_offset": 120,
+        "start": 23.962,
+        "end": 24.862,
+        "score": -0.7315
+      },
+      {
+        "word": "both",
+        "start_offset": 121,
+        "end_offset": 125,
+        "start": 26.843,
+        "end": 27.243,
+        "score": -0.791
+      },
+      {
+        "word": "physically",
+        "start_offset": 126,
+        "end_offset": 136,
+        "start": 27.743,
+        "end": 29.043,
+        "score": -1.1766
+      },
+      {
+        "word": "and",
+        "start_offset": 137,
+        "end_offset": 140,
+        "start": 30.843,
+        "end": 31.283,
+        "score": -0.8386
+      },
+      {
+        "word": "mental/emotionally.",
+        "start_offset": 141,
+        "end_offset": 160,
+        "start": 33.863,
+        "end": 36.504,
+        "score": -0.8769
+      },
+      {
+        "word": "The",
+        "start_offset": 161,
+        "end_offset": 164,
+        "start": 38.964,
+        "end": 39.104,
+        "score": -1.4357
+      },
+      {
+        "word": "vital",
+        "start_offset": 165,
+        "end_offset": 170,
+        "start": 42.564,
+        "end": 43.104,
+        "score": -0.8469
+      },
+      {
+        "word": "energy",
+        "start_offset": 171,
+        "end_offset": 177,
+        "start": 44.584,
+        "end": 45.625,
+        "score": -0.7195
+      },
+      {
+        "word": "of",
+        "start_offset": 178,
+        "end_offset": 180,
+        "start": 46.465,
+        "end": 46.765,
+        "score": -1.7501
+      },
+      {
+        "word": "this",
+        "start_offset": 181,
+        "end_offset": 185,
+        "start": 47.025,
+        "end": 47.465,
+        "score": -0.77
+      },
+      {
+        "word": "entity",
+        "start_offset": 186,
+        "end_offset": 192,
+        "start": 49.105,
+        "end": 49.865,
+        "score": -0.7596
+      },
+      {
+        "word": "is",
+        "start_offset": 193,
+        "end_offset": 195,
+        "start": 52.105,
+        "end": 52.565,
+        "score": -0.7685
+      },
+      {
+        "word": "biased",
+        "start_offset": 196,
+        "end_offset": 202,
+        "start": 53.945,
+        "end": 54.725,
+        "score": -1.8797
+      },
+      {
+        "word": "towards",
+        "start_offset": 203,
+        "end_offset": 210,
+        "start": 55.966,
+        "end": 56.786,
+        "score": -0.7423
+      },
+      {
+        "word": "strength/weakness.",
+        "start_offset": 211,
+        "end_offset": 229,
+        "start": 73.287,
+        "end": 77.088,
+        "score": -3.7953
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "106-01.mp3",
+    "audio_duration": 78.0278,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

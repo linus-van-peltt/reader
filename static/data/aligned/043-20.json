@@ -1,0 +1,314 @@
+{
+  "text": "I'm guessing that it is not necessary to ingest food in fifth density. Is this correct? I am Ra. This is incorrect. However, the vehicle needs food which may be prepared by thought.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I'm guessing that it is not necessary to ingest food in fifth density.",
+        "start_offset": 0,
+        "end_offset": 70,
+        "start": 2.681,
+        "end": 7.822
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 71,
+        "end_offset": 87,
+        "start": 8.102,
+        "end": 8.822
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 88,
+        "end_offset": 96,
+        "start": 13.823,
+        "end": 16.424
+      },
+      {
+        "segment": "This is incorrect.",
+        "start_offset": 97,
+        "end_offset": 115,
+        "start": 18.124,
+        "end": 22.505
+      },
+      {
+        "segment": "However, the vehicle needs food which may be prepared by thought.",
+        "start_offset": 116,
+        "end_offset": 181,
+        "start": 24.065,
+        "end": 40.889
+      }
+    ],
+    "word": [
+      {
+        "word": "I'm",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.681,
+        "end": 2.781,
+        "score": -5.154
+      },
+      {
+        "word": "guessing",
+        "start_offset": 4,
+        "end_offset": 12,
+        "start": 2.861,
+        "end": 3.301,
+        "score": -1.5399
+      },
+      {
+        "word": "that",
+        "start_offset": 13,
+        "end_offset": 17,
+        "start": 3.361,
+        "end": 3.581,
+        "score": -1.2296
+      },
+      {
+        "word": "it",
+        "start_offset": 18,
+        "end_offset": 20,
+        "start": 4.661,
+        "end": 4.721,
+        "score": -0.7991
+      },
+      {
+        "word": "is",
+        "start_offset": 21,
+        "end_offset": 23,
+        "start": 4.761,
+        "end": 4.841,
+        "score": -0.9437
+      },
+      {
+        "word": "not",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 4.901,
+        "end": 5.101,
+        "score": -0.7264
+      },
+      {
+        "word": "necessary",
+        "start_offset": 28,
+        "end_offset": 37,
+        "start": 5.181,
+        "end": 5.761,
+        "score": -0.7008
+      },
+      {
+        "word": "to",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 5.821,
+        "end": 5.881,
+        "score": -0.7215
+      },
+      {
+        "word": "ingest",
+        "start_offset": 41,
+        "end_offset": 47,
+        "start": 5.961,
+        "end": 6.381,
+        "score": -1.3473
+      },
+      {
+        "word": "food",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 6.521,
+        "end": 6.842,
+        "score": -0.8011
+      },
+      {
+        "word": "in",
+        "start_offset": 53,
+        "end_offset": 55,
+        "start": 6.902,
+        "end": 6.982,
+        "score": -1.0591
+      },
+      {
+        "word": "fifth",
+        "start_offset": 56,
+        "end_offset": 61,
+        "start": 7.082,
+        "end": 7.322,
+        "score": -3.5888
+      },
+      {
+        "word": "density.",
+        "start_offset": 62,
+        "end_offset": 70,
+        "start": 7.382,
+        "end": 7.822,
+        "score": -1.5011
+      },
+      {
+        "word": "Is",
+        "start_offset": 71,
+        "end_offset": 73,
+        "start": 8.102,
+        "end": 8.202,
+        "score": -2.0396
+      },
+      {
+        "word": "this",
+        "start_offset": 74,
+        "end_offset": 78,
+        "start": 8.222,
+        "end": 8.362,
+        "score": -3.4775
+      },
+      {
+        "word": "correct?",
+        "start_offset": 79,
+        "end_offset": 87,
+        "start": 8.402,
+        "end": 8.822,
+        "score": -0.7324
+      },
+      {
+        "word": "I",
+        "start_offset": 88,
+        "end_offset": 89,
+        "start": 13.823,
+        "end": 13.843,
+        "score": -0.9149
+      },
+      {
+        "word": "am",
+        "start_offset": 90,
+        "end_offset": 92,
+        "start": 14.923,
+        "end": 15.323,
+        "score": -1.2875
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 93,
+        "end_offset": 96,
+        "start": 16.284,
+        "end": 16.424,
+        "score": -0.93
+      },
+      {
+        "word": "This",
+        "start_offset": 97,
+        "end_offset": 101,
+        "start": 18.124,
+        "end": 18.564,
+        "score": -0.8086
+      },
+      {
+        "word": "is",
+        "start_offset": 102,
+        "end_offset": 104,
+        "start": 19.524,
+        "end": 19.925,
+        "score": -0.7285
+      },
+      {
+        "word": "incorrect.",
+        "start_offset": 105,
+        "end_offset": 115,
+        "start": 21.005,
+        "end": 22.505,
+        "score": -0.7161
+      },
+      {
+        "word": "However,",
+        "start_offset": 116,
+        "end_offset": 124,
+        "start": 24.065,
+        "end": 25.426,
+        "score": -0.7394
+      },
+      {
+        "word": "the",
+        "start_offset": 125,
+        "end_offset": 128,
+        "start": 27.086,
+        "end": 27.246,
+        "score": -0.7961
+      },
+      {
+        "word": "vehicle",
+        "start_offset": 129,
+        "end_offset": 136,
+        "start": 28.527,
+        "end": 29.427,
+        "score": -0.76
+      },
+      {
+        "word": "needs",
+        "start_offset": 137,
+        "end_offset": 142,
+        "start": 31.007,
+        "end": 31.767,
+        "score": -0.9979
+      },
+      {
+        "word": "food",
+        "start_offset": 143,
+        "end_offset": 147,
+        "start": 33.348,
+        "end": 33.948,
+        "score": -0.7593
+      },
+      {
+        "word": "which",
+        "start_offset": 148,
+        "end_offset": 153,
+        "start": 34.648,
+        "end": 35.088,
+        "score": -0.7016
+      },
+      {
+        "word": "may",
+        "start_offset": 154,
+        "end_offset": 157,
+        "start": 35.528,
+        "end": 35.848,
+        "score": -0.6962
+      },
+      {
+        "word": "be",
+        "start_offset": 158,
+        "end_offset": 160,
+        "start": 36.348,
+        "end": 36.468,
+        "score": -0.6962
+      },
+      {
+        "word": "prepared",
+        "start_offset": 161,
+        "end_offset": 169,
+        "start": 37.008,
+        "end": 38.089,
+        "score": -0.7125
+      },
+      {
+        "word": "by",
+        "start_offset": 170,
+        "end_offset": 172,
+        "start": 39.329,
+        "end": 39.749,
+        "score": -0.9966
+      },
+      {
+        "word": "thought.",
+        "start_offset": 173,
+        "end_offset": 181,
+        "start": 40.409,
+        "end": 40.889,
+        "score": -1.0123
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "043-20.mp3",
+    "audio_duration": 43.0498,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

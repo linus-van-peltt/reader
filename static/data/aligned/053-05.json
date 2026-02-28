@@ -1,0 +1,275 @@
+{
+  "text": "I thought you would say that. In that case can you tell me anything of the \"blue book\" mentioned by Betty Andreasson in that case? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I thought you would say that.",
+        "start_offset": 0,
+        "end_offset": 29,
+        "start": 1.74,
+        "end": 2.781
+      },
+      {
+        "segment": "In that case can you tell me anything of the \"blue book\" mentioned by Betty Andreasson in that case?",
+        "start_offset": 30,
+        "end_offset": 130,
+        "start": 4.481,
+        "end": 14.244
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 131,
+        "end_offset": 139,
+        "start": 21.426,
+        "end": 24.027
+      },
+      {
+        "segment": "No.",
+        "start_offset": 140,
+        "end_offset": 143,
+        "start": 27.628,
+        "end": 27.748
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 1.74,
+        "end": 1.76,
+        "score": -9.8042
+      },
+      {
+        "word": "thought",
+        "start_offset": 2,
+        "end_offset": 9,
+        "start": 1.781,
+        "end": 1.981,
+        "score": -4.9566
+      },
+      {
+        "word": "you",
+        "start_offset": 10,
+        "end_offset": 13,
+        "start": 2.001,
+        "end": 2.081,
+        "score": -3.6706
+      },
+      {
+        "word": "would",
+        "start_offset": 14,
+        "end_offset": 19,
+        "start": 2.201,
+        "end": 2.341,
+        "score": -5.9328
+      },
+      {
+        "word": "say",
+        "start_offset": 20,
+        "end_offset": 23,
+        "start": 2.381,
+        "end": 2.541,
+        "score": -2.5843
+      },
+      {
+        "word": "that.",
+        "start_offset": 24,
+        "end_offset": 29,
+        "start": 2.601,
+        "end": 2.781,
+        "score": -0.9416
+      },
+      {
+        "word": "In",
+        "start_offset": 30,
+        "end_offset": 32,
+        "start": 4.481,
+        "end": 4.561,
+        "score": -0.7304
+      },
+      {
+        "word": "that",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 4.581,
+        "end": 4.781,
+        "score": -0.7229
+      },
+      {
+        "word": "case",
+        "start_offset": 38,
+        "end_offset": 42,
+        "start": 4.841,
+        "end": 5.141,
+        "score": -0.6968
+      },
+      {
+        "word": "can",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 5.181,
+        "end": 5.321,
+        "score": -0.6976
+      },
+      {
+        "word": "you",
+        "start_offset": 47,
+        "end_offset": 50,
+        "start": 5.382,
+        "end": 5.462,
+        "score": -0.7626
+      },
+      {
+        "word": "tell",
+        "start_offset": 51,
+        "end_offset": 55,
+        "start": 5.542,
+        "end": 5.742,
+        "score": -0.7563
+      },
+      {
+        "word": "me",
+        "start_offset": 56,
+        "end_offset": 58,
+        "start": 5.802,
+        "end": 5.882,
+        "score": -0.7073
+      },
+      {
+        "word": "anything",
+        "start_offset": 59,
+        "end_offset": 67,
+        "start": 9.063,
+        "end": 9.523,
+        "score": -0.7377
+      },
+      {
+        "word": "of",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 9.663,
+        "end": 9.763,
+        "score": -0.7027
+      },
+      {
+        "word": "the",
+        "start_offset": 71,
+        "end_offset": 74,
+        "start": 9.843,
+        "end": 9.943,
+        "score": -0.7162
+      },
+      {
+        "word": "\"blue",
+        "start_offset": 75,
+        "end_offset": 80,
+        "start": 10.063,
+        "end": 10.283,
+        "score": -1.6696
+      },
+      {
+        "word": "book\"",
+        "start_offset": 81,
+        "end_offset": 86,
+        "start": 10.403,
+        "end": 10.643,
+        "score": -0.6975
+      },
+      {
+        "word": "mentioned",
+        "start_offset": 87,
+        "end_offset": 96,
+        "start": 10.843,
+        "end": 11.303,
+        "score": -0.7043
+      },
+      {
+        "word": "by",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 12.343,
+        "end": 12.524,
+        "score": -1.4037
+      },
+      {
+        "word": "Betty",
+        "start_offset": 100,
+        "end_offset": 105,
+        "start": 12.584,
+        "end": 12.824,
+        "score": -1.1406
+      },
+      {
+        "word": "Andreasson",
+        "start_offset": 106,
+        "end_offset": 116,
+        "start": 12.964,
+        "end": 13.484,
+        "score": -1.497
+      },
+      {
+        "word": "in",
+        "start_offset": 117,
+        "end_offset": 119,
+        "start": 13.564,
+        "end": 13.624,
+        "score": -0.7154
+      },
+      {
+        "word": "that",
+        "start_offset": 120,
+        "end_offset": 124,
+        "start": 13.664,
+        "end": 13.844,
+        "score": -0.7425
+      },
+      {
+        "word": "case?",
+        "start_offset": 125,
+        "end_offset": 130,
+        "start": 13.904,
+        "end": 14.244,
+        "score": -0.6981
+      },
+      {
+        "word": "I",
+        "start_offset": 131,
+        "end_offset": 132,
+        "start": 21.426,
+        "end": 21.446,
+        "score": -6.4843
+      },
+      {
+        "word": "am",
+        "start_offset": 133,
+        "end_offset": 135,
+        "start": 22.546,
+        "end": 23.907,
+        "score": -4.5808
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 23.927,
+        "end": 24.027,
+        "score": -4.4284
+      },
+      {
+        "word": "No.",
+        "start_offset": 140,
+        "end_offset": 143,
+        "start": 27.628,
+        "end": 27.748,
+        "score": -1.7089
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "053-05.mp3",
+    "audio_duration": 29.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

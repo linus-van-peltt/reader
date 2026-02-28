@@ -1,0 +1,170 @@
+{
+  "text": "Is this the reason for what we call spontaneous speed of combustion? I am wow. This is not cold.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is this the reason for what we call spontaneous speed of combustion?",
+        "start_offset": 24,
+        "end_offset": 88,
+        "start": 1.92,
+        "end": 7.04
+      },
+      {
+        "segment": "I am wow.",
+        "start_offset": 140,
+        "end_offset": 166,
+        "start": 11.200000000000001,
+        "end": 13.280000000000001
+      },
+      {
+        "segment": "This is not cold.",
+        "start_offset": 177,
+        "end_offset": 211,
+        "start": 14.16,
+        "end": 16.88
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 1.92,
+        "end": 2.24
+      },
+      {
+        "word": "this",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 2.56,
+        "end": 2.88
+      },
+      {
+        "word": "the",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 3.04,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "reason",
+        "start_offset": 41,
+        "end_offset": 47,
+        "start": 3.2800000000000002,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "for",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 3.7600000000000002,
+        "end": 4.08
+      },
+      {
+        "word": "what",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 4.08,
+        "end": 4.32
+      },
+      {
+        "word": "we",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 4.32,
+        "end": 4.48
+      },
+      {
+        "word": "call",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 4.48,
+        "end": 4.8
+      },
+      {
+        "word": "spontaneous",
+        "start_offset": 60,
+        "end_offset": 69,
+        "start": 4.8,
+        "end": 5.5200000000000005
+      },
+      {
+        "word": "speed",
+        "start_offset": 69,
+        "end_offset": 73,
+        "start": 5.5200000000000005,
+        "end": 5.84
+      },
+      {
+        "word": "of",
+        "start_offset": 75,
+        "end_offset": 77,
+        "start": 6.0,
+        "end": 6.16
+      },
+      {
+        "word": "combustion?",
+        "start_offset": 77,
+        "end_offset": 88,
+        "start": 6.16,
+        "end": 7.04
+      },
+      {
+        "word": "I",
+        "start_offset": 140,
+        "end_offset": 144,
+        "start": 11.200000000000001,
+        "end": 11.52
+      },
+      {
+        "word": "am",
+        "start_offset": 148,
+        "end_offset": 152,
+        "start": 11.84,
+        "end": 12.16
+      },
+      {
+        "word": "wow.",
+        "start_offset": 159,
+        "end_offset": 166,
+        "start": 12.72,
+        "end": 13.280000000000001
+      },
+      {
+        "word": "This",
+        "start_offset": 177,
+        "end_offset": 181,
+        "start": 14.16,
+        "end": 14.48
+      },
+      {
+        "word": "is",
+        "start_offset": 189,
+        "end_offset": 193,
+        "start": 15.120000000000001,
+        "end": 15.44
+      },
+      {
+        "word": "not",
+        "start_offset": 197,
+        "end_offset": 201,
+        "start": 15.76,
+        "end": 16.080000000000002
+      },
+      {
+        "word": "cold.",
+        "start_offset": 205,
+        "end_offset": 211,
+        "start": 16.4,
+        "end": 16.88
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "017-26.mp3",
+    "audio_duration": 18.05,
+    "transcription_time": 0.09,
+    "rtfx": 207.89,
+    "timestamp": "2026-01-06T21:47:51.819553+00:00"
+  }
+}

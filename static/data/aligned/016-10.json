@@ -1,0 +1,514 @@
+{
+  "text": "You mentioned the word \"Empire\" in relation to the Orion group. I have thought for some time that the movie Star Wars was somehow an allegory, in part, for what is actually happening. Is this correct? I am Ra. This is correct in the same way that a simple children's story is an allegory for physical/philosophical/social complex distortion/understanding.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "You mentioned the word \"Empire\" in relation to the Orion group.",
+        "start_offset": 0,
+        "end_offset": 63,
+        "start": 2.461,
+        "end": 3.941
+      },
+      {
+        "segment": "I have thought for some time that the movie Star Wars was somehow an allegory, in part, for what is actually happening.",
+        "start_offset": 64,
+        "end_offset": 183,
+        "start": 3.961,
+        "end": 24.626
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 184,
+        "end_offset": 200,
+        "start": 24.646,
+        "end": 25.046
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 201,
+        "end_offset": 209,
+        "start": 25.866,
+        "end": 27.866
+      },
+      {
+        "segment": "This is correct in the same way that a simple children's story is an allegory for physical/philosophical/social complex distortion/understanding.",
+        "start_offset": 210,
+        "end_offset": 355,
+        "start": 27.886,
+        "end": 54.732
+      }
+    ],
+    "word": [
+      {
+        "word": "You",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.461,
+        "end": 2.521,
+        "score": -9.1449
+      },
+      {
+        "word": "mentioned",
+        "start_offset": 4,
+        "end_offset": 13,
+        "start": 2.541,
+        "end": 2.821,
+        "score": -7.8594
+      },
+      {
+        "word": "the",
+        "start_offset": 14,
+        "end_offset": 17,
+        "start": 2.841,
+        "end": 2.901,
+        "score": -8.3272
+      },
+      {
+        "word": "word",
+        "start_offset": 18,
+        "end_offset": 22,
+        "start": 2.961,
+        "end": 3.121,
+        "score": -5.522
+      },
+      {
+        "word": "\"Empire\"",
+        "start_offset": 23,
+        "end_offset": 31,
+        "start": 3.141,
+        "end": 3.261,
+        "score": -6.6506
+      },
+      {
+        "word": "in",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 3.281,
+        "end": 3.321,
+        "score": -6.3352
+      },
+      {
+        "word": "relation",
+        "start_offset": 35,
+        "end_offset": 43,
+        "start": 3.341,
+        "end": 3.521,
+        "score": -8.0804
+      },
+      {
+        "word": "to",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 3.541,
+        "end": 3.581,
+        "score": -9.2481
+      },
+      {
+        "word": "the",
+        "start_offset": 47,
+        "end_offset": 50,
+        "start": 3.601,
+        "end": 3.661,
+        "score": -7.1317
+      },
+      {
+        "word": "Orion",
+        "start_offset": 51,
+        "end_offset": 56,
+        "start": 3.681,
+        "end": 3.801,
+        "score": -7.6318
+      },
+      {
+        "word": "group.",
+        "start_offset": 57,
+        "end_offset": 63,
+        "start": 3.841,
+        "end": 3.941,
+        "score": -7.3305
+      },
+      {
+        "word": "I",
+        "start_offset": 64,
+        "end_offset": 65,
+        "start": 3.961,
+        "end": 3.981,
+        "score": -6.4366
+      },
+      {
+        "word": "have",
+        "start_offset": 66,
+        "end_offset": 70,
+        "start": 4.001,
+        "end": 4.081,
+        "score": -8.3514
+      },
+      {
+        "word": "thought",
+        "start_offset": 71,
+        "end_offset": 78,
+        "start": 4.121,
+        "end": 4.381,
+        "score": -8.0777
+      },
+      {
+        "word": "for",
+        "start_offset": 79,
+        "end_offset": 82,
+        "start": 4.441,
+        "end": 4.821,
+        "score": -10.8931
+      },
+      {
+        "word": "some",
+        "start_offset": 83,
+        "end_offset": 87,
+        "start": 4.841,
+        "end": 4.981,
+        "score": -9.0061
+      },
+      {
+        "word": "time",
+        "start_offset": 88,
+        "end_offset": 92,
+        "start": 5.061,
+        "end": 6.201,
+        "score": -8.3781
+      },
+      {
+        "word": "that",
+        "start_offset": 93,
+        "end_offset": 97,
+        "start": 6.221,
+        "end": 6.301,
+        "score": -7.7536
+      },
+      {
+        "word": "the",
+        "start_offset": 98,
+        "end_offset": 101,
+        "start": 6.361,
+        "end": 6.421,
+        "score": -8.0201
+      },
+      {
+        "word": "movie",
+        "start_offset": 102,
+        "end_offset": 107,
+        "start": 6.461,
+        "end": 6.561,
+        "score": -7.4922
+      },
+      {
+        "word": "Star",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 6.581,
+        "end": 6.702,
+        "score": -7.6626
+      },
+      {
+        "word": "Wars",
+        "start_offset": 113,
+        "end_offset": 117,
+        "start": 6.742,
+        "end": 6.882,
+        "score": -5.0149
+      },
+      {
+        "word": "was",
+        "start_offset": 118,
+        "end_offset": 121,
+        "start": 6.922,
+        "end": 6.982,
+        "score": -7.1745
+      },
+      {
+        "word": "somehow",
+        "start_offset": 122,
+        "end_offset": 129,
+        "start": 7.002,
+        "end": 7.222,
+        "score": -8.4073
+      },
+      {
+        "word": "an",
+        "start_offset": 130,
+        "end_offset": 132,
+        "start": 7.242,
+        "end": 7.282,
+        "score": -5.8098
+      },
+      {
+        "word": "allegory,",
+        "start_offset": 133,
+        "end_offset": 142,
+        "start": 7.302,
+        "end": 12.123,
+        "score": -8.7532
+      },
+      {
+        "word": "in",
+        "start_offset": 143,
+        "end_offset": 145,
+        "start": 12.203,
+        "end": 12.683,
+        "score": -8.2039
+      },
+      {
+        "word": "part,",
+        "start_offset": 146,
+        "end_offset": 151,
+        "start": 12.703,
+        "end": 12.983,
+        "score": -8.9504
+      },
+      {
+        "word": "for",
+        "start_offset": 152,
+        "end_offset": 155,
+        "start": 13.023,
+        "end": 13.243,
+        "score": -9.7092
+      },
+      {
+        "word": "what",
+        "start_offset": 156,
+        "end_offset": 160,
+        "start": 14.703,
+        "end": 15.684,
+        "score": -9.5444
+      },
+      {
+        "word": "is",
+        "start_offset": 161,
+        "end_offset": 163,
+        "start": 15.724,
+        "end": 15.864,
+        "score": -7.2486
+      },
+      {
+        "word": "actually",
+        "start_offset": 164,
+        "end_offset": 172,
+        "start": 15.924,
+        "end": 22.905,
+        "score": -8.5104
+      },
+      {
+        "word": "happening.",
+        "start_offset": 173,
+        "end_offset": 183,
+        "start": 22.925,
+        "end": 24.626,
+        "score": -7.9774
+      },
+      {
+        "word": "Is",
+        "start_offset": 184,
+        "end_offset": 186,
+        "start": 24.646,
+        "end": 24.686,
+        "score": -7.4085
+      },
+      {
+        "word": "this",
+        "start_offset": 187,
+        "end_offset": 191,
+        "start": 24.706,
+        "end": 24.866,
+        "score": -7.7748
+      },
+      {
+        "word": "correct?",
+        "start_offset": 192,
+        "end_offset": 200,
+        "start": 24.886,
+        "end": 25.046,
+        "score": -7.2919
+      },
+      {
+        "word": "I",
+        "start_offset": 201,
+        "end_offset": 202,
+        "start": 25.866,
+        "end": 25.886,
+        "score": -9.1083
+      },
+      {
+        "word": "am",
+        "start_offset": 203,
+        "end_offset": 205,
+        "start": 27.706,
+        "end": 27.766,
+        "score": -6.8944
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 206,
+        "end_offset": 209,
+        "start": 27.786,
+        "end": 27.866,
+        "score": -8.5927
+      },
+      {
+        "word": "This",
+        "start_offset": 210,
+        "end_offset": 214,
+        "start": 27.886,
+        "end": 28.206,
+        "score": -0.8642
+      },
+      {
+        "word": "is",
+        "start_offset": 215,
+        "end_offset": 217,
+        "start": 29.267,
+        "end": 29.487,
+        "score": -0.7664
+      },
+      {
+        "word": "correct",
+        "start_offset": 218,
+        "end_offset": 225,
+        "start": 29.947,
+        "end": 30.747,
+        "score": -0.7082
+      },
+      {
+        "word": "in",
+        "start_offset": 226,
+        "end_offset": 228,
+        "start": 31.787,
+        "end": 31.927,
+        "score": -0.7007
+      },
+      {
+        "word": "the",
+        "start_offset": 229,
+        "end_offset": 232,
+        "start": 32.207,
+        "end": 32.347,
+        "score": -0.7629
+      },
+      {
+        "word": "same",
+        "start_offset": 233,
+        "end_offset": 237,
+        "start": 32.727,
+        "end": 33.128,
+        "score": -0.7352
+      },
+      {
+        "word": "way",
+        "start_offset": 238,
+        "end_offset": 241,
+        "start": 33.448,
+        "end": 33.748,
+        "score": -0.6955
+      },
+      {
+        "word": "that",
+        "start_offset": 242,
+        "end_offset": 246,
+        "start": 34.748,
+        "end": 35.028,
+        "score": -0.7477
+      },
+      {
+        "word": "a",
+        "start_offset": 247,
+        "end_offset": 248,
+        "start": 35.308,
+        "end": 35.328,
+        "score": -0.7107
+      },
+      {
+        "word": "simple",
+        "start_offset": 249,
+        "end_offset": 255,
+        "start": 36.248,
+        "end": 36.808,
+        "score": -0.7407
+      },
+      {
+        "word": "children's",
+        "start_offset": 256,
+        "end_offset": 266,
+        "start": 37.649,
+        "end": 38.449,
+        "score": -1.0438
+      },
+      {
+        "word": "story",
+        "start_offset": 267,
+        "end_offset": 272,
+        "start": 38.869,
+        "end": 39.349,
+        "score": -0.7242
+      },
+      {
+        "word": "is",
+        "start_offset": 273,
+        "end_offset": 275,
+        "start": 40.469,
+        "end": 40.689,
+        "score": -0.7064
+      },
+      {
+        "word": "an",
+        "start_offset": 276,
+        "end_offset": 278,
+        "start": 41.009,
+        "end": 41.209,
+        "score": -0.722
+      },
+      {
+        "word": "allegory",
+        "start_offset": 279,
+        "end_offset": 287,
+        "start": 41.569,
+        "end": 42.27,
+        "score": -1.3331
+      },
+      {
+        "word": "for",
+        "start_offset": 288,
+        "end_offset": 291,
+        "start": 43.21,
+        "end": 43.49,
+        "score": -2.88
+      },
+      {
+        "word": "physical/philosophical/social",
+        "start_offset": 292,
+        "end_offset": 321,
+        "start": 46.17,
+        "end": 50.091,
+        "score": -0.8081
+      },
+      {
+        "word": "complex",
+        "start_offset": 322,
+        "end_offset": 329,
+        "start": 51.232,
+        "end": 52.012,
+        "score": -0.7131
+      },
+      {
+        "word": "distortion/understanding.",
+        "start_offset": 330,
+        "end_offset": 355,
+        "start": 52.592,
+        "end": 54.732,
+        "score": -0.7524
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-10.mp3",
+    "audio_duration": 56.0327,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,594 @@
+{
+  "text": "Can you tell me what percentage of third-, fourth-, and fifth-density planets which you have spoken of here are negatively polarized, polarized towards service for self? I am Ra. This is not a query to which we may speak given the Law of Confusion. We may say only that the negatively or self-service oriented planetary spheres are much fewer. To give you exact numbers would not be appropriate.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me what percentage of third-, fourth-, and fifth-density planets which you have spoken of here are negatively polarized, polarized towards service for self?",
+        "start_offset": 0,
+        "end_offset": 169,
+        "start": 2.441,
+        "end": 26.007
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 170,
+        "end_offset": 178,
+        "start": 26.307,
+        "end": 28.248
+      },
+      {
+        "segment": "This is not a query to which we may speak given the Law of Confusion.",
+        "start_offset": 179,
+        "end_offset": 248,
+        "start": 28.268,
+        "end": 44.913
+      },
+      {
+        "segment": "We may say only that the negatively or self-service oriented planetary spheres are much fewer.",
+        "start_offset": 249,
+        "end_offset": 343,
+        "start": 50.254,
+        "end": 70.68
+      },
+      {
+        "segment": "To give you exact numbers would not be appropriate.",
+        "start_offset": 344,
+        "end_offset": 395,
+        "start": 71.76,
+        "end": 82.663
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.441,
+        "end": 2.561,
+        "score": -8.5607
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 2.581,
+        "end": 2.641,
+        "score": -8.473
+      },
+      {
+        "word": "tell",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 2.701,
+        "end": 2.861,
+        "score": -7.5065
+      },
+      {
+        "word": "me",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 3.021,
+        "end": 3.061,
+        "score": -7.7579
+      },
+      {
+        "word": "what",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 3.081,
+        "end": 8.963,
+        "score": -8.4276
+      },
+      {
+        "word": "percentage",
+        "start_offset": 21,
+        "end_offset": 31,
+        "start": 9.463,
+        "end": 9.823,
+        "score": -8.5339
+      },
+      {
+        "word": "of",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 9.843,
+        "end": 9.883,
+        "score": -9.0175
+      },
+      {
+        "word": "third-,",
+        "start_offset": 35,
+        "end_offset": 42,
+        "start": 9.903,
+        "end": 11.403,
+        "score": -8.7206
+      },
+      {
+        "word": "fourth-,",
+        "start_offset": 43,
+        "end_offset": 51,
+        "start": 11.423,
+        "end": 11.703,
+        "score": -8.0228
+      },
+      {
+        "word": "and",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 13.484,
+        "end": 13.564,
+        "score": -8.6797
+      },
+      {
+        "word": "fifth-density",
+        "start_offset": 56,
+        "end_offset": 69,
+        "start": 13.584,
+        "end": 14.564,
+        "score": -9.3942
+      },
+      {
+        "word": "planets",
+        "start_offset": 70,
+        "end_offset": 77,
+        "start": 14.584,
+        "end": 14.744,
+        "score": -9.4233
+      },
+      {
+        "word": "which",
+        "start_offset": 78,
+        "end_offset": 83,
+        "start": 14.764,
+        "end": 14.904,
+        "score": -7.7558
+      },
+      {
+        "word": "you",
+        "start_offset": 84,
+        "end_offset": 87,
+        "start": 14.924,
+        "end": 14.984,
+        "score": -6.7908
+      },
+      {
+        "word": "have",
+        "start_offset": 88,
+        "end_offset": 92,
+        "start": 15.044,
+        "end": 15.124,
+        "score": -8.3891
+      },
+      {
+        "word": "spoken",
+        "start_offset": 93,
+        "end_offset": 99,
+        "start": 15.184,
+        "end": 15.344,
+        "score": -8.0774
+      },
+      {
+        "word": "of",
+        "start_offset": 100,
+        "end_offset": 102,
+        "start": 15.384,
+        "end": 15.424,
+        "score": -7.2723
+      },
+      {
+        "word": "here",
+        "start_offset": 103,
+        "end_offset": 107,
+        "start": 15.444,
+        "end": 15.524,
+        "score": -6.7011
+      },
+      {
+        "word": "are",
+        "start_offset": 108,
+        "end_offset": 111,
+        "start": 15.544,
+        "end": 15.604,
+        "score": -6.7186
+      },
+      {
+        "word": "negatively",
+        "start_offset": 112,
+        "end_offset": 122,
+        "start": 15.644,
+        "end": 15.864,
+        "score": -8.208
+      },
+      {
+        "word": "polarized,",
+        "start_offset": 123,
+        "end_offset": 133,
+        "start": 15.884,
+        "end": 23.587,
+        "score": -7.6774
+      },
+      {
+        "word": "polarized",
+        "start_offset": 134,
+        "end_offset": 143,
+        "start": 24.187,
+        "end": 24.527,
+        "score": -7.1685
+      },
+      {
+        "word": "towards",
+        "start_offset": 144,
+        "end_offset": 151,
+        "start": 24.547,
+        "end": 25.567,
+        "score": -7.4096
+      },
+      {
+        "word": "service",
+        "start_offset": 152,
+        "end_offset": 159,
+        "start": 25.587,
+        "end": 25.827,
+        "score": -7.201
+      },
+      {
+        "word": "for",
+        "start_offset": 160,
+        "end_offset": 163,
+        "start": 25.847,
+        "end": 25.907,
+        "score": -9.8983
+      },
+      {
+        "word": "self?",
+        "start_offset": 164,
+        "end_offset": 169,
+        "start": 25.927,
+        "end": 26.007,
+        "score": -9.767
+      },
+      {
+        "word": "I",
+        "start_offset": 170,
+        "end_offset": 171,
+        "start": 26.307,
+        "end": 26.327,
+        "score": -9.859
+      },
+      {
+        "word": "am",
+        "start_offset": 172,
+        "end_offset": 174,
+        "start": 28.148,
+        "end": 28.188,
+        "score": -4.1731
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 175,
+        "end_offset": 178,
+        "start": 28.208,
+        "end": 28.248,
+        "score": -7.2939
+      },
+      {
+        "word": "This",
+        "start_offset": 179,
+        "end_offset": 183,
+        "start": 28.268,
+        "end": 28.628,
+        "score": -2.4314
+      },
+      {
+        "word": "is",
+        "start_offset": 184,
+        "end_offset": 186,
+        "start": 29.268,
+        "end": 29.548,
+        "score": -0.7327
+      },
+      {
+        "word": "not",
+        "start_offset": 187,
+        "end_offset": 190,
+        "start": 30.048,
+        "end": 30.409,
+        "score": -0.7294
+      },
+      {
+        "word": "a",
+        "start_offset": 191,
+        "end_offset": 192,
+        "start": 31.949,
+        "end": 31.969,
+        "score": -0.9208
+      },
+      {
+        "word": "query",
+        "start_offset": 193,
+        "end_offset": 198,
+        "start": 33.129,
+        "end": 33.649,
+        "score": -1.152
+      },
+      {
+        "word": "to",
+        "start_offset": 199,
+        "end_offset": 201,
+        "start": 34.89,
+        "end": 35.07,
+        "score": -1.0196
+      },
+      {
+        "word": "which",
+        "start_offset": 202,
+        "end_offset": 207,
+        "start": 35.71,
+        "end": 36.11,
+        "score": -0.8197
+      },
+      {
+        "word": "we",
+        "start_offset": 208,
+        "end_offset": 210,
+        "start": 36.79,
+        "end": 36.89,
+        "score": -0.7861
+      },
+      {
+        "word": "may",
+        "start_offset": 211,
+        "end_offset": 214,
+        "start": 37.771,
+        "end": 37.991,
+        "score": -0.7766
+      },
+      {
+        "word": "speak",
+        "start_offset": 215,
+        "end_offset": 220,
+        "start": 38.651,
+        "end": 39.151,
+        "score": -1.0835
+      },
+      {
+        "word": "given",
+        "start_offset": 221,
+        "end_offset": 226,
+        "start": 40.191,
+        "end": 40.591,
+        "score": -0.82
+      },
+      {
+        "word": "the",
+        "start_offset": 227,
+        "end_offset": 230,
+        "start": 41.652,
+        "end": 41.772,
+        "score": -1.3859
+      },
+      {
+        "word": "Law",
+        "start_offset": 231,
+        "end_offset": 234,
+        "start": 42.372,
+        "end": 42.732,
+        "score": -2.6
+      },
+      {
+        "word": "of",
+        "start_offset": 235,
+        "end_offset": 237,
+        "start": 43.292,
+        "end": 43.452,
+        "score": -1.2508
+      },
+      {
+        "word": "Confusion.",
+        "start_offset": 238,
+        "end_offset": 248,
+        "start": 43.912,
+        "end": 44.913,
+        "score": -0.853
+      },
+      {
+        "word": "We",
+        "start_offset": 249,
+        "end_offset": 251,
+        "start": 50.254,
+        "end": 50.394,
+        "score": -1.087
+      },
+      {
+        "word": "may",
+        "start_offset": 252,
+        "end_offset": 255,
+        "start": 51.094,
+        "end": 51.354,
+        "score": -0.8861
+      },
+      {
+        "word": "say",
+        "start_offset": 256,
+        "end_offset": 259,
+        "start": 52.015,
+        "end": 52.315,
+        "score": -1.3702
+      },
+      {
+        "word": "only",
+        "start_offset": 260,
+        "end_offset": 264,
+        "start": 53.115,
+        "end": 53.455,
+        "score": -0.7789
+      },
+      {
+        "word": "that",
+        "start_offset": 265,
+        "end_offset": 269,
+        "start": 54.215,
+        "end": 54.555,
+        "score": -0.7412
+      },
+      {
+        "word": "the",
+        "start_offset": 270,
+        "end_offset": 273,
+        "start": 55.616,
+        "end": 55.756,
+        "score": -1.543
+      },
+      {
+        "word": "negatively",
+        "start_offset": 274,
+        "end_offset": 284,
+        "start": 59.137,
+        "end": 60.077,
+        "score": -0.7198
+      },
+      {
+        "word": "or",
+        "start_offset": 285,
+        "end_offset": 287,
+        "start": 60.717,
+        "end": 60.857,
+        "score": -1.4949
+      },
+      {
+        "word": "self-service",
+        "start_offset": 288,
+        "end_offset": 300,
+        "start": 61.337,
+        "end": 62.718,
+        "score": -0.739
+      },
+      {
+        "word": "oriented",
+        "start_offset": 301,
+        "end_offset": 309,
+        "start": 63.278,
+        "end": 64.118,
+        "score": -0.7007
+      },
+      {
+        "word": "planetary",
+        "start_offset": 310,
+        "end_offset": 319,
+        "start": 65.078,
+        "end": 66.199,
+        "score": -0.7527
+      },
+      {
+        "word": "spheres",
+        "start_offset": 320,
+        "end_offset": 327,
+        "start": 66.939,
+        "end": 67.559,
+        "score": -1.7586
+      },
+      {
+        "word": "are",
+        "start_offset": 328,
+        "end_offset": 331,
+        "start": 68.359,
+        "end": 68.659,
+        "score": -1.6263
+      },
+      {
+        "word": "much",
+        "start_offset": 332,
+        "end_offset": 336,
+        "start": 69.279,
+        "end": 69.62,
+        "score": -1.0244
+      },
+      {
+        "word": "fewer.",
+        "start_offset": 337,
+        "end_offset": 343,
+        "start": 70.22,
+        "end": 70.68,
+        "score": -2.6629
+      },
+      {
+        "word": "To",
+        "start_offset": 344,
+        "end_offset": 346,
+        "start": 71.76,
+        "end": 71.94,
+        "score": -0.8723
+      },
+      {
+        "word": "give",
+        "start_offset": 347,
+        "end_offset": 351,
+        "start": 72.76,
+        "end": 73.121,
+        "score": -0.7814
+      },
+      {
+        "word": "you",
+        "start_offset": 352,
+        "end_offset": 355,
+        "start": 73.701,
+        "end": 73.841,
+        "score": -1.0576
+      },
+      {
+        "word": "exact",
+        "start_offset": 356,
+        "end_offset": 361,
+        "start": 75.221,
+        "end": 75.981,
+        "score": -1.5097
+      },
+      {
+        "word": "numbers",
+        "start_offset": 362,
+        "end_offset": 369,
+        "start": 76.922,
+        "end": 77.702,
+        "score": -0.7073
+      },
+      {
+        "word": "would",
+        "start_offset": 370,
+        "end_offset": 375,
+        "start": 78.582,
+        "end": 78.902,
+        "score": -0.8858
+      },
+      {
+        "word": "not",
+        "start_offset": 376,
+        "end_offset": 379,
+        "start": 79.522,
+        "end": 79.862,
+        "score": -0.7205
+      },
+      {
+        "word": "be",
+        "start_offset": 380,
+        "end_offset": 382,
+        "start": 80.443,
+        "end": 80.583,
+        "score": -2.9781
+      },
+      {
+        "word": "appropriate.",
+        "start_offset": 383,
+        "end_offset": 395,
+        "start": 81.443,
+        "end": 82.663,
+        "score": -2.3542
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-30.mp3",
+    "audio_duration": 83.0433,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

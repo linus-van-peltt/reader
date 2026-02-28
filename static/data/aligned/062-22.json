@@ -1,0 +1,204 @@
+{
+  "text": "Then it was a fifth-density entity that made this particular attack on the instrument today? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then it was a fifth-density entity that made this particular attack on the instrument today?",
+        "start_offset": 0,
+        "end_offset": 92,
+        "start": 2.021,
+        "end": 12.067
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 93,
+        "end_offset": 101,
+        "start": 12.948,
+        "end": 14.529
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 102,
+        "end_offset": 118,
+        "start": 14.609,
+        "end": 17.31
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.021,
+        "end": 2.181,
+        "score": -0.6984
+      },
+      {
+        "word": "it",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 2.201,
+        "end": 2.281,
+        "score": -0.7113
+      },
+      {
+        "word": "was",
+        "start_offset": 8,
+        "end_offset": 11,
+        "start": 2.321,
+        "end": 2.461,
+        "score": -0.6974
+      },
+      {
+        "word": "a",
+        "start_offset": 12,
+        "end_offset": 13,
+        "start": 2.541,
+        "end": 2.562,
+        "score": -0.6998
+      },
+      {
+        "word": "fifth-density",
+        "start_offset": 14,
+        "end_offset": 27,
+        "start": 2.702,
+        "end": 3.502,
+        "score": -0.7283
+      },
+      {
+        "word": "entity",
+        "start_offset": 28,
+        "end_offset": 34,
+        "start": 5.203,
+        "end": 5.523,
+        "score": -0.9477
+      },
+      {
+        "word": "that",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 5.623,
+        "end": 5.763,
+        "score": -0.8238
+      },
+      {
+        "word": "made",
+        "start_offset": 40,
+        "end_offset": 44,
+        "start": 5.823,
+        "end": 6.104,
+        "score": -0.7019
+      },
+      {
+        "word": "this",
+        "start_offset": 45,
+        "end_offset": 49,
+        "start": 6.224,
+        "end": 6.484,
+        "score": -0.7637
+      },
+      {
+        "word": "particular",
+        "start_offset": 50,
+        "end_offset": 60,
+        "start": 6.804,
+        "end": 7.384,
+        "score": -0.697
+      },
+      {
+        "word": "attack",
+        "start_offset": 61,
+        "end_offset": 67,
+        "start": 7.424,
+        "end": 7.745,
+        "score": -0.6973
+      },
+      {
+        "word": "on",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 7.845,
+        "end": 7.905,
+        "score": -0.7
+      },
+      {
+        "word": "the",
+        "start_offset": 71,
+        "end_offset": 74,
+        "start": 7.925,
+        "end": 8.005,
+        "score": -0.7613
+      },
+      {
+        "word": "instrument",
+        "start_offset": 75,
+        "end_offset": 85,
+        "start": 8.085,
+        "end": 8.545,
+        "score": -0.7009
+      },
+      {
+        "word": "today?",
+        "start_offset": 86,
+        "end_offset": 92,
+        "start": 10.966,
+        "end": 12.067,
+        "score": -6.1109
+      },
+      {
+        "word": "I",
+        "start_offset": 93,
+        "end_offset": 94,
+        "start": 12.948,
+        "end": 12.968,
+        "score": -6.6176
+      },
+      {
+        "word": "am",
+        "start_offset": 95,
+        "end_offset": 97,
+        "start": 13.128,
+        "end": 14.449,
+        "score": -2.9255
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 98,
+        "end_offset": 101,
+        "start": 14.489,
+        "end": 14.529,
+        "score": -4.6792
+      },
+      {
+        "word": "This",
+        "start_offset": 102,
+        "end_offset": 106,
+        "start": 14.609,
+        "end": 15.029,
+        "score": -3.094
+      },
+      {
+        "word": "is",
+        "start_offset": 107,
+        "end_offset": 109,
+        "start": 15.669,
+        "end": 15.969,
+        "score": -1.1013
+      },
+      {
+        "word": "correct.",
+        "start_offset": 110,
+        "end_offset": 118,
+        "start": 16.43,
+        "end": 17.31,
+        "score": -1.5675
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "062-22.mp3",
+    "audio_duration": 18.0506,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

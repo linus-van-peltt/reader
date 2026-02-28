@@ -1,0 +1,170 @@
+{
+  "text": "Could you de-ruffen it to elucidate a bit on that? I am raising intervening material before we may do so.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you de-ruffen it to elucidate a bit on that?",
+        "start_offset": 30,
+        "end_offset": 77,
+        "start": 2.4,
+        "end": 6.16
+      },
+      {
+        "segment": "I am raising intervening material before we may do so.",
+        "start_offset": 101,
+        "end_offset": 329,
+        "start": 8.08,
+        "end": 26.32
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 30,
+        "end_offset": 35,
+        "start": 2.4,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "you",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 2.8000000000000003,
+        "end": 3.04
+      },
+      {
+        "word": "de-ruffen",
+        "start_offset": 38,
+        "end_offset": 48,
+        "start": 3.04,
+        "end": 3.84
+      },
+      {
+        "word": "it",
+        "start_offset": 48,
+        "end_offset": 49,
+        "start": 3.84,
+        "end": 3.92
+      },
+      {
+        "word": "to",
+        "start_offset": 50,
+        "end_offset": 51,
+        "start": 4.0,
+        "end": 4.08
+      },
+      {
+        "word": "elucidate",
+        "start_offset": 57,
+        "end_offset": 66,
+        "start": 4.5600000000000005,
+        "end": 5.28
+      },
+      {
+        "word": "a",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 5.28,
+        "end": 5.44
+      },
+      {
+        "word": "bit",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 5.44,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "on",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 5.6000000000000005,
+        "end": 5.84
+      },
+      {
+        "word": "that?",
+        "start_offset": 73,
+        "end_offset": 77,
+        "start": 5.84,
+        "end": 6.16
+      },
+      {
+        "word": "I",
+        "start_offset": 101,
+        "end_offset": 104,
+        "start": 8.08,
+        "end": 8.32
+      },
+      {
+        "word": "am",
+        "start_offset": 117,
+        "end_offset": 119,
+        "start": 9.36,
+        "end": 9.52
+      },
+      {
+        "word": "raising",
+        "start_offset": 129,
+        "end_offset": 205,
+        "start": 10.32,
+        "end": 16.4
+      },
+      {
+        "word": "intervening",
+        "start_offset": 217,
+        "end_offset": 233,
+        "start": 17.36,
+        "end": 18.64
+      },
+      {
+        "word": "material",
+        "start_offset": 249,
+        "end_offset": 261,
+        "start": 19.92,
+        "end": 20.88
+      },
+      {
+        "word": "before",
+        "start_offset": 281,
+        "end_offset": 293,
+        "start": 22.48,
+        "end": 23.44
+      },
+      {
+        "word": "we",
+        "start_offset": 297,
+        "end_offset": 301,
+        "start": 23.76,
+        "end": 24.080000000000002
+      },
+      {
+        "word": "may",
+        "start_offset": 305,
+        "end_offset": 309,
+        "start": 24.400000000000002,
+        "end": 24.72
+      },
+      {
+        "word": "do",
+        "start_offset": 317,
+        "end_offset": 321,
+        "start": 25.36,
+        "end": 25.68
+      },
+      {
+        "word": "so.",
+        "start_offset": 325,
+        "end_offset": 329,
+        "start": 26.0,
+        "end": 26.32
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "079-25.mp3",
+    "audio_duration": 27.04,
+    "transcription_time": 0.09,
+    "rtfx": 296.94,
+    "timestamp": "2026-01-06T21:56:34.884265+00:00"
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "text": "Could you first please give me an indication of the instrument's condition? I am Ra. This instrument's physical energies are depleted completely. The remainder is as previously stated.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you first please give me an indication of the instrument's condition?",
+        "start_offset": 0,
+        "end_offset": 75,
+        "start": 0.96,
+        "end": 11.222
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 76,
+        "end_offset": 84,
+        "start": 11.582,
+        "end": 14.002
+      },
+      {
+        "segment": "This instrument's physical energies are depleted completely.",
+        "start_offset": 85,
+        "end_offset": 145,
+        "start": 16.723,
+        "end": 31.865
+      },
+      {
+        "segment": "The remainder is as previously stated.",
+        "start_offset": 146,
+        "end_offset": 184,
+        "start": 36.166,
+        "end": 45.128
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 0.96,
+        "end": 1.06,
+        "score": -8.8036
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 1.08,
+        "end": 1.14,
+        "score": -5.6152
+      },
+      {
+        "word": "first",
+        "start_offset": 10,
+        "end_offset": 15,
+        "start": 1.18,
+        "end": 1.46,
+        "score": -5.1893
+      },
+      {
+        "word": "please",
+        "start_offset": 16,
+        "end_offset": 22,
+        "start": 1.56,
+        "end": 1.84,
+        "score": -5.9397
+      },
+      {
+        "word": "give",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 1.86,
+        "end": 2.02,
+        "score": -8.5623
+      },
+      {
+        "word": "me",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 2.04,
+        "end": 2.1,
+        "score": -6.0918
+      },
+      {
+        "word": "an",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 2.24,
+        "end": 2.34,
+        "score": -8.3933
+      },
+      {
+        "word": "indication",
+        "start_offset": 34,
+        "end_offset": 44,
+        "start": 2.76,
+        "end": 3.281,
+        "score": -6.161
+      },
+      {
+        "word": "of",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 3.341,
+        "end": 3.401,
+        "score": -11.1762
+      },
+      {
+        "word": "the",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 3.421,
+        "end": 3.481,
+        "score": -5.7398
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 52,
+        "end_offset": 64,
+        "start": 3.581,
+        "end": 4.001,
+        "score": -6.1596
+      },
+      {
+        "word": "condition?",
+        "start_offset": 65,
+        "end_offset": 75,
+        "start": 4.021,
+        "end": 11.222,
+        "score": -6.6079
+      },
+      {
+        "word": "I",
+        "start_offset": 76,
+        "end_offset": 77,
+        "start": 11.582,
+        "end": 11.602,
+        "score": -2.3632
+      },
+      {
+        "word": "am",
+        "start_offset": 78,
+        "end_offset": 80,
+        "start": 12.422,
+        "end": 12.702,
+        "score": -3.226
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 81,
+        "end_offset": 84,
+        "start": 13.922,
+        "end": 14.002,
+        "score": -6.3321
+      },
+      {
+        "word": "This",
+        "start_offset": 85,
+        "end_offset": 89,
+        "start": 16.723,
+        "end": 17.123,
+        "score": -0.8162
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 90,
+        "end_offset": 102,
+        "start": 18.943,
+        "end": 20.363,
+        "score": -1.4426
+      },
+      {
+        "word": "physical",
+        "start_offset": 103,
+        "end_offset": 111,
+        "start": 22.244,
+        "end": 23.124,
+        "score": -1.0571
+      },
+      {
+        "word": "energies",
+        "start_offset": 112,
+        "end_offset": 120,
+        "start": 24.164,
+        "end": 25.104,
+        "score": -1.2553
+      },
+      {
+        "word": "are",
+        "start_offset": 121,
+        "end_offset": 124,
+        "start": 26.845,
+        "end": 27.185,
+        "score": -1.1491
+      },
+      {
+        "word": "depleted",
+        "start_offset": 125,
+        "end_offset": 133,
+        "start": 27.765,
+        "end": 28.765,
+        "score": -0.747
+      },
+      {
+        "word": "completely.",
+        "start_offset": 134,
+        "end_offset": 145,
+        "start": 30.805,
+        "end": 31.865,
+        "score": -1.3825
+      },
+      {
+        "word": "The",
+        "start_offset": 146,
+        "end_offset": 149,
+        "start": 36.166,
+        "end": 36.306,
+        "score": -0.9551
+      },
+      {
+        "word": "remainder",
+        "start_offset": 150,
+        "end_offset": 159,
+        "start": 37.266,
+        "end": 38.046,
+        "score": -0.7536
+      },
+      {
+        "word": "is",
+        "start_offset": 160,
+        "end_offset": 162,
+        "start": 40.447,
+        "end": 40.807,
+        "score": -0.7166
+      },
+      {
+        "word": "as",
+        "start_offset": 163,
+        "end_offset": 165,
+        "start": 41.207,
+        "end": 41.567,
+        "score": -0.7202
+      },
+      {
+        "word": "previously",
+        "start_offset": 166,
+        "end_offset": 176,
+        "start": 42.047,
+        "end": 43.167,
+        "score": -1.202
+      },
+      {
+        "word": "stated.",
+        "start_offset": 177,
+        "end_offset": 184,
+        "start": 44.468,
+        "end": 45.128,
+        "score": -0.7866
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "068-01.mp3",
+    "audio_duration": 46.0278,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

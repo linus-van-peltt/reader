@@ -1,0 +1,373 @@
+{
+  "text": "There is apparently a cup which we have as containing a mixture of positive and negative influences. However, I personally doubt this. Yeah. Doubt not the polarity of a student, but release the cup from its structure. It is indeed a distortion of the original image.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "There is apparently a cup which we have as containing a mixture of positive and negative influences.",
+        "start_offset": 27,
+        "end_offset": 243,
+        "start": 2.16,
+        "end": 19.44
+      },
+      {
+        "segment": "However, I personally doubt this.",
+        "start_offset": 287,
+        "end_offset": 338,
+        "start": 22.96,
+        "end": 27.04
+      },
+      {
+        "segment": "Yeah.",
+        "start_offset": 518,
+        "end_offset": 524,
+        "start": 41.44,
+        "end": 41.92
+      },
+      {
+        "segment": "Doubt not the polarity of a student, but release the cup from its structure.",
+        "start_offset": 628,
+        "end_offset": 857,
+        "start": 50.24,
+        "end": 68.56
+      },
+      {
+        "segment": "It is indeed a distortion of the original image.",
+        "start_offset": 913,
+        "end_offset": 1041,
+        "start": 73.04,
+        "end": 83.28
+      }
+    ],
+    "word": [
+      {
+        "word": "There",
+        "start_offset": 27,
+        "end_offset": 35,
+        "start": 2.16,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "is",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 2.8000000000000003,
+        "end": 3.12
+      },
+      {
+        "word": "apparently",
+        "start_offset": 47,
+        "end_offset": 57,
+        "start": 3.7600000000000002,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "a",
+        "start_offset": 57,
+        "end_offset": 61,
+        "start": 4.5600000000000005,
+        "end": 4.88
+      },
+      {
+        "word": "cup",
+        "start_offset": 61,
+        "end_offset": 69,
+        "start": 4.88,
+        "end": 5.5200000000000005
+      },
+      {
+        "word": "which",
+        "start_offset": 112,
+        "end_offset": 116,
+        "start": 8.96,
+        "end": 9.28
+      },
+      {
+        "word": "we",
+        "start_offset": 124,
+        "end_offset": 127,
+        "start": 9.92,
+        "end": 10.16
+      },
+      {
+        "word": "have",
+        "start_offset": 131,
+        "end_offset": 135,
+        "start": 10.48,
+        "end": 10.8
+      },
+      {
+        "word": "as",
+        "start_offset": 139,
+        "end_offset": 143,
+        "start": 11.120000000000001,
+        "end": 11.44
+      },
+      {
+        "word": "containing",
+        "start_offset": 143,
+        "end_offset": 151,
+        "start": 11.44,
+        "end": 12.08
+      },
+      {
+        "word": "a",
+        "start_offset": 151,
+        "end_offset": 153,
+        "start": 12.08,
+        "end": 12.24
+      },
+      {
+        "word": "mixture",
+        "start_offset": 153,
+        "end_offset": 160,
+        "start": 12.24,
+        "end": 12.8
+      },
+      {
+        "word": "of",
+        "start_offset": 160,
+        "end_offset": 164,
+        "start": 12.8,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "positive",
+        "start_offset": 164,
+        "end_offset": 176,
+        "start": 13.120000000000001,
+        "end": 14.08
+      },
+      {
+        "word": "and",
+        "start_offset": 183,
+        "end_offset": 187,
+        "start": 14.64,
+        "end": 14.96
+      },
+      {
+        "word": "negative",
+        "start_offset": 187,
+        "end_offset": 199,
+        "start": 14.96,
+        "end": 15.92
+      },
+      {
+        "word": "influences.",
+        "start_offset": 227,
+        "end_offset": 243,
+        "start": 18.16,
+        "end": 19.44
+      },
+      {
+        "word": "However,",
+        "start_offset": 287,
+        "end_offset": 294,
+        "start": 22.96,
+        "end": 23.52
+      },
+      {
+        "word": "I",
+        "start_offset": 295,
+        "end_offset": 299,
+        "start": 23.6,
+        "end": 23.92
+      },
+      {
+        "word": "personally",
+        "start_offset": 299,
+        "end_offset": 305,
+        "start": 23.92,
+        "end": 24.400000000000002
+      },
+      {
+        "word": "doubt",
+        "start_offset": 326,
+        "end_offset": 334,
+        "start": 26.080000000000002,
+        "end": 26.72
+      },
+      {
+        "word": "this.",
+        "start_offset": 334,
+        "end_offset": 338,
+        "start": 26.72,
+        "end": 27.04
+      },
+      {
+        "word": "Yeah.",
+        "start_offset": 518,
+        "end_offset": 524,
+        "start": 41.44,
+        "end": 41.92
+      },
+      {
+        "word": "Doubt",
+        "start_offset": 628,
+        "end_offset": 637,
+        "start": 50.24,
+        "end": 50.96
+      },
+      {
+        "word": "not",
+        "start_offset": 640,
+        "end_offset": 644,
+        "start": 51.2,
+        "end": 51.52
+      },
+      {
+        "word": "the",
+        "start_offset": 648,
+        "end_offset": 652,
+        "start": 51.84,
+        "end": 52.160000000000004
+      },
+      {
+        "word": "polarity",
+        "start_offset": 656,
+        "end_offset": 668,
+        "start": 52.480000000000004,
+        "end": 53.44
+      },
+      {
+        "word": "of",
+        "start_offset": 675,
+        "end_offset": 679,
+        "start": 54.0,
+        "end": 54.32
+      },
+      {
+        "word": "a",
+        "start_offset": 685,
+        "end_offset": 689,
+        "start": 54.800000000000004,
+        "end": 55.120000000000005
+      },
+      {
+        "word": "student,",
+        "start_offset": 689,
+        "end_offset": 697,
+        "start": 55.120000000000005,
+        "end": 55.76
+      },
+      {
+        "word": "but",
+        "start_offset": 713,
+        "end_offset": 717,
+        "start": 57.04,
+        "end": 57.36
+      },
+      {
+        "word": "release",
+        "start_offset": 740,
+        "end_offset": 751,
+        "start": 59.2,
+        "end": 60.08
+      },
+      {
+        "word": "the",
+        "start_offset": 775,
+        "end_offset": 779,
+        "start": 62.0,
+        "end": 62.32
+      },
+      {
+        "word": "cup",
+        "start_offset": 787,
+        "end_offset": 798,
+        "start": 62.96,
+        "end": 63.84
+      },
+      {
+        "word": "from",
+        "start_offset": 814,
+        "end_offset": 818,
+        "start": 65.12,
+        "end": 65.44
+      },
+      {
+        "word": "its",
+        "start_offset": 826,
+        "end_offset": 830,
+        "start": 66.08,
+        "end": 66.4
+      },
+      {
+        "word": "structure.",
+        "start_offset": 846,
+        "end_offset": 857,
+        "start": 67.68,
+        "end": 68.56
+      },
+      {
+        "word": "It",
+        "start_offset": 913,
+        "end_offset": 917,
+        "start": 73.04,
+        "end": 73.36
+      },
+      {
+        "word": "is",
+        "start_offset": 921,
+        "end_offset": 925,
+        "start": 73.68,
+        "end": 74.0
+      },
+      {
+        "word": "indeed",
+        "start_offset": 937,
+        "end_offset": 945,
+        "start": 74.96000000000001,
+        "end": 75.60000000000001
+      },
+      {
+        "word": "a",
+        "start_offset": 955,
+        "end_offset": 959,
+        "start": 76.4,
+        "end": 76.72
+      },
+      {
+        "word": "distortion",
+        "start_offset": 963,
+        "end_offset": 978,
+        "start": 77.04,
+        "end": 78.24
+      },
+      {
+        "word": "of",
+        "start_offset": 986,
+        "end_offset": 990,
+        "start": 78.88,
+        "end": 79.2
+      },
+      {
+        "word": "the",
+        "start_offset": 994,
+        "end_offset": 998,
+        "start": 79.52,
+        "end": 79.84
+      },
+      {
+        "word": "original",
+        "start_offset": 1006,
+        "end_offset": 1022,
+        "start": 80.48,
+        "end": 81.76
+      },
+      {
+        "word": "image.",
+        "start_offset": 1030,
+        "end_offset": 1041,
+        "start": 82.4,
+        "end": 83.28
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "091-28.mp3",
+    "audio_duration": 85.03,
+    "transcription_time": 0.15,
+    "rtfx": 568.38,
+    "timestamp": "2026-01-06T21:58:51.739170+00:00"
+  }
+}

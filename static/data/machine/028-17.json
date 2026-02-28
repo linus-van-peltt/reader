@@ -1,0 +1,114 @@
+{
+  "text": "Thank you, Master. Could you please make the instrument go off again?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you, Master.",
+        "start_offset": 16,
+        "end_offset": 31,
+        "start": 1.28,
+        "end": 2.48
+      },
+      {
+        "segment": "Could you please make the instrument go off again?",
+        "start_offset": 40,
+        "end_offset": 73,
+        "start": 3.2,
+        "end": 5.84
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 1.28,
+        "end": 1.6
+      },
+      {
+        "word": "you,",
+        "start_offset": 22,
+        "end_offset": 23,
+        "start": 1.76,
+        "end": 1.84
+      },
+      {
+        "word": "Master.",
+        "start_offset": 26,
+        "end_offset": 31,
+        "start": 2.08,
+        "end": 2.48
+      },
+      {
+        "word": "Could",
+        "start_offset": 40,
+        "end_offset": 43,
+        "start": 3.2,
+        "end": 3.44
+      },
+      {
+        "word": "you",
+        "start_offset": 43,
+        "end_offset": 45,
+        "start": 3.44,
+        "end": 3.6
+      },
+      {
+        "word": "please",
+        "start_offset": 45,
+        "end_offset": 49,
+        "start": 3.6,
+        "end": 3.92
+      },
+      {
+        "word": "make",
+        "start_offset": 49,
+        "end_offset": 51,
+        "start": 3.92,
+        "end": 4.08
+      },
+      {
+        "word": "the",
+        "start_offset": 52,
+        "end_offset": 53,
+        "start": 4.16,
+        "end": 4.24
+      },
+      {
+        "word": "instrument",
+        "start_offset": 53,
+        "end_offset": 59,
+        "start": 4.24,
+        "end": 4.72
+      },
+      {
+        "word": "go",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 4.72,
+        "end": 4.96
+      },
+      {
+        "word": "off",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 4.96,
+        "end": 5.2
+      },
+      {
+        "word": "again?",
+        "start_offset": 65,
+        "end_offset": 73,
+        "start": 5.2,
+        "end": 5.84
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "028-17.mp3",
+    "audio_duration": 7.24,
+    "transcription_time": 0.08,
+    "rtfx": 88.02,
+    "timestamp": "2026-01-06T21:49:25.423236+00:00"
+  }
+}

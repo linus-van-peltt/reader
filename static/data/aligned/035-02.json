@@ -1,0 +1,234 @@
+{
+  "text": "Two things I would like to clear up. Then Franklin's teacher was his wife? Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Two things I would like to clear up.",
+        "start_offset": 0,
+        "end_offset": 36,
+        "start": 2.362,
+        "end": 4.885
+      },
+      {
+        "segment": "Then Franklin's teacher was his wife?",
+        "start_offset": 37,
+        "end_offset": 74,
+        "start": 6.146,
+        "end": 10.45
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 75,
+        "end_offset": 91,
+        "start": 11.411,
+        "end": 12.091
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 92,
+        "end_offset": 100,
+        "start": 17.476,
+        "end": 20.479
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 101,
+        "end_offset": 117,
+        "start": 22.321,
+        "end": 25.484
+      }
+    ],
+    "word": [
+      {
+        "word": "Two",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.362,
+        "end": 2.522,
+        "score": -0.7001
+      },
+      {
+        "word": "things",
+        "start_offset": 4,
+        "end_offset": 10,
+        "start": 2.582,
+        "end": 2.943,
+        "score": -0.7106
+      },
+      {
+        "word": "I",
+        "start_offset": 11,
+        "end_offset": 12,
+        "start": 3.043,
+        "end": 3.063,
+        "score": -9.1733
+      },
+      {
+        "word": "would",
+        "start_offset": 13,
+        "end_offset": 18,
+        "start": 3.083,
+        "end": 3.323,
+        "score": -4.8522
+      },
+      {
+        "word": "like",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 3.623,
+        "end": 3.844,
+        "score": -0.7414
+      },
+      {
+        "word": "to",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 3.904,
+        "end": 3.984,
+        "score": -0.7421
+      },
+      {
+        "word": "clear",
+        "start_offset": 27,
+        "end_offset": 32,
+        "start": 4.464,
+        "end": 4.704,
+        "score": -1.048
+      },
+      {
+        "word": "up.",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 4.764,
+        "end": 4.885,
+        "score": -0.723
+      },
+      {
+        "word": "Then",
+        "start_offset": 37,
+        "end_offset": 41,
+        "start": 6.146,
+        "end": 6.386,
+        "score": -5.7225
+      },
+      {
+        "word": "Franklin's",
+        "start_offset": 42,
+        "end_offset": 52,
+        "start": 7.387,
+        "end": 8.067,
+        "score": -0.9698
+      },
+      {
+        "word": "teacher",
+        "start_offset": 53,
+        "end_offset": 60,
+        "start": 8.508,
+        "end": 8.908,
+        "score": -0.7318
+      },
+      {
+        "word": "was",
+        "start_offset": 61,
+        "end_offset": 64,
+        "start": 9.329,
+        "end": 9.629,
+        "score": -0.6988
+      },
+      {
+        "word": "his",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 9.729,
+        "end": 9.909,
+        "score": -0.6988
+      },
+      {
+        "word": "wife?",
+        "start_offset": 69,
+        "end_offset": 74,
+        "start": 10.049,
+        "end": 10.45,
+        "score": -0.8159
+      },
+      {
+        "word": "Is",
+        "start_offset": 75,
+        "end_offset": 77,
+        "start": 11.411,
+        "end": 11.491,
+        "score": -3.6872
+      },
+      {
+        "word": "this",
+        "start_offset": 78,
+        "end_offset": 82,
+        "start": 11.511,
+        "end": 11.671,
+        "score": -3.2373
+      },
+      {
+        "word": "correct?",
+        "start_offset": 83,
+        "end_offset": 91,
+        "start": 11.711,
+        "end": 12.091,
+        "score": -3.576
+      },
+      {
+        "word": "I",
+        "start_offset": 92,
+        "end_offset": 93,
+        "start": 17.476,
+        "end": 17.496,
+        "score": -0.8773
+      },
+      {
+        "word": "am",
+        "start_offset": 94,
+        "end_offset": 96,
+        "start": 18.998,
+        "end": 19.178,
+        "score": -3.2995
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 97,
+        "end_offset": 100,
+        "start": 20.339,
+        "end": 20.479,
+        "score": -1.0181
+      },
+      {
+        "word": "This",
+        "start_offset": 101,
+        "end_offset": 105,
+        "start": 22.321,
+        "end": 22.741,
+        "score": -0.7704
+      },
+      {
+        "word": "is",
+        "start_offset": 106,
+        "end_offset": 108,
+        "start": 23.722,
+        "end": 24.042,
+        "score": -0.7142
+      },
+      {
+        "word": "correct.",
+        "start_offset": 109,
+        "end_offset": 117,
+        "start": 24.683,
+        "end": 25.484,
+        "score": -0.7102
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "035-02.mp3",
+    "audio_duration": 26.0441,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

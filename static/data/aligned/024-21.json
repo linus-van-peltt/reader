@@ -1,0 +1,109 @@
+{
+  "text": "OK. Sorry to bother you with these type of questions…",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "OK.",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 1.204,
+        "end": 1.324
+      },
+      {
+        "segment": "Sorry to bother you with these type of questions…",
+        "start_offset": 4,
+        "end_offset": 53,
+        "start": 2.789,
+        "end": 5.538
+      }
+    ],
+    "word": [
+      {
+        "word": "OK.",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 1.204,
+        "end": 1.324,
+        "score": -3.6456
+      },
+      {
+        "word": "Sorry",
+        "start_offset": 4,
+        "end_offset": 9,
+        "start": 2.789,
+        "end": 3.03,
+        "score": -2.662
+      },
+      {
+        "word": "to",
+        "start_offset": 10,
+        "end_offset": 12,
+        "start": 3.05,
+        "end": 3.09,
+        "score": -4.36
+      },
+      {
+        "word": "bother",
+        "start_offset": 13,
+        "end_offset": 19,
+        "start": 3.15,
+        "end": 3.391,
+        "score": -3.1534
+      },
+      {
+        "word": "you",
+        "start_offset": 20,
+        "end_offset": 23,
+        "start": 3.451,
+        "end": 3.511,
+        "score": -5.6756
+      },
+      {
+        "word": "with",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 3.531,
+        "end": 3.672,
+        "score": -3.2849
+      },
+      {
+        "word": "these",
+        "start_offset": 29,
+        "end_offset": 34,
+        "start": 3.832,
+        "end": 3.933,
+        "score": -3.4687
+      },
+      {
+        "word": "type",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 4.113,
+        "end": 4.194,
+        "score": -5.3533
+      },
+      {
+        "word": "of",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 4.214,
+        "end": 4.254,
+        "score": -4.3276
+      },
+      {
+        "word": "questions…",
+        "start_offset": 43,
+        "end_offset": 53,
+        "start": 5.237,
+        "end": 5.538,
+        "score": -5.4205
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "024-21.mp3",
+    "audio_duration": 5.538,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

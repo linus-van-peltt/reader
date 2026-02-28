@@ -1,0 +1,257 @@
+{
+  "text": "There is a portion of sleep that has been called R. E. M. Is this the state of dreaming? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "There is a portion of sleep that has been called R.",
+        "start_offset": 0,
+        "end_offset": 51,
+        "start": 2.54,
+        "end": 7.801
+      },
+      {
+        "segment": "E.",
+        "start_offset": 52,
+        "end_offset": 54,
+        "start": 7.961,
+        "end": 7.981
+      },
+      {
+        "segment": "M.",
+        "start_offset": 55,
+        "end_offset": 57,
+        "start": 8.481,
+        "end": 8.501
+      },
+      {
+        "segment": "Is this the state of dreaming?",
+        "start_offset": 58,
+        "end_offset": 88,
+        "start": 12.402,
+        "end": 18.423
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 89,
+        "end_offset": 97,
+        "start": 35.486,
+        "end": 37.146
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 98,
+        "end_offset": 114,
+        "start": 41.087,
+        "end": 43.847
+      }
+    ],
+    "word": [
+      {
+        "word": "There",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.54,
+        "end": 2.74,
+        "score": -0.8094
+      },
+      {
+        "word": "is",
+        "start_offset": 6,
+        "end_offset": 8,
+        "start": 2.84,
+        "end": 3.001,
+        "score": -0.7817
+      },
+      {
+        "word": "a",
+        "start_offset": 9,
+        "end_offset": 10,
+        "start": 3.121,
+        "end": 3.141,
+        "score": -0.7395
+      },
+      {
+        "word": "portion",
+        "start_offset": 11,
+        "end_offset": 18,
+        "start": 4.621,
+        "end": 5.001,
+        "score": -0.7233
+      },
+      {
+        "word": "of",
+        "start_offset": 19,
+        "end_offset": 21,
+        "start": 5.041,
+        "end": 5.121,
+        "score": -0.7097
+      },
+      {
+        "word": "sleep",
+        "start_offset": 22,
+        "end_offset": 27,
+        "start": 5.241,
+        "end": 5.601,
+        "score": -0.8262
+      },
+      {
+        "word": "that",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 5.661,
+        "end": 5.781,
+        "score": -0.7142
+      },
+      {
+        "word": "has",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 5.821,
+        "end": 5.921,
+        "score": -0.7263
+      },
+      {
+        "word": "been",
+        "start_offset": 37,
+        "end_offset": 41,
+        "start": 5.981,
+        "end": 6.121,
+        "score": -0.7225
+      },
+      {
+        "word": "called",
+        "start_offset": 42,
+        "end_offset": 48,
+        "start": 6.221,
+        "end": 6.641,
+        "score": -0.7363
+      },
+      {
+        "word": "R.",
+        "start_offset": 49,
+        "end_offset": 51,
+        "start": 7.781,
+        "end": 7.801,
+        "score": -0.7205
+      },
+      {
+        "word": "E.",
+        "start_offset": 52,
+        "end_offset": 54,
+        "start": 7.961,
+        "end": 7.981,
+        "score": -0.755
+      },
+      {
+        "word": "M.",
+        "start_offset": 55,
+        "end_offset": 57,
+        "start": 8.481,
+        "end": 8.501,
+        "score": -0.7411
+      },
+      {
+        "word": "Is",
+        "start_offset": 58,
+        "end_offset": 60,
+        "start": 12.402,
+        "end": 12.562,
+        "score": -1.3156
+      },
+      {
+        "word": "this",
+        "start_offset": 61,
+        "end_offset": 65,
+        "start": 12.642,
+        "end": 12.942,
+        "score": -1.2695
+      },
+      {
+        "word": "the",
+        "start_offset": 66,
+        "end_offset": 69,
+        "start": 16.963,
+        "end": 17.063,
+        "score": -1.1967
+      },
+      {
+        "word": "state",
+        "start_offset": 70,
+        "end_offset": 75,
+        "start": 17.443,
+        "end": 17.743,
+        "score": -0.7924
+      },
+      {
+        "word": "of",
+        "start_offset": 76,
+        "end_offset": 78,
+        "start": 17.783,
+        "end": 17.843,
+        "score": -0.802
+      },
+      {
+        "word": "dreaming?",
+        "start_offset": 79,
+        "end_offset": 88,
+        "start": 17.943,
+        "end": 18.423,
+        "score": -0.7427
+      },
+      {
+        "word": "I",
+        "start_offset": 89,
+        "end_offset": 90,
+        "start": 35.486,
+        "end": 35.506,
+        "score": -2.9421
+      },
+      {
+        "word": "am",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 36.146,
+        "end": 36.406,
+        "score": -4.7728
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 94,
+        "end_offset": 97,
+        "start": 37.006,
+        "end": 37.146,
+        "score": -4.1573
+      },
+      {
+        "word": "This",
+        "start_offset": 98,
+        "end_offset": 102,
+        "start": 41.087,
+        "end": 41.467,
+        "score": -1.2163
+      },
+      {
+        "word": "is",
+        "start_offset": 103,
+        "end_offset": 105,
+        "start": 42.047,
+        "end": 42.407,
+        "score": -0.9922
+      },
+      {
+        "word": "correct.",
+        "start_offset": 106,
+        "end_offset": 114,
+        "start": 43.107,
+        "end": 43.847,
+        "score": -1.0737
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "086-13.mp3",
+    "audio_duration": 46.0278,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

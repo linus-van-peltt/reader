@@ -1,0 +1,282 @@
+{
+  "text": "Oh, all of these let me be sure I'm right then. That our sun is a sublogos of the logos that is the major galactic logos. Correct? I am raw. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Oh, all of these let me be sure I'm right then.",
+        "start_offset": 28,
+        "end_offset": 271,
+        "start": 2.24,
+        "end": 21.68
+      },
+      {
+        "segment": "That our sun is a sublogos of the logos that is the major galactic logos.",
+        "start_offset": 297,
+        "end_offset": 453,
+        "start": 23.76,
+        "end": 36.24
+      },
+      {
+        "segment": "Correct?",
+        "start_offset": 460,
+        "end_offset": 468,
+        "start": 36.800000000000004,
+        "end": 37.44
+      },
+      {
+        "segment": "I am raw.",
+        "start_offset": 512,
+        "end_offset": 544,
+        "start": 40.96,
+        "end": 43.52
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 556,
+        "end_offset": 588,
+        "start": 44.480000000000004,
+        "end": 47.04
+      }
+    ],
+    "word": [
+      {
+        "word": "Oh,",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 2.24,
+        "end": 2.48
+      },
+      {
+        "word": "all",
+        "start_offset": 58,
+        "end_offset": 62,
+        "start": 4.64,
+        "end": 4.96
+      },
+      {
+        "word": "of",
+        "start_offset": 62,
+        "end_offset": 66,
+        "start": 4.96,
+        "end": 5.28
+      },
+      {
+        "word": "these",
+        "start_offset": 66,
+        "end_offset": 70,
+        "start": 5.28,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "let",
+        "start_offset": 251,
+        "end_offset": 253,
+        "start": 20.080000000000002,
+        "end": 20.240000000000002
+      },
+      {
+        "word": "me",
+        "start_offset": 253,
+        "end_offset": 255,
+        "start": 20.240000000000002,
+        "end": 20.400000000000002
+      },
+      {
+        "word": "be",
+        "start_offset": 255,
+        "end_offset": 257,
+        "start": 20.400000000000002,
+        "end": 20.56
+      },
+      {
+        "word": "sure",
+        "start_offset": 257,
+        "end_offset": 260,
+        "start": 20.56,
+        "end": 20.8
+      },
+      {
+        "word": "I'm",
+        "start_offset": 260,
+        "end_offset": 263,
+        "start": 20.8,
+        "end": 21.04
+      },
+      {
+        "word": "right",
+        "start_offset": 263,
+        "end_offset": 265,
+        "start": 21.04,
+        "end": 21.2
+      },
+      {
+        "word": "then.",
+        "start_offset": 267,
+        "end_offset": 271,
+        "start": 21.36,
+        "end": 21.68
+      },
+      {
+        "word": "That",
+        "start_offset": 297,
+        "end_offset": 301,
+        "start": 23.76,
+        "end": 24.080000000000002
+      },
+      {
+        "word": "our",
+        "start_offset": 305,
+        "end_offset": 309,
+        "start": 24.400000000000002,
+        "end": 24.72
+      },
+      {
+        "word": "sun",
+        "start_offset": 313,
+        "end_offset": 317,
+        "start": 25.04,
+        "end": 25.36
+      },
+      {
+        "word": "is",
+        "start_offset": 337,
+        "end_offset": 340,
+        "start": 26.96,
+        "end": 27.2
+      },
+      {
+        "word": "a",
+        "start_offset": 340,
+        "end_offset": 343,
+        "start": 27.2,
+        "end": 27.44
+      },
+      {
+        "word": "sublogos",
+        "start_offset": 343,
+        "end_offset": 357,
+        "start": 27.44,
+        "end": 28.560000000000002
+      },
+      {
+        "word": "of",
+        "start_offset": 361,
+        "end_offset": 365,
+        "start": 28.88,
+        "end": 29.2
+      },
+      {
+        "word": "the",
+        "start_offset": 365,
+        "end_offset": 369,
+        "start": 29.2,
+        "end": 29.52
+      },
+      {
+        "word": "logos",
+        "start_offset": 385,
+        "end_offset": 398,
+        "start": 30.8,
+        "end": 31.84
+      },
+      {
+        "word": "that",
+        "start_offset": 402,
+        "end_offset": 406,
+        "start": 32.160000000000004,
+        "end": 32.480000000000004
+      },
+      {
+        "word": "is",
+        "start_offset": 406,
+        "end_offset": 410,
+        "start": 32.480000000000004,
+        "end": 32.8
+      },
+      {
+        "word": "the",
+        "start_offset": 414,
+        "end_offset": 418,
+        "start": 33.12,
+        "end": 33.44
+      },
+      {
+        "word": "major",
+        "start_offset": 418,
+        "end_offset": 426,
+        "start": 33.44,
+        "end": 34.08
+      },
+      {
+        "word": "galactic",
+        "start_offset": 430,
+        "end_offset": 443,
+        "start": 34.4,
+        "end": 35.44
+      },
+      {
+        "word": "logos.",
+        "start_offset": 443,
+        "end_offset": 453,
+        "start": 35.44,
+        "end": 36.24
+      },
+      {
+        "word": "Correct?",
+        "start_offset": 460,
+        "end_offset": 468,
+        "start": 36.800000000000004,
+        "end": 37.44
+      },
+      {
+        "word": "I",
+        "start_offset": 512,
+        "end_offset": 516,
+        "start": 40.96,
+        "end": 41.28
+      },
+      {
+        "word": "am",
+        "start_offset": 524,
+        "end_offset": 528,
+        "start": 41.92,
+        "end": 42.24
+      },
+      {
+        "word": "raw.",
+        "start_offset": 532,
+        "end_offset": 544,
+        "start": 42.56,
+        "end": 43.52
+      },
+      {
+        "word": "This",
+        "start_offset": 556,
+        "end_offset": 560,
+        "start": 44.480000000000004,
+        "end": 44.800000000000004
+      },
+      {
+        "word": "is",
+        "start_offset": 568,
+        "end_offset": 572,
+        "start": 45.44,
+        "end": 45.76
+      },
+      {
+        "word": "correct.",
+        "start_offset": 580,
+        "end_offset": 588,
+        "start": 46.4,
+        "end": 47.04
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "029-05.mp3",
+    "audio_duration": 47.54,
+    "transcription_time": 0.11,
+    "rtfx": 432.8,
+    "timestamp": "2026-01-06T21:49:27.953313+00:00"
+  }
+}

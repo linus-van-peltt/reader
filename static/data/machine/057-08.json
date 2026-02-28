@@ -1,0 +1,366 @@
+{
+  "text": "Would an unflawed crystal be considerably more effective than the flawed one that we now have? Without attempting to deem the priorities you may choose. We may note that the regularized or crystallized entity in its configuration is as caretical as the perfection of the crystal used.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would an unflawed crystal be considerably more effective than the flawed one that we now have?",
+        "start_offset": 24,
+        "end_offset": 130,
+        "start": 1.92,
+        "end": 10.4
+      },
+      {
+        "segment": "Without attempting to deem the priorities you may choose.",
+        "start_offset": 287,
+        "end_offset": 510,
+        "start": 22.96,
+        "end": 40.800000000000004
+      },
+      {
+        "segment": "We may note that the regularized or crystallized entity in its configuration is as caretical as the perfection of the crystal used.",
+        "start_offset": 530,
+        "end_offset": 1038,
+        "start": 42.4,
+        "end": 83.04
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 24,
+        "end_offset": 32,
+        "start": 1.92,
+        "end": 2.56
+      },
+      {
+        "word": "an",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 2.8000000000000003,
+        "end": 3.12
+      },
+      {
+        "word": "unflawed",
+        "start_offset": 39,
+        "end_offset": 51,
+        "start": 3.12,
+        "end": 4.08
+      },
+      {
+        "word": "crystal",
+        "start_offset": 53,
+        "end_offset": 64,
+        "start": 4.24,
+        "end": 5.12
+      },
+      {
+        "word": "be",
+        "start_offset": 64,
+        "end_offset": 68,
+        "start": 5.12,
+        "end": 5.44
+      },
+      {
+        "word": "considerably",
+        "start_offset": 79,
+        "end_offset": 89,
+        "start": 6.32,
+        "end": 7.12
+      },
+      {
+        "word": "more",
+        "start_offset": 89,
+        "end_offset": 92,
+        "start": 7.12,
+        "end": 7.36
+      },
+      {
+        "word": "effective",
+        "start_offset": 92,
+        "end_offset": 101,
+        "start": 7.36,
+        "end": 8.08
+      },
+      {
+        "word": "than",
+        "start_offset": 101,
+        "end_offset": 103,
+        "start": 8.08,
+        "end": 8.24
+      },
+      {
+        "word": "the",
+        "start_offset": 103,
+        "end_offset": 105,
+        "start": 8.24,
+        "end": 8.4
+      },
+      {
+        "word": "flawed",
+        "start_offset": 105,
+        "end_offset": 112,
+        "start": 8.4,
+        "end": 8.96
+      },
+      {
+        "word": "one",
+        "start_offset": 112,
+        "end_offset": 115,
+        "start": 8.96,
+        "end": 9.200000000000001
+      },
+      {
+        "word": "that",
+        "start_offset": 115,
+        "end_offset": 118,
+        "start": 9.200000000000001,
+        "end": 9.44
+      },
+      {
+        "word": "we",
+        "start_offset": 118,
+        "end_offset": 122,
+        "start": 9.44,
+        "end": 9.76
+      },
+      {
+        "word": "now",
+        "start_offset": 122,
+        "end_offset": 126,
+        "start": 9.76,
+        "end": 10.08
+      },
+      {
+        "word": "have?",
+        "start_offset": 126,
+        "end_offset": 130,
+        "start": 10.08,
+        "end": 10.4
+      },
+      {
+        "word": "Without",
+        "start_offset": 287,
+        "end_offset": 302,
+        "start": 22.96,
+        "end": 24.16
+      },
+      {
+        "word": "attempting",
+        "start_offset": 334,
+        "end_offset": 348,
+        "start": 26.72,
+        "end": 27.84
+      },
+      {
+        "word": "to",
+        "start_offset": 356,
+        "end_offset": 360,
+        "start": 28.48,
+        "end": 28.8
+      },
+      {
+        "word": "deem",
+        "start_offset": 400,
+        "end_offset": 410,
+        "start": 32.0,
+        "end": 32.8
+      },
+      {
+        "word": "the",
+        "start_offset": 438,
+        "end_offset": 442,
+        "start": 35.04,
+        "end": 35.36
+      },
+      {
+        "word": "priorities",
+        "start_offset": 450,
+        "end_offset": 470,
+        "start": 36.0,
+        "end": 37.6
+      },
+      {
+        "word": "you",
+        "start_offset": 486,
+        "end_offset": 490,
+        "start": 38.88,
+        "end": 39.2
+      },
+      {
+        "word": "may",
+        "start_offset": 494,
+        "end_offset": 498,
+        "start": 39.52,
+        "end": 39.84
+      },
+      {
+        "word": "choose.",
+        "start_offset": 502,
+        "end_offset": 510,
+        "start": 40.160000000000004,
+        "end": 40.800000000000004
+      },
+      {
+        "word": "We",
+        "start_offset": 530,
+        "end_offset": 534,
+        "start": 42.4,
+        "end": 42.72
+      },
+      {
+        "word": "may",
+        "start_offset": 538,
+        "end_offset": 542,
+        "start": 43.04,
+        "end": 43.36
+      },
+      {
+        "word": "note",
+        "start_offset": 550,
+        "end_offset": 554,
+        "start": 44.0,
+        "end": 44.32
+      },
+      {
+        "word": "that",
+        "start_offset": 574,
+        "end_offset": 578,
+        "start": 45.92,
+        "end": 46.24
+      },
+      {
+        "word": "the",
+        "start_offset": 597,
+        "end_offset": 601,
+        "start": 47.76,
+        "end": 48.08
+      },
+      {
+        "word": "regularized",
+        "start_offset": 643,
+        "end_offset": 669,
+        "start": 51.44,
+        "end": 53.52
+      },
+      {
+        "word": "or",
+        "start_offset": 673,
+        "end_offset": 677,
+        "start": 53.84,
+        "end": 54.160000000000004
+      },
+      {
+        "word": "crystallized",
+        "start_offset": 689,
+        "end_offset": 710,
+        "start": 55.120000000000005,
+        "end": 56.800000000000004
+      },
+      {
+        "word": "entity",
+        "start_offset": 726,
+        "end_offset": 738,
+        "start": 58.08,
+        "end": 59.04
+      },
+      {
+        "word": "in",
+        "start_offset": 757,
+        "end_offset": 761,
+        "start": 60.56,
+        "end": 60.88
+      },
+      {
+        "word": "its",
+        "start_offset": 769,
+        "end_offset": 773,
+        "start": 61.52,
+        "end": 61.84
+      },
+      {
+        "word": "configuration",
+        "start_offset": 777,
+        "end_offset": 801,
+        "start": 62.160000000000004,
+        "end": 64.08
+      },
+      {
+        "word": "is",
+        "start_offset": 827,
+        "end_offset": 831,
+        "start": 66.16,
+        "end": 66.48
+      },
+      {
+        "word": "as",
+        "start_offset": 855,
+        "end_offset": 859,
+        "start": 68.4,
+        "end": 68.72
+      },
+      {
+        "word": "caretical",
+        "start_offset": 863,
+        "end_offset": 877,
+        "start": 69.04,
+        "end": 70.16
+      },
+      {
+        "word": "as",
+        "start_offset": 897,
+        "end_offset": 901,
+        "start": 71.76,
+        "end": 72.08
+      },
+      {
+        "word": "the",
+        "start_offset": 913,
+        "end_offset": 917,
+        "start": 73.04,
+        "end": 73.36
+      },
+      {
+        "word": "perfection",
+        "start_offset": 945,
+        "end_offset": 960,
+        "start": 75.60000000000001,
+        "end": 76.8
+      },
+      {
+        "word": "of",
+        "start_offset": 980,
+        "end_offset": 984,
+        "start": 78.4,
+        "end": 78.72
+      },
+      {
+        "word": "the",
+        "start_offset": 988,
+        "end_offset": 992,
+        "start": 79.04,
+        "end": 79.36
+      },
+      {
+        "word": "crystal",
+        "start_offset": 1004,
+        "end_offset": 1018,
+        "start": 80.32000000000001,
+        "end": 81.44
+      },
+      {
+        "word": "used.",
+        "start_offset": 1030,
+        "end_offset": 1038,
+        "start": 82.4,
+        "end": 83.04
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "057-08.mp3",
+    "audio_duration": 85.03,
+    "transcription_time": 0.15,
+    "rtfx": 569.83,
+    "timestamp": "2026-01-06T21:52:46.372491+00:00"
+  }
+}

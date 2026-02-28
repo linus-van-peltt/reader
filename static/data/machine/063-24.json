@@ -1,0 +1,394 @@
+{
+  "text": "Sorry I'm so stupid on this particular this particular concept is very difficult for me to understand. It is something that I'm afraid requires some rather dumb questions on my part to fully understand. I don't think I'll ever fully understand, but that's a thing to even get a grasp of.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Sorry I'm so stupid on this particular this particular concept is very difficult for me to understand.",
+        "start_offset": 30,
+        "end_offset": 116,
+        "start": 2.4,
+        "end": 9.28
+      },
+      {
+        "segment": "It is something that I'm afraid requires some rather dumb questions on my part to fully understand.",
+        "start_offset": 167,
+        "end_offset": 313,
+        "start": 13.36,
+        "end": 25.04
+      },
+      {
+        "segment": "I don't think I'll ever fully understand, but that's a thing to even get a grasp of.",
+        "start_offset": 316,
+        "end_offset": 371,
+        "start": 25.28,
+        "end": 29.68
+      }
+    ],
+    "word": [
+      {
+        "word": "Sorry",
+        "start_offset": 30,
+        "end_offset": 36,
+        "start": 2.4,
+        "end": 2.88
+      },
+      {
+        "word": "I'm",
+        "start_offset": 36,
+        "end_offset": 41,
+        "start": 2.88,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "so",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 3.2800000000000002,
+        "end": 3.44
+      },
+      {
+        "word": "stupid",
+        "start_offset": 43,
+        "end_offset": 49,
+        "start": 3.44,
+        "end": 3.92
+      },
+      {
+        "word": "on",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 3.92,
+        "end": 4.16
+      },
+      {
+        "word": "this",
+        "start_offset": 52,
+        "end_offset": 54,
+        "start": 4.16,
+        "end": 4.32
+      },
+      {
+        "word": "particular",
+        "start_offset": 54,
+        "end_offset": 59,
+        "start": 4.32,
+        "end": 4.72
+      },
+      {
+        "word": "this",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 5.12,
+        "end": 5.36
+      },
+      {
+        "word": "particular",
+        "start_offset": 67,
+        "end_offset": 73,
+        "start": 5.36,
+        "end": 5.84
+      },
+      {
+        "word": "concept",
+        "start_offset": 73,
+        "end_offset": 80,
+        "start": 5.84,
+        "end": 6.4
+      },
+      {
+        "word": "is",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 6.4,
+        "end": 6.72
+      },
+      {
+        "word": "very",
+        "start_offset": 84,
+        "end_offset": 88,
+        "start": 6.72,
+        "end": 7.04
+      },
+      {
+        "word": "difficult",
+        "start_offset": 88,
+        "end_offset": 96,
+        "start": 7.04,
+        "end": 7.68
+      },
+      {
+        "word": "for",
+        "start_offset": 96,
+        "end_offset": 100,
+        "start": 7.68,
+        "end": 8.0
+      },
+      {
+        "word": "me",
+        "start_offset": 100,
+        "end_offset": 104,
+        "start": 8.0,
+        "end": 8.32
+      },
+      {
+        "word": "to",
+        "start_offset": 104,
+        "end_offset": 108,
+        "start": 8.32,
+        "end": 8.64
+      },
+      {
+        "word": "understand.",
+        "start_offset": 108,
+        "end_offset": 116,
+        "start": 8.64,
+        "end": 9.28
+      },
+      {
+        "word": "It",
+        "start_offset": 167,
+        "end_offset": 171,
+        "start": 13.36,
+        "end": 13.68
+      },
+      {
+        "word": "is",
+        "start_offset": 171,
+        "end_offset": 175,
+        "start": 13.68,
+        "end": 14.0
+      },
+      {
+        "word": "something",
+        "start_offset": 175,
+        "end_offset": 182,
+        "start": 14.0,
+        "end": 14.56
+      },
+      {
+        "word": "that",
+        "start_offset": 182,
+        "end_offset": 184,
+        "start": 14.56,
+        "end": 14.72
+      },
+      {
+        "word": "I'm",
+        "start_offset": 211,
+        "end_offset": 217,
+        "start": 16.88,
+        "end": 17.36
+      },
+      {
+        "word": "afraid",
+        "start_offset": 217,
+        "end_offset": 225,
+        "start": 17.36,
+        "end": 18.0
+      },
+      {
+        "word": "requires",
+        "start_offset": 225,
+        "end_offset": 237,
+        "start": 18.0,
+        "end": 18.96
+      },
+      {
+        "word": "some",
+        "start_offset": 257,
+        "end_offset": 261,
+        "start": 20.56,
+        "end": 20.88
+      },
+      {
+        "word": "rather",
+        "start_offset": 265,
+        "end_offset": 273,
+        "start": 21.2,
+        "end": 21.84
+      },
+      {
+        "word": "dumb",
+        "start_offset": 273,
+        "end_offset": 280,
+        "start": 21.84,
+        "end": 22.400000000000002
+      },
+      {
+        "word": "questions",
+        "start_offset": 280,
+        "end_offset": 286,
+        "start": 22.400000000000002,
+        "end": 22.88
+      },
+      {
+        "word": "on",
+        "start_offset": 286,
+        "end_offset": 289,
+        "start": 22.88,
+        "end": 23.12
+      },
+      {
+        "word": "my",
+        "start_offset": 289,
+        "end_offset": 293,
+        "start": 23.12,
+        "end": 23.44
+      },
+      {
+        "word": "part",
+        "start_offset": 293,
+        "end_offset": 296,
+        "start": 23.44,
+        "end": 23.68
+      },
+      {
+        "word": "to",
+        "start_offset": 296,
+        "end_offset": 299,
+        "start": 23.68,
+        "end": 23.92
+      },
+      {
+        "word": "fully",
+        "start_offset": 299,
+        "end_offset": 306,
+        "start": 23.92,
+        "end": 24.48
+      },
+      {
+        "word": "understand.",
+        "start_offset": 306,
+        "end_offset": 313,
+        "start": 24.48,
+        "end": 25.04
+      },
+      {
+        "word": "I",
+        "start_offset": 316,
+        "end_offset": 317,
+        "start": 25.28,
+        "end": 25.36
+      },
+      {
+        "word": "don't",
+        "start_offset": 317,
+        "end_offset": 320,
+        "start": 25.36,
+        "end": 25.6
+      },
+      {
+        "word": "think",
+        "start_offset": 320,
+        "end_offset": 322,
+        "start": 25.6,
+        "end": 25.76
+      },
+      {
+        "word": "I'll",
+        "start_offset": 322,
+        "end_offset": 325,
+        "start": 25.76,
+        "end": 26.0
+      },
+      {
+        "word": "ever",
+        "start_offset": 325,
+        "end_offset": 328,
+        "start": 26.0,
+        "end": 26.240000000000002
+      },
+      {
+        "word": "fully",
+        "start_offset": 328,
+        "end_offset": 331,
+        "start": 26.240000000000002,
+        "end": 26.48
+      },
+      {
+        "word": "understand,",
+        "start_offset": 331,
+        "end_offset": 335,
+        "start": 26.48,
+        "end": 26.8
+      },
+      {
+        "word": "but",
+        "start_offset": 338,
+        "end_offset": 339,
+        "start": 27.04,
+        "end": 27.12
+      },
+      {
+        "word": "that's",
+        "start_offset": 342,
+        "end_offset": 344,
+        "start": 27.36,
+        "end": 27.52
+      },
+      {
+        "word": "a",
+        "start_offset": 346,
+        "end_offset": 347,
+        "start": 27.68,
+        "end": 27.76
+      },
+      {
+        "word": "thing",
+        "start_offset": 347,
+        "end_offset": 350,
+        "start": 27.76,
+        "end": 28.0
+      },
+      {
+        "word": "to",
+        "start_offset": 350,
+        "end_offset": 353,
+        "start": 28.0,
+        "end": 28.240000000000002
+      },
+      {
+        "word": "even",
+        "start_offset": 353,
+        "end_offset": 355,
+        "start": 28.240000000000002,
+        "end": 28.400000000000002
+      },
+      {
+        "word": "get",
+        "start_offset": 358,
+        "end_offset": 360,
+        "start": 28.64,
+        "end": 28.8
+      },
+      {
+        "word": "a",
+        "start_offset": 362,
+        "end_offset": 363,
+        "start": 28.96,
+        "end": 29.04
+      },
+      {
+        "word": "grasp",
+        "start_offset": 363,
+        "end_offset": 368,
+        "start": 29.04,
+        "end": 29.44
+      },
+      {
+        "word": "of.",
+        "start_offset": 368,
+        "end_offset": 371,
+        "start": 29.44,
+        "end": 29.68
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "063-24.mp3",
+    "audio_duration": 89.05,
+    "transcription_time": 0.15,
+    "rtfx": 600.58,
+    "timestamp": "2026-01-06T21:53:45.841101+00:00"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "text": "I am Ra. I greet you, my friends, in the love and in the light of the One Infinite Creator. We communicate now.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I am Ra.",
+        "start_offset": 0,
+        "end_offset": 8,
+        "start": 4.061,
+        "end": 17.666
+      },
+      {
+        "segment": "I greet you, my friends, in the love and in the light of the One Infinite Creator.",
+        "start_offset": 9,
+        "end_offset": 91,
+        "start": 22.128,
+        "end": 46.937
+      },
+      {
+        "segment": "We communicate now.",
+        "start_offset": 92,
+        "end_offset": 111,
+        "start": 51.759,
+        "end": 54.56
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 4.061,
+        "end": 4.081,
+        "score": -7.9004
+      },
+      {
+        "word": "am",
+        "start_offset": 2,
+        "end_offset": 4,
+        "start": 11.704,
+        "end": 11.924,
+        "score": -3.5611
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 13.745,
+        "end": 17.666,
+        "score": -1.4873
+      },
+      {
+        "word": "I",
+        "start_offset": 9,
+        "end_offset": 10,
+        "start": 22.128,
+        "end": 22.148,
+        "score": -0.7971
+      },
+      {
+        "word": "greet",
+        "start_offset": 11,
+        "end_offset": 16,
+        "start": 23.248,
+        "end": 23.729,
+        "score": -0.9006
+      },
+      {
+        "word": "you,",
+        "start_offset": 17,
+        "end_offset": 21,
+        "start": 24.529,
+        "end": 24.649,
+        "score": -4.7506
+      },
+      {
+        "word": "my",
+        "start_offset": 22,
+        "end_offset": 24,
+        "start": 25.789,
+        "end": 26.089,
+        "score": -1.8901
+      },
+      {
+        "word": "friends,",
+        "start_offset": 25,
+        "end_offset": 33,
+        "start": 26.71,
+        "end": 27.51,
+        "score": -2.4793
+      },
+      {
+        "word": "in",
+        "start_offset": 34,
+        "end_offset": 36,
+        "start": 30.311,
+        "end": 30.491,
+        "score": -0.9036
+      },
+      {
+        "word": "the",
+        "start_offset": 37,
+        "end_offset": 40,
+        "start": 31.111,
+        "end": 31.251,
+        "score": -3.032
+      },
+      {
+        "word": "love",
+        "start_offset": 41,
+        "end_offset": 45,
+        "start": 32.032,
+        "end": 32.632,
+        "score": -2.4784
+      },
+      {
+        "word": "and",
+        "start_offset": 46,
+        "end_offset": 49,
+        "start": 34.613,
+        "end": 35.113,
+        "score": -0.9361
+      },
+      {
+        "word": "in",
+        "start_offset": 50,
+        "end_offset": 52,
+        "start": 35.893,
+        "end": 36.133,
+        "score": -1.0707
+      },
+      {
+        "word": "the",
+        "start_offset": 53,
+        "end_offset": 56,
+        "start": 36.493,
+        "end": 36.613,
+        "score": -2.1499
+      },
+      {
+        "word": "light",
+        "start_offset": 57,
+        "end_offset": 62,
+        "start": 37.954,
+        "end": 38.534,
+        "score": -1.4482
+      },
+      {
+        "word": "of",
+        "start_offset": 63,
+        "end_offset": 65,
+        "start": 40.255,
+        "end": 40.435,
+        "score": -2.3653
+      },
+      {
+        "word": "the",
+        "start_offset": 66,
+        "end_offset": 69,
+        "start": 40.955,
+        "end": 41.075,
+        "score": -1.3314
+      },
+      {
+        "word": "One",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 41.835,
+        "end": 42.575,
+        "score": -2.2067
+      },
+      {
+        "word": "Infinite",
+        "start_offset": 74,
+        "end_offset": 82,
+        "start": 43.136,
+        "end": 44.596,
+        "score": -1.7812
+      },
+      {
+        "word": "Creator.",
+        "start_offset": 83,
+        "end_offset": 91,
+        "start": 45.977,
+        "end": 46.937,
+        "score": -2.9681
+      },
+      {
+        "word": "We",
+        "start_offset": 92,
+        "end_offset": 94,
+        "start": 51.759,
+        "end": 51.899,
+        "score": -1.2901
+      },
+      {
+        "word": "communicate",
+        "start_offset": 95,
+        "end_offset": 106,
+        "start": 52.199,
+        "end": 54.08,
+        "score": -3.3871
+      },
+      {
+        "word": "now.",
+        "start_offset": 107,
+        "end_offset": 111,
+        "start": 54.16,
+        "end": 54.56,
+        "score": -1.568
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "105-00.mp3",
+    "audio_duration": 55.04,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

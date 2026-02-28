@@ -1,0 +1,205 @@
+{
+  "text": "Can you say if any of the three of us are a little pro or one of the other groups? I have rock. Yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you say if any of the three of us are a little pro or one of the other groups?",
+        "start_offset": 12,
+        "end_offset": 72,
+        "start": 0.96,
+        "end": 5.76
+      },
+      {
+        "segment": "I have rock.",
+        "start_offset": 159,
+        "end_offset": 199,
+        "start": 12.72,
+        "end": 15.92
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 228,
+        "end_offset": 234,
+        "start": 18.240000000000002,
+        "end": 18.72
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 12,
+        "end_offset": 16,
+        "start": 0.96,
+        "end": 1.28
+      },
+      {
+        "word": "you",
+        "start_offset": 16,
+        "end_offset": 18,
+        "start": 1.28,
+        "end": 1.44
+      },
+      {
+        "word": "say",
+        "start_offset": 21,
+        "end_offset": 24,
+        "start": 1.68,
+        "end": 1.92
+      },
+      {
+        "word": "if",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 1.92,
+        "end": 2.16
+      },
+      {
+        "word": "any",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 2.16,
+        "end": 2.32
+      },
+      {
+        "word": "of",
+        "start_offset": 29,
+        "end_offset": 30,
+        "start": 2.32,
+        "end": 2.4
+      },
+      {
+        "word": "the",
+        "start_offset": 30,
+        "end_offset": 31,
+        "start": 2.4,
+        "end": 2.48
+      },
+      {
+        "word": "three",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 2.48,
+        "end": 2.72
+      },
+      {
+        "word": "of",
+        "start_offset": 34,
+        "end_offset": 35,
+        "start": 2.72,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "us",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 2.8000000000000003,
+        "end": 3.04
+      },
+      {
+        "word": "are",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 3.04,
+        "end": 3.2
+      },
+      {
+        "word": "a",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 3.2,
+        "end": 3.36
+      },
+      {
+        "word": "little",
+        "start_offset": 42,
+        "end_offset": 44,
+        "start": 3.36,
+        "end": 3.52
+      },
+      {
+        "word": "pro",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 3.68,
+        "end": 3.84
+      },
+      {
+        "word": "or",
+        "start_offset": 52,
+        "end_offset": 54,
+        "start": 4.16,
+        "end": 4.32
+      },
+      {
+        "word": "one",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 4.32,
+        "end": 4.48
+      },
+      {
+        "word": "of",
+        "start_offset": 56,
+        "end_offset": 57,
+        "start": 4.48,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "the",
+        "start_offset": 57,
+        "end_offset": 59,
+        "start": 4.5600000000000005,
+        "end": 4.72
+      },
+      {
+        "word": "other",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 4.72,
+        "end": 4.96
+      },
+      {
+        "word": "groups?",
+        "start_offset": 62,
+        "end_offset": 72,
+        "start": 4.96,
+        "end": 5.76
+      },
+      {
+        "word": "I",
+        "start_offset": 159,
+        "end_offset": 163,
+        "start": 12.72,
+        "end": 13.040000000000001
+      },
+      {
+        "word": "have",
+        "start_offset": 174,
+        "end_offset": 177,
+        "start": 13.92,
+        "end": 14.16
+      },
+      {
+        "word": "rock.",
+        "start_offset": 191,
+        "end_offset": 199,
+        "start": 15.280000000000001,
+        "end": 15.92
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 228,
+        "end_offset": 234,
+        "start": 18.240000000000002,
+        "end": 18.72
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "045-05.mp3",
+    "audio_duration": 19.54,
+    "transcription_time": 0.09,
+    "rtfx": 223.26,
+    "timestamp": "2026-01-06T21:51:23.303490+00:00"
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "text": "Now, in second density the concept of bisexual reproduction first originates. Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Now, in second density the concept of bisexual reproduction first originates.",
+        "start_offset": 0,
+        "end_offset": 77,
+        "start": 2.262,
+        "end": 18.294
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 78,
+        "end_offset": 94,
+        "start": 18.614,
+        "end": 19.315
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 95,
+        "end_offset": 103,
+        "start": 25.579,
+        "end": 27.521
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 104,
+        "end_offset": 120,
+        "start": 29.142,
+        "end": 32.284
+      }
+    ],
+    "word": [
+      {
+        "word": "Now,",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.262,
+        "end": 2.462,
+        "score": -1.6936
+      },
+      {
+        "word": "in",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 6.625,
+        "end": 6.725,
+        "score": -0.8935
+      },
+      {
+        "word": "second",
+        "start_offset": 8,
+        "end_offset": 14,
+        "start": 6.885,
+        "end": 7.265,
+        "score": -1.0581
+      },
+      {
+        "word": "density",
+        "start_offset": 15,
+        "end_offset": 22,
+        "start": 7.326,
+        "end": 7.826,
+        "score": -0.9408
+      },
+      {
+        "word": "the",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 8.466,
+        "end": 8.606,
+        "score": -1.8528
+      },
+      {
+        "word": "concept",
+        "start_offset": 27,
+        "end_offset": 34,
+        "start": 11.929,
+        "end": 12.61,
+        "score": -0.7912
+      },
+      {
+        "word": "of",
+        "start_offset": 35,
+        "end_offset": 37,
+        "start": 13.09,
+        "end": 13.31,
+        "score": -0.7311
+      },
+      {
+        "word": "bisexual",
+        "start_offset": 38,
+        "end_offset": 46,
+        "start": 14.071,
+        "end": 14.951,
+        "score": -1.9646
+      },
+      {
+        "word": "reproduction",
+        "start_offset": 47,
+        "end_offset": 59,
+        "start": 15.051,
+        "end": 15.832,
+        "score": -0.7158
+      },
+      {
+        "word": "first",
+        "start_offset": 60,
+        "end_offset": 65,
+        "start": 17.233,
+        "end": 17.513,
+        "score": -0.7674
+      },
+      {
+        "word": "originates.",
+        "start_offset": 66,
+        "end_offset": 77,
+        "start": 17.593,
+        "end": 18.294,
+        "score": -0.7212
+      },
+      {
+        "word": "Is",
+        "start_offset": 78,
+        "end_offset": 80,
+        "start": 18.614,
+        "end": 18.694,
+        "score": -0.7717
+      },
+      {
+        "word": "this",
+        "start_offset": 81,
+        "end_offset": 85,
+        "start": 18.734,
+        "end": 18.874,
+        "score": -0.759
+      },
+      {
+        "word": "correct?",
+        "start_offset": 86,
+        "end_offset": 94,
+        "start": 18.934,
+        "end": 19.315,
+        "score": -0.8263
+      },
+      {
+        "word": "I",
+        "start_offset": 95,
+        "end_offset": 96,
+        "start": 25.579,
+        "end": 25.599,
+        "score": -1.1377
+      },
+      {
+        "word": "am",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 26.36,
+        "end": 26.72,
+        "score": -1.8139
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 100,
+        "end_offset": 103,
+        "start": 27.401,
+        "end": 27.521,
+        "score": -1.2026
+      },
+      {
+        "word": "This",
+        "start_offset": 104,
+        "end_offset": 108,
+        "start": 29.142,
+        "end": 29.522,
+        "score": -0.8823
+      },
+      {
+        "word": "is",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 30.303,
+        "end": 30.643,
+        "score": -0.8227
+      },
+      {
+        "word": "correct.",
+        "start_offset": 112,
+        "end_offset": 120,
+        "start": 31.444,
+        "end": 32.284,
+        "score": -0.9182
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "030-09.mp3",
+    "audio_duration": 33.0449,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

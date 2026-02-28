@@ -1,0 +1,164 @@
+{
+  "text": "Was the instrument under attack just prior to this session? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Was the instrument under attack just prior to this session?",
+        "start_offset": 0,
+        "end_offset": 59,
+        "start": 1.941,
+        "end": 8.784
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 60,
+        "end_offset": 68,
+        "start": 12.826,
+        "end": 15.147
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 69,
+        "end_offset": 85,
+        "start": 16.747,
+        "end": 20.849
+      }
+    ],
+    "word": [
+      {
+        "word": "Was",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 1.941,
+        "end": 2.081,
+        "score": -0.8043
+      },
+      {
+        "word": "the",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 2.121,
+        "end": 2.201,
+        "score": -0.8208
+      },
+      {
+        "word": "instrument",
+        "start_offset": 8,
+        "end_offset": 18,
+        "start": 2.281,
+        "end": 2.701,
+        "score": -1.0288
+      },
+      {
+        "word": "under",
+        "start_offset": 19,
+        "end_offset": 24,
+        "start": 2.741,
+        "end": 3.081,
+        "score": -1.0615
+      },
+      {
+        "word": "attack",
+        "start_offset": 25,
+        "end_offset": 31,
+        "start": 4.402,
+        "end": 4.842,
+        "score": -0.9553
+      },
+      {
+        "word": "just",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 5.843,
+        "end": 6.063,
+        "score": -0.9174
+      },
+      {
+        "word": "prior",
+        "start_offset": 37,
+        "end_offset": 42,
+        "start": 6.123,
+        "end": 6.443,
+        "score": -1.0915
+      },
+      {
+        "word": "to",
+        "start_offset": 43,
+        "end_offset": 45,
+        "start": 6.543,
+        "end": 6.663,
+        "score": -0.8879
+      },
+      {
+        "word": "this",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 8.164,
+        "end": 8.344,
+        "score": -1.1719
+      },
+      {
+        "word": "session?",
+        "start_offset": 51,
+        "end_offset": 59,
+        "start": 8.424,
+        "end": 8.784,
+        "score": -0.7653
+      },
+      {
+        "word": "I",
+        "start_offset": 60,
+        "end_offset": 61,
+        "start": 12.826,
+        "end": 12.846,
+        "score": -2.428
+      },
+      {
+        "word": "am",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 13.566,
+        "end": 13.846,
+        "score": -4.1334
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 15.007,
+        "end": 15.147,
+        "score": -5.0859
+      },
+      {
+        "word": "This",
+        "start_offset": 69,
+        "end_offset": 73,
+        "start": 16.747,
+        "end": 17.207,
+        "score": -1.5415
+      },
+      {
+        "word": "is",
+        "start_offset": 74,
+        "end_offset": 76,
+        "start": 18.268,
+        "end": 18.608,
+        "score": -0.9386
+      },
+      {
+        "word": "correct.",
+        "start_offset": 77,
+        "end_offset": 85,
+        "start": 19.769,
+        "end": 20.849,
+        "score": -1.7235
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "077-02.mp3",
+    "audio_duration": 31.0335,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

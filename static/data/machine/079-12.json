@@ -1,0 +1,261 @@
+{
+  "text": "Then from that statement I also assume that many other tools were conceived and used after the first tool of the so-called veil. Is this correct? I am there have been refinement.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then from that statement I also assume that many other tools were conceived and used after the first tool of the so-called veil.",
+        "start_offset": 23,
+        "end_offset": 176,
+        "start": 1.84,
+        "end": 14.08
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 178,
+        "end_offset": 193,
+        "start": 14.24,
+        "end": 15.44
+      },
+      {
+        "segment": "I am there have been refinement.",
+        "start_offset": 224,
+        "end_offset": 346,
+        "start": 17.92,
+        "end": 27.68
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 23,
+        "end_offset": 28,
+        "start": 1.84,
+        "end": 2.24
+      },
+      {
+        "word": "from",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 2.48,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "that",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 2.8000000000000003,
+        "end": 3.12
+      },
+      {
+        "word": "statement",
+        "start_offset": 39,
+        "end_offset": 44,
+        "start": 3.12,
+        "end": 3.52
+      },
+      {
+        "word": "I",
+        "start_offset": 45,
+        "end_offset": 49,
+        "start": 3.6,
+        "end": 3.92
+      },
+      {
+        "word": "also",
+        "start_offset": 49,
+        "end_offset": 53,
+        "start": 3.92,
+        "end": 4.24
+      },
+      {
+        "word": "assume",
+        "start_offset": 53,
+        "end_offset": 61,
+        "start": 4.24,
+        "end": 4.88
+      },
+      {
+        "word": "that",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 5.44,
+        "end": 5.76
+      },
+      {
+        "word": "many",
+        "start_offset": 72,
+        "end_offset": 80,
+        "start": 5.76,
+        "end": 6.4
+      },
+      {
+        "word": "other",
+        "start_offset": 88,
+        "end_offset": 92,
+        "start": 7.04,
+        "end": 7.36
+      },
+      {
+        "word": "tools",
+        "start_offset": 92,
+        "end_offset": 101,
+        "start": 7.36,
+        "end": 8.08
+      },
+      {
+        "word": "were",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 8.64,
+        "end": 8.96
+      },
+      {
+        "word": "conceived",
+        "start_offset": 115,
+        "end_offset": 125,
+        "start": 9.200000000000001,
+        "end": 10.0
+      },
+      {
+        "word": "and",
+        "start_offset": 125,
+        "end_offset": 129,
+        "start": 10.0,
+        "end": 10.32
+      },
+      {
+        "word": "used",
+        "start_offset": 129,
+        "end_offset": 137,
+        "start": 10.32,
+        "end": 10.96
+      },
+      {
+        "word": "after",
+        "start_offset": 141,
+        "end_offset": 149,
+        "start": 11.28,
+        "end": 11.92
+      },
+      {
+        "word": "the",
+        "start_offset": 149,
+        "end_offset": 153,
+        "start": 11.92,
+        "end": 12.24
+      },
+      {
+        "word": "first",
+        "start_offset": 153,
+        "end_offset": 156,
+        "start": 12.24,
+        "end": 12.48
+      },
+      {
+        "word": "tool",
+        "start_offset": 156,
+        "end_offset": 160,
+        "start": 12.48,
+        "end": 12.8
+      },
+      {
+        "word": "of",
+        "start_offset": 160,
+        "end_offset": 162,
+        "start": 12.8,
+        "end": 12.96
+      },
+      {
+        "word": "the",
+        "start_offset": 162,
+        "end_offset": 164,
+        "start": 12.96,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "so-called",
+        "start_offset": 164,
+        "end_offset": 171,
+        "start": 13.120000000000001,
+        "end": 13.68
+      },
+      {
+        "word": "veil.",
+        "start_offset": 171,
+        "end_offset": 176,
+        "start": 13.68,
+        "end": 14.08
+      },
+      {
+        "word": "Is",
+        "start_offset": 178,
+        "end_offset": 180,
+        "start": 14.24,
+        "end": 14.4
+      },
+      {
+        "word": "this",
+        "start_offset": 180,
+        "end_offset": 183,
+        "start": 14.4,
+        "end": 14.64
+      },
+      {
+        "word": "correct?",
+        "start_offset": 183,
+        "end_offset": 193,
+        "start": 14.64,
+        "end": 15.44
+      },
+      {
+        "word": "I",
+        "start_offset": 224,
+        "end_offset": 228,
+        "start": 17.92,
+        "end": 18.240000000000002
+      },
+      {
+        "word": "am",
+        "start_offset": 238,
+        "end_offset": 241,
+        "start": 19.04,
+        "end": 19.28
+      },
+      {
+        "word": "there",
+        "start_offset": 283,
+        "end_offset": 287,
+        "start": 22.64,
+        "end": 22.96
+      },
+      {
+        "word": "have",
+        "start_offset": 299,
+        "end_offset": 303,
+        "start": 23.92,
+        "end": 24.240000000000002
+      },
+      {
+        "word": "been",
+        "start_offset": 311,
+        "end_offset": 315,
+        "start": 24.88,
+        "end": 25.2
+      },
+      {
+        "word": "refinement.",
+        "start_offset": 334,
+        "end_offset": 346,
+        "start": 26.72,
+        "end": 27.68
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "079-12.mp3",
+    "audio_duration": 40.05,
+    "transcription_time": 0.1,
+    "rtfx": 381.41,
+    "timestamp": "2026-01-06T21:56:31.254349+00:00"
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "text": "Um can you tell me something of the little growth on Kandop's leg that caused it and uh if it is dangerous to me. I am wrong the cause of such growths has been previously discussed the danger to the physical body complex is slight given the lack of repeated stimulus to anger.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Um can you tell me something of the little growth on Kandop's leg that caused it and uh if it is dangerous to me.",
+        "start_offset": 4,
+        "end_offset": 143,
+        "start": 0.32,
+        "end": 11.44
+      },
+      {
+        "segment": "I am wrong the cause of such growths has been previously discussed the danger to the physical body complex is slight given the lack of repeated stimulus to anger.",
+        "start_offset": 234,
+        "end_offset": 929,
+        "start": 18.72,
+        "end": 74.32000000000001
+      }
+    ],
+    "word": [
+      {
+        "word": "Um",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 0.32,
+        "end": 0.64
+      },
+      {
+        "word": "can",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 2.16,
+        "end": 2.48
+      },
+      {
+        "word": "you",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 2.72,
+        "end": 3.04
+      },
+      {
+        "word": "tell",
+        "start_offset": 38,
+        "end_offset": 43,
+        "start": 3.04,
+        "end": 3.44
+      },
+      {
+        "word": "me",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 3.44,
+        "end": 3.68
+      },
+      {
+        "word": "something",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 3.68,
+        "end": 4.0
+      },
+      {
+        "word": "of",
+        "start_offset": 50,
+        "end_offset": 53,
+        "start": 4.0,
+        "end": 4.24
+      },
+      {
+        "word": "the",
+        "start_offset": 53,
+        "end_offset": 56,
+        "start": 4.24,
+        "end": 4.48
+      },
+      {
+        "word": "little",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 4.48,
+        "end": 4.8
+      },
+      {
+        "word": "growth",
+        "start_offset": 60,
+        "end_offset": 66,
+        "start": 4.8,
+        "end": 5.28
+      },
+      {
+        "word": "on",
+        "start_offset": 66,
+        "end_offset": 70,
+        "start": 5.28,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "Kandop's",
+        "start_offset": 70,
+        "end_offset": 84,
+        "start": 5.6000000000000005,
+        "end": 6.72
+      },
+      {
+        "word": "leg",
+        "start_offset": 84,
+        "end_offset": 87,
+        "start": 6.72,
+        "end": 6.96
+      },
+      {
+        "word": "that",
+        "start_offset": 89,
+        "end_offset": 93,
+        "start": 7.12,
+        "end": 7.44
+      },
+      {
+        "word": "caused",
+        "start_offset": 93,
+        "end_offset": 98,
+        "start": 7.44,
+        "end": 7.84
+      },
+      {
+        "word": "it",
+        "start_offset": 98,
+        "end_offset": 100,
+        "start": 7.84,
+        "end": 8.0
+      },
+      {
+        "word": "and",
+        "start_offset": 101,
+        "end_offset": 103,
+        "start": 8.08,
+        "end": 8.24
+      },
+      {
+        "word": "uh",
+        "start_offset": 104,
+        "end_offset": 107,
+        "start": 8.32,
+        "end": 8.56
+      },
+      {
+        "word": "if",
+        "start_offset": 111,
+        "end_offset": 115,
+        "start": 8.88,
+        "end": 9.200000000000001
+      },
+      {
+        "word": "it",
+        "start_offset": 117,
+        "end_offset": 121,
+        "start": 9.36,
+        "end": 9.68
+      },
+      {
+        "word": "is",
+        "start_offset": 121,
+        "end_offset": 125,
+        "start": 9.68,
+        "end": 10.0
+      },
+      {
+        "word": "dangerous",
+        "start_offset": 128,
+        "end_offset": 135,
+        "start": 10.24,
+        "end": 10.8
+      },
+      {
+        "word": "to",
+        "start_offset": 135,
+        "end_offset": 139,
+        "start": 10.8,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "me.",
+        "start_offset": 139,
+        "end_offset": 143,
+        "start": 11.120000000000001,
+        "end": 11.44
+      },
+      {
+        "word": "I",
+        "start_offset": 234,
+        "end_offset": 238,
+        "start": 18.72,
+        "end": 19.04
+      },
+      {
+        "word": "am",
+        "start_offset": 242,
+        "end_offset": 246,
+        "start": 19.36,
+        "end": 19.68
+      },
+      {
+        "word": "wrong",
+        "start_offset": 260,
+        "end_offset": 266,
+        "start": 20.8,
+        "end": 21.28
+      },
+      {
+        "word": "the",
+        "start_offset": 304,
+        "end_offset": 308,
+        "start": 24.32,
+        "end": 24.64
+      },
+      {
+        "word": "cause",
+        "start_offset": 324,
+        "end_offset": 336,
+        "start": 25.92,
+        "end": 26.88
+      },
+      {
+        "word": "of",
+        "start_offset": 352,
+        "end_offset": 356,
+        "start": 28.16,
+        "end": 28.48
+      },
+      {
+        "word": "such",
+        "start_offset": 368,
+        "end_offset": 376,
+        "start": 29.44,
+        "end": 30.080000000000002
+      },
+      {
+        "word": "growths",
+        "start_offset": 393,
+        "end_offset": 408,
+        "start": 31.44,
+        "end": 32.64
+      },
+      {
+        "word": "has",
+        "start_offset": 420,
+        "end_offset": 424,
+        "start": 33.6,
+        "end": 33.92
+      },
+      {
+        "word": "been",
+        "start_offset": 432,
+        "end_offset": 436,
+        "start": 34.56,
+        "end": 34.88
+      },
+      {
+        "word": "previously",
+        "start_offset": 448,
+        "end_offset": 467,
+        "start": 35.84,
+        "end": 37.36
+      },
+      {
+        "word": "discussed",
+        "start_offset": 483,
+        "end_offset": 495,
+        "start": 38.64,
+        "end": 39.6
+      },
+      {
+        "word": "the",
+        "start_offset": 531,
+        "end_offset": 533,
+        "start": 42.480000000000004,
+        "end": 42.64
+      },
+      {
+        "word": "danger",
+        "start_offset": 555,
+        "end_offset": 566,
+        "start": 44.4,
+        "end": 45.28
+      },
+      {
+        "word": "to",
+        "start_offset": 593,
+        "end_offset": 597,
+        "start": 47.44,
+        "end": 47.76
+      },
+      {
+        "word": "the",
+        "start_offset": 605,
+        "end_offset": 609,
+        "start": 48.4,
+        "end": 48.72
+      },
+      {
+        "word": "physical",
+        "start_offset": 624,
+        "end_offset": 636,
+        "start": 49.92,
+        "end": 50.88
+      },
+      {
+        "word": "body",
+        "start_offset": 654,
+        "end_offset": 662,
+        "start": 52.32,
+        "end": 52.96
+      },
+      {
+        "word": "complex",
+        "start_offset": 671,
+        "end_offset": 679,
+        "start": 53.68,
+        "end": 54.32
+      },
+      {
+        "word": "is",
+        "start_offset": 705,
+        "end_offset": 709,
+        "start": 56.4,
+        "end": 56.72
+      },
+      {
+        "word": "slight",
+        "start_offset": 733,
+        "end_offset": 744,
+        "start": 58.64,
+        "end": 59.52
+      },
+      {
+        "word": "given",
+        "start_offset": 761,
+        "end_offset": 772,
+        "start": 60.88,
+        "end": 61.76
+      },
+      {
+        "word": "the",
+        "start_offset": 784,
+        "end_offset": 788,
+        "start": 62.72,
+        "end": 63.04
+      },
+      {
+        "word": "lack",
+        "start_offset": 800,
+        "end_offset": 808,
+        "start": 64.0,
+        "end": 64.64
+      },
+      {
+        "word": "of",
+        "start_offset": 820,
+        "end_offset": 824,
+        "start": 65.6,
+        "end": 65.92
+      },
+      {
+        "word": "repeated",
+        "start_offset": 836,
+        "end_offset": 848,
+        "start": 66.88,
+        "end": 67.84
+      },
+      {
+        "word": "stimulus",
+        "start_offset": 864,
+        "end_offset": 881,
+        "start": 69.12,
+        "end": 70.48
+      },
+      {
+        "word": "to",
+        "start_offset": 901,
+        "end_offset": 905,
+        "start": 72.08,
+        "end": 72.4
+      },
+      {
+        "word": "anger.",
+        "start_offset": 921,
+        "end_offset": 929,
+        "start": 73.68,
+        "end": 74.32000000000001
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "046-05.mp3",
+    "audio_duration": 83.04,
+    "transcription_time": 0.15,
+    "rtfx": 564.07,
+    "timestamp": "2026-01-06T21:51:26.764840+00:00"
+  }
+}

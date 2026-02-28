@@ -1,0 +1,442 @@
+{
+  "text": "Could we please first have an indication of the instrument's condition? I am Ra. This instrument scans at present at extremely low physical energy and is under attack. This will continue for some of your weeks. However, the vital energy of this instrument is gradually restoring its former level.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could we please first have an indication of the instrument's condition?",
+        "start_offset": 0,
+        "end_offset": 71,
+        "start": 1.56,
+        "end": 20.824
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 72,
+        "end_offset": 80,
+        "start": 20.884,
+        "end": 21.684
+      },
+      {
+        "segment": "This instrument scans at present at extremely low physical energy and is under attack.",
+        "start_offset": 81,
+        "end_offset": 167,
+        "start": 24.684,
+        "end": 50.689
+      },
+      {
+        "segment": "This will continue for some of your weeks.",
+        "start_offset": 168,
+        "end_offset": 210,
+        "start": 54.87,
+        "end": 65.132
+      },
+      {
+        "segment": "However, the vital energy of this instrument is gradually restoring its former level.",
+        "start_offset": 211,
+        "end_offset": 296,
+        "start": 68.572,
+        "end": 94.817
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 1.56,
+        "end": 1.68,
+        "score": -6.7561
+      },
+      {
+        "word": "we",
+        "start_offset": 6,
+        "end_offset": 8,
+        "start": 1.72,
+        "end": 1.78,
+        "score": -1.6028
+      },
+      {
+        "word": "please",
+        "start_offset": 9,
+        "end_offset": 15,
+        "start": 1.88,
+        "end": 2.2,
+        "score": -3.4858
+      },
+      {
+        "word": "first",
+        "start_offset": 16,
+        "end_offset": 21,
+        "start": 2.24,
+        "end": 2.52,
+        "score": -2.5204
+      },
+      {
+        "word": "have",
+        "start_offset": 22,
+        "end_offset": 26,
+        "start": 2.58,
+        "end": 2.901,
+        "score": -3.6474
+      },
+      {
+        "word": "an",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 4.401,
+        "end": 4.601,
+        "score": -6.1057
+      },
+      {
+        "word": "indication",
+        "start_offset": 30,
+        "end_offset": 40,
+        "start": 5.181,
+        "end": 5.741,
+        "score": -4.8264
+      },
+      {
+        "word": "of",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 5.881,
+        "end": 5.981,
+        "score": -5.7362
+      },
+      {
+        "word": "the",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 6.061,
+        "end": 6.161,
+        "score": -5.5131
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 48,
+        "end_offset": 60,
+        "start": 6.261,
+        "end": 6.781,
+        "score": -7.4173
+      },
+      {
+        "word": "condition?",
+        "start_offset": 61,
+        "end_offset": 71,
+        "start": 6.841,
+        "end": 20.824,
+        "score": -5.1813
+      },
+      {
+        "word": "I",
+        "start_offset": 72,
+        "end_offset": 73,
+        "start": 20.884,
+        "end": 20.904,
+        "score": -8.4314
+      },
+      {
+        "word": "am",
+        "start_offset": 74,
+        "end_offset": 76,
+        "start": 21.484,
+        "end": 21.524,
+        "score": -3.9455
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 77,
+        "end_offset": 80,
+        "start": 21.604,
+        "end": 21.684,
+        "score": -1.5829
+      },
+      {
+        "word": "This",
+        "start_offset": 81,
+        "end_offset": 85,
+        "start": 24.684,
+        "end": 25.104,
+        "score": -0.7729
+      },
+      {
+        "word": "instrument",
+        "start_offset": 86,
+        "end_offset": 96,
+        "start": 26.085,
+        "end": 27.225,
+        "score": -0.7229
+      },
+      {
+        "word": "scans",
+        "start_offset": 97,
+        "end_offset": 102,
+        "start": 29.545,
+        "end": 30.285,
+        "score": -0.8376
+      },
+      {
+        "word": "at",
+        "start_offset": 103,
+        "end_offset": 105,
+        "start": 31.926,
+        "end": 32.186,
+        "score": -0.8845
+      },
+      {
+        "word": "present",
+        "start_offset": 106,
+        "end_offset": 113,
+        "start": 32.546,
+        "end": 33.166,
+        "score": -0.8767
+      },
+      {
+        "word": "at",
+        "start_offset": 114,
+        "end_offset": 116,
+        "start": 35.446,
+        "end": 35.726,
+        "score": -0.7226
+      },
+      {
+        "word": "extremely",
+        "start_offset": 117,
+        "end_offset": 126,
+        "start": 36.607,
+        "end": 37.447,
+        "score": -0.7179
+      },
+      {
+        "word": "low",
+        "start_offset": 127,
+        "end_offset": 130,
+        "start": 38.427,
+        "end": 38.647,
+        "score": -1.1196
+      },
+      {
+        "word": "physical",
+        "start_offset": 131,
+        "end_offset": 139,
+        "start": 40.167,
+        "end": 40.807,
+        "score": -0.7513
+      },
+      {
+        "word": "energy",
+        "start_offset": 140,
+        "end_offset": 146,
+        "start": 42.488,
+        "end": 43.068,
+        "score": -0.7254
+      },
+      {
+        "word": "and",
+        "start_offset": 147,
+        "end_offset": 150,
+        "start": 45.328,
+        "end": 45.708,
+        "score": -0.9275
+      },
+      {
+        "word": "is",
+        "start_offset": 151,
+        "end_offset": 153,
+        "start": 46.508,
+        "end": 46.868,
+        "score": -0.8985
+      },
+      {
+        "word": "under",
+        "start_offset": 154,
+        "end_offset": 159,
+        "start": 48.129,
+        "end": 48.589,
+        "score": -0.7127
+      },
+      {
+        "word": "attack.",
+        "start_offset": 160,
+        "end_offset": 167,
+        "start": 50.089,
+        "end": 50.689,
+        "score": -1.2929
+      },
+      {
+        "word": "This",
+        "start_offset": 168,
+        "end_offset": 172,
+        "start": 54.87,
+        "end": 55.27,
+        "score": -0.7643
+      },
+      {
+        "word": "will",
+        "start_offset": 173,
+        "end_offset": 177,
+        "start": 56.33,
+        "end": 56.63,
+        "score": -0.7542
+      },
+      {
+        "word": "continue",
+        "start_offset": 178,
+        "end_offset": 186,
+        "start": 57.81,
+        "end": 58.931,
+        "score": -0.8225
+      },
+      {
+        "word": "for",
+        "start_offset": 187,
+        "end_offset": 190,
+        "start": 60.751,
+        "end": 61.151,
+        "score": -0.7355
+      },
+      {
+        "word": "some",
+        "start_offset": 191,
+        "end_offset": 195,
+        "start": 62.631,
+        "end": 62.991,
+        "score": -0.7023
+      },
+      {
+        "word": "of",
+        "start_offset": 196,
+        "end_offset": 198,
+        "start": 63.611,
+        "end": 63.931,
+        "score": -0.7033
+      },
+      {
+        "word": "your",
+        "start_offset": 199,
+        "end_offset": 203,
+        "start": 64.051,
+        "end": 64.292,
+        "score": -1.2113
+      },
+      {
+        "word": "weeks.",
+        "start_offset": 204,
+        "end_offset": 210,
+        "start": 64.632,
+        "end": 65.132,
+        "score": -0.7481
+      },
+      {
+        "word": "However,",
+        "start_offset": 211,
+        "end_offset": 219,
+        "start": 68.572,
+        "end": 69.853,
+        "score": -0.7104
+      },
+      {
+        "word": "the",
+        "start_offset": 220,
+        "end_offset": 223,
+        "start": 71.913,
+        "end": 72.033,
+        "score": -0.7654
+      },
+      {
+        "word": "vital",
+        "start_offset": 224,
+        "end_offset": 229,
+        "start": 72.773,
+        "end": 73.273,
+        "score": -0.739
+      },
+      {
+        "word": "energy",
+        "start_offset": 230,
+        "end_offset": 236,
+        "start": 74.353,
+        "end": 74.973,
+        "score": -0.7146
+      },
+      {
+        "word": "of",
+        "start_offset": 237,
+        "end_offset": 239,
+        "start": 76.834,
+        "end": 77.174,
+        "score": -0.7003
+      },
+      {
+        "word": "this",
+        "start_offset": 240,
+        "end_offset": 244,
+        "start": 77.554,
+        "end": 77.994,
+        "score": -0.7704
+      },
+      {
+        "word": "instrument",
+        "start_offset": 245,
+        "end_offset": 255,
+        "start": 78.654,
+        "end": 79.874,
+        "score": -0.7096
+      },
+      {
+        "word": "is",
+        "start_offset": 256,
+        "end_offset": 258,
+        "start": 81.875,
+        "end": 82.255,
+        "score": -0.7259
+      },
+      {
+        "word": "gradually",
+        "start_offset": 259,
+        "end_offset": 268,
+        "start": 83.735,
+        "end": 85.075,
+        "score": -1.011
+      },
+      {
+        "word": "restoring",
+        "start_offset": 269,
+        "end_offset": 278,
+        "start": 87.056,
+        "end": 88.376,
+        "score": -0.8024
+      },
+      {
+        "word": "its",
+        "start_offset": 279,
+        "end_offset": 282,
+        "start": 90.376,
+        "end": 90.696,
+        "score": -0.7689
+      },
+      {
+        "word": "former",
+        "start_offset": 283,
+        "end_offset": 289,
+        "start": 92.297,
+        "end": 92.877,
+        "score": -0.7751
+      },
+      {
+        "word": "level.",
+        "start_offset": 290,
+        "end_offset": 296,
+        "start": 94.397,
+        "end": 94.817,
+        "score": -0.7198
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "046-01.mp3",
+    "audio_duration": 98.0376,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

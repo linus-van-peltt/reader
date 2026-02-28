@@ -1,0 +1,363 @@
+{
+  "text": "Could we administer the drops you spoke of that would help his eyesight so that he wouldn't find the… so that he wouldn't be confined? Is there any way that we could do that? I am Ra. It is unlikely.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could we administer the drops you spoke of that would help his eyesight so that he wouldn't find the… so that he wouldn't be confined?",
+        "start_offset": 0,
+        "end_offset": 134,
+        "start": 2.48,
+        "end": 15.423
+      },
+      {
+        "segment": "Is there any way that we could do that?",
+        "start_offset": 135,
+        "end_offset": 174,
+        "start": 16.783,
+        "end": 18.383
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 175,
+        "end_offset": 183,
+        "start": 22.304,
+        "end": 25.164
+      },
+      {
+        "segment": "It is unlikely.",
+        "start_offset": 184,
+        "end_offset": 199,
+        "start": 31.666,
+        "end": 35.786
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.48,
+        "end": 2.7,
+        "score": -1.9054
+      },
+      {
+        "word": "we",
+        "start_offset": 6,
+        "end_offset": 8,
+        "start": 4.521,
+        "end": 4.621,
+        "score": -0.7316
+      },
+      {
+        "word": "administer",
+        "start_offset": 9,
+        "end_offset": 19,
+        "start": 4.721,
+        "end": 5.241,
+        "score": -0.7302
+      },
+      {
+        "word": "the",
+        "start_offset": 20,
+        "end_offset": 23,
+        "start": 5.321,
+        "end": 5.401,
+        "score": -0.7961
+      },
+      {
+        "word": "drops",
+        "start_offset": 24,
+        "end_offset": 29,
+        "start": 5.441,
+        "end": 5.821,
+        "score": -0.8441
+      },
+      {
+        "word": "you",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 5.861,
+        "end": 5.941,
+        "score": -2.5905
+      },
+      {
+        "word": "spoke",
+        "start_offset": 34,
+        "end_offset": 39,
+        "start": 6.001,
+        "end": 6.361,
+        "score": -0.7121
+      },
+      {
+        "word": "of",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 6.441,
+        "end": 6.581,
+        "score": -0.9589
+      },
+      {
+        "word": "that",
+        "start_offset": 43,
+        "end_offset": 47,
+        "start": 6.841,
+        "end": 7.041,
+        "score": -0.7439
+      },
+      {
+        "word": "would",
+        "start_offset": 48,
+        "end_offset": 53,
+        "start": 7.121,
+        "end": 7.261,
+        "score": -1.5417
+      },
+      {
+        "word": "help",
+        "start_offset": 54,
+        "end_offset": 58,
+        "start": 7.321,
+        "end": 7.521,
+        "score": -1.0482
+      },
+      {
+        "word": "his",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 7.541,
+        "end": 7.661,
+        "score": -1.1942
+      },
+      {
+        "word": "eyesight",
+        "start_offset": 63,
+        "end_offset": 71,
+        "start": 7.881,
+        "end": 8.261,
+        "score": -3.2926
+      },
+      {
+        "word": "so",
+        "start_offset": 72,
+        "end_offset": 74,
+        "start": 8.502,
+        "end": 8.582,
+        "score": -0.7065
+      },
+      {
+        "word": "that",
+        "start_offset": 75,
+        "end_offset": 79,
+        "start": 8.662,
+        "end": 8.822,
+        "score": -0.8208
+      },
+      {
+        "word": "he",
+        "start_offset": 80,
+        "end_offset": 82,
+        "start": 8.862,
+        "end": 8.902,
+        "score": -0.7199
+      },
+      {
+        "word": "wouldn't",
+        "start_offset": 83,
+        "end_offset": 91,
+        "start": 8.982,
+        "end": 9.282,
+        "score": -0.7874
+      },
+      {
+        "word": "find",
+        "start_offset": 92,
+        "end_offset": 96,
+        "start": 11.142,
+        "end": 11.542,
+        "score": -1.2421
+      },
+      {
+        "word": "the…",
+        "start_offset": 97,
+        "end_offset": 101,
+        "start": 12.002,
+        "end": 12.182,
+        "score": -1.6353
+      },
+      {
+        "word": "so",
+        "start_offset": 102,
+        "end_offset": 104,
+        "start": 13.982,
+        "end": 14.083,
+        "score": -0.7215
+      },
+      {
+        "word": "that",
+        "start_offset": 105,
+        "end_offset": 109,
+        "start": 14.123,
+        "end": 14.223,
+        "score": -0.8987
+      },
+      {
+        "word": "he",
+        "start_offset": 110,
+        "end_offset": 112,
+        "start": 14.243,
+        "end": 14.303,
+        "score": -1.4436
+      },
+      {
+        "word": "wouldn't",
+        "start_offset": 113,
+        "end_offset": 121,
+        "start": 14.323,
+        "end": 14.523,
+        "score": -1.3078
+      },
+      {
+        "word": "be",
+        "start_offset": 122,
+        "end_offset": 124,
+        "start": 14.543,
+        "end": 14.603,
+        "score": -0.8292
+      },
+      {
+        "word": "confined?",
+        "start_offset": 125,
+        "end_offset": 134,
+        "start": 14.683,
+        "end": 15.423,
+        "score": -1.5725
+      },
+      {
+        "word": "Is",
+        "start_offset": 135,
+        "end_offset": 137,
+        "start": 16.783,
+        "end": 16.963,
+        "score": -0.9981
+      },
+      {
+        "word": "there",
+        "start_offset": 138,
+        "end_offset": 143,
+        "start": 17.003,
+        "end": 17.183,
+        "score": -5.3399
+      },
+      {
+        "word": "any",
+        "start_offset": 144,
+        "end_offset": 147,
+        "start": 17.303,
+        "end": 17.503,
+        "score": -1.9741
+      },
+      {
+        "word": "way",
+        "start_offset": 148,
+        "end_offset": 151,
+        "start": 17.543,
+        "end": 17.663,
+        "score": -2.1947
+      },
+      {
+        "word": "that",
+        "start_offset": 152,
+        "end_offset": 156,
+        "start": 17.683,
+        "end": 17.863,
+        "score": -2.4562
+      },
+      {
+        "word": "we",
+        "start_offset": 157,
+        "end_offset": 159,
+        "start": 17.883,
+        "end": 17.943,
+        "score": -3.9108
+      },
+      {
+        "word": "could",
+        "start_offset": 160,
+        "end_offset": 165,
+        "start": 18.023,
+        "end": 18.183,
+        "score": -4.5614
+      },
+      {
+        "word": "do",
+        "start_offset": 166,
+        "end_offset": 168,
+        "start": 18.203,
+        "end": 18.263,
+        "score": -5.1543
+      },
+      {
+        "word": "that?",
+        "start_offset": 169,
+        "end_offset": 174,
+        "start": 18.283,
+        "end": 18.383,
+        "score": -5.2093
+      },
+      {
+        "word": "I",
+        "start_offset": 175,
+        "end_offset": 176,
+        "start": 22.304,
+        "end": 22.324,
+        "score": -1.0501
+      },
+      {
+        "word": "am",
+        "start_offset": 177,
+        "end_offset": 179,
+        "start": 23.524,
+        "end": 23.764,
+        "score": -5.3789
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 180,
+        "end_offset": 183,
+        "start": 25.064,
+        "end": 25.164,
+        "score": -2.9602
+      },
+      {
+        "word": "It",
+        "start_offset": 184,
+        "end_offset": 186,
+        "start": 31.666,
+        "end": 31.926,
+        "score": -1.3014
+      },
+      {
+        "word": "is",
+        "start_offset": 187,
+        "end_offset": 189,
+        "start": 32.666,
+        "end": 33.006,
+        "score": -0.7813
+      },
+      {
+        "word": "unlikely.",
+        "start_offset": 190,
+        "end_offset": 199,
+        "start": 34.526,
+        "end": 35.786,
+        "score": -0.8075
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "104-14.mp3",
+    "audio_duration": 39.0269,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

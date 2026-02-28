@@ -1,0 +1,149 @@
+{
+  "text": "Gipley's first ghost reading on the instruments condition. I am ra. It is as previously stated.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Gipley's first ghost reading on the instruments condition.",
+        "start_offset": 5,
+        "end_offset": 62,
+        "start": 0.4,
+        "end": 4.96
+      },
+      {
+        "segment": "I am ra.",
+        "start_offset": 142,
+        "end_offset": 180,
+        "start": 11.36,
+        "end": 14.4
+      },
+      {
+        "segment": "It is as previously stated.",
+        "start_offset": 224,
+        "end_offset": 321,
+        "start": 17.92,
+        "end": 25.68
+      }
+    ],
+    "word": [
+      {
+        "word": "Gipley's",
+        "start_offset": 5,
+        "end_offset": 14,
+        "start": 0.4,
+        "end": 1.12
+      },
+      {
+        "word": "first",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 1.2,
+        "end": 1.36
+      },
+      {
+        "word": "ghost",
+        "start_offset": 19,
+        "end_offset": 25,
+        "start": 1.52,
+        "end": 2.0
+      },
+      {
+        "word": "reading",
+        "start_offset": 35,
+        "end_offset": 41,
+        "start": 2.8000000000000003,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "on",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 3.2800000000000002,
+        "end": 3.44
+      },
+      {
+        "word": "the",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 3.44,
+        "end": 3.68
+      },
+      {
+        "word": "instruments",
+        "start_offset": 46,
+        "end_offset": 53,
+        "start": 3.68,
+        "end": 4.24
+      },
+      {
+        "word": "condition.",
+        "start_offset": 55,
+        "end_offset": 62,
+        "start": 4.4,
+        "end": 4.96
+      },
+      {
+        "word": "I",
+        "start_offset": 142,
+        "end_offset": 145,
+        "start": 11.36,
+        "end": 11.6
+      },
+      {
+        "word": "am",
+        "start_offset": 161,
+        "end_offset": 165,
+        "start": 12.88,
+        "end": 13.200000000000001
+      },
+      {
+        "word": "ra.",
+        "start_offset": 177,
+        "end_offset": 180,
+        "start": 14.16,
+        "end": 14.4
+      },
+      {
+        "word": "It",
+        "start_offset": 224,
+        "end_offset": 228,
+        "start": 17.92,
+        "end": 18.240000000000002
+      },
+      {
+        "word": "is",
+        "start_offset": 236,
+        "end_offset": 240,
+        "start": 18.88,
+        "end": 19.2
+      },
+      {
+        "word": "as",
+        "start_offset": 256,
+        "end_offset": 260,
+        "start": 20.48,
+        "end": 20.8
+      },
+      {
+        "word": "previously",
+        "start_offset": 288,
+        "end_offset": 305,
+        "start": 23.04,
+        "end": 24.400000000000002
+      },
+      {
+        "word": "stated.",
+        "start_offset": 309,
+        "end_offset": 321,
+        "start": 24.72,
+        "end": 25.68
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "049-01.mp3",
+    "audio_duration": 30.04,
+    "transcription_time": 0.09,
+    "rtfx": 329.47,
+    "timestamp": "2026-01-06T21:51:45.300177+00:00"
+  }
+}

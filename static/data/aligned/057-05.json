@@ -1,0 +1,212 @@
+{
+  "text": "Which crystal is that? I am Ra. The flawed but sufficient crystal which rests upon the digit of this instrument's right hand.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Which crystal is that?",
+        "start_offset": 0,
+        "end_offset": 22,
+        "start": 2.221,
+        "end": 10.543
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 23,
+        "end_offset": 31,
+        "start": 10.583,
+        "end": 11.743
+      },
+      {
+        "segment": "The flawed but sufficient crystal which rests upon the digit of this instrument's right hand.",
+        "start_offset": 32,
+        "end_offset": 125,
+        "start": 13.904,
+        "end": 41.411
+      }
+    ],
+    "word": [
+      {
+        "word": "Which",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.221,
+        "end": 2.421,
+        "score": -6.8881
+      },
+      {
+        "word": "crystal",
+        "start_offset": 6,
+        "end_offset": 13,
+        "start": 2.481,
+        "end": 9.082,
+        "score": -7.7036
+      },
+      {
+        "word": "is",
+        "start_offset": 14,
+        "end_offset": 16,
+        "start": 9.402,
+        "end": 9.442,
+        "score": -4.5443
+      },
+      {
+        "word": "that?",
+        "start_offset": 17,
+        "end_offset": 22,
+        "start": 10.223,
+        "end": 10.543,
+        "score": -6.4133
+      },
+      {
+        "word": "I",
+        "start_offset": 23,
+        "end_offset": 24,
+        "start": 10.583,
+        "end": 10.603,
+        "score": -6.4496
+      },
+      {
+        "word": "am",
+        "start_offset": 25,
+        "end_offset": 27,
+        "start": 10.703,
+        "end": 11.483,
+        "score": -4.5945
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 11.603,
+        "end": 11.743,
+        "score": -1.3119
+      },
+      {
+        "word": "The",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 13.904,
+        "end": 14.064,
+        "score": -1.0449
+      },
+      {
+        "word": "flawed",
+        "start_offset": 36,
+        "end_offset": 42,
+        "start": 15.604,
+        "end": 16.384,
+        "score": -2.6645
+      },
+      {
+        "word": "but",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 17.585,
+        "end": 18.005,
+        "score": -1.1747
+      },
+      {
+        "word": "sufficient",
+        "start_offset": 47,
+        "end_offset": 57,
+        "start": 19.025,
+        "end": 20.685,
+        "score": -1.7649
+      },
+      {
+        "word": "crystal",
+        "start_offset": 58,
+        "end_offset": 65,
+        "start": 21.726,
+        "end": 22.586,
+        "score": -1.4841
+      },
+      {
+        "word": "which",
+        "start_offset": 66,
+        "end_offset": 71,
+        "start": 23.766,
+        "end": 24.386,
+        "score": -0.8388
+      },
+      {
+        "word": "rests",
+        "start_offset": 72,
+        "end_offset": 77,
+        "start": 25.607,
+        "end": 26.287,
+        "score": -0.7893
+      },
+      {
+        "word": "upon",
+        "start_offset": 78,
+        "end_offset": 82,
+        "start": 27.787,
+        "end": 28.588,
+        "score": -1.9846
+      },
+      {
+        "word": "the",
+        "start_offset": 83,
+        "end_offset": 86,
+        "start": 30.008,
+        "end": 30.168,
+        "score": -1.0594
+      },
+      {
+        "word": "digit",
+        "start_offset": 87,
+        "end_offset": 92,
+        "start": 32.108,
+        "end": 32.709,
+        "score": -1.0529
+      },
+      {
+        "word": "of",
+        "start_offset": 93,
+        "end_offset": 95,
+        "start": 33.669,
+        "end": 34.049,
+        "score": -0.9139
+      },
+      {
+        "word": "this",
+        "start_offset": 96,
+        "end_offset": 100,
+        "start": 35.309,
+        "end": 35.769,
+        "score": -0.7483
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 101,
+        "end_offset": 113,
+        "start": 36.45,
+        "end": 38.03,
+        "score": -1.6328
+      },
+      {
+        "word": "right",
+        "start_offset": 114,
+        "end_offset": 119,
+        "start": 39.59,
+        "end": 40.051,
+        "score": -0.8897
+      },
+      {
+        "word": "hand.",
+        "start_offset": 120,
+        "end_offset": 125,
+        "start": 40.891,
+        "end": 41.411,
+        "score": -1.19
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "057-05.mp3",
+    "audio_duration": 42.0311,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

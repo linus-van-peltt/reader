@@ -1,0 +1,338 @@
+{
+  "text": "It's a small crystal at the instrument. Uses honor during any session of any benefit or detriment. Hi. Hen. This the crystal is a beneficial as long as he who has charged it is a functioning in a positively oriented manner.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "It's a small crystal at the instrument.",
+        "start_offset": 26,
+        "end_offset": 88,
+        "start": 2.08,
+        "end": 7.04
+      },
+      {
+        "segment": "Uses honor during any session of any benefit or detriment.",
+        "start_offset": 133,
+        "end_offset": 220,
+        "start": 10.64,
+        "end": 17.6
+      },
+      {
+        "segment": "Hi.",
+        "start_offset": 306,
+        "end_offset": 310,
+        "start": 24.48,
+        "end": 24.8
+      },
+      {
+        "segment": "Hen.",
+        "start_offset": 325,
+        "end_offset": 333,
+        "start": 26.0,
+        "end": 26.64
+      },
+      {
+        "segment": "This the crystal is a beneficial as long as he who has charged it is a functioning in a positively oriented manner.",
+        "start_offset": 389,
+        "end_offset": 762,
+        "start": 31.12,
+        "end": 60.96
+      }
+    ],
+    "word": [
+      {
+        "word": "It's",
+        "start_offset": 26,
+        "end_offset": 31,
+        "start": 2.08,
+        "end": 2.48
+      },
+      {
+        "word": "a",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 2.48,
+        "end": 2.64
+      },
+      {
+        "word": "small",
+        "start_offset": 33,
+        "end_offset": 38,
+        "start": 2.64,
+        "end": 3.04
+      },
+      {
+        "word": "crystal",
+        "start_offset": 38,
+        "end_offset": 50,
+        "start": 3.04,
+        "end": 4.0
+      },
+      {
+        "word": "at",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 5.6000000000000005,
+        "end": 5.84
+      },
+      {
+        "word": "the",
+        "start_offset": 73,
+        "end_offset": 77,
+        "start": 5.84,
+        "end": 6.16
+      },
+      {
+        "word": "instrument.",
+        "start_offset": 77,
+        "end_offset": 88,
+        "start": 6.16,
+        "end": 7.04
+      },
+      {
+        "word": "Uses",
+        "start_offset": 133,
+        "end_offset": 141,
+        "start": 10.64,
+        "end": 11.28
+      },
+      {
+        "word": "honor",
+        "start_offset": 172,
+        "end_offset": 177,
+        "start": 13.76,
+        "end": 14.16
+      },
+      {
+        "word": "during",
+        "start_offset": 179,
+        "end_offset": 183,
+        "start": 14.32,
+        "end": 14.64
+      },
+      {
+        "word": "any",
+        "start_offset": 183,
+        "end_offset": 187,
+        "start": 14.64,
+        "end": 14.96
+      },
+      {
+        "word": "session",
+        "start_offset": 187,
+        "end_offset": 193,
+        "start": 14.96,
+        "end": 15.44
+      },
+      {
+        "word": "of",
+        "start_offset": 193,
+        "end_offset": 196,
+        "start": 15.44,
+        "end": 15.68
+      },
+      {
+        "word": "any",
+        "start_offset": 196,
+        "end_offset": 199,
+        "start": 15.68,
+        "end": 15.92
+      },
+      {
+        "word": "benefit",
+        "start_offset": 199,
+        "end_offset": 206,
+        "start": 15.92,
+        "end": 16.48
+      },
+      {
+        "word": "or",
+        "start_offset": 206,
+        "end_offset": 209,
+        "start": 16.48,
+        "end": 16.72
+      },
+      {
+        "word": "detriment.",
+        "start_offset": 209,
+        "end_offset": 220,
+        "start": 16.72,
+        "end": 17.6
+      },
+      {
+        "word": "Hi.",
+        "start_offset": 306,
+        "end_offset": 310,
+        "start": 24.48,
+        "end": 24.8
+      },
+      {
+        "word": "Hen.",
+        "start_offset": 325,
+        "end_offset": 333,
+        "start": 26.0,
+        "end": 26.64
+      },
+      {
+        "word": "This",
+        "start_offset": 389,
+        "end_offset": 393,
+        "start": 31.12,
+        "end": 31.44
+      },
+      {
+        "word": "the",
+        "start_offset": 406,
+        "end_offset": 408,
+        "start": 32.480000000000004,
+        "end": 32.64
+      },
+      {
+        "word": "crystal",
+        "start_offset": 411,
+        "end_offset": 422,
+        "start": 32.88,
+        "end": 33.76
+      },
+      {
+        "word": "is",
+        "start_offset": 440,
+        "end_offset": 444,
+        "start": 35.2,
+        "end": 35.52
+      },
+      {
+        "word": "a",
+        "start_offset": 456,
+        "end_offset": 460,
+        "start": 36.480000000000004,
+        "end": 36.800000000000004
+      },
+      {
+        "word": "beneficial",
+        "start_offset": 460,
+        "end_offset": 476,
+        "start": 36.800000000000004,
+        "end": 38.08
+      },
+      {
+        "word": "as",
+        "start_offset": 494,
+        "end_offset": 498,
+        "start": 39.52,
+        "end": 39.84
+      },
+      {
+        "word": "long",
+        "start_offset": 502,
+        "end_offset": 506,
+        "start": 40.160000000000004,
+        "end": 40.480000000000004
+      },
+      {
+        "word": "as",
+        "start_offset": 514,
+        "end_offset": 518,
+        "start": 41.12,
+        "end": 41.44
+      },
+      {
+        "word": "he",
+        "start_offset": 542,
+        "end_offset": 546,
+        "start": 43.36,
+        "end": 43.68
+      },
+      {
+        "word": "who",
+        "start_offset": 554,
+        "end_offset": 558,
+        "start": 44.32,
+        "end": 44.64
+      },
+      {
+        "word": "has",
+        "start_offset": 566,
+        "end_offset": 570,
+        "start": 45.28,
+        "end": 45.6
+      },
+      {
+        "word": "charged",
+        "start_offset": 578,
+        "end_offset": 590,
+        "start": 46.24,
+        "end": 47.2
+      },
+      {
+        "word": "it",
+        "start_offset": 590,
+        "end_offset": 594,
+        "start": 47.2,
+        "end": 47.52
+      },
+      {
+        "word": "is",
+        "start_offset": 612,
+        "end_offset": 616,
+        "start": 48.96,
+        "end": 49.28
+      },
+      {
+        "word": "a",
+        "start_offset": 620,
+        "end_offset": 624,
+        "start": 49.6,
+        "end": 49.92
+      },
+      {
+        "word": "functioning",
+        "start_offset": 624,
+        "end_offset": 640,
+        "start": 49.92,
+        "end": 51.2
+      },
+      {
+        "word": "in",
+        "start_offset": 652,
+        "end_offset": 656,
+        "start": 52.160000000000004,
+        "end": 52.480000000000004
+      },
+      {
+        "word": "a",
+        "start_offset": 684,
+        "end_offset": 688,
+        "start": 54.72,
+        "end": 55.04
+      },
+      {
+        "word": "positively",
+        "start_offset": 698,
+        "end_offset": 714,
+        "start": 55.84,
+        "end": 57.120000000000005
+      },
+      {
+        "word": "oriented",
+        "start_offset": 726,
+        "end_offset": 738,
+        "start": 58.08,
+        "end": 59.04
+      },
+      {
+        "word": "manner.",
+        "start_offset": 754,
+        "end_offset": 762,
+        "start": 60.32,
+        "end": 60.96
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "088-07.mp3",
+    "audio_duration": 63.03,
+    "transcription_time": 0.13,
+    "rtfx": 498.74,
+    "timestamp": "2026-01-06T21:58:06.796886+00:00"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "text": "Do they have any of their craft in our area that wild? There was no craft. There was a thought form.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Do they have any of their craft in our area that wild?",
+        "start_offset": 37,
+        "end_offset": 189,
+        "start": 2.96,
+        "end": 15.120000000000001
+      },
+      {
+        "segment": "There was no craft.",
+        "start_offset": 226,
+        "end_offset": 280,
+        "start": 18.080000000000002,
+        "end": 22.400000000000002
+      },
+      {
+        "segment": "There was a thought form.",
+        "start_offset": 316,
+        "end_offset": 378,
+        "start": 25.28,
+        "end": 30.240000000000002
+      }
+    ],
+    "word": [
+      {
+        "word": "Do",
+        "start_offset": 37,
+        "end_offset": 38,
+        "start": 2.96,
+        "end": 3.04
+      },
+      {
+        "word": "they",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 3.2,
+        "end": 3.36
+      },
+      {
+        "word": "have",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 3.44,
+        "end": 3.68
+      },
+      {
+        "word": "any",
+        "start_offset": 46,
+        "end_offset": 49,
+        "start": 3.68,
+        "end": 3.92
+      },
+      {
+        "word": "of",
+        "start_offset": 49,
+        "end_offset": 51,
+        "start": 3.92,
+        "end": 4.08
+      },
+      {
+        "word": "their",
+        "start_offset": 53,
+        "end_offset": 55,
+        "start": 4.24,
+        "end": 4.4
+      },
+      {
+        "word": "craft",
+        "start_offset": 57,
+        "end_offset": 65,
+        "start": 4.5600000000000005,
+        "end": 5.2
+      },
+      {
+        "word": "in",
+        "start_offset": 75,
+        "end_offset": 77,
+        "start": 6.0,
+        "end": 6.16
+      },
+      {
+        "word": "our",
+        "start_offset": 79,
+        "end_offset": 82,
+        "start": 6.32,
+        "end": 6.5600000000000005
+      },
+      {
+        "word": "area",
+        "start_offset": 82,
+        "end_offset": 86,
+        "start": 6.5600000000000005,
+        "end": 6.88
+      },
+      {
+        "word": "that",
+        "start_offset": 87,
+        "end_offset": 88,
+        "start": 6.96,
+        "end": 7.04
+      },
+      {
+        "word": "wild?",
+        "start_offset": 182,
+        "end_offset": 189,
+        "start": 14.56,
+        "end": 15.120000000000001
+      },
+      {
+        "word": "There",
+        "start_offset": 226,
+        "end_offset": 234,
+        "start": 18.080000000000002,
+        "end": 18.72
+      },
+      {
+        "word": "was",
+        "start_offset": 238,
+        "end_offset": 242,
+        "start": 19.04,
+        "end": 19.36
+      },
+      {
+        "word": "no",
+        "start_offset": 254,
+        "end_offset": 258,
+        "start": 20.32,
+        "end": 20.64
+      },
+      {
+        "word": "craft.",
+        "start_offset": 271,
+        "end_offset": 280,
+        "start": 21.68,
+        "end": 22.400000000000002
+      },
+      {
+        "word": "There",
+        "start_offset": 316,
+        "end_offset": 324,
+        "start": 25.28,
+        "end": 25.92
+      },
+      {
+        "word": "was",
+        "start_offset": 328,
+        "end_offset": 332,
+        "start": 26.240000000000002,
+        "end": 26.560000000000002
+      },
+      {
+        "word": "a",
+        "start_offset": 347,
+        "end_offset": 351,
+        "start": 27.76,
+        "end": 28.080000000000002
+      },
+      {
+        "word": "thought",
+        "start_offset": 360,
+        "end_offset": 369,
+        "start": 28.8,
+        "end": 29.52
+      },
+      {
+        "word": "form.",
+        "start_offset": 376,
+        "end_offset": 378,
+        "start": 30.080000000000002,
+        "end": 30.240000000000002
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "012-12.mp3",
+    "audio_duration": 34.04,
+    "transcription_time": 0.1,
+    "rtfx": 356.54,
+    "timestamp": "2026-01-06T21:46:56.175862+00:00"
+  }
+}

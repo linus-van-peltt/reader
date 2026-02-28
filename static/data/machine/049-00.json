@@ -1,0 +1,212 @@
+{
+  "text": "49, April 27th, round 49, April 27th. I greet you in the love and in the light of the one infinite Creator. We communicate now.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "49, April 27th, round 49, April 27th.",
+        "start_offset": 11,
+        "end_offset": 55,
+        "start": 0.88,
+        "end": 4.4
+      },
+      {
+        "segment": "I greet you in the love and in the light of the one infinite Creator.",
+        "start_offset": 79,
+        "end_offset": 291,
+        "start": 6.32,
+        "end": 23.28
+      },
+      {
+        "segment": "We communicate now.",
+        "start_offset": 324,
+        "end_offset": 375,
+        "start": 25.92,
+        "end": 30.0
+      }
+    ],
+    "word": [
+      {
+        "word": "49,",
+        "start_offset": 11,
+        "end_offset": 16,
+        "start": 0.88,
+        "end": 1.28
+      },
+      {
+        "word": "April",
+        "start_offset": 18,
+        "end_offset": 22,
+        "start": 1.44,
+        "end": 1.76
+      },
+      {
+        "word": "27th,",
+        "start_offset": 22,
+        "end_offset": 28,
+        "start": 1.76,
+        "end": 2.24
+      },
+      {
+        "word": "round",
+        "start_offset": 30,
+        "end_offset": 32,
+        "start": 2.4,
+        "end": 2.56
+      },
+      {
+        "word": "49,",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 2.72,
+        "end": 3.04
+      },
+      {
+        "word": "April",
+        "start_offset": 41,
+        "end_offset": 45,
+        "start": 3.2800000000000002,
+        "end": 3.6
+      },
+      {
+        "word": "27th.",
+        "start_offset": 45,
+        "end_offset": 55,
+        "start": 3.6,
+        "end": 4.4
+      },
+      {
+        "word": "I",
+        "start_offset": 79,
+        "end_offset": 83,
+        "start": 6.32,
+        "end": 6.640000000000001
+      },
+      {
+        "word": "greet",
+        "start_offset": 87,
+        "end_offset": 99,
+        "start": 6.96,
+        "end": 7.92
+      },
+      {
+        "word": "you",
+        "start_offset": 99,
+        "end_offset": 103,
+        "start": 7.92,
+        "end": 8.24
+      },
+      {
+        "word": "in",
+        "start_offset": 123,
+        "end_offset": 127,
+        "start": 9.84,
+        "end": 10.16
+      },
+      {
+        "word": "the",
+        "start_offset": 131,
+        "end_offset": 135,
+        "start": 10.48,
+        "end": 10.8
+      },
+      {
+        "word": "love",
+        "start_offset": 139,
+        "end_offset": 143,
+        "start": 11.120000000000001,
+        "end": 11.44
+      },
+      {
+        "word": "and",
+        "start_offset": 163,
+        "end_offset": 167,
+        "start": 13.040000000000001,
+        "end": 13.36
+      },
+      {
+        "word": "in",
+        "start_offset": 171,
+        "end_offset": 175,
+        "start": 13.68,
+        "end": 14.0
+      },
+      {
+        "word": "the",
+        "start_offset": 179,
+        "end_offset": 183,
+        "start": 14.32,
+        "end": 14.64
+      },
+      {
+        "word": "light",
+        "start_offset": 187,
+        "end_offset": 195,
+        "start": 14.96,
+        "end": 15.6
+      },
+      {
+        "word": "of",
+        "start_offset": 211,
+        "end_offset": 215,
+        "start": 16.88,
+        "end": 17.2
+      },
+      {
+        "word": "the",
+        "start_offset": 227,
+        "end_offset": 231,
+        "start": 18.16,
+        "end": 18.48
+      },
+      {
+        "word": "one",
+        "start_offset": 235,
+        "end_offset": 239,
+        "start": 18.8,
+        "end": 19.12
+      },
+      {
+        "word": "infinite",
+        "start_offset": 259,
+        "end_offset": 271,
+        "start": 20.72,
+        "end": 21.68
+      },
+      {
+        "word": "Creator.",
+        "start_offset": 283,
+        "end_offset": 291,
+        "start": 22.64,
+        "end": 23.28
+      },
+      {
+        "word": "We",
+        "start_offset": 324,
+        "end_offset": 328,
+        "start": 25.92,
+        "end": 26.240000000000002
+      },
+      {
+        "word": "communicate",
+        "start_offset": 340,
+        "end_offset": 358,
+        "start": 27.2,
+        "end": 28.64
+      },
+      {
+        "word": "now.",
+        "start_offset": 371,
+        "end_offset": 375,
+        "start": 29.68,
+        "end": 30.0
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "049-00.mp3",
+    "audio_duration": 31.03,
+    "transcription_time": 0.1,
+    "rtfx": 319.67,
+    "timestamp": "2026-01-06T21:51:45.162725+00:00"
+  }
+}

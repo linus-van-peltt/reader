@@ -1,0 +1,267 @@
+{
+  "text": "Nine archetypes, I will guess that those nine were three of mind, three of body, and three of spirit. Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Nine archetypes, I will guess that those nine were three of mind, three of body, and three of spirit.",
+        "start_offset": 0,
+        "end_offset": 101,
+        "start": 2.321,
+        "end": 9.364
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 102,
+        "end_offset": 118,
+        "start": 9.424,
+        "end": 10.105
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 119,
+        "end_offset": 127,
+        "start": 13.006,
+        "end": 14.747
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 128,
+        "end_offset": 144,
+        "start": 16.047,
+        "end": 19.329
+      }
+    ],
+    "word": [
+      {
+        "word": "Nine",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.321,
+        "end": 2.661,
+        "score": -0.8513
+      },
+      {
+        "word": "archetypes,",
+        "start_offset": 5,
+        "end_offset": 16,
+        "start": 2.861,
+        "end": 3.442,
+        "score": -0.9274
+      },
+      {
+        "word": "I",
+        "start_offset": 17,
+        "end_offset": 18,
+        "start": 3.782,
+        "end": 3.802,
+        "score": -4.6422
+      },
+      {
+        "word": "will",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 3.862,
+        "end": 4.022,
+        "score": -4.1584
+      },
+      {
+        "word": "guess",
+        "start_offset": 24,
+        "end_offset": 29,
+        "start": 4.162,
+        "end": 4.402,
+        "score": -2.0616
+      },
+      {
+        "word": "that",
+        "start_offset": 30,
+        "end_offset": 34,
+        "start": 4.442,
+        "end": 4.622,
+        "score": -2.1537
+      },
+      {
+        "word": "those",
+        "start_offset": 35,
+        "end_offset": 40,
+        "start": 4.662,
+        "end": 4.922,
+        "score": -0.7656
+      },
+      {
+        "word": "nine",
+        "start_offset": 41,
+        "end_offset": 45,
+        "start": 5.002,
+        "end": 5.342,
+        "score": -0.8733
+      },
+      {
+        "word": "were",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 5.983,
+        "end": 6.223,
+        "score": -0.7184
+      },
+      {
+        "word": "three",
+        "start_offset": 51,
+        "end_offset": 56,
+        "start": 6.443,
+        "end": 6.703,
+        "score": -1.0314
+      },
+      {
+        "word": "of",
+        "start_offset": 57,
+        "end_offset": 59,
+        "start": 6.743,
+        "end": 6.843,
+        "score": -0.9057
+      },
+      {
+        "word": "mind,",
+        "start_offset": 60,
+        "end_offset": 65,
+        "start": 7.303,
+        "end": 7.623,
+        "score": -1.8461
+      },
+      {
+        "word": "three",
+        "start_offset": 66,
+        "end_offset": 71,
+        "start": 7.684,
+        "end": 7.924,
+        "score": -0.8393
+      },
+      {
+        "word": "of",
+        "start_offset": 72,
+        "end_offset": 74,
+        "start": 7.944,
+        "end": 8.024,
+        "score": -0.7842
+      },
+      {
+        "word": "body,",
+        "start_offset": 75,
+        "end_offset": 80,
+        "start": 8.184,
+        "end": 8.484,
+        "score": -0.7019
+      },
+      {
+        "word": "and",
+        "start_offset": 81,
+        "end_offset": 84,
+        "start": 8.564,
+        "end": 8.644,
+        "score": -0.7336
+      },
+      {
+        "word": "three",
+        "start_offset": 85,
+        "end_offset": 90,
+        "start": 8.664,
+        "end": 8.844,
+        "score": -0.8267
+      },
+      {
+        "word": "of",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 8.884,
+        "end": 8.944,
+        "score": -0.7651
+      },
+      {
+        "word": "spirit.",
+        "start_offset": 94,
+        "end_offset": 101,
+        "start": 9.024,
+        "end": 9.364,
+        "score": -0.7459
+      },
+      {
+        "word": "Is",
+        "start_offset": 102,
+        "end_offset": 104,
+        "start": 9.424,
+        "end": 9.504,
+        "score": -1.2442
+      },
+      {
+        "word": "this",
+        "start_offset": 105,
+        "end_offset": 109,
+        "start": 9.524,
+        "end": 9.664,
+        "score": -2.3365
+      },
+      {
+        "word": "correct?",
+        "start_offset": 110,
+        "end_offset": 118,
+        "start": 9.704,
+        "end": 10.105,
+        "score": -0.6976
+      },
+      {
+        "word": "I",
+        "start_offset": 119,
+        "end_offset": 120,
+        "start": 13.006,
+        "end": 13.026,
+        "score": -3.9372
+      },
+      {
+        "word": "am",
+        "start_offset": 121,
+        "end_offset": 123,
+        "start": 13.706,
+        "end": 13.966,
+        "score": -5.7467
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 124,
+        "end_offset": 127,
+        "start": 14.647,
+        "end": 14.747,
+        "score": -6.5662
+      },
+      {
+        "word": "This",
+        "start_offset": 128,
+        "end_offset": 132,
+        "start": 16.047,
+        "end": 16.448,
+        "score": -1.9984
+      },
+      {
+        "word": "is",
+        "start_offset": 133,
+        "end_offset": 135,
+        "start": 17.488,
+        "end": 17.788,
+        "score": -1.6396
+      },
+      {
+        "word": "correct.",
+        "start_offset": 136,
+        "end_offset": 144,
+        "start": 18.629,
+        "end": 19.329,
+        "score": -1.5901
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "079-15.mp3",
+    "audio_duration": 25.0514,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

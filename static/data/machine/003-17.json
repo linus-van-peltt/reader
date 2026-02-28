@@ -1,0 +1,541 @@
+{
+  "text": "The only question is, is there anything that you have done wrong or anything that you do to make things more comfortable? We scan this instrument. This instrument has been much aided by these precautions. We suggest only some attention to the neck which seems in this body in distortion to be distorted in the area of strength weakness. More support therefore to the net area may be an eight.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "The only question is, is there anything that you have done wrong or anything that you do to make things more comfortable?",
+        "start_offset": 12,
+        "end_offset": 98,
+        "start": 0.96,
+        "end": 7.84
+      },
+      {
+        "segment": "We scan this instrument.",
+        "start_offset": 173,
+        "end_offset": 231,
+        "start": 13.84,
+        "end": 18.48
+      },
+      {
+        "segment": "This instrument has been much aided by these precautions.",
+        "start_offset": 313,
+        "end_offset": 448,
+        "start": 25.04,
+        "end": 35.84
+      },
+      {
+        "segment": "We suggest only some attention to the neck which seems in this body in distortion to be distorted in the area of strength weakness.",
+        "start_offset": 478,
+        "end_offset": 857,
+        "start": 38.24,
+        "end": 68.56
+      },
+      {
+        "segment": "More support therefore to the net area may be an eight.",
+        "start_offset": 914,
+        "end_offset": 1091,
+        "start": 73.12,
+        "end": 87.28
+      }
+    ],
+    "word": [
+      {
+        "word": "The",
+        "start_offset": 12,
+        "end_offset": 16,
+        "start": 0.96,
+        "end": 1.28
+      },
+      {
+        "word": "only",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 1.28,
+        "end": 1.6
+      },
+      {
+        "word": "question",
+        "start_offset": 21,
+        "end_offset": 27,
+        "start": 1.68,
+        "end": 2.16
+      },
+      {
+        "word": "is,",
+        "start_offset": 27,
+        "end_offset": 28,
+        "start": 2.16,
+        "end": 2.24
+      },
+      {
+        "word": "is",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 2.4,
+        "end": 2.64
+      },
+      {
+        "word": "there",
+        "start_offset": 35,
+        "end_offset": 37,
+        "start": 2.8000000000000003,
+        "end": 2.96
+      },
+      {
+        "word": "anything",
+        "start_offset": 37,
+        "end_offset": 42,
+        "start": 2.96,
+        "end": 3.36
+      },
+      {
+        "word": "that",
+        "start_offset": 42,
+        "end_offset": 44,
+        "start": 3.36,
+        "end": 3.52
+      },
+      {
+        "word": "you",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 3.52,
+        "end": 3.68
+      },
+      {
+        "word": "have",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 3.68,
+        "end": 3.84
+      },
+      {
+        "word": "done",
+        "start_offset": 48,
+        "end_offset": 50,
+        "start": 3.84,
+        "end": 4.0
+      },
+      {
+        "word": "wrong",
+        "start_offset": 50,
+        "end_offset": 53,
+        "start": 4.0,
+        "end": 4.24
+      },
+      {
+        "word": "or",
+        "start_offset": 54,
+        "end_offset": 57,
+        "start": 4.32,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "anything",
+        "start_offset": 57,
+        "end_offset": 62,
+        "start": 4.5600000000000005,
+        "end": 4.96
+      },
+      {
+        "word": "that",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 4.96,
+        "end": 5.12
+      },
+      {
+        "word": "you",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 5.28,
+        "end": 5.44
+      },
+      {
+        "word": "do",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 5.44,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "to",
+        "start_offset": 72,
+        "end_offset": 74,
+        "start": 5.76,
+        "end": 5.92
+      },
+      {
+        "word": "make",
+        "start_offset": 74,
+        "end_offset": 77,
+        "start": 5.92,
+        "end": 6.16
+      },
+      {
+        "word": "things",
+        "start_offset": 77,
+        "end_offset": 80,
+        "start": 6.16,
+        "end": 6.4
+      },
+      {
+        "word": "more",
+        "start_offset": 85,
+        "end_offset": 88,
+        "start": 6.8,
+        "end": 7.04
+      },
+      {
+        "word": "comfortable?",
+        "start_offset": 88,
+        "end_offset": 98,
+        "start": 7.04,
+        "end": 7.84
+      },
+      {
+        "word": "We",
+        "start_offset": 173,
+        "end_offset": 176,
+        "start": 13.84,
+        "end": 14.08
+      },
+      {
+        "word": "scan",
+        "start_offset": 183,
+        "end_offset": 191,
+        "start": 14.64,
+        "end": 15.280000000000001
+      },
+      {
+        "word": "this",
+        "start_offset": 199,
+        "end_offset": 203,
+        "start": 15.92,
+        "end": 16.240000000000002
+      },
+      {
+        "word": "instrument.",
+        "start_offset": 219,
+        "end_offset": 231,
+        "start": 17.52,
+        "end": 18.48
+      },
+      {
+        "word": "This",
+        "start_offset": 313,
+        "end_offset": 317,
+        "start": 25.04,
+        "end": 25.36
+      },
+      {
+        "word": "instrument",
+        "start_offset": 325,
+        "end_offset": 337,
+        "start": 26.0,
+        "end": 26.96
+      },
+      {
+        "word": "has",
+        "start_offset": 341,
+        "end_offset": 345,
+        "start": 27.28,
+        "end": 27.6
+      },
+      {
+        "word": "been",
+        "start_offset": 353,
+        "end_offset": 357,
+        "start": 28.240000000000002,
+        "end": 28.560000000000002
+      },
+      {
+        "word": "much",
+        "start_offset": 369,
+        "end_offset": 373,
+        "start": 29.52,
+        "end": 29.84
+      },
+      {
+        "word": "aided",
+        "start_offset": 385,
+        "end_offset": 396,
+        "start": 30.8,
+        "end": 31.68
+      },
+      {
+        "word": "by",
+        "start_offset": 404,
+        "end_offset": 408,
+        "start": 32.32,
+        "end": 32.64
+      },
+      {
+        "word": "these",
+        "start_offset": 420,
+        "end_offset": 424,
+        "start": 33.6,
+        "end": 33.92
+      },
+      {
+        "word": "precautions.",
+        "start_offset": 436,
+        "end_offset": 448,
+        "start": 34.88,
+        "end": 35.84
+      },
+      {
+        "word": "We",
+        "start_offset": 478,
+        "end_offset": 482,
+        "start": 38.24,
+        "end": 38.56
+      },
+      {
+        "word": "suggest",
+        "start_offset": 502,
+        "end_offset": 513,
+        "start": 40.160000000000004,
+        "end": 41.04
+      },
+      {
+        "word": "only",
+        "start_offset": 525,
+        "end_offset": 529,
+        "start": 42.0,
+        "end": 42.32
+      },
+      {
+        "word": "some",
+        "start_offset": 541,
+        "end_offset": 545,
+        "start": 43.28,
+        "end": 43.6
+      },
+      {
+        "word": "attention",
+        "start_offset": 553,
+        "end_offset": 565,
+        "start": 44.24,
+        "end": 45.2
+      },
+      {
+        "word": "to",
+        "start_offset": 573,
+        "end_offset": 577,
+        "start": 45.84,
+        "end": 46.160000000000004
+      },
+      {
+        "word": "the",
+        "start_offset": 585,
+        "end_offset": 589,
+        "start": 46.800000000000004,
+        "end": 47.12
+      },
+      {
+        "word": "neck",
+        "start_offset": 601,
+        "end_offset": 609,
+        "start": 48.08,
+        "end": 48.72
+      },
+      {
+        "word": "which",
+        "start_offset": 620,
+        "end_offset": 624,
+        "start": 49.6,
+        "end": 49.92
+      },
+      {
+        "word": "seems",
+        "start_offset": 632,
+        "end_offset": 644,
+        "start": 50.56,
+        "end": 51.52
+      },
+      {
+        "word": "in",
+        "start_offset": 651,
+        "end_offset": 655,
+        "start": 52.08,
+        "end": 52.4
+      },
+      {
+        "word": "this",
+        "start_offset": 667,
+        "end_offset": 671,
+        "start": 53.36,
+        "end": 53.68
+      },
+      {
+        "word": "body",
+        "start_offset": 683,
+        "end_offset": 691,
+        "start": 54.64,
+        "end": 55.28
+      },
+      {
+        "word": "in",
+        "start_offset": 693,
+        "end_offset": 697,
+        "start": 55.44,
+        "end": 55.76
+      },
+      {
+        "word": "distortion",
+        "start_offset": 697,
+        "end_offset": 709,
+        "start": 55.76,
+        "end": 56.72
+      },
+      {
+        "word": "to",
+        "start_offset": 719,
+        "end_offset": 723,
+        "start": 57.52,
+        "end": 57.84
+      },
+      {
+        "word": "be",
+        "start_offset": 739,
+        "end_offset": 743,
+        "start": 59.120000000000005,
+        "end": 59.44
+      },
+      {
+        "word": "distorted",
+        "start_offset": 754,
+        "end_offset": 766,
+        "start": 60.32,
+        "end": 61.28
+      },
+      {
+        "word": "in",
+        "start_offset": 774,
+        "end_offset": 778,
+        "start": 61.92,
+        "end": 62.24
+      },
+      {
+        "word": "the",
+        "start_offset": 786,
+        "end_offset": 790,
+        "start": 62.88,
+        "end": 63.2
+      },
+      {
+        "word": "area",
+        "start_offset": 806,
+        "end_offset": 814,
+        "start": 64.48,
+        "end": 65.12
+      },
+      {
+        "word": "of",
+        "start_offset": 822,
+        "end_offset": 826,
+        "start": 65.76,
+        "end": 66.08
+      },
+      {
+        "word": "strength",
+        "start_offset": 838,
+        "end_offset": 846,
+        "start": 67.04,
+        "end": 67.68
+      },
+      {
+        "word": "weakness.",
+        "start_offset": 848,
+        "end_offset": 857,
+        "start": 67.84,
+        "end": 68.56
+      },
+      {
+        "word": "More",
+        "start_offset": 914,
+        "end_offset": 922,
+        "start": 73.12,
+        "end": 73.76
+      },
+      {
+        "word": "support",
+        "start_offset": 930,
+        "end_offset": 938,
+        "start": 74.4,
+        "end": 75.04
+      },
+      {
+        "word": "therefore",
+        "start_offset": 948,
+        "end_offset": 960,
+        "start": 75.84,
+        "end": 76.8
+      },
+      {
+        "word": "to",
+        "start_offset": 968,
+        "end_offset": 972,
+        "start": 77.44,
+        "end": 77.76
+      },
+      {
+        "word": "the",
+        "start_offset": 980,
+        "end_offset": 984,
+        "start": 78.4,
+        "end": 78.72
+      },
+      {
+        "word": "net",
+        "start_offset": 996,
+        "end_offset": 1000,
+        "start": 79.68,
+        "end": 80.0
+      },
+      {
+        "word": "area",
+        "start_offset": 1008,
+        "end_offset": 1016,
+        "start": 80.64,
+        "end": 81.28
+      },
+      {
+        "word": "may",
+        "start_offset": 1026,
+        "end_offset": 1030,
+        "start": 82.08,
+        "end": 82.4
+      },
+      {
+        "word": "be",
+        "start_offset": 1038,
+        "end_offset": 1041,
+        "start": 83.04,
+        "end": 83.28
+      },
+      {
+        "word": "an",
+        "start_offset": 1072,
+        "end_offset": 1075,
+        "start": 85.76,
+        "end": 86.0
+      },
+      {
+        "word": "eight.",
+        "start_offset": 1083,
+        "end_offset": 1091,
+        "start": 86.64,
+        "end": 87.28
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "003-17.mp3",
+    "audio_duration": 88.03,
+    "transcription_time": 0.15,
+    "rtfx": 580.81,
+    "timestamp": "2026-01-06T21:45:44.084658+00:00"
+  }
+}

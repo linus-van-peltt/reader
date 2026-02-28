@@ -1,0 +1,93 @@
+{
+  "text": "Thank you. Is there any other brief question?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 0,
+        "end_offset": 10,
+        "start": 3.763,
+        "end": 4.064
+      },
+      {
+        "segment": "Is there any other brief question?",
+        "start_offset": 11,
+        "end_offset": 45,
+        "start": 4.084,
+        "end": 8.988
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 3.763,
+        "end": 3.944,
+        "score": -11.425
+      },
+      {
+        "word": "you.",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 3.964,
+        "end": 4.064,
+        "score": -13.0145
+      },
+      {
+        "word": "Is",
+        "start_offset": 11,
+        "end_offset": 13,
+        "start": 4.084,
+        "end": 4.164,
+        "score": -6.2283
+      },
+      {
+        "word": "there",
+        "start_offset": 14,
+        "end_offset": 19,
+        "start": 4.584,
+        "end": 4.924,
+        "score": -0.7013
+      },
+      {
+        "word": "any",
+        "start_offset": 20,
+        "end_offset": 23,
+        "start": 5.425,
+        "end": 5.665,
+        "score": -0.6951
+      },
+      {
+        "word": "other",
+        "start_offset": 24,
+        "end_offset": 29,
+        "start": 6.386,
+        "end": 6.706,
+        "score": -0.7346
+      },
+      {
+        "word": "brief",
+        "start_offset": 30,
+        "end_offset": 35,
+        "start": 7.226,
+        "end": 7.667,
+        "score": -1.4198
+      },
+      {
+        "word": "question?",
+        "start_offset": 36,
+        "end_offset": 45,
+        "start": 8.307,
+        "end": 8.988,
+        "score": -0.7038
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "023-18.mp3",
+    "audio_duration": 11.0498,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

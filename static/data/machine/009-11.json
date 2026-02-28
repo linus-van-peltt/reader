@@ -1,0 +1,254 @@
+{
+  "text": "How long ago did this transfer occur in the red line curve? I am wrong in your time. This transfer occurred approximately seven five zero zero zero years. I'll go.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "How long ago did this transfer occur in the red line curve?",
+        "start_offset": 18,
+        "end_offset": 72,
+        "start": 1.44,
+        "end": 5.76
+      },
+      {
+        "segment": "I am wrong in your time.",
+        "start_offset": 265,
+        "end_offset": 385,
+        "start": 21.2,
+        "end": 30.8
+      },
+      {
+        "segment": "This transfer occurred approximately seven five zero zero zero years.",
+        "start_offset": 403,
+        "end_offset": 638,
+        "start": 32.24,
+        "end": 51.04
+      },
+      {
+        "segment": "I'll go.",
+        "start_offset": 656,
+        "end_offset": 665,
+        "start": 52.480000000000004,
+        "end": 53.2
+      }
+    ],
+    "word": [
+      {
+        "word": "How",
+        "start_offset": 18,
+        "end_offset": 24,
+        "start": 1.44,
+        "end": 1.92
+      },
+      {
+        "word": "long",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 1.92,
+        "end": 2.16
+      },
+      {
+        "word": "ago",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 2.16,
+        "end": 2.48
+      },
+      {
+        "word": "did",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 2.56,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "this",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 2.8000000000000003,
+        "end": 3.04
+      },
+      {
+        "word": "transfer",
+        "start_offset": 38,
+        "end_offset": 44,
+        "start": 3.04,
+        "end": 3.52
+      },
+      {
+        "word": "occur",
+        "start_offset": 44,
+        "end_offset": 49,
+        "start": 3.52,
+        "end": 3.92
+      },
+      {
+        "word": "in",
+        "start_offset": 51,
+        "end_offset": 52,
+        "start": 4.08,
+        "end": 4.16
+      },
+      {
+        "word": "the",
+        "start_offset": 52,
+        "end_offset": 53,
+        "start": 4.16,
+        "end": 4.24
+      },
+      {
+        "word": "red",
+        "start_offset": 55,
+        "end_offset": 56,
+        "start": 4.4,
+        "end": 4.48
+      },
+      {
+        "word": "line",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 4.72,
+        "end": 4.96
+      },
+      {
+        "word": "curve?",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 5.44,
+        "end": 5.76
+      },
+      {
+        "word": "I",
+        "start_offset": 265,
+        "end_offset": 269,
+        "start": 21.2,
+        "end": 21.52
+      },
+      {
+        "word": "am",
+        "start_offset": 281,
+        "end_offset": 285,
+        "start": 22.48,
+        "end": 22.8
+      },
+      {
+        "word": "wrong",
+        "start_offset": 301,
+        "end_offset": 309,
+        "start": 24.080000000000002,
+        "end": 24.72
+      },
+      {
+        "word": "in",
+        "start_offset": 345,
+        "end_offset": 349,
+        "start": 27.6,
+        "end": 27.92
+      },
+      {
+        "word": "your",
+        "start_offset": 361,
+        "end_offset": 365,
+        "start": 28.88,
+        "end": 29.2
+      },
+      {
+        "word": "time.",
+        "start_offset": 381,
+        "end_offset": 385,
+        "start": 30.48,
+        "end": 30.8
+      },
+      {
+        "word": "This",
+        "start_offset": 403,
+        "end_offset": 407,
+        "start": 32.24,
+        "end": 32.56
+      },
+      {
+        "word": "transfer",
+        "start_offset": 419,
+        "end_offset": 431,
+        "start": 33.52,
+        "end": 34.480000000000004
+      },
+      {
+        "word": "occurred",
+        "start_offset": 447,
+        "end_offset": 461,
+        "start": 35.76,
+        "end": 36.88
+      },
+      {
+        "word": "approximately",
+        "start_offset": 481,
+        "end_offset": 504,
+        "start": 38.480000000000004,
+        "end": 40.32
+      },
+      {
+        "word": "seven",
+        "start_offset": 524,
+        "end_offset": 535,
+        "start": 41.92,
+        "end": 42.800000000000004
+      },
+      {
+        "word": "five",
+        "start_offset": 545,
+        "end_offset": 553,
+        "start": 43.6,
+        "end": 44.24
+      },
+      {
+        "word": "zero",
+        "start_offset": 574,
+        "end_offset": 582,
+        "start": 45.92,
+        "end": 46.56
+      },
+      {
+        "word": "zero",
+        "start_offset": 592,
+        "end_offset": 599,
+        "start": 47.36,
+        "end": 47.92
+      },
+      {
+        "word": "zero",
+        "start_offset": 609,
+        "end_offset": 617,
+        "start": 48.72,
+        "end": 49.36
+      },
+      {
+        "word": "years.",
+        "start_offset": 630,
+        "end_offset": 638,
+        "start": 50.4,
+        "end": 51.04
+      },
+      {
+        "word": "I'll",
+        "start_offset": 656,
+        "end_offset": 662,
+        "start": 52.480000000000004,
+        "end": 52.96
+      },
+      {
+        "word": "go.",
+        "start_offset": 662,
+        "end_offset": 665,
+        "start": 52.96,
+        "end": 53.2
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "009-11.mp3",
+    "audio_duration": 58.04,
+    "transcription_time": 0.12,
+    "rtfx": 489.33,
+    "timestamp": "2026-01-06T21:46:32.846130+00:00"
+  }
+}

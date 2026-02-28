@@ -1,0 +1,212 @@
+{
+  "text": "Is there any of this effect upon the other two of us in this group? I am Ra. This is quite correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there any of this effect upon the other two of us in this group?",
+        "start_offset": 0,
+        "end_offset": 67,
+        "start": 2.341,
+        "end": 6.482
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 68,
+        "end_offset": 76,
+        "start": 10.884,
+        "end": 12.724
+      },
+      {
+        "segment": "This is quite correct.",
+        "start_offset": 77,
+        "end_offset": 99,
+        "start": 14.645,
+        "end": 19.467
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.341,
+        "end": 2.421,
+        "score": -1.206
+      },
+      {
+        "word": "there",
+        "start_offset": 3,
+        "end_offset": 8,
+        "start": 2.441,
+        "end": 2.581,
+        "score": -0.8448
+      },
+      {
+        "word": "any",
+        "start_offset": 9,
+        "end_offset": 12,
+        "start": 2.601,
+        "end": 2.721,
+        "score": -1.1638
+      },
+      {
+        "word": "of",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 2.781,
+        "end": 2.841,
+        "score": -1.3568
+      },
+      {
+        "word": "this",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 2.861,
+        "end": 3.021,
+        "score": -0.7762
+      },
+      {
+        "word": "effect",
+        "start_offset": 21,
+        "end_offset": 27,
+        "start": 3.081,
+        "end": 3.521,
+        "score": -1.3571
+      },
+      {
+        "word": "upon",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 3.581,
+        "end": 3.961,
+        "score": -0.9278
+      },
+      {
+        "word": "the",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 4.321,
+        "end": 4.401,
+        "score": -0.9623
+      },
+      {
+        "word": "other",
+        "start_offset": 37,
+        "end_offset": 42,
+        "start": 4.522,
+        "end": 4.762,
+        "score": -2.8013
+      },
+      {
+        "word": "two",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 5.422,
+        "end": 5.562,
+        "score": -1.2671
+      },
+      {
+        "word": "of",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 5.642,
+        "end": 5.702,
+        "score": -1.3416
+      },
+      {
+        "word": "us",
+        "start_offset": 50,
+        "end_offset": 52,
+        "start": 5.762,
+        "end": 5.862,
+        "score": -3.1979
+      },
+      {
+        "word": "in",
+        "start_offset": 53,
+        "end_offset": 55,
+        "start": 5.922,
+        "end": 6.002,
+        "score": -1.3461
+      },
+      {
+        "word": "this",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 6.022,
+        "end": 6.182,
+        "score": -1.3783
+      },
+      {
+        "word": "group?",
+        "start_offset": 61,
+        "end_offset": 67,
+        "start": 6.242,
+        "end": 6.482,
+        "score": -0.9118
+      },
+      {
+        "word": "I",
+        "start_offset": 68,
+        "end_offset": 69,
+        "start": 10.884,
+        "end": 10.904,
+        "score": -1.7139
+      },
+      {
+        "word": "am",
+        "start_offset": 70,
+        "end_offset": 72,
+        "start": 11.624,
+        "end": 11.864,
+        "score": -2.2648
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 73,
+        "end_offset": 76,
+        "start": 12.624,
+        "end": 12.724,
+        "score": -4.1236
+      },
+      {
+        "word": "This",
+        "start_offset": 77,
+        "end_offset": 81,
+        "start": 14.645,
+        "end": 15.025,
+        "score": -1.847
+      },
+      {
+        "word": "is",
+        "start_offset": 82,
+        "end_offset": 84,
+        "start": 15.845,
+        "end": 16.165,
+        "score": -1.1058
+      },
+      {
+        "word": "quite",
+        "start_offset": 85,
+        "end_offset": 90,
+        "start": 17.246,
+        "end": 17.806,
+        "score": -3.1526
+      },
+      {
+        "word": "correct.",
+        "start_offset": 91,
+        "end_offset": 99,
+        "start": 18.706,
+        "end": 19.467,
+        "score": -1.6345
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "081-06.mp3",
+    "audio_duration": 22.0474,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

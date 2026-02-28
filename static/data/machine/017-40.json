@@ -1,0 +1,86 @@
+{
+  "text": "Is there the best way at the I am.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there the best way at the I am.",
+        "start_offset": 30,
+        "end_offset": 198,
+        "start": 2.4,
+        "end": 15.84
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 2.4,
+        "end": 2.64
+      },
+      {
+        "word": "there",
+        "start_offset": 36,
+        "end_offset": 40,
+        "start": 2.88,
+        "end": 3.2
+      },
+      {
+        "word": "the",
+        "start_offset": 67,
+        "end_offset": 71,
+        "start": 5.36,
+        "end": 5.68
+      },
+      {
+        "word": "best",
+        "start_offset": 71,
+        "end_offset": 75,
+        "start": 5.68,
+        "end": 6.0
+      },
+      {
+        "word": "way",
+        "start_offset": 75,
+        "end_offset": 79,
+        "start": 6.0,
+        "end": 6.32
+      },
+      {
+        "word": "at",
+        "start_offset": 86,
+        "end_offset": 89,
+        "start": 6.88,
+        "end": 7.12
+      },
+      {
+        "word": "the",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 7.28,
+        "end": 7.44
+      },
+      {
+        "word": "I",
+        "start_offset": 184,
+        "end_offset": 188,
+        "start": 14.72,
+        "end": 15.040000000000001
+      },
+      {
+        "word": "am.",
+        "start_offset": 195,
+        "end_offset": 198,
+        "start": 15.6,
+        "end": 15.84
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "017-40.mp3",
+    "audio_duration": 26.04,
+    "transcription_time": 0.09,
+    "rtfx": 302.09,
+    "timestamp": "2026-01-06T21:47:54.974343+00:00"
+  }
+}

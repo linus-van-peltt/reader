@@ -1,0 +1,267 @@
+{
+  "text": "From this I assume that it would be most appropriate to daily perform the Banishing Ritual in this room. Is this correct? I am Ra. That is acceptable.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "From this I assume that it would be most appropriate to daily perform the Banishing Ritual in this room.",
+        "start_offset": 0,
+        "end_offset": 104,
+        "start": 2.081,
+        "end": 7.983
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 105,
+        "end_offset": 121,
+        "start": 8.363,
+        "end": 8.984
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 122,
+        "end_offset": 130,
+        "start": 9.564,
+        "end": 15.526
+      },
+      {
+        "segment": "That is acceptable.",
+        "start_offset": 131,
+        "end_offset": 150,
+        "start": 16.767,
+        "end": 20.708
+      }
+    ],
+    "word": [
+      {
+        "word": "From",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.081,
+        "end": 2.241,
+        "score": -0.7268
+      },
+      {
+        "word": "this",
+        "start_offset": 5,
+        "end_offset": 9,
+        "start": 2.261,
+        "end": 2.421,
+        "score": -0.8361
+      },
+      {
+        "word": "I",
+        "start_offset": 10,
+        "end_offset": 11,
+        "start": 2.481,
+        "end": 2.501,
+        "score": -7.157
+      },
+      {
+        "word": "assume",
+        "start_offset": 12,
+        "end_offset": 18,
+        "start": 2.521,
+        "end": 2.661,
+        "score": -5.171
+      },
+      {
+        "word": "that",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 2.681,
+        "end": 2.761,
+        "score": -4.5281
+      },
+      {
+        "word": "it",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 2.781,
+        "end": 2.821,
+        "score": -5.3033
+      },
+      {
+        "word": "would",
+        "start_offset": 27,
+        "end_offset": 32,
+        "start": 2.861,
+        "end": 3.041,
+        "score": -1.1455
+      },
+      {
+        "word": "be",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 3.061,
+        "end": 3.141,
+        "score": -0.8933
+      },
+      {
+        "word": "most",
+        "start_offset": 36,
+        "end_offset": 40,
+        "start": 3.842,
+        "end": 4.062,
+        "score": -1.1078
+      },
+      {
+        "word": "appropriate",
+        "start_offset": 41,
+        "end_offset": 52,
+        "start": 4.102,
+        "end": 4.682,
+        "score": -0.7926
+      },
+      {
+        "word": "to",
+        "start_offset": 53,
+        "end_offset": 55,
+        "start": 4.742,
+        "end": 4.862,
+        "score": -0.754
+      },
+      {
+        "word": "daily",
+        "start_offset": 56,
+        "end_offset": 61,
+        "start": 5.262,
+        "end": 5.602,
+        "score": -0.8206
+      },
+      {
+        "word": "perform",
+        "start_offset": 62,
+        "end_offset": 69,
+        "start": 5.722,
+        "end": 6.163,
+        "score": -0.8037
+      },
+      {
+        "word": "the",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 6.363,
+        "end": 6.443,
+        "score": -1.587
+      },
+      {
+        "word": "Banishing",
+        "start_offset": 74,
+        "end_offset": 83,
+        "start": 6.483,
+        "end": 6.923,
+        "score": -0.8626
+      },
+      {
+        "word": "Ritual",
+        "start_offset": 84,
+        "end_offset": 90,
+        "start": 6.983,
+        "end": 7.283,
+        "score": -0.7806
+      },
+      {
+        "word": "in",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 7.363,
+        "end": 7.443,
+        "score": -1.1599
+      },
+      {
+        "word": "this",
+        "start_offset": 94,
+        "end_offset": 98,
+        "start": 7.483,
+        "end": 7.663,
+        "score": -2.303
+      },
+      {
+        "word": "room.",
+        "start_offset": 99,
+        "end_offset": 104,
+        "start": 7.763,
+        "end": 7.983,
+        "score": -3.3903
+      },
+      {
+        "word": "Is",
+        "start_offset": 105,
+        "end_offset": 107,
+        "start": 8.363,
+        "end": 8.403,
+        "score": -4.4856
+      },
+      {
+        "word": "this",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 8.423,
+        "end": 8.584,
+        "score": -2.6078
+      },
+      {
+        "word": "correct?",
+        "start_offset": 113,
+        "end_offset": 121,
+        "start": 8.624,
+        "end": 8.984,
+        "score": -2.6205
+      },
+      {
+        "word": "I",
+        "start_offset": 122,
+        "end_offset": 123,
+        "start": 9.564,
+        "end": 9.584,
+        "score": -6.5785
+      },
+      {
+        "word": "am",
+        "start_offset": 124,
+        "end_offset": 126,
+        "start": 12.705,
+        "end": 12.925,
+        "score": -6.2483
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 127,
+        "end_offset": 130,
+        "start": 15.486,
+        "end": 15.526,
+        "score": -7.5212
+      },
+      {
+        "word": "That",
+        "start_offset": 131,
+        "end_offset": 135,
+        "start": 16.767,
+        "end": 17.107,
+        "score": -1.0937
+      },
+      {
+        "word": "is",
+        "start_offset": 136,
+        "end_offset": 138,
+        "start": 17.907,
+        "end": 18.247,
+        "score": -0.9873
+      },
+      {
+        "word": "acceptable.",
+        "start_offset": 139,
+        "end_offset": 150,
+        "start": 18.768,
+        "end": 20.708,
+        "score": -3.2982
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "103-19.mp3",
+    "audio_duration": 21.0286,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

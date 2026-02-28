@@ -1,0 +1,881 @@
+{
+  "text": "I will make a statement that you can correct. I intuitively see the spiraling energy of the Giza pyramid being spread out as it moves through the so-called King's Chamber and then refocusing in the so-called Queen's Chamber. I am guessing that the spread of energy in the so-called King's Chamber is seen in the spectrum of colors, red through violet, and that the energy centers of the entity to be healed should be aligned with this spread of the spectrum so that the spectrum matches the various energy centers. Can you correct this statement? I am Ra. We can correct this statement.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I will make a statement that you can correct.",
+        "start_offset": 0,
+        "end_offset": 45,
+        "start": 0.44,
+        "end": 3.9
+      },
+      {
+        "segment": "I intuitively see the spiraling energy of the Giza pyramid being spread out as it moves through the so-called King's Chamber and then refocusing in the so-called Queen's Chamber.",
+        "start_offset": 46,
+        "end_offset": 224,
+        "start": 4.9,
+        "end": 19.882
+      },
+      {
+        "segment": "I am guessing that the spread of energy in the so-called King's Chamber is seen in the spectrum of colors, red through violet, and that the energy centers of the entity to be healed should be aligned with this spread of the spectrum so that the spectrum matches the various energy centers.",
+        "start_offset": 225,
+        "end_offset": 514,
+        "start": 20.662,
+        "end": 48.505
+      },
+      {
+        "segment": "Can you correct this statement?",
+        "start_offset": 515,
+        "end_offset": 546,
+        "start": 49.125,
+        "end": 50.445
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 547,
+        "end_offset": 555,
+        "start": 53.165,
+        "end": 55.425
+      },
+      {
+        "segment": "We can correct this statement.",
+        "start_offset": 556,
+        "end_offset": 586,
+        "start": 57.546,
+        "end": 63.626
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 0.44,
+        "end": 0.46,
+        "score": -9.8485
+      },
+      {
+        "word": "will",
+        "start_offset": 2,
+        "end_offset": 6,
+        "start": 1.94,
+        "end": 2.06,
+        "score": -8.4916
+      },
+      {
+        "word": "make",
+        "start_offset": 7,
+        "end_offset": 11,
+        "start": 2.08,
+        "end": 2.28,
+        "score": -0.8157
+      },
+      {
+        "word": "a",
+        "start_offset": 12,
+        "end_offset": 13,
+        "start": 2.34,
+        "end": 2.36,
+        "score": -1.6007
+      },
+      {
+        "word": "statement",
+        "start_offset": 14,
+        "end_offset": 23,
+        "start": 2.46,
+        "end": 2.96,
+        "score": -1.3079
+      },
+      {
+        "word": "that",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 3.06,
+        "end": 3.18,
+        "score": -1.194
+      },
+      {
+        "word": "you",
+        "start_offset": 29,
+        "end_offset": 32,
+        "start": 3.22,
+        "end": 3.3,
+        "score": -2.1182
+      },
+      {
+        "word": "can",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 3.34,
+        "end": 3.46,
+        "score": -2.5879
+      },
+      {
+        "word": "correct.",
+        "start_offset": 37,
+        "end_offset": 45,
+        "start": 3.5,
+        "end": 3.9,
+        "score": -0.8068
+      },
+      {
+        "word": "I",
+        "start_offset": 46,
+        "end_offset": 47,
+        "start": 4.9,
+        "end": 4.92,
+        "score": -3.1763
+      },
+      {
+        "word": "intuitively",
+        "start_offset": 48,
+        "end_offset": 59,
+        "start": 5.0,
+        "end": 5.701,
+        "score": -0.9386
+      },
+      {
+        "word": "see",
+        "start_offset": 60,
+        "end_offset": 63,
+        "start": 5.841,
+        "end": 6.041,
+        "score": -0.7097
+      },
+      {
+        "word": "the",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 7.241,
+        "end": 7.361,
+        "score": -0.8067
+      },
+      {
+        "word": "spiraling",
+        "start_offset": 68,
+        "end_offset": 77,
+        "start": 8.101,
+        "end": 8.641,
+        "score": -2.2383
+      },
+      {
+        "word": "energy",
+        "start_offset": 78,
+        "end_offset": 84,
+        "start": 8.721,
+        "end": 9.021,
+        "score": -0.6987
+      },
+      {
+        "word": "of",
+        "start_offset": 85,
+        "end_offset": 87,
+        "start": 9.161,
+        "end": 9.241,
+        "score": -8.1461
+      },
+      {
+        "word": "the",
+        "start_offset": 88,
+        "end_offset": 91,
+        "start": 9.301,
+        "end": 9.401,
+        "score": -0.9371
+      },
+      {
+        "word": "Giza",
+        "start_offset": 92,
+        "end_offset": 96,
+        "start": 9.641,
+        "end": 9.941,
+        "score": -2.1089
+      },
+      {
+        "word": "pyramid",
+        "start_offset": 97,
+        "end_offset": 104,
+        "start": 10.041,
+        "end": 10.521,
+        "score": -1.2809
+      },
+      {
+        "word": "being",
+        "start_offset": 105,
+        "end_offset": 110,
+        "start": 11.221,
+        "end": 11.501,
+        "score": -0.7466
+      },
+      {
+        "word": "spread",
+        "start_offset": 111,
+        "end_offset": 117,
+        "start": 11.581,
+        "end": 11.941,
+        "score": -0.8053
+      },
+      {
+        "word": "out",
+        "start_offset": 118,
+        "end_offset": 121,
+        "start": 12.061,
+        "end": 12.281,
+        "score": -0.7028
+      },
+      {
+        "word": "as",
+        "start_offset": 122,
+        "end_offset": 124,
+        "start": 13.101,
+        "end": 13.241,
+        "score": -0.7044
+      },
+      {
+        "word": "it",
+        "start_offset": 125,
+        "end_offset": 127,
+        "start": 13.301,
+        "end": 13.401,
+        "score": -0.7076
+      },
+      {
+        "word": "moves",
+        "start_offset": 128,
+        "end_offset": 133,
+        "start": 13.461,
+        "end": 13.821,
+        "score": -0.6968
+      },
+      {
+        "word": "through",
+        "start_offset": 134,
+        "end_offset": 141,
+        "start": 13.881,
+        "end": 14.101,
+        "score": -0.7613
+      },
+      {
+        "word": "the",
+        "start_offset": 142,
+        "end_offset": 145,
+        "start": 14.161,
+        "end": 14.281,
+        "score": -0.8293
+      },
+      {
+        "word": "so-called",
+        "start_offset": 146,
+        "end_offset": 155,
+        "start": 14.481,
+        "end": 14.961,
+        "score": -0.7551
+      },
+      {
+        "word": "King's",
+        "start_offset": 156,
+        "end_offset": 162,
+        "start": 15.021,
+        "end": 15.341,
+        "score": -0.7466
+      },
+      {
+        "word": "Chamber",
+        "start_offset": 163,
+        "end_offset": 170,
+        "start": 15.401,
+        "end": 15.802,
+        "score": -0.7149
+      },
+      {
+        "word": "and",
+        "start_offset": 171,
+        "end_offset": 174,
+        "start": 16.282,
+        "end": 16.382,
+        "score": -1.0432
+      },
+      {
+        "word": "then",
+        "start_offset": 175,
+        "end_offset": 179,
+        "start": 16.402,
+        "end": 16.522,
+        "score": -2.7476
+      },
+      {
+        "word": "refocusing",
+        "start_offset": 180,
+        "end_offset": 190,
+        "start": 16.622,
+        "end": 17.402,
+        "score": -0.6993
+      },
+      {
+        "word": "in",
+        "start_offset": 191,
+        "end_offset": 193,
+        "start": 18.182,
+        "end": 18.242,
+        "score": -0.7045
+      },
+      {
+        "word": "the",
+        "start_offset": 194,
+        "end_offset": 197,
+        "start": 18.282,
+        "end": 18.342,
+        "score": -0.7615
+      },
+      {
+        "word": "so-called",
+        "start_offset": 198,
+        "end_offset": 207,
+        "start": 18.402,
+        "end": 18.882,
+        "score": -0.7576
+      },
+      {
+        "word": "Queen's",
+        "start_offset": 208,
+        "end_offset": 215,
+        "start": 19.002,
+        "end": 19.402,
+        "score": -0.8507
+      },
+      {
+        "word": "Chamber.",
+        "start_offset": 216,
+        "end_offset": 224,
+        "start": 19.482,
+        "end": 19.882,
+        "score": -0.7062
+      },
+      {
+        "word": "I",
+        "start_offset": 225,
+        "end_offset": 226,
+        "start": 20.662,
+        "end": 20.682,
+        "score": -7.8903
+      },
+      {
+        "word": "am",
+        "start_offset": 227,
+        "end_offset": 229,
+        "start": 21.762,
+        "end": 21.942,
+        "score": -4.535
+      },
+      {
+        "word": "guessing",
+        "start_offset": 230,
+        "end_offset": 238,
+        "start": 22.162,
+        "end": 22.642,
+        "score": -1.5638
+      },
+      {
+        "word": "that",
+        "start_offset": 239,
+        "end_offset": 243,
+        "start": 22.982,
+        "end": 23.222,
+        "score": -1.9154
+      },
+      {
+        "word": "the",
+        "start_offset": 244,
+        "end_offset": 247,
+        "start": 24.542,
+        "end": 24.622,
+        "score": -0.8688
+      },
+      {
+        "word": "spread",
+        "start_offset": 248,
+        "end_offset": 254,
+        "start": 24.762,
+        "end": 25.182,
+        "score": -0.8729
+      },
+      {
+        "word": "of",
+        "start_offset": 255,
+        "end_offset": 257,
+        "start": 25.242,
+        "end": 25.322,
+        "score": -0.8687
+      },
+      {
+        "word": "energy",
+        "start_offset": 258,
+        "end_offset": 264,
+        "start": 25.482,
+        "end": 25.842,
+        "score": -0.7114
+      },
+      {
+        "word": "in",
+        "start_offset": 265,
+        "end_offset": 267,
+        "start": 26.603,
+        "end": 26.683,
+        "score": -10.2248
+      },
+      {
+        "word": "the",
+        "start_offset": 268,
+        "end_offset": 271,
+        "start": 26.703,
+        "end": 26.803,
+        "score": -0.8349
+      },
+      {
+        "word": "so-called",
+        "start_offset": 272,
+        "end_offset": 281,
+        "start": 26.883,
+        "end": 27.383,
+        "score": -0.84
+      },
+      {
+        "word": "King's",
+        "start_offset": 282,
+        "end_offset": 288,
+        "start": 27.463,
+        "end": 27.863,
+        "score": -0.7485
+      },
+      {
+        "word": "Chamber",
+        "start_offset": 289,
+        "end_offset": 296,
+        "start": 27.943,
+        "end": 28.363,
+        "score": -0.7048
+      },
+      {
+        "word": "is",
+        "start_offset": 297,
+        "end_offset": 299,
+        "start": 29.143,
+        "end": 29.343,
+        "score": -0.7543
+      },
+      {
+        "word": "seen",
+        "start_offset": 300,
+        "end_offset": 304,
+        "start": 29.643,
+        "end": 30.043,
+        "score": -0.7013
+      },
+      {
+        "word": "in",
+        "start_offset": 305,
+        "end_offset": 307,
+        "start": 30.483,
+        "end": 30.583,
+        "score": -0.7015
+      },
+      {
+        "word": "the",
+        "start_offset": 308,
+        "end_offset": 311,
+        "start": 30.623,
+        "end": 30.703,
+        "score": -0.74
+      },
+      {
+        "word": "spectrum",
+        "start_offset": 312,
+        "end_offset": 320,
+        "start": 30.823,
+        "end": 31.223,
+        "score": -0.7024
+      },
+      {
+        "word": "of",
+        "start_offset": 321,
+        "end_offset": 323,
+        "start": 31.263,
+        "end": 31.343,
+        "score": -0.7316
+      },
+      {
+        "word": "colors,",
+        "start_offset": 324,
+        "end_offset": 331,
+        "start": 31.403,
+        "end": 31.823,
+        "score": -0.7197
+      },
+      {
+        "word": "red",
+        "start_offset": 332,
+        "end_offset": 335,
+        "start": 32.683,
+        "end": 32.923,
+        "score": -0.7284
+      },
+      {
+        "word": "through",
+        "start_offset": 336,
+        "end_offset": 343,
+        "start": 33.003,
+        "end": 33.323,
+        "score": -0.8672
+      },
+      {
+        "word": "violet,",
+        "start_offset": 344,
+        "end_offset": 351,
+        "start": 34.603,
+        "end": 35.083,
+        "score": -3.6835
+      },
+      {
+        "word": "and",
+        "start_offset": 352,
+        "end_offset": 355,
+        "start": 35.903,
+        "end": 36.163,
+        "score": -1.0033
+      },
+      {
+        "word": "that",
+        "start_offset": 356,
+        "end_offset": 360,
+        "start": 36.363,
+        "end": 36.604,
+        "score": -0.8207
+      },
+      {
+        "word": "the",
+        "start_offset": 361,
+        "end_offset": 364,
+        "start": 36.724,
+        "end": 36.824,
+        "score": -0.7418
+      },
+      {
+        "word": "energy",
+        "start_offset": 365,
+        "end_offset": 371,
+        "start": 36.944,
+        "end": 37.264,
+        "score": -0.6951
+      },
+      {
+        "word": "centers",
+        "start_offset": 372,
+        "end_offset": 379,
+        "start": 37.384,
+        "end": 37.764,
+        "score": -0.7151
+      },
+      {
+        "word": "of",
+        "start_offset": 380,
+        "end_offset": 382,
+        "start": 37.944,
+        "end": 38.064,
+        "score": -0.7218
+      },
+      {
+        "word": "the",
+        "start_offset": 383,
+        "end_offset": 386,
+        "start": 38.164,
+        "end": 38.264,
+        "score": -0.7791
+      },
+      {
+        "word": "entity",
+        "start_offset": 387,
+        "end_offset": 393,
+        "start": 38.484,
+        "end": 38.784,
+        "score": -0.6957
+      },
+      {
+        "word": "to",
+        "start_offset": 394,
+        "end_offset": 396,
+        "start": 38.864,
+        "end": 38.944,
+        "score": -0.7046
+      },
+      {
+        "word": "be",
+        "start_offset": 397,
+        "end_offset": 399,
+        "start": 39.024,
+        "end": 39.104,
+        "score": -0.7031
+      },
+      {
+        "word": "healed",
+        "start_offset": 400,
+        "end_offset": 406,
+        "start": 39.304,
+        "end": 39.724,
+        "score": -0.7625
+      },
+      {
+        "word": "should",
+        "start_offset": 407,
+        "end_offset": 413,
+        "start": 40.284,
+        "end": 40.464,
+        "score": -0.7029
+      },
+      {
+        "word": "be",
+        "start_offset": 414,
+        "end_offset": 416,
+        "start": 40.504,
+        "end": 40.564,
+        "score": -0.7
+      },
+      {
+        "word": "aligned",
+        "start_offset": 417,
+        "end_offset": 424,
+        "start": 40.684,
+        "end": 41.284,
+        "score": -1.7657
+      },
+      {
+        "word": "with",
+        "start_offset": 425,
+        "end_offset": 429,
+        "start": 41.764,
+        "end": 41.924,
+        "score": -0.7681
+      },
+      {
+        "word": "this",
+        "start_offset": 430,
+        "end_offset": 434,
+        "start": 41.964,
+        "end": 42.164,
+        "score": -1.8565
+      },
+      {
+        "word": "spread",
+        "start_offset": 435,
+        "end_offset": 441,
+        "start": 42.464,
+        "end": 43.044,
+        "score": -1.1709
+      },
+      {
+        "word": "of",
+        "start_offset": 442,
+        "end_offset": 444,
+        "start": 43.404,
+        "end": 43.484,
+        "score": -0.7444
+      },
+      {
+        "word": "the",
+        "start_offset": 445,
+        "end_offset": 448,
+        "start": 43.524,
+        "end": 43.584,
+        "score": -0.8721
+      },
+      {
+        "word": "spectrum",
+        "start_offset": 449,
+        "end_offset": 457,
+        "start": 43.644,
+        "end": 44.164,
+        "score": -0.7218
+      },
+      {
+        "word": "so",
+        "start_offset": 458,
+        "end_offset": 460,
+        "start": 44.284,
+        "end": 44.384,
+        "score": -0.7239
+      },
+      {
+        "word": "that",
+        "start_offset": 461,
+        "end_offset": 465,
+        "start": 44.484,
+        "end": 44.644,
+        "score": -0.8031
+      },
+      {
+        "word": "the",
+        "start_offset": 466,
+        "end_offset": 469,
+        "start": 45.244,
+        "end": 45.364,
+        "score": -1.0684
+      },
+      {
+        "word": "spectrum",
+        "start_offset": 470,
+        "end_offset": 478,
+        "start": 45.784,
+        "end": 46.284,
+        "score": -0.7132
+      },
+      {
+        "word": "matches",
+        "start_offset": 479,
+        "end_offset": 486,
+        "start": 46.344,
+        "end": 46.764,
+        "score": -0.7524
+      },
+      {
+        "word": "the",
+        "start_offset": 487,
+        "end_offset": 490,
+        "start": 46.804,
+        "end": 46.904,
+        "score": -0.8743
+      },
+      {
+        "word": "various",
+        "start_offset": 491,
+        "end_offset": 498,
+        "start": 46.944,
+        "end": 47.545,
+        "score": -3.0332
+      },
+      {
+        "word": "energy",
+        "start_offset": 499,
+        "end_offset": 505,
+        "start": 47.685,
+        "end": 48.045,
+        "score": -0.7036
+      },
+      {
+        "word": "centers.",
+        "start_offset": 506,
+        "end_offset": 514,
+        "start": 48.125,
+        "end": 48.505,
+        "score": -0.7681
+      },
+      {
+        "word": "Can",
+        "start_offset": 515,
+        "end_offset": 518,
+        "start": 49.125,
+        "end": 49.265,
+        "score": -0.7012
+      },
+      {
+        "word": "you",
+        "start_offset": 519,
+        "end_offset": 522,
+        "start": 49.305,
+        "end": 49.385,
+        "score": -0.7393
+      },
+      {
+        "word": "correct",
+        "start_offset": 523,
+        "end_offset": 530,
+        "start": 49.425,
+        "end": 49.785,
+        "score": -0.7367
+      },
+      {
+        "word": "this",
+        "start_offset": 531,
+        "end_offset": 535,
+        "start": 49.805,
+        "end": 49.925,
+        "score": -2.1475
+      },
+      {
+        "word": "statement?",
+        "start_offset": 536,
+        "end_offset": 546,
+        "start": 49.965,
+        "end": 50.445,
+        "score": -0.76
+      },
+      {
+        "word": "I",
+        "start_offset": 547,
+        "end_offset": 548,
+        "start": 53.165,
+        "end": 53.185,
+        "score": -3.1867
+      },
+      {
+        "word": "am",
+        "start_offset": 549,
+        "end_offset": 551,
+        "start": 54.105,
+        "end": 54.405,
+        "score": -4.6512
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 552,
+        "end_offset": 555,
+        "start": 55.265,
+        "end": 55.425,
+        "score": -4.3355
+      },
+      {
+        "word": "We",
+        "start_offset": 556,
+        "end_offset": 558,
+        "start": 57.546,
+        "end": 57.666,
+        "score": -3.2073
+      },
+      {
+        "word": "can",
+        "start_offset": 559,
+        "end_offset": 562,
+        "start": 58.266,
+        "end": 58.766,
+        "score": -2.596
+      },
+      {
+        "word": "correct",
+        "start_offset": 563,
+        "end_offset": 570,
+        "start": 59.566,
+        "end": 60.606,
+        "score": -1.8841
+      },
+      {
+        "word": "this",
+        "start_offset": 571,
+        "end_offset": 575,
+        "start": 61.486,
+        "end": 61.846,
+        "score": -1.9924
+      },
+      {
+        "word": "statement.",
+        "start_offset": 576,
+        "end_offset": 586,
+        "start": 62.586,
+        "end": 63.626,
+        "score": -1.6989
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "056-05.mp3",
+    "audio_duration": 64.0261,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

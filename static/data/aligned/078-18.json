@@ -1,0 +1,436 @@
+{
+  "text": "Would you please answer that? I am Ra. The nature of the vibratory range peculiar to each quantum of the octave is such that the characteristics of it may be described with the same certainty with which you perceive a color with your optical apparatus if it is functioning properly.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would you please answer that?",
+        "start_offset": 0,
+        "end_offset": 29,
+        "start": 2.68,
+        "end": 9.082
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 30,
+        "end_offset": 38,
+        "start": 9.142,
+        "end": 9.382
+      },
+      {
+        "segment": "The nature of the vibratory range peculiar to each quantum of the octave is such that the characteristics of it may be described with the same certainty with which you perceive a color with your optical apparatus if it is functioning properly.",
+        "start_offset": 39,
+        "end_offset": 282,
+        "start": 11.802,
+        "end": 91.536
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.68,
+        "end": 7.881,
+        "score": -6.5325
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 7.901,
+        "end": 8.502,
+        "score": -9.1302
+      },
+      {
+        "word": "please",
+        "start_offset": 10,
+        "end_offset": 16,
+        "start": 8.522,
+        "end": 8.662,
+        "score": -6.4422
+      },
+      {
+        "word": "answer",
+        "start_offset": 17,
+        "end_offset": 23,
+        "start": 8.742,
+        "end": 8.982,
+        "score": -5.4219
+      },
+      {
+        "word": "that?",
+        "start_offset": 24,
+        "end_offset": 29,
+        "start": 9.002,
+        "end": 9.082,
+        "score": -6.8083
+      },
+      {
+        "word": "I",
+        "start_offset": 30,
+        "end_offset": 31,
+        "start": 9.142,
+        "end": 9.162,
+        "score": -6.7829
+      },
+      {
+        "word": "am",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 9.202,
+        "end": 9.262,
+        "score": -8.0652
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 9.282,
+        "end": 9.382,
+        "score": -8.0223
+      },
+      {
+        "word": "The",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 11.802,
+        "end": 11.922,
+        "score": -0.8369
+      },
+      {
+        "word": "nature",
+        "start_offset": 43,
+        "end_offset": 49,
+        "start": 13.002,
+        "end": 13.662,
+        "score": -0.7033
+      },
+      {
+        "word": "of",
+        "start_offset": 50,
+        "end_offset": 52,
+        "start": 15.023,
+        "end": 15.283,
+        "score": -0.7577
+      },
+      {
+        "word": "the",
+        "start_offset": 53,
+        "end_offset": 56,
+        "start": 16.583,
+        "end": 16.743,
+        "score": -0.8401
+      },
+      {
+        "word": "vibratory",
+        "start_offset": 57,
+        "end_offset": 66,
+        "start": 19.083,
+        "end": 20.424,
+        "score": -0.8679
+      },
+      {
+        "word": "range",
+        "start_offset": 67,
+        "end_offset": 72,
+        "start": 21.404,
+        "end": 22.124,
+        "score": -0.7137
+      },
+      {
+        "word": "peculiar",
+        "start_offset": 73,
+        "end_offset": 81,
+        "start": 23.524,
+        "end": 24.564,
+        "score": -1.7984
+      },
+      {
+        "word": "to",
+        "start_offset": 82,
+        "end_offset": 84,
+        "start": 25.245,
+        "end": 25.405,
+        "score": -0.8753
+      },
+      {
+        "word": "each",
+        "start_offset": 85,
+        "end_offset": 89,
+        "start": 27.285,
+        "end": 27.645,
+        "score": -1.8869
+      },
+      {
+        "word": "quantum",
+        "start_offset": 90,
+        "end_offset": 97,
+        "start": 30.125,
+        "end": 30.786,
+        "score": -0.9897
+      },
+      {
+        "word": "of",
+        "start_offset": 98,
+        "end_offset": 100,
+        "start": 32.666,
+        "end": 33.006,
+        "score": -1.011
+      },
+      {
+        "word": "the",
+        "start_offset": 101,
+        "end_offset": 104,
+        "start": 34.206,
+        "end": 34.346,
+        "score": -0.9332
+      },
+      {
+        "word": "octave",
+        "start_offset": 105,
+        "end_offset": 111,
+        "start": 36.066,
+        "end": 37.007,
+        "score": -0.8853
+      },
+      {
+        "word": "is",
+        "start_offset": 112,
+        "end_offset": 114,
+        "start": 38.887,
+        "end": 39.287,
+        "score": -0.7217
+      },
+      {
+        "word": "such",
+        "start_offset": 115,
+        "end_offset": 119,
+        "start": 40.247,
+        "end": 40.867,
+        "score": -0.7818
+      },
+      {
+        "word": "that",
+        "start_offset": 120,
+        "end_offset": 124,
+        "start": 41.607,
+        "end": 42.008,
+        "score": -3.6873
+      },
+      {
+        "word": "the",
+        "start_offset": 125,
+        "end_offset": 128,
+        "start": 45.228,
+        "end": 45.368,
+        "score": -0.7356
+      },
+      {
+        "word": "characteristics",
+        "start_offset": 129,
+        "end_offset": 144,
+        "start": 46.328,
+        "end": 49.249,
+        "score": -1.2324
+      },
+      {
+        "word": "of",
+        "start_offset": 145,
+        "end_offset": 147,
+        "start": 50.629,
+        "end": 50.929,
+        "score": -0.7416
+      },
+      {
+        "word": "it",
+        "start_offset": 148,
+        "end_offset": 150,
+        "start": 51.209,
+        "end": 51.469,
+        "score": -0.7065
+      },
+      {
+        "word": "may",
+        "start_offset": 151,
+        "end_offset": 154,
+        "start": 54.19,
+        "end": 54.51,
+        "score": -0.7022
+      },
+      {
+        "word": "be",
+        "start_offset": 155,
+        "end_offset": 157,
+        "start": 55.29,
+        "end": 55.43,
+        "score": -0.7095
+      },
+      {
+        "word": "described",
+        "start_offset": 158,
+        "end_offset": 167,
+        "start": 56.55,
+        "end": 57.95,
+        "score": -0.7294
+      },
+      {
+        "word": "with",
+        "start_offset": 168,
+        "end_offset": 172,
+        "start": 59.211,
+        "end": 59.571,
+        "score": -0.7105
+      },
+      {
+        "word": "the",
+        "start_offset": 173,
+        "end_offset": 176,
+        "start": 59.911,
+        "end": 60.051,
+        "score": -0.7744
+      },
+      {
+        "word": "same",
+        "start_offset": 177,
+        "end_offset": 181,
+        "start": 60.471,
+        "end": 61.091,
+        "score": -0.7157
+      },
+      {
+        "word": "certainty",
+        "start_offset": 182,
+        "end_offset": 191,
+        "start": 62.931,
+        "end": 63.831,
+        "score": -0.8001
+      },
+      {
+        "word": "with",
+        "start_offset": 192,
+        "end_offset": 196,
+        "start": 66.292,
+        "end": 66.652,
+        "score": -0.7152
+      },
+      {
+        "word": "which",
+        "start_offset": 197,
+        "end_offset": 202,
+        "start": 66.932,
+        "end": 67.412,
+        "score": -0.7271
+      },
+      {
+        "word": "you",
+        "start_offset": 203,
+        "end_offset": 206,
+        "start": 69.732,
+        "end": 69.893,
+        "score": -0.7957
+      },
+      {
+        "word": "perceive",
+        "start_offset": 207,
+        "end_offset": 215,
+        "start": 70.893,
+        "end": 72.133,
+        "score": -1.0527
+      },
+      {
+        "word": "a",
+        "start_offset": 216,
+        "end_offset": 217,
+        "start": 73.613,
+        "end": 73.633,
+        "score": -0.7888
+      },
+      {
+        "word": "color",
+        "start_offset": 218,
+        "end_offset": 223,
+        "start": 74.073,
+        "end": 74.793,
+        "score": -0.7914
+      },
+      {
+        "word": "with",
+        "start_offset": 224,
+        "end_offset": 228,
+        "start": 76.194,
+        "end": 76.614,
+        "score": -0.7292
+      },
+      {
+        "word": "your",
+        "start_offset": 229,
+        "end_offset": 233,
+        "start": 77.534,
+        "end": 77.934,
+        "score": -1.7903
+      },
+      {
+        "word": "optical",
+        "start_offset": 234,
+        "end_offset": 241,
+        "start": 79.334,
+        "end": 80.234,
+        "score": -1.291
+      },
+      {
+        "word": "apparatus",
+        "start_offset": 242,
+        "end_offset": 251,
+        "start": 81.335,
+        "end": 82.915,
+        "score": -1.0388
+      },
+      {
+        "word": "if",
+        "start_offset": 252,
+        "end_offset": 254,
+        "start": 84.515,
+        "end": 84.755,
+        "score": -0.9627
+      },
+      {
+        "word": "it",
+        "start_offset": 255,
+        "end_offset": 257,
+        "start": 85.495,
+        "end": 85.695,
+        "score": -0.7213
+      },
+      {
+        "word": "is",
+        "start_offset": 258,
+        "end_offset": 260,
+        "start": 86.936,
+        "end": 87.216,
+        "score": -0.7086
+      },
+      {
+        "word": "functioning",
+        "start_offset": 261,
+        "end_offset": 272,
+        "start": 88.196,
+        "end": 89.336,
+        "score": -0.7928
+      },
+      {
+        "word": "properly.",
+        "start_offset": 273,
+        "end_offset": 282,
+        "start": 90.696,
+        "end": 91.536,
+        "score": -0.7102
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "078-18.mp3",
+    "audio_duration": 98.0376,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

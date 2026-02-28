@@ -1,0 +1,324 @@
+{
+  "text": "Now we have, I believe, if I remember correctly, I think you said there were 600 million wanderers approximately. Am I correct in that memory? I am Ra. This is approximately correct. There is some excess to that amount.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Now we have, I believe, if I remember correctly, I think you said there were 600 million wanderers approximately.",
+        "start_offset": 30,
+        "end_offset": 312,
+        "start": 2.4,
+        "end": 24.96
+      },
+      {
+        "segment": "Am I correct in that memory?",
+        "start_offset": 332,
+        "end_offset": 361,
+        "start": 26.560000000000002,
+        "end": 28.88
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 383,
+        "end_offset": 420,
+        "start": 30.64,
+        "end": 33.6
+      },
+      {
+        "segment": "This is approximately correct.",
+        "start_offset": 439,
+        "end_offset": 523,
+        "start": 35.12,
+        "end": 41.84
+      },
+      {
+        "segment": "There is some excess to that amount.",
+        "start_offset": 543,
+        "end_offset": 643,
+        "start": 43.44,
+        "end": 51.44
+      }
+    ],
+    "word": [
+      {
+        "word": "Now",
+        "start_offset": 30,
+        "end_offset": 38,
+        "start": 2.4,
+        "end": 3.04
+      },
+      {
+        "word": "we",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 5.44,
+        "end": 5.76
+      },
+      {
+        "word": "have,",
+        "start_offset": 76,
+        "end_offset": 80,
+        "start": 6.08,
+        "end": 6.4
+      },
+      {
+        "word": "I",
+        "start_offset": 97,
+        "end_offset": 100,
+        "start": 7.76,
+        "end": 8.0
+      },
+      {
+        "word": "believe,",
+        "start_offset": 100,
+        "end_offset": 106,
+        "start": 8.0,
+        "end": 8.48
+      },
+      {
+        "word": "if",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 8.72,
+        "end": 8.88
+      },
+      {
+        "word": "I",
+        "start_offset": 111,
+        "end_offset": 114,
+        "start": 8.88,
+        "end": 9.120000000000001
+      },
+      {
+        "word": "remember",
+        "start_offset": 114,
+        "end_offset": 119,
+        "start": 9.120000000000001,
+        "end": 9.52
+      },
+      {
+        "word": "correctly,",
+        "start_offset": 119,
+        "end_offset": 132,
+        "start": 9.52,
+        "end": 10.56
+      },
+      {
+        "word": "I",
+        "start_offset": 185,
+        "end_offset": 189,
+        "start": 14.8,
+        "end": 15.120000000000001
+      },
+      {
+        "word": "think",
+        "start_offset": 189,
+        "end_offset": 193,
+        "start": 15.120000000000001,
+        "end": 15.44
+      },
+      {
+        "word": "you",
+        "start_offset": 193,
+        "end_offset": 197,
+        "start": 15.44,
+        "end": 15.76
+      },
+      {
+        "word": "said",
+        "start_offset": 197,
+        "end_offset": 201,
+        "start": 15.76,
+        "end": 16.080000000000002
+      },
+      {
+        "word": "there",
+        "start_offset": 208,
+        "end_offset": 212,
+        "start": 16.64,
+        "end": 16.96
+      },
+      {
+        "word": "were",
+        "start_offset": 212,
+        "end_offset": 216,
+        "start": 16.96,
+        "end": 17.28
+      },
+      {
+        "word": "600",
+        "start_offset": 264,
+        "end_offset": 275,
+        "start": 21.12,
+        "end": 22.0
+      },
+      {
+        "word": "million",
+        "start_offset": 275,
+        "end_offset": 283,
+        "start": 22.0,
+        "end": 22.64
+      },
+      {
+        "word": "wanderers",
+        "start_offset": 283,
+        "end_offset": 294,
+        "start": 22.64,
+        "end": 23.52
+      },
+      {
+        "word": "approximately.",
+        "start_offset": 296,
+        "end_offset": 312,
+        "start": 23.68,
+        "end": 24.96
+      },
+      {
+        "word": "Am",
+        "start_offset": 332,
+        "end_offset": 336,
+        "start": 26.560000000000002,
+        "end": 26.88
+      },
+      {
+        "word": "I",
+        "start_offset": 336,
+        "end_offset": 339,
+        "start": 26.88,
+        "end": 27.12
+      },
+      {
+        "word": "correct",
+        "start_offset": 339,
+        "end_offset": 345,
+        "start": 27.12,
+        "end": 27.6
+      },
+      {
+        "word": "in",
+        "start_offset": 345,
+        "end_offset": 348,
+        "start": 27.6,
+        "end": 27.84
+      },
+      {
+        "word": "that",
+        "start_offset": 348,
+        "end_offset": 352,
+        "start": 27.84,
+        "end": 28.16
+      },
+      {
+        "word": "memory?",
+        "start_offset": 352,
+        "end_offset": 361,
+        "start": 28.16,
+        "end": 28.88
+      },
+      {
+        "word": "I",
+        "start_offset": 383,
+        "end_offset": 387,
+        "start": 30.64,
+        "end": 30.96
+      },
+      {
+        "word": "am",
+        "start_offset": 397,
+        "end_offset": 401,
+        "start": 31.76,
+        "end": 32.08
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 416,
+        "end_offset": 420,
+        "start": 33.28,
+        "end": 33.6
+      },
+      {
+        "word": "This",
+        "start_offset": 439,
+        "end_offset": 443,
+        "start": 35.12,
+        "end": 35.44
+      },
+      {
+        "word": "is",
+        "start_offset": 451,
+        "end_offset": 455,
+        "start": 36.08,
+        "end": 36.4
+      },
+      {
+        "word": "approximately",
+        "start_offset": 471,
+        "end_offset": 495,
+        "start": 37.68,
+        "end": 39.6
+      },
+      {
+        "word": "correct.",
+        "start_offset": 511,
+        "end_offset": 523,
+        "start": 40.88,
+        "end": 41.84
+      },
+      {
+        "word": "There",
+        "start_offset": 543,
+        "end_offset": 551,
+        "start": 43.44,
+        "end": 44.08
+      },
+      {
+        "word": "is",
+        "start_offset": 551,
+        "end_offset": 555,
+        "start": 44.08,
+        "end": 44.4
+      },
+      {
+        "word": "some",
+        "start_offset": 567,
+        "end_offset": 571,
+        "start": 45.36,
+        "end": 45.68
+      },
+      {
+        "word": "excess",
+        "start_offset": 587,
+        "end_offset": 595,
+        "start": 46.96,
+        "end": 47.6
+      },
+      {
+        "word": "to",
+        "start_offset": 603,
+        "end_offset": 607,
+        "start": 48.24,
+        "end": 48.56
+      },
+      {
+        "word": "that",
+        "start_offset": 615,
+        "end_offset": 619,
+        "start": 49.2,
+        "end": 49.52
+      },
+      {
+        "word": "amount.",
+        "start_offset": 631,
+        "end_offset": 643,
+        "start": 50.480000000000004,
+        "end": 51.44
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "063-10.mp3",
+    "audio_duration": 53.03,
+    "transcription_time": 0.12,
+    "rtfx": 454.71,
+    "timestamp": "2026-01-06T21:53:42.482921+00:00"
+  }
+}

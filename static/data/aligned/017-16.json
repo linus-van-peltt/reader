@@ -1,0 +1,236 @@
+{
+  "text": "When Jesus of Nazareth incarnated was there an attempt by the Orion group to discredit him in some way? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "When Jesus of Nazareth incarnated was there an attempt by the Orion group to discredit him in some way?",
+        "start_offset": 0,
+        "end_offset": 103,
+        "start": 2.842,
+        "end": 14.589
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 104,
+        "end_offset": 112,
+        "start": 20.092,
+        "end": 21.653
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 113,
+        "end_offset": 129,
+        "start": 24.135,
+        "end": 26.476
+      }
+    ],
+    "word": [
+      {
+        "word": "When",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.842,
+        "end": 3.042,
+        "score": -2.2033
+      },
+      {
+        "word": "Jesus",
+        "start_offset": 5,
+        "end_offset": 10,
+        "start": 3.542,
+        "end": 3.942,
+        "score": -0.7518
+      },
+      {
+        "word": "of",
+        "start_offset": 11,
+        "end_offset": 13,
+        "start": 4.022,
+        "end": 4.103,
+        "score": -2.4093
+      },
+      {
+        "word": "Nazareth",
+        "start_offset": 14,
+        "end_offset": 22,
+        "start": 4.203,
+        "end": 4.803,
+        "score": -1.3217
+      },
+      {
+        "word": "incarnated",
+        "start_offset": 23,
+        "end_offset": 33,
+        "start": 5.884,
+        "end": 6.504,
+        "score": -3.4116
+      },
+      {
+        "word": "was",
+        "start_offset": 34,
+        "end_offset": 37,
+        "start": 7.425,
+        "end": 7.645,
+        "score": -0.7868
+      },
+      {
+        "word": "there",
+        "start_offset": 38,
+        "end_offset": 43,
+        "start": 7.705,
+        "end": 7.965,
+        "score": -0.8243
+      },
+      {
+        "word": "an",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 8.745,
+        "end": 8.825,
+        "score": -0.762
+      },
+      {
+        "word": "attempt",
+        "start_offset": 47,
+        "end_offset": 54,
+        "start": 8.886,
+        "end": 9.446,
+        "score": -1.7042
+      },
+      {
+        "word": "by",
+        "start_offset": 55,
+        "end_offset": 57,
+        "start": 10.667,
+        "end": 10.967,
+        "score": -0.7377
+      },
+      {
+        "word": "the",
+        "start_offset": 58,
+        "end_offset": 61,
+        "start": 11.187,
+        "end": 11.267,
+        "score": -0.9031
+      },
+      {
+        "word": "Orion",
+        "start_offset": 62,
+        "end_offset": 67,
+        "start": 11.347,
+        "end": 11.787,
+        "score": -1.9978
+      },
+      {
+        "word": "group",
+        "start_offset": 68,
+        "end_offset": 73,
+        "start": 11.907,
+        "end": 12.148,
+        "score": -1.0616
+      },
+      {
+        "word": "to",
+        "start_offset": 74,
+        "end_offset": 76,
+        "start": 12.688,
+        "end": 12.788,
+        "score": -4.2248
+      },
+      {
+        "word": "discredit",
+        "start_offset": 77,
+        "end_offset": 86,
+        "start": 13.028,
+        "end": 13.588,
+        "score": -1.6097
+      },
+      {
+        "word": "him",
+        "start_offset": 87,
+        "end_offset": 90,
+        "start": 13.648,
+        "end": 13.809,
+        "score": -1.5977
+      },
+      {
+        "word": "in",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 13.929,
+        "end": 14.049,
+        "score": -3.8128
+      },
+      {
+        "word": "some",
+        "start_offset": 94,
+        "end_offset": 98,
+        "start": 14.109,
+        "end": 14.329,
+        "score": -0.9306
+      },
+      {
+        "word": "way?",
+        "start_offset": 99,
+        "end_offset": 103,
+        "start": 14.389,
+        "end": 14.589,
+        "score": -1.1606
+      },
+      {
+        "word": "I",
+        "start_offset": 104,
+        "end_offset": 105,
+        "start": 20.092,
+        "end": 20.112,
+        "score": -2.0809
+      },
+      {
+        "word": "am",
+        "start_offset": 106,
+        "end_offset": 108,
+        "start": 20.913,
+        "end": 20.993,
+        "score": -3.144
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 109,
+        "end_offset": 112,
+        "start": 21.513,
+        "end": 21.653,
+        "score": -4.3898
+      },
+      {
+        "word": "This",
+        "start_offset": 113,
+        "end_offset": 117,
+        "start": 24.135,
+        "end": 24.595,
+        "score": -2.0037
+      },
+      {
+        "word": "is",
+        "start_offset": 118,
+        "end_offset": 120,
+        "start": 25.256,
+        "end": 25.496,
+        "score": -1.6355
+      },
+      {
+        "word": "correct.",
+        "start_offset": 121,
+        "end_offset": 129,
+        "start": 26.016,
+        "end": 26.476,
+        "score": -1.7644
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "017-16.mp3",
+    "audio_duration": 27.0368,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

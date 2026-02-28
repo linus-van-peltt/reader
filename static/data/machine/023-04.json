@@ -1,0 +1,170 @@
+{
+  "text": "Did you have a reason for being visible to them rather than invisible? I am raw. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Did you have a reason for being visible to them rather than invisible?",
+        "start_offset": 15,
+        "end_offset": 80,
+        "start": 1.2,
+        "end": 6.4
+      },
+      {
+        "segment": "I am raw.",
+        "start_offset": 132,
+        "end_offset": 168,
+        "start": 10.56,
+        "end": 13.44
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 204,
+        "end_offset": 240,
+        "start": 16.32,
+        "end": 19.2
+      }
+    ],
+    "word": [
+      {
+        "word": "Did",
+        "start_offset": 15,
+        "end_offset": 21,
+        "start": 1.2,
+        "end": 1.68
+      },
+      {
+        "word": "you",
+        "start_offset": 21,
+        "end_offset": 24,
+        "start": 1.68,
+        "end": 1.92
+      },
+      {
+        "word": "have",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 1.92,
+        "end": 2.16
+      },
+      {
+        "word": "a",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 2.16,
+        "end": 2.4
+      },
+      {
+        "word": "reason",
+        "start_offset": 30,
+        "end_offset": 38,
+        "start": 2.4,
+        "end": 3.04
+      },
+      {
+        "word": "for",
+        "start_offset": 38,
+        "end_offset": 42,
+        "start": 3.04,
+        "end": 3.36
+      },
+      {
+        "word": "being",
+        "start_offset": 42,
+        "end_offset": 47,
+        "start": 3.36,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "visible",
+        "start_offset": 47,
+        "end_offset": 53,
+        "start": 3.7600000000000002,
+        "end": 4.24
+      },
+      {
+        "word": "to",
+        "start_offset": 53,
+        "end_offset": 57,
+        "start": 4.24,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "them",
+        "start_offset": 57,
+        "end_offset": 59,
+        "start": 4.5600000000000005,
+        "end": 4.72
+      },
+      {
+        "word": "rather",
+        "start_offset": 59,
+        "end_offset": 64,
+        "start": 4.72,
+        "end": 5.12
+      },
+      {
+        "word": "than",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 5.12,
+        "end": 5.36
+      },
+      {
+        "word": "invisible?",
+        "start_offset": 67,
+        "end_offset": 80,
+        "start": 5.36,
+        "end": 6.4
+      },
+      {
+        "word": "I",
+        "start_offset": 132,
+        "end_offset": 136,
+        "start": 10.56,
+        "end": 10.88
+      },
+      {
+        "word": "am",
+        "start_offset": 144,
+        "end_offset": 148,
+        "start": 11.52,
+        "end": 11.84
+      },
+      {
+        "word": "raw.",
+        "start_offset": 156,
+        "end_offset": 168,
+        "start": 12.48,
+        "end": 13.44
+      },
+      {
+        "word": "This",
+        "start_offset": 204,
+        "end_offset": 208,
+        "start": 16.32,
+        "end": 16.64
+      },
+      {
+        "word": "is",
+        "start_offset": 216,
+        "end_offset": 220,
+        "start": 17.28,
+        "end": 17.6
+      },
+      {
+        "word": "correct.",
+        "start_offset": 228,
+        "end_offset": 240,
+        "start": 18.240000000000002,
+        "end": 19.2
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "023-04.mp3",
+    "audio_duration": 20.04,
+    "transcription_time": 0.09,
+    "rtfx": 234.82,
+    "timestamp": "2026-01-06T21:48:40.906472+00:00"
+  }
+}

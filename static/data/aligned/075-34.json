@@ -1,0 +1,428 @@
+{
+  "text": "Well, is there an optimum length of hair for this aid? I am Ra. There is no outer limit on length but the, shall we say, inner limit is approximately four to four and one-half inches depending upon the strength of the contact and the nature of the instrument.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Well, is there an optimum length of hair for this aid?",
+        "start_offset": 0,
+        "end_offset": 54,
+        "start": 1.981,
+        "end": 12.684
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 55,
+        "end_offset": 63,
+        "start": 13.424,
+        "end": 14.704
+      },
+      {
+        "segment": "There is no outer limit on length but the, shall we say, inner limit is approximately four to four and one-half inches depending upon the strength of the contact and the nature of the instrument.",
+        "start_offset": 64,
+        "end_offset": 259,
+        "start": 17.165,
+        "end": 79.142
+      }
+    ],
+    "word": [
+      {
+        "word": "Well,",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 1.981,
+        "end": 2.121,
+        "score": -7.771
+      },
+      {
+        "word": "is",
+        "start_offset": 6,
+        "end_offset": 8,
+        "start": 3.181,
+        "end": 3.281,
+        "score": -4.2819
+      },
+      {
+        "word": "there",
+        "start_offset": 9,
+        "end_offset": 14,
+        "start": 3.321,
+        "end": 3.481,
+        "score": -3.4814
+      },
+      {
+        "word": "an",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 3.501,
+        "end": 3.541,
+        "score": -6.3923
+      },
+      {
+        "word": "optimum",
+        "start_offset": 18,
+        "end_offset": 25,
+        "start": 3.621,
+        "end": 4.041,
+        "score": -5.7068
+      },
+      {
+        "word": "length",
+        "start_offset": 26,
+        "end_offset": 32,
+        "start": 4.121,
+        "end": 4.441,
+        "score": -4.4226
+      },
+      {
+        "word": "of",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 4.781,
+        "end": 4.921,
+        "score": -7.5347
+      },
+      {
+        "word": "hair",
+        "start_offset": 36,
+        "end_offset": 40,
+        "start": 4.941,
+        "end": 5.201,
+        "score": -6.2334
+      },
+      {
+        "word": "for",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 5.502,
+        "end": 5.622,
+        "score": -7.5637
+      },
+      {
+        "word": "this",
+        "start_offset": 45,
+        "end_offset": 49,
+        "start": 5.642,
+        "end": 5.862,
+        "score": -5.064
+      },
+      {
+        "word": "aid?",
+        "start_offset": 50,
+        "end_offset": 54,
+        "start": 12.363,
+        "end": 12.684,
+        "score": -3.5247
+      },
+      {
+        "word": "I",
+        "start_offset": 55,
+        "end_offset": 56,
+        "start": 13.424,
+        "end": 13.444,
+        "score": -3.5926
+      },
+      {
+        "word": "am",
+        "start_offset": 57,
+        "end_offset": 59,
+        "start": 14.484,
+        "end": 14.524,
+        "score": -5.5643
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 60,
+        "end_offset": 63,
+        "start": 14.584,
+        "end": 14.704,
+        "score": -1.2491
+      },
+      {
+        "word": "There",
+        "start_offset": 64,
+        "end_offset": 69,
+        "start": 17.165,
+        "end": 17.505,
+        "score": -0.8386
+      },
+      {
+        "word": "is",
+        "start_offset": 70,
+        "end_offset": 72,
+        "start": 18.445,
+        "end": 18.805,
+        "score": -0.7721
+      },
+      {
+        "word": "no",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 19.746,
+        "end": 19.906,
+        "score": -0.8001
+      },
+      {
+        "word": "outer",
+        "start_offset": 76,
+        "end_offset": 81,
+        "start": 21.906,
+        "end": 22.286,
+        "score": -0.8428
+      },
+      {
+        "word": "limit",
+        "start_offset": 82,
+        "end_offset": 87,
+        "start": 23.447,
+        "end": 23.827,
+        "score": -0.7282
+      },
+      {
+        "word": "on",
+        "start_offset": 88,
+        "end_offset": 90,
+        "start": 25.127,
+        "end": 25.407,
+        "score": -0.8441
+      },
+      {
+        "word": "length",
+        "start_offset": 91,
+        "end_offset": 97,
+        "start": 26.287,
+        "end": 26.728,
+        "score": -1.5129
+      },
+      {
+        "word": "but",
+        "start_offset": 98,
+        "end_offset": 101,
+        "start": 28.868,
+        "end": 29.228,
+        "score": -0.8867
+      },
+      {
+        "word": "the,",
+        "start_offset": 102,
+        "end_offset": 106,
+        "start": 30.589,
+        "end": 30.729,
+        "score": -0.8251
+      },
+      {
+        "word": "shall",
+        "start_offset": 107,
+        "end_offset": 112,
+        "start": 36.39,
+        "end": 36.73,
+        "score": -0.8
+      },
+      {
+        "word": "we",
+        "start_offset": 113,
+        "end_offset": 115,
+        "start": 36.91,
+        "end": 37.01,
+        "score": -0.7587
+      },
+      {
+        "word": "say,",
+        "start_offset": 116,
+        "end_offset": 120,
+        "start": 37.25,
+        "end": 37.571,
+        "score": -0.9137
+      },
+      {
+        "word": "inner",
+        "start_offset": 121,
+        "end_offset": 126,
+        "start": 39.691,
+        "end": 40.011,
+        "score": -0.9418
+      },
+      {
+        "word": "limit",
+        "start_offset": 127,
+        "end_offset": 132,
+        "start": 40.911,
+        "end": 41.292,
+        "score": -0.7343
+      },
+      {
+        "word": "is",
+        "start_offset": 133,
+        "end_offset": 135,
+        "start": 43.732,
+        "end": 44.072,
+        "score": -0.8052
+      },
+      {
+        "word": "approximately",
+        "start_offset": 136,
+        "end_offset": 149,
+        "start": 44.953,
+        "end": 46.633,
+        "score": -1.1241
+      },
+      {
+        "word": "four",
+        "start_offset": 150,
+        "end_offset": 154,
+        "start": 48.554,
+        "end": 48.974,
+        "score": -2.7887
+      },
+      {
+        "word": "to",
+        "start_offset": 155,
+        "end_offset": 157,
+        "start": 49.454,
+        "end": 49.734,
+        "score": -2.5142
+      },
+      {
+        "word": "four",
+        "start_offset": 158,
+        "end_offset": 162,
+        "start": 51.034,
+        "end": 51.414,
+        "score": -3.1639
+      },
+      {
+        "word": "and",
+        "start_offset": 163,
+        "end_offset": 166,
+        "start": 51.715,
+        "end": 51.995,
+        "score": -1.653
+      },
+      {
+        "word": "one-half",
+        "start_offset": 167,
+        "end_offset": 175,
+        "start": 52.415,
+        "end": 53.075,
+        "score": -1.8525
+      },
+      {
+        "word": "inches",
+        "start_offset": 176,
+        "end_offset": 182,
+        "start": 54.855,
+        "end": 55.536,
+        "score": -1.2287
+      },
+      {
+        "word": "depending",
+        "start_offset": 183,
+        "end_offset": 192,
+        "start": 57.236,
+        "end": 58.096,
+        "score": -0.734
+      },
+      {
+        "word": "upon",
+        "start_offset": 193,
+        "end_offset": 197,
+        "start": 59.597,
+        "end": 60.257,
+        "score": -2.0087
+      },
+      {
+        "word": "the",
+        "start_offset": 198,
+        "end_offset": 201,
+        "start": 60.777,
+        "end": 60.917,
+        "score": -0.7852
+      },
+      {
+        "word": "strength",
+        "start_offset": 202,
+        "end_offset": 210,
+        "start": 65.318,
+        "end": 65.979,
+        "score": -0.9717
+      },
+      {
+        "word": "of",
+        "start_offset": 211,
+        "end_offset": 213,
+        "start": 67.239,
+        "end": 67.619,
+        "score": -0.8901
+      },
+      {
+        "word": "the",
+        "start_offset": 214,
+        "end_offset": 217,
+        "start": 67.979,
+        "end": 68.139,
+        "score": -0.8607
+      },
+      {
+        "word": "contact",
+        "start_offset": 218,
+        "end_offset": 225,
+        "start": 69.92,
+        "end": 70.9,
+        "score": -0.72
+      },
+      {
+        "word": "and",
+        "start_offset": 226,
+        "end_offset": 229,
+        "start": 72.44,
+        "end": 72.78,
+        "score": -0.7098
+      },
+      {
+        "word": "the",
+        "start_offset": 230,
+        "end_offset": 233,
+        "start": 73.081,
+        "end": 73.201,
+        "score": -0.7541
+      },
+      {
+        "word": "nature",
+        "start_offset": 234,
+        "end_offset": 240,
+        "start": 73.781,
+        "end": 74.461,
+        "score": -0.759
+      },
+      {
+        "word": "of",
+        "start_offset": 241,
+        "end_offset": 243,
+        "start": 75.701,
+        "end": 76.001,
+        "score": -0.7325
+      },
+      {
+        "word": "the",
+        "start_offset": 244,
+        "end_offset": 247,
+        "start": 76.341,
+        "end": 76.501,
+        "score": -0.8039
+      },
+      {
+        "word": "instrument.",
+        "start_offset": 248,
+        "end_offset": 259,
+        "start": 78.022,
+        "end": 79.142,
+        "score": -0.7645
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "075-34.mp3",
+    "audio_duration": 83.0433,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "text": "Let me be sure that I understand you. Is that darkness experienced in negative space/time or in negative time/space? I am Ra. Negative time/space.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Let me be sure that I understand you.",
+        "start_offset": 0,
+        "end_offset": 37,
+        "start": 1.101,
+        "end": 2.603
+      },
+      {
+        "segment": "Is that darkness experienced in negative space/time or in negative time/space?",
+        "start_offset": 38,
+        "end_offset": 116,
+        "start": 2.663,
+        "end": 6.969
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 117,
+        "end_offset": 125,
+        "start": 10.293,
+        "end": 14.938
+      },
+      {
+        "segment": "Negative time/space.",
+        "start_offset": 126,
+        "end_offset": 146,
+        "start": 15.098,
+        "end": 18.903
+      }
+    ],
+    "word": [
+      {
+        "word": "Let",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 1.101,
+        "end": 1.201,
+        "score": -3.718
+      },
+      {
+        "word": "me",
+        "start_offset": 4,
+        "end_offset": 6,
+        "start": 1.262,
+        "end": 1.342,
+        "score": -2.4547
+      },
+      {
+        "word": "be",
+        "start_offset": 7,
+        "end_offset": 9,
+        "start": 1.402,
+        "end": 1.442,
+        "score": -4.2043
+      },
+      {
+        "word": "sure",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 1.462,
+        "end": 1.622,
+        "score": -3.7101
+      },
+      {
+        "word": "that",
+        "start_offset": 15,
+        "end_offset": 19,
+        "start": 1.702,
+        "end": 1.862,
+        "score": -3.183
+      },
+      {
+        "word": "I",
+        "start_offset": 20,
+        "end_offset": 21,
+        "start": 1.922,
+        "end": 1.942,
+        "score": -3.9677
+      },
+      {
+        "word": "understand",
+        "start_offset": 22,
+        "end_offset": 32,
+        "start": 2.063,
+        "end": 2.503,
+        "score": -0.7509
+      },
+      {
+        "word": "you.",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 2.543,
+        "end": 2.603,
+        "score": -2.7296
+      },
+      {
+        "word": "Is",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 2.663,
+        "end": 2.743,
+        "score": -1.1663
+      },
+      {
+        "word": "that",
+        "start_offset": 41,
+        "end_offset": 45,
+        "start": 2.763,
+        "end": 2.924,
+        "score": -0.7649
+      },
+      {
+        "word": "darkness",
+        "start_offset": 46,
+        "end_offset": 54,
+        "start": 3.024,
+        "end": 3.404,
+        "score": -0.7357
+      },
+      {
+        "word": "experienced",
+        "start_offset": 55,
+        "end_offset": 66,
+        "start": 3.464,
+        "end": 4.065,
+        "score": -0.7264
+      },
+      {
+        "word": "in",
+        "start_offset": 67,
+        "end_offset": 69,
+        "start": 4.105,
+        "end": 4.185,
+        "score": -1.6071
+      },
+      {
+        "word": "negative",
+        "start_offset": 70,
+        "end_offset": 78,
+        "start": 4.265,
+        "end": 4.846,
+        "score": -3.581
+      },
+      {
+        "word": "space/time",
+        "start_offset": 79,
+        "end_offset": 89,
+        "start": 5.006,
+        "end": 5.647,
+        "score": -0.8251
+      },
+      {
+        "word": "or",
+        "start_offset": 90,
+        "end_offset": 92,
+        "start": 5.707,
+        "end": 5.787,
+        "score": -1.4361
+      },
+      {
+        "word": "in",
+        "start_offset": 93,
+        "end_offset": 95,
+        "start": 5.807,
+        "end": 5.847,
+        "score": -4.1223
+      },
+      {
+        "word": "negative",
+        "start_offset": 96,
+        "end_offset": 104,
+        "start": 5.887,
+        "end": 6.228,
+        "score": -0.7337
+      },
+      {
+        "word": "time/space?",
+        "start_offset": 105,
+        "end_offset": 116,
+        "start": 6.268,
+        "end": 6.969,
+        "score": -1.1451
+      },
+      {
+        "word": "I",
+        "start_offset": 117,
+        "end_offset": 118,
+        "start": 10.293,
+        "end": 10.313,
+        "score": -3.6856
+      },
+      {
+        "word": "am",
+        "start_offset": 119,
+        "end_offset": 121,
+        "start": 11.013,
+        "end": 11.354,
+        "score": -3.219
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 122,
+        "end_offset": 125,
+        "start": 12.335,
+        "end": 14.938,
+        "score": -3.0758
+      },
+      {
+        "word": "Negative",
+        "start_offset": 126,
+        "end_offset": 134,
+        "start": 15.098,
+        "end": 16.26,
+        "score": -1.6636
+      },
+      {
+        "word": "time/space.",
+        "start_offset": 135,
+        "end_offset": 146,
+        "start": 16.861,
+        "end": 18.903,
+        "score": -2.9022
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "068-08.mp3",
+    "audio_duration": 19.0433,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "text": "Do you mean that the sum of the four base sides should be 1. 16 of the height of the pyramid? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Do you mean that the sum of the four base sides should be of the height of the pyramid?",
+        "start_offset": 0,
+        "end_offset": 93,
+        "start": 2.381,
+        "end": 13.745
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 94,
+        "end_offset": 102,
+        "start": 16.526,
+        "end": 18.187
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 103,
+        "end_offset": 119,
+        "start": 19.487,
+        "end": 23.129
+      }
+    ],
+    "word": [
+      {
+        "word": "Do",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.381,
+        "end": 2.461,
+        "score": -0.7056
+      },
+      {
+        "word": "you",
+        "start_offset": 3,
+        "end_offset": 6,
+        "start": 2.541,
+        "end": 2.661,
+        "score": -0.7348
+      },
+      {
+        "word": "mean",
+        "start_offset": 7,
+        "end_offset": 11,
+        "start": 2.761,
+        "end": 2.961,
+        "score": -0.6993
+      },
+      {
+        "word": "that",
+        "start_offset": 12,
+        "end_offset": 16,
+        "start": 3.021,
+        "end": 3.201,
+        "score": -0.7383
+      },
+      {
+        "word": "the",
+        "start_offset": 17,
+        "end_offset": 20,
+        "start": 4.882,
+        "end": 4.982,
+        "score": -0.7606
+      },
+      {
+        "word": "sum",
+        "start_offset": 21,
+        "end_offset": 24,
+        "start": 5.082,
+        "end": 5.362,
+        "score": -2.5653
+      },
+      {
+        "word": "of",
+        "start_offset": 25,
+        "end_offset": 27,
+        "start": 5.722,
+        "end": 5.802,
+        "score": -0.7425
+      },
+      {
+        "word": "the",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 5.842,
+        "end": 5.902,
+        "score": -0.9703
+      },
+      {
+        "word": "four",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 5.962,
+        "end": 6.182,
+        "score": -0.8414
+      },
+      {
+        "word": "base",
+        "start_offset": 37,
+        "end_offset": 41,
+        "start": 6.242,
+        "end": 6.582,
+        "score": -0.7122
+      },
+      {
+        "word": "sides",
+        "start_offset": 42,
+        "end_offset": 47,
+        "start": 6.642,
+        "end": 7.123,
+        "score": -1.1592
+      },
+      {
+        "word": "should",
+        "start_offset": 48,
+        "end_offset": 54,
+        "start": 7.643,
+        "end": 7.823,
+        "score": -0.7788
+      },
+      {
+        "word": "be",
+        "start_offset": 55,
+        "end_offset": 57,
+        "start": 7.863,
+        "end": 7.923,
+        "score": -0.7247
+      },
+      {
+        "word": "of",
+        "start_offset": 64,
+        "end_offset": 66,
+        "start": 8.503,
+        "end": 9.384,
+        "score": -7.2461
+      },
+      {
+        "word": "the",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 10.864,
+        "end": 11.004,
+        "score": -1.22
+      },
+      {
+        "word": "height",
+        "start_offset": 71,
+        "end_offset": 77,
+        "start": 12.745,
+        "end": 13.005,
+        "score": -1.6553
+      },
+      {
+        "word": "of",
+        "start_offset": 78,
+        "end_offset": 80,
+        "start": 13.085,
+        "end": 13.125,
+        "score": -0.9703
+      },
+      {
+        "word": "the",
+        "start_offset": 81,
+        "end_offset": 84,
+        "start": 13.165,
+        "end": 13.225,
+        "score": -1.0015
+      },
+      {
+        "word": "pyramid?",
+        "start_offset": 85,
+        "end_offset": 93,
+        "start": 13.285,
+        "end": 13.745,
+        "score": -1.1714
+      },
+      {
+        "word": "I",
+        "start_offset": 94,
+        "end_offset": 95,
+        "start": 16.526,
+        "end": 16.546,
+        "score": -1.7922
+      },
+      {
+        "word": "am",
+        "start_offset": 96,
+        "end_offset": 98,
+        "start": 17.146,
+        "end": 17.527,
+        "score": -4.0229
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 99,
+        "end_offset": 102,
+        "start": 18.047,
+        "end": 18.187,
+        "score": -2.1098
+      },
+      {
+        "word": "This",
+        "start_offset": 103,
+        "end_offset": 107,
+        "start": 19.487,
+        "end": 19.948,
+        "score": -1.9053
+      },
+      {
+        "word": "is",
+        "start_offset": 108,
+        "end_offset": 110,
+        "start": 20.688,
+        "end": 21.068,
+        "score": -1.2012
+      },
+      {
+        "word": "correct.",
+        "start_offset": 111,
+        "end_offset": 119,
+        "start": 21.988,
+        "end": 23.129,
+        "score": -2.19
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "057-23.mp3",
+    "audio_duration": 38.0343,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

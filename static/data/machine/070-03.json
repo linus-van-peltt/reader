@@ -1,0 +1,240 @@
+{
+  "text": "The instrument has complained of intensive psychic attack for the past diurnal period approximately. Is there a reason for the intensification of this at this time? Aye. Yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "The instrument has complained of intensive psychic attack for the past diurnal period approximately.",
+        "start_offset": 27,
+        "end_offset": 139,
+        "start": 2.16,
+        "end": 11.120000000000001
+      },
+      {
+        "segment": "Is there a reason for the intensification of this at this time?",
+        "start_offset": 142,
+        "end_offset": 206,
+        "start": 11.36,
+        "end": 16.48
+      },
+      {
+        "segment": "Aye.",
+        "start_offset": 247,
+        "end_offset": 255,
+        "start": 19.76,
+        "end": 20.400000000000002
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 311,
+        "end_offset": 317,
+        "start": 24.88,
+        "end": 25.36
+      }
+    ],
+    "word": [
+      {
+        "word": "The",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 2.16,
+        "end": 2.48
+      },
+      {
+        "word": "instrument",
+        "start_offset": 33,
+        "end_offset": 42,
+        "start": 2.64,
+        "end": 3.36
+      },
+      {
+        "word": "has",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 3.36,
+        "end": 3.6
+      },
+      {
+        "word": "complained",
+        "start_offset": 49,
+        "end_offset": 62,
+        "start": 3.92,
+        "end": 4.96
+      },
+      {
+        "word": "of",
+        "start_offset": 62,
+        "end_offset": 66,
+        "start": 4.96,
+        "end": 5.28
+      },
+      {
+        "word": "intensive",
+        "start_offset": 66,
+        "end_offset": 74,
+        "start": 5.28,
+        "end": 5.92
+      },
+      {
+        "word": "psychic",
+        "start_offset": 74,
+        "end_offset": 81,
+        "start": 5.92,
+        "end": 6.48
+      },
+      {
+        "word": "attack",
+        "start_offset": 81,
+        "end_offset": 92,
+        "start": 6.48,
+        "end": 7.36
+      },
+      {
+        "word": "for",
+        "start_offset": 106,
+        "end_offset": 110,
+        "start": 8.48,
+        "end": 8.8
+      },
+      {
+        "word": "the",
+        "start_offset": 110,
+        "end_offset": 113,
+        "start": 8.8,
+        "end": 9.040000000000001
+      },
+      {
+        "word": "past",
+        "start_offset": 113,
+        "end_offset": 117,
+        "start": 9.040000000000001,
+        "end": 9.36
+      },
+      {
+        "word": "diurnal",
+        "start_offset": 117,
+        "end_offset": 127,
+        "start": 9.36,
+        "end": 10.16
+      },
+      {
+        "word": "period",
+        "start_offset": 127,
+        "end_offset": 130,
+        "start": 10.16,
+        "end": 10.4
+      },
+      {
+        "word": "approximately.",
+        "start_offset": 131,
+        "end_offset": 139,
+        "start": 10.48,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "Is",
+        "start_offset": 142,
+        "end_offset": 146,
+        "start": 11.36,
+        "end": 11.68
+      },
+      {
+        "word": "there",
+        "start_offset": 146,
+        "end_offset": 150,
+        "start": 11.68,
+        "end": 12.0
+      },
+      {
+        "word": "a",
+        "start_offset": 158,
+        "end_offset": 162,
+        "start": 12.64,
+        "end": 12.96
+      },
+      {
+        "word": "reason",
+        "start_offset": 162,
+        "end_offset": 171,
+        "start": 12.96,
+        "end": 13.68
+      },
+      {
+        "word": "for",
+        "start_offset": 171,
+        "end_offset": 174,
+        "start": 13.68,
+        "end": 13.92
+      },
+      {
+        "word": "the",
+        "start_offset": 174,
+        "end_offset": 177,
+        "start": 13.92,
+        "end": 14.16
+      },
+      {
+        "word": "intensification",
+        "start_offset": 177,
+        "end_offset": 190,
+        "start": 14.16,
+        "end": 15.200000000000001
+      },
+      {
+        "word": "of",
+        "start_offset": 190,
+        "end_offset": 192,
+        "start": 15.200000000000001,
+        "end": 15.36
+      },
+      {
+        "word": "this",
+        "start_offset": 192,
+        "end_offset": 195,
+        "start": 15.36,
+        "end": 15.6
+      },
+      {
+        "word": "at",
+        "start_offset": 195,
+        "end_offset": 198,
+        "start": 15.6,
+        "end": 15.84
+      },
+      {
+        "word": "this",
+        "start_offset": 198,
+        "end_offset": 202,
+        "start": 15.84,
+        "end": 16.16
+      },
+      {
+        "word": "time?",
+        "start_offset": 202,
+        "end_offset": 206,
+        "start": 16.16,
+        "end": 16.48
+      },
+      {
+        "word": "Aye.",
+        "start_offset": 247,
+        "end_offset": 255,
+        "start": 19.76,
+        "end": 20.400000000000002
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 311,
+        "end_offset": 317,
+        "start": 24.88,
+        "end": 25.36
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "070-03.mp3",
+    "audio_duration": 27.04,
+    "transcription_time": 0.09,
+    "rtfx": 289.42,
+    "timestamp": "2026-01-06T21:54:54.226274+00:00"
+  }
+}

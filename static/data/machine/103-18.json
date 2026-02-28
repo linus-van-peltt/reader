@@ -1,0 +1,226 @@
+{
+  "text": "What is the reason? Why and wow. The lack of a regular repetition of a V so called banishing ritual is the lack of which we spoke.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What is the reason?",
+        "start_offset": 6,
+        "end_offset": 23,
+        "start": 0.48,
+        "end": 1.84
+      },
+      {
+        "segment": "Why and wow.",
+        "start_offset": 50,
+        "end_offset": 85,
+        "start": 4.0,
+        "end": 6.8
+      },
+      {
+        "segment": "The lack of a regular repetition of a V so called banishing ritual is the lack of which we spoke.",
+        "start_offset": 128,
+        "end_offset": 532,
+        "start": 10.24,
+        "end": 42.56
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 0.48,
+        "end": 0.8
+      },
+      {
+        "word": "is",
+        "start_offset": 10,
+        "end_offset": 12,
+        "start": 0.8,
+        "end": 0.96
+      },
+      {
+        "word": "the",
+        "start_offset": 12,
+        "end_offset": 15,
+        "start": 0.96,
+        "end": 1.2
+      },
+      {
+        "word": "reason?",
+        "start_offset": 15,
+        "end_offset": 23,
+        "start": 1.2,
+        "end": 1.84
+      },
+      {
+        "word": "Why",
+        "start_offset": 50,
+        "end_offset": 57,
+        "start": 4.0,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "and",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 5.2,
+        "end": 5.44
+      },
+      {
+        "word": "wow.",
+        "start_offset": 79,
+        "end_offset": 85,
+        "start": 6.32,
+        "end": 6.8
+      },
+      {
+        "word": "The",
+        "start_offset": 128,
+        "end_offset": 132,
+        "start": 10.24,
+        "end": 10.56
+      },
+      {
+        "word": "lack",
+        "start_offset": 157,
+        "end_offset": 165,
+        "start": 12.56,
+        "end": 13.200000000000001
+      },
+      {
+        "word": "of",
+        "start_offset": 169,
+        "end_offset": 173,
+        "start": 13.52,
+        "end": 13.84
+      },
+      {
+        "word": "a",
+        "start_offset": 205,
+        "end_offset": 208,
+        "start": 16.4,
+        "end": 16.64
+      },
+      {
+        "word": "regular",
+        "start_offset": 211,
+        "end_offset": 223,
+        "start": 16.88,
+        "end": 17.84
+      },
+      {
+        "word": "repetition",
+        "start_offset": 235,
+        "end_offset": 247,
+        "start": 18.8,
+        "end": 19.76
+      },
+      {
+        "word": "of",
+        "start_offset": 267,
+        "end_offset": 271,
+        "start": 21.36,
+        "end": 21.68
+      },
+      {
+        "word": "a",
+        "start_offset": 295,
+        "end_offset": 297,
+        "start": 23.6,
+        "end": 23.76
+      },
+      {
+        "word": "V",
+        "start_offset": 300,
+        "end_offset": 303,
+        "start": 24.0,
+        "end": 24.240000000000002
+      },
+      {
+        "word": "so",
+        "start_offset": 335,
+        "end_offset": 339,
+        "start": 26.8,
+        "end": 27.12
+      },
+      {
+        "word": "called",
+        "start_offset": 345,
+        "end_offset": 356,
+        "start": 27.6,
+        "end": 28.48
+      },
+      {
+        "word": "banishing",
+        "start_offset": 361,
+        "end_offset": 375,
+        "start": 28.88,
+        "end": 30.0
+      },
+      {
+        "word": "ritual",
+        "start_offset": 384,
+        "end_offset": 394,
+        "start": 30.72,
+        "end": 31.52
+      },
+      {
+        "word": "is",
+        "start_offset": 425,
+        "end_offset": 429,
+        "start": 34.0,
+        "end": 34.32
+      },
+      {
+        "word": "the",
+        "start_offset": 445,
+        "end_offset": 449,
+        "start": 35.6,
+        "end": 35.92
+      },
+      {
+        "word": "lack",
+        "start_offset": 457,
+        "end_offset": 465,
+        "start": 36.56,
+        "end": 37.2
+      },
+      {
+        "word": "of",
+        "start_offset": 469,
+        "end_offset": 473,
+        "start": 37.52,
+        "end": 37.84
+      },
+      {
+        "word": "which",
+        "start_offset": 477,
+        "end_offset": 481,
+        "start": 38.160000000000004,
+        "end": 38.480000000000004
+      },
+      {
+        "word": "we",
+        "start_offset": 505,
+        "end_offset": 509,
+        "start": 40.4,
+        "end": 40.72
+      },
+      {
+        "word": "spoke.",
+        "start_offset": 520,
+        "end_offset": 532,
+        "start": 41.6,
+        "end": 42.56
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "103-18.mp3",
+    "audio_duration": 43.05,
+    "transcription_time": 0.11,
+    "rtfx": 383.13,
+    "timestamp": "2026-01-06T22:00:45.725642+00:00"
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "text": "There was no catalyst for the machine to malfunction from any of the negative entities then. Is that right? I mean it just was a function only of the random malfunction of the machine. Am I correct? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "There was no catalyst for the machine to malfunction from any of the negative entities then.",
+        "start_offset": 0,
+        "end_offset": 92,
+        "start": 2.342,
+        "end": 10.209
+      },
+      {
+        "segment": "Is that right?",
+        "start_offset": 93,
+        "end_offset": 107,
+        "start": 10.229,
+        "end": 10.769
+      },
+      {
+        "segment": "I mean it just was a function only of the random malfunction of the machine.",
+        "start_offset": 108,
+        "end_offset": 184,
+        "start": 11.25,
+        "end": 15.153
+      },
+      {
+        "segment": "Am I correct?",
+        "start_offset": 185,
+        "end_offset": 198,
+        "start": 15.173,
+        "end": 15.674
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 199,
+        "end_offset": 207,
+        "start": 15.694,
+        "end": 18.216
+      },
+      {
+        "segment": "No.",
+        "start_offset": 208,
+        "end_offset": 211,
+        "start": 22.319,
+        "end": 22.419
+      }
+    ],
+    "word": [
+      {
+        "word": "There",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.342,
+        "end": 2.502,
+        "score": -2.1392
+      },
+      {
+        "word": "was",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 2.522,
+        "end": 2.662,
+        "score": -2.0805
+      },
+      {
+        "word": "no",
+        "start_offset": 10,
+        "end_offset": 12,
+        "start": 5.945,
+        "end": 6.045,
+        "score": -0.7216
+      },
+      {
+        "word": "catalyst",
+        "start_offset": 13,
+        "end_offset": 21,
+        "start": 6.205,
+        "end": 6.706,
+        "score": -3.4156
+      },
+      {
+        "word": "for",
+        "start_offset": 22,
+        "end_offset": 25,
+        "start": 6.746,
+        "end": 6.866,
+        "score": -0.7797
+      },
+      {
+        "word": "the",
+        "start_offset": 26,
+        "end_offset": 29,
+        "start": 6.906,
+        "end": 6.966,
+        "score": -0.734
+      },
+      {
+        "word": "machine",
+        "start_offset": 30,
+        "end_offset": 37,
+        "start": 7.006,
+        "end": 7.507,
+        "score": -1.8093
+      },
+      {
+        "word": "to",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 7.587,
+        "end": 7.687,
+        "score": -0.7157
+      },
+      {
+        "word": "malfunction",
+        "start_offset": 41,
+        "end_offset": 52,
+        "start": 7.807,
+        "end": 8.447,
+        "score": -0.9091
+      },
+      {
+        "word": "from",
+        "start_offset": 53,
+        "end_offset": 57,
+        "start": 8.507,
+        "end": 8.648,
+        "score": -0.7874
+      },
+      {
+        "word": "any",
+        "start_offset": 58,
+        "end_offset": 61,
+        "start": 8.728,
+        "end": 8.868,
+        "score": -0.7969
+      },
+      {
+        "word": "of",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 8.948,
+        "end": 9.008,
+        "score": -0.6978
+      },
+      {
+        "word": "the",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 9.048,
+        "end": 9.128,
+        "score": -0.7232
+      },
+      {
+        "word": "negative",
+        "start_offset": 69,
+        "end_offset": 77,
+        "start": 9.168,
+        "end": 9.548,
+        "score": -0.694
+      },
+      {
+        "word": "entities",
+        "start_offset": 78,
+        "end_offset": 86,
+        "start": 9.608,
+        "end": 9.969,
+        "score": -0.7663
+      },
+      {
+        "word": "then.",
+        "start_offset": 87,
+        "end_offset": 92,
+        "start": 10.009,
+        "end": 10.209,
+        "score": -5.1599
+      },
+      {
+        "word": "Is",
+        "start_offset": 93,
+        "end_offset": 95,
+        "start": 10.229,
+        "end": 10.269,
+        "score": -4.2468
+      },
+      {
+        "word": "that",
+        "start_offset": 96,
+        "end_offset": 100,
+        "start": 10.309,
+        "end": 10.469,
+        "score": -0.7584
+      },
+      {
+        "word": "right?",
+        "start_offset": 101,
+        "end_offset": 107,
+        "start": 10.529,
+        "end": 10.769,
+        "score": -0.7721
+      },
+      {
+        "word": "I",
+        "start_offset": 108,
+        "end_offset": 109,
+        "start": 11.25,
+        "end": 11.27,
+        "score": -7.6729
+      },
+      {
+        "word": "mean",
+        "start_offset": 110,
+        "end_offset": 114,
+        "start": 11.29,
+        "end": 11.43,
+        "score": -2.2886
+      },
+      {
+        "word": "it",
+        "start_offset": 115,
+        "end_offset": 117,
+        "start": 11.49,
+        "end": 11.59,
+        "score": -1.1169
+      },
+      {
+        "word": "just",
+        "start_offset": 118,
+        "end_offset": 122,
+        "start": 11.63,
+        "end": 11.87,
+        "score": -0.7444
+      },
+      {
+        "word": "was",
+        "start_offset": 123,
+        "end_offset": 126,
+        "start": 11.93,
+        "end": 12.07,
+        "score": -0.7767
+      },
+      {
+        "word": "a",
+        "start_offset": 127,
+        "end_offset": 128,
+        "start": 12.131,
+        "end": 12.151,
+        "score": -0.8211
+      },
+      {
+        "word": "function",
+        "start_offset": 129,
+        "end_offset": 137,
+        "start": 12.231,
+        "end": 12.591,
+        "score": -0.7098
+      },
+      {
+        "word": "only",
+        "start_offset": 138,
+        "end_offset": 142,
+        "start": 12.711,
+        "end": 12.871,
+        "score": -4.6575
+      },
+      {
+        "word": "of",
+        "start_offset": 143,
+        "end_offset": 145,
+        "start": 12.951,
+        "end": 12.991,
+        "score": -4.6587
+      },
+      {
+        "word": "the",
+        "start_offset": 146,
+        "end_offset": 149,
+        "start": 13.071,
+        "end": 13.131,
+        "score": -4.4658
+      },
+      {
+        "word": "random",
+        "start_offset": 150,
+        "end_offset": 156,
+        "start": 13.151,
+        "end": 13.512,
+        "score": -0.7438
+      },
+      {
+        "word": "malfunction",
+        "start_offset": 157,
+        "end_offset": 168,
+        "start": 14.112,
+        "end": 14.653,
+        "score": -0.9589
+      },
+      {
+        "word": "of",
+        "start_offset": 169,
+        "end_offset": 171,
+        "start": 14.693,
+        "end": 14.733,
+        "score": -0.8259
+      },
+      {
+        "word": "the",
+        "start_offset": 172,
+        "end_offset": 175,
+        "start": 14.753,
+        "end": 14.813,
+        "score": -0.92
+      },
+      {
+        "word": "machine.",
+        "start_offset": 176,
+        "end_offset": 184,
+        "start": 14.833,
+        "end": 15.153,
+        "score": -1.9229
+      },
+      {
+        "word": "Am",
+        "start_offset": 185,
+        "end_offset": 187,
+        "start": 15.173,
+        "end": 15.233,
+        "score": -3.2705
+      },
+      {
+        "word": "I",
+        "start_offset": 188,
+        "end_offset": 189,
+        "start": 15.313,
+        "end": 15.333,
+        "score": -1.9626
+      },
+      {
+        "word": "correct?",
+        "start_offset": 190,
+        "end_offset": 198,
+        "start": 15.393,
+        "end": 15.674,
+        "score": -2.1418
+      },
+      {
+        "word": "I",
+        "start_offset": 199,
+        "end_offset": 200,
+        "start": 15.694,
+        "end": 15.714,
+        "score": -9.0732
+      },
+      {
+        "word": "am",
+        "start_offset": 201,
+        "end_offset": 203,
+        "start": 15.734,
+        "end": 15.774,
+        "score": -8.9518
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 204,
+        "end_offset": 207,
+        "start": 15.794,
+        "end": 18.216,
+        "score": -8.4097
+      },
+      {
+        "word": "No.",
+        "start_offset": 208,
+        "end_offset": 211,
+        "start": 22.319,
+        "end": 22.419,
+        "score": -6.574
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "096-07.mp3",
+    "audio_duration": 23.04,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

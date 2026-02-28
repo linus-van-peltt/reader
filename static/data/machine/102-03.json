@@ -1,0 +1,191 @@
+{
+  "text": "I'm not quite sure I understood everything you said. Can you give me the last name of this Arthur and where he's located?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I'm not quite sure I understood everything you said.",
+        "start_offset": 83,
+        "end_offset": 126,
+        "start": 6.640000000000001,
+        "end": 10.08
+      },
+      {
+        "segment": "Can you give me the last name of this Arthur and where he's located?",
+        "start_offset": 128,
+        "end_offset": 215,
+        "start": 10.24,
+        "end": 17.2
+      }
+    ],
+    "word": [
+      {
+        "word": "I'm",
+        "start_offset": 83,
+        "end_offset": 91,
+        "start": 6.640000000000001,
+        "end": 7.28
+      },
+      {
+        "word": "not",
+        "start_offset": 95,
+        "end_offset": 98,
+        "start": 7.6000000000000005,
+        "end": 7.84
+      },
+      {
+        "word": "quite",
+        "start_offset": 98,
+        "end_offset": 101,
+        "start": 7.84,
+        "end": 8.08
+      },
+      {
+        "word": "sure",
+        "start_offset": 101,
+        "end_offset": 105,
+        "start": 8.08,
+        "end": 8.4
+      },
+      {
+        "word": "I",
+        "start_offset": 105,
+        "end_offset": 107,
+        "start": 8.4,
+        "end": 8.56
+      },
+      {
+        "word": "understood",
+        "start_offset": 107,
+        "end_offset": 114,
+        "start": 8.56,
+        "end": 9.120000000000001
+      },
+      {
+        "word": "everything",
+        "start_offset": 114,
+        "end_offset": 120,
+        "start": 9.120000000000001,
+        "end": 9.6
+      },
+      {
+        "word": "you",
+        "start_offset": 120,
+        "end_offset": 123,
+        "start": 9.6,
+        "end": 9.84
+      },
+      {
+        "word": "said.",
+        "start_offset": 123,
+        "end_offset": 126,
+        "start": 9.84,
+        "end": 10.08
+      },
+      {
+        "word": "Can",
+        "start_offset": 128,
+        "end_offset": 132,
+        "start": 10.24,
+        "end": 10.56
+      },
+      {
+        "word": "you",
+        "start_offset": 132,
+        "end_offset": 135,
+        "start": 10.56,
+        "end": 10.8
+      },
+      {
+        "word": "give",
+        "start_offset": 135,
+        "end_offset": 141,
+        "start": 10.8,
+        "end": 11.28
+      },
+      {
+        "word": "me",
+        "start_offset": 141,
+        "end_offset": 145,
+        "start": 11.28,
+        "end": 11.6
+      },
+      {
+        "word": "the",
+        "start_offset": 147,
+        "end_offset": 151,
+        "start": 11.76,
+        "end": 12.08
+      },
+      {
+        "word": "last",
+        "start_offset": 151,
+        "end_offset": 155,
+        "start": 12.08,
+        "end": 12.4
+      },
+      {
+        "word": "name",
+        "start_offset": 155,
+        "end_offset": 160,
+        "start": 12.4,
+        "end": 12.8
+      },
+      {
+        "word": "of",
+        "start_offset": 160,
+        "end_offset": 164,
+        "start": 12.8,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "this",
+        "start_offset": 164,
+        "end_offset": 168,
+        "start": 13.120000000000001,
+        "end": 13.44
+      },
+      {
+        "word": "Arthur",
+        "start_offset": 176,
+        "end_offset": 185,
+        "start": 14.08,
+        "end": 14.8
+      },
+      {
+        "word": "and",
+        "start_offset": 188,
+        "end_offset": 192,
+        "start": 15.040000000000001,
+        "end": 15.36
+      },
+      {
+        "word": "where",
+        "start_offset": 196,
+        "end_offset": 200,
+        "start": 15.68,
+        "end": 16.0
+      },
+      {
+        "word": "he's",
+        "start_offset": 200,
+        "end_offset": 207,
+        "start": 16.0,
+        "end": 16.56
+      },
+      {
+        "word": "located?",
+        "start_offset": 207,
+        "end_offset": 215,
+        "start": 16.56,
+        "end": 17.2
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "102-03.mp3",
+    "audio_duration": 40.05,
+    "transcription_time": 0.1,
+    "rtfx": 388.21,
+    "timestamp": "2026-01-06T22:00:31.590096+00:00"
+  }
+}

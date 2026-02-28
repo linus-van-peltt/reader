@@ -1,0 +1,354 @@
+{
+  "text": "I would assume this population is from other planets since the harvesting has not occurred yet on this planet. It is from planets where the harvesting has already occurred. Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I would assume this population is from other planets since the harvesting has not occurred yet on this planet.",
+        "start_offset": 0,
+        "end_offset": 110,
+        "start": 3.021,
+        "end": 15.664
+      },
+      {
+        "segment": "It is from planets where the harvesting has already occurred.",
+        "start_offset": 111,
+        "end_offset": 172,
+        "start": 15.784,
+        "end": 18.125
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 173,
+        "end_offset": 189,
+        "start": 18.185,
+        "end": 18.805
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 190,
+        "end_offset": 198,
+        "start": 20.925,
+        "end": 22.566
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 199,
+        "end_offset": 215,
+        "start": 24.226,
+        "end": 26.927
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 3.021,
+        "end": 3.041,
+        "score": -10.2267
+      },
+      {
+        "word": "would",
+        "start_offset": 2,
+        "end_offset": 7,
+        "start": 3.181,
+        "end": 3.321,
+        "score": -2.571
+      },
+      {
+        "word": "assume",
+        "start_offset": 8,
+        "end_offset": 14,
+        "start": 3.341,
+        "end": 3.781,
+        "score": -0.9429
+      },
+      {
+        "word": "this",
+        "start_offset": 15,
+        "end_offset": 19,
+        "start": 5.101,
+        "end": 5.321,
+        "score": -0.7067
+      },
+      {
+        "word": "population",
+        "start_offset": 20,
+        "end_offset": 30,
+        "start": 5.421,
+        "end": 6.322,
+        "score": -0.707
+      },
+      {
+        "word": "is",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 6.542,
+        "end": 6.762,
+        "score": -0.8334
+      },
+      {
+        "word": "from",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 8.322,
+        "end": 8.642,
+        "score": -0.7163
+      },
+      {
+        "word": "other",
+        "start_offset": 39,
+        "end_offset": 44,
+        "start": 10.143,
+        "end": 10.363,
+        "score": -0.6977
+      },
+      {
+        "word": "planets",
+        "start_offset": 45,
+        "end_offset": 52,
+        "start": 10.443,
+        "end": 10.963,
+        "score": -0.6987
+      },
+      {
+        "word": "since",
+        "start_offset": 53,
+        "end_offset": 58,
+        "start": 11.203,
+        "end": 11.563,
+        "score": -0.6974
+      },
+      {
+        "word": "the",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 13.043,
+        "end": 13.163,
+        "score": -0.7237
+      },
+      {
+        "word": "harvesting",
+        "start_offset": 63,
+        "end_offset": 73,
+        "start": 13.343,
+        "end": 13.983,
+        "score": -0.7264
+      },
+      {
+        "word": "has",
+        "start_offset": 74,
+        "end_offset": 77,
+        "start": 14.024,
+        "end": 14.144,
+        "score": -0.7013
+      },
+      {
+        "word": "not",
+        "start_offset": 78,
+        "end_offset": 81,
+        "start": 14.204,
+        "end": 14.364,
+        "score": -0.6944
+      },
+      {
+        "word": "occurred",
+        "start_offset": 82,
+        "end_offset": 90,
+        "start": 14.404,
+        "end": 14.764,
+        "score": -0.8053
+      },
+      {
+        "word": "yet",
+        "start_offset": 91,
+        "end_offset": 94,
+        "start": 14.804,
+        "end": 14.944,
+        "score": -0.6959
+      },
+      {
+        "word": "on",
+        "start_offset": 95,
+        "end_offset": 97,
+        "start": 15.024,
+        "end": 15.104,
+        "score": -0.697
+      },
+      {
+        "word": "this",
+        "start_offset": 98,
+        "end_offset": 102,
+        "start": 15.124,
+        "end": 15.284,
+        "score": -0.7231
+      },
+      {
+        "word": "planet.",
+        "start_offset": 103,
+        "end_offset": 110,
+        "start": 15.364,
+        "end": 15.664,
+        "score": -0.7177
+      },
+      {
+        "word": "It",
+        "start_offset": 111,
+        "end_offset": 113,
+        "start": 15.784,
+        "end": 15.884,
+        "score": -0.7548
+      },
+      {
+        "word": "is",
+        "start_offset": 114,
+        "end_offset": 116,
+        "start": 15.904,
+        "end": 15.984,
+        "score": -0.7389
+      },
+      {
+        "word": "from",
+        "start_offset": 117,
+        "end_offset": 121,
+        "start": 16.024,
+        "end": 16.204,
+        "score": -0.7001
+      },
+      {
+        "word": "planets",
+        "start_offset": 122,
+        "end_offset": 129,
+        "start": 16.304,
+        "end": 16.664,
+        "score": -0.705
+      },
+      {
+        "word": "where",
+        "start_offset": 130,
+        "end_offset": 135,
+        "start": 16.704,
+        "end": 16.824,
+        "score": -1.5564
+      },
+      {
+        "word": "the",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 16.844,
+        "end": 16.924,
+        "score": -0.717
+      },
+      {
+        "word": "harvesting",
+        "start_offset": 140,
+        "end_offset": 150,
+        "start": 16.964,
+        "end": 17.364,
+        "score": -0.7411
+      },
+      {
+        "word": "has",
+        "start_offset": 151,
+        "end_offset": 154,
+        "start": 17.384,
+        "end": 17.464,
+        "score": -1.0083
+      },
+      {
+        "word": "already",
+        "start_offset": 155,
+        "end_offset": 162,
+        "start": 17.524,
+        "end": 17.744,
+        "score": -0.6991
+      },
+      {
+        "word": "occurred.",
+        "start_offset": 163,
+        "end_offset": 172,
+        "start": 17.784,
+        "end": 18.125,
+        "score": -0.7608
+      },
+      {
+        "word": "Is",
+        "start_offset": 173,
+        "end_offset": 175,
+        "start": 18.185,
+        "end": 18.225,
+        "score": -2.8765
+      },
+      {
+        "word": "this",
+        "start_offset": 176,
+        "end_offset": 180,
+        "start": 18.265,
+        "end": 18.385,
+        "score": -0.7299
+      },
+      {
+        "word": "correct?",
+        "start_offset": 181,
+        "end_offset": 189,
+        "start": 18.425,
+        "end": 18.805,
+        "score": -0.6958
+      },
+      {
+        "word": "I",
+        "start_offset": 190,
+        "end_offset": 191,
+        "start": 20.925,
+        "end": 20.945,
+        "score": -4.2159
+      },
+      {
+        "word": "am",
+        "start_offset": 192,
+        "end_offset": 194,
+        "start": 21.525,
+        "end": 21.605,
+        "score": -8.1872
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 195,
+        "end_offset": 198,
+        "start": 21.825,
+        "end": 22.566,
+        "score": -7.2079
+      },
+      {
+        "word": "This",
+        "start_offset": 199,
+        "end_offset": 203,
+        "start": 24.226,
+        "end": 24.606,
+        "score": -4.3229
+      },
+      {
+        "word": "is",
+        "start_offset": 204,
+        "end_offset": 206,
+        "start": 25.306,
+        "end": 25.626,
+        "score": -3.7256
+      },
+      {
+        "word": "correct.",
+        "start_offset": 207,
+        "end_offset": 215,
+        "start": 26.147,
+        "end": 26.927,
+        "score": -3.388
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "063-22.mp3",
+    "audio_duration": 36.049,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

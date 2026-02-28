@@ -1,0 +1,188 @@
+{
+  "text": "Did you have a reason for being visible to them rather than invisible? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Did you have a reason for being visible to them rather than invisible?",
+        "start_offset": 0,
+        "end_offset": 70,
+        "start": 1.481,
+        "end": 5.805
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 71,
+        "end_offset": 79,
+        "start": 10.949,
+        "end": 12.87
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 80,
+        "end_offset": 96,
+        "start": 16.413,
+        "end": 19.055
+      }
+    ],
+    "word": [
+      {
+        "word": "Did",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 1.481,
+        "end": 1.621,
+        "score": -0.7107
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 1.661,
+        "end": 1.761,
+        "score": -0.8106
+      },
+      {
+        "word": "have",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 1.841,
+        "end": 2.042,
+        "score": -0.745
+      },
+      {
+        "word": "a",
+        "start_offset": 13,
+        "end_offset": 14,
+        "start": 2.102,
+        "end": 2.122,
+        "score": -0.7019
+      },
+      {
+        "word": "reason",
+        "start_offset": 15,
+        "end_offset": 21,
+        "start": 2.362,
+        "end": 2.782,
+        "score": -0.6943
+      },
+      {
+        "word": "for",
+        "start_offset": 22,
+        "end_offset": 25,
+        "start": 2.962,
+        "end": 3.183,
+        "score": -0.7083
+      },
+      {
+        "word": "being",
+        "start_offset": 26,
+        "end_offset": 31,
+        "start": 3.423,
+        "end": 3.703,
+        "score": -0.7035
+      },
+      {
+        "word": "visible",
+        "start_offset": 32,
+        "end_offset": 39,
+        "start": 3.763,
+        "end": 4.203,
+        "score": -0.6972
+      },
+      {
+        "word": "to",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 4.263,
+        "end": 4.363,
+        "score": -0.7025
+      },
+      {
+        "word": "them",
+        "start_offset": 43,
+        "end_offset": 47,
+        "start": 4.464,
+        "end": 4.644,
+        "score": -0.7199
+      },
+      {
+        "word": "rather",
+        "start_offset": 48,
+        "end_offset": 54,
+        "start": 4.764,
+        "end": 5.044,
+        "score": -0.699
+      },
+      {
+        "word": "than",
+        "start_offset": 55,
+        "end_offset": 59,
+        "start": 5.084,
+        "end": 5.224,
+        "score": -0.7679
+      },
+      {
+        "word": "invisible?",
+        "start_offset": 60,
+        "end_offset": 70,
+        "start": 5.284,
+        "end": 5.805,
+        "score": -0.7043
+      },
+      {
+        "word": "I",
+        "start_offset": 71,
+        "end_offset": 72,
+        "start": 10.949,
+        "end": 10.969,
+        "score": -1.0104
+      },
+      {
+        "word": "am",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 11.689,
+        "end": 11.99,
+        "score": -1.907
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 76,
+        "end_offset": 79,
+        "start": 12.71,
+        "end": 12.87,
+        "score": -1.2976
+      },
+      {
+        "word": "This",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 16.413,
+        "end": 16.753,
+        "score": -0.8794
+      },
+      {
+        "word": "is",
+        "start_offset": 85,
+        "end_offset": 87,
+        "start": 17.454,
+        "end": 17.734,
+        "score": -0.7407
+      },
+      {
+        "word": "correct.",
+        "start_offset": 88,
+        "end_offset": 96,
+        "start": 18.315,
+        "end": 19.055,
+        "score": -0.7004
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "023-04.mp3",
+    "audio_duration": 20.0359,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

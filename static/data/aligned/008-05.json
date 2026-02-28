@@ -1,0 +1,204 @@
+{
+  "text": "Am I to understand then that the United States has these craft in undersea bases? I am Ra. You are correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Am I to understand then that the United States has these craft in undersea bases?",
+        "start_offset": 0,
+        "end_offset": 81,
+        "start": 2.742,
+        "end": 14.292
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 82,
+        "end_offset": 90,
+        "start": 14.312,
+        "end": 16.614
+      },
+      {
+        "segment": "You are correct.",
+        "start_offset": 91,
+        "end_offset": 107,
+        "start": 19.077,
+        "end": 22.199
+      }
+    ],
+    "word": [
+      {
+        "word": "Am",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.742,
+        "end": 2.802,
+        "score": -5.1134
+      },
+      {
+        "word": "I",
+        "start_offset": 3,
+        "end_offset": 4,
+        "start": 2.842,
+        "end": 2.862,
+        "score": -4.9023
+      },
+      {
+        "word": "to",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 2.903,
+        "end": 2.983,
+        "score": -5.597
+      },
+      {
+        "word": "understand",
+        "start_offset": 8,
+        "end_offset": 18,
+        "start": 3.043,
+        "end": 3.583,
+        "score": -5.8593
+      },
+      {
+        "word": "then",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 3.603,
+        "end": 3.783,
+        "score": -5.6727
+      },
+      {
+        "word": "that",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 3.823,
+        "end": 3.983,
+        "score": -6.7075
+      },
+      {
+        "word": "the",
+        "start_offset": 29,
+        "end_offset": 32,
+        "start": 4.164,
+        "end": 4.224,
+        "score": -6.2691
+      },
+      {
+        "word": "United",
+        "start_offset": 33,
+        "end_offset": 39,
+        "start": 4.244,
+        "end": 4.604,
+        "score": -6.7021
+      },
+      {
+        "word": "States",
+        "start_offset": 40,
+        "end_offset": 46,
+        "start": 4.644,
+        "end": 5.104,
+        "score": -6.2464
+      },
+      {
+        "word": "has",
+        "start_offset": 47,
+        "end_offset": 50,
+        "start": 6.746,
+        "end": 7.006,
+        "score": -5.5379
+      },
+      {
+        "word": "these",
+        "start_offset": 51,
+        "end_offset": 56,
+        "start": 7.046,
+        "end": 7.346,
+        "score": -6.4812
+      },
+      {
+        "word": "craft",
+        "start_offset": 57,
+        "end_offset": 62,
+        "start": 7.406,
+        "end": 7.767,
+        "score": -6.6971
+      },
+      {
+        "word": "in",
+        "start_offset": 63,
+        "end_offset": 65,
+        "start": 8.347,
+        "end": 8.387,
+        "score": -6.5658
+      },
+      {
+        "word": "undersea",
+        "start_offset": 66,
+        "end_offset": 74,
+        "start": 8.407,
+        "end": 8.728,
+        "score": -6.1478
+      },
+      {
+        "word": "bases?",
+        "start_offset": 75,
+        "end_offset": 81,
+        "start": 8.868,
+        "end": 14.292,
+        "score": -6.6803
+      },
+      {
+        "word": "I",
+        "start_offset": 82,
+        "end_offset": 83,
+        "start": 14.312,
+        "end": 14.332,
+        "score": -0.9391
+      },
+      {
+        "word": "am",
+        "start_offset": 84,
+        "end_offset": 86,
+        "start": 15.353,
+        "end": 15.554,
+        "score": -2.1315
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 87,
+        "end_offset": 90,
+        "start": 16.514,
+        "end": 16.614,
+        "score": -1.065
+      },
+      {
+        "word": "You",
+        "start_offset": 91,
+        "end_offset": 94,
+        "start": 19.077,
+        "end": 19.197,
+        "score": -1.4355
+      },
+      {
+        "word": "are",
+        "start_offset": 95,
+        "end_offset": 98,
+        "start": 20.238,
+        "end": 20.478,
+        "score": -1.7137
+      },
+      {
+        "word": "correct.",
+        "start_offset": 99,
+        "end_offset": 107,
+        "start": 21.439,
+        "end": 22.199,
+        "score": -1.2443
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "008-05.mp3",
+    "audio_duration": 23.04,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

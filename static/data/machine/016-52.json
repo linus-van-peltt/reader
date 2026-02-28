@@ -1,0 +1,296 @@
+{
+  "text": "I've noticed that we have a small slightly over an hour to the hour as we just like this information. I am law. This instrument is in balance. It is well to continue if you desire.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I've noticed that we have a small slightly over an hour to the hour as we just like this information.",
+        "start_offset": 31,
+        "end_offset": 157,
+        "start": 2.48,
+        "end": 12.56
+      },
+      {
+        "segment": "I am law.",
+        "start_offset": 220,
+        "end_offset": 250,
+        "start": 17.6,
+        "end": 20.0
+      },
+      {
+        "segment": "This instrument is in balance.",
+        "start_offset": 258,
+        "end_offset": 322,
+        "start": 20.64,
+        "end": 25.76
+      },
+      {
+        "segment": "It is well to continue if you desire.",
+        "start_offset": 339,
+        "end_offset": 428,
+        "start": 27.12,
+        "end": 34.24
+      }
+    ],
+    "word": [
+      {
+        "word": "I've",
+        "start_offset": 31,
+        "end_offset": 36,
+        "start": 2.48,
+        "end": 2.88
+      },
+      {
+        "word": "noticed",
+        "start_offset": 36,
+        "end_offset": 43,
+        "start": 2.88,
+        "end": 3.44
+      },
+      {
+        "word": "that",
+        "start_offset": 48,
+        "end_offset": 50,
+        "start": 3.84,
+        "end": 4.0
+      },
+      {
+        "word": "we",
+        "start_offset": 53,
+        "end_offset": 54,
+        "start": 4.24,
+        "end": 4.32
+      },
+      {
+        "word": "have",
+        "start_offset": 56,
+        "end_offset": 58,
+        "start": 4.48,
+        "end": 4.64
+      },
+      {
+        "word": "a",
+        "start_offset": 61,
+        "end_offset": 63,
+        "start": 4.88,
+        "end": 5.04
+      },
+      {
+        "word": "small",
+        "start_offset": 76,
+        "end_offset": 80,
+        "start": 6.08,
+        "end": 6.4
+      },
+      {
+        "word": "slightly",
+        "start_offset": 82,
+        "end_offset": 86,
+        "start": 6.5600000000000005,
+        "end": 6.88
+      },
+      {
+        "word": "over",
+        "start_offset": 88,
+        "end_offset": 90,
+        "start": 7.04,
+        "end": 7.2
+      },
+      {
+        "word": "an",
+        "start_offset": 92,
+        "end_offset": 93,
+        "start": 7.36,
+        "end": 7.44
+      },
+      {
+        "word": "hour",
+        "start_offset": 95,
+        "end_offset": 96,
+        "start": 7.6000000000000005,
+        "end": 7.68
+      },
+      {
+        "word": "to",
+        "start_offset": 118,
+        "end_offset": 119,
+        "start": 9.44,
+        "end": 9.52
+      },
+      {
+        "word": "the",
+        "start_offset": 127,
+        "end_offset": 128,
+        "start": 10.16,
+        "end": 10.24
+      },
+      {
+        "word": "hour",
+        "start_offset": 129,
+        "end_offset": 132,
+        "start": 10.32,
+        "end": 10.56
+      },
+      {
+        "word": "as",
+        "start_offset": 134,
+        "end_offset": 135,
+        "start": 10.72,
+        "end": 10.8
+      },
+      {
+        "word": "we",
+        "start_offset": 137,
+        "end_offset": 138,
+        "start": 10.96,
+        "end": 11.040000000000001
+      },
+      {
+        "word": "just",
+        "start_offset": 140,
+        "end_offset": 141,
+        "start": 11.200000000000001,
+        "end": 11.28
+      },
+      {
+        "word": "like",
+        "start_offset": 144,
+        "end_offset": 145,
+        "start": 11.52,
+        "end": 11.6
+      },
+      {
+        "word": "this",
+        "start_offset": 148,
+        "end_offset": 149,
+        "start": 11.84,
+        "end": 11.92
+      },
+      {
+        "word": "information.",
+        "start_offset": 152,
+        "end_offset": 157,
+        "start": 12.16,
+        "end": 12.56
+      },
+      {
+        "word": "I",
+        "start_offset": 220,
+        "end_offset": 224,
+        "start": 17.6,
+        "end": 17.92
+      },
+      {
+        "word": "am",
+        "start_offset": 228,
+        "end_offset": 232,
+        "start": 18.240000000000002,
+        "end": 18.56
+      },
+      {
+        "word": "law.",
+        "start_offset": 242,
+        "end_offset": 250,
+        "start": 19.36,
+        "end": 20.0
+      },
+      {
+        "word": "This",
+        "start_offset": 258,
+        "end_offset": 262,
+        "start": 20.64,
+        "end": 20.96
+      },
+      {
+        "word": "instrument",
+        "start_offset": 274,
+        "end_offset": 286,
+        "start": 21.92,
+        "end": 22.88
+      },
+      {
+        "word": "is",
+        "start_offset": 294,
+        "end_offset": 298,
+        "start": 23.52,
+        "end": 23.84
+      },
+      {
+        "word": "in",
+        "start_offset": 306,
+        "end_offset": 310,
+        "start": 24.48,
+        "end": 24.8
+      },
+      {
+        "word": "balance.",
+        "start_offset": 314,
+        "end_offset": 322,
+        "start": 25.12,
+        "end": 25.76
+      },
+      {
+        "word": "It",
+        "start_offset": 339,
+        "end_offset": 343,
+        "start": 27.12,
+        "end": 27.44
+      },
+      {
+        "word": "is",
+        "start_offset": 347,
+        "end_offset": 351,
+        "start": 27.76,
+        "end": 28.080000000000002
+      },
+      {
+        "word": "well",
+        "start_offset": 355,
+        "end_offset": 359,
+        "start": 28.400000000000002,
+        "end": 28.72
+      },
+      {
+        "word": "to",
+        "start_offset": 367,
+        "end_offset": 371,
+        "start": 29.36,
+        "end": 29.68
+      },
+      {
+        "word": "continue",
+        "start_offset": 375,
+        "end_offset": 387,
+        "start": 30.0,
+        "end": 30.96
+      },
+      {
+        "word": "if",
+        "start_offset": 400,
+        "end_offset": 404,
+        "start": 32.0,
+        "end": 32.32
+      },
+      {
+        "word": "you",
+        "start_offset": 408,
+        "end_offset": 412,
+        "start": 32.64,
+        "end": 32.96
+      },
+      {
+        "word": "desire.",
+        "start_offset": 420,
+        "end_offset": 428,
+        "start": 33.6,
+        "end": 34.24
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-52.mp3",
+    "audio_duration": 35.03,
+    "transcription_time": 0.1,
+    "rtfx": 346.14,
+    "timestamp": "2026-01-06T21:47:40.402806+00:00"
+  }
+}

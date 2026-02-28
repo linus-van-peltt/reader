@@ -1,0 +1,296 @@
+{
+  "text": "Okay, first please give me the condition of the instrument. Hi. There is some a small increase in physical energy deficit. It is a not a substantial. All else is as at the perious asking.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Okay, first please give me the condition of the instrument.",
+        "start_offset": 7,
+        "end_offset": 46,
+        "start": 0.56,
+        "end": 3.68
+      },
+      {
+        "segment": "Hi.",
+        "start_offset": 116,
+        "end_offset": 120,
+        "start": 9.28,
+        "end": 9.6
+      },
+      {
+        "segment": "There is some a small increase in physical energy deficit.",
+        "start_offset": 215,
+        "end_offset": 403,
+        "start": 17.2,
+        "end": 32.24
+      },
+      {
+        "segment": "It is a not a substantial.",
+        "start_offset": 438,
+        "end_offset": 498,
+        "start": 35.04,
+        "end": 39.84
+      },
+      {
+        "segment": "All else is as at the perious asking.",
+        "start_offset": 533,
+        "end_offset": 682,
+        "start": 42.64,
+        "end": 54.56
+      }
+    ],
+    "word": [
+      {
+        "word": "Okay,",
+        "start_offset": 7,
+        "end_offset": 9,
+        "start": 0.56,
+        "end": 0.72
+      },
+      {
+        "word": "first",
+        "start_offset": 13,
+        "end_offset": 14,
+        "start": 1.04,
+        "end": 1.12
+      },
+      {
+        "word": "please",
+        "start_offset": 17,
+        "end_offset": 20,
+        "start": 1.36,
+        "end": 1.6
+      },
+      {
+        "word": "give",
+        "start_offset": 20,
+        "end_offset": 23,
+        "start": 1.6,
+        "end": 1.84
+      },
+      {
+        "word": "me",
+        "start_offset": 23,
+        "end_offset": 25,
+        "start": 1.84,
+        "end": 2.0
+      },
+      {
+        "word": "the",
+        "start_offset": 25,
+        "end_offset": 26,
+        "start": 2.0,
+        "end": 2.08
+      },
+      {
+        "word": "condition",
+        "start_offset": 26,
+        "end_offset": 32,
+        "start": 2.08,
+        "end": 2.56
+      },
+      {
+        "word": "of",
+        "start_offset": 32,
+        "end_offset": 33,
+        "start": 2.56,
+        "end": 2.64
+      },
+      {
+        "word": "the",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 2.64,
+        "end": 2.88
+      },
+      {
+        "word": "instrument.",
+        "start_offset": 36,
+        "end_offset": 46,
+        "start": 2.88,
+        "end": 3.68
+      },
+      {
+        "word": "Hi.",
+        "start_offset": 116,
+        "end_offset": 120,
+        "start": 9.28,
+        "end": 9.6
+      },
+      {
+        "word": "There",
+        "start_offset": 215,
+        "end_offset": 223,
+        "start": 17.2,
+        "end": 17.84
+      },
+      {
+        "word": "is",
+        "start_offset": 227,
+        "end_offset": 231,
+        "start": 18.16,
+        "end": 18.48
+      },
+      {
+        "word": "some",
+        "start_offset": 243,
+        "end_offset": 247,
+        "start": 19.44,
+        "end": 19.76
+      },
+      {
+        "word": "a",
+        "start_offset": 255,
+        "end_offset": 259,
+        "start": 20.400000000000002,
+        "end": 20.72
+      },
+      {
+        "word": "small",
+        "start_offset": 259,
+        "end_offset": 267,
+        "start": 20.72,
+        "end": 21.36
+      },
+      {
+        "word": "increase",
+        "start_offset": 287,
+        "end_offset": 299,
+        "start": 22.96,
+        "end": 23.92
+      },
+      {
+        "word": "in",
+        "start_offset": 315,
+        "end_offset": 319,
+        "start": 25.2,
+        "end": 25.52
+      },
+      {
+        "word": "physical",
+        "start_offset": 339,
+        "end_offset": 353,
+        "start": 27.12,
+        "end": 28.240000000000002
+      },
+      {
+        "word": "energy",
+        "start_offset": 373,
+        "end_offset": 381,
+        "start": 29.84,
+        "end": 30.48
+      },
+      {
+        "word": "deficit.",
+        "start_offset": 391,
+        "end_offset": 403,
+        "start": 31.28,
+        "end": 32.24
+      },
+      {
+        "word": "It",
+        "start_offset": 438,
+        "end_offset": 442,
+        "start": 35.04,
+        "end": 35.36
+      },
+      {
+        "word": "is",
+        "start_offset": 450,
+        "end_offset": 454,
+        "start": 36.0,
+        "end": 36.32
+      },
+      {
+        "word": "a",
+        "start_offset": 461,
+        "end_offset": 464,
+        "start": 36.88,
+        "end": 37.12
+      },
+      {
+        "word": "not",
+        "start_offset": 464,
+        "end_offset": 467,
+        "start": 37.12,
+        "end": 37.36
+      },
+      {
+        "word": "a",
+        "start_offset": 473,
+        "end_offset": 477,
+        "start": 37.84,
+        "end": 38.160000000000004
+      },
+      {
+        "word": "substantial.",
+        "start_offset": 477,
+        "end_offset": 498,
+        "start": 38.160000000000004,
+        "end": 39.84
+      },
+      {
+        "word": "All",
+        "start_offset": 533,
+        "end_offset": 537,
+        "start": 42.64,
+        "end": 42.96
+      },
+      {
+        "word": "else",
+        "start_offset": 545,
+        "end_offset": 553,
+        "start": 43.6,
+        "end": 44.24
+      },
+      {
+        "word": "is",
+        "start_offset": 561,
+        "end_offset": 565,
+        "start": 44.88,
+        "end": 45.2
+      },
+      {
+        "word": "as",
+        "start_offset": 577,
+        "end_offset": 580,
+        "start": 46.160000000000004,
+        "end": 46.4
+      },
+      {
+        "word": "at",
+        "start_offset": 591,
+        "end_offset": 595,
+        "start": 47.28,
+        "end": 47.6
+      },
+      {
+        "word": "the",
+        "start_offset": 615,
+        "end_offset": 618,
+        "start": 49.2,
+        "end": 49.44
+      },
+      {
+        "word": "perious",
+        "start_offset": 630,
+        "end_offset": 646,
+        "start": 50.4,
+        "end": 51.68
+      },
+      {
+        "word": "asking.",
+        "start_offset": 673,
+        "end_offset": 682,
+        "start": 53.84,
+        "end": 54.56
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "094-01.mp3",
+    "audio_duration": 58.04,
+    "transcription_time": 0.12,
+    "rtfx": 494.64,
+    "timestamp": "2026-01-06T21:59:17.942153+00:00"
+  }
+}

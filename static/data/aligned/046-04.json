@@ -1,0 +1,132 @@
+{
+  "text": "I assume the instrument is familiar? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I assume the instrument is familiar?",
+        "start_offset": 0,
+        "end_offset": 36,
+        "start": 2.062,
+        "end": 3.544
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 37,
+        "end_offset": 45,
+        "start": 8.07,
+        "end": 10.232
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 46,
+        "end_offset": 62,
+        "start": 11.934,
+        "end": 14.978
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 2.062,
+        "end": 2.082,
+        "score": -5.187
+      },
+      {
+        "word": "assume",
+        "start_offset": 2,
+        "end_offset": 8,
+        "start": 2.143,
+        "end": 2.443,
+        "score": -2.5894
+      },
+      {
+        "word": "the",
+        "start_offset": 9,
+        "end_offset": 12,
+        "start": 2.463,
+        "end": 2.523,
+        "score": -3.0655
+      },
+      {
+        "word": "instrument",
+        "start_offset": 13,
+        "end_offset": 23,
+        "start": 2.623,
+        "end": 2.944,
+        "score": -3.7218
+      },
+      {
+        "word": "is",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 2.964,
+        "end": 3.084,
+        "score": -1.9806
+      },
+      {
+        "word": "familiar?",
+        "start_offset": 27,
+        "end_offset": 36,
+        "start": 3.124,
+        "end": 3.544,
+        "score": -4.0369
+      },
+      {
+        "word": "I",
+        "start_offset": 37,
+        "end_offset": 38,
+        "start": 8.07,
+        "end": 8.09,
+        "score": -1.3828
+      },
+      {
+        "word": "am",
+        "start_offset": 39,
+        "end_offset": 41,
+        "start": 9.091,
+        "end": 9.391,
+        "score": -3.4298
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 10.152,
+        "end": 10.232,
+        "score": -2.1441
+      },
+      {
+        "word": "This",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 11.934,
+        "end": 12.355,
+        "score": -1.9598
+      },
+      {
+        "word": "is",
+        "start_offset": 51,
+        "end_offset": 53,
+        "start": 13.236,
+        "end": 13.536,
+        "score": -1.7132
+      },
+      {
+        "word": "correct.",
+        "start_offset": 54,
+        "end_offset": 62,
+        "start": 14.217,
+        "end": 14.978,
+        "score": -1.2623
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "046-04.mp3",
+    "audio_duration": 16.0392,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

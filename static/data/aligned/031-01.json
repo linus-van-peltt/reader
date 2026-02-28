@@ -1,0 +1,339 @@
+{
+  "text": "I would like to ask a question first for the instrument herself. She requests to know if it would be advisable for her to walk alone now that she feels better. I am Ra. This is acceptable.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I would like to ask a question first for the instrument herself.",
+        "start_offset": 0,
+        "end_offset": 64,
+        "start": 2.641,
+        "end": 6.081
+      },
+      {
+        "segment": "She requests to know if it would be advisable for her to walk alone now that she feels better.",
+        "start_offset": 65,
+        "end_offset": 159,
+        "start": 6.501,
+        "end": 13.783
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 160,
+        "end_offset": 168,
+        "start": 21.024,
+        "end": 23.184
+      },
+      {
+        "segment": "This is acceptable.",
+        "start_offset": 169,
+        "end_offset": 188,
+        "start": 25.285,
+        "end": 29.386
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 2.641,
+        "end": 2.661,
+        "score": -8.6538
+      },
+      {
+        "word": "would",
+        "start_offset": 2,
+        "end_offset": 7,
+        "start": 2.681,
+        "end": 2.841,
+        "score": -7.5986
+      },
+      {
+        "word": "like",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 2.861,
+        "end": 3.041,
+        "score": -0.8741
+      },
+      {
+        "word": "to",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 3.061,
+        "end": 3.101,
+        "score": -2.6119
+      },
+      {
+        "word": "ask",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 3.241,
+        "end": 3.381,
+        "score": -2.9563
+      },
+      {
+        "word": "a",
+        "start_offset": 20,
+        "end_offset": 21,
+        "start": 3.401,
+        "end": 3.421,
+        "score": -3.2454
+      },
+      {
+        "word": "question",
+        "start_offset": 22,
+        "end_offset": 30,
+        "start": 3.561,
+        "end": 4.021,
+        "score": -0.7112
+      },
+      {
+        "word": "first",
+        "start_offset": 31,
+        "end_offset": 36,
+        "start": 4.141,
+        "end": 4.521,
+        "score": -0.6994
+      },
+      {
+        "word": "for",
+        "start_offset": 37,
+        "end_offset": 40,
+        "start": 4.601,
+        "end": 4.701,
+        "score": -0.9412
+      },
+      {
+        "word": "the",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 4.761,
+        "end": 4.841,
+        "score": -0.7726
+      },
+      {
+        "word": "instrument",
+        "start_offset": 45,
+        "end_offset": 55,
+        "start": 4.921,
+        "end": 5.381,
+        "score": -0.7224
+      },
+      {
+        "word": "herself.",
+        "start_offset": 56,
+        "end_offset": 64,
+        "start": 5.461,
+        "end": 6.081,
+        "score": -0.9622
+      },
+      {
+        "word": "She",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 6.501,
+        "end": 6.621,
+        "score": -0.7086
+      },
+      {
+        "word": "requests",
+        "start_offset": 69,
+        "end_offset": 77,
+        "start": 6.741,
+        "end": 7.641,
+        "score": -0.875
+      },
+      {
+        "word": "to",
+        "start_offset": 78,
+        "end_offset": 80,
+        "start": 8.282,
+        "end": 8.382,
+        "score": -0.8351
+      },
+      {
+        "word": "know",
+        "start_offset": 81,
+        "end_offset": 85,
+        "start": 8.502,
+        "end": 8.782,
+        "score": -1.24
+      },
+      {
+        "word": "if",
+        "start_offset": 86,
+        "end_offset": 88,
+        "start": 9.542,
+        "end": 9.642,
+        "score": -0.7147
+      },
+      {
+        "word": "it",
+        "start_offset": 89,
+        "end_offset": 91,
+        "start": 9.702,
+        "end": 9.782,
+        "score": -0.7052
+      },
+      {
+        "word": "would",
+        "start_offset": 92,
+        "end_offset": 97,
+        "start": 9.802,
+        "end": 9.962,
+        "score": -0.879
+      },
+      {
+        "word": "be",
+        "start_offset": 98,
+        "end_offset": 100,
+        "start": 10.002,
+        "end": 10.062,
+        "score": -0.7057
+      },
+      {
+        "word": "advisable",
+        "start_offset": 101,
+        "end_offset": 110,
+        "start": 10.142,
+        "end": 10.782,
+        "score": -1.2157
+      },
+      {
+        "word": "for",
+        "start_offset": 111,
+        "end_offset": 114,
+        "start": 10.862,
+        "end": 11.002,
+        "score": -0.7014
+      },
+      {
+        "word": "her",
+        "start_offset": 115,
+        "end_offset": 118,
+        "start": 11.082,
+        "end": 11.262,
+        "score": -0.7013
+      },
+      {
+        "word": "to",
+        "start_offset": 119,
+        "end_offset": 121,
+        "start": 11.502,
+        "end": 11.582,
+        "score": -0.6985
+      },
+      {
+        "word": "walk",
+        "start_offset": 122,
+        "end_offset": 126,
+        "start": 11.662,
+        "end": 11.942,
+        "score": -0.6956
+      },
+      {
+        "word": "alone",
+        "start_offset": 127,
+        "end_offset": 132,
+        "start": 12.022,
+        "end": 12.402,
+        "score": -1.3041
+      },
+      {
+        "word": "now",
+        "start_offset": 133,
+        "end_offset": 136,
+        "start": 12.462,
+        "end": 12.642,
+        "score": -0.7091
+      },
+      {
+        "word": "that",
+        "start_offset": 137,
+        "end_offset": 141,
+        "start": 12.682,
+        "end": 12.822,
+        "score": -0.7572
+      },
+      {
+        "word": "she",
+        "start_offset": 142,
+        "end_offset": 145,
+        "start": 12.882,
+        "end": 12.962,
+        "score": -0.7046
+      },
+      {
+        "word": "feels",
+        "start_offset": 146,
+        "end_offset": 151,
+        "start": 13.083,
+        "end": 13.423,
+        "score": -0.8112
+      },
+      {
+        "word": "better.",
+        "start_offset": 152,
+        "end_offset": 159,
+        "start": 13.503,
+        "end": 13.783,
+        "score": -0.7186
+      },
+      {
+        "word": "I",
+        "start_offset": 160,
+        "end_offset": 161,
+        "start": 21.024,
+        "end": 21.044,
+        "score": -1.4296
+      },
+      {
+        "word": "am",
+        "start_offset": 162,
+        "end_offset": 164,
+        "start": 21.884,
+        "end": 22.124,
+        "score": -5.2767
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 165,
+        "end_offset": 168,
+        "start": 23.024,
+        "end": 23.184,
+        "score": -1.9492
+      },
+      {
+        "word": "This",
+        "start_offset": 169,
+        "end_offset": 173,
+        "start": 25.285,
+        "end": 25.705,
+        "score": -1.4609
+      },
+      {
+        "word": "is",
+        "start_offset": 174,
+        "end_offset": 176,
+        "start": 26.625,
+        "end": 26.905,
+        "score": -1.612
+      },
+      {
+        "word": "acceptable.",
+        "start_offset": 177,
+        "end_offset": 188,
+        "start": 28.085,
+        "end": 29.386,
+        "score": -1.1446
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "031-01.mp3",
+    "audio_duration": 32.0261,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

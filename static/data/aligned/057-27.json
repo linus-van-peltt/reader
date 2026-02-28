@@ -1,0 +1,298 @@
+{
+  "text": "I didn't quite understand what you meant by that. Could you tell me more of what you're talking about? I am Ra. This is a wide subject. Please restate for specificity.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I didn't quite understand what you meant by that.",
+        "start_offset": 0,
+        "end_offset": 49,
+        "start": 2.2,
+        "end": 4.921
+      },
+      {
+        "segment": "Could you tell me more of what you're talking about?",
+        "start_offset": 50,
+        "end_offset": 102,
+        "start": 5.821,
+        "end": 8.982
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 103,
+        "end_offset": 111,
+        "start": 13.283,
+        "end": 15.223
+      },
+      {
+        "segment": "This is a wide subject.",
+        "start_offset": 112,
+        "end_offset": 135,
+        "start": 17.463,
+        "end": 23.965
+      },
+      {
+        "segment": "Please restate for specificity.",
+        "start_offset": 136,
+        "end_offset": 167,
+        "start": 24.885,
+        "end": 31.226
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 2.2,
+        "end": 2.22,
+        "score": -4.0562
+      },
+      {
+        "word": "didn't",
+        "start_offset": 2,
+        "end_offset": 8,
+        "start": 2.5,
+        "end": 2.761,
+        "score": -4.4569
+      },
+      {
+        "word": "quite",
+        "start_offset": 9,
+        "end_offset": 14,
+        "start": 2.781,
+        "end": 3.021,
+        "score": -4.5392
+      },
+      {
+        "word": "understand",
+        "start_offset": 15,
+        "end_offset": 25,
+        "start": 3.041,
+        "end": 3.561,
+        "score": -2.815
+      },
+      {
+        "word": "what",
+        "start_offset": 26,
+        "end_offset": 30,
+        "start": 3.601,
+        "end": 3.721,
+        "score": -3.6692
+      },
+      {
+        "word": "you",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 3.761,
+        "end": 3.841,
+        "score": -4.3304
+      },
+      {
+        "word": "meant",
+        "start_offset": 35,
+        "end_offset": 40,
+        "start": 3.901,
+        "end": 4.121,
+        "score": -3.8071
+      },
+      {
+        "word": "by",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 4.181,
+        "end": 4.381,
+        "score": -4.676
+      },
+      {
+        "word": "that.",
+        "start_offset": 44,
+        "end_offset": 49,
+        "start": 4.461,
+        "end": 4.921,
+        "score": -3.6485
+      },
+      {
+        "word": "Could",
+        "start_offset": 50,
+        "end_offset": 55,
+        "start": 5.821,
+        "end": 5.961,
+        "score": -5.4144
+      },
+      {
+        "word": "you",
+        "start_offset": 56,
+        "end_offset": 59,
+        "start": 5.981,
+        "end": 6.061,
+        "score": -2.9112
+      },
+      {
+        "word": "tell",
+        "start_offset": 60,
+        "end_offset": 64,
+        "start": 6.121,
+        "end": 6.261,
+        "score": -2.0814
+      },
+      {
+        "word": "me",
+        "start_offset": 65,
+        "end_offset": 67,
+        "start": 6.301,
+        "end": 6.361,
+        "score": -1.9862
+      },
+      {
+        "word": "more",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 6.481,
+        "end": 6.781,
+        "score": -1.4743
+      },
+      {
+        "word": "of",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 6.881,
+        "end": 7.001,
+        "score": -2.4401
+      },
+      {
+        "word": "what",
+        "start_offset": 76,
+        "end_offset": 80,
+        "start": 7.701,
+        "end": 7.862,
+        "score": -2.7042
+      },
+      {
+        "word": "you're",
+        "start_offset": 81,
+        "end_offset": 87,
+        "start": 7.902,
+        "end": 8.082,
+        "score": -5.1798
+      },
+      {
+        "word": "talking",
+        "start_offset": 88,
+        "end_offset": 95,
+        "start": 8.282,
+        "end": 8.642,
+        "score": -2.6356
+      },
+      {
+        "word": "about?",
+        "start_offset": 96,
+        "end_offset": 102,
+        "start": 8.682,
+        "end": 8.982,
+        "score": -2.6809
+      },
+      {
+        "word": "I",
+        "start_offset": 103,
+        "end_offset": 104,
+        "start": 13.283,
+        "end": 13.303,
+        "score": -0.7784
+      },
+      {
+        "word": "am",
+        "start_offset": 105,
+        "end_offset": 107,
+        "start": 14.183,
+        "end": 14.443,
+        "score": -1.2093
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 108,
+        "end_offset": 111,
+        "start": 15.103,
+        "end": 15.223,
+        "score": -2.0994
+      },
+      {
+        "word": "This",
+        "start_offset": 112,
+        "end_offset": 116,
+        "start": 17.463,
+        "end": 17.863,
+        "score": -0.7364
+      },
+      {
+        "word": "is",
+        "start_offset": 117,
+        "end_offset": 119,
+        "start": 18.544,
+        "end": 18.904,
+        "score": -0.7558
+      },
+      {
+        "word": "a",
+        "start_offset": 120,
+        "end_offset": 121,
+        "start": 20.804,
+        "end": 20.824,
+        "score": -0.7697
+      },
+      {
+        "word": "wide",
+        "start_offset": 122,
+        "end_offset": 126,
+        "start": 21.644,
+        "end": 22.264,
+        "score": -0.7305
+      },
+      {
+        "word": "subject.",
+        "start_offset": 127,
+        "end_offset": 135,
+        "start": 23.004,
+        "end": 23.965,
+        "score": -0.706
+      },
+      {
+        "word": "Please",
+        "start_offset": 136,
+        "end_offset": 142,
+        "start": 24.885,
+        "end": 25.585,
+        "score": -1.2521
+      },
+      {
+        "word": "restate",
+        "start_offset": 143,
+        "end_offset": 150,
+        "start": 26.245,
+        "end": 27.365,
+        "score": -0.7547
+      },
+      {
+        "word": "for",
+        "start_offset": 151,
+        "end_offset": 154,
+        "start": 28.345,
+        "end": 28.886,
+        "score": -0.7183
+      },
+      {
+        "word": "specificity.",
+        "start_offset": 155,
+        "end_offset": 167,
+        "start": 29.086,
+        "end": 31.226,
+        "score": -0.8478
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "057-27.mp3",
+    "audio_duration": 32.0261,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

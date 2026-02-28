@@ -1,0 +1,100 @@
+{
+  "text": "I am raw. These entities are of the serious galaxy.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I am raw.",
+        "start_offset": 168,
+        "end_offset": 203,
+        "start": 13.44,
+        "end": 16.240000000000002
+      },
+      {
+        "segment": "These entities are of the serious galaxy.",
+        "start_offset": 217,
+        "end_offset": 381,
+        "start": 17.36,
+        "end": 30.48
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 168,
+        "end_offset": 172,
+        "start": 13.44,
+        "end": 13.76
+      },
+      {
+        "word": "am",
+        "start_offset": 180,
+        "end_offset": 184,
+        "start": 14.4,
+        "end": 14.72
+      },
+      {
+        "word": "raw.",
+        "start_offset": 192,
+        "end_offset": 203,
+        "start": 15.36,
+        "end": 16.240000000000002
+      },
+      {
+        "word": "These",
+        "start_offset": 217,
+        "end_offset": 225,
+        "start": 17.36,
+        "end": 18.0
+      },
+      {
+        "word": "entities",
+        "start_offset": 237,
+        "end_offset": 249,
+        "start": 18.96,
+        "end": 19.92
+      },
+      {
+        "word": "are",
+        "start_offset": 281,
+        "end_offset": 285,
+        "start": 22.48,
+        "end": 22.8
+      },
+      {
+        "word": "of",
+        "start_offset": 297,
+        "end_offset": 301,
+        "start": 23.76,
+        "end": 24.080000000000002
+      },
+      {
+        "word": "the",
+        "start_offset": 317,
+        "end_offset": 321,
+        "start": 25.36,
+        "end": 25.68
+      },
+      {
+        "word": "serious",
+        "start_offset": 337,
+        "end_offset": 352,
+        "start": 26.96,
+        "end": 28.16
+      },
+      {
+        "word": "galaxy.",
+        "start_offset": 367,
+        "end_offset": 381,
+        "start": 29.36,
+        "end": 30.48
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "008-22.mp3",
+    "audio_duration": 37.04,
+    "transcription_time": 0.1,
+    "rtfx": 376.24,
+    "timestamp": "2026-01-06T21:46:25.035284+00:00"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "text": "There are no occupants there. I am wrong. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "There are no occupants there.",
+        "start_offset": 38,
+        "end_offset": 84,
+        "start": 3.04,
+        "end": 6.72
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 196,
+        "end_offset": 237,
+        "start": 15.68,
+        "end": 18.96
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 247,
+        "end_offset": 291,
+        "start": 19.76,
+        "end": 23.28
+      }
+    ],
+    "word": [
+      {
+        "word": "There",
+        "start_offset": 38,
+        "end_offset": 45,
+        "start": 3.04,
+        "end": 3.6
+      },
+      {
+        "word": "are",
+        "start_offset": 45,
+        "end_offset": 49,
+        "start": 3.6,
+        "end": 3.92
+      },
+      {
+        "word": "no",
+        "start_offset": 49,
+        "end_offset": 53,
+        "start": 3.92,
+        "end": 4.24
+      },
+      {
+        "word": "occupants",
+        "start_offset": 69,
+        "end_offset": 77,
+        "start": 5.5200000000000005,
+        "end": 6.16
+      },
+      {
+        "word": "there.",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 6.4,
+        "end": 6.72
+      },
+      {
+        "word": "I",
+        "start_offset": 196,
+        "end_offset": 200,
+        "start": 15.68,
+        "end": 16.0
+      },
+      {
+        "word": "am",
+        "start_offset": 212,
+        "end_offset": 216,
+        "start": 16.96,
+        "end": 17.28
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 224,
+        "end_offset": 237,
+        "start": 17.92,
+        "end": 18.96
+      },
+      {
+        "word": "This",
+        "start_offset": 247,
+        "end_offset": 251,
+        "start": 19.76,
+        "end": 20.080000000000002
+      },
+      {
+        "word": "is",
+        "start_offset": 263,
+        "end_offset": 267,
+        "start": 21.04,
+        "end": 21.36
+      },
+      {
+        "word": "correct.",
+        "start_offset": 279,
+        "end_offset": 291,
+        "start": 22.32,
+        "end": 23.28
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "008-27.mp3",
+    "audio_duration": 24.03,
+    "transcription_time": 0.08,
+    "rtfx": 287.31,
+    "timestamp": "2026-01-06T21:46:26.233931+00:00"
+  }
+}

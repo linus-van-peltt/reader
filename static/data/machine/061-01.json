@@ -1,0 +1,303 @@
+{
+  "text": "Can give me an indication of the instrument's condition. I am this instrument of vital energies are improving the physical complex distortions are quite marked at this space, a time, and there is a decrease in physical complex energies.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can give me an indication of the instrument's condition.",
+        "start_offset": 27,
+        "end_offset": 76,
+        "start": 2.16,
+        "end": 6.08
+      },
+      {
+        "segment": "I am this instrument of vital energies are improving the physical complex distortions are quite marked at this space, a time, and there is a decrease in physical complex energies.",
+        "start_offset": 127,
+        "end_offset": 843,
+        "start": 10.16,
+        "end": 67.44
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 27,
+        "end_offset": 28,
+        "start": 2.16,
+        "end": 2.24
+      },
+      {
+        "word": "give",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 2.48,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "me",
+        "start_offset": 35,
+        "end_offset": 37,
+        "start": 2.8000000000000003,
+        "end": 2.96
+      },
+      {
+        "word": "an",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 2.96,
+        "end": 3.12
+      },
+      {
+        "word": "indication",
+        "start_offset": 41,
+        "end_offset": 49,
+        "start": 3.2800000000000002,
+        "end": 3.92
+      },
+      {
+        "word": "of",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 3.92,
+        "end": 4.16
+      },
+      {
+        "word": "the",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 4.16,
+        "end": 4.4
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 58,
+        "end_offset": 68,
+        "start": 4.64,
+        "end": 5.44
+      },
+      {
+        "word": "condition.",
+        "start_offset": 68,
+        "end_offset": 76,
+        "start": 5.44,
+        "end": 6.08
+      },
+      {
+        "word": "I",
+        "start_offset": 127,
+        "end_offset": 131,
+        "start": 10.16,
+        "end": 10.48
+      },
+      {
+        "word": "am",
+        "start_offset": 144,
+        "end_offset": 146,
+        "start": 11.52,
+        "end": 11.68
+      },
+      {
+        "word": "this",
+        "start_offset": 189,
+        "end_offset": 193,
+        "start": 15.120000000000001,
+        "end": 15.44
+      },
+      {
+        "word": "instrument",
+        "start_offset": 213,
+        "end_offset": 224,
+        "start": 17.04,
+        "end": 17.92
+      },
+      {
+        "word": "of",
+        "start_offset": 243,
+        "end_offset": 247,
+        "start": 19.44,
+        "end": 19.76
+      },
+      {
+        "word": "vital",
+        "start_offset": 247,
+        "end_offset": 254,
+        "start": 19.76,
+        "end": 20.32
+      },
+      {
+        "word": "energies",
+        "start_offset": 274,
+        "end_offset": 286,
+        "start": 21.92,
+        "end": 22.88
+      },
+      {
+        "word": "are",
+        "start_offset": 313,
+        "end_offset": 317,
+        "start": 25.04,
+        "end": 25.36
+      },
+      {
+        "word": "improving",
+        "start_offset": 321,
+        "end_offset": 336,
+        "start": 25.68,
+        "end": 26.88
+      },
+      {
+        "word": "the",
+        "start_offset": 366,
+        "end_offset": 370,
+        "start": 29.28,
+        "end": 29.6
+      },
+      {
+        "word": "physical",
+        "start_offset": 382,
+        "end_offset": 396,
+        "start": 30.560000000000002,
+        "end": 31.68
+      },
+      {
+        "word": "complex",
+        "start_offset": 412,
+        "end_offset": 424,
+        "start": 32.96,
+        "end": 33.92
+      },
+      {
+        "word": "distortions",
+        "start_offset": 452,
+        "end_offset": 464,
+        "start": 36.160000000000004,
+        "end": 37.12
+      },
+      {
+        "word": "are",
+        "start_offset": 503,
+        "end_offset": 507,
+        "start": 40.24,
+        "end": 40.56
+      },
+      {
+        "word": "quite",
+        "start_offset": 518,
+        "end_offset": 524,
+        "start": 41.44,
+        "end": 41.92
+      },
+      {
+        "word": "marked",
+        "start_offset": 536,
+        "end_offset": 544,
+        "start": 42.88,
+        "end": 43.52
+      },
+      {
+        "word": "at",
+        "start_offset": 560,
+        "end_offset": 564,
+        "start": 44.800000000000004,
+        "end": 45.12
+      },
+      {
+        "word": "this",
+        "start_offset": 568,
+        "end_offset": 572,
+        "start": 45.44,
+        "end": 45.76
+      },
+      {
+        "word": "space,",
+        "start_offset": 592,
+        "end_offset": 600,
+        "start": 47.36,
+        "end": 48.0
+      },
+      {
+        "word": "a",
+        "start_offset": 610,
+        "end_offset": 614,
+        "start": 48.800000000000004,
+        "end": 49.120000000000005
+      },
+      {
+        "word": "time,",
+        "start_offset": 614,
+        "end_offset": 618,
+        "start": 49.120000000000005,
+        "end": 49.44
+      },
+      {
+        "word": "and",
+        "start_offset": 651,
+        "end_offset": 655,
+        "start": 52.08,
+        "end": 52.4
+      },
+      {
+        "word": "there",
+        "start_offset": 659,
+        "end_offset": 663,
+        "start": 52.72,
+        "end": 53.04
+      },
+      {
+        "word": "is",
+        "start_offset": 683,
+        "end_offset": 687,
+        "start": 54.64,
+        "end": 54.96
+      },
+      {
+        "word": "a",
+        "start_offset": 711,
+        "end_offset": 715,
+        "start": 56.88,
+        "end": 57.2
+      },
+      {
+        "word": "decrease",
+        "start_offset": 719,
+        "end_offset": 738,
+        "start": 57.52,
+        "end": 59.04
+      },
+      {
+        "word": "in",
+        "start_offset": 750,
+        "end_offset": 754,
+        "start": 60.0,
+        "end": 60.32
+      },
+      {
+        "word": "physical",
+        "start_offset": 766,
+        "end_offset": 779,
+        "start": 61.28,
+        "end": 62.32
+      },
+      {
+        "word": "complex",
+        "start_offset": 795,
+        "end_offset": 807,
+        "start": 63.6,
+        "end": 64.56
+      },
+      {
+        "word": "energies.",
+        "start_offset": 831,
+        "end_offset": 843,
+        "start": 66.48,
+        "end": 67.44
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "061-01.mp3",
+    "audio_duration": 69.04,
+    "transcription_time": 0.13,
+    "rtfx": 538.05,
+    "timestamp": "2026-01-06T21:53:22.450496+00:00"
+  }
+}

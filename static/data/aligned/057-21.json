@@ -1,0 +1,403 @@
+{
+  "text": "What would the height of one of these pyramids be, approximately, in centimeters, for best functioning? I am Ra. It matters not. Only the proportion of the height of the pyramid from base to apex to the perimeter of the base is at all important.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What would the height of one of these pyramids be, approximately, in centimeters, for best functioning?",
+        "start_offset": 0,
+        "end_offset": 103,
+        "start": 2.101,
+        "end": 8.822
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 104,
+        "end_offset": 112,
+        "start": 12.143,
+        "end": 14.423
+      },
+      {
+        "segment": "It matters not.",
+        "start_offset": 113,
+        "end_offset": 128,
+        "start": 16.024,
+        "end": 19.285
+      },
+      {
+        "segment": "Only the proportion of the height of the pyramid from base to apex to the perimeter of the base is at all important.",
+        "start_offset": 129,
+        "end_offset": 245,
+        "start": 20.625,
+        "end": 48.192
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.101,
+        "end": 2.241,
+        "score": -2.748
+      },
+      {
+        "word": "would",
+        "start_offset": 5,
+        "end_offset": 10,
+        "start": 2.281,
+        "end": 2.441,
+        "score": -2.7112
+      },
+      {
+        "word": "the",
+        "start_offset": 11,
+        "end_offset": 14,
+        "start": 2.521,
+        "end": 2.621,
+        "score": -3.2017
+      },
+      {
+        "word": "height",
+        "start_offset": 15,
+        "end_offset": 21,
+        "start": 3.601,
+        "end": 3.901,
+        "score": -4.3109
+      },
+      {
+        "word": "of",
+        "start_offset": 22,
+        "end_offset": 24,
+        "start": 4.181,
+        "end": 4.301,
+        "score": -4.5466
+      },
+      {
+        "word": "one",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 4.601,
+        "end": 4.661,
+        "score": -6.9598
+      },
+      {
+        "word": "of",
+        "start_offset": 29,
+        "end_offset": 31,
+        "start": 4.681,
+        "end": 4.721,
+        "score": -7.2024
+      },
+      {
+        "word": "these",
+        "start_offset": 32,
+        "end_offset": 37,
+        "start": 4.741,
+        "end": 4.941,
+        "score": -4.0213
+      },
+      {
+        "word": "pyramids",
+        "start_offset": 38,
+        "end_offset": 46,
+        "start": 4.981,
+        "end": 5.421,
+        "score": -3.448
+      },
+      {
+        "word": "be,",
+        "start_offset": 47,
+        "end_offset": 50,
+        "start": 5.501,
+        "end": 5.581,
+        "score": -3.653
+      },
+      {
+        "word": "approximately,",
+        "start_offset": 51,
+        "end_offset": 65,
+        "start": 5.701,
+        "end": 6.342,
+        "score": -4.5401
+      },
+      {
+        "word": "in",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 6.402,
+        "end": 6.462,
+        "score": -4.0592
+      },
+      {
+        "word": "centimeters,",
+        "start_offset": 69,
+        "end_offset": 81,
+        "start": 6.562,
+        "end": 7.222,
+        "score": -3.7485
+      },
+      {
+        "word": "for",
+        "start_offset": 82,
+        "end_offset": 85,
+        "start": 7.382,
+        "end": 7.962,
+        "score": -4.426
+      },
+      {
+        "word": "best",
+        "start_offset": 86,
+        "end_offset": 90,
+        "start": 8.122,
+        "end": 8.382,
+        "score": -3.7324
+      },
+      {
+        "word": "functioning?",
+        "start_offset": 91,
+        "end_offset": 103,
+        "start": 8.442,
+        "end": 8.822,
+        "score": -4.8642
+      },
+      {
+        "word": "I",
+        "start_offset": 104,
+        "end_offset": 105,
+        "start": 12.143,
+        "end": 12.163,
+        "score": -1.2142
+      },
+      {
+        "word": "am",
+        "start_offset": 106,
+        "end_offset": 108,
+        "start": 13.003,
+        "end": 13.343,
+        "score": -2.7223
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 109,
+        "end_offset": 112,
+        "start": 14.263,
+        "end": 14.423,
+        "score": -1.4056
+      },
+      {
+        "word": "It",
+        "start_offset": 113,
+        "end_offset": 115,
+        "start": 16.024,
+        "end": 16.324,
+        "score": -0.715
+      },
+      {
+        "word": "matters",
+        "start_offset": 116,
+        "end_offset": 123,
+        "start": 17.304,
+        "end": 18.004,
+        "score": -0.729
+      },
+      {
+        "word": "not.",
+        "start_offset": 124,
+        "end_offset": 128,
+        "start": 18.865,
+        "end": 19.285,
+        "score": -0.7251
+      },
+      {
+        "word": "Only",
+        "start_offset": 129,
+        "end_offset": 133,
+        "start": 20.625,
+        "end": 21.085,
+        "score": -0.734
+      },
+      {
+        "word": "the",
+        "start_offset": 134,
+        "end_offset": 137,
+        "start": 21.785,
+        "end": 21.905,
+        "score": -0.7233
+      },
+      {
+        "word": "proportion",
+        "start_offset": 138,
+        "end_offset": 148,
+        "start": 22.185,
+        "end": 23.446,
+        "score": -0.7053
+      },
+      {
+        "word": "of",
+        "start_offset": 149,
+        "end_offset": 151,
+        "start": 24.626,
+        "end": 24.986,
+        "score": -0.7024
+      },
+      {
+        "word": "the",
+        "start_offset": 152,
+        "end_offset": 155,
+        "start": 25.166,
+        "end": 25.306,
+        "score": -0.7937
+      },
+      {
+        "word": "height",
+        "start_offset": 156,
+        "end_offset": 162,
+        "start": 25.666,
+        "end": 26.206,
+        "score": -1.4346
+      },
+      {
+        "word": "of",
+        "start_offset": 163,
+        "end_offset": 165,
+        "start": 27.307,
+        "end": 27.627,
+        "score": -0.7102
+      },
+      {
+        "word": "the",
+        "start_offset": 166,
+        "end_offset": 169,
+        "start": 27.927,
+        "end": 28.067,
+        "score": -0.7429
+      },
+      {
+        "word": "pyramid",
+        "start_offset": 170,
+        "end_offset": 177,
+        "start": 28.847,
+        "end": 29.787,
+        "score": -0.7082
+      },
+      {
+        "word": "from",
+        "start_offset": 178,
+        "end_offset": 182,
+        "start": 30.827,
+        "end": 31.188,
+        "score": -0.7023
+      },
+      {
+        "word": "base",
+        "start_offset": 183,
+        "end_offset": 187,
+        "start": 31.568,
+        "end": 32.128,
+        "score": -0.7764
+      },
+      {
+        "word": "to",
+        "start_offset": 188,
+        "end_offset": 190,
+        "start": 32.928,
+        "end": 33.128,
+        "score": -0.743
+      },
+      {
+        "word": "apex",
+        "start_offset": 191,
+        "end_offset": 195,
+        "start": 34.008,
+        "end": 34.748,
+        "score": -0.9667
+      },
+      {
+        "word": "to",
+        "start_offset": 196,
+        "end_offset": 198,
+        "start": 36.029,
+        "end": 36.269,
+        "score": -0.7145
+      },
+      {
+        "word": "the",
+        "start_offset": 199,
+        "end_offset": 202,
+        "start": 37.129,
+        "end": 37.269,
+        "score": -0.7336
+      },
+      {
+        "word": "perimeter",
+        "start_offset": 203,
+        "end_offset": 212,
+        "start": 37.649,
+        "end": 39.23,
+        "score": -1.429
+      },
+      {
+        "word": "of",
+        "start_offset": 213,
+        "end_offset": 215,
+        "start": 40.17,
+        "end": 40.53,
+        "score": -0.7192
+      },
+      {
+        "word": "the",
+        "start_offset": 216,
+        "end_offset": 219,
+        "start": 41.03,
+        "end": 41.17,
+        "score": -0.8299
+      },
+      {
+        "word": "base",
+        "start_offset": 220,
+        "end_offset": 224,
+        "start": 41.71,
+        "end": 42.41,
+        "score": -0.7172
+      },
+      {
+        "word": "is",
+        "start_offset": 225,
+        "end_offset": 227,
+        "start": 43.471,
+        "end": 43.851,
+        "score": -0.7016
+      },
+      {
+        "word": "at",
+        "start_offset": 228,
+        "end_offset": 230,
+        "start": 44.431,
+        "end": 44.731,
+        "score": -0.7014
+      },
+      {
+        "word": "all",
+        "start_offset": 231,
+        "end_offset": 234,
+        "start": 45.331,
+        "end": 45.751,
+        "score": -0.8189
+      },
+      {
+        "word": "important.",
+        "start_offset": 235,
+        "end_offset": 245,
+        "start": 46.731,
+        "end": 48.192,
+        "score": -0.7174
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "057-21.mp3",
+    "audio_duration": 49.0319,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

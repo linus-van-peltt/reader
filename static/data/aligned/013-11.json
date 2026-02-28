@@ -1,0 +1,420 @@
+{
+  "text": "Could you tell me— taking the question previous to the one that I asked about galaxy and planets, would you tell me the next step that occurred after that step? I am Ra. The steps, as you call them, are, at the point of question, simultaneous and infinite.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you tell me— taking the question previous to the one that I asked about galaxy and planets, would you tell me the next step that occurred after that step?",
+        "start_offset": 0,
+        "end_offset": 160,
+        "start": 2.92,
+        "end": 35.283
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 161,
+        "end_offset": 169,
+        "start": 35.483,
+        "end": 37.983
+      },
+      {
+        "segment": "The steps, as you call them, are, at the point of question, simultaneous and infinite.",
+        "start_offset": 170,
+        "end_offset": 256,
+        "start": 39.683,
+        "end": 59.625
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.92,
+        "end": 3.1,
+        "score": -6.8434
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 3.12,
+        "end": 3.18,
+        "score": -7.8867
+      },
+      {
+        "word": "tell",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 3.2,
+        "end": 3.42,
+        "score": -8.6173
+      },
+      {
+        "word": "me—",
+        "start_offset": 15,
+        "end_offset": 18,
+        "start": 3.8,
+        "end": 3.88,
+        "score": -7.2598
+      },
+      {
+        "word": "taking",
+        "start_offset": 19,
+        "end_offset": 25,
+        "start": 3.96,
+        "end": 7.341,
+        "score": -7.9887
+      },
+      {
+        "word": "the",
+        "start_offset": 26,
+        "end_offset": 29,
+        "start": 7.361,
+        "end": 7.461,
+        "score": -7.5152
+      },
+      {
+        "word": "question",
+        "start_offset": 30,
+        "end_offset": 38,
+        "start": 7.861,
+        "end": 8.201,
+        "score": -6.4697
+      },
+      {
+        "word": "previous",
+        "start_offset": 39,
+        "end_offset": 47,
+        "start": 8.421,
+        "end": 8.741,
+        "score": -6.5451
+      },
+      {
+        "word": "to",
+        "start_offset": 48,
+        "end_offset": 50,
+        "start": 8.761,
+        "end": 8.801,
+        "score": -8.1487
+      },
+      {
+        "word": "the",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 8.821,
+        "end": 8.921,
+        "score": -6.2509
+      },
+      {
+        "word": "one",
+        "start_offset": 55,
+        "end_offset": 58,
+        "start": 9.241,
+        "end": 9.421,
+        "score": -6.5752
+      },
+      {
+        "word": "that",
+        "start_offset": 59,
+        "end_offset": 63,
+        "start": 9.461,
+        "end": 9.561,
+        "score": -6.5363
+      },
+      {
+        "word": "I",
+        "start_offset": 64,
+        "end_offset": 65,
+        "start": 9.581,
+        "end": 9.601,
+        "score": -7.3564
+      },
+      {
+        "word": "asked",
+        "start_offset": 66,
+        "end_offset": 71,
+        "start": 9.621,
+        "end": 9.721,
+        "score": -7.2273
+      },
+      {
+        "word": "about",
+        "start_offset": 72,
+        "end_offset": 77,
+        "start": 9.741,
+        "end": 9.941,
+        "score": -8.0666
+      },
+      {
+        "word": "galaxy",
+        "start_offset": 78,
+        "end_offset": 84,
+        "start": 9.961,
+        "end": 12.741,
+        "score": -6.9991
+      },
+      {
+        "word": "and",
+        "start_offset": 85,
+        "end_offset": 88,
+        "start": 12.801,
+        "end": 12.881,
+        "score": -7.3714
+      },
+      {
+        "word": "planets,",
+        "start_offset": 89,
+        "end_offset": 97,
+        "start": 12.901,
+        "end": 13.081,
+        "score": -6.8137
+      },
+      {
+        "word": "would",
+        "start_offset": 98,
+        "end_offset": 103,
+        "start": 13.141,
+        "end": 13.401,
+        "score": -7.0711
+      },
+      {
+        "word": "you",
+        "start_offset": 104,
+        "end_offset": 107,
+        "start": 13.421,
+        "end": 13.641,
+        "score": -6.3814
+      },
+      {
+        "word": "tell",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 13.661,
+        "end": 13.881,
+        "score": -6.807
+      },
+      {
+        "word": "me",
+        "start_offset": 113,
+        "end_offset": 115,
+        "start": 15.081,
+        "end": 15.181,
+        "score": -7.8083
+      },
+      {
+        "word": "the",
+        "start_offset": 116,
+        "end_offset": 119,
+        "start": 15.281,
+        "end": 15.401,
+        "score": -5.714
+      },
+      {
+        "word": "next",
+        "start_offset": 120,
+        "end_offset": 124,
+        "start": 15.481,
+        "end": 16.001,
+        "score": -7.8226
+      },
+      {
+        "word": "step",
+        "start_offset": 125,
+        "end_offset": 129,
+        "start": 16.081,
+        "end": 16.421,
+        "score": -5.1823
+      },
+      {
+        "word": "that",
+        "start_offset": 130,
+        "end_offset": 134,
+        "start": 16.441,
+        "end": 17.482,
+        "score": -7.8999
+      },
+      {
+        "word": "occurred",
+        "start_offset": 135,
+        "end_offset": 143,
+        "start": 17.522,
+        "end": 17.742,
+        "score": -7.9958
+      },
+      {
+        "word": "after",
+        "start_offset": 144,
+        "end_offset": 149,
+        "start": 17.762,
+        "end": 17.982,
+        "score": -6.5611
+      },
+      {
+        "word": "that",
+        "start_offset": 150,
+        "end_offset": 154,
+        "start": 18.082,
+        "end": 21.282,
+        "score": -6.8944
+      },
+      {
+        "word": "step?",
+        "start_offset": 155,
+        "end_offset": 160,
+        "start": 21.322,
+        "end": 35.283,
+        "score": -7.3604
+      },
+      {
+        "word": "I",
+        "start_offset": 161,
+        "end_offset": 162,
+        "start": 35.483,
+        "end": 35.503,
+        "score": -0.8221
+      },
+      {
+        "word": "am",
+        "start_offset": 163,
+        "end_offset": 165,
+        "start": 36.503,
+        "end": 36.743,
+        "score": -2.2013
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 166,
+        "end_offset": 169,
+        "start": 37.843,
+        "end": 37.983,
+        "score": -1.2083
+      },
+      {
+        "word": "The",
+        "start_offset": 170,
+        "end_offset": 173,
+        "start": 39.683,
+        "end": 39.824,
+        "score": -1.2933
+      },
+      {
+        "word": "steps,",
+        "start_offset": 174,
+        "end_offset": 180,
+        "start": 42.144,
+        "end": 42.904,
+        "score": -0.7421
+      },
+      {
+        "word": "as",
+        "start_offset": 181,
+        "end_offset": 183,
+        "start": 43.744,
+        "end": 44.064,
+        "score": -0.7171
+      },
+      {
+        "word": "you",
+        "start_offset": 184,
+        "end_offset": 187,
+        "start": 44.544,
+        "end": 44.684,
+        "score": -0.8499
+      },
+      {
+        "word": "call",
+        "start_offset": 188,
+        "end_offset": 192,
+        "start": 45.144,
+        "end": 45.664,
+        "score": -1.6941
+      },
+      {
+        "word": "them,",
+        "start_offset": 193,
+        "end_offset": 198,
+        "start": 45.984,
+        "end": 46.244,
+        "score": -1.3696
+      },
+      {
+        "word": "are,",
+        "start_offset": 199,
+        "end_offset": 203,
+        "start": 48.324,
+        "end": 48.624,
+        "score": -0.8083
+      },
+      {
+        "word": "at",
+        "start_offset": 204,
+        "end_offset": 206,
+        "start": 49.244,
+        "end": 49.484,
+        "score": -0.8139
+      },
+      {
+        "word": "the",
+        "start_offset": 207,
+        "end_offset": 210,
+        "start": 49.944,
+        "end": 50.064,
+        "score": -0.9688
+      },
+      {
+        "word": "point",
+        "start_offset": 211,
+        "end_offset": 216,
+        "start": 50.624,
+        "end": 51.124,
+        "score": -0.8544
+      },
+      {
+        "word": "of",
+        "start_offset": 217,
+        "end_offset": 219,
+        "start": 51.565,
+        "end": 51.745,
+        "score": -2.2365
+      },
+      {
+        "word": "question,",
+        "start_offset": 220,
+        "end_offset": 229,
+        "start": 52.505,
+        "end": 53.245,
+        "score": -0.7502
+      },
+      {
+        "word": "simultaneous",
+        "start_offset": 230,
+        "end_offset": 242,
+        "start": 54.505,
+        "end": 56.485,
+        "score": -0.836
+      },
+      {
+        "word": "and",
+        "start_offset": 243,
+        "end_offset": 246,
+        "start": 57.485,
+        "end": 57.765,
+        "score": -0.9482
+      },
+      {
+        "word": "infinite.",
+        "start_offset": 247,
+        "end_offset": 256,
+        "start": 58.425,
+        "end": 59.625,
+        "score": -2.4398
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "013-11.mp3",
+    "audio_duration": 93.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

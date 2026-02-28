@@ -1,0 +1,379 @@
+{
+  "text": "Is there anything in particular that we can do in addition to what we are doing to alleviate this attack? I am Ra. There is nothing you can do to alleviate the attack. The understanding of its mechanism might be of aid.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there anything in particular that we can do in addition to what we are doing to alleviate this attack?",
+        "start_offset": 0,
+        "end_offset": 105,
+        "start": 2.801,
+        "end": 9.664
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 106,
+        "end_offset": 114,
+        "start": 18.847,
+        "end": 21.588
+      },
+      {
+        "segment": "There is nothing you can do to alleviate the attack.",
+        "start_offset": 115,
+        "end_offset": 167,
+        "start": 25.23,
+        "end": 41.976
+      },
+      {
+        "segment": "The understanding of its mechanism might be of aid.",
+        "start_offset": 168,
+        "end_offset": 219,
+        "start": 44.157,
+        "end": 62.444
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.801,
+        "end": 2.861,
+        "score": -5.3393
+      },
+      {
+        "word": "there",
+        "start_offset": 3,
+        "end_offset": 8,
+        "start": 2.901,
+        "end": 3.041,
+        "score": -4.8031
+      },
+      {
+        "word": "anything",
+        "start_offset": 9,
+        "end_offset": 17,
+        "start": 3.061,
+        "end": 3.461,
+        "score": -2.9824
+      },
+      {
+        "word": "in",
+        "start_offset": 18,
+        "end_offset": 20,
+        "start": 3.501,
+        "end": 3.561,
+        "score": -2.072
+      },
+      {
+        "word": "particular",
+        "start_offset": 21,
+        "end_offset": 31,
+        "start": 3.601,
+        "end": 4.142,
+        "score": -2.5351
+      },
+      {
+        "word": "that",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 4.962,
+        "end": 5.082,
+        "score": -2.6276
+      },
+      {
+        "word": "we",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 5.122,
+        "end": 5.182,
+        "score": -1.8857
+      },
+      {
+        "word": "can",
+        "start_offset": 40,
+        "end_offset": 43,
+        "start": 5.242,
+        "end": 5.382,
+        "score": -1.9022
+      },
+      {
+        "word": "do",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 5.422,
+        "end": 5.502,
+        "score": -1.8383
+      },
+      {
+        "word": "in",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 5.602,
+        "end": 5.682,
+        "score": -1.6266
+      },
+      {
+        "word": "addition",
+        "start_offset": 50,
+        "end_offset": 58,
+        "start": 5.722,
+        "end": 6.082,
+        "score": -1.6495
+      },
+      {
+        "word": "to",
+        "start_offset": 59,
+        "end_offset": 61,
+        "start": 6.102,
+        "end": 6.162,
+        "score": -1.9302
+      },
+      {
+        "word": "what",
+        "start_offset": 62,
+        "end_offset": 66,
+        "start": 6.202,
+        "end": 6.322,
+        "score": -2.3086
+      },
+      {
+        "word": "we",
+        "start_offset": 67,
+        "end_offset": 69,
+        "start": 6.342,
+        "end": 6.402,
+        "score": -2.8123
+      },
+      {
+        "word": "are",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 6.422,
+        "end": 6.502,
+        "score": -2.7682
+      },
+      {
+        "word": "doing",
+        "start_offset": 74,
+        "end_offset": 79,
+        "start": 6.523,
+        "end": 6.823,
+        "score": -2.115
+      },
+      {
+        "word": "to",
+        "start_offset": 80,
+        "end_offset": 82,
+        "start": 6.903,
+        "end": 6.983,
+        "score": -2.5262
+      },
+      {
+        "word": "alleviate",
+        "start_offset": 83,
+        "end_offset": 92,
+        "start": 7.183,
+        "end": 9.083,
+        "score": -3.0458
+      },
+      {
+        "word": "this",
+        "start_offset": 93,
+        "end_offset": 97,
+        "start": 9.103,
+        "end": 9.264,
+        "score": -3.5684
+      },
+      {
+        "word": "attack?",
+        "start_offset": 98,
+        "end_offset": 105,
+        "start": 9.304,
+        "end": 9.664,
+        "score": -2.8535
+      },
+      {
+        "word": "I",
+        "start_offset": 106,
+        "end_offset": 107,
+        "start": 18.847,
+        "end": 18.867,
+        "score": -1.0117
+      },
+      {
+        "word": "am",
+        "start_offset": 108,
+        "end_offset": 110,
+        "start": 19.768,
+        "end": 20.208,
+        "score": -3.4296
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 111,
+        "end_offset": 114,
+        "start": 21.448,
+        "end": 21.588,
+        "score": -1.3366
+      },
+      {
+        "word": "There",
+        "start_offset": 115,
+        "end_offset": 120,
+        "start": 25.23,
+        "end": 25.61,
+        "score": -0.9436
+      },
+      {
+        "word": "is",
+        "start_offset": 121,
+        "end_offset": 123,
+        "start": 26.31,
+        "end": 26.73,
+        "score": -0.7483
+      },
+      {
+        "word": "nothing",
+        "start_offset": 124,
+        "end_offset": 131,
+        "start": 28.411,
+        "end": 29.251,
+        "score": -0.7482
+      },
+      {
+        "word": "you",
+        "start_offset": 132,
+        "end_offset": 135,
+        "start": 30.452,
+        "end": 30.612,
+        "score": -0.9964
+      },
+      {
+        "word": "can",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 32.052,
+        "end": 32.633,
+        "score": -0.7125
+      },
+      {
+        "word": "do",
+        "start_offset": 140,
+        "end_offset": 142,
+        "start": 33.333,
+        "end": 33.473,
+        "score": -0.7698
+      },
+      {
+        "word": "to",
+        "start_offset": 143,
+        "end_offset": 145,
+        "start": 35.354,
+        "end": 35.534,
+        "score": -0.7306
+      },
+      {
+        "word": "alleviate",
+        "start_offset": 146,
+        "end_offset": 155,
+        "start": 36.154,
+        "end": 37.975,
+        "score": -1.7429
+      },
+      {
+        "word": "the",
+        "start_offset": 156,
+        "end_offset": 159,
+        "start": 39.515,
+        "end": 39.655,
+        "score": -1.042
+      },
+      {
+        "word": "attack.",
+        "start_offset": 160,
+        "end_offset": 167,
+        "start": 40.916,
+        "end": 41.976,
+        "score": -2.046
+      },
+      {
+        "word": "The",
+        "start_offset": 168,
+        "end_offset": 171,
+        "start": 44.157,
+        "end": 44.297,
+        "score": -1.0632
+      },
+      {
+        "word": "understanding",
+        "start_offset": 172,
+        "end_offset": 185,
+        "start": 46.738,
+        "end": 48.679,
+        "score": -0.7521
+      },
+      {
+        "word": "of",
+        "start_offset": 186,
+        "end_offset": 188,
+        "start": 50.339,
+        "end": 50.739,
+        "score": -0.74
+      },
+      {
+        "word": "its",
+        "start_offset": 189,
+        "end_offset": 192,
+        "start": 51.68,
+        "end": 52.08,
+        "score": -0.8356
+      },
+      {
+        "word": "mechanism",
+        "start_offset": 193,
+        "end_offset": 202,
+        "start": 53.581,
+        "end": 55.101,
+        "score": -0.8434
+      },
+      {
+        "word": "might",
+        "start_offset": 203,
+        "end_offset": 208,
+        "start": 56.782,
+        "end": 57.362,
+        "score": -1.928
+      },
+      {
+        "word": "be",
+        "start_offset": 209,
+        "end_offset": 211,
+        "start": 58.662,
+        "end": 58.803,
+        "score": -0.7709
+      },
+      {
+        "word": "of",
+        "start_offset": 212,
+        "end_offset": 214,
+        "start": 60.123,
+        "end": 60.423,
+        "score": -1.0311
+      },
+      {
+        "word": "aid.",
+        "start_offset": 215,
+        "end_offset": 219,
+        "start": 61.964,
+        "end": 62.444,
+        "score": -1.4207
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "057-02.mp3",
+    "audio_duration": 65.0449,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

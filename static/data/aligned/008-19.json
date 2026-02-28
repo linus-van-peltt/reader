@@ -1,0 +1,220 @@
+{
+  "text": "Did those who used him use his war experiences to learn more of the Law of One? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Did those who used him use his war experiences to learn more of the Law of One?",
+        "start_offset": 0,
+        "end_offset": 79,
+        "start": 2.58,
+        "end": 16.123
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 80,
+        "end_offset": 88,
+        "start": 22.264,
+        "end": 24.605
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 89,
+        "end_offset": 105,
+        "start": 27.645,
+        "end": 31.026
+      }
+    ],
+    "word": [
+      {
+        "word": "Did",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.58,
+        "end": 2.861,
+        "score": -3.2132
+      },
+      {
+        "word": "those",
+        "start_offset": 4,
+        "end_offset": 9,
+        "start": 3.861,
+        "end": 4.181,
+        "score": -1.498
+      },
+      {
+        "word": "who",
+        "start_offset": 10,
+        "end_offset": 13,
+        "start": 4.201,
+        "end": 4.261,
+        "score": -3.7342
+      },
+      {
+        "word": "used",
+        "start_offset": 14,
+        "end_offset": 18,
+        "start": 4.521,
+        "end": 4.721,
+        "score": -1.1623
+      },
+      {
+        "word": "him",
+        "start_offset": 19,
+        "end_offset": 22,
+        "start": 4.761,
+        "end": 4.941,
+        "score": -3.6905
+      },
+      {
+        "word": "use",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 6.821,
+        "end": 7.041,
+        "score": -0.919
+      },
+      {
+        "word": "his",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 7.341,
+        "end": 7.581,
+        "score": -1.5102
+      },
+      {
+        "word": "war",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 8.442,
+        "end": 8.722,
+        "score": -1.3576
+      },
+      {
+        "word": "experiences",
+        "start_offset": 35,
+        "end_offset": 46,
+        "start": 8.842,
+        "end": 9.622,
+        "score": -1.3812
+      },
+      {
+        "word": "to",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 10.382,
+        "end": 10.622,
+        "score": -2.0766
+      },
+      {
+        "word": "learn",
+        "start_offset": 50,
+        "end_offset": 55,
+        "start": 13.583,
+        "end": 14.003,
+        "score": -2.9906
+      },
+      {
+        "word": "more",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 14.343,
+        "end": 14.703,
+        "score": -1.8041
+      },
+      {
+        "word": "of",
+        "start_offset": 61,
+        "end_offset": 63,
+        "start": 14.823,
+        "end": 14.923,
+        "score": -4.4552
+      },
+      {
+        "word": "the",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 15.023,
+        "end": 15.103,
+        "score": -1.6807
+      },
+      {
+        "word": "Law",
+        "start_offset": 68,
+        "end_offset": 71,
+        "start": 15.183,
+        "end": 15.423,
+        "score": -1.6321
+      },
+      {
+        "word": "of",
+        "start_offset": 72,
+        "end_offset": 74,
+        "start": 15.603,
+        "end": 15.703,
+        "score": -1.8319
+      },
+      {
+        "word": "One?",
+        "start_offset": 75,
+        "end_offset": 79,
+        "start": 15.923,
+        "end": 16.123,
+        "score": -2.2473
+      },
+      {
+        "word": "I",
+        "start_offset": 80,
+        "end_offset": 81,
+        "start": 22.264,
+        "end": 22.284,
+        "score": -1.2315
+      },
+      {
+        "word": "am",
+        "start_offset": 82,
+        "end_offset": 84,
+        "start": 23.164,
+        "end": 23.364,
+        "score": -1.8341
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 85,
+        "end_offset": 88,
+        "start": 24.485,
+        "end": 24.605,
+        "score": -1.7851
+      },
+      {
+        "word": "This",
+        "start_offset": 89,
+        "end_offset": 93,
+        "start": 27.645,
+        "end": 27.765,
+        "score": -3.7584
+      },
+      {
+        "word": "is",
+        "start_offset": 94,
+        "end_offset": 96,
+        "start": 28.926,
+        "end": 29.186,
+        "score": -0.9979
+      },
+      {
+        "word": "correct.",
+        "start_offset": 97,
+        "end_offset": 105,
+        "start": 30.126,
+        "end": 31.026,
+        "score": -2.1337
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "008-19.mp3",
+    "audio_duration": 32.0261,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

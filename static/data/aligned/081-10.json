@@ -1,0 +1,299 @@
+{
+  "text": "She would like to know if she has an increased sensitivity to foods? I am Ra. This instrument has an increased sensitivity to all stimuli. It is well that it use prudence.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "She would like to know if she has an increased sensitivity to foods?",
+        "start_offset": 0,
+        "end_offset": 68,
+        "start": 2.861,
+        "end": 6.563
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 69,
+        "end_offset": 77,
+        "start": 12.325,
+        "end": 14.626
+      },
+      {
+        "segment": "This instrument has an increased sensitivity to all stimuli.",
+        "start_offset": 78,
+        "end_offset": 138,
+        "start": 18.087,
+        "end": 34.473
+      },
+      {
+        "segment": "It is well that it use prudence.",
+        "start_offset": 139,
+        "end_offset": 171,
+        "start": 37.154,
+        "end": 47.578
+      }
+    ],
+    "word": [
+      {
+        "word": "She",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.861,
+        "end": 2.981,
+        "score": -0.8841
+      },
+      {
+        "word": "would",
+        "start_offset": 4,
+        "end_offset": 9,
+        "start": 3.041,
+        "end": 3.201,
+        "score": -0.8568
+      },
+      {
+        "word": "like",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 3.241,
+        "end": 3.441,
+        "score": -0.8753
+      },
+      {
+        "word": "to",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 3.461,
+        "end": 3.521,
+        "score": -0.799
+      },
+      {
+        "word": "know",
+        "start_offset": 18,
+        "end_offset": 22,
+        "start": 3.561,
+        "end": 3.761,
+        "score": -1.8665
+      },
+      {
+        "word": "if",
+        "start_offset": 23,
+        "end_offset": 25,
+        "start": 3.781,
+        "end": 3.821,
+        "score": -9.7037
+      },
+      {
+        "word": "she",
+        "start_offset": 26,
+        "end_offset": 29,
+        "start": 3.841,
+        "end": 3.962,
+        "score": -1.7722
+      },
+      {
+        "word": "has",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 4.042,
+        "end": 4.222,
+        "score": -0.9358
+      },
+      {
+        "word": "an",
+        "start_offset": 34,
+        "end_offset": 36,
+        "start": 4.282,
+        "end": 4.342,
+        "score": -1.0238
+      },
+      {
+        "word": "increased",
+        "start_offset": 37,
+        "end_offset": 46,
+        "start": 4.402,
+        "end": 4.842,
+        "score": -1.0925
+      },
+      {
+        "word": "sensitivity",
+        "start_offset": 47,
+        "end_offset": 58,
+        "start": 4.882,
+        "end": 5.662,
+        "score": -0.8092
+      },
+      {
+        "word": "to",
+        "start_offset": 59,
+        "end_offset": 61,
+        "start": 5.742,
+        "end": 5.842,
+        "score": -0.8287
+      },
+      {
+        "word": "foods?",
+        "start_offset": 62,
+        "end_offset": 68,
+        "start": 5.982,
+        "end": 6.563,
+        "score": -1.1064
+      },
+      {
+        "word": "I",
+        "start_offset": 69,
+        "end_offset": 70,
+        "start": 12.325,
+        "end": 12.345,
+        "score": -1.166
+      },
+      {
+        "word": "am",
+        "start_offset": 71,
+        "end_offset": 73,
+        "start": 13.385,
+        "end": 13.645,
+        "score": -3.05
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 74,
+        "end_offset": 77,
+        "start": 14.506,
+        "end": 14.626,
+        "score": -2.1462
+      },
+      {
+        "word": "This",
+        "start_offset": 78,
+        "end_offset": 82,
+        "start": 18.087,
+        "end": 18.447,
+        "score": -0.7288
+      },
+      {
+        "word": "instrument",
+        "start_offset": 83,
+        "end_offset": 93,
+        "start": 19.387,
+        "end": 20.448,
+        "score": -0.7374
+      },
+      {
+        "word": "has",
+        "start_offset": 94,
+        "end_offset": 97,
+        "start": 23.129,
+        "end": 23.589,
+        "score": -0.7179
+      },
+      {
+        "word": "an",
+        "start_offset": 98,
+        "end_offset": 100,
+        "start": 23.929,
+        "end": 24.209,
+        "score": -0.7497
+      },
+      {
+        "word": "increased",
+        "start_offset": 101,
+        "end_offset": 110,
+        "start": 24.449,
+        "end": 25.51,
+        "score": -2.5977
+      },
+      {
+        "word": "sensitivity",
+        "start_offset": 111,
+        "end_offset": 122,
+        "start": 26.39,
+        "end": 27.831,
+        "score": -0.7054
+      },
+      {
+        "word": "to",
+        "start_offset": 123,
+        "end_offset": 125,
+        "start": 29.191,
+        "end": 29.371,
+        "score": -0.7115
+      },
+      {
+        "word": "all",
+        "start_offset": 126,
+        "end_offset": 129,
+        "start": 30.592,
+        "end": 30.872,
+        "score": -0.7474
+      },
+      {
+        "word": "stimuli.",
+        "start_offset": 130,
+        "end_offset": 138,
+        "start": 33.413,
+        "end": 34.473,
+        "score": -0.7806
+      },
+      {
+        "word": "It",
+        "start_offset": 139,
+        "end_offset": 141,
+        "start": 37.154,
+        "end": 37.354,
+        "score": -0.7177
+      },
+      {
+        "word": "is",
+        "start_offset": 142,
+        "end_offset": 144,
+        "start": 37.814,
+        "end": 38.155,
+        "score": -0.7215
+      },
+      {
+        "word": "well",
+        "start_offset": 145,
+        "end_offset": 149,
+        "start": 39.235,
+        "end": 39.595,
+        "score": -0.7783
+      },
+      {
+        "word": "that",
+        "start_offset": 150,
+        "end_offset": 154,
+        "start": 41.296,
+        "end": 41.656,
+        "score": -0.735
+      },
+      {
+        "word": "it",
+        "start_offset": 155,
+        "end_offset": 157,
+        "start": 42.616,
+        "end": 42.836,
+        "score": -0.7136
+      },
+      {
+        "word": "use",
+        "start_offset": 158,
+        "end_offset": 161,
+        "start": 45.297,
+        "end": 45.637,
+        "score": -0.7753
+      },
+      {
+        "word": "prudence.",
+        "start_offset": 162,
+        "end_offset": 171,
+        "start": 46.778,
+        "end": 47.578,
+        "score": -0.8308
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "081-10.mp3",
+    "audio_duration": 65.0449,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

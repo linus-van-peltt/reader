@@ -1,0 +1,548 @@
+{
+  "text": "All right, can we uh alleviate those? Uh if so, how and where are they? I am none can be alleviated at this space, time, nexus. One is located within the adjuncture of the right hip, another which is very small, is near the organ you call the liver. There are also small cell distortions under a V, we may call it arm to distinguish the upper appendages on both sides.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "All right, can we uh alleviate those?",
+        "start_offset": 28,
+        "end_offset": 64,
+        "start": 2.24,
+        "end": 5.12
+      },
+      {
+        "segment": "Uh if so, how and where are they?",
+        "start_offset": 66,
+        "end_offset": 123,
+        "start": 5.28,
+        "end": 9.84
+      },
+      {
+        "segment": "I am none can be alleviated at this space, time, nexus.",
+        "start_offset": 157,
+        "end_offset": 407,
+        "start": 12.56,
+        "end": 32.56
+      },
+      {
+        "segment": "One is located within the adjuncture of the right hip, another which is very small, is near the organ you call the liver.",
+        "start_offset": 433,
+        "end_offset": 992,
+        "start": 34.64,
+        "end": 79.36
+      },
+      {
+        "segment": "There are also small cell distortions under a V, we may call it arm to distinguish the upper appendages on both sides.",
+        "start_offset": 1044,
+        "end_offset": 1665,
+        "start": 83.52,
+        "end": 133.2
+      }
+    ],
+    "word": [
+      {
+        "word": "All",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 2.24,
+        "end": 2.48
+      },
+      {
+        "word": "right,",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 2.48,
+        "end": 2.72
+      },
+      {
+        "word": "can",
+        "start_offset": 37,
+        "end_offset": 41,
+        "start": 2.96,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "we",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 3.2800000000000002,
+        "end": 3.44
+      },
+      {
+        "word": "uh",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 3.44,
+        "end": 3.68
+      },
+      {
+        "word": "alleviate",
+        "start_offset": 46,
+        "end_offset": 57,
+        "start": 3.68,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "those?",
+        "start_offset": 57,
+        "end_offset": 64,
+        "start": 4.5600000000000005,
+        "end": 5.12
+      },
+      {
+        "word": "Uh",
+        "start_offset": 66,
+        "end_offset": 73,
+        "start": 5.28,
+        "end": 5.84
+      },
+      {
+        "word": "if",
+        "start_offset": 78,
+        "end_offset": 81,
+        "start": 6.24,
+        "end": 6.48
+      },
+      {
+        "word": "so,",
+        "start_offset": 85,
+        "end_offset": 89,
+        "start": 6.8,
+        "end": 7.12
+      },
+      {
+        "word": "how",
+        "start_offset": 102,
+        "end_offset": 105,
+        "start": 8.16,
+        "end": 8.4
+      },
+      {
+        "word": "and",
+        "start_offset": 107,
+        "end_offset": 111,
+        "start": 8.56,
+        "end": 8.88
+      },
+      {
+        "word": "where",
+        "start_offset": 111,
+        "end_offset": 115,
+        "start": 8.88,
+        "end": 9.200000000000001
+      },
+      {
+        "word": "are",
+        "start_offset": 115,
+        "end_offset": 119,
+        "start": 9.200000000000001,
+        "end": 9.52
+      },
+      {
+        "word": "they?",
+        "start_offset": 119,
+        "end_offset": 123,
+        "start": 9.52,
+        "end": 9.84
+      },
+      {
+        "word": "I",
+        "start_offset": 157,
+        "end_offset": 161,
+        "start": 12.56,
+        "end": 12.88
+      },
+      {
+        "word": "am",
+        "start_offset": 174,
+        "end_offset": 176,
+        "start": 13.92,
+        "end": 14.08
+      },
+      {
+        "word": "none",
+        "start_offset": 235,
+        "end_offset": 243,
+        "start": 18.8,
+        "end": 19.44
+      },
+      {
+        "word": "can",
+        "start_offset": 255,
+        "end_offset": 259,
+        "start": 20.400000000000002,
+        "end": 20.72
+      },
+      {
+        "word": "be",
+        "start_offset": 267,
+        "end_offset": 271,
+        "start": 21.36,
+        "end": 21.68
+      },
+      {
+        "word": "alleviated",
+        "start_offset": 275,
+        "end_offset": 293,
+        "start": 22.0,
+        "end": 23.44
+      },
+      {
+        "word": "at",
+        "start_offset": 309,
+        "end_offset": 313,
+        "start": 24.72,
+        "end": 25.04
+      },
+      {
+        "word": "this",
+        "start_offset": 345,
+        "end_offset": 349,
+        "start": 27.6,
+        "end": 27.92
+      },
+      {
+        "word": "space,",
+        "start_offset": 361,
+        "end_offset": 369,
+        "start": 28.88,
+        "end": 29.52
+      },
+      {
+        "word": "time,",
+        "start_offset": 375,
+        "end_offset": 379,
+        "start": 30.0,
+        "end": 30.32
+      },
+      {
+        "word": "nexus.",
+        "start_offset": 395,
+        "end_offset": 407,
+        "start": 31.6,
+        "end": 32.56
+      },
+      {
+        "word": "One",
+        "start_offset": 433,
+        "end_offset": 443,
+        "start": 34.64,
+        "end": 35.44
+      },
+      {
+        "word": "is",
+        "start_offset": 451,
+        "end_offset": 455,
+        "start": 36.08,
+        "end": 36.4
+      },
+      {
+        "word": "located",
+        "start_offset": 479,
+        "end_offset": 491,
+        "start": 38.32,
+        "end": 39.28
+      },
+      {
+        "word": "within",
+        "start_offset": 506,
+        "end_offset": 514,
+        "start": 40.480000000000004,
+        "end": 41.12
+      },
+      {
+        "word": "the",
+        "start_offset": 530,
+        "end_offset": 534,
+        "start": 42.4,
+        "end": 42.72
+      },
+      {
+        "word": "adjuncture",
+        "start_offset": 536,
+        "end_offset": 551,
+        "start": 42.88,
+        "end": 44.08
+      },
+      {
+        "word": "of",
+        "start_offset": 559,
+        "end_offset": 563,
+        "start": 44.72,
+        "end": 45.04
+      },
+      {
+        "word": "the",
+        "start_offset": 567,
+        "end_offset": 570,
+        "start": 45.36,
+        "end": 45.6
+      },
+      {
+        "word": "right",
+        "start_offset": 594,
+        "end_offset": 598,
+        "start": 47.52,
+        "end": 47.84
+      },
+      {
+        "word": "hip,",
+        "start_offset": 620,
+        "end_offset": 628,
+        "start": 49.6,
+        "end": 50.24
+      },
+      {
+        "word": "another",
+        "start_offset": 660,
+        "end_offset": 672,
+        "start": 52.800000000000004,
+        "end": 53.76
+      },
+      {
+        "word": "which",
+        "start_offset": 698,
+        "end_offset": 702,
+        "start": 55.84,
+        "end": 56.160000000000004
+      },
+      {
+        "word": "is",
+        "start_offset": 726,
+        "end_offset": 730,
+        "start": 58.08,
+        "end": 58.4
+      },
+      {
+        "word": "very",
+        "start_offset": 754,
+        "end_offset": 758,
+        "start": 60.32,
+        "end": 60.64
+      },
+      {
+        "word": "small,",
+        "start_offset": 782,
+        "end_offset": 790,
+        "start": 62.56,
+        "end": 63.2
+      },
+      {
+        "word": "is",
+        "start_offset": 812,
+        "end_offset": 816,
+        "start": 64.96000000000001,
+        "end": 65.28
+      },
+      {
+        "word": "near",
+        "start_offset": 844,
+        "end_offset": 852,
+        "start": 67.52,
+        "end": 68.16
+      },
+      {
+        "word": "the",
+        "start_offset": 864,
+        "end_offset": 868,
+        "start": 69.12,
+        "end": 69.44
+      },
+      {
+        "word": "organ",
+        "start_offset": 914,
+        "end_offset": 918,
+        "start": 73.12,
+        "end": 73.44
+      },
+      {
+        "word": "you",
+        "start_offset": 931,
+        "end_offset": 935,
+        "start": 74.48,
+        "end": 74.8
+      },
+      {
+        "word": "call",
+        "start_offset": 943,
+        "end_offset": 951,
+        "start": 75.44,
+        "end": 76.08
+      },
+      {
+        "word": "the",
+        "start_offset": 955,
+        "end_offset": 959,
+        "start": 76.4,
+        "end": 76.72
+      },
+      {
+        "word": "liver.",
+        "start_offset": 984,
+        "end_offset": 992,
+        "start": 78.72,
+        "end": 79.36
+      },
+      {
+        "word": "There",
+        "start_offset": 1044,
+        "end_offset": 1052,
+        "start": 83.52,
+        "end": 84.16
+      },
+      {
+        "word": "are",
+        "start_offset": 1064,
+        "end_offset": 1068,
+        "start": 85.12,
+        "end": 85.44
+      },
+      {
+        "word": "also",
+        "start_offset": 1084,
+        "end_offset": 1088,
+        "start": 86.72,
+        "end": 87.04
+      },
+      {
+        "word": "small",
+        "start_offset": 1108,
+        "end_offset": 1116,
+        "start": 88.64,
+        "end": 89.28
+      },
+      {
+        "word": "cell",
+        "start_offset": 1168,
+        "end_offset": 1176,
+        "start": 93.44,
+        "end": 94.08
+      },
+      {
+        "word": "distortions",
+        "start_offset": 1180,
+        "end_offset": 1195,
+        "start": 94.4,
+        "end": 95.60000000000001
+      },
+      {
+        "word": "under",
+        "start_offset": 1239,
+        "end_offset": 1243,
+        "start": 99.12,
+        "end": 99.44
+      },
+      {
+        "word": "a",
+        "start_offset": 1255,
+        "end_offset": 1257,
+        "start": 100.4,
+        "end": 100.56
+      },
+      {
+        "word": "V,",
+        "start_offset": 1261,
+        "end_offset": 1265,
+        "start": 100.88,
+        "end": 101.2
+      },
+      {
+        "word": "we",
+        "start_offset": 1406,
+        "end_offset": 1410,
+        "start": 112.48,
+        "end": 112.8
+      },
+      {
+        "word": "may",
+        "start_offset": 1426,
+        "end_offset": 1430,
+        "start": 114.08,
+        "end": 114.4
+      },
+      {
+        "word": "call",
+        "start_offset": 1430,
+        "end_offset": 1438,
+        "start": 114.4,
+        "end": 115.04
+      },
+      {
+        "word": "it",
+        "start_offset": 1438,
+        "end_offset": 1442,
+        "start": 115.04,
+        "end": 115.36
+      },
+      {
+        "word": "arm",
+        "start_offset": 1446,
+        "end_offset": 1450,
+        "start": 115.68,
+        "end": 116.0
+      },
+      {
+        "word": "to",
+        "start_offset": 1494,
+        "end_offset": 1498,
+        "start": 119.52,
+        "end": 119.84
+      },
+      {
+        "word": "distinguish",
+        "start_offset": 1502,
+        "end_offset": 1518,
+        "start": 120.16,
+        "end": 121.44
+      },
+      {
+        "word": "the",
+        "start_offset": 1534,
+        "end_offset": 1538,
+        "start": 122.72,
+        "end": 123.04
+      },
+      {
+        "word": "upper",
+        "start_offset": 1546,
+        "end_offset": 1554,
+        "start": 123.68,
+        "end": 124.32000000000001
+      },
+      {
+        "word": "appendages",
+        "start_offset": 1570,
+        "end_offset": 1589,
+        "start": 125.60000000000001,
+        "end": 127.12
+      },
+      {
+        "word": "on",
+        "start_offset": 1625,
+        "end_offset": 1629,
+        "start": 130.0,
+        "end": 130.32
+      },
+      {
+        "word": "both",
+        "start_offset": 1641,
+        "end_offset": 1649,
+        "start": 131.28,
+        "end": 131.92000000000002
+      },
+      {
+        "word": "sides.",
+        "start_offset": 1657,
+        "end_offset": 1665,
+        "start": 132.56,
+        "end": 133.2
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "098-11.mp3",
+    "audio_duration": 138.03,
+    "transcription_time": 0.19,
+    "rtfx": 738.2,
+    "timestamp": "2026-01-06T22:00:05.610808+00:00"
+  }
+}

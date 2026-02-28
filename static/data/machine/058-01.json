@@ -1,0 +1,219 @@
+{
+  "text": "Please give me an indication of the instrument's condition. I am ra this condition is as previously noted, except that the physical distortions mentioned have somewhat increased.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Please give me an indication of the instrument's condition.",
+        "start_offset": 9,
+        "end_offset": 55,
+        "start": 0.72,
+        "end": 4.4
+      },
+      {
+        "segment": "I am ra this condition is as previously noted, except that the physical distortions mentioned have somewhat increased.",
+        "start_offset": 123,
+        "end_offset": 508,
+        "start": 9.84,
+        "end": 40.64
+      }
+    ],
+    "word": [
+      {
+        "word": "Please",
+        "start_offset": 9,
+        "end_offset": 14,
+        "start": 0.72,
+        "end": 1.12
+      },
+      {
+        "word": "give",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 1.28,
+        "end": 1.52
+      },
+      {
+        "word": "me",
+        "start_offset": 19,
+        "end_offset": 21,
+        "start": 1.52,
+        "end": 1.68
+      },
+      {
+        "word": "an",
+        "start_offset": 21,
+        "end_offset": 22,
+        "start": 1.68,
+        "end": 1.76
+      },
+      {
+        "word": "indication",
+        "start_offset": 26,
+        "end_offset": 33,
+        "start": 2.08,
+        "end": 2.64
+      },
+      {
+        "word": "of",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 2.64,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "the",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 2.8000000000000003,
+        "end": 3.04
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 38,
+        "end_offset": 46,
+        "start": 3.04,
+        "end": 3.68
+      },
+      {
+        "word": "condition.",
+        "start_offset": 46,
+        "end_offset": 55,
+        "start": 3.68,
+        "end": 4.4
+      },
+      {
+        "word": "I",
+        "start_offset": 123,
+        "end_offset": 127,
+        "start": 9.84,
+        "end": 10.16
+      },
+      {
+        "word": "am",
+        "start_offset": 135,
+        "end_offset": 139,
+        "start": 10.8,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "ra",
+        "start_offset": 149,
+        "end_offset": 153,
+        "start": 11.92,
+        "end": 12.24
+      },
+      {
+        "word": "this",
+        "start_offset": 179,
+        "end_offset": 183,
+        "start": 14.32,
+        "end": 14.64
+      },
+      {
+        "word": "condition",
+        "start_offset": 195,
+        "end_offset": 207,
+        "start": 15.6,
+        "end": 16.56
+      },
+      {
+        "word": "is",
+        "start_offset": 219,
+        "end_offset": 223,
+        "start": 17.52,
+        "end": 17.84
+      },
+      {
+        "word": "as",
+        "start_offset": 237,
+        "end_offset": 241,
+        "start": 18.96,
+        "end": 19.28
+      },
+      {
+        "word": "previously",
+        "start_offset": 257,
+        "end_offset": 277,
+        "start": 20.56,
+        "end": 22.16
+      },
+      {
+        "word": "noted,",
+        "start_offset": 289,
+        "end_offset": 297,
+        "start": 23.12,
+        "end": 23.76
+      },
+      {
+        "word": "except",
+        "start_offset": 320,
+        "end_offset": 332,
+        "start": 25.6,
+        "end": 26.560000000000002
+      },
+      {
+        "word": "that",
+        "start_offset": 336,
+        "end_offset": 340,
+        "start": 26.88,
+        "end": 27.2
+      },
+      {
+        "word": "the",
+        "start_offset": 344,
+        "end_offset": 348,
+        "start": 27.52,
+        "end": 27.84
+      },
+      {
+        "word": "physical",
+        "start_offset": 360,
+        "end_offset": 373,
+        "start": 28.8,
+        "end": 29.84
+      },
+      {
+        "word": "distortions",
+        "start_offset": 389,
+        "end_offset": 405,
+        "start": 31.12,
+        "end": 32.4
+      },
+      {
+        "word": "mentioned",
+        "start_offset": 421,
+        "end_offset": 437,
+        "start": 33.68,
+        "end": 34.96
+      },
+      {
+        "word": "have",
+        "start_offset": 445,
+        "end_offset": 449,
+        "start": 35.6,
+        "end": 35.92
+      },
+      {
+        "word": "somewhat",
+        "start_offset": 461,
+        "end_offset": 473,
+        "start": 36.88,
+        "end": 37.84
+      },
+      {
+        "word": "increased.",
+        "start_offset": 492,
+        "end_offset": 508,
+        "start": 39.36,
+        "end": 40.64
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "058-01.mp3",
+    "audio_duration": 42.53,
+    "transcription_time": 0.11,
+    "rtfx": 386.33,
+    "timestamp": "2026-01-06T21:52:54.766316+00:00"
+  }
+}

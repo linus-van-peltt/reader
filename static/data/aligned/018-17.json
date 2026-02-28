@@ -1,0 +1,444 @@
+{
+  "text": "Can you tell me the difference between the… the sexual programming, let us say, prior to Yahweh's intervention and after intervention? I am Ra. This is a question which we can only answer by stating that intervention by genetic means is the same no matter what the source of this change.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me the difference between the… the sexual programming, let us say, prior to Yahweh's intervention and after intervention?",
+        "start_offset": 0,
+        "end_offset": 134,
+        "start": 0.38,
+        "end": 15.346
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 135,
+        "end_offset": 143,
+        "start": 21.508,
+        "end": 23.269
+      },
+      {
+        "segment": "This is a question which we can only answer by stating that intervention by genetic means is the same no matter what the source of this change.",
+        "start_offset": 144,
+        "end_offset": 287,
+        "start": 27.611,
+        "end": 57.002
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 0.38,
+        "end": 0.56,
+        "score": -0.6984
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 0.6,
+        "end": 0.7,
+        "score": -0.7134
+      },
+      {
+        "word": "tell",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 0.82,
+        "end": 1.02,
+        "score": -0.7211
+      },
+      {
+        "word": "me",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 1.08,
+        "end": 1.16,
+        "score": -0.7077
+      },
+      {
+        "word": "the",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 1.341,
+        "end": 1.441,
+        "score": -0.8754
+      },
+      {
+        "word": "difference",
+        "start_offset": 20,
+        "end_offset": 30,
+        "start": 1.781,
+        "end": 2.361,
+        "score": -0.9743
+      },
+      {
+        "word": "between",
+        "start_offset": 31,
+        "end_offset": 38,
+        "start": 4.822,
+        "end": 5.322,
+        "score": -2.6163
+      },
+      {
+        "word": "the…",
+        "start_offset": 39,
+        "end_offset": 43,
+        "start": 5.402,
+        "end": 5.502,
+        "score": -3.0488
+      },
+      {
+        "word": "the",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 8.503,
+        "end": 8.603,
+        "score": -1.7684
+      },
+      {
+        "word": "sexual",
+        "start_offset": 48,
+        "end_offset": 54,
+        "start": 8.723,
+        "end": 9.204,
+        "score": -2.1562
+      },
+      {
+        "word": "programming,",
+        "start_offset": 55,
+        "end_offset": 67,
+        "start": 9.284,
+        "end": 9.984,
+        "score": -2.0806
+      },
+      {
+        "word": "let",
+        "start_offset": 68,
+        "end_offset": 71,
+        "start": 10.144,
+        "end": 10.304,
+        "score": -1.7565
+      },
+      {
+        "word": "us",
+        "start_offset": 72,
+        "end_offset": 74,
+        "start": 10.344,
+        "end": 10.444,
+        "score": -4.6799
+      },
+      {
+        "word": "say,",
+        "start_offset": 75,
+        "end_offset": 79,
+        "start": 10.504,
+        "end": 10.704,
+        "score": -1.4732
+      },
+      {
+        "word": "prior",
+        "start_offset": 80,
+        "end_offset": 85,
+        "start": 11.044,
+        "end": 11.464,
+        "score": -1.4275
+      },
+      {
+        "word": "to",
+        "start_offset": 86,
+        "end_offset": 88,
+        "start": 11.544,
+        "end": 11.624,
+        "score": -1.1325
+      },
+      {
+        "word": "Yahweh's",
+        "start_offset": 89,
+        "end_offset": 97,
+        "start": 11.724,
+        "end": 12.325,
+        "score": -3.8543
+      },
+      {
+        "word": "intervention",
+        "start_offset": 98,
+        "end_offset": 110,
+        "start": 12.405,
+        "end": 13.045,
+        "score": -1.4176
+      },
+      {
+        "word": "and",
+        "start_offset": 111,
+        "end_offset": 114,
+        "start": 13.185,
+        "end": 13.325,
+        "score": -1.8748
+      },
+      {
+        "word": "after",
+        "start_offset": 115,
+        "end_offset": 120,
+        "start": 13.505,
+        "end": 13.865,
+        "score": -1.7791
+      },
+      {
+        "word": "intervention?",
+        "start_offset": 121,
+        "end_offset": 134,
+        "start": 14.766,
+        "end": 15.346,
+        "score": -1.6925
+      },
+      {
+        "word": "I",
+        "start_offset": 135,
+        "end_offset": 136,
+        "start": 21.508,
+        "end": 21.528,
+        "score": -1.177
+      },
+      {
+        "word": "am",
+        "start_offset": 137,
+        "end_offset": 139,
+        "start": 22.329,
+        "end": 22.549,
+        "score": -3.7702
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 140,
+        "end_offset": 143,
+        "start": 23.109,
+        "end": 23.269,
+        "score": -1.5231
+      },
+      {
+        "word": "This",
+        "start_offset": 144,
+        "end_offset": 148,
+        "start": 27.611,
+        "end": 27.931,
+        "score": -0.9609
+      },
+      {
+        "word": "is",
+        "start_offset": 149,
+        "end_offset": 151,
+        "start": 28.411,
+        "end": 28.651,
+        "score": -0.9697
+      },
+      {
+        "word": "a",
+        "start_offset": 152,
+        "end_offset": 153,
+        "start": 28.971,
+        "end": 28.991,
+        "score": -0.7648
+      },
+      {
+        "word": "question",
+        "start_offset": 154,
+        "end_offset": 162,
+        "start": 29.431,
+        "end": 30.212,
+        "score": -0.7018
+      },
+      {
+        "word": "which",
+        "start_offset": 163,
+        "end_offset": 168,
+        "start": 31.212,
+        "end": 31.552,
+        "score": -0.8594
+      },
+      {
+        "word": "we",
+        "start_offset": 169,
+        "end_offset": 171,
+        "start": 32.072,
+        "end": 32.232,
+        "score": -0.714
+      },
+      {
+        "word": "can",
+        "start_offset": 172,
+        "end_offset": 175,
+        "start": 33.273,
+        "end": 33.573,
+        "score": -0.6967
+      },
+      {
+        "word": "only",
+        "start_offset": 176,
+        "end_offset": 180,
+        "start": 33.873,
+        "end": 34.273,
+        "score": -0.7014
+      },
+      {
+        "word": "answer",
+        "start_offset": 181,
+        "end_offset": 187,
+        "start": 34.893,
+        "end": 35.394,
+        "score": -1.0555
+      },
+      {
+        "word": "by",
+        "start_offset": 188,
+        "end_offset": 190,
+        "start": 35.654,
+        "end": 35.914,
+        "score": -0.6988
+      },
+      {
+        "word": "stating",
+        "start_offset": 191,
+        "end_offset": 198,
+        "start": 36.054,
+        "end": 36.714,
+        "score": -0.7003
+      },
+      {
+        "word": "that",
+        "start_offset": 199,
+        "end_offset": 203,
+        "start": 37.754,
+        "end": 38.135,
+        "score": -0.7415
+      },
+      {
+        "word": "intervention",
+        "start_offset": 204,
+        "end_offset": 216,
+        "start": 39.335,
+        "end": 40.556,
+        "score": -0.7023
+      },
+      {
+        "word": "by",
+        "start_offset": 217,
+        "end_offset": 219,
+        "start": 41.676,
+        "end": 42.136,
+        "score": -1.9729
+      },
+      {
+        "word": "genetic",
+        "start_offset": 220,
+        "end_offset": 227,
+        "start": 43.457,
+        "end": 44.237,
+        "score": -0.7048
+      },
+      {
+        "word": "means",
+        "start_offset": 228,
+        "end_offset": 233,
+        "start": 44.657,
+        "end": 45.217,
+        "score": -0.7001
+      },
+      {
+        "word": "is",
+        "start_offset": 234,
+        "end_offset": 236,
+        "start": 46.018,
+        "end": 46.278,
+        "score": -0.7231
+      },
+      {
+        "word": "the",
+        "start_offset": 237,
+        "end_offset": 240,
+        "start": 47.158,
+        "end": 47.318,
+        "score": -0.8059
+      },
+      {
+        "word": "same",
+        "start_offset": 241,
+        "end_offset": 245,
+        "start": 47.718,
+        "end": 48.178,
+        "score": -0.7213
+      },
+      {
+        "word": "no",
+        "start_offset": 246,
+        "end_offset": 248,
+        "start": 49.119,
+        "end": 49.239,
+        "score": -0.7974
+      },
+      {
+        "word": "matter",
+        "start_offset": 249,
+        "end_offset": 255,
+        "start": 49.579,
+        "end": 50.059,
+        "score": -0.7129
+      },
+      {
+        "word": "what",
+        "start_offset": 256,
+        "end_offset": 260,
+        "start": 50.779,
+        "end": 51.12,
+        "score": -0.7576
+      },
+      {
+        "word": "the",
+        "start_offset": 261,
+        "end_offset": 264,
+        "start": 52.0,
+        "end": 52.16,
+        "score": -0.9091
+      },
+      {
+        "word": "source",
+        "start_offset": 265,
+        "end_offset": 271,
+        "start": 54.421,
+        "end": 55.001,
+        "score": -0.8823
+      },
+      {
+        "word": "of",
+        "start_offset": 272,
+        "end_offset": 274,
+        "start": 55.381,
+        "end": 55.581,
+        "score": -0.7208
+      },
+      {
+        "word": "this",
+        "start_offset": 275,
+        "end_offset": 279,
+        "start": 55.801,
+        "end": 56.102,
+        "score": -0.7757
+      },
+      {
+        "word": "change.",
+        "start_offset": 280,
+        "end_offset": 287,
+        "start": 56.362,
+        "end": 57.002,
+        "score": -0.8784
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "018-17.mp3",
+    "audio_duration": 65.0449,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

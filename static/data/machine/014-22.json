@@ -1,0 +1,65 @@
+{
+  "text": "Seventy-five million. That is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Seventy-five million.",
+        "start_offset": 12,
+        "end_offset": 29,
+        "start": 0.96,
+        "end": 2.32
+      },
+      {
+        "segment": "That is correct.",
+        "start_offset": 101,
+        "end_offset": 137,
+        "start": 8.08,
+        "end": 10.96
+      }
+    ],
+    "word": [
+      {
+        "word": "Seventy-five",
+        "start_offset": 12,
+        "end_offset": 23,
+        "start": 0.96,
+        "end": 1.84
+      },
+      {
+        "word": "million.",
+        "start_offset": 23,
+        "end_offset": 29,
+        "start": 1.84,
+        "end": 2.32
+      },
+      {
+        "word": "That",
+        "start_offset": 101,
+        "end_offset": 105,
+        "start": 8.08,
+        "end": 8.4
+      },
+      {
+        "word": "is",
+        "start_offset": 113,
+        "end_offset": 117,
+        "start": 9.040000000000001,
+        "end": 9.36
+      },
+      {
+        "word": "correct.",
+        "start_offset": 125,
+        "end_offset": 137,
+        "start": 10.0,
+        "end": 10.96
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "014-22.mp3",
+    "audio_duration": 15.05,
+    "transcription_time": 0.08,
+    "rtfx": 185.11,
+    "timestamp": "2026-01-06T21:47:17.278377+00:00"
+  }
+}

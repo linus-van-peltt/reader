@@ -1,0 +1,536 @@
+{
+  "text": "I would like to apologize for asking sometimes wrong or inappropriate questions. It's difficult sometimes to ask precisely the right question. I don't wish to go over any ground that we've already covered. I notice this period is slightly shorter than previous periods. Is there a reason for this? I am Ra. This instrument's vital energy is somewhat low.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I would like to apologize for asking sometimes wrong or inappropriate questions.",
+        "start_offset": 0,
+        "end_offset": 80,
+        "start": 2.541,
+        "end": 7.623
+      },
+      {
+        "segment": "It's difficult sometimes to ask precisely the right question.",
+        "start_offset": 81,
+        "end_offset": 142,
+        "start": 7.643,
+        "end": 14.045
+      },
+      {
+        "segment": "I don't wish to go over any ground that we've already covered.",
+        "start_offset": 143,
+        "end_offset": 205,
+        "start": 14.125,
+        "end": 18.907
+      },
+      {
+        "segment": "I notice this period is slightly shorter than previous periods.",
+        "start_offset": 206,
+        "end_offset": 269,
+        "start": 18.947,
+        "end": 34.032
+      },
+      {
+        "segment": "Is there a reason for this?",
+        "start_offset": 270,
+        "end_offset": 297,
+        "start": 34.092,
+        "end": 36.973
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 298,
+        "end_offset": 306,
+        "start": 39.054,
+        "end": 40.895
+      },
+      {
+        "segment": "This instrument's vital energy is somewhat low.",
+        "start_offset": 307,
+        "end_offset": 354,
+        "start": 42.595,
+        "end": 54.26
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 2.541,
+        "end": 2.561,
+        "score": -6.7339
+      },
+      {
+        "word": "would",
+        "start_offset": 2,
+        "end_offset": 7,
+        "start": 2.581,
+        "end": 2.801,
+        "score": -5.8489
+      },
+      {
+        "word": "like",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 2.841,
+        "end": 3.181,
+        "score": -4.8463
+      },
+      {
+        "word": "to",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 3.361,
+        "end": 3.501,
+        "score": -4.2014
+      },
+      {
+        "word": "apologize",
+        "start_offset": 16,
+        "end_offset": 25,
+        "start": 3.541,
+        "end": 4.061,
+        "score": -5.9976
+      },
+      {
+        "word": "for",
+        "start_offset": 26,
+        "end_offset": 29,
+        "start": 4.182,
+        "end": 4.242,
+        "score": -6.0001
+      },
+      {
+        "word": "asking",
+        "start_offset": 30,
+        "end_offset": 36,
+        "start": 4.302,
+        "end": 4.682,
+        "score": -4.1104
+      },
+      {
+        "word": "sometimes",
+        "start_offset": 37,
+        "end_offset": 46,
+        "start": 4.722,
+        "end": 5.322,
+        "score": -4.4296
+      },
+      {
+        "word": "wrong",
+        "start_offset": 47,
+        "end_offset": 52,
+        "start": 5.722,
+        "end": 5.882,
+        "score": -5.5656
+      },
+      {
+        "word": "or",
+        "start_offset": 53,
+        "end_offset": 55,
+        "start": 5.902,
+        "end": 6.002,
+        "score": -5.0641
+      },
+      {
+        "word": "inappropriate",
+        "start_offset": 56,
+        "end_offset": 69,
+        "start": 6.102,
+        "end": 6.883,
+        "score": -4.6867
+      },
+      {
+        "word": "questions.",
+        "start_offset": 70,
+        "end_offset": 80,
+        "start": 7.243,
+        "end": 7.623,
+        "score": -5.7501
+      },
+      {
+        "word": "It's",
+        "start_offset": 81,
+        "end_offset": 85,
+        "start": 7.643,
+        "end": 7.783,
+        "score": -5.6179
+      },
+      {
+        "word": "difficult",
+        "start_offset": 86,
+        "end_offset": 95,
+        "start": 8.923,
+        "end": 9.984,
+        "score": -5.5543
+      },
+      {
+        "word": "sometimes",
+        "start_offset": 96,
+        "end_offset": 105,
+        "start": 10.024,
+        "end": 10.384,
+        "score": -5.2256
+      },
+      {
+        "word": "to",
+        "start_offset": 106,
+        "end_offset": 108,
+        "start": 10.464,
+        "end": 10.584,
+        "score": -3.6234
+      },
+      {
+        "word": "ask",
+        "start_offset": 109,
+        "end_offset": 112,
+        "start": 10.644,
+        "end": 12.224,
+        "score": -4.6973
+      },
+      {
+        "word": "precisely",
+        "start_offset": 113,
+        "end_offset": 122,
+        "start": 12.284,
+        "end": 12.905,
+        "score": -4.8509
+      },
+      {
+        "word": "the",
+        "start_offset": 123,
+        "end_offset": 126,
+        "start": 12.945,
+        "end": 13.025,
+        "score": -4.5218
+      },
+      {
+        "word": "right",
+        "start_offset": 127,
+        "end_offset": 132,
+        "start": 13.125,
+        "end": 13.525,
+        "score": -4.7215
+      },
+      {
+        "word": "question.",
+        "start_offset": 133,
+        "end_offset": 142,
+        "start": 13.545,
+        "end": 14.045,
+        "score": -5.8872
+      },
+      {
+        "word": "I",
+        "start_offset": 143,
+        "end_offset": 144,
+        "start": 14.125,
+        "end": 14.145,
+        "score": -6.9827
+      },
+      {
+        "word": "don't",
+        "start_offset": 145,
+        "end_offset": 150,
+        "start": 14.205,
+        "end": 14.645,
+        "score": -6.5605
+      },
+      {
+        "word": "wish",
+        "start_offset": 151,
+        "end_offset": 155,
+        "start": 14.905,
+        "end": 15.045,
+        "score": -6.0541
+      },
+      {
+        "word": "to",
+        "start_offset": 156,
+        "end_offset": 158,
+        "start": 15.186,
+        "end": 15.246,
+        "score": -6.2953
+      },
+      {
+        "word": "go",
+        "start_offset": 159,
+        "end_offset": 161,
+        "start": 15.346,
+        "end": 15.386,
+        "score": -6.2805
+      },
+      {
+        "word": "over",
+        "start_offset": 162,
+        "end_offset": 166,
+        "start": 15.406,
+        "end": 15.506,
+        "score": -5.4248
+      },
+      {
+        "word": "any",
+        "start_offset": 167,
+        "end_offset": 170,
+        "start": 15.546,
+        "end": 15.606,
+        "score": -5.6478
+      },
+      {
+        "word": "ground",
+        "start_offset": 171,
+        "end_offset": 177,
+        "start": 15.686,
+        "end": 15.946,
+        "score": -5.944
+      },
+      {
+        "word": "that",
+        "start_offset": 178,
+        "end_offset": 182,
+        "start": 16.086,
+        "end": 16.386,
+        "score": -3.8524
+      },
+      {
+        "word": "we've",
+        "start_offset": 183,
+        "end_offset": 188,
+        "start": 16.446,
+        "end": 16.706,
+        "score": -5.8698
+      },
+      {
+        "word": "already",
+        "start_offset": 189,
+        "end_offset": 196,
+        "start": 16.926,
+        "end": 17.546,
+        "score": -5.8399
+      },
+      {
+        "word": "covered.",
+        "start_offset": 197,
+        "end_offset": 205,
+        "start": 17.726,
+        "end": 18.907,
+        "score": -5.0814
+      },
+      {
+        "word": "I",
+        "start_offset": 206,
+        "end_offset": 207,
+        "start": 18.947,
+        "end": 18.967,
+        "score": -3.4854
+      },
+      {
+        "word": "notice",
+        "start_offset": 208,
+        "end_offset": 214,
+        "start": 19.047,
+        "end": 20.547,
+        "score": -6.4692
+      },
+      {
+        "word": "this",
+        "start_offset": 215,
+        "end_offset": 219,
+        "start": 30.171,
+        "end": 30.311,
+        "score": -5.9474
+      },
+      {
+        "word": "period",
+        "start_offset": 220,
+        "end_offset": 226,
+        "start": 30.331,
+        "end": 30.591,
+        "score": -5.7451
+      },
+      {
+        "word": "is",
+        "start_offset": 227,
+        "end_offset": 229,
+        "start": 30.671,
+        "end": 30.751,
+        "score": -3.9274
+      },
+      {
+        "word": "slightly",
+        "start_offset": 230,
+        "end_offset": 238,
+        "start": 30.771,
+        "end": 31.091,
+        "score": -5.5569
+      },
+      {
+        "word": "shorter",
+        "start_offset": 239,
+        "end_offset": 246,
+        "start": 31.231,
+        "end": 31.672,
+        "score": -4.8484
+      },
+      {
+        "word": "than",
+        "start_offset": 247,
+        "end_offset": 251,
+        "start": 31.712,
+        "end": 32.032,
+        "score": -4.3488
+      },
+      {
+        "word": "previous",
+        "start_offset": 252,
+        "end_offset": 260,
+        "start": 33.152,
+        "end": 33.572,
+        "score": -6.0916
+      },
+      {
+        "word": "periods.",
+        "start_offset": 261,
+        "end_offset": 269,
+        "start": 33.612,
+        "end": 34.032,
+        "score": -5.0243
+      },
+      {
+        "word": "Is",
+        "start_offset": 270,
+        "end_offset": 272,
+        "start": 34.092,
+        "end": 34.252,
+        "score": -4.2521
+      },
+      {
+        "word": "there",
+        "start_offset": 273,
+        "end_offset": 278,
+        "start": 34.272,
+        "end": 35.253,
+        "score": -5.3622
+      },
+      {
+        "word": "a",
+        "start_offset": 279,
+        "end_offset": 280,
+        "start": 35.473,
+        "end": 35.493,
+        "score": -5.4892
+      },
+      {
+        "word": "reason",
+        "start_offset": 281,
+        "end_offset": 287,
+        "start": 36.053,
+        "end": 36.413,
+        "score": -6.0031
+      },
+      {
+        "word": "for",
+        "start_offset": 288,
+        "end_offset": 291,
+        "start": 36.433,
+        "end": 36.593,
+        "score": -6.5953
+      },
+      {
+        "word": "this?",
+        "start_offset": 292,
+        "end_offset": 297,
+        "start": 36.613,
+        "end": 36.973,
+        "score": -6.5013
+      },
+      {
+        "word": "I",
+        "start_offset": 298,
+        "end_offset": 299,
+        "start": 39.054,
+        "end": 39.074,
+        "score": -1.3319
+      },
+      {
+        "word": "am",
+        "start_offset": 300,
+        "end_offset": 302,
+        "start": 39.834,
+        "end": 40.015,
+        "score": -2.9742
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 303,
+        "end_offset": 306,
+        "start": 40.775,
+        "end": 40.895,
+        "score": -2.0794
+      },
+      {
+        "word": "This",
+        "start_offset": 307,
+        "end_offset": 311,
+        "start": 42.595,
+        "end": 42.996,
+        "score": -3.2233
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 312,
+        "end_offset": 324,
+        "start": 43.896,
+        "end": 45.336,
+        "score": -1.7176
+      },
+      {
+        "word": "vital",
+        "start_offset": 325,
+        "end_offset": 330,
+        "start": 46.737,
+        "end": 47.357,
+        "score": -1.2148
+      },
+      {
+        "word": "energy",
+        "start_offset": 331,
+        "end_offset": 337,
+        "start": 48.398,
+        "end": 48.978,
+        "score": -0.8929
+      },
+      {
+        "word": "is",
+        "start_offset": 338,
+        "end_offset": 340,
+        "start": 50.218,
+        "end": 50.538,
+        "score": -0.9717
+      },
+      {
+        "word": "somewhat",
+        "start_offset": 341,
+        "end_offset": 349,
+        "start": 51.899,
+        "end": 53.139,
+        "score": -2.1314
+      },
+      {
+        "word": "low.",
+        "start_offset": 350,
+        "end_offset": 354,
+        "start": 54.02,
+        "end": 54.26,
+        "score": -2.0488
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "013-24.mp3",
+    "audio_duration": 55.04,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

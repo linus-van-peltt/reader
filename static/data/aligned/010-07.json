@@ -1,0 +1,483 @@
+{
+  "text": "When Maldek was destroyed, did all people of Maldek have the problem or were some advanced enough to transfer to other planets? I am Ra. In the occurrence of planetary dissolution none escaped, for this is an action which redounds to the social complex of the planetary complex itself. None escaped the knot or tangle.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "When Maldek was destroyed, did all people of Maldek have the problem or were some advanced enough to transfer to other planets?",
+        "start_offset": 0,
+        "end_offset": 127,
+        "start": 2.841,
+        "end": 17.465
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 128,
+        "end_offset": 136,
+        "start": 23.907,
+        "end": 26.207
+      },
+      {
+        "segment": "In the occurrence of planetary dissolution none escaped, for this is an action which redounds to the social complex of the planetary complex itself.",
+        "start_offset": 137,
+        "end_offset": 285,
+        "start": 30.008,
+        "end": 69.239
+      },
+      {
+        "segment": "None escaped the knot or tangle.",
+        "start_offset": 286,
+        "end_offset": 318,
+        "start": 70.98,
+        "end": 80.983
+      }
+    ],
+    "word": [
+      {
+        "word": "When",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.841,
+        "end": 3.021,
+        "score": -1.9236
+      },
+      {
+        "word": "Maldek",
+        "start_offset": 5,
+        "end_offset": 11,
+        "start": 3.121,
+        "end": 3.681,
+        "score": -3.6211
+      },
+      {
+        "word": "was",
+        "start_offset": 12,
+        "end_offset": 15,
+        "start": 4.241,
+        "end": 4.381,
+        "score": -6.0042
+      },
+      {
+        "word": "destroyed,",
+        "start_offset": 16,
+        "end_offset": 26,
+        "start": 4.401,
+        "end": 4.981,
+        "score": -5.1268
+      },
+      {
+        "word": "did",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 6.182,
+        "end": 6.362,
+        "score": -5.1786
+      },
+      {
+        "word": "all",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 6.582,
+        "end": 6.822,
+        "score": -4.4623
+      },
+      {
+        "word": "people",
+        "start_offset": 35,
+        "end_offset": 41,
+        "start": 7.142,
+        "end": 7.502,
+        "score": -4.0271
+      },
+      {
+        "word": "of",
+        "start_offset": 42,
+        "end_offset": 44,
+        "start": 7.582,
+        "end": 7.622,
+        "score": -5.713
+      },
+      {
+        "word": "Maldek",
+        "start_offset": 45,
+        "end_offset": 51,
+        "start": 7.682,
+        "end": 8.162,
+        "score": -4.7635
+      },
+      {
+        "word": "have",
+        "start_offset": 52,
+        "end_offset": 56,
+        "start": 10.803,
+        "end": 11.003,
+        "score": -4.3507
+      },
+      {
+        "word": "the",
+        "start_offset": 57,
+        "end_offset": 60,
+        "start": 11.023,
+        "end": 11.123,
+        "score": -4.2422
+      },
+      {
+        "word": "problem",
+        "start_offset": 61,
+        "end_offset": 68,
+        "start": 11.223,
+        "end": 11.703,
+        "score": -5.2923
+      },
+      {
+        "word": "or",
+        "start_offset": 69,
+        "end_offset": 71,
+        "start": 11.763,
+        "end": 11.843,
+        "score": -4.2579
+      },
+      {
+        "word": "were",
+        "start_offset": 72,
+        "end_offset": 76,
+        "start": 11.903,
+        "end": 12.063,
+        "score": -3.146
+      },
+      {
+        "word": "some",
+        "start_offset": 77,
+        "end_offset": 81,
+        "start": 12.123,
+        "end": 12.363,
+        "score": -2.9198
+      },
+      {
+        "word": "advanced",
+        "start_offset": 82,
+        "end_offset": 90,
+        "start": 12.383,
+        "end": 12.804,
+        "score": -5.1138
+      },
+      {
+        "word": "enough",
+        "start_offset": 91,
+        "end_offset": 97,
+        "start": 12.844,
+        "end": 13.404,
+        "score": -4.6346
+      },
+      {
+        "word": "to",
+        "start_offset": 98,
+        "end_offset": 100,
+        "start": 14.224,
+        "end": 14.304,
+        "score": -5.3274
+      },
+      {
+        "word": "transfer",
+        "start_offset": 101,
+        "end_offset": 109,
+        "start": 14.404,
+        "end": 14.964,
+        "score": -3.8538
+      },
+      {
+        "word": "to",
+        "start_offset": 110,
+        "end_offset": 112,
+        "start": 15.084,
+        "end": 15.164,
+        "score": -5.5123
+      },
+      {
+        "word": "other",
+        "start_offset": 113,
+        "end_offset": 118,
+        "start": 16.645,
+        "end": 16.845,
+        "score": -3.0634
+      },
+      {
+        "word": "planets?",
+        "start_offset": 119,
+        "end_offset": 127,
+        "start": 16.905,
+        "end": 17.465,
+        "score": -4.0375
+      },
+      {
+        "word": "I",
+        "start_offset": 128,
+        "end_offset": 129,
+        "start": 23.907,
+        "end": 23.927,
+        "score": -2.6256
+      },
+      {
+        "word": "am",
+        "start_offset": 130,
+        "end_offset": 132,
+        "start": 24.767,
+        "end": 24.987,
+        "score": -3.3076
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 133,
+        "end_offset": 136,
+        "start": 26.087,
+        "end": 26.207,
+        "score": -3.1595
+      },
+      {
+        "word": "In",
+        "start_offset": 137,
+        "end_offset": 139,
+        "start": 30.008,
+        "end": 30.228,
+        "score": -0.8553
+      },
+      {
+        "word": "the",
+        "start_offset": 140,
+        "end_offset": 143,
+        "start": 30.709,
+        "end": 30.829,
+        "score": -1.5336
+      },
+      {
+        "word": "occurrence",
+        "start_offset": 144,
+        "end_offset": 154,
+        "start": 32.249,
+        "end": 33.149,
+        "score": -2.7212
+      },
+      {
+        "word": "of",
+        "start_offset": 155,
+        "end_offset": 157,
+        "start": 34.27,
+        "end": 34.43,
+        "score": -3.1591
+      },
+      {
+        "word": "planetary",
+        "start_offset": 158,
+        "end_offset": 167,
+        "start": 35.09,
+        "end": 36.35,
+        "score": -2.2621
+      },
+      {
+        "word": "dissolution",
+        "start_offset": 168,
+        "end_offset": 179,
+        "start": 37.411,
+        "end": 38.591,
+        "score": -1.2128
+      },
+      {
+        "word": "none",
+        "start_offset": 180,
+        "end_offset": 184,
+        "start": 40.351,
+        "end": 40.691,
+        "score": -1.4142
+      },
+      {
+        "word": "escaped,",
+        "start_offset": 185,
+        "end_offset": 193,
+        "start": 41.692,
+        "end": 42.712,
+        "score": -2.5703
+      },
+      {
+        "word": "for",
+        "start_offset": 194,
+        "end_offset": 197,
+        "start": 43.792,
+        "end": 44.112,
+        "score": -2.8029
+      },
+      {
+        "word": "this",
+        "start_offset": 198,
+        "end_offset": 202,
+        "start": 44.192,
+        "end": 44.653,
+        "score": -3.1911
+      },
+      {
+        "word": "is",
+        "start_offset": 203,
+        "end_offset": 205,
+        "start": 45.773,
+        "end": 46.153,
+        "score": -0.8961
+      },
+      {
+        "word": "an",
+        "start_offset": 206,
+        "end_offset": 208,
+        "start": 48.214,
+        "end": 48.374,
+        "score": -2.0423
+      },
+      {
+        "word": "action",
+        "start_offset": 209,
+        "end_offset": 215,
+        "start": 49.374,
+        "end": 49.914,
+        "score": -0.8075
+      },
+      {
+        "word": "which",
+        "start_offset": 216,
+        "end_offset": 221,
+        "start": 51.655,
+        "end": 52.035,
+        "score": -0.9048
+      },
+      {
+        "word": "redounds",
+        "start_offset": 222,
+        "end_offset": 230,
+        "start": 52.595,
+        "end": 53.615,
+        "score": -2.0951
+      },
+      {
+        "word": "to",
+        "start_offset": 231,
+        "end_offset": 233,
+        "start": 54.715,
+        "end": 55.856,
+        "score": -1.6052
+      },
+      {
+        "word": "the",
+        "start_offset": 234,
+        "end_offset": 237,
+        "start": 56.456,
+        "end": 56.536,
+        "score": -3.1447
+      },
+      {
+        "word": "social",
+        "start_offset": 238,
+        "end_offset": 244,
+        "start": 58.136,
+        "end": 58.817,
+        "score": -0.8463
+      },
+      {
+        "word": "complex",
+        "start_offset": 245,
+        "end_offset": 252,
+        "start": 60.017,
+        "end": 60.917,
+        "score": -2.3814
+      },
+      {
+        "word": "of",
+        "start_offset": 253,
+        "end_offset": 255,
+        "start": 62.197,
+        "end": 62.378,
+        "score": -0.9247
+      },
+      {
+        "word": "the",
+        "start_offset": 256,
+        "end_offset": 259,
+        "start": 62.578,
+        "end": 62.678,
+        "score": -0.8797
+      },
+      {
+        "word": "planetary",
+        "start_offset": 260,
+        "end_offset": 269,
+        "start": 63.878,
+        "end": 64.878,
+        "score": -1.8927
+      },
+      {
+        "word": "complex",
+        "start_offset": 270,
+        "end_offset": 277,
+        "start": 66.759,
+        "end": 67.699,
+        "score": -2.5126
+      },
+      {
+        "word": "itself.",
+        "start_offset": 278,
+        "end_offset": 285,
+        "start": 68.639,
+        "end": 69.239,
+        "score": -2.3188
+      },
+      {
+        "word": "None",
+        "start_offset": 286,
+        "end_offset": 290,
+        "start": 70.98,
+        "end": 71.38,
+        "score": -1.4579
+      },
+      {
+        "word": "escaped",
+        "start_offset": 291,
+        "end_offset": 298,
+        "start": 72.68,
+        "end": 73.701,
+        "score": -2.1772
+      },
+      {
+        "word": "the",
+        "start_offset": 299,
+        "end_offset": 302,
+        "start": 74.701,
+        "end": 74.781,
+        "score": -2.7249
+      },
+      {
+        "word": "knot",
+        "start_offset": 303,
+        "end_offset": 307,
+        "start": 75.221,
+        "end": 76.141,
+        "score": -3.5558
+      },
+      {
+        "word": "or",
+        "start_offset": 308,
+        "end_offset": 310,
+        "start": 77.962,
+        "end": 78.102,
+        "score": -2.0442
+      },
+      {
+        "word": "tangle.",
+        "start_offset": 311,
+        "end_offset": 318,
+        "start": 78.342,
+        "end": 80.983,
+        "score": -2.8635
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "010-07.mp3",
+    "audio_duration": 83.0433,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

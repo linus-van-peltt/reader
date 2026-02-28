@@ -1,0 +1,252 @@
+{
+  "text": "You mean then that the pattern is that the service-to-self polarization appeared farther out from the center of the galactic spiral? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "You mean then that the pattern is that the service-to-self polarization appeared farther out from the center of the galactic spiral?",
+        "start_offset": 0,
+        "end_offset": 132,
+        "start": 1.822,
+        "end": 10.052
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 133,
+        "end_offset": 141,
+        "start": 12.615,
+        "end": 14.338
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 142,
+        "end_offset": 158,
+        "start": 16.02,
+        "end": 18.663
+      }
+    ],
+    "word": [
+      {
+        "word": "You",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 1.822,
+        "end": 1.882,
+        "score": -3.4474
+      },
+      {
+        "word": "mean",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 1.922,
+        "end": 2.083,
+        "score": -0.9204
+      },
+      {
+        "word": "then",
+        "start_offset": 9,
+        "end_offset": 13,
+        "start": 2.103,
+        "end": 2.243,
+        "score": -1.0803
+      },
+      {
+        "word": "that",
+        "start_offset": 14,
+        "end_offset": 18,
+        "start": 2.283,
+        "end": 2.423,
+        "score": -0.8264
+      },
+      {
+        "word": "the",
+        "start_offset": 19,
+        "end_offset": 22,
+        "start": 2.443,
+        "end": 2.543,
+        "score": -0.9003
+      },
+      {
+        "word": "pattern",
+        "start_offset": 23,
+        "end_offset": 30,
+        "start": 2.583,
+        "end": 2.964,
+        "score": -0.7514
+      },
+      {
+        "word": "is",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 3.084,
+        "end": 3.284,
+        "score": -1.0807
+      },
+      {
+        "word": "that",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 4.025,
+        "end": 4.185,
+        "score": -1.2616
+      },
+      {
+        "word": "the",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 4.225,
+        "end": 4.305,
+        "score": -0.8043
+      },
+      {
+        "word": "service-to-self",
+        "start_offset": 43,
+        "end_offset": 58,
+        "start": 4.385,
+        "end": 5.887,
+        "score": -1.5547
+      },
+      {
+        "word": "polarization",
+        "start_offset": 59,
+        "end_offset": 71,
+        "start": 5.987,
+        "end": 6.688,
+        "score": -0.777
+      },
+      {
+        "word": "appeared",
+        "start_offset": 72,
+        "end_offset": 80,
+        "start": 6.728,
+        "end": 7.069,
+        "score": -0.8429
+      },
+      {
+        "word": "farther",
+        "start_offset": 81,
+        "end_offset": 88,
+        "start": 7.329,
+        "end": 7.689,
+        "score": -0.711
+      },
+      {
+        "word": "out",
+        "start_offset": 89,
+        "end_offset": 92,
+        "start": 7.77,
+        "end": 7.91,
+        "score": -0.7017
+      },
+      {
+        "word": "from",
+        "start_offset": 93,
+        "end_offset": 97,
+        "start": 7.95,
+        "end": 8.07,
+        "score": -0.7197
+      },
+      {
+        "word": "the",
+        "start_offset": 98,
+        "end_offset": 101,
+        "start": 8.11,
+        "end": 8.19,
+        "score": -0.7302
+      },
+      {
+        "word": "center",
+        "start_offset": 102,
+        "end_offset": 108,
+        "start": 8.25,
+        "end": 8.51,
+        "score": -0.8495
+      },
+      {
+        "word": "of",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 8.57,
+        "end": 8.611,
+        "score": -0.7183
+      },
+      {
+        "word": "the",
+        "start_offset": 112,
+        "end_offset": 115,
+        "start": 8.631,
+        "end": 8.711,
+        "score": -0.786
+      },
+      {
+        "word": "galactic",
+        "start_offset": 116,
+        "end_offset": 124,
+        "start": 8.751,
+        "end": 9.311,
+        "score": -0.9746
+      },
+      {
+        "word": "spiral?",
+        "start_offset": 125,
+        "end_offset": 132,
+        "start": 9.652,
+        "end": 10.052,
+        "score": -2.0493
+      },
+      {
+        "word": "I",
+        "start_offset": 133,
+        "end_offset": 134,
+        "start": 12.615,
+        "end": 12.635,
+        "score": -3.109
+      },
+      {
+        "word": "am",
+        "start_offset": 135,
+        "end_offset": 137,
+        "start": 13.356,
+        "end": 13.717,
+        "score": -3.6032
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 138,
+        "end_offset": 141,
+        "start": 14.217,
+        "end": 14.338,
+        "score": -5.4853
+      },
+      {
+        "word": "This",
+        "start_offset": 142,
+        "end_offset": 146,
+        "start": 16.02,
+        "end": 16.36,
+        "score": -2.4271
+      },
+      {
+        "word": "is",
+        "start_offset": 147,
+        "end_offset": 149,
+        "start": 16.981,
+        "end": 17.301,
+        "score": -2.1991
+      },
+      {
+        "word": "correct.",
+        "start_offset": 150,
+        "end_offset": 158,
+        "start": 18.042,
+        "end": 18.663,
+        "score": -2.223
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "081-31.mp3",
+    "audio_duration": 19.0433,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

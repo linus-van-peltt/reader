@@ -1,0 +1,298 @@
+{
+  "text": "Are there any other negatively oriented signals that I get? I am Ra. This is correct. You are able to receive thought-forms, word-forms, and visions. However, you seem able to discriminate.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Are there any other negatively oriented signals that I get?",
+        "start_offset": 0,
+        "end_offset": 59,
+        "start": 0.88,
+        "end": 11.045
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 60,
+        "end_offset": 68,
+        "start": 11.065,
+        "end": 14.186
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 69,
+        "end_offset": 85,
+        "start": 14.347,
+        "end": 17.628
+      },
+      {
+        "segment": "You are able to receive thought-forms, word-forms, and visions.",
+        "start_offset": 86,
+        "end_offset": 149,
+        "start": 19.529,
+        "end": 35.756
+      },
+      {
+        "segment": "However, you seem able to discriminate.",
+        "start_offset": 150,
+        "end_offset": 189,
+        "start": 37.717,
+        "end": 48.302
+      }
+    ],
+    "word": [
+      {
+        "word": "Are",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 0.88,
+        "end": 1.121,
+        "score": -7.4887
+      },
+      {
+        "word": "there",
+        "start_offset": 4,
+        "end_offset": 9,
+        "start": 1.161,
+        "end": 1.301,
+        "score": -4.9473
+      },
+      {
+        "word": "any",
+        "start_offset": 10,
+        "end_offset": 13,
+        "start": 1.341,
+        "end": 1.461,
+        "score": -5.0278
+      },
+      {
+        "word": "other",
+        "start_offset": 14,
+        "end_offset": 19,
+        "start": 1.541,
+        "end": 1.701,
+        "score": -6.7754
+      },
+      {
+        "word": "negatively",
+        "start_offset": 20,
+        "end_offset": 30,
+        "start": 1.801,
+        "end": 2.241,
+        "score": -4.311
+      },
+      {
+        "word": "oriented",
+        "start_offset": 31,
+        "end_offset": 39,
+        "start": 2.341,
+        "end": 2.661,
+        "score": -6.5166
+      },
+      {
+        "word": "signals",
+        "start_offset": 40,
+        "end_offset": 47,
+        "start": 2.721,
+        "end": 8.364,
+        "score": -6.3307
+      },
+      {
+        "word": "that",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 8.384,
+        "end": 10.145,
+        "score": -4.587
+      },
+      {
+        "word": "I",
+        "start_offset": 53,
+        "end_offset": 54,
+        "start": 10.925,
+        "end": 10.945,
+        "score": -7.9619
+      },
+      {
+        "word": "get?",
+        "start_offset": 55,
+        "end_offset": 59,
+        "start": 10.985,
+        "end": 11.045,
+        "score": -5.0887
+      },
+      {
+        "word": "I",
+        "start_offset": 60,
+        "end_offset": 61,
+        "start": 11.065,
+        "end": 11.085,
+        "score": -6.7901
+      },
+      {
+        "word": "am",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 11.185,
+        "end": 11.345,
+        "score": -4.6897
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 11.365,
+        "end": 14.186,
+        "score": -4.1682
+      },
+      {
+        "word": "This",
+        "start_offset": 69,
+        "end_offset": 73,
+        "start": 14.347,
+        "end": 14.727,
+        "score": -0.8669
+      },
+      {
+        "word": "is",
+        "start_offset": 74,
+        "end_offset": 76,
+        "start": 15.627,
+        "end": 15.927,
+        "score": -0.7265
+      },
+      {
+        "word": "correct.",
+        "start_offset": 77,
+        "end_offset": 85,
+        "start": 16.588,
+        "end": 17.628,
+        "score": -0.7149
+      },
+      {
+        "word": "You",
+        "start_offset": 86,
+        "end_offset": 89,
+        "start": 19.529,
+        "end": 19.669,
+        "score": -0.8846
+      },
+      {
+        "word": "are",
+        "start_offset": 90,
+        "end_offset": 93,
+        "start": 21.09,
+        "end": 21.35,
+        "score": -1.2288
+      },
+      {
+        "word": "able",
+        "start_offset": 94,
+        "end_offset": 98,
+        "start": 22.35,
+        "end": 22.81,
+        "score": -0.7422
+      },
+      {
+        "word": "to",
+        "start_offset": 99,
+        "end_offset": 101,
+        "start": 23.651,
+        "end": 23.831,
+        "score": -0.712
+      },
+      {
+        "word": "receive",
+        "start_offset": 102,
+        "end_offset": 109,
+        "start": 24.671,
+        "end": 25.632,
+        "score": -0.7237
+      },
+      {
+        "word": "thought-forms,",
+        "start_offset": 110,
+        "end_offset": 124,
+        "start": 26.852,
+        "end": 28.953,
+        "score": -3.2034
+      },
+      {
+        "word": "word-forms,",
+        "start_offset": 125,
+        "end_offset": 136,
+        "start": 30.554,
+        "end": 32.555,
+        "score": -0.72
+      },
+      {
+        "word": "and",
+        "start_offset": 137,
+        "end_offset": 140,
+        "start": 33.835,
+        "end": 34.256,
+        "score": -0.7181
+      },
+      {
+        "word": "visions.",
+        "start_offset": 141,
+        "end_offset": 149,
+        "start": 34.816,
+        "end": 35.756,
+        "score": -0.7081
+      },
+      {
+        "word": "However,",
+        "start_offset": 150,
+        "end_offset": 158,
+        "start": 37.717,
+        "end": 39.058,
+        "score": -0.7218
+      },
+      {
+        "word": "you",
+        "start_offset": 159,
+        "end_offset": 162,
+        "start": 40.438,
+        "end": 40.599,
+        "score": -0.7713
+      },
+      {
+        "word": "seem",
+        "start_offset": 163,
+        "end_offset": 167,
+        "start": 42.119,
+        "end": 42.72,
+        "score": -1.2583
+      },
+      {
+        "word": "able",
+        "start_offset": 168,
+        "end_offset": 172,
+        "start": 43.74,
+        "end": 44.24,
+        "score": -0.7397
+      },
+      {
+        "word": "to",
+        "start_offset": 173,
+        "end_offset": 175,
+        "start": 45.021,
+        "end": 45.221,
+        "score": -0.7157
+      },
+      {
+        "word": "discriminate.",
+        "start_offset": 176,
+        "end_offset": 189,
+        "start": 46.381,
+        "end": 48.302,
+        "score": -1.281
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "044-05.mp3",
+    "audio_duration": 51.0433,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

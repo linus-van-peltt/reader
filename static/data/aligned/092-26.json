@@ -1,0 +1,244 @@
+{
+  "text": "Are there any other parts of this picture that were not given by Ra? I am Ra. The astrological symbols offered are not given by Ra.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Are there any other parts of this picture that were not given by Ra?",
+        "start_offset": 0,
+        "end_offset": 68,
+        "start": 2.881,
+        "end": 10.704
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 69,
+        "end_offset": 77,
+        "start": 24.21,
+        "end": 28.652
+      },
+      {
+        "segment": "The astrological symbols offered are not given by Ra.",
+        "start_offset": 78,
+        "end_offset": 131,
+        "start": 28.772,
+        "end": 46.859
+      }
+    ],
+    "word": [
+      {
+        "word": "Are",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.881,
+        "end": 2.961,
+        "score": -0.7976
+      },
+      {
+        "word": "there",
+        "start_offset": 4,
+        "end_offset": 9,
+        "start": 2.981,
+        "end": 3.121,
+        "score": -0.7815
+      },
+      {
+        "word": "any",
+        "start_offset": 10,
+        "end_offset": 13,
+        "start": 3.181,
+        "end": 3.321,
+        "score": -0.7099
+      },
+      {
+        "word": "other",
+        "start_offset": 14,
+        "end_offset": 19,
+        "start": 3.521,
+        "end": 3.762,
+        "score": -0.7329
+      },
+      {
+        "word": "parts",
+        "start_offset": 20,
+        "end_offset": 25,
+        "start": 4.742,
+        "end": 5.102,
+        "score": -0.7678
+      },
+      {
+        "word": "of",
+        "start_offset": 26,
+        "end_offset": 28,
+        "start": 5.162,
+        "end": 5.242,
+        "score": -0.7132
+      },
+      {
+        "word": "this",
+        "start_offset": 29,
+        "end_offset": 33,
+        "start": 5.302,
+        "end": 5.542,
+        "score": -0.7554
+      },
+      {
+        "word": "picture",
+        "start_offset": 34,
+        "end_offset": 41,
+        "start": 7.343,
+        "end": 7.823,
+        "score": -0.731
+      },
+      {
+        "word": "that",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 9.044,
+        "end": 9.224,
+        "score": -0.7865
+      },
+      {
+        "word": "were",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 9.324,
+        "end": 9.484,
+        "score": -0.7333
+      },
+      {
+        "word": "not",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 9.544,
+        "end": 9.744,
+        "score": -0.7087
+      },
+      {
+        "word": "given",
+        "start_offset": 56,
+        "end_offset": 61,
+        "start": 9.924,
+        "end": 10.204,
+        "score": -0.7058
+      },
+      {
+        "word": "by",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 10.264,
+        "end": 10.464,
+        "score": -0.7309
+      },
+      {
+        "word": "Ra?",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 10.564,
+        "end": 10.704,
+        "score": -0.9543
+      },
+      {
+        "word": "I",
+        "start_offset": 69,
+        "end_offset": 70,
+        "start": 24.21,
+        "end": 24.23,
+        "score": -1.4898
+      },
+      {
+        "word": "am",
+        "start_offset": 71,
+        "end_offset": 73,
+        "start": 24.85,
+        "end": 25.15,
+        "score": -3.9932
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 74,
+        "end_offset": 77,
+        "start": 26.091,
+        "end": 28.652,
+        "score": -3.6746
+      },
+      {
+        "word": "The",
+        "start_offset": 78,
+        "end_offset": 81,
+        "start": 28.772,
+        "end": 28.912,
+        "score": -1.0212
+      },
+      {
+        "word": "astrological",
+        "start_offset": 82,
+        "end_offset": 94,
+        "start": 32.874,
+        "end": 34.574,
+        "score": -0.7903
+      },
+      {
+        "word": "symbols",
+        "start_offset": 95,
+        "end_offset": 102,
+        "start": 35.955,
+        "end": 36.675,
+        "score": -1.7612
+      },
+      {
+        "word": "offered",
+        "start_offset": 103,
+        "end_offset": 110,
+        "start": 38.096,
+        "end": 38.616,
+        "score": -0.741
+      },
+      {
+        "word": "are",
+        "start_offset": 111,
+        "end_offset": 114,
+        "start": 41.257,
+        "end": 41.537,
+        "score": -2.0336
+      },
+      {
+        "word": "not",
+        "start_offset": 115,
+        "end_offset": 118,
+        "start": 42.158,
+        "end": 42.478,
+        "score": -0.7527
+      },
+      {
+        "word": "given",
+        "start_offset": 119,
+        "end_offset": 124,
+        "start": 43.598,
+        "end": 44.018,
+        "score": -0.7873
+      },
+      {
+        "word": "by",
+        "start_offset": 125,
+        "end_offset": 127,
+        "start": 45.319,
+        "end": 45.699,
+        "score": -1.2703
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 128,
+        "end_offset": 131,
+        "start": 46.719,
+        "end": 46.859,
+        "score": -0.9511
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "092-26.mp3",
+    "audio_duration": 58.0441,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

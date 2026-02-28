@@ -1,0 +1,443 @@
+{
+  "text": "What did you mean by chimney? What what was its specific food? There is a proper flow of your atmosphere, which, though small, freshens the whole of the structure. This was designed by having air flow ducts as this instrument might call them situated so that there was a freshness of atmosphere without any disturbance or drought.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What did you mean by chimney?",
+        "start_offset": 4,
+        "end_offset": 31,
+        "start": 0.32,
+        "end": 2.48
+      },
+      {
+        "segment": "What what was its specific food?",
+        "start_offset": 38,
+        "end_offset": 67,
+        "start": 3.04,
+        "end": 5.36
+      },
+      {
+        "segment": "There is a proper flow of your atmosphere, which, though small, freshens the whole of the structure.",
+        "start_offset": 114,
+        "end_offset": 509,
+        "start": 9.120000000000001,
+        "end": 40.72
+      },
+      {
+        "segment": "This was designed by having air flow ducts as this instrument might call them situated so that there was a freshness of atmosphere without any disturbance or drought.",
+        "start_offset": 523,
+        "end_offset": 1147,
+        "start": 41.84,
+        "end": 91.76
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 4,
+        "end_offset": 9,
+        "start": 0.32,
+        "end": 0.72
+      },
+      {
+        "word": "did",
+        "start_offset": 9,
+        "end_offset": 12,
+        "start": 0.72,
+        "end": 0.96
+      },
+      {
+        "word": "you",
+        "start_offset": 12,
+        "end_offset": 14,
+        "start": 0.96,
+        "end": 1.12
+      },
+      {
+        "word": "mean",
+        "start_offset": 14,
+        "end_offset": 18,
+        "start": 1.12,
+        "end": 1.44
+      },
+      {
+        "word": "by",
+        "start_offset": 18,
+        "end_offset": 21,
+        "start": 1.44,
+        "end": 1.68
+      },
+      {
+        "word": "chimney?",
+        "start_offset": 21,
+        "end_offset": 31,
+        "start": 1.68,
+        "end": 2.48
+      },
+      {
+        "word": "What",
+        "start_offset": 38,
+        "end_offset": 43,
+        "start": 3.04,
+        "end": 3.44
+      },
+      {
+        "word": "what",
+        "start_offset": 45,
+        "end_offset": 48,
+        "start": 3.6,
+        "end": 3.84
+      },
+      {
+        "word": "was",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 3.84,
+        "end": 4.16
+      },
+      {
+        "word": "its",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 4.16,
+        "end": 4.4
+      },
+      {
+        "word": "specific",
+        "start_offset": 55,
+        "end_offset": 61,
+        "start": 4.4,
+        "end": 4.88
+      },
+      {
+        "word": "food?",
+        "start_offset": 63,
+        "end_offset": 67,
+        "start": 5.04,
+        "end": 5.36
+      },
+      {
+        "word": "There",
+        "start_offset": 114,
+        "end_offset": 122,
+        "start": 9.120000000000001,
+        "end": 9.76
+      },
+      {
+        "word": "is",
+        "start_offset": 146,
+        "end_offset": 150,
+        "start": 11.68,
+        "end": 12.0
+      },
+      {
+        "word": "a",
+        "start_offset": 182,
+        "end_offset": 186,
+        "start": 14.56,
+        "end": 14.88
+      },
+      {
+        "word": "proper",
+        "start_offset": 202,
+        "end_offset": 210,
+        "start": 16.16,
+        "end": 16.8
+      },
+      {
+        "word": "flow",
+        "start_offset": 237,
+        "end_offset": 245,
+        "start": 18.96,
+        "end": 19.6
+      },
+      {
+        "word": "of",
+        "start_offset": 261,
+        "end_offset": 265,
+        "start": 20.88,
+        "end": 21.2
+      },
+      {
+        "word": "your",
+        "start_offset": 281,
+        "end_offset": 285,
+        "start": 22.48,
+        "end": 22.8
+      },
+      {
+        "word": "atmosphere,",
+        "start_offset": 301,
+        "end_offset": 317,
+        "start": 24.080000000000002,
+        "end": 25.36
+      },
+      {
+        "word": "which,",
+        "start_offset": 329,
+        "end_offset": 333,
+        "start": 26.32,
+        "end": 26.64
+      },
+      {
+        "word": "though",
+        "start_offset": 350,
+        "end_offset": 358,
+        "start": 28.0,
+        "end": 28.64
+      },
+      {
+        "word": "small,",
+        "start_offset": 370,
+        "end_offset": 378,
+        "start": 29.6,
+        "end": 30.240000000000002
+      },
+      {
+        "word": "freshens",
+        "start_offset": 398,
+        "end_offset": 410,
+        "start": 31.84,
+        "end": 32.8
+      },
+      {
+        "word": "the",
+        "start_offset": 422,
+        "end_offset": 426,
+        "start": 33.76,
+        "end": 34.08
+      },
+      {
+        "word": "whole",
+        "start_offset": 442,
+        "end_offset": 450,
+        "start": 35.36,
+        "end": 36.0
+      },
+      {
+        "word": "of",
+        "start_offset": 466,
+        "end_offset": 470,
+        "start": 37.28,
+        "end": 37.6
+      },
+      {
+        "word": "the",
+        "start_offset": 478,
+        "end_offset": 481,
+        "start": 38.24,
+        "end": 38.480000000000004
+      },
+      {
+        "word": "structure.",
+        "start_offset": 497,
+        "end_offset": 509,
+        "start": 39.76,
+        "end": 40.72
+      },
+      {
+        "word": "This",
+        "start_offset": 523,
+        "end_offset": 527,
+        "start": 41.84,
+        "end": 42.160000000000004
+      },
+      {
+        "word": "was",
+        "start_offset": 559,
+        "end_offset": 563,
+        "start": 44.72,
+        "end": 45.04
+      },
+      {
+        "word": "designed",
+        "start_offset": 570,
+        "end_offset": 582,
+        "start": 45.6,
+        "end": 46.56
+      },
+      {
+        "word": "by",
+        "start_offset": 602,
+        "end_offset": 606,
+        "start": 48.160000000000004,
+        "end": 48.480000000000004
+      },
+      {
+        "word": "having",
+        "start_offset": 633,
+        "end_offset": 641,
+        "start": 50.64,
+        "end": 51.28
+      },
+      {
+        "word": "air",
+        "start_offset": 665,
+        "end_offset": 673,
+        "start": 53.2,
+        "end": 53.84
+      },
+      {
+        "word": "flow",
+        "start_offset": 683,
+        "end_offset": 691,
+        "start": 54.64,
+        "end": 55.28
+      },
+      {
+        "word": "ducts",
+        "start_offset": 707,
+        "end_offset": 716,
+        "start": 56.56,
+        "end": 57.28
+      },
+      {
+        "word": "as",
+        "start_offset": 728,
+        "end_offset": 732,
+        "start": 58.24,
+        "end": 58.56
+      },
+      {
+        "word": "this",
+        "start_offset": 752,
+        "end_offset": 756,
+        "start": 60.160000000000004,
+        "end": 60.480000000000004
+      },
+      {
+        "word": "instrument",
+        "start_offset": 776,
+        "end_offset": 791,
+        "start": 62.08,
+        "end": 63.28
+      },
+      {
+        "word": "might",
+        "start_offset": 803,
+        "end_offset": 811,
+        "start": 64.24,
+        "end": 64.88
+      },
+      {
+        "word": "call",
+        "start_offset": 819,
+        "end_offset": 827,
+        "start": 65.52,
+        "end": 66.16
+      },
+      {
+        "word": "them",
+        "start_offset": 839,
+        "end_offset": 843,
+        "start": 67.12,
+        "end": 67.44
+      },
+      {
+        "word": "situated",
+        "start_offset": 865,
+        "end_offset": 877,
+        "start": 69.2,
+        "end": 70.16
+      },
+      {
+        "word": "so",
+        "start_offset": 890,
+        "end_offset": 894,
+        "start": 71.2,
+        "end": 71.52
+      },
+      {
+        "word": "that",
+        "start_offset": 914,
+        "end_offset": 918,
+        "start": 73.12,
+        "end": 73.44
+      },
+      {
+        "word": "there",
+        "start_offset": 934,
+        "end_offset": 938,
+        "start": 74.72,
+        "end": 75.04
+      },
+      {
+        "word": "was",
+        "start_offset": 946,
+        "end_offset": 950,
+        "start": 75.68,
+        "end": 76.0
+      },
+      {
+        "word": "a",
+        "start_offset": 966,
+        "end_offset": 970,
+        "start": 77.28,
+        "end": 77.60000000000001
+      },
+      {
+        "word": "freshness",
+        "start_offset": 982,
+        "end_offset": 994,
+        "start": 78.56,
+        "end": 79.52
+      },
+      {
+        "word": "of",
+        "start_offset": 1014,
+        "end_offset": 1018,
+        "start": 81.12,
+        "end": 81.44
+      },
+      {
+        "word": "atmosphere",
+        "start_offset": 1029,
+        "end_offset": 1045,
+        "start": 82.32000000000001,
+        "end": 83.60000000000001
+      },
+      {
+        "word": "without",
+        "start_offset": 1057,
+        "end_offset": 1073,
+        "start": 84.56,
+        "end": 85.84
+      },
+      {
+        "word": "any",
+        "start_offset": 1085,
+        "end_offset": 1089,
+        "start": 86.8,
+        "end": 87.12
+      },
+      {
+        "word": "disturbance",
+        "start_offset": 1097,
+        "end_offset": 1114,
+        "start": 87.76,
+        "end": 89.12
+      },
+      {
+        "word": "or",
+        "start_offset": 1122,
+        "end_offset": 1126,
+        "start": 89.76,
+        "end": 90.08
+      },
+      {
+        "word": "drought.",
+        "start_offset": 1138,
+        "end_offset": 1147,
+        "start": 91.04,
+        "end": 91.76
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "003-07.mp3",
+    "audio_duration": 97.04,
+    "transcription_time": 0.16,
+    "rtfx": 625.06,
+    "timestamp": "2026-01-06T21:45:38.483865+00:00"
+  }
+}

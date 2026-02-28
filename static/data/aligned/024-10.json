@@ -1,0 +1,387 @@
+{
+  "text": "Could you state some of those after making the instrument cough, please? I am Ra. This is information which you may discover. However, we will briefly point the way by indicating the so-called wheel within a wheel and the cherubim with sleepless eye.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you state some of those after making the instrument cough, please?",
+        "start_offset": 0,
+        "end_offset": 72,
+        "start": 2.42,
+        "end": 16.863
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 73,
+        "end_offset": 81,
+        "start": 16.883,
+        "end": 17.163
+      },
+      {
+        "segment": "This is information which you may discover.",
+        "start_offset": 82,
+        "end_offset": 125,
+        "start": 18.743,
+        "end": 26.524
+      },
+      {
+        "segment": "However, we will briefly point the way by indicating the so-called wheel within a wheel and the cherubim with sleepless eye.",
+        "start_offset": 126,
+        "end_offset": 250,
+        "start": 27.845,
+        "end": 52.549
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.42,
+        "end": 2.62,
+        "score": -10.8671
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 2.66,
+        "end": 2.72,
+        "score": -10.2189
+      },
+      {
+        "word": "state",
+        "start_offset": 10,
+        "end_offset": 15,
+        "start": 2.8,
+        "end": 3.261,
+        "score": -8.143
+      },
+      {
+        "word": "some",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 3.301,
+        "end": 3.461,
+        "score": -9.3172
+      },
+      {
+        "word": "of",
+        "start_offset": 21,
+        "end_offset": 23,
+        "start": 3.481,
+        "end": 3.521,
+        "score": -11.5913
+      },
+      {
+        "word": "those",
+        "start_offset": 24,
+        "end_offset": 29,
+        "start": 3.541,
+        "end": 3.741,
+        "score": -8.9729
+      },
+      {
+        "word": "after",
+        "start_offset": 30,
+        "end_offset": 35,
+        "start": 3.801,
+        "end": 4.021,
+        "score": -9.6435
+      },
+      {
+        "word": "making",
+        "start_offset": 36,
+        "end_offset": 42,
+        "start": 4.041,
+        "end": 4.341,
+        "score": -7.6232
+      },
+      {
+        "word": "the",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 14.742,
+        "end": 14.862,
+        "score": -7.8307
+      },
+      {
+        "word": "instrument",
+        "start_offset": 47,
+        "end_offset": 57,
+        "start": 15.162,
+        "end": 16.343,
+        "score": -7.5427
+      },
+      {
+        "word": "cough,",
+        "start_offset": 58,
+        "end_offset": 64,
+        "start": 16.583,
+        "end": 16.703,
+        "score": -9.207
+      },
+      {
+        "word": "please?",
+        "start_offset": 65,
+        "end_offset": 72,
+        "start": 16.723,
+        "end": 16.863,
+        "score": -7.1718
+      },
+      {
+        "word": "I",
+        "start_offset": 73,
+        "end_offset": 74,
+        "start": 16.883,
+        "end": 16.903,
+        "score": -8.9305
+      },
+      {
+        "word": "am",
+        "start_offset": 75,
+        "end_offset": 77,
+        "start": 16.963,
+        "end": 17.103,
+        "score": -5.2534
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 78,
+        "end_offset": 81,
+        "start": 17.123,
+        "end": 17.163,
+        "score": -6.9277
+      },
+      {
+        "word": "This",
+        "start_offset": 82,
+        "end_offset": 86,
+        "start": 18.743,
+        "end": 19.123,
+        "score": -0.7113
+      },
+      {
+        "word": "is",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 19.903,
+        "end": 20.223,
+        "score": -0.7027
+      },
+      {
+        "word": "information",
+        "start_offset": 90,
+        "end_offset": 101,
+        "start": 20.943,
+        "end": 22.664,
+        "score": -0.7142
+      },
+      {
+        "word": "which",
+        "start_offset": 102,
+        "end_offset": 107,
+        "start": 23.224,
+        "end": 23.604,
+        "score": -0.7157
+      },
+      {
+        "word": "you",
+        "start_offset": 108,
+        "end_offset": 111,
+        "start": 24.264,
+        "end": 24.424,
+        "score": -0.7112
+      },
+      {
+        "word": "may",
+        "start_offset": 112,
+        "end_offset": 115,
+        "start": 24.984,
+        "end": 25.244,
+        "score": -0.8339
+      },
+      {
+        "word": "discover.",
+        "start_offset": 116,
+        "end_offset": 125,
+        "start": 25.544,
+        "end": 26.524,
+        "score": -0.7149
+      },
+      {
+        "word": "However,",
+        "start_offset": 126,
+        "end_offset": 134,
+        "start": 27.845,
+        "end": 29.045,
+        "score": -0.7135
+      },
+      {
+        "word": "we",
+        "start_offset": 135,
+        "end_offset": 137,
+        "start": 30.165,
+        "end": 30.285,
+        "score": -0.7089
+      },
+      {
+        "word": "will",
+        "start_offset": 138,
+        "end_offset": 142,
+        "start": 30.725,
+        "end": 31.045,
+        "score": -0.7861
+      },
+      {
+        "word": "briefly",
+        "start_offset": 143,
+        "end_offset": 150,
+        "start": 31.445,
+        "end": 32.225,
+        "score": -0.8152
+      },
+      {
+        "word": "point",
+        "start_offset": 151,
+        "end_offset": 156,
+        "start": 32.765,
+        "end": 33.345,
+        "score": -0.7257
+      },
+      {
+        "word": "the",
+        "start_offset": 157,
+        "end_offset": 160,
+        "start": 33.765,
+        "end": 33.886,
+        "score": -0.8197
+      },
+      {
+        "word": "way",
+        "start_offset": 161,
+        "end_offset": 164,
+        "start": 34.646,
+        "end": 35.006,
+        "score": -0.7595
+      },
+      {
+        "word": "by",
+        "start_offset": 165,
+        "end_offset": 167,
+        "start": 36.106,
+        "end": 36.466,
+        "score": -0.703
+      },
+      {
+        "word": "indicating",
+        "start_offset": 168,
+        "end_offset": 178,
+        "start": 36.886,
+        "end": 38.226,
+        "score": -0.7002
+      },
+      {
+        "word": "the",
+        "start_offset": 179,
+        "end_offset": 182,
+        "start": 39.266,
+        "end": 39.406,
+        "score": -0.7363
+      },
+      {
+        "word": "so-called",
+        "start_offset": 183,
+        "end_offset": 192,
+        "start": 39.906,
+        "end": 41.207,
+        "score": -0.7411
+      },
+      {
+        "word": "wheel",
+        "start_offset": 193,
+        "end_offset": 198,
+        "start": 42.027,
+        "end": 42.447,
+        "score": -1.5913
+      },
+      {
+        "word": "within",
+        "start_offset": 199,
+        "end_offset": 205,
+        "start": 42.887,
+        "end": 43.607,
+        "score": -0.7649
+      },
+      {
+        "word": "a",
+        "start_offset": 206,
+        "end_offset": 207,
+        "start": 44.047,
+        "end": 44.067,
+        "score": -0.7117
+      },
+      {
+        "word": "wheel",
+        "start_offset": 208,
+        "end_offset": 213,
+        "start": 44.647,
+        "end": 45.067,
+        "score": -1.3465
+      },
+      {
+        "word": "and",
+        "start_offset": 214,
+        "end_offset": 217,
+        "start": 46.428,
+        "end": 46.768,
+        "score": -0.7461
+      },
+      {
+        "word": "the",
+        "start_offset": 218,
+        "end_offset": 221,
+        "start": 47.308,
+        "end": 47.468,
+        "score": -0.7376
+      },
+      {
+        "word": "cherubim",
+        "start_offset": 222,
+        "end_offset": 230,
+        "start": 48.128,
+        "end": 49.608,
+        "score": -0.9302
+      },
+      {
+        "word": "with",
+        "start_offset": 231,
+        "end_offset": 235,
+        "start": 50.188,
+        "end": 50.488,
+        "score": -0.7082
+      },
+      {
+        "word": "sleepless",
+        "start_offset": 236,
+        "end_offset": 245,
+        "start": 50.828,
+        "end": 51.768,
+        "score": -0.7128
+      },
+      {
+        "word": "eye.",
+        "start_offset": 246,
+        "end_offset": 250,
+        "start": 52.108,
+        "end": 52.549,
+        "score": -2.2077
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "024-10.mp3",
+    "audio_duration": 53.0286,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

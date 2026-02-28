@@ -1,0 +1,58 @@
+{
+  "text": "Raw twenty seven, February twenty-first.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Raw twenty seven, February twenty-first.",
+        "start_offset": 32,
+        "end_offset": 67,
+        "start": 2.56,
+        "end": 5.36
+      }
+    ],
+    "word": [
+      {
+        "word": "Raw",
+        "start_offset": 32,
+        "end_offset": 38,
+        "start": 2.56,
+        "end": 3.04
+      },
+      {
+        "word": "twenty",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 3.2,
+        "end": 3.36
+      },
+      {
+        "word": "seven,",
+        "start_offset": 44,
+        "end_offset": 49,
+        "start": 3.52,
+        "end": 3.92
+      },
+      {
+        "word": "February",
+        "start_offset": 50,
+        "end_offset": 58,
+        "start": 4.0,
+        "end": 4.64
+      },
+      {
+        "word": "twenty-first.",
+        "start_offset": 58,
+        "end_offset": 67,
+        "start": 4.64,
+        "end": 5.36
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "027-00.mp3",
+    "audio_duration": 9.04,
+    "transcription_time": 0.08,
+    "rtfx": 109.55,
+    "timestamp": "2026-01-06T21:49:12.763934+00:00"
+  }
+}

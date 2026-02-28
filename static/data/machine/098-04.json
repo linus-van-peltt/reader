@@ -1,0 +1,170 @@
+{
+  "text": "Was the greeting as effective as it would have been if the meditation had been done. Hi, yeah, wow, yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Was the greeting as effective as it would have been if the meditation had been done.",
+        "start_offset": 24,
+        "end_offset": 128,
+        "start": 1.92,
+        "end": 10.24
+      },
+      {
+        "segment": "Hi, yeah, wow, yes.",
+        "start_offset": 191,
+        "end_offset": 269,
+        "start": 15.280000000000001,
+        "end": 21.52
+      }
+    ],
+    "word": [
+      {
+        "word": "Was",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 1.92,
+        "end": 2.24
+      },
+      {
+        "word": "the",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 2.56,
+        "end": 2.88
+      },
+      {
+        "word": "greeting",
+        "start_offset": 36,
+        "end_offset": 46,
+        "start": 2.88,
+        "end": 3.68
+      },
+      {
+        "word": "as",
+        "start_offset": 46,
+        "end_offset": 49,
+        "start": 3.68,
+        "end": 3.92
+      },
+      {
+        "word": "effective",
+        "start_offset": 49,
+        "end_offset": 61,
+        "start": 3.92,
+        "end": 4.88
+      },
+      {
+        "word": "as",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 5.2,
+        "end": 5.44
+      },
+      {
+        "word": "it",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 5.44,
+        "end": 5.76
+      },
+      {
+        "word": "would",
+        "start_offset": 72,
+        "end_offset": 76,
+        "start": 5.76,
+        "end": 6.08
+      },
+      {
+        "word": "have",
+        "start_offset": 76,
+        "end_offset": 80,
+        "start": 6.08,
+        "end": 6.4
+      },
+      {
+        "word": "been",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 6.4,
+        "end": 6.72
+      },
+      {
+        "word": "if",
+        "start_offset": 84,
+        "end_offset": 88,
+        "start": 6.72,
+        "end": 7.04
+      },
+      {
+        "word": "the",
+        "start_offset": 99,
+        "end_offset": 103,
+        "start": 7.92,
+        "end": 8.24
+      },
+      {
+        "word": "meditation",
+        "start_offset": 103,
+        "end_offset": 113,
+        "start": 8.24,
+        "end": 9.040000000000001
+      },
+      {
+        "word": "had",
+        "start_offset": 113,
+        "end_offset": 116,
+        "start": 9.040000000000001,
+        "end": 9.28
+      },
+      {
+        "word": "been",
+        "start_offset": 116,
+        "end_offset": 120,
+        "start": 9.28,
+        "end": 9.6
+      },
+      {
+        "word": "done.",
+        "start_offset": 120,
+        "end_offset": 128,
+        "start": 9.6,
+        "end": 10.24
+      },
+      {
+        "word": "Hi,",
+        "start_offset": 191,
+        "end_offset": 195,
+        "start": 15.280000000000001,
+        "end": 15.6
+      },
+      {
+        "word": "yeah,",
+        "start_offset": 205,
+        "end_offset": 212,
+        "start": 16.4,
+        "end": 16.96
+      },
+      {
+        "word": "wow,",
+        "start_offset": 228,
+        "end_offset": 235,
+        "start": 18.240000000000002,
+        "end": 18.8
+      },
+      {
+        "word": "yes.",
+        "start_offset": 264,
+        "end_offset": 269,
+        "start": 21.12,
+        "end": 21.52
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "098-04.mp3",
+    "audio_duration": 25.05,
+    "transcription_time": 0.09,
+    "rtfx": 289.82,
+    "timestamp": "2026-01-06T22:00:01.418526+00:00"
+  }
+}

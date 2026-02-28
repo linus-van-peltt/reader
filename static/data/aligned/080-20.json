@@ -1,0 +1,991 @@
+{
+  "text": "Sorry about that. Can you tell me what the twentieth archetype would be? I am Ra. That which you call the Sarcophagus in your system may be seen to be the material world, if you will. This material world is transformed by the spirit into that which is infinite and eternal. The infinity of the spirit is an even greater realization than the infinity of consciousness, for consciousness which has been disciplined by will and faith is that consciousness which may contact intelligent infinity directly. There are many things which fall away in the many, many steps of adepthood. We, of Ra, still walk these steps and praise the One Infinite Creator at each transformation.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Sorry about that.",
+        "start_offset": 0,
+        "end_offset": 17,
+        "start": 1.16,
+        "end": 7.641
+      },
+      {
+        "segment": "Can you tell me what the twentieth archetype would be?",
+        "start_offset": 18,
+        "end_offset": 72,
+        "start": 7.661,
+        "end": 14.122
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 73,
+        "end_offset": 81,
+        "start": 14.142,
+        "end": 14.762
+      },
+      {
+        "segment": "That which you call the Sarcophagus in your system may be seen to be the material world, if you will.",
+        "start_offset": 82,
+        "end_offset": 183,
+        "start": 17.002,
+        "end": 42.105
+      },
+      {
+        "segment": "This material world is transformed by the spirit into that which is infinite and eternal.",
+        "start_offset": 184,
+        "end_offset": 273,
+        "start": 46.065,
+        "end": 69.728
+      },
+      {
+        "segment": "The infinity of the spirit is an even greater realization than the infinity of consciousness, for consciousness which has been disciplined by will and faith is that consciousness which may contact intelligent infinity directly.",
+        "start_offset": 274,
+        "end_offset": 501,
+        "start": 74.108,
+        "end": 133.255
+      },
+      {
+        "segment": "There are many things which fall away in the many, many steps of adepthood.",
+        "start_offset": 502,
+        "end_offset": 577,
+        "start": 138.615,
+        "end": 156.857
+      },
+      {
+        "segment": "We, of Ra, still walk these steps and praise the One Infinite Creator at each transformation.",
+        "start_offset": 578,
+        "end_offset": 671,
+        "start": 159.157,
+        "end": 186.16
+      }
+    ],
+    "word": [
+      {
+        "word": "Sorry",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 1.16,
+        "end": 6.941,
+        "score": -9.3986
+      },
+      {
+        "word": "about",
+        "start_offset": 6,
+        "end_offset": 11,
+        "start": 7.261,
+        "end": 7.401,
+        "score": -9.135
+      },
+      {
+        "word": "that.",
+        "start_offset": 12,
+        "end_offset": 17,
+        "start": 7.481,
+        "end": 7.641,
+        "score": -7.2783
+      },
+      {
+        "word": "Can",
+        "start_offset": 18,
+        "end_offset": 21,
+        "start": 7.661,
+        "end": 7.821,
+        "score": -8.9478
+      },
+      {
+        "word": "you",
+        "start_offset": 22,
+        "end_offset": 25,
+        "start": 7.841,
+        "end": 8.241,
+        "score": -9.0337
+      },
+      {
+        "word": "tell",
+        "start_offset": 26,
+        "end_offset": 30,
+        "start": 8.281,
+        "end": 11.501,
+        "score": -8.4975
+      },
+      {
+        "word": "me",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 11.521,
+        "end": 11.621,
+        "score": -6.218
+      },
+      {
+        "word": "what",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 11.821,
+        "end": 12.241,
+        "score": -8.0404
+      },
+      {
+        "word": "the",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 12.261,
+        "end": 12.401,
+        "score": -4.4147
+      },
+      {
+        "word": "twentieth",
+        "start_offset": 43,
+        "end_offset": 52,
+        "start": 12.421,
+        "end": 13.461,
+        "score": -7.1817
+      },
+      {
+        "word": "archetype",
+        "start_offset": 53,
+        "end_offset": 62,
+        "start": 13.521,
+        "end": 13.782,
+        "score": -6.4748
+      },
+      {
+        "word": "would",
+        "start_offset": 63,
+        "end_offset": 68,
+        "start": 13.802,
+        "end": 13.902,
+        "score": -9.6635
+      },
+      {
+        "word": "be?",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 14.062,
+        "end": 14.122,
+        "score": -9.252
+      },
+      {
+        "word": "I",
+        "start_offset": 73,
+        "end_offset": 74,
+        "start": 14.142,
+        "end": 14.162,
+        "score": -8.3248
+      },
+      {
+        "word": "am",
+        "start_offset": 75,
+        "end_offset": 77,
+        "start": 14.202,
+        "end": 14.322,
+        "score": -9.2845
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 78,
+        "end_offset": 81,
+        "start": 14.582,
+        "end": 14.762,
+        "score": -9.2294
+      },
+      {
+        "word": "That",
+        "start_offset": 82,
+        "end_offset": 86,
+        "start": 17.002,
+        "end": 17.302,
+        "score": -0.7437
+      },
+      {
+        "word": "which",
+        "start_offset": 87,
+        "end_offset": 92,
+        "start": 17.542,
+        "end": 17.882,
+        "score": -0.8344
+      },
+      {
+        "word": "you",
+        "start_offset": 93,
+        "end_offset": 96,
+        "start": 18.422,
+        "end": 18.582,
+        "score": -0.7209
+      },
+      {
+        "word": "call",
+        "start_offset": 97,
+        "end_offset": 101,
+        "start": 18.822,
+        "end": 19.222,
+        "score": -0.7732
+      },
+      {
+        "word": "the",
+        "start_offset": 102,
+        "end_offset": 105,
+        "start": 20.022,
+        "end": 20.162,
+        "score": -0.7201
+      },
+      {
+        "word": "Sarcophagus",
+        "start_offset": 106,
+        "end_offset": 117,
+        "start": 21.342,
+        "end": 22.843,
+        "score": -1.0508
+      },
+      {
+        "word": "in",
+        "start_offset": 118,
+        "end_offset": 120,
+        "start": 24.183,
+        "end": 24.403,
+        "score": -0.6982
+      },
+      {
+        "word": "your",
+        "start_offset": 121,
+        "end_offset": 125,
+        "start": 24.863,
+        "end": 25.183,
+        "score": -0.7779
+      },
+      {
+        "word": "system",
+        "start_offset": 126,
+        "end_offset": 132,
+        "start": 25.683,
+        "end": 26.263,
+        "score": -0.6997
+      },
+      {
+        "word": "may",
+        "start_offset": 133,
+        "end_offset": 136,
+        "start": 28.703,
+        "end": 29.043,
+        "score": -2.8015
+      },
+      {
+        "word": "be",
+        "start_offset": 137,
+        "end_offset": 139,
+        "start": 29.183,
+        "end": 29.323,
+        "score": -1.0158
+      },
+      {
+        "word": "seen",
+        "start_offset": 140,
+        "end_offset": 144,
+        "start": 29.543,
+        "end": 30.223,
+        "score": -1.7582
+      },
+      {
+        "word": "to",
+        "start_offset": 145,
+        "end_offset": 147,
+        "start": 31.723,
+        "end": 31.843,
+        "score": -0.7341
+      },
+      {
+        "word": "be",
+        "start_offset": 148,
+        "end_offset": 150,
+        "start": 32.004,
+        "end": 32.124,
+        "score": -0.7852
+      },
+      {
+        "word": "the",
+        "start_offset": 151,
+        "end_offset": 154,
+        "start": 35.424,
+        "end": 35.544,
+        "score": -0.7623
+      },
+      {
+        "word": "material",
+        "start_offset": 155,
+        "end_offset": 163,
+        "start": 35.804,
+        "end": 37.104,
+        "score": -0.6988
+      },
+      {
+        "word": "world,",
+        "start_offset": 164,
+        "end_offset": 170,
+        "start": 39.224,
+        "end": 39.804,
+        "score": -0.7042
+      },
+      {
+        "word": "if",
+        "start_offset": 171,
+        "end_offset": 173,
+        "start": 40.964,
+        "end": 41.145,
+        "score": -0.6976
+      },
+      {
+        "word": "you",
+        "start_offset": 174,
+        "end_offset": 177,
+        "start": 41.465,
+        "end": 41.585,
+        "score": -0.708
+      },
+      {
+        "word": "will.",
+        "start_offset": 178,
+        "end_offset": 183,
+        "start": 41.745,
+        "end": 42.105,
+        "score": -0.7813
+      },
+      {
+        "word": "This",
+        "start_offset": 184,
+        "end_offset": 188,
+        "start": 46.065,
+        "end": 46.365,
+        "score": -0.7812
+      },
+      {
+        "word": "material",
+        "start_offset": 189,
+        "end_offset": 197,
+        "start": 46.565,
+        "end": 47.645,
+        "score": -0.6983
+      },
+      {
+        "word": "world",
+        "start_offset": 198,
+        "end_offset": 203,
+        "start": 48.645,
+        "end": 49.225,
+        "score": -0.7388
+      },
+      {
+        "word": "is",
+        "start_offset": 204,
+        "end_offset": 206,
+        "start": 51.446,
+        "end": 51.866,
+        "score": -0.7061
+      },
+      {
+        "word": "transformed",
+        "start_offset": 207,
+        "end_offset": 218,
+        "start": 53.026,
+        "end": 54.806,
+        "score": -0.7086
+      },
+      {
+        "word": "by",
+        "start_offset": 219,
+        "end_offset": 221,
+        "start": 56.146,
+        "end": 56.506,
+        "score": -0.6981
+      },
+      {
+        "word": "the",
+        "start_offset": 222,
+        "end_offset": 225,
+        "start": 56.626,
+        "end": 56.766,
+        "score": -0.7169
+      },
+      {
+        "word": "spirit",
+        "start_offset": 226,
+        "end_offset": 232,
+        "start": 56.966,
+        "end": 57.806,
+        "score": -0.6981
+      },
+      {
+        "word": "into",
+        "start_offset": 233,
+        "end_offset": 237,
+        "start": 60.427,
+        "end": 60.867,
+        "score": -0.7436
+      },
+      {
+        "word": "that",
+        "start_offset": 238,
+        "end_offset": 242,
+        "start": 63.567,
+        "end": 63.887,
+        "score": -0.7246
+      },
+      {
+        "word": "which",
+        "start_offset": 243,
+        "end_offset": 248,
+        "start": 64.047,
+        "end": 64.307,
+        "score": -0.7618
+      },
+      {
+        "word": "is",
+        "start_offset": 249,
+        "end_offset": 251,
+        "start": 64.447,
+        "end": 64.787,
+        "score": -0.727
+      },
+      {
+        "word": "infinite",
+        "start_offset": 252,
+        "end_offset": 260,
+        "start": 65.827,
+        "end": 66.747,
+        "score": -1.4625
+      },
+      {
+        "word": "and",
+        "start_offset": 261,
+        "end_offset": 264,
+        "start": 68.407,
+        "end": 68.748,
+        "score": -0.7067
+      },
+      {
+        "word": "eternal.",
+        "start_offset": 265,
+        "end_offset": 273,
+        "start": 69.028,
+        "end": 69.728,
+        "score": -0.7086
+      },
+      {
+        "word": "The",
+        "start_offset": 274,
+        "end_offset": 277,
+        "start": 74.108,
+        "end": 74.248,
+        "score": -1.097
+      },
+      {
+        "word": "infinity",
+        "start_offset": 278,
+        "end_offset": 286,
+        "start": 77.789,
+        "end": 78.789,
+        "score": -0.704
+      },
+      {
+        "word": "of",
+        "start_offset": 287,
+        "end_offset": 289,
+        "start": 79.609,
+        "end": 79.889,
+        "score": -0.7312
+      },
+      {
+        "word": "the",
+        "start_offset": 290,
+        "end_offset": 293,
+        "start": 80.169,
+        "end": 80.309,
+        "score": -0.7939
+      },
+      {
+        "word": "spirit",
+        "start_offset": 294,
+        "end_offset": 300,
+        "start": 82.649,
+        "end": 83.329,
+        "score": -0.741
+      },
+      {
+        "word": "is",
+        "start_offset": 301,
+        "end_offset": 303,
+        "start": 85.489,
+        "end": 85.889,
+        "score": -0.8017
+      },
+      {
+        "word": "an",
+        "start_offset": 304,
+        "end_offset": 306,
+        "start": 86.689,
+        "end": 86.93,
+        "score": -0.8292
+      },
+      {
+        "word": "even",
+        "start_offset": 307,
+        "end_offset": 311,
+        "start": 87.29,
+        "end": 87.67,
+        "score": -0.7017
+      },
+      {
+        "word": "greater",
+        "start_offset": 312,
+        "end_offset": 319,
+        "start": 88.39,
+        "end": 88.99,
+        "score": -0.7246
+      },
+      {
+        "word": "realization",
+        "start_offset": 320,
+        "end_offset": 331,
+        "start": 90.35,
+        "end": 91.89,
+        "score": -0.7956
+      },
+      {
+        "word": "than",
+        "start_offset": 332,
+        "end_offset": 336,
+        "start": 93.71,
+        "end": 94.09,
+        "score": -0.7478
+      },
+      {
+        "word": "the",
+        "start_offset": 337,
+        "end_offset": 340,
+        "start": 94.95,
+        "end": 95.07,
+        "score": -0.8472
+      },
+      {
+        "word": "infinity",
+        "start_offset": 341,
+        "end_offset": 349,
+        "start": 97.311,
+        "end": 98.331,
+        "score": -0.7018
+      },
+      {
+        "word": "of",
+        "start_offset": 350,
+        "end_offset": 352,
+        "start": 99.311,
+        "end": 99.531,
+        "score": -0.7003
+      },
+      {
+        "word": "consciousness,",
+        "start_offset": 353,
+        "end_offset": 367,
+        "start": 99.831,
+        "end": 101.051,
+        "score": -0.7366
+      },
+      {
+        "word": "for",
+        "start_offset": 368,
+        "end_offset": 371,
+        "start": 102.751,
+        "end": 103.191,
+        "score": -0.7585
+      },
+      {
+        "word": "consciousness",
+        "start_offset": 372,
+        "end_offset": 385,
+        "start": 105.712,
+        "end": 107.012,
+        "score": -1.533
+      },
+      {
+        "word": "which",
+        "start_offset": 386,
+        "end_offset": 391,
+        "start": 107.892,
+        "end": 108.232,
+        "score": -0.7253
+      },
+      {
+        "word": "has",
+        "start_offset": 392,
+        "end_offset": 395,
+        "start": 108.852,
+        "end": 109.332,
+        "score": -0.8327
+      },
+      {
+        "word": "been",
+        "start_offset": 396,
+        "end_offset": 400,
+        "start": 109.652,
+        "end": 110.132,
+        "score": -3.0982
+      },
+      {
+        "word": "disciplined",
+        "start_offset": 401,
+        "end_offset": 412,
+        "start": 112.512,
+        "end": 113.492,
+        "score": -0.7331
+      },
+      {
+        "word": "by",
+        "start_offset": 413,
+        "end_offset": 415,
+        "start": 114.733,
+        "end": 115.013,
+        "score": -5.1727
+      },
+      {
+        "word": "will",
+        "start_offset": 416,
+        "end_offset": 420,
+        "start": 115.153,
+        "end": 115.553,
+        "score": -0.7691
+      },
+      {
+        "word": "and",
+        "start_offset": 421,
+        "end_offset": 424,
+        "start": 116.813,
+        "end": 116.993,
+        "score": -4.2538
+      },
+      {
+        "word": "faith",
+        "start_offset": 425,
+        "end_offset": 430,
+        "start": 117.173,
+        "end": 117.693,
+        "score": -2.7639
+      },
+      {
+        "word": "is",
+        "start_offset": 431,
+        "end_offset": 433,
+        "start": 119.793,
+        "end": 120.033,
+        "score": -5.6086
+      },
+      {
+        "word": "that",
+        "start_offset": 434,
+        "end_offset": 438,
+        "start": 120.153,
+        "end": 120.453,
+        "score": -0.7493
+      },
+      {
+        "word": "consciousness",
+        "start_offset": 439,
+        "end_offset": 452,
+        "start": 120.713,
+        "end": 121.833,
+        "score": -1.3508
+      },
+      {
+        "word": "which",
+        "start_offset": 453,
+        "end_offset": 458,
+        "start": 123.093,
+        "end": 123.454,
+        "score": -0.7446
+      },
+      {
+        "word": "may",
+        "start_offset": 459,
+        "end_offset": 462,
+        "start": 124.674,
+        "end": 124.894,
+        "score": -3.5785
+      },
+      {
+        "word": "contact",
+        "start_offset": 463,
+        "end_offset": 470,
+        "start": 125.134,
+        "end": 126.074,
+        "score": -0.772
+      },
+      {
+        "word": "intelligent",
+        "start_offset": 471,
+        "end_offset": 482,
+        "start": 127.954,
+        "end": 129.094,
+        "score": -1.5498
+      },
+      {
+        "word": "infinity",
+        "start_offset": 483,
+        "end_offset": 491,
+        "start": 130.054,
+        "end": 130.894,
+        "score": -1.7959
+      },
+      {
+        "word": "directly.",
+        "start_offset": 492,
+        "end_offset": 501,
+        "start": 132.435,
+        "end": 133.255,
+        "score": -1.858
+      },
+      {
+        "word": "There",
+        "start_offset": 502,
+        "end_offset": 507,
+        "start": 138.615,
+        "end": 138.895,
+        "score": -2.2571
+      },
+      {
+        "word": "are",
+        "start_offset": 508,
+        "end_offset": 511,
+        "start": 139.115,
+        "end": 139.355,
+        "score": -4.2018
+      },
+      {
+        "word": "many",
+        "start_offset": 512,
+        "end_offset": 516,
+        "start": 140.475,
+        "end": 140.755,
+        "score": -0.7219
+      },
+      {
+        "word": "things",
+        "start_offset": 517,
+        "end_offset": 523,
+        "start": 142.136,
+        "end": 142.656,
+        "score": -2.0036
+      },
+      {
+        "word": "which",
+        "start_offset": 524,
+        "end_offset": 529,
+        "start": 142.796,
+        "end": 143.176,
+        "score": -0.7088
+      },
+      {
+        "word": "fall",
+        "start_offset": 530,
+        "end_offset": 534,
+        "start": 144.436,
+        "end": 144.976,
+        "score": -0.7594
+      },
+      {
+        "word": "away",
+        "start_offset": 535,
+        "end_offset": 539,
+        "start": 145.836,
+        "end": 146.296,
+        "score": -0.6982
+      },
+      {
+        "word": "in",
+        "start_offset": 540,
+        "end_offset": 542,
+        "start": 148.576,
+        "end": 148.796,
+        "score": -5.4935
+      },
+      {
+        "word": "the",
+        "start_offset": 543,
+        "end_offset": 546,
+        "start": 149.256,
+        "end": 149.376,
+        "score": -0.7739
+      },
+      {
+        "word": "many,",
+        "start_offset": 547,
+        "end_offset": 552,
+        "start": 149.916,
+        "end": 150.216,
+        "score": -2.5429
+      },
+      {
+        "word": "many",
+        "start_offset": 553,
+        "end_offset": 557,
+        "start": 151.397,
+        "end": 151.697,
+        "score": -0.7018
+      },
+      {
+        "word": "steps",
+        "start_offset": 558,
+        "end_offset": 563,
+        "start": 152.937,
+        "end": 153.477,
+        "score": -0.6996
+      },
+      {
+        "word": "of",
+        "start_offset": 564,
+        "end_offset": 566,
+        "start": 154.937,
+        "end": 155.177,
+        "score": -2.4636
+      },
+      {
+        "word": "adepthood.",
+        "start_offset": 567,
+        "end_offset": 577,
+        "start": 155.497,
+        "end": 156.857,
+        "score": -0.9336
+      },
+      {
+        "word": "We,",
+        "start_offset": 578,
+        "end_offset": 581,
+        "start": 159.157,
+        "end": 159.297,
+        "score": -0.8771
+      },
+      {
+        "word": "of",
+        "start_offset": 582,
+        "end_offset": 584,
+        "start": 161.058,
+        "end": 161.298,
+        "score": -0.8513
+      },
+      {
+        "word": "Ra,",
+        "start_offset": 585,
+        "end_offset": 588,
+        "start": 161.778,
+        "end": 161.918,
+        "score": -0.9804
+      },
+      {
+        "word": "still",
+        "start_offset": 589,
+        "end_offset": 594,
+        "start": 163.358,
+        "end": 163.778,
+        "score": -0.6993
+      },
+      {
+        "word": "walk",
+        "start_offset": 595,
+        "end_offset": 599,
+        "start": 164.638,
+        "end": 165.018,
+        "score": -0.7432
+      },
+      {
+        "word": "these",
+        "start_offset": 600,
+        "end_offset": 605,
+        "start": 166.718,
+        "end": 167.138,
+        "score": -0.7584
+      },
+      {
+        "word": "steps",
+        "start_offset": 606,
+        "end_offset": 611,
+        "start": 167.818,
+        "end": 168.378,
+        "score": -0.7053
+      },
+      {
+        "word": "and",
+        "start_offset": 612,
+        "end_offset": 615,
+        "start": 169.959,
+        "end": 170.259,
+        "score": -3.8476
+      },
+      {
+        "word": "praise",
+        "start_offset": 616,
+        "end_offset": 622,
+        "start": 172.259,
+        "end": 172.959,
+        "score": -1.0233
+      },
+      {
+        "word": "the",
+        "start_offset": 623,
+        "end_offset": 626,
+        "start": 175.079,
+        "end": 175.199,
+        "score": -0.7996
+      },
+      {
+        "word": "One",
+        "start_offset": 627,
+        "end_offset": 630,
+        "start": 175.559,
+        "end": 175.799,
+        "score": -4.3051
+      },
+      {
+        "word": "Infinite",
+        "start_offset": 631,
+        "end_offset": 639,
+        "start": 176.959,
+        "end": 177.679,
+        "score": -2.2646
+      },
+      {
+        "word": "Creator",
+        "start_offset": 640,
+        "end_offset": 647,
+        "start": 178.54,
+        "end": 179.54,
+        "score": -0.7042
+      },
+      {
+        "word": "at",
+        "start_offset": 648,
+        "end_offset": 650,
+        "start": 181.9,
+        "end": 182.14,
+        "score": -0.7097
+      },
+      {
+        "word": "each",
+        "start_offset": 651,
+        "end_offset": 655,
+        "start": 183.12,
+        "end": 183.44,
+        "score": -0.7649
+      },
+      {
+        "word": "transformation.",
+        "start_offset": 656,
+        "end_offset": 671,
+        "start": 184.62,
+        "end": 186.16,
+        "score": -0.711
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "080-20.mp3",
+    "audio_duration": 190.0408,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

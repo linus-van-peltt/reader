@@ -1,0 +1,135 @@
+{
+  "text": "March 4th. Raw 34, March 4th. We One Infinite Creator. We communicate now.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "March 4th.",
+        "start_offset": 10,
+        "end_offset": 24,
+        "start": 0.8,
+        "end": 1.92
+      },
+      {
+        "segment": "Raw 34, March 4th.",
+        "start_offset": 33,
+        "end_offset": 64,
+        "start": 2.64,
+        "end": 5.12
+      },
+      {
+        "segment": "We One Infinite Creator.",
+        "start_offset": 70,
+        "end_offset": 136,
+        "start": 5.6000000000000005,
+        "end": 10.88
+      },
+      {
+        "segment": "We communicate now.",
+        "start_offset": 168,
+        "end_offset": 221,
+        "start": 13.44,
+        "end": 17.68
+      }
+    ],
+    "word": [
+      {
+        "word": "March",
+        "start_offset": 10,
+        "end_offset": 15,
+        "start": 0.8,
+        "end": 1.2
+      },
+      {
+        "word": "4th.",
+        "start_offset": 15,
+        "end_offset": 24,
+        "start": 1.2,
+        "end": 1.92
+      },
+      {
+        "word": "Raw",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 2.64,
+        "end": 2.88
+      },
+      {
+        "word": "34,",
+        "start_offset": 39,
+        "end_offset": 46,
+        "start": 3.12,
+        "end": 3.68
+      },
+      {
+        "word": "March",
+        "start_offset": 48,
+        "end_offset": 54,
+        "start": 3.84,
+        "end": 4.32
+      },
+      {
+        "word": "4th.",
+        "start_offset": 54,
+        "end_offset": 64,
+        "start": 4.32,
+        "end": 5.12
+      },
+      {
+        "word": "We",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 5.6000000000000005,
+        "end": 5.84
+      },
+      {
+        "word": "One",
+        "start_offset": 80,
+        "end_offset": 88,
+        "start": 6.4,
+        "end": 7.04
+      },
+      {
+        "word": "Infinite",
+        "start_offset": 103,
+        "end_offset": 115,
+        "start": 8.24,
+        "end": 9.200000000000001
+      },
+      {
+        "word": "Creator.",
+        "start_offset": 129,
+        "end_offset": 136,
+        "start": 10.32,
+        "end": 10.88
+      },
+      {
+        "word": "We",
+        "start_offset": 168,
+        "end_offset": 172,
+        "start": 13.44,
+        "end": 13.76
+      },
+      {
+        "word": "communicate",
+        "start_offset": 184,
+        "end_offset": 202,
+        "start": 14.72,
+        "end": 16.16
+      },
+      {
+        "word": "now.",
+        "start_offset": 217,
+        "end_offset": 221,
+        "start": 17.36,
+        "end": 17.68
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "034-00.mp3",
+    "audio_duration": 18.05,
+    "transcription_time": 0.08,
+    "rtfx": 214.32,
+    "timestamp": "2026-01-06T21:50:03.821269+00:00"
+  }
+}

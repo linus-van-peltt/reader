@@ -1,0 +1,522 @@
+{
+  "text": "What I'm saying is there are roughly 250 billion stars or suns something like ours in this major galaxy. Are they all part of the same sub-Logos? I am Ra. They are all part of the same Logos. Your solar system, as you would call it, is a manifestation somewhat and slightly different due to the presence of a sub-Logos.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What I'm saying is there are roughly billion stars or suns something like ours in this major galaxy.",
+        "start_offset": 0,
+        "end_offset": 104,
+        "start": 1.68,
+        "end": 14.662
+      },
+      {
+        "segment": "Are they all part of the same sub-Logos?",
+        "start_offset": 105,
+        "end_offset": 145,
+        "start": 17.282,
+        "end": 19.843
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 146,
+        "end_offset": 154,
+        "start": 26.683,
+        "end": 28.624
+      },
+      {
+        "segment": "They are all part of the same Logos.",
+        "start_offset": 155,
+        "end_offset": 191,
+        "start": 30.324,
+        "end": 40.185
+      },
+      {
+        "segment": "Your solar system, as you would call it, is a manifestation somewhat and slightly different due to the presence of a sub-Logos.",
+        "start_offset": 192,
+        "end_offset": 319,
+        "start": 41.845,
+        "end": 74.75
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 1.68,
+        "end": 1.78,
+        "score": -5.485
+      },
+      {
+        "word": "I'm",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 1.8,
+        "end": 1.92,
+        "score": -6.2764
+      },
+      {
+        "word": "saying",
+        "start_offset": 9,
+        "end_offset": 15,
+        "start": 2.0,
+        "end": 2.3,
+        "score": -3.256
+      },
+      {
+        "word": "is",
+        "start_offset": 16,
+        "end_offset": 18,
+        "start": 2.36,
+        "end": 2.48,
+        "score": -3.5385
+      },
+      {
+        "word": "there",
+        "start_offset": 19,
+        "end_offset": 24,
+        "start": 5.001,
+        "end": 5.201,
+        "score": -1.8073
+      },
+      {
+        "word": "are",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 5.221,
+        "end": 5.301,
+        "score": -2.7606
+      },
+      {
+        "word": "roughly",
+        "start_offset": 29,
+        "end_offset": 36,
+        "start": 6.101,
+        "end": 6.421,
+        "score": -0.995
+      },
+      {
+        "word": "billion",
+        "start_offset": 41,
+        "end_offset": 48,
+        "start": 7.441,
+        "end": 7.821,
+        "score": -0.7751
+      },
+      {
+        "word": "stars",
+        "start_offset": 49,
+        "end_offset": 54,
+        "start": 8.661,
+        "end": 9.241,
+        "score": -0.7971
+      },
+      {
+        "word": "or",
+        "start_offset": 55,
+        "end_offset": 57,
+        "start": 9.421,
+        "end": 9.501,
+        "score": -0.8902
+      },
+      {
+        "word": "suns",
+        "start_offset": 58,
+        "end_offset": 62,
+        "start": 9.601,
+        "end": 10.001,
+        "score": -1.657
+      },
+      {
+        "word": "something",
+        "start_offset": 63,
+        "end_offset": 72,
+        "start": 10.761,
+        "end": 11.101,
+        "score": -0.8766
+      },
+      {
+        "word": "like",
+        "start_offset": 73,
+        "end_offset": 77,
+        "start": 11.141,
+        "end": 11.341,
+        "score": -0.7806
+      },
+      {
+        "word": "ours",
+        "start_offset": 78,
+        "end_offset": 82,
+        "start": 11.441,
+        "end": 11.622,
+        "score": -3.9969
+      },
+      {
+        "word": "in",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 11.662,
+        "end": 11.762,
+        "score": -2.2439
+      },
+      {
+        "word": "this",
+        "start_offset": 86,
+        "end_offset": 90,
+        "start": 12.962,
+        "end": 13.262,
+        "score": -1.3758
+      },
+      {
+        "word": "major",
+        "start_offset": 91,
+        "end_offset": 96,
+        "start": 13.702,
+        "end": 14.022,
+        "score": -0.8818
+      },
+      {
+        "word": "galaxy.",
+        "start_offset": 97,
+        "end_offset": 104,
+        "start": 14.142,
+        "end": 14.662,
+        "score": -0.7556
+      },
+      {
+        "word": "Are",
+        "start_offset": 105,
+        "end_offset": 108,
+        "start": 17.282,
+        "end": 17.422,
+        "score": -1.1223
+      },
+      {
+        "word": "they",
+        "start_offset": 109,
+        "end_offset": 113,
+        "start": 17.482,
+        "end": 17.662,
+        "score": -0.8404
+      },
+      {
+        "word": "all",
+        "start_offset": 114,
+        "end_offset": 117,
+        "start": 17.822,
+        "end": 17.942,
+        "score": -0.7394
+      },
+      {
+        "word": "part",
+        "start_offset": 118,
+        "end_offset": 122,
+        "start": 18.042,
+        "end": 18.302,
+        "score": -0.7331
+      },
+      {
+        "word": "of",
+        "start_offset": 123,
+        "end_offset": 125,
+        "start": 18.382,
+        "end": 18.442,
+        "score": -0.8351
+      },
+      {
+        "word": "the",
+        "start_offset": 126,
+        "end_offset": 129,
+        "start": 18.482,
+        "end": 18.562,
+        "score": -0.8547
+      },
+      {
+        "word": "same",
+        "start_offset": 130,
+        "end_offset": 134,
+        "start": 18.642,
+        "end": 18.922,
+        "score": -0.7272
+      },
+      {
+        "word": "sub-Logos?",
+        "start_offset": 135,
+        "end_offset": 145,
+        "start": 19.022,
+        "end": 19.843,
+        "score": -0.7257
+      },
+      {
+        "word": "I",
+        "start_offset": 146,
+        "end_offset": 147,
+        "start": 26.683,
+        "end": 26.703,
+        "score": -0.8098
+      },
+      {
+        "word": "am",
+        "start_offset": 148,
+        "end_offset": 150,
+        "start": 27.484,
+        "end": 27.804,
+        "score": -2.208
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 151,
+        "end_offset": 154,
+        "start": 28.464,
+        "end": 28.624,
+        "score": -1.3661
+      },
+      {
+        "word": "They",
+        "start_offset": 155,
+        "end_offset": 159,
+        "start": 30.324,
+        "end": 30.584,
+        "score": -0.8063
+      },
+      {
+        "word": "are",
+        "start_offset": 160,
+        "end_offset": 163,
+        "start": 31.604,
+        "end": 31.944,
+        "score": -0.8611
+      },
+      {
+        "word": "all",
+        "start_offset": 164,
+        "end_offset": 167,
+        "start": 32.564,
+        "end": 32.844,
+        "score": -0.8666
+      },
+      {
+        "word": "part",
+        "start_offset": 168,
+        "end_offset": 172,
+        "start": 34.344,
+        "end": 34.785,
+        "score": -0.7375
+      },
+      {
+        "word": "of",
+        "start_offset": 173,
+        "end_offset": 175,
+        "start": 35.465,
+        "end": 35.745,
+        "score": -0.7086
+      },
+      {
+        "word": "the",
+        "start_offset": 176,
+        "end_offset": 179,
+        "start": 36.465,
+        "end": 36.605,
+        "score": -0.7774
+      },
+      {
+        "word": "same",
+        "start_offset": 180,
+        "end_offset": 184,
+        "start": 37.525,
+        "end": 38.085,
+        "score": -0.8587
+      },
+      {
+        "word": "Logos.",
+        "start_offset": 185,
+        "end_offset": 191,
+        "start": 39.385,
+        "end": 40.185,
+        "score": -0.7262
+      },
+      {
+        "word": "Your",
+        "start_offset": 192,
+        "end_offset": 196,
+        "start": 41.845,
+        "end": 42.225,
+        "score": -0.8284
+      },
+      {
+        "word": "solar",
+        "start_offset": 197,
+        "end_offset": 202,
+        "start": 43.606,
+        "end": 44.146,
+        "score": -0.7672
+      },
+      {
+        "word": "system,",
+        "start_offset": 203,
+        "end_offset": 210,
+        "start": 45.086,
+        "end": 45.706,
+        "score": -0.6975
+      },
+      {
+        "word": "as",
+        "start_offset": 211,
+        "end_offset": 213,
+        "start": 46.866,
+        "end": 47.226,
+        "score": -0.6994
+      },
+      {
+        "word": "you",
+        "start_offset": 214,
+        "end_offset": 217,
+        "start": 47.446,
+        "end": 47.586,
+        "score": -0.7051
+      },
+      {
+        "word": "would",
+        "start_offset": 218,
+        "end_offset": 223,
+        "start": 47.826,
+        "end": 48.126,
+        "score": -0.7384
+      },
+      {
+        "word": "call",
+        "start_offset": 224,
+        "end_offset": 228,
+        "start": 48.346,
+        "end": 48.706,
+        "score": -0.7457
+      },
+      {
+        "word": "it,",
+        "start_offset": 229,
+        "end_offset": 232,
+        "start": 48.946,
+        "end": 49.206,
+        "score": -0.7031
+      },
+      {
+        "word": "is",
+        "start_offset": 233,
+        "end_offset": 235,
+        "start": 50.667,
+        "end": 51.007,
+        "score": -0.7246
+      },
+      {
+        "word": "a",
+        "start_offset": 236,
+        "end_offset": 237,
+        "start": 52.167,
+        "end": 52.187,
+        "score": -0.9016
+      },
+      {
+        "word": "manifestation",
+        "start_offset": 238,
+        "end_offset": 251,
+        "start": 53.987,
+        "end": 55.727,
+        "score": -0.6979
+      },
+      {
+        "word": "somewhat",
+        "start_offset": 252,
+        "end_offset": 260,
+        "start": 57.587,
+        "end": 58.828,
+        "score": -0.7452
+      },
+      {
+        "word": "and",
+        "start_offset": 261,
+        "end_offset": 264,
+        "start": 60.988,
+        "end": 61.228,
+        "score": -3.7634
+      },
+      {
+        "word": "slightly",
+        "start_offset": 265,
+        "end_offset": 273,
+        "start": 61.608,
+        "end": 62.348,
+        "score": -0.7298
+      },
+      {
+        "word": "different",
+        "start_offset": 274,
+        "end_offset": 283,
+        "start": 64.348,
+        "end": 65.048,
+        "score": -0.7337
+      },
+      {
+        "word": "due",
+        "start_offset": 284,
+        "end_offset": 287,
+        "start": 66.129,
+        "end": 66.429,
+        "score": -0.7555
+      },
+      {
+        "word": "to",
+        "start_offset": 288,
+        "end_offset": 290,
+        "start": 66.609,
+        "end": 66.789,
+        "score": -0.6994
+      },
+      {
+        "word": "the",
+        "start_offset": 291,
+        "end_offset": 294,
+        "start": 68.029,
+        "end": 68.189,
+        "score": -0.7138
+      },
+      {
+        "word": "presence",
+        "start_offset": 295,
+        "end_offset": 303,
+        "start": 68.589,
+        "end": 69.529,
+        "score": -0.7246
+      },
+      {
+        "word": "of",
+        "start_offset": 304,
+        "end_offset": 306,
+        "start": 70.649,
+        "end": 70.929,
+        "score": -0.8506
+      },
+      {
+        "word": "a",
+        "start_offset": 307,
+        "end_offset": 308,
+        "start": 71.769,
+        "end": 71.789,
+        "score": -0.8305
+      },
+      {
+        "word": "sub-Logos.",
+        "start_offset": 309,
+        "end_offset": 319,
+        "start": 72.629,
+        "end": 74.75,
+        "score": -0.779
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "029-04.mp3",
+    "audio_duration": 82.0506,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

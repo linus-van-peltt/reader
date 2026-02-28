@@ -1,0 +1,267 @@
+{
+  "text": "Would you rather not give me information as to the specifics of my statement? I am Ra. We did not perceive a query in further detail. Please re-question.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would you rather not give me information as to the specifics of my statement?",
+        "start_offset": 0,
+        "end_offset": 77,
+        "start": 2.662,
+        "end": 15.869
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 78,
+        "end_offset": 86,
+        "start": 18.891,
+        "end": 20.472
+      },
+      {
+        "segment": "We did not perceive a query in further detail.",
+        "start_offset": 87,
+        "end_offset": 133,
+        "start": 23.374,
+        "end": 32.919
+      },
+      {
+        "segment": "Please re-question.",
+        "start_offset": 134,
+        "end_offset": 153,
+        "start": 33.94,
+        "end": 36.762
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.662,
+        "end": 5.463,
+        "score": -5.5653
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 5.483,
+        "end": 5.563,
+        "score": -1.0793
+      },
+      {
+        "word": "rather",
+        "start_offset": 10,
+        "end_offset": 16,
+        "start": 5.643,
+        "end": 5.923,
+        "score": -0.7725
+      },
+      {
+        "word": "not",
+        "start_offset": 17,
+        "end_offset": 20,
+        "start": 6.004,
+        "end": 6.244,
+        "score": -0.9958
+      },
+      {
+        "word": "give",
+        "start_offset": 21,
+        "end_offset": 25,
+        "start": 7.684,
+        "end": 7.905,
+        "score": -0.7456
+      },
+      {
+        "word": "me",
+        "start_offset": 26,
+        "end_offset": 28,
+        "start": 7.945,
+        "end": 8.005,
+        "score": -0.9077
+      },
+      {
+        "word": "information",
+        "start_offset": 29,
+        "end_offset": 40,
+        "start": 9.385,
+        "end": 10.046,
+        "score": -0.7398
+      },
+      {
+        "word": "as",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 10.166,
+        "end": 10.306,
+        "score": -0.8845
+      },
+      {
+        "word": "to",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 10.386,
+        "end": 10.486,
+        "score": -0.8892
+      },
+      {
+        "word": "the",
+        "start_offset": 47,
+        "end_offset": 50,
+        "start": 13.128,
+        "end": 13.288,
+        "score": -1.5109
+      },
+      {
+        "word": "specifics",
+        "start_offset": 51,
+        "end_offset": 60,
+        "start": 14.408,
+        "end": 15.049,
+        "score": -0.8788
+      },
+      {
+        "word": "of",
+        "start_offset": 61,
+        "end_offset": 63,
+        "start": 15.109,
+        "end": 15.169,
+        "score": -0.9248
+      },
+      {
+        "word": "my",
+        "start_offset": 64,
+        "end_offset": 66,
+        "start": 15.229,
+        "end": 15.369,
+        "score": -0.8244
+      },
+      {
+        "word": "statement?",
+        "start_offset": 67,
+        "end_offset": 77,
+        "start": 15.449,
+        "end": 15.869,
+        "score": -0.909
+      },
+      {
+        "word": "I",
+        "start_offset": 78,
+        "end_offset": 79,
+        "start": 18.891,
+        "end": 18.911,
+        "score": -1.2828
+      },
+      {
+        "word": "am",
+        "start_offset": 80,
+        "end_offset": 82,
+        "start": 19.431,
+        "end": 19.752,
+        "score": -1.9574
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 83,
+        "end_offset": 86,
+        "start": 20.332,
+        "end": 20.472,
+        "score": -1.1166
+      },
+      {
+        "word": "We",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 23.374,
+        "end": 23.534,
+        "score": -0.7708
+      },
+      {
+        "word": "did",
+        "start_offset": 90,
+        "end_offset": 93,
+        "start": 24.154,
+        "end": 24.454,
+        "score": -0.7063
+      },
+      {
+        "word": "not",
+        "start_offset": 94,
+        "end_offset": 97,
+        "start": 24.714,
+        "end": 25.035,
+        "score": -0.6996
+      },
+      {
+        "word": "perceive",
+        "start_offset": 98,
+        "end_offset": 106,
+        "start": 25.415,
+        "end": 26.235,
+        "score": -0.7877
+      },
+      {
+        "word": "a",
+        "start_offset": 107,
+        "end_offset": 108,
+        "start": 26.956,
+        "end": 26.976,
+        "score": -0.7083
+      },
+      {
+        "word": "query",
+        "start_offset": 109,
+        "end_offset": 114,
+        "start": 27.856,
+        "end": 28.337,
+        "score": -0.8626
+      },
+      {
+        "word": "in",
+        "start_offset": 115,
+        "end_offset": 117,
+        "start": 29.657,
+        "end": 29.877,
+        "score": -0.7592
+      },
+      {
+        "word": "further",
+        "start_offset": 118,
+        "end_offset": 125,
+        "start": 30.878,
+        "end": 31.378,
+        "score": -0.8203
+      },
+      {
+        "word": "detail.",
+        "start_offset": 126,
+        "end_offset": 133,
+        "start": 32.379,
+        "end": 32.919,
+        "score": -0.7162
+      },
+      {
+        "word": "Please",
+        "start_offset": 134,
+        "end_offset": 140,
+        "start": 33.94,
+        "end": 34.5,
+        "score": -1.1219
+      },
+      {
+        "word": "re-question.",
+        "start_offset": 141,
+        "end_offset": 153,
+        "start": 35.621,
+        "end": 36.762,
+        "score": -0.7205
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "067-05.mp3",
+    "audio_duration": 37.0417,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

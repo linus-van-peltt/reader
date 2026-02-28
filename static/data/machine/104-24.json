@@ -1,0 +1,534 @@
+{
+  "text": "I'm sorry to delay with this point. I'm very concerned about the cabinet. I understand that Ra recommend we don't use it. I just use the drops and we won't. I just wanted to know what it was we weren't doing that would help the ass. I apologize for belaboring this point. I'll close just by asking off. Okay. I am rejoice and it's companion.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I'm sorry to delay with this point.",
+        "start_offset": 27,
+        "end_offset": 60,
+        "start": 2.16,
+        "end": 4.8
+      },
+      {
+        "segment": "I'm very concerned about the cabinet.",
+        "start_offset": 62,
+        "end_offset": 97,
+        "start": 4.96,
+        "end": 7.76
+      },
+      {
+        "segment": "I understand that Ra recommend we don't use it.",
+        "start_offset": 104,
+        "end_offset": 140,
+        "start": 8.32,
+        "end": 11.200000000000001
+      },
+      {
+        "segment": "I just use the drops and we won't.",
+        "start_offset": 141,
+        "end_offset": 186,
+        "start": 11.28,
+        "end": 14.88
+      },
+      {
+        "segment": "I just wanted to know what it was we weren't doing that would help the ass.",
+        "start_offset": 189,
+        "end_offset": 291,
+        "start": 15.120000000000001,
+        "end": 23.28
+      },
+      {
+        "segment": "I apologize for belaboring this point.",
+        "start_offset": 314,
+        "end_offset": 367,
+        "start": 25.12,
+        "end": 29.36
+      },
+      {
+        "segment": "I'll close just by asking off.",
+        "start_offset": 385,
+        "end_offset": 410,
+        "start": 30.8,
+        "end": 32.8
+      },
+      {
+        "segment": "Okay.",
+        "start_offset": 474,
+        "end_offset": 476,
+        "start": 37.92,
+        "end": 38.08
+      },
+      {
+        "segment": "I am rejoice and it's companion.",
+        "start_offset": 546,
+        "end_offset": 696,
+        "start": 43.68,
+        "end": 55.68
+      }
+    ],
+    "word": [
+      {
+        "word": "I'm",
+        "start_offset": 27,
+        "end_offset": 34,
+        "start": 2.16,
+        "end": 2.72
+      },
+      {
+        "word": "sorry",
+        "start_offset": 34,
+        "end_offset": 39,
+        "start": 2.72,
+        "end": 3.12
+      },
+      {
+        "word": "to",
+        "start_offset": 39,
+        "end_offset": 41,
+        "start": 3.12,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "delay",
+        "start_offset": 44,
+        "end_offset": 48,
+        "start": 3.52,
+        "end": 3.84
+      },
+      {
+        "word": "with",
+        "start_offset": 50,
+        "end_offset": 52,
+        "start": 4.0,
+        "end": 4.16
+      },
+      {
+        "word": "this",
+        "start_offset": 52,
+        "end_offset": 54,
+        "start": 4.16,
+        "end": 4.32
+      },
+      {
+        "word": "point.",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 4.48,
+        "end": 4.8
+      },
+      {
+        "word": "I'm",
+        "start_offset": 62,
+        "end_offset": 67,
+        "start": 4.96,
+        "end": 5.36
+      },
+      {
+        "word": "very",
+        "start_offset": 70,
+        "end_offset": 74,
+        "start": 5.6000000000000005,
+        "end": 5.92
+      },
+      {
+        "word": "concerned",
+        "start_offset": 74,
+        "end_offset": 81,
+        "start": 5.92,
+        "end": 6.48
+      },
+      {
+        "word": "about",
+        "start_offset": 81,
+        "end_offset": 83,
+        "start": 6.48,
+        "end": 6.640000000000001
+      },
+      {
+        "word": "the",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 6.640000000000001,
+        "end": 6.8
+      },
+      {
+        "word": "cabinet.",
+        "start_offset": 85,
+        "end_offset": 97,
+        "start": 6.8,
+        "end": 7.76
+      },
+      {
+        "word": "I",
+        "start_offset": 104,
+        "end_offset": 108,
+        "start": 8.32,
+        "end": 8.64
+      },
+      {
+        "word": "understand",
+        "start_offset": 112,
+        "end_offset": 118,
+        "start": 8.96,
+        "end": 9.44
+      },
+      {
+        "word": "that",
+        "start_offset": 118,
+        "end_offset": 120,
+        "start": 9.44,
+        "end": 9.6
+      },
+      {
+        "word": "Ra",
+        "start_offset": 122,
+        "end_offset": 124,
+        "start": 9.76,
+        "end": 9.92
+      },
+      {
+        "word": "recommend",
+        "start_offset": 127,
+        "end_offset": 132,
+        "start": 10.16,
+        "end": 10.56
+      },
+      {
+        "word": "we",
+        "start_offset": 133,
+        "end_offset": 134,
+        "start": 10.64,
+        "end": 10.72
+      },
+      {
+        "word": "don't",
+        "start_offset": 134,
+        "end_offset": 136,
+        "start": 10.72,
+        "end": 10.88
+      },
+      {
+        "word": "use",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 10.88,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "it.",
+        "start_offset": 139,
+        "end_offset": 140,
+        "start": 11.120000000000001,
+        "end": 11.200000000000001
+      },
+      {
+        "word": "I",
+        "start_offset": 141,
+        "end_offset": 142,
+        "start": 11.28,
+        "end": 11.36
+      },
+      {
+        "word": "just",
+        "start_offset": 146,
+        "end_offset": 150,
+        "start": 11.68,
+        "end": 12.0
+      },
+      {
+        "word": "use",
+        "start_offset": 162,
+        "end_offset": 166,
+        "start": 12.96,
+        "end": 13.280000000000001
+      },
+      {
+        "word": "the",
+        "start_offset": 166,
+        "end_offset": 168,
+        "start": 13.280000000000001,
+        "end": 13.44
+      },
+      {
+        "word": "drops",
+        "start_offset": 168,
+        "end_offset": 172,
+        "start": 13.44,
+        "end": 13.76
+      },
+      {
+        "word": "and",
+        "start_offset": 175,
+        "end_offset": 177,
+        "start": 14.0,
+        "end": 14.16
+      },
+      {
+        "word": "we",
+        "start_offset": 177,
+        "end_offset": 179,
+        "start": 14.16,
+        "end": 14.32
+      },
+      {
+        "word": "won't.",
+        "start_offset": 179,
+        "end_offset": 186,
+        "start": 14.32,
+        "end": 14.88
+      },
+      {
+        "word": "I",
+        "start_offset": 189,
+        "end_offset": 193,
+        "start": 15.120000000000001,
+        "end": 15.44
+      },
+      {
+        "word": "just",
+        "start_offset": 193,
+        "end_offset": 196,
+        "start": 15.44,
+        "end": 15.68
+      },
+      {
+        "word": "wanted",
+        "start_offset": 196,
+        "end_offset": 201,
+        "start": 15.68,
+        "end": 16.080000000000002
+      },
+      {
+        "word": "to",
+        "start_offset": 201,
+        "end_offset": 205,
+        "start": 16.080000000000002,
+        "end": 16.4
+      },
+      {
+        "word": "know",
+        "start_offset": 205,
+        "end_offset": 209,
+        "start": 16.4,
+        "end": 16.72
+      },
+      {
+        "word": "what",
+        "start_offset": 221,
+        "end_offset": 223,
+        "start": 17.68,
+        "end": 17.84
+      },
+      {
+        "word": "it",
+        "start_offset": 227,
+        "end_offset": 230,
+        "start": 18.16,
+        "end": 18.400000000000002
+      },
+      {
+        "word": "was",
+        "start_offset": 230,
+        "end_offset": 233,
+        "start": 18.400000000000002,
+        "end": 18.64
+      },
+      {
+        "word": "we",
+        "start_offset": 233,
+        "end_offset": 235,
+        "start": 18.64,
+        "end": 18.8
+      },
+      {
+        "word": "weren't",
+        "start_offset": 235,
+        "end_offset": 240,
+        "start": 18.8,
+        "end": 19.2
+      },
+      {
+        "word": "doing",
+        "start_offset": 240,
+        "end_offset": 244,
+        "start": 19.2,
+        "end": 19.52
+      },
+      {
+        "word": "that",
+        "start_offset": 244,
+        "end_offset": 247,
+        "start": 19.52,
+        "end": 19.76
+      },
+      {
+        "word": "would",
+        "start_offset": 247,
+        "end_offset": 251,
+        "start": 19.76,
+        "end": 20.080000000000002
+      },
+      {
+        "word": "help",
+        "start_offset": 282,
+        "end_offset": 285,
+        "start": 22.56,
+        "end": 22.8
+      },
+      {
+        "word": "the",
+        "start_offset": 287,
+        "end_offset": 289,
+        "start": 22.96,
+        "end": 23.12
+      },
+      {
+        "word": "ass.",
+        "start_offset": 289,
+        "end_offset": 291,
+        "start": 23.12,
+        "end": 23.28
+      },
+      {
+        "word": "I",
+        "start_offset": 314,
+        "end_offset": 318,
+        "start": 25.12,
+        "end": 25.44
+      },
+      {
+        "word": "apologize",
+        "start_offset": 318,
+        "end_offset": 331,
+        "start": 25.44,
+        "end": 26.48
+      },
+      {
+        "word": "for",
+        "start_offset": 331,
+        "end_offset": 335,
+        "start": 26.48,
+        "end": 26.8
+      },
+      {
+        "word": "belaboring",
+        "start_offset": 347,
+        "end_offset": 359,
+        "start": 27.76,
+        "end": 28.72
+      },
+      {
+        "word": "this",
+        "start_offset": 359,
+        "end_offset": 363,
+        "start": 28.72,
+        "end": 29.04
+      },
+      {
+        "word": "point.",
+        "start_offset": 363,
+        "end_offset": 367,
+        "start": 29.04,
+        "end": 29.36
+      },
+      {
+        "word": "I'll",
+        "start_offset": 385,
+        "end_offset": 391,
+        "start": 30.8,
+        "end": 31.28
+      },
+      {
+        "word": "close",
+        "start_offset": 391,
+        "end_offset": 396,
+        "start": 31.28,
+        "end": 31.68
+      },
+      {
+        "word": "just",
+        "start_offset": 396,
+        "end_offset": 398,
+        "start": 31.68,
+        "end": 31.84
+      },
+      {
+        "word": "by",
+        "start_offset": 398,
+        "end_offset": 401,
+        "start": 31.84,
+        "end": 32.08
+      },
+      {
+        "word": "asking",
+        "start_offset": 401,
+        "end_offset": 404,
+        "start": 32.08,
+        "end": 32.32
+      },
+      {
+        "word": "off.",
+        "start_offset": 408,
+        "end_offset": 410,
+        "start": 32.64,
+        "end": 32.8
+      },
+      {
+        "word": "Okay.",
+        "start_offset": 474,
+        "end_offset": 476,
+        "start": 37.92,
+        "end": 38.08
+      },
+      {
+        "word": "I",
+        "start_offset": 546,
+        "end_offset": 550,
+        "start": 43.68,
+        "end": 44.0
+      },
+      {
+        "word": "am",
+        "start_offset": 562,
+        "end_offset": 564,
+        "start": 44.96,
+        "end": 45.12
+      },
+      {
+        "word": "rejoice",
+        "start_offset": 616,
+        "end_offset": 630,
+        "start": 49.28,
+        "end": 50.4
+      },
+      {
+        "word": "and",
+        "start_offset": 643,
+        "end_offset": 646,
+        "start": 51.44,
+        "end": 51.68
+      },
+      {
+        "word": "it's",
+        "start_offset": 664,
+        "end_offset": 675,
+        "start": 53.120000000000005,
+        "end": 54.0
+      },
+      {
+        "word": "companion.",
+        "start_offset": 683,
+        "end_offset": 696,
+        "start": 54.64,
+        "end": 55.68
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "104-24.mp3",
+    "audio_duration": 63.03,
+    "transcription_time": 0.13,
+    "rtfx": 475.48,
+    "timestamp": "2026-01-06T22:00:54.235944+00:00"
+  }
+}

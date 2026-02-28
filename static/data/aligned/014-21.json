@@ -1,0 +1,284 @@
+{
+  "text": "How long is one of your cycles? I am Ra. One of our cycles computes to seven five oh, oh oh oh, oh oh oh 750, 000, 000(? ), seven five million 75, 000, 000 of your years.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "How long is one of your cycles?",
+        "start_offset": 0,
+        "end_offset": 31,
+        "start": 3.021,
+        "end": 14.362
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 32,
+        "end_offset": 40,
+        "start": 14.382,
+        "end": 17.063
+      },
+      {
+        "segment": "One of our cycles computes to seven five oh, oh oh oh, oh oh oh seven five million of your years.",
+        "start_offset": 41,
+        "end_offset": 170,
+        "start": 17.283,
+        "end": 45.288
+      }
+    ],
+    "word": [
+      {
+        "word": "How",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 3.021,
+        "end": 3.201,
+        "score": -6.6346
+      },
+      {
+        "word": "long",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 3.321,
+        "end": 11.582,
+        "score": -7.5114
+      },
+      {
+        "word": "is",
+        "start_offset": 9,
+        "end_offset": 11,
+        "start": 11.902,
+        "end": 11.962,
+        "score": -4.2283
+      },
+      {
+        "word": "one",
+        "start_offset": 12,
+        "end_offset": 15,
+        "start": 12.762,
+        "end": 12.982,
+        "score": -4.8433
+      },
+      {
+        "word": "of",
+        "start_offset": 16,
+        "end_offset": 18,
+        "start": 13.922,
+        "end": 13.962,
+        "score": -8.1443
+      },
+      {
+        "word": "your",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 13.982,
+        "end": 14.222,
+        "score": -6.5073
+      },
+      {
+        "word": "cycles?",
+        "start_offset": 24,
+        "end_offset": 31,
+        "start": 14.242,
+        "end": 14.362,
+        "score": -7.2209
+      },
+      {
+        "word": "I",
+        "start_offset": 32,
+        "end_offset": 33,
+        "start": 14.382,
+        "end": 14.402,
+        "score": -8.7614
+      },
+      {
+        "word": "am",
+        "start_offset": 34,
+        "end_offset": 36,
+        "start": 14.422,
+        "end": 14.462,
+        "score": -8.2449
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 37,
+        "end_offset": 40,
+        "start": 14.482,
+        "end": 17.063,
+        "score": -7.8903
+      },
+      {
+        "word": "One",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 17.283,
+        "end": 17.503,
+        "score": -1.7059
+      },
+      {
+        "word": "of",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 17.943,
+        "end": 18.183,
+        "score": -0.8536
+      },
+      {
+        "word": "our",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 18.823,
+        "end": 19.243,
+        "score": -3.4836
+      },
+      {
+        "word": "cycles",
+        "start_offset": 52,
+        "end_offset": 58,
+        "start": 19.883,
+        "end": 20.603,
+        "score": -1.0857
+      },
+      {
+        "word": "computes",
+        "start_offset": 59,
+        "end_offset": 67,
+        "start": 21.484,
+        "end": 22.964,
+        "score": -0.8956
+      },
+      {
+        "word": "to",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 23.784,
+        "end": 24.064,
+        "score": -2.6707
+      },
+      {
+        "word": "seven",
+        "start_offset": 71,
+        "end_offset": 76,
+        "start": 25.424,
+        "end": 25.844,
+        "score": -2.1923
+      },
+      {
+        "word": "five",
+        "start_offset": 77,
+        "end_offset": 81,
+        "start": 26.504,
+        "end": 27.085,
+        "score": -2.1803
+      },
+      {
+        "word": "oh,",
+        "start_offset": 82,
+        "end_offset": 85,
+        "start": 27.765,
+        "end": 29.605,
+        "score": -5.0481
+      },
+      {
+        "word": "oh",
+        "start_offset": 86,
+        "end_offset": 88,
+        "start": 29.665,
+        "end": 30.765,
+        "score": -3.2913
+      },
+      {
+        "word": "oh",
+        "start_offset": 89,
+        "end_offset": 91,
+        "start": 30.825,
+        "end": 31.945,
+        "score": -3.5016
+      },
+      {
+        "word": "oh,",
+        "start_offset": 92,
+        "end_offset": 95,
+        "start": 31.985,
+        "end": 33.606,
+        "score": -3.7876
+      },
+      {
+        "word": "oh",
+        "start_offset": 96,
+        "end_offset": 98,
+        "start": 33.646,
+        "end": 34.746,
+        "score": -3.3428
+      },
+      {
+        "word": "oh",
+        "start_offset": 99,
+        "end_offset": 101,
+        "start": 34.786,
+        "end": 35.986,
+        "score": -3.5076
+      },
+      {
+        "word": "oh",
+        "start_offset": 102,
+        "end_offset": 104,
+        "start": 36.026,
+        "end": 36.226,
+        "score": -3.8781
+      },
+      {
+        "word": "seven",
+        "start_offset": 124,
+        "end_offset": 129,
+        "start": 37.706,
+        "end": 38.186,
+        "score": -1.4077
+      },
+      {
+        "word": "five",
+        "start_offset": 130,
+        "end_offset": 134,
+        "start": 38.867,
+        "end": 39.527,
+        "score": -1.7057
+      },
+      {
+        "word": "million",
+        "start_offset": 135,
+        "end_offset": 142,
+        "start": 40.367,
+        "end": 41.087,
+        "score": -1.1227
+      },
+      {
+        "word": "of",
+        "start_offset": 156,
+        "end_offset": 158,
+        "start": 42.527,
+        "end": 42.767,
+        "score": -0.8017
+      },
+      {
+        "word": "your",
+        "start_offset": 159,
+        "end_offset": 163,
+        "start": 43.387,
+        "end": 43.727,
+        "score": -1.989
+      },
+      {
+        "word": "years.",
+        "start_offset": 164,
+        "end_offset": 170,
+        "start": 44.668,
+        "end": 45.288,
+        "score": -2.0807
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "014-21.mp3",
+    "audio_duration": 46.0278,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

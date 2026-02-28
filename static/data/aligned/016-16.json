@@ -1,0 +1,140 @@
+{
+  "text": "Was this done by the Orion group? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Was this done by the Orion group?",
+        "start_offset": 0,
+        "end_offset": 33,
+        "start": 2.821,
+        "end": 4.662
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 34,
+        "end_offset": 42,
+        "start": 8.003,
+        "end": 9.644
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 43,
+        "end_offset": 59,
+        "start": 10.985,
+        "end": 14.166
+      }
+    ],
+    "word": [
+      {
+        "word": "Was",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.821,
+        "end": 3.101,
+        "score": -3.2522
+      },
+      {
+        "word": "this",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 3.442,
+        "end": 3.602,
+        "score": -2.7899
+      },
+      {
+        "word": "done",
+        "start_offset": 9,
+        "end_offset": 13,
+        "start": 3.702,
+        "end": 3.922,
+        "score": -3.7713
+      },
+      {
+        "word": "by",
+        "start_offset": 14,
+        "end_offset": 16,
+        "start": 3.942,
+        "end": 4.042,
+        "score": -4.3616
+      },
+      {
+        "word": "the",
+        "start_offset": 17,
+        "end_offset": 20,
+        "start": 4.102,
+        "end": 4.162,
+        "score": -4.0736
+      },
+      {
+        "word": "Orion",
+        "start_offset": 21,
+        "end_offset": 26,
+        "start": 4.282,
+        "end": 4.382,
+        "score": -5.0669
+      },
+      {
+        "word": "group?",
+        "start_offset": 27,
+        "end_offset": 33,
+        "start": 4.402,
+        "end": 4.662,
+        "score": -6.1364
+      },
+      {
+        "word": "I",
+        "start_offset": 34,
+        "end_offset": 35,
+        "start": 8.003,
+        "end": 8.023,
+        "score": -0.9394
+      },
+      {
+        "word": "am",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 8.664,
+        "end": 8.904,
+        "score": -3.0444
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 9.484,
+        "end": 9.644,
+        "score": -1.9466
+      },
+      {
+        "word": "This",
+        "start_offset": 43,
+        "end_offset": 47,
+        "start": 10.985,
+        "end": 11.405,
+        "score": -0.9775
+      },
+      {
+        "word": "is",
+        "start_offset": 48,
+        "end_offset": 50,
+        "start": 12.165,
+        "end": 12.505,
+        "score": -3.0335
+      },
+      {
+        "word": "correct.",
+        "start_offset": 51,
+        "end_offset": 59,
+        "start": 13.346,
+        "end": 14.166,
+        "score": -0.8234
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-16.mp3",
+    "audio_duration": 15.0466,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

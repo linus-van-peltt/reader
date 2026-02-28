@@ -1,0 +1,394 @@
+{
+  "text": "Could you please answer that? I am wrong. The nature of the vibratory range peculiar to each a quantum of the octave is such that the characteristics of it may be described with the same certainty with which you perceive a color with your optical apparatus if it is functioning properly.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you please answer that?",
+        "start_offset": 27,
+        "end_offset": 58,
+        "start": 2.16,
+        "end": 4.64
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 84,
+        "end_offset": 114,
+        "start": 6.72,
+        "end": 9.120000000000001
+      },
+      {
+        "segment": "The nature of the vibratory range peculiar to each a quantum of the octave is such that the characteristics of it may be described with the same certainty with which you perceive a color with your optical apparatus if it is functioning properly.",
+        "start_offset": 147,
+        "end_offset": 1147,
+        "start": 11.76,
+        "end": 91.76
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 27,
+        "end_offset": 32,
+        "start": 2.16,
+        "end": 2.56
+      },
+      {
+        "word": "you",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 2.56,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "please",
+        "start_offset": 35,
+        "end_offset": 43,
+        "start": 2.8000000000000003,
+        "end": 3.44
+      },
+      {
+        "word": "answer",
+        "start_offset": 43,
+        "end_offset": 50,
+        "start": 3.44,
+        "end": 4.0
+      },
+      {
+        "word": "that?",
+        "start_offset": 54,
+        "end_offset": 58,
+        "start": 4.32,
+        "end": 4.64
+      },
+      {
+        "word": "I",
+        "start_offset": 84,
+        "end_offset": 88,
+        "start": 6.72,
+        "end": 7.04
+      },
+      {
+        "word": "am",
+        "start_offset": 92,
+        "end_offset": 96,
+        "start": 7.36,
+        "end": 7.68
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 107,
+        "end_offset": 114,
+        "start": 8.56,
+        "end": 9.120000000000001
+      },
+      {
+        "word": "The",
+        "start_offset": 147,
+        "end_offset": 151,
+        "start": 11.76,
+        "end": 12.08
+      },
+      {
+        "word": "nature",
+        "start_offset": 163,
+        "end_offset": 171,
+        "start": 13.040000000000001,
+        "end": 13.68
+      },
+      {
+        "word": "of",
+        "start_offset": 187,
+        "end_offset": 191,
+        "start": 14.96,
+        "end": 15.280000000000001
+      },
+      {
+        "word": "the",
+        "start_offset": 207,
+        "end_offset": 211,
+        "start": 16.56,
+        "end": 16.88
+      },
+      {
+        "word": "vibratory",
+        "start_offset": 239,
+        "end_offset": 253,
+        "start": 19.12,
+        "end": 20.240000000000002
+      },
+      {
+        "word": "range",
+        "start_offset": 269,
+        "end_offset": 277,
+        "start": 21.52,
+        "end": 22.16
+      },
+      {
+        "word": "peculiar",
+        "start_offset": 294,
+        "end_offset": 311,
+        "start": 23.52,
+        "end": 24.88
+      },
+      {
+        "word": "to",
+        "start_offset": 315,
+        "end_offset": 319,
+        "start": 25.2,
+        "end": 25.52
+      },
+      {
+        "word": "each",
+        "start_offset": 339,
+        "end_offset": 347,
+        "start": 27.12,
+        "end": 27.76
+      },
+      {
+        "word": "a",
+        "start_offset": 373,
+        "end_offset": 377,
+        "start": 29.84,
+        "end": 30.16
+      },
+      {
+        "word": "quantum",
+        "start_offset": 377,
+        "end_offset": 389,
+        "start": 30.16,
+        "end": 31.12
+      },
+      {
+        "word": "of",
+        "start_offset": 409,
+        "end_offset": 413,
+        "start": 32.72,
+        "end": 33.04
+      },
+      {
+        "word": "the",
+        "start_offset": 425,
+        "end_offset": 429,
+        "start": 34.0,
+        "end": 34.32
+      },
+      {
+        "word": "octave",
+        "start_offset": 449,
+        "end_offset": 464,
+        "start": 35.92,
+        "end": 37.12
+      },
+      {
+        "word": "is",
+        "start_offset": 486,
+        "end_offset": 490,
+        "start": 38.88,
+        "end": 39.2
+      },
+      {
+        "word": "such",
+        "start_offset": 502,
+        "end_offset": 510,
+        "start": 40.160000000000004,
+        "end": 40.800000000000004
+      },
+      {
+        "word": "that",
+        "start_offset": 522,
+        "end_offset": 526,
+        "start": 41.76,
+        "end": 42.08
+      },
+      {
+        "word": "the",
+        "start_offset": 566,
+        "end_offset": 570,
+        "start": 45.28,
+        "end": 45.6
+      },
+      {
+        "word": "characteristics",
+        "start_offset": 582,
+        "end_offset": 614,
+        "start": 46.56,
+        "end": 49.120000000000005
+      },
+      {
+        "word": "of",
+        "start_offset": 630,
+        "end_offset": 634,
+        "start": 50.4,
+        "end": 50.72
+      },
+      {
+        "word": "it",
+        "start_offset": 638,
+        "end_offset": 642,
+        "start": 51.04,
+        "end": 51.36
+      },
+      {
+        "word": "may",
+        "start_offset": 678,
+        "end_offset": 682,
+        "start": 54.24,
+        "end": 54.56
+      },
+      {
+        "word": "be",
+        "start_offset": 690,
+        "end_offset": 694,
+        "start": 55.2,
+        "end": 55.52
+      },
+      {
+        "word": "described",
+        "start_offset": 706,
+        "end_offset": 726,
+        "start": 56.480000000000004,
+        "end": 58.08
+      },
+      {
+        "word": "with",
+        "start_offset": 738,
+        "end_offset": 742,
+        "start": 59.04,
+        "end": 59.36
+      },
+      {
+        "word": "the",
+        "start_offset": 750,
+        "end_offset": 754,
+        "start": 60.0,
+        "end": 60.32
+      },
+      {
+        "word": "same",
+        "start_offset": 754,
+        "end_offset": 762,
+        "start": 60.32,
+        "end": 60.96
+      },
+      {
+        "word": "certainty",
+        "start_offset": 786,
+        "end_offset": 802,
+        "start": 62.88,
+        "end": 64.16
+      },
+      {
+        "word": "with",
+        "start_offset": 829,
+        "end_offset": 833,
+        "start": 66.32000000000001,
+        "end": 66.64
+      },
+      {
+        "word": "which",
+        "start_offset": 837,
+        "end_offset": 841,
+        "start": 66.96000000000001,
+        "end": 67.28
+      },
+      {
+        "word": "you",
+        "start_offset": 873,
+        "end_offset": 877,
+        "start": 69.84,
+        "end": 70.16
+      },
+      {
+        "word": "perceive",
+        "start_offset": 889,
+        "end_offset": 901,
+        "start": 71.12,
+        "end": 72.08
+      },
+      {
+        "word": "a",
+        "start_offset": 921,
+        "end_offset": 925,
+        "start": 73.68,
+        "end": 74.0
+      },
+      {
+        "word": "color",
+        "start_offset": 925,
+        "end_offset": 937,
+        "start": 74.0,
+        "end": 74.96000000000001
+      },
+      {
+        "word": "with",
+        "start_offset": 953,
+        "end_offset": 957,
+        "start": 76.24,
+        "end": 76.56
+      },
+      {
+        "word": "your",
+        "start_offset": 969,
+        "end_offset": 973,
+        "start": 77.52,
+        "end": 77.84
+      },
+      {
+        "word": "optical",
+        "start_offset": 989,
+        "end_offset": 1004,
+        "start": 79.12,
+        "end": 80.32000000000001
+      },
+      {
+        "word": "apparatus",
+        "start_offset": 1016,
+        "end_offset": 1036,
+        "start": 81.28,
+        "end": 82.88
+      },
+      {
+        "word": "if",
+        "start_offset": 1056,
+        "end_offset": 1060,
+        "start": 84.48,
+        "end": 84.8
+      },
+      {
+        "word": "it",
+        "start_offset": 1068,
+        "end_offset": 1072,
+        "start": 85.44,
+        "end": 85.76
+      },
+      {
+        "word": "is",
+        "start_offset": 1084,
+        "end_offset": 1088,
+        "start": 86.72,
+        "end": 87.04
+      },
+      {
+        "word": "functioning",
+        "start_offset": 1103,
+        "end_offset": 1119,
+        "start": 88.24,
+        "end": 89.52
+      },
+      {
+        "word": "properly.",
+        "start_offset": 1135,
+        "end_offset": 1147,
+        "start": 90.8,
+        "end": 91.76
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "078-18.mp3",
+    "audio_duration": 98.04,
+    "transcription_time": 0.15,
+    "rtfx": 640.31,
+    "timestamp": "2026-01-06T21:56:19.791411+00:00"
+  }
+}

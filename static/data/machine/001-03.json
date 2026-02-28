@@ -1,0 +1,71 @@
+{
+  "text": "Yes. The connection is calm rumours.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Yes.",
+        "start_offset": 319,
+        "end_offset": 327,
+        "start": 25.52,
+        "end": 26.16
+      },
+      {
+        "segment": "The connection is calm rumours.",
+        "start_offset": 360,
+        "end_offset": 419,
+        "start": 28.8,
+        "end": 33.52
+      }
+    ],
+    "word": [
+      {
+        "word": "Yes.",
+        "start_offset": 319,
+        "end_offset": 327,
+        "start": 25.52,
+        "end": 26.16
+      },
+      {
+        "word": "The",
+        "start_offset": 360,
+        "end_offset": 364,
+        "start": 28.8,
+        "end": 29.12
+      },
+      {
+        "word": "connection",
+        "start_offset": 368,
+        "end_offset": 380,
+        "start": 29.44,
+        "end": 30.400000000000002
+      },
+      {
+        "word": "is",
+        "start_offset": 388,
+        "end_offset": 392,
+        "start": 31.04,
+        "end": 31.36
+      },
+      {
+        "word": "calm",
+        "start_offset": 399,
+        "end_offset": 405,
+        "start": 31.92,
+        "end": 32.4
+      },
+      {
+        "word": "rumours.",
+        "start_offset": 411,
+        "end_offset": 419,
+        "start": 32.88,
+        "end": 33.52
+      }
+    ]
+  },
+  "metadata": {
+    "audio_duration": 52.0359375,
+    "transcription_time": 0.68,
+    "rtfx": 76.53,
+    "timestamp": 1767735401
+  }
+}

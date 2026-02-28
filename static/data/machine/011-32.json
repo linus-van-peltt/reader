@@ -1,0 +1,163 @@
+{
+  "text": "Something I forgot to buzz we're doing out of session late today. I am raw. It is well.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Something I forgot to buzz we're doing out of session late today.",
+        "start_offset": 24,
+        "end_offset": 73,
+        "start": 1.92,
+        "end": 5.84
+      },
+      {
+        "segment": "I am raw.",
+        "start_offset": 135,
+        "end_offset": 175,
+        "start": 10.8,
+        "end": 14.0
+      },
+      {
+        "segment": "It is well.",
+        "start_offset": 190,
+        "end_offset": 226,
+        "start": 15.200000000000001,
+        "end": 18.080000000000002
+      }
+    ],
+    "word": [
+      {
+        "word": "Something",
+        "start_offset": 24,
+        "end_offset": 30,
+        "start": 1.92,
+        "end": 2.4
+      },
+      {
+        "word": "I",
+        "start_offset": 30,
+        "end_offset": 32,
+        "start": 2.4,
+        "end": 2.56
+      },
+      {
+        "word": "forgot",
+        "start_offset": 32,
+        "end_offset": 38,
+        "start": 2.56,
+        "end": 3.04
+      },
+      {
+        "word": "to",
+        "start_offset": 39,
+        "end_offset": 41,
+        "start": 3.12,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "buzz",
+        "start_offset": 45,
+        "end_offset": 48,
+        "start": 3.6,
+        "end": 3.84
+      },
+      {
+        "word": "we're",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 3.92,
+        "end": 4.16
+      },
+      {
+        "word": "doing",
+        "start_offset": 52,
+        "end_offset": 54,
+        "start": 4.16,
+        "end": 4.32
+      },
+      {
+        "word": "out",
+        "start_offset": 55,
+        "end_offset": 56,
+        "start": 4.4,
+        "end": 4.48
+      },
+      {
+        "word": "of",
+        "start_offset": 57,
+        "end_offset": 58,
+        "start": 4.5600000000000005,
+        "end": 4.64
+      },
+      {
+        "word": "session",
+        "start_offset": 59,
+        "end_offset": 64,
+        "start": 4.72,
+        "end": 5.12
+      },
+      {
+        "word": "late",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 5.12,
+        "end": 5.36
+      },
+      {
+        "word": "today.",
+        "start_offset": 67,
+        "end_offset": 73,
+        "start": 5.36,
+        "end": 5.84
+      },
+      {
+        "word": "I",
+        "start_offset": 135,
+        "end_offset": 139,
+        "start": 10.8,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "am",
+        "start_offset": 151,
+        "end_offset": 155,
+        "start": 12.08,
+        "end": 12.4
+      },
+      {
+        "word": "raw.",
+        "start_offset": 167,
+        "end_offset": 175,
+        "start": 13.36,
+        "end": 14.0
+      },
+      {
+        "word": "It",
+        "start_offset": 190,
+        "end_offset": 194,
+        "start": 15.200000000000001,
+        "end": 15.52
+      },
+      {
+        "word": "is",
+        "start_offset": 206,
+        "end_offset": 210,
+        "start": 16.48,
+        "end": 16.8
+      },
+      {
+        "word": "well.",
+        "start_offset": 222,
+        "end_offset": 226,
+        "start": 17.76,
+        "end": 18.080000000000002
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "011-32.mp3",
+    "audio_duration": 19.04,
+    "transcription_time": 0.09,
+    "rtfx": 222.4,
+    "timestamp": "2026-01-06T21:46:52.357443+00:00"
+  }
+}

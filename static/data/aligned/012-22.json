@@ -1,0 +1,188 @@
+{
+  "text": "Are all of these Men in Black then used by the Orion crusaders? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Are all of these Men in Black then used by the Orion crusaders?",
+        "start_offset": 0,
+        "end_offset": 63,
+        "start": 1.742,
+        "end": 6.748
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 64,
+        "end_offset": 72,
+        "start": 12.115,
+        "end": 13.797
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 73,
+        "end_offset": 89,
+        "start": 15.539,
+        "end": 18.242
+      }
+    ],
+    "word": [
+      {
+        "word": "Are",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 1.742,
+        "end": 1.842,
+        "score": -3.0033
+      },
+      {
+        "word": "all",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 1.882,
+        "end": 2.002,
+        "score": -1.5608
+      },
+      {
+        "word": "of",
+        "start_offset": 8,
+        "end_offset": 10,
+        "start": 2.022,
+        "end": 2.063,
+        "score": -5.6188
+      },
+      {
+        "word": "these",
+        "start_offset": 11,
+        "end_offset": 16,
+        "start": 2.103,
+        "end": 2.283,
+        "score": -2.8046
+      },
+      {
+        "word": "Men",
+        "start_offset": 17,
+        "end_offset": 20,
+        "start": 2.303,
+        "end": 2.483,
+        "score": -0.8152
+      },
+      {
+        "word": "in",
+        "start_offset": 21,
+        "end_offset": 23,
+        "start": 2.523,
+        "end": 2.583,
+        "score": -2.8411
+      },
+      {
+        "word": "Black",
+        "start_offset": 24,
+        "end_offset": 29,
+        "start": 2.743,
+        "end": 3.064,
+        "score": -0.8462
+      },
+      {
+        "word": "then",
+        "start_offset": 30,
+        "end_offset": 34,
+        "start": 3.164,
+        "end": 3.404,
+        "score": -2.8011
+      },
+      {
+        "word": "used",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 4.826,
+        "end": 5.026,
+        "score": -1.4793
+      },
+      {
+        "word": "by",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 5.066,
+        "end": 5.246,
+        "score": -1.371
+      },
+      {
+        "word": "the",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 5.306,
+        "end": 5.387,
+        "score": -0.918
+      },
+      {
+        "word": "Orion",
+        "start_offset": 47,
+        "end_offset": 52,
+        "start": 5.667,
+        "end": 5.967,
+        "score": -3.6327
+      },
+      {
+        "word": "crusaders?",
+        "start_offset": 53,
+        "end_offset": 63,
+        "start": 6.148,
+        "end": 6.748,
+        "score": -3.488
+      },
+      {
+        "word": "I",
+        "start_offset": 64,
+        "end_offset": 65,
+        "start": 12.115,
+        "end": 12.135,
+        "score": -1.1493
+      },
+      {
+        "word": "am",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 12.896,
+        "end": 13.036,
+        "score": -2.3462
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 13.697,
+        "end": 13.797,
+        "score": -2.4198
+      },
+      {
+        "word": "This",
+        "start_offset": 73,
+        "end_offset": 77,
+        "start": 15.539,
+        "end": 15.899,
+        "score": -3.0485
+      },
+      {
+        "word": "is",
+        "start_offset": 78,
+        "end_offset": 80,
+        "start": 16.66,
+        "end": 16.941,
+        "score": -0.9991
+      },
+      {
+        "word": "correct.",
+        "start_offset": 81,
+        "end_offset": 89,
+        "start": 17.642,
+        "end": 18.242,
+        "score": -1.8699
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "012-22.mp3",
+    "audio_duration": 19.0433,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

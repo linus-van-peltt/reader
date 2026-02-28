@@ -1,0 +1,578 @@
+{
+  "text": "Could you first give me an indication of the instrument's condition, please? I am Ra. This instrument is under a most severe psychic attack. This instrument is bearing up well due to replenished vital energies and a distortion towards a sense of proportion which your peoples call a sense of humor. This attack is potentially disruptive to this contact for a brief period of your space/time.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you first give me an indication of the instrument's condition, please?",
+        "start_offset": 0,
+        "end_offset": 76,
+        "start": 9.741,
+        "end": 14.422
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 77,
+        "end_offset": 85,
+        "start": 14.462,
+        "end": 14.682
+      },
+      {
+        "segment": "This instrument is under a most severe psychic attack.",
+        "start_offset": 86,
+        "end_offset": 140,
+        "start": 17.302,
+        "end": 36.525
+      },
+      {
+        "segment": "This instrument is bearing up well due to replenished vital energies and a distortion towards a sense of proportion which your peoples call a sense of humor.",
+        "start_offset": 141,
+        "end_offset": 298,
+        "start": 39.365,
+        "end": 93.693
+      },
+      {
+        "segment": "This attack is potentially disruptive to this contact for a brief period of your space/time.",
+        "start_offset": 299,
+        "end_offset": 391,
+        "start": 95.773,
+        "end": 126.597
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 9.741,
+        "end": 9.841,
+        "score": -8.2844
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 9.861,
+        "end": 10.141,
+        "score": -7.1389
+      },
+      {
+        "word": "first",
+        "start_offset": 10,
+        "end_offset": 15,
+        "start": 10.321,
+        "end": 10.521,
+        "score": -6.914
+      },
+      {
+        "word": "give",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 10.541,
+        "end": 10.621,
+        "score": -8.6041
+      },
+      {
+        "word": "me",
+        "start_offset": 21,
+        "end_offset": 23,
+        "start": 10.641,
+        "end": 10.681,
+        "score": -8.3526
+      },
+      {
+        "word": "an",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 11.482,
+        "end": 11.522,
+        "score": -4.7441
+      },
+      {
+        "word": "indication",
+        "start_offset": 27,
+        "end_offset": 37,
+        "start": 11.782,
+        "end": 13.662,
+        "score": -7.8268
+      },
+      {
+        "word": "of",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 13.682,
+        "end": 13.722,
+        "score": -8.7016
+      },
+      {
+        "word": "the",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 13.742,
+        "end": 13.802,
+        "score": -6.123
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 45,
+        "end_offset": 57,
+        "start": 13.822,
+        "end": 14.082,
+        "score": -7.806
+      },
+      {
+        "word": "condition,",
+        "start_offset": 58,
+        "end_offset": 68,
+        "start": 14.102,
+        "end": 14.282,
+        "score": -7.0804
+      },
+      {
+        "word": "please?",
+        "start_offset": 69,
+        "end_offset": 76,
+        "start": 14.302,
+        "end": 14.422,
+        "score": -8.746
+      },
+      {
+        "word": "I",
+        "start_offset": 77,
+        "end_offset": 78,
+        "start": 14.462,
+        "end": 14.482,
+        "score": -8.7826
+      },
+      {
+        "word": "am",
+        "start_offset": 79,
+        "end_offset": 81,
+        "start": 14.542,
+        "end": 14.602,
+        "score": -9.354
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 82,
+        "end_offset": 85,
+        "start": 14.642,
+        "end": 14.682,
+        "score": -9.2285
+      },
+      {
+        "word": "This",
+        "start_offset": 86,
+        "end_offset": 90,
+        "start": 17.302,
+        "end": 17.782,
+        "score": -0.8392
+      },
+      {
+        "word": "instrument",
+        "start_offset": 91,
+        "end_offset": 101,
+        "start": 19.163,
+        "end": 20.463,
+        "score": -0.7063
+      },
+      {
+        "word": "is",
+        "start_offset": 102,
+        "end_offset": 104,
+        "start": 22.303,
+        "end": 22.663,
+        "score": -0.7315
+      },
+      {
+        "word": "under",
+        "start_offset": 105,
+        "end_offset": 110,
+        "start": 24.383,
+        "end": 24.923,
+        "score": -0.7119
+      },
+      {
+        "word": "a",
+        "start_offset": 111,
+        "end_offset": 112,
+        "start": 26.464,
+        "end": 26.484,
+        "score": -1.0136
+      },
+      {
+        "word": "most",
+        "start_offset": 113,
+        "end_offset": 117,
+        "start": 27.464,
+        "end": 28.064,
+        "score": -0.7204
+      },
+      {
+        "word": "severe",
+        "start_offset": 118,
+        "end_offset": 124,
+        "start": 29.484,
+        "end": 30.644,
+        "score": -1.0767
+      },
+      {
+        "word": "psychic",
+        "start_offset": 125,
+        "end_offset": 132,
+        "start": 32.644,
+        "end": 34.065,
+        "score": -2.9145
+      },
+      {
+        "word": "attack.",
+        "start_offset": 133,
+        "end_offset": 140,
+        "start": 35.745,
+        "end": 36.525,
+        "score": -1.1964
+      },
+      {
+        "word": "This",
+        "start_offset": 141,
+        "end_offset": 145,
+        "start": 39.365,
+        "end": 39.845,
+        "score": -0.8535
+      },
+      {
+        "word": "instrument",
+        "start_offset": 146,
+        "end_offset": 156,
+        "start": 41.546,
+        "end": 42.786,
+        "score": -0.7011
+      },
+      {
+        "word": "is",
+        "start_offset": 157,
+        "end_offset": 159,
+        "start": 44.526,
+        "end": 44.906,
+        "score": -0.7258
+      },
+      {
+        "word": "bearing",
+        "start_offset": 160,
+        "end_offset": 167,
+        "start": 46.326,
+        "end": 46.866,
+        "score": -0.8544
+      },
+      {
+        "word": "up",
+        "start_offset": 168,
+        "end_offset": 170,
+        "start": 48.126,
+        "end": 48.367,
+        "score": -0.8613
+      },
+      {
+        "word": "well",
+        "start_offset": 171,
+        "end_offset": 175,
+        "start": 50.687,
+        "end": 51.027,
+        "score": -1.01
+      },
+      {
+        "word": "due",
+        "start_offset": 176,
+        "end_offset": 179,
+        "start": 53.707,
+        "end": 54.047,
+        "score": -1.0829
+      },
+      {
+        "word": "to",
+        "start_offset": 180,
+        "end_offset": 182,
+        "start": 55.047,
+        "end": 55.267,
+        "score": -0.7707
+      },
+      {
+        "word": "replenished",
+        "start_offset": 183,
+        "end_offset": 194,
+        "start": 58.388,
+        "end": 59.948,
+        "score": -0.9623
+      },
+      {
+        "word": "vital",
+        "start_offset": 195,
+        "end_offset": 200,
+        "start": 61.728,
+        "end": 62.328,
+        "score": -0.7028
+      },
+      {
+        "word": "energies",
+        "start_offset": 201,
+        "end_offset": 209,
+        "start": 63.989,
+        "end": 65.089,
+        "score": -1.2814
+      },
+      {
+        "word": "and",
+        "start_offset": 210,
+        "end_offset": 213,
+        "start": 67.289,
+        "end": 67.689,
+        "score": -0.7387
+      },
+      {
+        "word": "a",
+        "start_offset": 214,
+        "end_offset": 215,
+        "start": 69.169,
+        "end": 69.189,
+        "score": -0.8409
+      },
+      {
+        "word": "distortion",
+        "start_offset": 216,
+        "end_offset": 226,
+        "start": 69.649,
+        "end": 71.09,
+        "score": -0.9146
+      },
+      {
+        "word": "towards",
+        "start_offset": 227,
+        "end_offset": 234,
+        "start": 72.75,
+        "end": 74.09,
+        "score": -0.7495
+      },
+      {
+        "word": "a",
+        "start_offset": 235,
+        "end_offset": 236,
+        "start": 75.97,
+        "end": 75.99,
+        "score": -0.8438
+      },
+      {
+        "word": "sense",
+        "start_offset": 237,
+        "end_offset": 242,
+        "start": 76.59,
+        "end": 77.49,
+        "score": -1.1828
+      },
+      {
+        "word": "of",
+        "start_offset": 243,
+        "end_offset": 245,
+        "start": 77.811,
+        "end": 78.031,
+        "score": -0.9265
+      },
+      {
+        "word": "proportion",
+        "start_offset": 246,
+        "end_offset": 256,
+        "start": 78.291,
+        "end": 80.191,
+        "score": -0.7582
+      },
+      {
+        "word": "which",
+        "start_offset": 257,
+        "end_offset": 262,
+        "start": 81.971,
+        "end": 82.411,
+        "score": -0.7428
+      },
+      {
+        "word": "your",
+        "start_offset": 263,
+        "end_offset": 267,
+        "start": 83.851,
+        "end": 84.271,
+        "score": -1.2726
+      },
+      {
+        "word": "peoples",
+        "start_offset": 268,
+        "end_offset": 275,
+        "start": 84.891,
+        "end": 85.692,
+        "score": -0.7405
+      },
+      {
+        "word": "call",
+        "start_offset": 276,
+        "end_offset": 280,
+        "start": 86.912,
+        "end": 87.532,
+        "score": -2.1797
+      },
+      {
+        "word": "a",
+        "start_offset": 281,
+        "end_offset": 282,
+        "start": 89.092,
+        "end": 89.112,
+        "score": -0.8986
+      },
+      {
+        "word": "sense",
+        "start_offset": 283,
+        "end_offset": 288,
+        "start": 89.572,
+        "end": 90.732,
+        "score": -1.1416
+      },
+      {
+        "word": "of",
+        "start_offset": 289,
+        "end_offset": 291,
+        "start": 92.072,
+        "end": 92.352,
+        "score": -1.005
+      },
+      {
+        "word": "humor.",
+        "start_offset": 292,
+        "end_offset": 298,
+        "start": 92.372,
+        "end": 93.693,
+        "score": -1.7572
+      },
+      {
+        "word": "This",
+        "start_offset": 299,
+        "end_offset": 303,
+        "start": 95.773,
+        "end": 96.233,
+        "score": -0.7462
+      },
+      {
+        "word": "attack",
+        "start_offset": 304,
+        "end_offset": 310,
+        "start": 97.573,
+        "end": 98.473,
+        "score": -1.0831
+      },
+      {
+        "word": "is",
+        "start_offset": 311,
+        "end_offset": 313,
+        "start": 99.813,
+        "end": 100.234,
+        "score": -0.7305
+      },
+      {
+        "word": "potentially",
+        "start_offset": 314,
+        "end_offset": 325,
+        "start": 101.634,
+        "end": 104.194,
+        "score": -0.9918
+      },
+      {
+        "word": "disruptive",
+        "start_offset": 326,
+        "end_offset": 336,
+        "start": 105.934,
+        "end": 107.675,
+        "score": -2.1992
+      },
+      {
+        "word": "to",
+        "start_offset": 337,
+        "end_offset": 339,
+        "start": 108.855,
+        "end": 109.095,
+        "score": -0.7797
+      },
+      {
+        "word": "this",
+        "start_offset": 340,
+        "end_offset": 344,
+        "start": 110.055,
+        "end": 110.535,
+        "score": -0.8241
+      },
+      {
+        "word": "contact",
+        "start_offset": 345,
+        "end_offset": 352,
+        "start": 111.655,
+        "end": 112.955,
+        "score": -0.7294
+      },
+      {
+        "word": "for",
+        "start_offset": 353,
+        "end_offset": 356,
+        "start": 114.375,
+        "end": 114.816,
+        "score": -0.7227
+      },
+      {
+        "word": "a",
+        "start_offset": 357,
+        "end_offset": 358,
+        "start": 115.776,
+        "end": 115.796,
+        "score": -1.0861
+      },
+      {
+        "word": "brief",
+        "start_offset": 359,
+        "end_offset": 364,
+        "start": 117.176,
+        "end": 117.876,
+        "score": -2.5949
+      },
+      {
+        "word": "period",
+        "start_offset": 365,
+        "end_offset": 371,
+        "start": 119.516,
+        "end": 120.576,
+        "score": -1.194
+      },
+      {
+        "word": "of",
+        "start_offset": 372,
+        "end_offset": 374,
+        "start": 121.936,
+        "end": 122.357,
+        "score": -0.9837
+      },
+      {
+        "word": "your",
+        "start_offset": 375,
+        "end_offset": 379,
+        "start": 122.877,
+        "end": 123.317,
+        "score": -1.6202
+      },
+      {
+        "word": "space/time.",
+        "start_offset": 380,
+        "end_offset": 391,
+        "start": 124.437,
+        "end": 126.597,
+        "score": -1.3692
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "057-01.mp3",
+    "audio_duration": 130.0376,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

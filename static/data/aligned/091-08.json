@@ -1,0 +1,361 @@
+{
+  "text": "Were we successful in re-establishing clear contact? I am Ra. There was the misstep which then needed to be re-repeated. This was done. The communication is once again clear. We enjoyed the humorous aspects of the necessary repetitions.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Were we successful in re-establishing clear contact?",
+        "start_offset": 0,
+        "end_offset": 52,
+        "start": 2.581,
+        "end": 9.422
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 53,
+        "end_offset": 61,
+        "start": 12.303,
+        "end": 14.644
+      },
+      {
+        "segment": "There was the misstep which then needed to be re-repeated.",
+        "start_offset": 62,
+        "end_offset": 120,
+        "start": 17.684,
+        "end": 32.028
+      },
+      {
+        "segment": "This was done.",
+        "start_offset": 121,
+        "end_offset": 135,
+        "start": 34.089,
+        "end": 36.729
+      },
+      {
+        "segment": "The communication is once again clear.",
+        "start_offset": 136,
+        "end_offset": 174,
+        "start": 39.57,
+        "end": 49.773
+      },
+      {
+        "segment": "We enjoyed the humorous aspects of the necessary repetitions.",
+        "start_offset": 175,
+        "end_offset": 236,
+        "start": 52.613,
+        "end": 70.478
+      }
+    ],
+    "word": [
+      {
+        "word": "Were",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.581,
+        "end": 4.741,
+        "score": -4.0369
+      },
+      {
+        "word": "we",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 4.761,
+        "end": 4.821,
+        "score": -4.9233
+      },
+      {
+        "word": "successful",
+        "start_offset": 8,
+        "end_offset": 18,
+        "start": 4.901,
+        "end": 5.441,
+        "score": -2.6908
+      },
+      {
+        "word": "in",
+        "start_offset": 19,
+        "end_offset": 21,
+        "start": 5.521,
+        "end": 5.621,
+        "score": -4.4571
+      },
+      {
+        "word": "re-establishing",
+        "start_offset": 22,
+        "end_offset": 37,
+        "start": 7.202,
+        "end": 8.042,
+        "score": -3.1592
+      },
+      {
+        "word": "clear",
+        "start_offset": 38,
+        "end_offset": 43,
+        "start": 8.462,
+        "end": 8.722,
+        "score": -5.2754
+      },
+      {
+        "word": "contact?",
+        "start_offset": 44,
+        "end_offset": 52,
+        "start": 8.942,
+        "end": 9.422,
+        "score": -5.0578
+      },
+      {
+        "word": "I",
+        "start_offset": 53,
+        "end_offset": 54,
+        "start": 12.303,
+        "end": 12.323,
+        "score": -7.5374
+      },
+      {
+        "word": "am",
+        "start_offset": 55,
+        "end_offset": 57,
+        "start": 13.423,
+        "end": 14.524,
+        "score": -3.9968
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 58,
+        "end_offset": 61,
+        "start": 14.544,
+        "end": 14.644,
+        "score": -6.3095
+      },
+      {
+        "word": "There",
+        "start_offset": 62,
+        "end_offset": 67,
+        "start": 17.684,
+        "end": 17.965,
+        "score": -0.9904
+      },
+      {
+        "word": "was",
+        "start_offset": 68,
+        "end_offset": 71,
+        "start": 18.265,
+        "end": 18.745,
+        "score": -0.936
+      },
+      {
+        "word": "the",
+        "start_offset": 72,
+        "end_offset": 75,
+        "start": 21.145,
+        "end": 21.285,
+        "score": -0.7778
+      },
+      {
+        "word": "misstep",
+        "start_offset": 76,
+        "end_offset": 83,
+        "start": 22.426,
+        "end": 23.506,
+        "score": -0.9361
+      },
+      {
+        "word": "which",
+        "start_offset": 84,
+        "end_offset": 89,
+        "start": 24.826,
+        "end": 25.146,
+        "score": -0.7298
+      },
+      {
+        "word": "then",
+        "start_offset": 90,
+        "end_offset": 94,
+        "start": 25.546,
+        "end": 25.826,
+        "score": -0.7106
+      },
+      {
+        "word": "needed",
+        "start_offset": 95,
+        "end_offset": 101,
+        "start": 27.087,
+        "end": 27.487,
+        "score": -1.2952
+      },
+      {
+        "word": "to",
+        "start_offset": 102,
+        "end_offset": 104,
+        "start": 28.047,
+        "end": 28.167,
+        "score": -0.7094
+      },
+      {
+        "word": "be",
+        "start_offset": 105,
+        "end_offset": 107,
+        "start": 28.807,
+        "end": 28.907,
+        "score": -0.7893
+      },
+      {
+        "word": "re-repeated.",
+        "start_offset": 108,
+        "end_offset": 120,
+        "start": 30.368,
+        "end": 32.028,
+        "score": -0.7579
+      },
+      {
+        "word": "This",
+        "start_offset": 121,
+        "end_offset": 125,
+        "start": 34.089,
+        "end": 34.409,
+        "score": -0.8141
+      },
+      {
+        "word": "was",
+        "start_offset": 126,
+        "end_offset": 129,
+        "start": 34.949,
+        "end": 35.369,
+        "score": -0.7268
+      },
+      {
+        "word": "done.",
+        "start_offset": 130,
+        "end_offset": 135,
+        "start": 36.429,
+        "end": 36.729,
+        "score": -2.1054
+      },
+      {
+        "word": "The",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 39.57,
+        "end": 39.71,
+        "score": -1.4163
+      },
+      {
+        "word": "communication",
+        "start_offset": 140,
+        "end_offset": 153,
+        "start": 43.251,
+        "end": 44.591,
+        "score": -0.8677
+      },
+      {
+        "word": "is",
+        "start_offset": 154,
+        "end_offset": 156,
+        "start": 45.651,
+        "end": 45.932,
+        "score": -0.7247
+      },
+      {
+        "word": "once",
+        "start_offset": 157,
+        "end_offset": 161,
+        "start": 46.492,
+        "end": 46.792,
+        "score": -0.8306
+      },
+      {
+        "word": "again",
+        "start_offset": 162,
+        "end_offset": 167,
+        "start": 47.372,
+        "end": 47.872,
+        "score": -0.797
+      },
+      {
+        "word": "clear.",
+        "start_offset": 168,
+        "end_offset": 174,
+        "start": 49.392,
+        "end": 49.773,
+        "score": -0.8194
+      },
+      {
+        "word": "We",
+        "start_offset": 175,
+        "end_offset": 177,
+        "start": 52.613,
+        "end": 52.733,
+        "score": -1.4425
+      },
+      {
+        "word": "enjoyed",
+        "start_offset": 178,
+        "end_offset": 185,
+        "start": 55.414,
+        "end": 56.354,
+        "score": -2.2098
+      },
+      {
+        "word": "the",
+        "start_offset": 186,
+        "end_offset": 189,
+        "start": 58.135,
+        "end": 58.255,
+        "score": -0.8175
+      },
+      {
+        "word": "humorous",
+        "start_offset": 190,
+        "end_offset": 198,
+        "start": 58.835,
+        "end": 59.715,
+        "score": -1.0604
+      },
+      {
+        "word": "aspects",
+        "start_offset": 199,
+        "end_offset": 206,
+        "start": 61.035,
+        "end": 61.836,
+        "score": -0.7206
+      },
+      {
+        "word": "of",
+        "start_offset": 207,
+        "end_offset": 209,
+        "start": 63.096,
+        "end": 63.376,
+        "score": -0.7326
+      },
+      {
+        "word": "the",
+        "start_offset": 210,
+        "end_offset": 213,
+        "start": 64.176,
+        "end": 64.316,
+        "score": -0.7537
+      },
+      {
+        "word": "necessary",
+        "start_offset": 214,
+        "end_offset": 223,
+        "start": 66.217,
+        "end": 67.457,
+        "score": -1.1472
+      },
+      {
+        "word": "repetitions.",
+        "start_offset": 224,
+        "end_offset": 236,
+        "start": 69.317,
+        "end": 70.478,
+        "score": -0.9678
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "091-08.mp3",
+    "audio_duration": 73.0384,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

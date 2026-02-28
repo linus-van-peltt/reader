@@ -1,0 +1,539 @@
+{
+  "text": "Are you saying, then, that this power is of the spirit and not of the mind or the body? I am Ra. The work of the adept is based upon previous work with the mind and the body, else work with the spirit would not be possible on a dependable basis. With this comment we may assert the correctness of your assumption.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Are you saying, then, that this power is of the spirit and not of the mind or the body?",
+        "start_offset": 0,
+        "end_offset": 87,
+        "start": 3.06,
+        "end": 22.901
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 88,
+        "end_offset": 96,
+        "start": 26.462,
+        "end": 28.602
+      },
+      {
+        "segment": "The work of the adept is based upon previous work with the mind and the body, else work with the spirit would not be possible on a dependable basis.",
+        "start_offset": 97,
+        "end_offset": 245,
+        "start": 31.162,
+        "end": 74.045
+      },
+      {
+        "segment": "With this comment we may assert the correctness of your assumption.",
+        "start_offset": 246,
+        "end_offset": 313,
+        "start": 76.305,
+        "end": 91.886
+      }
+    ],
+    "word": [
+      {
+        "word": "Are",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 3.06,
+        "end": 3.22,
+        "score": -4.4469
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 3.34,
+        "end": 3.42,
+        "score": -4.3657
+      },
+      {
+        "word": "saying,",
+        "start_offset": 8,
+        "end_offset": 15,
+        "start": 3.52,
+        "end": 3.88,
+        "score": -2.4284
+      },
+      {
+        "word": "then,",
+        "start_offset": 16,
+        "end_offset": 21,
+        "start": 3.9,
+        "end": 4.06,
+        "score": -3.4021
+      },
+      {
+        "word": "that",
+        "start_offset": 22,
+        "end_offset": 26,
+        "start": 4.08,
+        "end": 4.26,
+        "score": -5.2973
+      },
+      {
+        "word": "this",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 4.32,
+        "end": 4.52,
+        "score": -2.0912
+      },
+      {
+        "word": "power",
+        "start_offset": 32,
+        "end_offset": 37,
+        "start": 4.6,
+        "end": 5.0,
+        "score": -2.8675
+      },
+      {
+        "word": "is",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 6.46,
+        "end": 6.64,
+        "score": -1.9153
+      },
+      {
+        "word": "of",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 6.82,
+        "end": 7.02,
+        "score": -1.8554
+      },
+      {
+        "word": "the",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 7.16,
+        "end": 7.28,
+        "score": -1.9373
+      },
+      {
+        "word": "spirit",
+        "start_offset": 48,
+        "end_offset": 54,
+        "start": 12.721,
+        "end": 13.261,
+        "score": -1.5264
+      },
+      {
+        "word": "and",
+        "start_offset": 55,
+        "end_offset": 58,
+        "start": 17.021,
+        "end": 17.361,
+        "score": -2.3238
+      },
+      {
+        "word": "not",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 21.501,
+        "end": 21.701,
+        "score": -3.0295
+      },
+      {
+        "word": "of",
+        "start_offset": 63,
+        "end_offset": 65,
+        "start": 21.741,
+        "end": 21.801,
+        "score": -3.4336
+      },
+      {
+        "word": "the",
+        "start_offset": 66,
+        "end_offset": 69,
+        "start": 21.841,
+        "end": 21.921,
+        "score": -3.0002
+      },
+      {
+        "word": "mind",
+        "start_offset": 70,
+        "end_offset": 74,
+        "start": 22.001,
+        "end": 22.361,
+        "score": -3.4869
+      },
+      {
+        "word": "or",
+        "start_offset": 75,
+        "end_offset": 77,
+        "start": 22.381,
+        "end": 22.441,
+        "score": -4.61
+      },
+      {
+        "word": "the",
+        "start_offset": 78,
+        "end_offset": 81,
+        "start": 22.521,
+        "end": 22.601,
+        "score": -5.6093
+      },
+      {
+        "word": "body?",
+        "start_offset": 82,
+        "end_offset": 87,
+        "start": 22.621,
+        "end": 22.901,
+        "score": -3.4315
+      },
+      {
+        "word": "I",
+        "start_offset": 88,
+        "end_offset": 89,
+        "start": 26.462,
+        "end": 26.482,
+        "score": -1.8802
+      },
+      {
+        "word": "am",
+        "start_offset": 90,
+        "end_offset": 92,
+        "start": 27.322,
+        "end": 27.522,
+        "score": -3.0443
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 93,
+        "end_offset": 96,
+        "start": 28.462,
+        "end": 28.602,
+        "score": -1.1825
+      },
+      {
+        "word": "The",
+        "start_offset": 97,
+        "end_offset": 100,
+        "start": 31.162,
+        "end": 31.282,
+        "score": -1.3154
+      },
+      {
+        "word": "work",
+        "start_offset": 101,
+        "end_offset": 105,
+        "start": 31.722,
+        "end": 32.222,
+        "score": -1.0518
+      },
+      {
+        "word": "of",
+        "start_offset": 106,
+        "end_offset": 108,
+        "start": 33.462,
+        "end": 33.702,
+        "score": -0.7986
+      },
+      {
+        "word": "the",
+        "start_offset": 109,
+        "end_offset": 112,
+        "start": 34.002,
+        "end": 34.122,
+        "score": -0.8477
+      },
+      {
+        "word": "adept",
+        "start_offset": 113,
+        "end_offset": 118,
+        "start": 34.502,
+        "end": 35.182,
+        "score": -1.238
+      },
+      {
+        "word": "is",
+        "start_offset": 119,
+        "end_offset": 121,
+        "start": 38.042,
+        "end": 38.322,
+        "score": -1.3865
+      },
+      {
+        "word": "based",
+        "start_offset": 122,
+        "end_offset": 127,
+        "start": 39.503,
+        "end": 40.103,
+        "score": -0.8557
+      },
+      {
+        "word": "upon",
+        "start_offset": 128,
+        "end_offset": 132,
+        "start": 40.863,
+        "end": 41.423,
+        "score": -1.4742
+      },
+      {
+        "word": "previous",
+        "start_offset": 133,
+        "end_offset": 141,
+        "start": 42.583,
+        "end": 43.523,
+        "score": -0.7835
+      },
+      {
+        "word": "work",
+        "start_offset": 142,
+        "end_offset": 146,
+        "start": 44.723,
+        "end": 45.143,
+        "score": -0.7335
+      },
+      {
+        "word": "with",
+        "start_offset": 147,
+        "end_offset": 151,
+        "start": 45.583,
+        "end": 45.963,
+        "score": -0.7556
+      },
+      {
+        "word": "the",
+        "start_offset": 152,
+        "end_offset": 155,
+        "start": 47.183,
+        "end": 47.323,
+        "score": -0.875
+      },
+      {
+        "word": "mind",
+        "start_offset": 156,
+        "end_offset": 160,
+        "start": 48.783,
+        "end": 49.483,
+        "score": -0.7069
+      },
+      {
+        "word": "and",
+        "start_offset": 161,
+        "end_offset": 164,
+        "start": 50.343,
+        "end": 50.723,
+        "score": -0.7219
+      },
+      {
+        "word": "the",
+        "start_offset": 165,
+        "end_offset": 168,
+        "start": 51.363,
+        "end": 51.483,
+        "score": -0.7396
+      },
+      {
+        "word": "body,",
+        "start_offset": 169,
+        "end_offset": 174,
+        "start": 51.863,
+        "end": 52.283,
+        "score": -0.7003
+      },
+      {
+        "word": "else",
+        "start_offset": 175,
+        "end_offset": 179,
+        "start": 54.043,
+        "end": 54.443,
+        "score": -0.8803
+      },
+      {
+        "word": "work",
+        "start_offset": 180,
+        "end_offset": 184,
+        "start": 55.524,
+        "end": 55.904,
+        "score": -0.7135
+      },
+      {
+        "word": "with",
+        "start_offset": 185,
+        "end_offset": 189,
+        "start": 56.644,
+        "end": 56.984,
+        "score": -0.7647
+      },
+      {
+        "word": "the",
+        "start_offset": 190,
+        "end_offset": 193,
+        "start": 57.424,
+        "end": 57.544,
+        "score": -0.7339
+      },
+      {
+        "word": "spirit",
+        "start_offset": 194,
+        "end_offset": 200,
+        "start": 57.924,
+        "end": 58.784,
+        "score": -0.7162
+      },
+      {
+        "word": "would",
+        "start_offset": 201,
+        "end_offset": 206,
+        "start": 60.144,
+        "end": 60.504,
+        "score": -0.818
+      },
+      {
+        "word": "not",
+        "start_offset": 207,
+        "end_offset": 210,
+        "start": 61.524,
+        "end": 61.904,
+        "score": -0.7199
+      },
+      {
+        "word": "be",
+        "start_offset": 211,
+        "end_offset": 213,
+        "start": 62.944,
+        "end": 63.064,
+        "score": -0.7822
+      },
+      {
+        "word": "possible",
+        "start_offset": 214,
+        "end_offset": 222,
+        "start": 65.404,
+        "end": 66.164,
+        "score": -0.7188
+      },
+      {
+        "word": "on",
+        "start_offset": 223,
+        "end_offset": 225,
+        "start": 68.224,
+        "end": 68.464,
+        "score": -0.7662
+      },
+      {
+        "word": "a",
+        "start_offset": 226,
+        "end_offset": 227,
+        "start": 70.725,
+        "end": 70.745,
+        "score": -0.7329
+      },
+      {
+        "word": "dependable",
+        "start_offset": 228,
+        "end_offset": 238,
+        "start": 71.005,
+        "end": 72.365,
+        "score": -0.733
+      },
+      {
+        "word": "basis.",
+        "start_offset": 239,
+        "end_offset": 245,
+        "start": 73.445,
+        "end": 74.045,
+        "score": -0.7247
+      },
+      {
+        "word": "With",
+        "start_offset": 246,
+        "end_offset": 250,
+        "start": 76.305,
+        "end": 76.645,
+        "score": -0.7493
+      },
+      {
+        "word": "this",
+        "start_offset": 251,
+        "end_offset": 255,
+        "start": 77.805,
+        "end": 78.205,
+        "score": -0.7614
+      },
+      {
+        "word": "comment",
+        "start_offset": 256,
+        "end_offset": 263,
+        "start": 79.545,
+        "end": 80.125,
+        "score": -0.7175
+      },
+      {
+        "word": "we",
+        "start_offset": 264,
+        "end_offset": 266,
+        "start": 81.285,
+        "end": 81.425,
+        "score": -0.8204
+      },
+      {
+        "word": "may",
+        "start_offset": 267,
+        "end_offset": 270,
+        "start": 81.665,
+        "end": 81.945,
+        "score": -0.7818
+      },
+      {
+        "word": "assert",
+        "start_offset": 271,
+        "end_offset": 277,
+        "start": 83.525,
+        "end": 84.125,
+        "score": -0.7429
+      },
+      {
+        "word": "the",
+        "start_offset": 278,
+        "end_offset": 281,
+        "start": 84.945,
+        "end": 85.065,
+        "score": -0.7551
+      },
+      {
+        "word": "correctness",
+        "start_offset": 282,
+        "end_offset": 293,
+        "start": 86.185,
+        "end": 87.246,
+        "score": -0.8622
+      },
+      {
+        "word": "of",
+        "start_offset": 294,
+        "end_offset": 296,
+        "start": 88.286,
+        "end": 88.546,
+        "score": -0.7072
+      },
+      {
+        "word": "your",
+        "start_offset": 297,
+        "end_offset": 301,
+        "start": 89.486,
+        "end": 89.746,
+        "score": -1.2109
+      },
+      {
+        "word": "assumption.",
+        "start_offset": 302,
+        "end_offset": 313,
+        "start": 90.906,
+        "end": 91.886,
+        "score": -0.7382
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "080-09.mp3",
+    "audio_duration": 96.0261,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

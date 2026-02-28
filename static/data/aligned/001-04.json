@@ -1,0 +1,85 @@
+{
+  "text": "Please do. What do you not understand?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Please do.",
+        "start_offset": 0,
+        "end_offset": 10,
+        "start": 1.261,
+        "end": 5.282
+      },
+      {
+        "segment": "What do you not understand?",
+        "start_offset": 11,
+        "end_offset": 38,
+        "start": 5.562,
+        "end": 8.884
+      }
+    ],
+    "word": [
+      {
+        "word": "Please",
+        "start_offset": 0,
+        "end_offset": 6,
+        "start": 1.261,
+        "end": 1.721,
+        "score": -5.2764
+      },
+      {
+        "word": "do.",
+        "start_offset": 7,
+        "end_offset": 10,
+        "start": 5.242,
+        "end": 5.282,
+        "score": -3.6483
+      },
+      {
+        "word": "What",
+        "start_offset": 11,
+        "end_offset": 15,
+        "start": 5.562,
+        "end": 5.802,
+        "score": -2.7773
+      },
+      {
+        "word": "do",
+        "start_offset": 16,
+        "end_offset": 18,
+        "start": 6.022,
+        "end": 6.122,
+        "score": -2.7911
+      },
+      {
+        "word": "you",
+        "start_offset": 19,
+        "end_offset": 22,
+        "start": 7.083,
+        "end": 7.183,
+        "score": -2.9055
+      },
+      {
+        "word": "not",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 7.583,
+        "end": 7.703,
+        "score": -2.3836
+      },
+      {
+        "word": "understand?",
+        "start_offset": 27,
+        "end_offset": 38,
+        "start": 7.763,
+        "end": 8.884,
+        "score": -3.038
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "001-04.mp3",
+    "audio_duration": 20.0882,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,657 @@
+{
+  "text": "I would think that you could achieve a true color by passing the light through a crystal of the particular color. Is this correct? I am Ra. This would be one way of approaching accuracy in color. It is a matter of what you would call quality control that the celluloid used is of a varying color. This is not a great or even visible variation, however, it does make some difference given specific applications.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I would think that you could achieve a true color by passing the light through a crystal of the particular color.",
+        "start_offset": 0,
+        "end_offset": 113,
+        "start": 1.86,
+        "end": 19.203
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 114,
+        "end_offset": 130,
+        "start": 19.223,
+        "end": 19.563
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 131,
+        "end_offset": 139,
+        "start": 19.583,
+        "end": 21.443
+      },
+      {
+        "segment": "This would be one way of approaching accuracy in color.",
+        "start_offset": 140,
+        "end_offset": 195,
+        "start": 21.543,
+        "end": 32.605
+      },
+      {
+        "segment": "It is a matter of what you would call quality control that the celluloid used is of a varying color.",
+        "start_offset": 196,
+        "end_offset": 296,
+        "start": 33.965,
+        "end": 55.068
+      },
+      {
+        "segment": "This is not a great or even visible variation, however, it does make some difference given specific applications.",
+        "start_offset": 297,
+        "end_offset": 410,
+        "start": 56.168,
+        "end": 77.691
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 1.86,
+        "end": 1.88,
+        "score": -5.7928
+      },
+      {
+        "word": "would",
+        "start_offset": 2,
+        "end_offset": 7,
+        "start": 1.9,
+        "end": 2.02,
+        "score": -5.9615
+      },
+      {
+        "word": "think",
+        "start_offset": 8,
+        "end_offset": 13,
+        "start": 2.04,
+        "end": 2.26,
+        "score": -4.6071
+      },
+      {
+        "word": "that",
+        "start_offset": 14,
+        "end_offset": 18,
+        "start": 2.28,
+        "end": 2.44,
+        "score": -6.6201
+      },
+      {
+        "word": "you",
+        "start_offset": 19,
+        "end_offset": 22,
+        "start": 2.46,
+        "end": 2.52,
+        "score": -7.1499
+      },
+      {
+        "word": "could",
+        "start_offset": 23,
+        "end_offset": 28,
+        "start": 2.62,
+        "end": 3.08,
+        "score": -8.3384
+      },
+      {
+        "word": "achieve",
+        "start_offset": 29,
+        "end_offset": 36,
+        "start": 3.14,
+        "end": 4.461,
+        "score": -6.1584
+      },
+      {
+        "word": "a",
+        "start_offset": 37,
+        "end_offset": 38,
+        "start": 4.481,
+        "end": 4.501,
+        "score": -5.8102
+      },
+      {
+        "word": "true",
+        "start_offset": 39,
+        "end_offset": 43,
+        "start": 4.581,
+        "end": 4.781,
+        "score": -6.2011
+      },
+      {
+        "word": "color",
+        "start_offset": 44,
+        "end_offset": 49,
+        "start": 4.861,
+        "end": 5.161,
+        "score": -6.6219
+      },
+      {
+        "word": "by",
+        "start_offset": 50,
+        "end_offset": 52,
+        "start": 5.221,
+        "end": 5.361,
+        "score": -8.0119
+      },
+      {
+        "word": "passing",
+        "start_offset": 53,
+        "end_offset": 60,
+        "start": 5.441,
+        "end": 5.901,
+        "score": -6.8559
+      },
+      {
+        "word": "the",
+        "start_offset": 61,
+        "end_offset": 64,
+        "start": 5.921,
+        "end": 5.981,
+        "score": -7.8298
+      },
+      {
+        "word": "light",
+        "start_offset": 65,
+        "end_offset": 70,
+        "start": 6.061,
+        "end": 6.301,
+        "score": -6.943
+      },
+      {
+        "word": "through",
+        "start_offset": 71,
+        "end_offset": 78,
+        "start": 6.381,
+        "end": 6.601,
+        "score": -6.0114
+      },
+      {
+        "word": "a",
+        "start_offset": 79,
+        "end_offset": 80,
+        "start": 6.641,
+        "end": 6.661,
+        "score": -6.6178
+      },
+      {
+        "word": "crystal",
+        "start_offset": 81,
+        "end_offset": 88,
+        "start": 7.741,
+        "end": 8.201,
+        "score": -8.1487
+      },
+      {
+        "word": "of",
+        "start_offset": 89,
+        "end_offset": 91,
+        "start": 8.681,
+        "end": 8.781,
+        "score": -11.063
+      },
+      {
+        "word": "the",
+        "start_offset": 92,
+        "end_offset": 95,
+        "start": 8.801,
+        "end": 9.861,
+        "score": -8.5143
+      },
+      {
+        "word": "particular",
+        "start_offset": 96,
+        "end_offset": 106,
+        "start": 10.081,
+        "end": 18.383,
+        "score": -7.9817
+      },
+      {
+        "word": "color.",
+        "start_offset": 107,
+        "end_offset": 113,
+        "start": 19.083,
+        "end": 19.203,
+        "score": -7.2841
+      },
+      {
+        "word": "Is",
+        "start_offset": 114,
+        "end_offset": 116,
+        "start": 19.223,
+        "end": 19.263,
+        "score": -9.6882
+      },
+      {
+        "word": "this",
+        "start_offset": 117,
+        "end_offset": 121,
+        "start": 19.283,
+        "end": 19.363,
+        "score": -9.8265
+      },
+      {
+        "word": "correct?",
+        "start_offset": 122,
+        "end_offset": 130,
+        "start": 19.403,
+        "end": 19.563,
+        "score": -8.3231
+      },
+      {
+        "word": "I",
+        "start_offset": 131,
+        "end_offset": 132,
+        "start": 19.583,
+        "end": 19.603,
+        "score": -9.9228
+      },
+      {
+        "word": "am",
+        "start_offset": 133,
+        "end_offset": 135,
+        "start": 19.623,
+        "end": 19.723,
+        "score": -9.9875
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 19.783,
+        "end": 21.443,
+        "score": -9.3898
+      },
+      {
+        "word": "This",
+        "start_offset": 140,
+        "end_offset": 144,
+        "start": 21.543,
+        "end": 21.863,
+        "score": -0.7256
+      },
+      {
+        "word": "would",
+        "start_offset": 145,
+        "end_offset": 150,
+        "start": 22.163,
+        "end": 22.483,
+        "score": -0.8278
+      },
+      {
+        "word": "be",
+        "start_offset": 151,
+        "end_offset": 153,
+        "start": 22.723,
+        "end": 22.843,
+        "score": -0.7002
+      },
+      {
+        "word": "one",
+        "start_offset": 154,
+        "end_offset": 157,
+        "start": 24.504,
+        "end": 24.744,
+        "score": -0.7126
+      },
+      {
+        "word": "way",
+        "start_offset": 158,
+        "end_offset": 161,
+        "start": 24.924,
+        "end": 25.224,
+        "score": -0.696
+      },
+      {
+        "word": "of",
+        "start_offset": 162,
+        "end_offset": 164,
+        "start": 26.424,
+        "end": 26.684,
+        "score": -0.6993
+      },
+      {
+        "word": "approaching",
+        "start_offset": 165,
+        "end_offset": 176,
+        "start": 27.024,
+        "end": 27.984,
+        "score": -0.7507
+      },
+      {
+        "word": "accuracy",
+        "start_offset": 177,
+        "end_offset": 185,
+        "start": 29.144,
+        "end": 29.964,
+        "score": -0.8078
+      },
+      {
+        "word": "in",
+        "start_offset": 186,
+        "end_offset": 188,
+        "start": 31.325,
+        "end": 31.565,
+        "score": -0.7012
+      },
+      {
+        "word": "color.",
+        "start_offset": 189,
+        "end_offset": 195,
+        "start": 32.005,
+        "end": 32.605,
+        "score": -0.7388
+      },
+      {
+        "word": "It",
+        "start_offset": 196,
+        "end_offset": 198,
+        "start": 33.965,
+        "end": 34.145,
+        "score": -0.711
+      },
+      {
+        "word": "is",
+        "start_offset": 199,
+        "end_offset": 201,
+        "start": 34.365,
+        "end": 34.685,
+        "score": -0.7017
+      },
+      {
+        "word": "a",
+        "start_offset": 202,
+        "end_offset": 203,
+        "start": 35.265,
+        "end": 35.285,
+        "score": -0.7048
+      },
+      {
+        "word": "matter",
+        "start_offset": 204,
+        "end_offset": 210,
+        "start": 35.705,
+        "end": 36.245,
+        "score": -0.7515
+      },
+      {
+        "word": "of",
+        "start_offset": 211,
+        "end_offset": 213,
+        "start": 37.205,
+        "end": 37.425,
+        "score": -0.6959
+      },
+      {
+        "word": "what",
+        "start_offset": 214,
+        "end_offset": 218,
+        "start": 37.746,
+        "end": 38.026,
+        "score": -0.7405
+      },
+      {
+        "word": "you",
+        "start_offset": 219,
+        "end_offset": 222,
+        "start": 38.306,
+        "end": 38.466,
+        "score": -0.7362
+      },
+      {
+        "word": "would",
+        "start_offset": 223,
+        "end_offset": 228,
+        "start": 38.826,
+        "end": 39.106,
+        "score": -0.801
+      },
+      {
+        "word": "call",
+        "start_offset": 229,
+        "end_offset": 233,
+        "start": 39.226,
+        "end": 39.686,
+        "score": -0.7028
+      },
+      {
+        "word": "quality",
+        "start_offset": 234,
+        "end_offset": 241,
+        "start": 40.746,
+        "end": 41.426,
+        "score": -0.726
+      },
+      {
+        "word": "control",
+        "start_offset": 242,
+        "end_offset": 249,
+        "start": 42.346,
+        "end": 43.166,
+        "score": -0.7026
+      },
+      {
+        "word": "that",
+        "start_offset": 250,
+        "end_offset": 254,
+        "start": 44.467,
+        "end": 44.847,
+        "score": -2.4572
+      },
+      {
+        "word": "the",
+        "start_offset": 255,
+        "end_offset": 258,
+        "start": 45.407,
+        "end": 45.547,
+        "score": -0.7537
+      },
+      {
+        "word": "celluloid",
+        "start_offset": 259,
+        "end_offset": 268,
+        "start": 46.047,
+        "end": 47.387,
+        "score": -1.546
+      },
+      {
+        "word": "used",
+        "start_offset": 269,
+        "end_offset": 273,
+        "start": 48.587,
+        "end": 49.047,
+        "score": -0.6987
+      },
+      {
+        "word": "is",
+        "start_offset": 274,
+        "end_offset": 276,
+        "start": 50.147,
+        "end": 50.487,
+        "score": -0.7016
+      },
+      {
+        "word": "of",
+        "start_offset": 277,
+        "end_offset": 279,
+        "start": 51.127,
+        "end": 51.388,
+        "score": -0.7122
+      },
+      {
+        "word": "a",
+        "start_offset": 280,
+        "end_offset": 281,
+        "start": 51.928,
+        "end": 51.948,
+        "score": -0.714
+      },
+      {
+        "word": "varying",
+        "start_offset": 282,
+        "end_offset": 289,
+        "start": 52.648,
+        "end": 53.628,
+        "score": -0.9884
+      },
+      {
+        "word": "color.",
+        "start_offset": 290,
+        "end_offset": 296,
+        "start": 54.428,
+        "end": 55.068,
+        "score": -0.7192
+      },
+      {
+        "word": "This",
+        "start_offset": 297,
+        "end_offset": 301,
+        "start": 56.168,
+        "end": 56.548,
+        "score": -0.6989
+      },
+      {
+        "word": "is",
+        "start_offset": 302,
+        "end_offset": 304,
+        "start": 57.068,
+        "end": 57.388,
+        "score": -0.7018
+      },
+      {
+        "word": "not",
+        "start_offset": 305,
+        "end_offset": 308,
+        "start": 57.728,
+        "end": 58.089,
+        "score": -0.6955
+      },
+      {
+        "word": "a",
+        "start_offset": 309,
+        "end_offset": 310,
+        "start": 58.649,
+        "end": 58.669,
+        "score": -0.704
+      },
+      {
+        "word": "great",
+        "start_offset": 311,
+        "end_offset": 316,
+        "start": 59.089,
+        "end": 59.549,
+        "score": -0.7153
+      },
+      {
+        "word": "or",
+        "start_offset": 317,
+        "end_offset": 319,
+        "start": 60.329,
+        "end": 60.549,
+        "score": -0.6983
+      },
+      {
+        "word": "even",
+        "start_offset": 320,
+        "end_offset": 324,
+        "start": 60.949,
+        "end": 61.309,
+        "score": -0.712
+      },
+      {
+        "word": "visible",
+        "start_offset": 325,
+        "end_offset": 332,
+        "start": 61.809,
+        "end": 62.549,
+        "score": -0.7238
+      },
+      {
+        "word": "variation,",
+        "start_offset": 333,
+        "end_offset": 343,
+        "start": 63.409,
+        "end": 64.409,
+        "score": -0.6985
+      },
+      {
+        "word": "however,",
+        "start_offset": 344,
+        "end_offset": 352,
+        "start": 65.49,
+        "end": 66.23,
+        "score": -0.7019
+      },
+      {
+        "word": "it",
+        "start_offset": 353,
+        "end_offset": 355,
+        "start": 67.25,
+        "end": 67.43,
+        "score": -6.5935
+      },
+      {
+        "word": "does",
+        "start_offset": 356,
+        "end_offset": 360,
+        "start": 67.87,
+        "end": 68.31,
+        "score": -0.7791
+      },
+      {
+        "word": "make",
+        "start_offset": 361,
+        "end_offset": 365,
+        "start": 68.63,
+        "end": 69.05,
+        "score": -0.696
+      },
+      {
+        "word": "some",
+        "start_offset": 366,
+        "end_offset": 370,
+        "start": 70.03,
+        "end": 70.51,
+        "score": -0.696
+      },
+      {
+        "word": "difference",
+        "start_offset": 371,
+        "end_offset": 381,
+        "start": 71.17,
+        "end": 72.151,
+        "score": -0.8542
+      },
+      {
+        "word": "given",
+        "start_offset": 382,
+        "end_offset": 387,
+        "start": 73.051,
+        "end": 73.471,
+        "score": -0.696
+      },
+      {
+        "word": "specific",
+        "start_offset": 388,
+        "end_offset": 396,
+        "start": 74.191,
+        "end": 75.231,
+        "score": -0.6986
+      },
+      {
+        "word": "applications.",
+        "start_offset": 397,
+        "end_offset": 410,
+        "start": 76.231,
+        "end": 77.691,
+        "score": -0.7431
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "033-04.mp3",
+    "audio_duration": 81.0319,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

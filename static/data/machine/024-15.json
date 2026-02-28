@@ -1,0 +1,58 @@
+{
+  "text": "After making the instrument cough.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "After making the instrument cough.",
+        "start_offset": 26,
+        "end_offset": 55,
+        "start": 2.08,
+        "end": 4.4
+      }
+    ],
+    "word": [
+      {
+        "word": "After",
+        "start_offset": 26,
+        "end_offset": 34,
+        "start": 2.08,
+        "end": 2.72
+      },
+      {
+        "word": "making",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 2.72,
+        "end": 3.04
+      },
+      {
+        "word": "the",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 3.04,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "instrument",
+        "start_offset": 41,
+        "end_offset": 46,
+        "start": 3.2800000000000002,
+        "end": 3.68
+      },
+      {
+        "word": "cough.",
+        "start_offset": 49,
+        "end_offset": 55,
+        "start": 3.92,
+        "end": 4.4
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "024-15.mp3",
+    "audio_duration": 5.04,
+    "transcription_time": 0.08,
+    "rtfx": 62.58,
+    "timestamp": "2026-01-06T21:48:52.337478+00:00"
+  }
+}

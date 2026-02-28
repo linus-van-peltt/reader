@@ -1,0 +1,142 @@
+{
+  "text": "The point being that we have unity. Is that correct? I am you are perceptive.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "The point being that we have unity.",
+        "start_offset": 23,
+        "end_offset": 73,
+        "start": 1.84,
+        "end": 5.84
+      },
+      {
+        "segment": "Is that correct?",
+        "start_offset": 77,
+        "end_offset": 93,
+        "start": 6.16,
+        "end": 7.44
+      },
+      {
+        "segment": "I am you are perceptive.",
+        "start_offset": 116,
+        "end_offset": 216,
+        "start": 9.28,
+        "end": 17.28
+      }
+    ],
+    "word": [
+      {
+        "word": "The",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 1.84,
+        "end": 2.16
+      },
+      {
+        "word": "point",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 2.16,
+        "end": 2.48
+      },
+      {
+        "word": "being",
+        "start_offset": 33,
+        "end_offset": 41,
+        "start": 2.64,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "that",
+        "start_offset": 41,
+        "end_offset": 45,
+        "start": 3.2800000000000002,
+        "end": 3.6
+      },
+      {
+        "word": "we",
+        "start_offset": 53,
+        "end_offset": 57,
+        "start": 4.24,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "have",
+        "start_offset": 57,
+        "end_offset": 61,
+        "start": 4.5600000000000005,
+        "end": 4.88
+      },
+      {
+        "word": "unity.",
+        "start_offset": 65,
+        "end_offset": 73,
+        "start": 5.2,
+        "end": 5.84
+      },
+      {
+        "word": "Is",
+        "start_offset": 77,
+        "end_offset": 81,
+        "start": 6.16,
+        "end": 6.48
+      },
+      {
+        "word": "that",
+        "start_offset": 81,
+        "end_offset": 84,
+        "start": 6.48,
+        "end": 6.72
+      },
+      {
+        "word": "correct?",
+        "start_offset": 84,
+        "end_offset": 93,
+        "start": 6.72,
+        "end": 7.44
+      },
+      {
+        "word": "I",
+        "start_offset": 116,
+        "end_offset": 120,
+        "start": 9.28,
+        "end": 9.6
+      },
+      {
+        "word": "am",
+        "start_offset": 127,
+        "end_offset": 130,
+        "start": 10.16,
+        "end": 10.4
+      },
+      {
+        "word": "you",
+        "start_offset": 174,
+        "end_offset": 178,
+        "start": 13.92,
+        "end": 14.24
+      },
+      {
+        "word": "are",
+        "start_offset": 188,
+        "end_offset": 192,
+        "start": 15.040000000000001,
+        "end": 15.36
+      },
+      {
+        "word": "perceptive.",
+        "start_offset": 204,
+        "end_offset": 216,
+        "start": 16.32,
+        "end": 17.28
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "081-20.mp3",
+    "audio_duration": 19.04,
+    "transcription_time": 0.09,
+    "rtfx": 222.53,
+    "timestamp": "2026-01-06T21:56:56.506508+00:00"
+  }
+}

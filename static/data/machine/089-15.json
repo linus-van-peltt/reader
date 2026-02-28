@@ -1,0 +1,254 @@
+{
+  "text": "In other words, you might say that these were better than say 95% correct as far as representing what is on the walls of the Great Pyramid. Hi. Wow. Yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "In other words, you might say that these were better than say 95% correct as far as representing what is on the walls of the Great Pyramid.",
+        "start_offset": 35,
+        "end_offset": 172,
+        "start": 2.8000000000000003,
+        "end": 13.76
+      },
+      {
+        "segment": "Hi.",
+        "start_offset": 207,
+        "end_offset": 211,
+        "start": 16.56,
+        "end": 16.88
+      },
+      {
+        "segment": "Wow.",
+        "start_offset": 231,
+        "end_offset": 236,
+        "start": 18.48,
+        "end": 18.88
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 251,
+        "end_offset": 259,
+        "start": 20.080000000000002,
+        "end": 20.72
+      }
+    ],
+    "word": [
+      {
+        "word": "In",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 2.8000000000000003,
+        "end": 3.12
+      },
+      {
+        "word": "other",
+        "start_offset": 39,
+        "end_offset": 41,
+        "start": 3.12,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "words,",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 3.2800000000000002,
+        "end": 3.52
+      },
+      {
+        "word": "you",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 3.6,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "might",
+        "start_offset": 47,
+        "end_offset": 50,
+        "start": 3.7600000000000002,
+        "end": 4.0
+      },
+      {
+        "word": "say",
+        "start_offset": 50,
+        "end_offset": 52,
+        "start": 4.0,
+        "end": 4.16
+      },
+      {
+        "word": "that",
+        "start_offset": 52,
+        "end_offset": 56,
+        "start": 4.16,
+        "end": 4.48
+      },
+      {
+        "word": "these",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 4.48,
+        "end": 4.8
+      },
+      {
+        "word": "were",
+        "start_offset": 60,
+        "end_offset": 64,
+        "start": 4.8,
+        "end": 5.12
+      },
+      {
+        "word": "better",
+        "start_offset": 72,
+        "end_offset": 77,
+        "start": 5.76,
+        "end": 6.16
+      },
+      {
+        "word": "than",
+        "start_offset": 77,
+        "end_offset": 79,
+        "start": 6.16,
+        "end": 6.32
+      },
+      {
+        "word": "say",
+        "start_offset": 80,
+        "end_offset": 82,
+        "start": 6.4,
+        "end": 6.5600000000000005
+      },
+      {
+        "word": "95%",
+        "start_offset": 84,
+        "end_offset": 91,
+        "start": 6.72,
+        "end": 7.28
+      },
+      {
+        "word": "correct",
+        "start_offset": 97,
+        "end_offset": 107,
+        "start": 7.76,
+        "end": 8.56
+      },
+      {
+        "word": "as",
+        "start_offset": 111,
+        "end_offset": 115,
+        "start": 8.88,
+        "end": 9.200000000000001
+      },
+      {
+        "word": "far",
+        "start_offset": 115,
+        "end_offset": 119,
+        "start": 9.200000000000001,
+        "end": 9.52
+      },
+      {
+        "word": "as",
+        "start_offset": 119,
+        "end_offset": 123,
+        "start": 9.52,
+        "end": 9.84
+      },
+      {
+        "word": "representing",
+        "start_offset": 123,
+        "end_offset": 134,
+        "start": 9.84,
+        "end": 10.72
+      },
+      {
+        "word": "what",
+        "start_offset": 134,
+        "end_offset": 137,
+        "start": 10.72,
+        "end": 10.96
+      },
+      {
+        "word": "is",
+        "start_offset": 137,
+        "end_offset": 141,
+        "start": 10.96,
+        "end": 11.28
+      },
+      {
+        "word": "on",
+        "start_offset": 141,
+        "end_offset": 144,
+        "start": 11.28,
+        "end": 11.52
+      },
+      {
+        "word": "the",
+        "start_offset": 144,
+        "end_offset": 148,
+        "start": 11.52,
+        "end": 11.84
+      },
+      {
+        "word": "walls",
+        "start_offset": 148,
+        "end_offset": 153,
+        "start": 11.84,
+        "end": 12.24
+      },
+      {
+        "word": "of",
+        "start_offset": 153,
+        "end_offset": 155,
+        "start": 12.24,
+        "end": 12.4
+      },
+      {
+        "word": "the",
+        "start_offset": 155,
+        "end_offset": 157,
+        "start": 12.4,
+        "end": 12.56
+      },
+      {
+        "word": "Great",
+        "start_offset": 157,
+        "end_offset": 160,
+        "start": 12.56,
+        "end": 12.8
+      },
+      {
+        "word": "Pyramid.",
+        "start_offset": 160,
+        "end_offset": 172,
+        "start": 12.8,
+        "end": 13.76
+      },
+      {
+        "word": "Hi.",
+        "start_offset": 207,
+        "end_offset": 211,
+        "start": 16.56,
+        "end": 16.88
+      },
+      {
+        "word": "Wow.",
+        "start_offset": 231,
+        "end_offset": 236,
+        "start": 18.48,
+        "end": 18.88
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 251,
+        "end_offset": 259,
+        "start": 20.080000000000002,
+        "end": 20.72
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "089-15.mp3",
+    "audio_duration": 22.05,
+    "transcription_time": 0.09,
+    "rtfx": 245.36,
+    "timestamp": "2026-01-06T21:58:19.669076+00:00"
+  }
+}

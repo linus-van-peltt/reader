@@ -1,0 +1,355 @@
+{
+  "text": "Is there no process or way by which the entity, once misplaced, and I am assuming this misplacement must be a function of his free will in some way. Is this correct? I am Ra. This is absolutely correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there no process or way by which the entity, once misplaced, and I am assuming this misplacement must be a function of his free will in some way.",
+        "start_offset": 0,
+        "end_offset": 148,
+        "start": 28.268,
+        "end": 41.792
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 149,
+        "end_offset": 165,
+        "start": 43.772,
+        "end": 44.413
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 166,
+        "end_offset": 174,
+        "start": 48.754,
+        "end": 50.534
+      },
+      {
+        "segment": "This is absolutely correct.",
+        "start_offset": 175,
+        "end_offset": 202,
+        "start": 51.895,
+        "end": 58.597
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 28.268,
+        "end": 28.388,
+        "score": -1.5666
+      },
+      {
+        "word": "there",
+        "start_offset": 3,
+        "end_offset": 8,
+        "start": 28.448,
+        "end": 28.628,
+        "score": -1.2046
+      },
+      {
+        "word": "no",
+        "start_offset": 9,
+        "end_offset": 11,
+        "start": 30.009,
+        "end": 30.109,
+        "score": -0.9094
+      },
+      {
+        "word": "process",
+        "start_offset": 12,
+        "end_offset": 19,
+        "start": 30.229,
+        "end": 30.889,
+        "score": -0.718
+      },
+      {
+        "word": "or",
+        "start_offset": 20,
+        "end_offset": 22,
+        "start": 31.749,
+        "end": 31.829,
+        "score": -3.6974
+      },
+      {
+        "word": "way",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 31.889,
+        "end": 32.089,
+        "score": -0.7272
+      },
+      {
+        "word": "by",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 32.169,
+        "end": 32.369,
+        "score": -0.7556
+      },
+      {
+        "word": "which",
+        "start_offset": 30,
+        "end_offset": 35,
+        "start": 32.469,
+        "end": 32.729,
+        "score": -0.7697
+      },
+      {
+        "word": "the",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 33.83,
+        "end": 33.91,
+        "score": -0.8572
+      },
+      {
+        "word": "entity,",
+        "start_offset": 40,
+        "end_offset": 47,
+        "start": 34.03,
+        "end": 34.35,
+        "score": -1.607
+      },
+      {
+        "word": "once",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 34.57,
+        "end": 34.79,
+        "score": -1.1458
+      },
+      {
+        "word": "misplaced,",
+        "start_offset": 53,
+        "end_offset": 63,
+        "start": 34.89,
+        "end": 35.79,
+        "score": -0.846
+      },
+      {
+        "word": "and",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 36.87,
+        "end": 36.99,
+        "score": -0.8152
+      },
+      {
+        "word": "I",
+        "start_offset": 68,
+        "end_offset": 69,
+        "start": 37.091,
+        "end": 37.111,
+        "score": -0.7742
+      },
+      {
+        "word": "am",
+        "start_offset": 70,
+        "end_offset": 72,
+        "start": 37.131,
+        "end": 37.191,
+        "score": -0.8564
+      },
+      {
+        "word": "assuming",
+        "start_offset": 73,
+        "end_offset": 81,
+        "start": 37.211,
+        "end": 37.671,
+        "score": -0.7272
+      },
+      {
+        "word": "this",
+        "start_offset": 82,
+        "end_offset": 86,
+        "start": 37.711,
+        "end": 37.871,
+        "score": -0.7806
+      },
+      {
+        "word": "misplacement",
+        "start_offset": 87,
+        "end_offset": 99,
+        "start": 37.931,
+        "end": 38.611,
+        "score": -1.0813
+      },
+      {
+        "word": "must",
+        "start_offset": 100,
+        "end_offset": 104,
+        "start": 38.651,
+        "end": 38.891,
+        "score": -0.8137
+      },
+      {
+        "word": "be",
+        "start_offset": 105,
+        "end_offset": 107,
+        "start": 38.971,
+        "end": 39.051,
+        "score": -0.7224
+      },
+      {
+        "word": "a",
+        "start_offset": 108,
+        "end_offset": 109,
+        "start": 39.151,
+        "end": 39.171,
+        "score": -0.7203
+      },
+      {
+        "word": "function",
+        "start_offset": 110,
+        "end_offset": 118,
+        "start": 39.251,
+        "end": 39.691,
+        "score": -0.7107
+      },
+      {
+        "word": "of",
+        "start_offset": 119,
+        "end_offset": 121,
+        "start": 39.791,
+        "end": 39.871,
+        "score": -0.7126
+      },
+      {
+        "word": "his",
+        "start_offset": 122,
+        "end_offset": 125,
+        "start": 39.951,
+        "end": 40.131,
+        "score": -0.7114
+      },
+      {
+        "word": "free",
+        "start_offset": 126,
+        "end_offset": 130,
+        "start": 40.451,
+        "end": 40.712,
+        "score": -0.7015
+      },
+      {
+        "word": "will",
+        "start_offset": 131,
+        "end_offset": 135,
+        "start": 40.792,
+        "end": 41.052,
+        "score": -0.7561
+      },
+      {
+        "word": "in",
+        "start_offset": 136,
+        "end_offset": 138,
+        "start": 41.172,
+        "end": 41.252,
+        "score": -0.7393
+      },
+      {
+        "word": "some",
+        "start_offset": 139,
+        "end_offset": 143,
+        "start": 41.332,
+        "end": 41.552,
+        "score": -0.7303
+      },
+      {
+        "word": "way.",
+        "start_offset": 144,
+        "end_offset": 148,
+        "start": 41.592,
+        "end": 41.792,
+        "score": -0.8363
+      },
+      {
+        "word": "Is",
+        "start_offset": 149,
+        "end_offset": 151,
+        "start": 43.772,
+        "end": 43.852,
+        "score": -1.5714
+      },
+      {
+        "word": "this",
+        "start_offset": 152,
+        "end_offset": 156,
+        "start": 43.872,
+        "end": 44.012,
+        "score": -1.3347
+      },
+      {
+        "word": "correct?",
+        "start_offset": 157,
+        "end_offset": 165,
+        "start": 44.052,
+        "end": 44.413,
+        "score": -1.0055
+      },
+      {
+        "word": "I",
+        "start_offset": 166,
+        "end_offset": 167,
+        "start": 48.754,
+        "end": 48.774,
+        "score": -2.276
+      },
+      {
+        "word": "am",
+        "start_offset": 168,
+        "end_offset": 170,
+        "start": 49.394,
+        "end": 50.374,
+        "score": -3.7664
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 171,
+        "end_offset": 174,
+        "start": 50.434,
+        "end": 50.534,
+        "score": -6.0612
+      },
+      {
+        "word": "This",
+        "start_offset": 175,
+        "end_offset": 179,
+        "start": 51.895,
+        "end": 52.315,
+        "score": -1.3444
+      },
+      {
+        "word": "is",
+        "start_offset": 180,
+        "end_offset": 182,
+        "start": 53.235,
+        "end": 53.575,
+        "score": -1.1114
+      },
+      {
+        "word": "absolutely",
+        "start_offset": 183,
+        "end_offset": 193,
+        "start": 54.615,
+        "end": 56.776,
+        "score": -1.3026
+      },
+      {
+        "word": "correct.",
+        "start_offset": 194,
+        "end_offset": 202,
+        "start": 57.856,
+        "end": 58.597,
+        "score": -1.7175
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "069-16.mp3",
+    "audio_duration": 59.0367,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

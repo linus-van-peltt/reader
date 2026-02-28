@@ -1,0 +1,590 @@
+{
+  "text": "Is there anything that we can do to make the instrument more comfortable or improve the contact? I am Roth. It is well that the appliances forms were placed upon the instrument. We ask that continued vigilance be accorded these distortions which are if anything more distorted and towards this is then at our a previous cautionary statement. All is well, my friends. You are conscientious and faithful in your alignments. We appreciate your fastidiousness.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there anything that we can do to make the instrument more comfortable or improve the contact?",
+        "start_offset": 12,
+        "end_offset": 74,
+        "start": 0.96,
+        "end": 5.92
+      },
+      {
+        "segment": "I am Roth.",
+        "start_offset": 116,
+        "end_offset": 154,
+        "start": 9.28,
+        "end": 12.32
+      },
+      {
+        "segment": "It is well that the appliances forms were placed upon the instrument.",
+        "start_offset": 206,
+        "end_offset": 430,
+        "start": 16.48,
+        "end": 34.4
+      },
+      {
+        "segment": "We ask that continued vigilance be accorded these distortions which are if anything more distorted and towards this is then at our a previous cautionary statement.",
+        "start_offset": 475,
+        "end_offset": 1043,
+        "start": 38.0,
+        "end": 83.44
+      },
+      {
+        "segment": "All is well, my friends.",
+        "start_offset": 1101,
+        "end_offset": 1165,
+        "start": 88.08,
+        "end": 93.2
+      },
+      {
+        "segment": "You are conscientious and faithful in your alignments.",
+        "start_offset": 1182,
+        "end_offset": 1368,
+        "start": 94.56,
+        "end": 109.44
+      },
+      {
+        "segment": "We appreciate your fastidiousness.",
+        "start_offset": 1397,
+        "end_offset": 1491,
+        "start": 111.76,
+        "end": 119.28
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 12,
+        "end_offset": 16,
+        "start": 0.96,
+        "end": 1.28
+      },
+      {
+        "word": "there",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 1.28,
+        "end": 1.52
+      },
+      {
+        "word": "anything",
+        "start_offset": 19,
+        "end_offset": 24,
+        "start": 1.52,
+        "end": 1.92
+      },
+      {
+        "word": "that",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 1.92,
+        "end": 2.08
+      },
+      {
+        "word": "we",
+        "start_offset": 26,
+        "end_offset": 27,
+        "start": 2.08,
+        "end": 2.16
+      },
+      {
+        "word": "can",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 2.16,
+        "end": 2.32
+      },
+      {
+        "word": "do",
+        "start_offset": 29,
+        "end_offset": 31,
+        "start": 2.32,
+        "end": 2.48
+      },
+      {
+        "word": "to",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 2.48,
+        "end": 2.72
+      },
+      {
+        "word": "make",
+        "start_offset": 34,
+        "end_offset": 36,
+        "start": 2.72,
+        "end": 2.88
+      },
+      {
+        "word": "the",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 2.88,
+        "end": 3.04
+      },
+      {
+        "word": "instrument",
+        "start_offset": 38,
+        "end_offset": 44,
+        "start": 3.04,
+        "end": 3.52
+      },
+      {
+        "word": "more",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 3.52,
+        "end": 3.68
+      },
+      {
+        "word": "comfortable",
+        "start_offset": 46,
+        "end_offset": 53,
+        "start": 3.68,
+        "end": 4.24
+      },
+      {
+        "word": "or",
+        "start_offset": 53,
+        "end_offset": 55,
+        "start": 4.24,
+        "end": 4.4
+      },
+      {
+        "word": "improve",
+        "start_offset": 55,
+        "end_offset": 60,
+        "start": 4.4,
+        "end": 4.8
+      },
+      {
+        "word": "the",
+        "start_offset": 60,
+        "end_offset": 62,
+        "start": 4.8,
+        "end": 4.96
+      },
+      {
+        "word": "contact?",
+        "start_offset": 62,
+        "end_offset": 74,
+        "start": 4.96,
+        "end": 5.92
+      },
+      {
+        "word": "I",
+        "start_offset": 116,
+        "end_offset": 120,
+        "start": 9.28,
+        "end": 9.6
+      },
+      {
+        "word": "am",
+        "start_offset": 130,
+        "end_offset": 132,
+        "start": 10.4,
+        "end": 10.56
+      },
+      {
+        "word": "Roth.",
+        "start_offset": 148,
+        "end_offset": 154,
+        "start": 11.84,
+        "end": 12.32
+      },
+      {
+        "word": "It",
+        "start_offset": 206,
+        "end_offset": 210,
+        "start": 16.48,
+        "end": 16.8
+      },
+      {
+        "word": "is",
+        "start_offset": 214,
+        "end_offset": 218,
+        "start": 17.12,
+        "end": 17.44
+      },
+      {
+        "word": "well",
+        "start_offset": 226,
+        "end_offset": 230,
+        "start": 18.080000000000002,
+        "end": 18.400000000000002
+      },
+      {
+        "word": "that",
+        "start_offset": 237,
+        "end_offset": 241,
+        "start": 18.96,
+        "end": 19.28
+      },
+      {
+        "word": "the",
+        "start_offset": 245,
+        "end_offset": 249,
+        "start": 19.6,
+        "end": 19.92
+      },
+      {
+        "word": "appliances",
+        "start_offset": 277,
+        "end_offset": 294,
+        "start": 22.16,
+        "end": 23.52
+      },
+      {
+        "word": "forms",
+        "start_offset": 306,
+        "end_offset": 318,
+        "start": 24.48,
+        "end": 25.44
+      },
+      {
+        "word": "were",
+        "start_offset": 334,
+        "end_offset": 338,
+        "start": 26.72,
+        "end": 27.04
+      },
+      {
+        "word": "placed",
+        "start_offset": 366,
+        "end_offset": 378,
+        "start": 29.28,
+        "end": 30.240000000000002
+      },
+      {
+        "word": "upon",
+        "start_offset": 390,
+        "end_offset": 398,
+        "start": 31.2,
+        "end": 31.84
+      },
+      {
+        "word": "the",
+        "start_offset": 402,
+        "end_offset": 406,
+        "start": 32.160000000000004,
+        "end": 32.480000000000004
+      },
+      {
+        "word": "instrument.",
+        "start_offset": 414,
+        "end_offset": 430,
+        "start": 33.12,
+        "end": 34.4
+      },
+      {
+        "word": "We",
+        "start_offset": 475,
+        "end_offset": 479,
+        "start": 38.0,
+        "end": 38.32
+      },
+      {
+        "word": "ask",
+        "start_offset": 486,
+        "end_offset": 494,
+        "start": 38.88,
+        "end": 39.52
+      },
+      {
+        "word": "that",
+        "start_offset": 494,
+        "end_offset": 498,
+        "start": 39.52,
+        "end": 39.84
+      },
+      {
+        "word": "continued",
+        "start_offset": 505,
+        "end_offset": 517,
+        "start": 40.4,
+        "end": 41.36
+      },
+      {
+        "word": "vigilance",
+        "start_offset": 525,
+        "end_offset": 541,
+        "start": 42.0,
+        "end": 43.28
+      },
+      {
+        "word": "be",
+        "start_offset": 557,
+        "end_offset": 561,
+        "start": 44.56,
+        "end": 44.88
+      },
+      {
+        "word": "accorded",
+        "start_offset": 573,
+        "end_offset": 589,
+        "start": 45.84,
+        "end": 47.12
+      },
+      {
+        "word": "these",
+        "start_offset": 601,
+        "end_offset": 605,
+        "start": 48.08,
+        "end": 48.4
+      },
+      {
+        "word": "distortions",
+        "start_offset": 617,
+        "end_offset": 632,
+        "start": 49.36,
+        "end": 50.56
+      },
+      {
+        "word": "which",
+        "start_offset": 652,
+        "end_offset": 656,
+        "start": 52.160000000000004,
+        "end": 52.480000000000004
+      },
+      {
+        "word": "are",
+        "start_offset": 672,
+        "end_offset": 676,
+        "start": 53.76,
+        "end": 54.08
+      },
+      {
+        "word": "if",
+        "start_offset": 714,
+        "end_offset": 718,
+        "start": 57.120000000000005,
+        "end": 57.44
+      },
+      {
+        "word": "anything",
+        "start_offset": 745,
+        "end_offset": 757,
+        "start": 59.6,
+        "end": 60.56
+      },
+      {
+        "word": "more",
+        "start_offset": 781,
+        "end_offset": 785,
+        "start": 62.480000000000004,
+        "end": 62.800000000000004
+      },
+      {
+        "word": "distorted",
+        "start_offset": 793,
+        "end_offset": 811,
+        "start": 63.440000000000005,
+        "end": 64.88
+      },
+      {
+        "word": "and",
+        "start_offset": 829,
+        "end_offset": 832,
+        "start": 66.32000000000001,
+        "end": 66.56
+      },
+      {
+        "word": "towards",
+        "start_offset": 835,
+        "end_offset": 844,
+        "start": 66.8,
+        "end": 67.52
+      },
+      {
+        "word": "this",
+        "start_offset": 866,
+        "end_offset": 870,
+        "start": 69.28,
+        "end": 69.60000000000001
+      },
+      {
+        "word": "is",
+        "start_offset": 882,
+        "end_offset": 885,
+        "start": 70.56,
+        "end": 70.8
+      },
+      {
+        "word": "then",
+        "start_offset": 912,
+        "end_offset": 916,
+        "start": 72.96000000000001,
+        "end": 73.28
+      },
+      {
+        "word": "at",
+        "start_offset": 935,
+        "end_offset": 939,
+        "start": 74.8,
+        "end": 75.12
+      },
+      {
+        "word": "our",
+        "start_offset": 950,
+        "end_offset": 954,
+        "start": 76.0,
+        "end": 76.32000000000001
+      },
+      {
+        "word": "a",
+        "start_offset": 965,
+        "end_offset": 969,
+        "start": 77.2,
+        "end": 77.52
+      },
+      {
+        "word": "previous",
+        "start_offset": 969,
+        "end_offset": 984,
+        "start": 77.52,
+        "end": 78.72
+      },
+      {
+        "word": "cautionary",
+        "start_offset": 1001,
+        "end_offset": 1019,
+        "start": 80.08,
+        "end": 81.52
+      },
+      {
+        "word": "statement.",
+        "start_offset": 1031,
+        "end_offset": 1043,
+        "start": 82.48,
+        "end": 83.44
+      },
+      {
+        "word": "All",
+        "start_offset": 1101,
+        "end_offset": 1105,
+        "start": 88.08,
+        "end": 88.4
+      },
+      {
+        "word": "is",
+        "start_offset": 1113,
+        "end_offset": 1117,
+        "start": 89.04,
+        "end": 89.36
+      },
+      {
+        "word": "well,",
+        "start_offset": 1125,
+        "end_offset": 1129,
+        "start": 90.0,
+        "end": 90.32000000000001
+      },
+      {
+        "word": "my",
+        "start_offset": 1142,
+        "end_offset": 1146,
+        "start": 91.36,
+        "end": 91.68
+      },
+      {
+        "word": "friends.",
+        "start_offset": 1154,
+        "end_offset": 1165,
+        "start": 92.32000000000001,
+        "end": 93.2
+      },
+      {
+        "word": "You",
+        "start_offset": 1182,
+        "end_offset": 1186,
+        "start": 94.56,
+        "end": 94.88
+      },
+      {
+        "word": "are",
+        "start_offset": 1198,
+        "end_offset": 1202,
+        "start": 95.84,
+        "end": 96.16
+      },
+      {
+        "word": "conscientious",
+        "start_offset": 1218,
+        "end_offset": 1242,
+        "start": 97.44,
+        "end": 99.36
+      },
+      {
+        "word": "and",
+        "start_offset": 1258,
+        "end_offset": 1262,
+        "start": 100.64,
+        "end": 100.96000000000001
+      },
+      {
+        "word": "faithful",
+        "start_offset": 1278,
+        "end_offset": 1290,
+        "start": 102.24000000000001,
+        "end": 103.2
+      },
+      {
+        "word": "in",
+        "start_offset": 1306,
+        "end_offset": 1310,
+        "start": 104.48,
+        "end": 104.8
+      },
+      {
+        "word": "your",
+        "start_offset": 1318,
+        "end_offset": 1322,
+        "start": 105.44,
+        "end": 105.76
+      },
+      {
+        "word": "alignments.",
+        "start_offset": 1346,
+        "end_offset": 1368,
+        "start": 107.68,
+        "end": 109.44
+      },
+      {
+        "word": "We",
+        "start_offset": 1397,
+        "end_offset": 1401,
+        "start": 111.76,
+        "end": 112.08
+      },
+      {
+        "word": "appreciate",
+        "start_offset": 1413,
+        "end_offset": 1433,
+        "start": 113.04,
+        "end": 114.64
+      },
+      {
+        "word": "your",
+        "start_offset": 1453,
+        "end_offset": 1457,
+        "start": 116.24000000000001,
+        "end": 116.56
+      },
+      {
+        "word": "fastidiousness.",
+        "start_offset": 1465,
+        "end_offset": 1491,
+        "start": 117.2,
+        "end": 119.28
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "090-31.mp3",
+    "audio_duration": 253.07,
+    "transcription_time": 0.3,
+    "rtfx": 842.25,
+    "timestamp": "2026-01-06T21:58:42.803679+00:00"
+  }
+}

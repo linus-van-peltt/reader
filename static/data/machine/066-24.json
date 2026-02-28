@@ -1,0 +1,331 @@
+{
+  "text": "There's no no best material. I am ramper materials which are in your system of barter are quite dear. They are not that much better than substances which we have mentioned before. The only incorrect substances would be the baser metals.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "There's no no best material.",
+        "start_offset": 30,
+        "end_offset": 79,
+        "start": 2.4,
+        "end": 6.32
+      },
+      {
+        "segment": "I am ramper materials which are in your system of barter are quite dear.",
+        "start_offset": 113,
+        "end_offset": 377,
+        "start": 9.040000000000001,
+        "end": 30.16
+      },
+      {
+        "segment": "They are not that much better than substances which we have mentioned before.",
+        "start_offset": 405,
+        "end_offset": 556,
+        "start": 32.4,
+        "end": 44.480000000000004
+      },
+      {
+        "segment": "The only incorrect substances would be the baser metals.",
+        "start_offset": 573,
+        "end_offset": 693,
+        "start": 45.84,
+        "end": 55.44
+      }
+    ],
+    "word": [
+      {
+        "word": "There's",
+        "start_offset": 30,
+        "end_offset": 39,
+        "start": 2.4,
+        "end": 3.12
+      },
+      {
+        "word": "no",
+        "start_offset": 39,
+        "end_offset": 43,
+        "start": 3.12,
+        "end": 3.44
+      },
+      {
+        "word": "no",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 4.72,
+        "end": 4.96
+      },
+      {
+        "word": "best",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 4.96,
+        "end": 5.12
+      },
+      {
+        "word": "material.",
+        "start_offset": 71,
+        "end_offset": 79,
+        "start": 5.68,
+        "end": 6.32
+      },
+      {
+        "word": "I",
+        "start_offset": 113,
+        "end_offset": 117,
+        "start": 9.040000000000001,
+        "end": 9.36
+      },
+      {
+        "word": "am",
+        "start_offset": 124,
+        "end_offset": 126,
+        "start": 9.92,
+        "end": 10.08
+      },
+      {
+        "word": "ramper",
+        "start_offset": 136,
+        "end_offset": 225,
+        "start": 10.88,
+        "end": 18.0
+      },
+      {
+        "word": "materials",
+        "start_offset": 229,
+        "end_offset": 241,
+        "start": 18.32,
+        "end": 19.28
+      },
+      {
+        "word": "which",
+        "start_offset": 249,
+        "end_offset": 253,
+        "start": 19.92,
+        "end": 20.240000000000002
+      },
+      {
+        "word": "are",
+        "start_offset": 257,
+        "end_offset": 261,
+        "start": 20.56,
+        "end": 20.88
+      },
+      {
+        "word": "in",
+        "start_offset": 277,
+        "end_offset": 281,
+        "start": 22.16,
+        "end": 22.48
+      },
+      {
+        "word": "your",
+        "start_offset": 293,
+        "end_offset": 297,
+        "start": 23.44,
+        "end": 23.76
+      },
+      {
+        "word": "system",
+        "start_offset": 310,
+        "end_offset": 314,
+        "start": 24.8,
+        "end": 25.12
+      },
+      {
+        "word": "of",
+        "start_offset": 322,
+        "end_offset": 326,
+        "start": 25.76,
+        "end": 26.080000000000002
+      },
+      {
+        "word": "barter",
+        "start_offset": 330,
+        "end_offset": 336,
+        "start": 26.400000000000002,
+        "end": 26.88
+      },
+      {
+        "word": "are",
+        "start_offset": 351,
+        "end_offset": 354,
+        "start": 28.080000000000002,
+        "end": 28.32
+      },
+      {
+        "word": "quite",
+        "start_offset": 354,
+        "end_offset": 361,
+        "start": 28.32,
+        "end": 28.88
+      },
+      {
+        "word": "dear.",
+        "start_offset": 369,
+        "end_offset": 377,
+        "start": 29.52,
+        "end": 30.16
+      },
+      {
+        "word": "They",
+        "start_offset": 405,
+        "end_offset": 413,
+        "start": 32.4,
+        "end": 33.04
+      },
+      {
+        "word": "are",
+        "start_offset": 417,
+        "end_offset": 421,
+        "start": 33.36,
+        "end": 33.68
+      },
+      {
+        "word": "not",
+        "start_offset": 425,
+        "end_offset": 429,
+        "start": 34.0,
+        "end": 34.32
+      },
+      {
+        "word": "that",
+        "start_offset": 437,
+        "end_offset": 441,
+        "start": 34.96,
+        "end": 35.28
+      },
+      {
+        "word": "much",
+        "start_offset": 445,
+        "end_offset": 449,
+        "start": 35.6,
+        "end": 35.92
+      },
+      {
+        "word": "better",
+        "start_offset": 453,
+        "end_offset": 461,
+        "start": 36.24,
+        "end": 36.88
+      },
+      {
+        "word": "than",
+        "start_offset": 465,
+        "end_offset": 469,
+        "start": 37.2,
+        "end": 37.52
+      },
+      {
+        "word": "substances",
+        "start_offset": 493,
+        "end_offset": 508,
+        "start": 39.44,
+        "end": 40.64
+      },
+      {
+        "word": "which",
+        "start_offset": 512,
+        "end_offset": 516,
+        "start": 40.96,
+        "end": 41.28
+      },
+      {
+        "word": "we",
+        "start_offset": 520,
+        "end_offset": 524,
+        "start": 41.6,
+        "end": 41.92
+      },
+      {
+        "word": "have",
+        "start_offset": 524,
+        "end_offset": 528,
+        "start": 41.92,
+        "end": 42.24
+      },
+      {
+        "word": "mentioned",
+        "start_offset": 532,
+        "end_offset": 544,
+        "start": 42.56,
+        "end": 43.52
+      },
+      {
+        "word": "before.",
+        "start_offset": 544,
+        "end_offset": 556,
+        "start": 43.52,
+        "end": 44.480000000000004
+      },
+      {
+        "word": "The",
+        "start_offset": 573,
+        "end_offset": 577,
+        "start": 45.84,
+        "end": 46.160000000000004
+      },
+      {
+        "word": "only",
+        "start_offset": 581,
+        "end_offset": 585,
+        "start": 46.480000000000004,
+        "end": 46.800000000000004
+      },
+      {
+        "word": "incorrect",
+        "start_offset": 601,
+        "end_offset": 616,
+        "start": 48.08,
+        "end": 49.28
+      },
+      {
+        "word": "substances",
+        "start_offset": 622,
+        "end_offset": 634,
+        "start": 49.76,
+        "end": 50.72
+      },
+      {
+        "word": "would",
+        "start_offset": 642,
+        "end_offset": 646,
+        "start": 51.36,
+        "end": 51.68
+      },
+      {
+        "word": "be",
+        "start_offset": 650,
+        "end_offset": 654,
+        "start": 52.0,
+        "end": 52.32
+      },
+      {
+        "word": "the",
+        "start_offset": 658,
+        "end_offset": 662,
+        "start": 52.64,
+        "end": 52.96
+      },
+      {
+        "word": "baser",
+        "start_offset": 670,
+        "end_offset": 681,
+        "start": 53.6,
+        "end": 54.480000000000004
+      },
+      {
+        "word": "metals.",
+        "start_offset": 685,
+        "end_offset": 693,
+        "start": 54.800000000000004,
+        "end": 55.44
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "066-24.mp3",
+    "audio_duration": 57.05,
+    "transcription_time": 0.12,
+    "rtfx": 486.18,
+    "timestamp": "2026-01-06T21:54:20.297762+00:00"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "text": "If you would please make the instrument cough, I will ask one— two quick things.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "If you would please make the instrument cough, I will ask one— two quick things.",
+        "start_offset": 0,
+        "end_offset": 80,
+        "start": 0.1,
+        "end": 5.804
+      }
+    ],
+    "word": [
+      {
+        "word": "If",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 0.1,
+        "end": 1.321,
+        "score": -6.6406
+      },
+      {
+        "word": "you",
+        "start_offset": 3,
+        "end_offset": 6,
+        "start": 1.341,
+        "end": 1.401,
+        "score": -6.3043
+      },
+      {
+        "word": "would",
+        "start_offset": 7,
+        "end_offset": 12,
+        "start": 1.441,
+        "end": 1.561,
+        "score": -5.4654
+      },
+      {
+        "word": "please",
+        "start_offset": 13,
+        "end_offset": 19,
+        "start": 1.581,
+        "end": 1.821,
+        "score": -3.4031
+      },
+      {
+        "word": "make",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 1.861,
+        "end": 2.061,
+        "score": -2.2664
+      },
+      {
+        "word": "the",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 2.102,
+        "end": 2.262,
+        "score": -2.7829
+      },
+      {
+        "word": "instrument",
+        "start_offset": 29,
+        "end_offset": 39,
+        "start": 2.442,
+        "end": 2.842,
+        "score": -0.7689
+      },
+      {
+        "word": "cough,",
+        "start_offset": 40,
+        "end_offset": 46,
+        "start": 2.902,
+        "end": 3.262,
+        "score": -3.5431
+      },
+      {
+        "word": "I",
+        "start_offset": 47,
+        "end_offset": 48,
+        "start": 3.482,
+        "end": 3.503,
+        "score": -4.4244
+      },
+      {
+        "word": "will",
+        "start_offset": 49,
+        "end_offset": 53,
+        "start": 3.543,
+        "end": 3.703,
+        "score": -4.6875
+      },
+      {
+        "word": "ask",
+        "start_offset": 54,
+        "end_offset": 57,
+        "start": 3.863,
+        "end": 3.943,
+        "score": -5.2485
+      },
+      {
+        "word": "one—",
+        "start_offset": 58,
+        "end_offset": 62,
+        "start": 3.983,
+        "end": 4.123,
+        "score": -2.2214
+      },
+      {
+        "word": "two",
+        "start_offset": 63,
+        "end_offset": 66,
+        "start": 5.024,
+        "end": 5.184,
+        "score": -1.2373
+      },
+      {
+        "word": "quick",
+        "start_offset": 67,
+        "end_offset": 72,
+        "start": 5.204,
+        "end": 5.424,
+        "score": -2.4491
+      },
+      {
+        "word": "things.",
+        "start_offset": 73,
+        "end_offset": 80,
+        "start": 5.484,
+        "end": 5.804,
+        "score": -2.7338
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "026-39.mp3",
+    "audio_duration": 8.0457,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

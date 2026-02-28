@@ -1,0 +1,196 @@
+{
+  "text": "Was this particular entity the fifth-density visitor that we have had quite often previously? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Was this particular entity the fifth-density visitor that we have had quite often previously?",
+        "start_offset": 0,
+        "end_offset": 93,
+        "start": 2.303,
+        "end": 8.03
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 94,
+        "end_offset": 102,
+        "start": 10.993,
+        "end": 13.216
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 103,
+        "end_offset": 119,
+        "start": 15.179,
+        "end": 18.162
+      }
+    ],
+    "word": [
+      {
+        "word": "Was",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.303,
+        "end": 2.503,
+        "score": -0.7064
+      },
+      {
+        "word": "this",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 2.543,
+        "end": 2.723,
+        "score": -0.7248
+      },
+      {
+        "word": "particular",
+        "start_offset": 9,
+        "end_offset": 19,
+        "start": 3.104,
+        "end": 3.624,
+        "score": -0.7189
+      },
+      {
+        "word": "entity",
+        "start_offset": 20,
+        "end_offset": 26,
+        "start": 3.765,
+        "end": 4.045,
+        "score": -0.697
+      },
+      {
+        "word": "the",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 4.125,
+        "end": 4.205,
+        "score": -0.8245
+      },
+      {
+        "word": "fifth-density",
+        "start_offset": 31,
+        "end_offset": 44,
+        "start": 4.365,
+        "end": 5.627,
+        "score": -0.7881
+      },
+      {
+        "word": "visitor",
+        "start_offset": 45,
+        "end_offset": 52,
+        "start": 5.727,
+        "end": 6.168,
+        "score": -0.9306
+      },
+      {
+        "word": "that",
+        "start_offset": 53,
+        "end_offset": 57,
+        "start": 6.228,
+        "end": 6.328,
+        "score": -0.7305
+      },
+      {
+        "word": "we",
+        "start_offset": 58,
+        "end_offset": 60,
+        "start": 6.348,
+        "end": 6.428,
+        "score": -0.7715
+      },
+      {
+        "word": "have",
+        "start_offset": 61,
+        "end_offset": 65,
+        "start": 6.468,
+        "end": 6.688,
+        "score": -3.4073
+      },
+      {
+        "word": "had",
+        "start_offset": 66,
+        "end_offset": 69,
+        "start": 6.768,
+        "end": 6.828,
+        "score": -4.9234
+      },
+      {
+        "word": "quite",
+        "start_offset": 70,
+        "end_offset": 75,
+        "start": 6.928,
+        "end": 7.189,
+        "score": -0.715
+      },
+      {
+        "word": "often",
+        "start_offset": 76,
+        "end_offset": 81,
+        "start": 7.249,
+        "end": 7.469,
+        "score": -0.7069
+      },
+      {
+        "word": "previously?",
+        "start_offset": 82,
+        "end_offset": 93,
+        "start": 7.529,
+        "end": 8.03,
+        "score": -1.1713
+      },
+      {
+        "word": "I",
+        "start_offset": 94,
+        "end_offset": 95,
+        "start": 10.993,
+        "end": 11.013,
+        "score": -1.4268
+      },
+      {
+        "word": "am",
+        "start_offset": 96,
+        "end_offset": 98,
+        "start": 11.955,
+        "end": 12.235,
+        "score": -2.3976
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 99,
+        "end_offset": 102,
+        "start": 13.076,
+        "end": 13.216,
+        "score": -2.9533
+      },
+      {
+        "word": "This",
+        "start_offset": 103,
+        "end_offset": 107,
+        "start": 15.179,
+        "end": 15.539,
+        "score": -1.0794
+      },
+      {
+        "word": "is",
+        "start_offset": 108,
+        "end_offset": 110,
+        "start": 16.34,
+        "end": 16.66,
+        "score": -0.8173
+      },
+      {
+        "word": "correct.",
+        "start_offset": 111,
+        "end_offset": 119,
+        "start": 17.381,
+        "end": 18.162,
+        "score": -0.7359
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "089-03.mp3",
+    "audio_duration": 19.0433,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

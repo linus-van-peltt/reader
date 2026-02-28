@@ -1,0 +1,562 @@
+{
+  "text": "Would you correct me, please? I am Ra. There were many experiments whereby various of the functions or distortions of the body complex were veiled and others not. A large number of these experiments resulted in nonviable body complexes or those only marginally viable. For instance, it is not a survival-oriented mechanism for the nerve receptors to blank out unconsciously any distortions towards pain.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would you correct me, please?",
+        "start_offset": 0,
+        "end_offset": 29,
+        "start": 1.12,
+        "end": 4.481
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 30,
+        "end_offset": 38,
+        "start": 4.701,
+        "end": 6.821
+      },
+      {
+        "segment": "There were many experiments whereby various of the functions or distortions of the body complex were veiled and others not.",
+        "start_offset": 39,
+        "end_offset": 162,
+        "start": 8.721,
+        "end": 36.405
+      },
+      {
+        "segment": "A large number of these experiments resulted in nonviable body complexes or those only marginally viable.",
+        "start_offset": 163,
+        "end_offset": 268,
+        "start": 38.465,
+        "end": 64.309
+      },
+      {
+        "segment": "For instance, it is not a survival-oriented mechanism for the nerve receptors to blank out unconsciously any distortions towards pain.",
+        "start_offset": 269,
+        "end_offset": 403,
+        "start": 66.389,
+        "end": 97.214
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 1.12,
+        "end": 1.26,
+        "score": -5.5685
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 1.3,
+        "end": 1.38,
+        "score": -3.4788
+      },
+      {
+        "word": "correct",
+        "start_offset": 10,
+        "end_offset": 17,
+        "start": 1.56,
+        "end": 1.9,
+        "score": -2.7945
+      },
+      {
+        "word": "me,",
+        "start_offset": 18,
+        "end_offset": 21,
+        "start": 1.96,
+        "end": 2.02,
+        "score": -3.5037
+      },
+      {
+        "word": "please?",
+        "start_offset": 22,
+        "end_offset": 29,
+        "start": 2.14,
+        "end": 4.481,
+        "score": -4.8784
+      },
+      {
+        "word": "I",
+        "start_offset": 30,
+        "end_offset": 31,
+        "start": 4.701,
+        "end": 4.721,
+        "score": -4.5664
+      },
+      {
+        "word": "am",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 5.481,
+        "end": 5.721,
+        "score": -4.6821
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 6.661,
+        "end": 6.821,
+        "score": -2.7049
+      },
+      {
+        "word": "There",
+        "start_offset": 39,
+        "end_offset": 44,
+        "start": 8.721,
+        "end": 9.101,
+        "score": -0.8668
+      },
+      {
+        "word": "were",
+        "start_offset": 45,
+        "end_offset": 49,
+        "start": 9.601,
+        "end": 9.981,
+        "score": -0.8402
+      },
+      {
+        "word": "many",
+        "start_offset": 50,
+        "end_offset": 54,
+        "start": 10.762,
+        "end": 11.162,
+        "score": -0.7048
+      },
+      {
+        "word": "experiments",
+        "start_offset": 55,
+        "end_offset": 66,
+        "start": 12.922,
+        "end": 14.542,
+        "score": -0.8657
+      },
+      {
+        "word": "whereby",
+        "start_offset": 67,
+        "end_offset": 74,
+        "start": 16.762,
+        "end": 17.923,
+        "score": -1.3776
+      },
+      {
+        "word": "various",
+        "start_offset": 75,
+        "end_offset": 82,
+        "start": 19.203,
+        "end": 20.203,
+        "score": -0.7923
+      },
+      {
+        "word": "of",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 21.443,
+        "end": 21.903,
+        "score": -1.7761
+      },
+      {
+        "word": "the",
+        "start_offset": 86,
+        "end_offset": 89,
+        "start": 22.203,
+        "end": 22.343,
+        "score": -1.2954
+      },
+      {
+        "word": "functions",
+        "start_offset": 90,
+        "end_offset": 99,
+        "start": 24.703,
+        "end": 25.744,
+        "score": -0.7052
+      },
+      {
+        "word": "or",
+        "start_offset": 100,
+        "end_offset": 102,
+        "start": 26.004,
+        "end": 26.164,
+        "score": -0.7081
+      },
+      {
+        "word": "distortions",
+        "start_offset": 103,
+        "end_offset": 114,
+        "start": 26.284,
+        "end": 27.644,
+        "score": -0.7103
+      },
+      {
+        "word": "of",
+        "start_offset": 115,
+        "end_offset": 117,
+        "start": 27.864,
+        "end": 28.204,
+        "score": -0.7611
+      },
+      {
+        "word": "the",
+        "start_offset": 118,
+        "end_offset": 121,
+        "start": 28.384,
+        "end": 28.504,
+        "score": -0.7323
+      },
+      {
+        "word": "body",
+        "start_offset": 122,
+        "end_offset": 126,
+        "start": 28.744,
+        "end": 29.124,
+        "score": -0.7048
+      },
+      {
+        "word": "complex",
+        "start_offset": 127,
+        "end_offset": 134,
+        "start": 29.344,
+        "end": 30.284,
+        "score": -0.7017
+      },
+      {
+        "word": "were",
+        "start_offset": 135,
+        "end_offset": 139,
+        "start": 31.984,
+        "end": 32.345,
+        "score": -0.9068
+      },
+      {
+        "word": "veiled",
+        "start_offset": 140,
+        "end_offset": 146,
+        "start": 32.605,
+        "end": 33.145,
+        "score": -1.3489
+      },
+      {
+        "word": "and",
+        "start_offset": 147,
+        "end_offset": 150,
+        "start": 33.865,
+        "end": 34.205,
+        "score": -0.8348
+      },
+      {
+        "word": "others",
+        "start_offset": 151,
+        "end_offset": 157,
+        "start": 34.745,
+        "end": 35.285,
+        "score": -0.8192
+      },
+      {
+        "word": "not.",
+        "start_offset": 158,
+        "end_offset": 162,
+        "start": 35.925,
+        "end": 36.405,
+        "score": -1.0503
+      },
+      {
+        "word": "A",
+        "start_offset": 163,
+        "end_offset": 164,
+        "start": 38.465,
+        "end": 38.485,
+        "score": -1.134
+      },
+      {
+        "word": "large",
+        "start_offset": 165,
+        "end_offset": 170,
+        "start": 39.446,
+        "end": 40.126,
+        "score": -0.7384
+      },
+      {
+        "word": "number",
+        "start_offset": 171,
+        "end_offset": 177,
+        "start": 40.686,
+        "end": 41.226,
+        "score": -0.6999
+      },
+      {
+        "word": "of",
+        "start_offset": 178,
+        "end_offset": 180,
+        "start": 41.766,
+        "end": 42.086,
+        "score": -0.7921
+      },
+      {
+        "word": "these",
+        "start_offset": 181,
+        "end_offset": 186,
+        "start": 42.446,
+        "end": 43.046,
+        "score": -0.9802
+      },
+      {
+        "word": "experiments",
+        "start_offset": 187,
+        "end_offset": 198,
+        "start": 44.106,
+        "end": 45.946,
+        "score": -0.7688
+      },
+      {
+        "word": "resulted",
+        "start_offset": 199,
+        "end_offset": 207,
+        "start": 47.407,
+        "end": 48.507,
+        "score": -0.6995
+      },
+      {
+        "word": "in",
+        "start_offset": 208,
+        "end_offset": 210,
+        "start": 49.227,
+        "end": 49.607,
+        "score": -0.7105
+      },
+      {
+        "word": "nonviable",
+        "start_offset": 211,
+        "end_offset": 220,
+        "start": 51.027,
+        "end": 53.027,
+        "score": -0.7839
+      },
+      {
+        "word": "body",
+        "start_offset": 221,
+        "end_offset": 225,
+        "start": 53.768,
+        "end": 54.148,
+        "score": -0.9668
+      },
+      {
+        "word": "complexes",
+        "start_offset": 226,
+        "end_offset": 235,
+        "start": 55.148,
+        "end": 56.468,
+        "score": -0.772
+      },
+      {
+        "word": "or",
+        "start_offset": 236,
+        "end_offset": 238,
+        "start": 57.548,
+        "end": 57.848,
+        "score": -0.7725
+      },
+      {
+        "word": "those",
+        "start_offset": 239,
+        "end_offset": 244,
+        "start": 58.528,
+        "end": 59.128,
+        "score": -0.7523
+      },
+      {
+        "word": "only",
+        "start_offset": 245,
+        "end_offset": 249,
+        "start": 59.968,
+        "end": 60.468,
+        "score": -0.7059
+      },
+      {
+        "word": "marginally",
+        "start_offset": 250,
+        "end_offset": 260,
+        "start": 61.409,
+        "end": 62.589,
+        "score": -0.9669
+      },
+      {
+        "word": "viable.",
+        "start_offset": 261,
+        "end_offset": 268,
+        "start": 63.329,
+        "end": 64.309,
+        "score": -1.0278
+      },
+      {
+        "word": "For",
+        "start_offset": 269,
+        "end_offset": 272,
+        "start": 66.389,
+        "end": 66.789,
+        "score": -0.8876
+      },
+      {
+        "word": "instance,",
+        "start_offset": 273,
+        "end_offset": 282,
+        "start": 67.249,
+        "end": 68.15,
+        "score": -0.7272
+      },
+      {
+        "word": "it",
+        "start_offset": 283,
+        "end_offset": 285,
+        "start": 69.49,
+        "end": 69.73,
+        "score": -0.7026
+      },
+      {
+        "word": "is",
+        "start_offset": 286,
+        "end_offset": 288,
+        "start": 70.19,
+        "end": 70.61,
+        "score": -0.7112
+      },
+      {
+        "word": "not",
+        "start_offset": 289,
+        "end_offset": 292,
+        "start": 71.57,
+        "end": 71.99,
+        "score": -0.953
+      },
+      {
+        "word": "a",
+        "start_offset": 293,
+        "end_offset": 294,
+        "start": 73.13,
+        "end": 73.15,
+        "score": -0.7488
+      },
+      {
+        "word": "survival-oriented",
+        "start_offset": 295,
+        "end_offset": 312,
+        "start": 73.31,
+        "end": 76.651,
+        "score": -0.7511
+      },
+      {
+        "word": "mechanism",
+        "start_offset": 313,
+        "end_offset": 322,
+        "start": 77.551,
+        "end": 78.831,
+        "score": -0.7933
+      },
+      {
+        "word": "for",
+        "start_offset": 323,
+        "end_offset": 326,
+        "start": 79.931,
+        "end": 80.371,
+        "score": -0.7521
+      },
+      {
+        "word": "the",
+        "start_offset": 327,
+        "end_offset": 330,
+        "start": 80.711,
+        "end": 80.851,
+        "score": -1.0773
+      },
+      {
+        "word": "nerve",
+        "start_offset": 331,
+        "end_offset": 336,
+        "start": 81.531,
+        "end": 82.192,
+        "score": -1.8644
+      },
+      {
+        "word": "receptors",
+        "start_offset": 337,
+        "end_offset": 346,
+        "start": 82.972,
+        "end": 84.612,
+        "score": -0.7255
+      },
+      {
+        "word": "to",
+        "start_offset": 347,
+        "end_offset": 349,
+        "start": 85.632,
+        "end": 85.832,
+        "score": -2.0793
+      },
+      {
+        "word": "blank",
+        "start_offset": 350,
+        "end_offset": 355,
+        "start": 86.752,
+        "end": 87.352,
+        "score": -0.81
+      },
+      {
+        "word": "out",
+        "start_offset": 356,
+        "end_offset": 359,
+        "start": 87.772,
+        "end": 88.212,
+        "score": -0.9193
+      },
+      {
+        "word": "unconsciously",
+        "start_offset": 360,
+        "end_offset": 373,
+        "start": 89.393,
+        "end": 91.213,
+        "score": -1.1547
+      },
+      {
+        "word": "any",
+        "start_offset": 374,
+        "end_offset": 377,
+        "start": 92.353,
+        "end": 92.633,
+        "score": -0.7041
+      },
+      {
+        "word": "distortions",
+        "start_offset": 378,
+        "end_offset": 389,
+        "start": 92.893,
+        "end": 94.293,
+        "score": -0.7531
+      },
+      {
+        "word": "towards",
+        "start_offset": 390,
+        "end_offset": 397,
+        "start": 94.653,
+        "end": 95.533,
+        "score": -0.7471
+      },
+      {
+        "word": "pain.",
+        "start_offset": 398,
+        "end_offset": 403,
+        "start": 96.554,
+        "end": 97.214,
+        "score": -0.8336
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "083-22.mp3",
+    "audio_duration": 102.0343,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

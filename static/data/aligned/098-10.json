@@ -1,0 +1,172 @@
+{
+  "text": "Are there any other cancerous growths at this time within the cat Gandalf? I am Ra. Yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Are there any other cancerous growths at this time within the cat Gandalf?",
+        "start_offset": 0,
+        "end_offset": 74,
+        "start": 2.421,
+        "end": 10.203
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 75,
+        "end_offset": 83,
+        "start": 14.925,
+        "end": 17.966
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 84,
+        "end_offset": 88,
+        "start": 20.307,
+        "end": 20.667
+      }
+    ],
+    "word": [
+      {
+        "word": "Are",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.421,
+        "end": 2.601,
+        "score": -0.8342
+      },
+      {
+        "word": "there",
+        "start_offset": 4,
+        "end_offset": 9,
+        "start": 2.821,
+        "end": 3.041,
+        "score": -0.7794
+      },
+      {
+        "word": "any",
+        "start_offset": 10,
+        "end_offset": 13,
+        "start": 3.141,
+        "end": 3.301,
+        "score": -0.7026
+      },
+      {
+        "word": "other",
+        "start_offset": 14,
+        "end_offset": 19,
+        "start": 3.441,
+        "end": 3.641,
+        "score": -0.7269
+      },
+      {
+        "word": "cancerous",
+        "start_offset": 20,
+        "end_offset": 29,
+        "start": 3.741,
+        "end": 4.341,
+        "score": -1.3675
+      },
+      {
+        "word": "growths",
+        "start_offset": 30,
+        "end_offset": 37,
+        "start": 4.441,
+        "end": 4.962,
+        "score": -1.5677
+      },
+      {
+        "word": "at",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 6.362,
+        "end": 6.462,
+        "score": -0.7062
+      },
+      {
+        "word": "this",
+        "start_offset": 41,
+        "end_offset": 45,
+        "start": 6.542,
+        "end": 6.762,
+        "score": -0.7196
+      },
+      {
+        "word": "time",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 6.862,
+        "end": 7.302,
+        "score": -0.725
+      },
+      {
+        "word": "within",
+        "start_offset": 51,
+        "end_offset": 57,
+        "start": 7.563,
+        "end": 8.003,
+        "score": -1.1494
+      },
+      {
+        "word": "the",
+        "start_offset": 58,
+        "end_offset": 61,
+        "start": 8.143,
+        "end": 8.223,
+        "score": -5.005
+      },
+      {
+        "word": "cat",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 9.263,
+        "end": 9.523,
+        "score": -3.4802
+      },
+      {
+        "word": "Gandalf?",
+        "start_offset": 66,
+        "end_offset": 74,
+        "start": 9.623,
+        "end": 10.203,
+        "score": -1.9018
+      },
+      {
+        "word": "I",
+        "start_offset": 75,
+        "end_offset": 76,
+        "start": 14.925,
+        "end": 14.945,
+        "score": -2.2998
+      },
+      {
+        "word": "am",
+        "start_offset": 77,
+        "end_offset": 79,
+        "start": 16.345,
+        "end": 16.586,
+        "score": -5.03
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 80,
+        "end_offset": 83,
+        "start": 17.846,
+        "end": 17.966,
+        "score": -6.9843
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 84,
+        "end_offset": 88,
+        "start": 20.307,
+        "end": 20.667,
+        "score": -4.3846
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "098-10.mp3",
+    "audio_duration": 22.0474,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

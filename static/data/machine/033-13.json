@@ -1,0 +1,289 @@
+{
+  "text": "Is this seniority system also used for the service to self-side and for becoming harvestable on that side? I am Ra. This is correct. You may ask one more full a question at this time.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is this seniority system also used for the service to self-side and for becoming harvestable on that side?",
+        "start_offset": 28,
+        "end_offset": 142,
+        "start": 2.24,
+        "end": 11.36
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 180,
+        "end_offset": 203,
+        "start": 14.4,
+        "end": 16.240000000000002
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 224,
+        "end_offset": 260,
+        "start": 17.92,
+        "end": 20.8
+      },
+      {
+        "segment": "You may ask one more full a question at this time.",
+        "start_offset": 281,
+        "end_offset": 409,
+        "start": 22.48,
+        "end": 32.72
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 2.24,
+        "end": 2.4
+      },
+      {
+        "word": "this",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 2.64,
+        "end": 2.88
+      },
+      {
+        "word": "seniority",
+        "start_offset": 36,
+        "end_offset": 46,
+        "start": 2.88,
+        "end": 3.68
+      },
+      {
+        "word": "system",
+        "start_offset": 50,
+        "end_offset": 54,
+        "start": 4.0,
+        "end": 4.32
+      },
+      {
+        "word": "also",
+        "start_offset": 57,
+        "end_offset": 61,
+        "start": 4.5600000000000005,
+        "end": 4.88
+      },
+      {
+        "word": "used",
+        "start_offset": 61,
+        "end_offset": 69,
+        "start": 4.88,
+        "end": 5.5200000000000005
+      },
+      {
+        "word": "for",
+        "start_offset": 72,
+        "end_offset": 75,
+        "start": 5.76,
+        "end": 6.0
+      },
+      {
+        "word": "the",
+        "start_offset": 75,
+        "end_offset": 77,
+        "start": 6.0,
+        "end": 6.16
+      },
+      {
+        "word": "service",
+        "start_offset": 77,
+        "end_offset": 82,
+        "start": 6.16,
+        "end": 6.5600000000000005
+      },
+      {
+        "word": "to",
+        "start_offset": 82,
+        "end_offset": 85,
+        "start": 6.5600000000000005,
+        "end": 6.8
+      },
+      {
+        "word": "self-side",
+        "start_offset": 85,
+        "end_offset": 95,
+        "start": 6.8,
+        "end": 7.6000000000000005
+      },
+      {
+        "word": "and",
+        "start_offset": 99,
+        "end_offset": 103,
+        "start": 7.92,
+        "end": 8.24
+      },
+      {
+        "word": "for",
+        "start_offset": 103,
+        "end_offset": 107,
+        "start": 8.24,
+        "end": 8.56
+      },
+      {
+        "word": "becoming",
+        "start_offset": 108,
+        "end_offset": 118,
+        "start": 8.64,
+        "end": 9.44
+      },
+      {
+        "word": "harvestable",
+        "start_offset": 118,
+        "end_offset": 128,
+        "start": 9.44,
+        "end": 10.24
+      },
+      {
+        "word": "on",
+        "start_offset": 129,
+        "end_offset": 132,
+        "start": 10.32,
+        "end": 10.56
+      },
+      {
+        "word": "that",
+        "start_offset": 132,
+        "end_offset": 135,
+        "start": 10.56,
+        "end": 10.8
+      },
+      {
+        "word": "side?",
+        "start_offset": 135,
+        "end_offset": 142,
+        "start": 10.8,
+        "end": 11.36
+      },
+      {
+        "word": "I",
+        "start_offset": 180,
+        "end_offset": 184,
+        "start": 14.4,
+        "end": 14.72
+      },
+      {
+        "word": "am",
+        "start_offset": 192,
+        "end_offset": 196,
+        "start": 15.36,
+        "end": 15.68
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 200,
+        "end_offset": 203,
+        "start": 16.0,
+        "end": 16.240000000000002
+      },
+      {
+        "word": "This",
+        "start_offset": 224,
+        "end_offset": 228,
+        "start": 17.92,
+        "end": 18.240000000000002
+      },
+      {
+        "word": "is",
+        "start_offset": 236,
+        "end_offset": 240,
+        "start": 18.88,
+        "end": 19.2
+      },
+      {
+        "word": "correct.",
+        "start_offset": 248,
+        "end_offset": 260,
+        "start": 19.84,
+        "end": 20.8
+      },
+      {
+        "word": "You",
+        "start_offset": 281,
+        "end_offset": 285,
+        "start": 22.48,
+        "end": 22.8
+      },
+      {
+        "word": "may",
+        "start_offset": 289,
+        "end_offset": 293,
+        "start": 23.12,
+        "end": 23.44
+      },
+      {
+        "word": "ask",
+        "start_offset": 301,
+        "end_offset": 309,
+        "start": 24.080000000000002,
+        "end": 24.72
+      },
+      {
+        "word": "one",
+        "start_offset": 324,
+        "end_offset": 328,
+        "start": 25.92,
+        "end": 26.240000000000002
+      },
+      {
+        "word": "more",
+        "start_offset": 340,
+        "end_offset": 343,
+        "start": 27.2,
+        "end": 27.44
+      },
+      {
+        "word": "full",
+        "start_offset": 353,
+        "end_offset": 360,
+        "start": 28.240000000000002,
+        "end": 28.8
+      },
+      {
+        "word": "a",
+        "start_offset": 363,
+        "end_offset": 367,
+        "start": 29.04,
+        "end": 29.36
+      },
+      {
+        "word": "question",
+        "start_offset": 367,
+        "end_offset": 375,
+        "start": 29.36,
+        "end": 30.0
+      },
+      {
+        "word": "at",
+        "start_offset": 385,
+        "end_offset": 389,
+        "start": 30.8,
+        "end": 31.12
+      },
+      {
+        "word": "this",
+        "start_offset": 397,
+        "end_offset": 401,
+        "start": 31.76,
+        "end": 32.08
+      },
+      {
+        "word": "time.",
+        "start_offset": 405,
+        "end_offset": 409,
+        "start": 32.4,
+        "end": 32.72
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "033-13.mp3",
+    "audio_duration": 34.04,
+    "transcription_time": 0.1,
+    "rtfx": 339.44,
+    "timestamp": "2026-01-06T21:50:01.533121+00:00"
+  }
+}

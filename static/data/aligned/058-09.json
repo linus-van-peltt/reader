@@ -1,0 +1,682 @@
+{
+  "text": "Do you mean that if I drew a line through two opposite corners of the pyramid at the base and aimed that at magnetic north— that would be precisely 45° out of the orientation of one side aimed at magnetic north— it would work just as well? Is that what you are saying? I am Ra. It would work much better than if the pyramid shape were quite unaligned. It would not work quite as efficiently as the aforementioned configuration.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Do you mean that if I drew a line through two opposite corners of the pyramid at the base and aimed that at magnetic north— that would be precisely out of the orientation of one side aimed at magnetic north— it would work just as well?",
+        "start_offset": 0,
+        "end_offset": 239,
+        "start": 2.26,
+        "end": 29.706
+      },
+      {
+        "segment": "Is that what you are saying?",
+        "start_offset": 240,
+        "end_offset": 268,
+        "start": 29.806,
+        "end": 30.586
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 269,
+        "end_offset": 277,
+        "start": 33.987,
+        "end": 35.747
+      },
+      {
+        "segment": "It would work much better than if the pyramid shape were quite unaligned.",
+        "start_offset": 278,
+        "end_offset": 351,
+        "start": 37.907,
+        "end": 56.571
+      },
+      {
+        "segment": "It would not work quite as efficiently as the aforementioned configuration.",
+        "start_offset": 352,
+        "end_offset": 427,
+        "start": 58.231,
+        "end": 76.355
+      }
+    ],
+    "word": [
+      {
+        "word": "Do",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.26,
+        "end": 2.34,
+        "score": -0.7523
+      },
+      {
+        "word": "you",
+        "start_offset": 3,
+        "end_offset": 6,
+        "start": 2.42,
+        "end": 2.5,
+        "score": -0.8309
+      },
+      {
+        "word": "mean",
+        "start_offset": 7,
+        "end_offset": 11,
+        "start": 2.601,
+        "end": 2.801,
+        "score": -0.7007
+      },
+      {
+        "word": "that",
+        "start_offset": 12,
+        "end_offset": 16,
+        "start": 2.841,
+        "end": 2.961,
+        "score": -0.7342
+      },
+      {
+        "word": "if",
+        "start_offset": 17,
+        "end_offset": 19,
+        "start": 2.981,
+        "end": 3.061,
+        "score": -0.734
+      },
+      {
+        "word": "I",
+        "start_offset": 20,
+        "end_offset": 21,
+        "start": 3.221,
+        "end": 3.241,
+        "score": -0.7219
+      },
+      {
+        "word": "drew",
+        "start_offset": 22,
+        "end_offset": 26,
+        "start": 3.321,
+        "end": 3.501,
+        "score": -0.9465
+      },
+      {
+        "word": "a",
+        "start_offset": 27,
+        "end_offset": 28,
+        "start": 3.641,
+        "end": 3.661,
+        "score": -0.7573
+      },
+      {
+        "word": "line",
+        "start_offset": 29,
+        "end_offset": 33,
+        "start": 3.801,
+        "end": 4.241,
+        "score": -3.7244
+      },
+      {
+        "word": "through",
+        "start_offset": 34,
+        "end_offset": 41,
+        "start": 4.321,
+        "end": 4.641,
+        "score": -1.2171
+      },
+      {
+        "word": "two",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 6.421,
+        "end": 6.641,
+        "score": -1.8744
+      },
+      {
+        "word": "opposite",
+        "start_offset": 46,
+        "end_offset": 54,
+        "start": 6.901,
+        "end": 7.481,
+        "score": -1.83
+      },
+      {
+        "word": "corners",
+        "start_offset": 55,
+        "end_offset": 62,
+        "start": 8.702,
+        "end": 9.282,
+        "score": -3.0569
+      },
+      {
+        "word": "of",
+        "start_offset": 63,
+        "end_offset": 65,
+        "start": 11.362,
+        "end": 11.442,
+        "score": -1.8614
+      },
+      {
+        "word": "the",
+        "start_offset": 66,
+        "end_offset": 69,
+        "start": 11.482,
+        "end": 11.562,
+        "score": -1.9028
+      },
+      {
+        "word": "pyramid",
+        "start_offset": 70,
+        "end_offset": 77,
+        "start": 11.622,
+        "end": 12.082,
+        "score": -1.7665
+      },
+      {
+        "word": "at",
+        "start_offset": 78,
+        "end_offset": 80,
+        "start": 12.102,
+        "end": 12.142,
+        "score": -5.5398
+      },
+      {
+        "word": "the",
+        "start_offset": 81,
+        "end_offset": 84,
+        "start": 12.202,
+        "end": 12.282,
+        "score": -3.4612
+      },
+      {
+        "word": "base",
+        "start_offset": 85,
+        "end_offset": 89,
+        "start": 12.362,
+        "end": 12.863,
+        "score": -1.8714
+      },
+      {
+        "word": "and",
+        "start_offset": 90,
+        "end_offset": 93,
+        "start": 16.463,
+        "end": 16.723,
+        "score": -1.9954
+      },
+      {
+        "word": "aimed",
+        "start_offset": 94,
+        "end_offset": 99,
+        "start": 16.903,
+        "end": 17.283,
+        "score": -1.476
+      },
+      {
+        "word": "that",
+        "start_offset": 100,
+        "end_offset": 104,
+        "start": 19.204,
+        "end": 19.524,
+        "score": -1.5787
+      },
+      {
+        "word": "at",
+        "start_offset": 105,
+        "end_offset": 107,
+        "start": 19.664,
+        "end": 19.764,
+        "score": -1.4802
+      },
+      {
+        "word": "magnetic",
+        "start_offset": 108,
+        "end_offset": 116,
+        "start": 19.824,
+        "end": 20.364,
+        "score": -0.7504
+      },
+      {
+        "word": "north—",
+        "start_offset": 117,
+        "end_offset": 123,
+        "start": 20.444,
+        "end": 20.704,
+        "score": -0.751
+      },
+      {
+        "word": "that",
+        "start_offset": 124,
+        "end_offset": 128,
+        "start": 20.744,
+        "end": 20.864,
+        "score": -3.0079
+      },
+      {
+        "word": "would",
+        "start_offset": 129,
+        "end_offset": 134,
+        "start": 20.904,
+        "end": 21.024,
+        "score": -1.4833
+      },
+      {
+        "word": "be",
+        "start_offset": 135,
+        "end_offset": 137,
+        "start": 21.044,
+        "end": 21.084,
+        "score": -1.1804
+      },
+      {
+        "word": "precisely",
+        "start_offset": 138,
+        "end_offset": 147,
+        "start": 21.184,
+        "end": 21.724,
+        "score": -0.9702
+      },
+      {
+        "word": "out",
+        "start_offset": 152,
+        "end_offset": 155,
+        "start": 24.805,
+        "end": 24.905,
+        "score": -2.5342
+      },
+      {
+        "word": "of",
+        "start_offset": 156,
+        "end_offset": 158,
+        "start": 24.945,
+        "end": 25.005,
+        "score": -2.6272
+      },
+      {
+        "word": "the",
+        "start_offset": 159,
+        "end_offset": 162,
+        "start": 25.025,
+        "end": 25.105,
+        "score": -1.4225
+      },
+      {
+        "word": "orientation",
+        "start_offset": 163,
+        "end_offset": 174,
+        "start": 25.165,
+        "end": 25.825,
+        "score": -1.2653
+      },
+      {
+        "word": "of",
+        "start_offset": 175,
+        "end_offset": 177,
+        "start": 25.885,
+        "end": 25.945,
+        "score": -1.9656
+      },
+      {
+        "word": "one",
+        "start_offset": 178,
+        "end_offset": 181,
+        "start": 26.065,
+        "end": 26.205,
+        "score": -2.177
+      },
+      {
+        "word": "side",
+        "start_offset": 182,
+        "end_offset": 186,
+        "start": 26.305,
+        "end": 26.765,
+        "score": -2.3729
+      },
+      {
+        "word": "aimed",
+        "start_offset": 187,
+        "end_offset": 192,
+        "start": 27.645,
+        "end": 27.805,
+        "score": -2.6347
+      },
+      {
+        "word": "at",
+        "start_offset": 193,
+        "end_offset": 195,
+        "start": 27.825,
+        "end": 27.885,
+        "score": -3.5185
+      },
+      {
+        "word": "magnetic",
+        "start_offset": 196,
+        "end_offset": 204,
+        "start": 27.925,
+        "end": 28.366,
+        "score": -3.1599
+      },
+      {
+        "word": "north—",
+        "start_offset": 205,
+        "end_offset": 211,
+        "start": 28.406,
+        "end": 28.686,
+        "score": -3.4155
+      },
+      {
+        "word": "it",
+        "start_offset": 212,
+        "end_offset": 214,
+        "start": 28.826,
+        "end": 28.886,
+        "score": -5.1031
+      },
+      {
+        "word": "would",
+        "start_offset": 215,
+        "end_offset": 220,
+        "start": 28.906,
+        "end": 29.006,
+        "score": -7.4659
+      },
+      {
+        "word": "work",
+        "start_offset": 221,
+        "end_offset": 225,
+        "start": 29.026,
+        "end": 29.146,
+        "score": -5.1359
+      },
+      {
+        "word": "just",
+        "start_offset": 226,
+        "end_offset": 230,
+        "start": 29.186,
+        "end": 29.366,
+        "score": -2.955
+      },
+      {
+        "word": "as",
+        "start_offset": 231,
+        "end_offset": 233,
+        "start": 29.406,
+        "end": 29.486,
+        "score": -2.6117
+      },
+      {
+        "word": "well?",
+        "start_offset": 234,
+        "end_offset": 239,
+        "start": 29.526,
+        "end": 29.706,
+        "score": -2.4997
+      },
+      {
+        "word": "Is",
+        "start_offset": 240,
+        "end_offset": 242,
+        "start": 29.806,
+        "end": 29.846,
+        "score": -6.3427
+      },
+      {
+        "word": "that",
+        "start_offset": 243,
+        "end_offset": 247,
+        "start": 29.886,
+        "end": 30.026,
+        "score": -2.1572
+      },
+      {
+        "word": "what",
+        "start_offset": 248,
+        "end_offset": 252,
+        "start": 30.046,
+        "end": 30.146,
+        "score": -2.5972
+      },
+      {
+        "word": "you",
+        "start_offset": 253,
+        "end_offset": 256,
+        "start": 30.186,
+        "end": 30.246,
+        "score": -2.3153
+      },
+      {
+        "word": "are",
+        "start_offset": 257,
+        "end_offset": 260,
+        "start": 30.266,
+        "end": 30.326,
+        "score": -5.9848
+      },
+      {
+        "word": "saying?",
+        "start_offset": 261,
+        "end_offset": 268,
+        "start": 30.346,
+        "end": 30.586,
+        "score": -3.9116
+      },
+      {
+        "word": "I",
+        "start_offset": 269,
+        "end_offset": 270,
+        "start": 33.987,
+        "end": 34.007,
+        "score": -1.0244
+      },
+      {
+        "word": "am",
+        "start_offset": 271,
+        "end_offset": 273,
+        "start": 34.547,
+        "end": 34.907,
+        "score": -2.6005
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 274,
+        "end_offset": 277,
+        "start": 35.587,
+        "end": 35.747,
+        "score": -1.403
+      },
+      {
+        "word": "It",
+        "start_offset": 278,
+        "end_offset": 280,
+        "start": 37.907,
+        "end": 38.187,
+        "score": -0.7193
+      },
+      {
+        "word": "would",
+        "start_offset": 281,
+        "end_offset": 286,
+        "start": 39.008,
+        "end": 39.388,
+        "score": -0.7837
+      },
+      {
+        "word": "work",
+        "start_offset": 287,
+        "end_offset": 291,
+        "start": 40.208,
+        "end": 40.648,
+        "score": -0.7139
+      },
+      {
+        "word": "much",
+        "start_offset": 292,
+        "end_offset": 296,
+        "start": 42.648,
+        "end": 43.028,
+        "score": -0.7921
+      },
+      {
+        "word": "better",
+        "start_offset": 297,
+        "end_offset": 303,
+        "start": 43.609,
+        "end": 44.089,
+        "score": -0.697
+      },
+      {
+        "word": "than",
+        "start_offset": 304,
+        "end_offset": 308,
+        "start": 44.709,
+        "end": 45.069,
+        "score": -0.7303
+      },
+      {
+        "word": "if",
+        "start_offset": 309,
+        "end_offset": 311,
+        "start": 45.769,
+        "end": 46.009,
+        "score": -0.7183
+      },
+      {
+        "word": "the",
+        "start_offset": 312,
+        "end_offset": 315,
+        "start": 47.349,
+        "end": 47.489,
+        "score": -0.744
+      },
+      {
+        "word": "pyramid",
+        "start_offset": 316,
+        "end_offset": 323,
+        "start": 48.129,
+        "end": 49.67,
+        "score": -0.7609
+      },
+      {
+        "word": "shape",
+        "start_offset": 324,
+        "end_offset": 329,
+        "start": 50.27,
+        "end": 50.87,
+        "score": -1.1521
+      },
+      {
+        "word": "were",
+        "start_offset": 330,
+        "end_offset": 334,
+        "start": 52.51,
+        "end": 52.87,
+        "score": -1.4979
+      },
+      {
+        "word": "quite",
+        "start_offset": 335,
+        "end_offset": 340,
+        "start": 53.631,
+        "end": 54.251,
+        "score": -0.7631
+      },
+      {
+        "word": "unaligned.",
+        "start_offset": 341,
+        "end_offset": 351,
+        "start": 54.951,
+        "end": 56.571,
+        "score": -1.6574
+      },
+      {
+        "word": "It",
+        "start_offset": 352,
+        "end_offset": 354,
+        "start": 58.231,
+        "end": 58.471,
+        "score": -0.7056
+      },
+      {
+        "word": "would",
+        "start_offset": 355,
+        "end_offset": 360,
+        "start": 58.972,
+        "end": 59.312,
+        "score": -0.7569
+      },
+      {
+        "word": "not",
+        "start_offset": 361,
+        "end_offset": 364,
+        "start": 59.812,
+        "end": 60.212,
+        "score": -0.7005
+      },
+      {
+        "word": "work",
+        "start_offset": 365,
+        "end_offset": 369,
+        "start": 60.752,
+        "end": 61.192,
+        "score": -0.7094
+      },
+      {
+        "word": "quite",
+        "start_offset": 370,
+        "end_offset": 375,
+        "start": 62.232,
+        "end": 62.852,
+        "score": -0.9403
+      },
+      {
+        "word": "as",
+        "start_offset": 376,
+        "end_offset": 378,
+        "start": 63.592,
+        "end": 63.953,
+        "score": -0.7115
+      },
+      {
+        "word": "efficiently",
+        "start_offset": 379,
+        "end_offset": 390,
+        "start": 64.853,
+        "end": 66.493,
+        "score": -0.8692
+      },
+      {
+        "word": "as",
+        "start_offset": 391,
+        "end_offset": 393,
+        "start": 68.093,
+        "end": 68.473,
+        "score": -0.7251
+      },
+      {
+        "word": "the",
+        "start_offset": 394,
+        "end_offset": 397,
+        "start": 69.274,
+        "end": 69.414,
+        "score": -0.8195
+      },
+      {
+        "word": "aforementioned",
+        "start_offset": 398,
+        "end_offset": 412,
+        "start": 70.674,
+        "end": 72.934,
+        "score": -1.3163
+      },
+      {
+        "word": "configuration.",
+        "start_offset": 413,
+        "end_offset": 427,
+        "start": 73.955,
+        "end": 76.355,
+        "score": -0.7049
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "058-09.mp3",
+    "audio_duration": 77.0351,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

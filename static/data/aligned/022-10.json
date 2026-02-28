@@ -1,0 +1,204 @@
+{
+  "text": "Approximately how many were harvestable out of the total number? I am Ra. There were approximately one hundred fifty 150 entities harvestable.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Approximately how many were harvestable out of the total number?",
+        "start_offset": 0,
+        "end_offset": 64,
+        "start": 1.701,
+        "end": 12.71
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 65,
+        "end_offset": 73,
+        "start": 12.95,
+        "end": 14.451
+      },
+      {
+        "segment": "There were approximately one hundred fifty entities harvestable.",
+        "start_offset": 74,
+        "end_offset": 142,
+        "start": 16.773,
+        "end": 32.625
+      }
+    ],
+    "word": [
+      {
+        "word": "Approximately",
+        "start_offset": 0,
+        "end_offset": 13,
+        "start": 1.701,
+        "end": 2.302,
+        "score": -4.9282
+      },
+      {
+        "word": "how",
+        "start_offset": 14,
+        "end_offset": 17,
+        "start": 2.382,
+        "end": 2.482,
+        "score": -8.1756
+      },
+      {
+        "word": "many",
+        "start_offset": 18,
+        "end_offset": 22,
+        "start": 2.522,
+        "end": 2.702,
+        "score": -4.8166
+      },
+      {
+        "word": "were",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 2.782,
+        "end": 2.902,
+        "score": -5.0178
+      },
+      {
+        "word": "harvestable",
+        "start_offset": 28,
+        "end_offset": 39,
+        "start": 2.982,
+        "end": 3.683,
+        "score": -5.9331
+      },
+      {
+        "word": "out",
+        "start_offset": 40,
+        "end_offset": 43,
+        "start": 4.143,
+        "end": 4.283,
+        "score": -9.346
+      },
+      {
+        "word": "of",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 4.343,
+        "end": 4.804,
+        "score": -9.7693
+      },
+      {
+        "word": "the",
+        "start_offset": 47,
+        "end_offset": 50,
+        "start": 4.944,
+        "end": 5.004,
+        "score": -6.5926
+      },
+      {
+        "word": "total",
+        "start_offset": 51,
+        "end_offset": 56,
+        "start": 5.084,
+        "end": 5.364,
+        "score": -7.1919
+      },
+      {
+        "word": "number?",
+        "start_offset": 57,
+        "end_offset": 64,
+        "start": 5.384,
+        "end": 12.71,
+        "score": -7.927
+      },
+      {
+        "word": "I",
+        "start_offset": 65,
+        "end_offset": 66,
+        "start": 12.95,
+        "end": 12.97,
+        "score": -1.6561
+      },
+      {
+        "word": "am",
+        "start_offset": 67,
+        "end_offset": 69,
+        "start": 13.45,
+        "end": 13.79,
+        "score": -3.2442
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 14.291,
+        "end": 14.451,
+        "score": -1.8174
+      },
+      {
+        "word": "There",
+        "start_offset": 74,
+        "end_offset": 79,
+        "start": 16.773,
+        "end": 17.133,
+        "score": -0.8783
+      },
+      {
+        "word": "were",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 17.853,
+        "end": 18.214,
+        "score": -0.8598
+      },
+      {
+        "word": "approximately",
+        "start_offset": 85,
+        "end_offset": 98,
+        "start": 19.935,
+        "end": 21.436,
+        "score": -0.757
+      },
+      {
+        "word": "one",
+        "start_offset": 99,
+        "end_offset": 102,
+        "start": 23.157,
+        "end": 23.458,
+        "score": -4.711
+      },
+      {
+        "word": "hundred",
+        "start_offset": 103,
+        "end_offset": 110,
+        "start": 24.218,
+        "end": 24.939,
+        "score": -6.4648
+      },
+      {
+        "word": "fifty",
+        "start_offset": 111,
+        "end_offset": 116,
+        "start": 26.46,
+        "end": 27.16,
+        "score": -4.5151
+      },
+      {
+        "word": "entities",
+        "start_offset": 121,
+        "end_offset": 129,
+        "start": 28.902,
+        "end": 29.762,
+        "score": -0.8905
+      },
+      {
+        "word": "harvestable.",
+        "start_offset": 130,
+        "end_offset": 142,
+        "start": 31.144,
+        "end": 32.625,
+        "score": -1.3713
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "022-10.mp3",
+    "audio_duration": 33.0449,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

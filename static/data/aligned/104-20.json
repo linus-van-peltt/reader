@@ -1,0 +1,220 @@
+{
+  "text": "Forty to six— what, each day, once a day, or something like that? I am Ra. Please expel breath over this instrument's breast.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Forty to six— what, each day, once a day, or something like that?",
+        "start_offset": 0,
+        "end_offset": 65,
+        "start": 1.401,
+        "end": 4.382
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 66,
+        "end_offset": 74,
+        "start": 9.083,
+        "end": 10.964
+      },
+      {
+        "segment": "Please expel breath over this instrument's breast.",
+        "start_offset": 75,
+        "end_offset": 125,
+        "start": 13.665,
+        "end": 23.869
+      }
+    ],
+    "word": [
+      {
+        "word": "Forty",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 1.401,
+        "end": 1.681,
+        "score": -3.4084
+      },
+      {
+        "word": "to",
+        "start_offset": 6,
+        "end_offset": 8,
+        "start": 1.741,
+        "end": 1.821,
+        "score": -4.3741
+      },
+      {
+        "word": "six—",
+        "start_offset": 9,
+        "end_offset": 13,
+        "start": 1.881,
+        "end": 2.041,
+        "score": -4.2546
+      },
+      {
+        "word": "what,",
+        "start_offset": 14,
+        "end_offset": 19,
+        "start": 2.121,
+        "end": 2.281,
+        "score": -2.235
+      },
+      {
+        "word": "each",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 2.361,
+        "end": 2.521,
+        "score": -1.0551
+      },
+      {
+        "word": "day,",
+        "start_offset": 25,
+        "end_offset": 29,
+        "start": 2.621,
+        "end": 2.801,
+        "score": -0.9197
+      },
+      {
+        "word": "once",
+        "start_offset": 30,
+        "end_offset": 34,
+        "start": 2.981,
+        "end": 3.161,
+        "score": -2.0132
+      },
+      {
+        "word": "a",
+        "start_offset": 35,
+        "end_offset": 36,
+        "start": 3.181,
+        "end": 3.201,
+        "score": -1.5521
+      },
+      {
+        "word": "day,",
+        "start_offset": 37,
+        "end_offset": 41,
+        "start": 3.261,
+        "end": 3.501,
+        "score": -1.0359
+      },
+      {
+        "word": "or",
+        "start_offset": 42,
+        "end_offset": 44,
+        "start": 3.581,
+        "end": 3.641,
+        "score": -3.53
+      },
+      {
+        "word": "something",
+        "start_offset": 45,
+        "end_offset": 54,
+        "start": 3.681,
+        "end": 4.002,
+        "score": -2.7752
+      },
+      {
+        "word": "like",
+        "start_offset": 55,
+        "end_offset": 59,
+        "start": 4.022,
+        "end": 4.202,
+        "score": -3.9817
+      },
+      {
+        "word": "that?",
+        "start_offset": 60,
+        "end_offset": 65,
+        "start": 4.222,
+        "end": 4.382,
+        "score": -4.4256
+      },
+      {
+        "word": "I",
+        "start_offset": 66,
+        "end_offset": 67,
+        "start": 9.083,
+        "end": 9.103,
+        "score": -2.649
+      },
+      {
+        "word": "am",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 9.884,
+        "end": 10.184,
+        "score": -1.957
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 71,
+        "end_offset": 74,
+        "start": 10.824,
+        "end": 10.964,
+        "score": -3.3687
+      },
+      {
+        "word": "Please",
+        "start_offset": 75,
+        "end_offset": 81,
+        "start": 13.665,
+        "end": 14.505,
+        "score": -1.3493
+      },
+      {
+        "word": "expel",
+        "start_offset": 82,
+        "end_offset": 87,
+        "start": 15.266,
+        "end": 16.206,
+        "score": -1.4414
+      },
+      {
+        "word": "breath",
+        "start_offset": 88,
+        "end_offset": 94,
+        "start": 16.866,
+        "end": 17.467,
+        "score": -2.0587
+      },
+      {
+        "word": "over",
+        "start_offset": 95,
+        "end_offset": 99,
+        "start": 18.607,
+        "end": 19.027,
+        "score": -0.7446
+      },
+      {
+        "word": "this",
+        "start_offset": 100,
+        "end_offset": 104,
+        "start": 19.547,
+        "end": 19.927,
+        "score": -4.6534
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 105,
+        "end_offset": 117,
+        "start": 20.268,
+        "end": 22.148,
+        "score": -1.9278
+      },
+      {
+        "word": "breast.",
+        "start_offset": 118,
+        "end_offset": 125,
+        "start": 23.149,
+        "end": 23.869,
+        "score": -1.7147
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "104-20.mp3",
+    "audio_duration": 38.0343,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "text": "Then are these entities visible to us? Could I see one of them? Would he walk upon our surface? I am Ra. We have discussed this. These entities are in dual bodies at this time.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then are these entities visible to us?",
+        "start_offset": 0,
+        "end_offset": 38,
+        "start": 2.261,
+        "end": 5.863
+      },
+      {
+        "segment": "Could I see one of them?",
+        "start_offset": 39,
+        "end_offset": 63,
+        "start": 5.923,
+        "end": 6.944
+      },
+      {
+        "segment": "Would he walk upon our surface?",
+        "start_offset": 64,
+        "end_offset": 95,
+        "start": 7.444,
+        "end": 9.105
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 96,
+        "end_offset": 104,
+        "start": 11.586,
+        "end": 13.547
+      },
+      {
+        "segment": "We have discussed this.",
+        "start_offset": 105,
+        "end_offset": 128,
+        "start": 15.228,
+        "end": 19.85
+      },
+      {
+        "segment": "These entities are in dual bodies at this time.",
+        "start_offset": 129,
+        "end_offset": 176,
+        "start": 21.351,
+        "end": 33.477
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.261,
+        "end": 2.581,
+        "score": -5.4446
+      },
+      {
+        "word": "are",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 3.942,
+        "end": 4.062,
+        "score": -2.6398
+      },
+      {
+        "word": "these",
+        "start_offset": 9,
+        "end_offset": 14,
+        "start": 4.102,
+        "end": 4.382,
+        "score": -2.6868
+      },
+      {
+        "word": "entities",
+        "start_offset": 15,
+        "end_offset": 23,
+        "start": 4.502,
+        "end": 4.923,
+        "score": -2.4765
+      },
+      {
+        "word": "visible",
+        "start_offset": 24,
+        "end_offset": 31,
+        "start": 5.023,
+        "end": 5.443,
+        "score": -2.5573
+      },
+      {
+        "word": "to",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 5.503,
+        "end": 5.563,
+        "score": -2.5859
+      },
+      {
+        "word": "us?",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 5.723,
+        "end": 5.863,
+        "score": -4.1156
+      },
+      {
+        "word": "Could",
+        "start_offset": 39,
+        "end_offset": 44,
+        "start": 5.923,
+        "end": 6.043,
+        "score": -6.9285
+      },
+      {
+        "word": "I",
+        "start_offset": 45,
+        "end_offset": 46,
+        "start": 6.163,
+        "end": 6.183,
+        "score": -6.2383
+      },
+      {
+        "word": "see",
+        "start_offset": 47,
+        "end_offset": 50,
+        "start": 6.283,
+        "end": 6.463,
+        "score": -3.8059
+      },
+      {
+        "word": "one",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 6.603,
+        "end": 6.703,
+        "score": -4.1663
+      },
+      {
+        "word": "of",
+        "start_offset": 55,
+        "end_offset": 57,
+        "start": 6.723,
+        "end": 6.804,
+        "score": -5.2791
+      },
+      {
+        "word": "them?",
+        "start_offset": 58,
+        "end_offset": 63,
+        "start": 6.824,
+        "end": 6.944,
+        "score": -4.8365
+      },
+      {
+        "word": "Would",
+        "start_offset": 64,
+        "end_offset": 69,
+        "start": 7.444,
+        "end": 7.564,
+        "score": -5.695
+      },
+      {
+        "word": "he",
+        "start_offset": 70,
+        "end_offset": 72,
+        "start": 7.584,
+        "end": 7.624,
+        "score": -6.9036
+      },
+      {
+        "word": "walk",
+        "start_offset": 73,
+        "end_offset": 77,
+        "start": 7.684,
+        "end": 7.904,
+        "score": -3.2863
+      },
+      {
+        "word": "upon",
+        "start_offset": 78,
+        "end_offset": 82,
+        "start": 7.924,
+        "end": 8.264,
+        "score": -4.8416
+      },
+      {
+        "word": "our",
+        "start_offset": 83,
+        "end_offset": 86,
+        "start": 8.444,
+        "end": 8.544,
+        "score": -4.3067
+      },
+      {
+        "word": "surface?",
+        "start_offset": 87,
+        "end_offset": 95,
+        "start": 8.624,
+        "end": 9.105,
+        "score": -3.3872
+      },
+      {
+        "word": "I",
+        "start_offset": 96,
+        "end_offset": 97,
+        "start": 11.586,
+        "end": 11.606,
+        "score": -0.9506
+      },
+      {
+        "word": "am",
+        "start_offset": 98,
+        "end_offset": 100,
+        "start": 12.446,
+        "end": 12.747,
+        "score": -2.1511
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 101,
+        "end_offset": 104,
+        "start": 13.407,
+        "end": 13.547,
+        "score": -1.1623
+      },
+      {
+        "word": "We",
+        "start_offset": 105,
+        "end_offset": 107,
+        "start": 15.228,
+        "end": 15.388,
+        "score": -0.7141
+      },
+      {
+        "word": "have",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 16.308,
+        "end": 16.789,
+        "score": -0.7093
+      },
+      {
+        "word": "discussed",
+        "start_offset": 113,
+        "end_offset": 122,
+        "start": 17.829,
+        "end": 18.81,
+        "score": -0.804
+      },
+      {
+        "word": "this.",
+        "start_offset": 123,
+        "end_offset": 128,
+        "start": 19.43,
+        "end": 19.85,
+        "score": -0.7897
+      },
+      {
+        "word": "These",
+        "start_offset": 129,
+        "end_offset": 134,
+        "start": 21.351,
+        "end": 21.911,
+        "score": -0.9892
+      },
+      {
+        "word": "entities",
+        "start_offset": 135,
+        "end_offset": 143,
+        "start": 22.732,
+        "end": 23.812,
+        "score": -1.2084
+      },
+      {
+        "word": "are",
+        "start_offset": 144,
+        "end_offset": 147,
+        "start": 24.993,
+        "end": 25.333,
+        "score": -1.0199
+      },
+      {
+        "word": "in",
+        "start_offset": 148,
+        "end_offset": 150,
+        "start": 26.274,
+        "end": 26.534,
+        "score": -0.7822
+      },
+      {
+        "word": "dual",
+        "start_offset": 151,
+        "end_offset": 155,
+        "start": 28.054,
+        "end": 28.575,
+        "score": -0.8166
+      },
+      {
+        "word": "bodies",
+        "start_offset": 156,
+        "end_offset": 162,
+        "start": 29.555,
+        "end": 30.236,
+        "score": -0.7491
+      },
+      {
+        "word": "at",
+        "start_offset": 163,
+        "end_offset": 165,
+        "start": 31.296,
+        "end": 31.496,
+        "score": -0.7097
+      },
+      {
+        "word": "this",
+        "start_offset": 166,
+        "end_offset": 170,
+        "start": 31.976,
+        "end": 32.357,
+        "score": -0.7472
+      },
+      {
+        "word": "time.",
+        "start_offset": 171,
+        "end_offset": 176,
+        "start": 32.897,
+        "end": 33.477,
+        "score": -0.7159
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "063-23.mp3",
+    "audio_duration": 34.0376,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "text": "An analogy to that would be a student entering college and signing up for more courses than he could possibly assimilate in the time. That's correct. I am right. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "An analogy to that would be a student entering college and signing up for more courses than he could possibly assimilate in the time.",
+        "start_offset": 18,
+        "end_offset": 151,
+        "start": 1.44,
+        "end": 12.08
+      },
+      {
+        "segment": "That's correct.",
+        "start_offset": 162,
+        "end_offset": 178,
+        "start": 12.96,
+        "end": 14.24
+      },
+      {
+        "segment": "I am right.",
+        "start_offset": 193,
+        "end_offset": 220,
+        "start": 15.44,
+        "end": 17.6
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 235,
+        "end_offset": 274,
+        "start": 18.8,
+        "end": 21.92
+      }
+    ],
+    "word": [
+      {
+        "word": "An",
+        "start_offset": 18,
+        "end_offset": 21,
+        "start": 1.44,
+        "end": 1.68
+      },
+      {
+        "word": "analogy",
+        "start_offset": 21,
+        "end_offset": 28,
+        "start": 1.68,
+        "end": 2.24
+      },
+      {
+        "word": "to",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 2.4,
+        "end": 2.64
+      },
+      {
+        "word": "that",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 2.64,
+        "end": 2.88
+      },
+      {
+        "word": "would",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 2.88,
+        "end": 3.12
+      },
+      {
+        "word": "be",
+        "start_offset": 39,
+        "end_offset": 41,
+        "start": 3.12,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "a",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 3.2800000000000002,
+        "end": 3.52
+      },
+      {
+        "word": "student",
+        "start_offset": 44,
+        "end_offset": 49,
+        "start": 3.52,
+        "end": 3.92
+      },
+      {
+        "word": "entering",
+        "start_offset": 49,
+        "end_offset": 53,
+        "start": 3.92,
+        "end": 4.24
+      },
+      {
+        "word": "college",
+        "start_offset": 56,
+        "end_offset": 61,
+        "start": 4.48,
+        "end": 4.88
+      },
+      {
+        "word": "and",
+        "start_offset": 61,
+        "end_offset": 64,
+        "start": 4.88,
+        "end": 5.12
+      },
+      {
+        "word": "signing",
+        "start_offset": 64,
+        "end_offset": 69,
+        "start": 5.12,
+        "end": 5.5200000000000005
+      },
+      {
+        "word": "up",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 5.5200000000000005,
+        "end": 5.76
+      },
+      {
+        "word": "for",
+        "start_offset": 72,
+        "end_offset": 75,
+        "start": 5.76,
+        "end": 6.0
+      },
+      {
+        "word": "more",
+        "start_offset": 75,
+        "end_offset": 77,
+        "start": 6.0,
+        "end": 6.16
+      },
+      {
+        "word": "courses",
+        "start_offset": 77,
+        "end_offset": 84,
+        "start": 6.16,
+        "end": 6.72
+      },
+      {
+        "word": "than",
+        "start_offset": 84,
+        "end_offset": 88,
+        "start": 6.72,
+        "end": 7.04
+      },
+      {
+        "word": "he",
+        "start_offset": 88,
+        "end_offset": 92,
+        "start": 7.04,
+        "end": 7.36
+      },
+      {
+        "word": "could",
+        "start_offset": 92,
+        "end_offset": 96,
+        "start": 7.36,
+        "end": 7.68
+      },
+      {
+        "word": "possibly",
+        "start_offset": 112,
+        "end_offset": 124,
+        "start": 8.96,
+        "end": 9.92
+      },
+      {
+        "word": "assimilate",
+        "start_offset": 128,
+        "end_offset": 141,
+        "start": 10.24,
+        "end": 11.28
+      },
+      {
+        "word": "in",
+        "start_offset": 141,
+        "end_offset": 144,
+        "start": 11.28,
+        "end": 11.52
+      },
+      {
+        "word": "the",
+        "start_offset": 144,
+        "end_offset": 147,
+        "start": 11.52,
+        "end": 11.76
+      },
+      {
+        "word": "time.",
+        "start_offset": 147,
+        "end_offset": 151,
+        "start": 11.76,
+        "end": 12.08
+      },
+      {
+        "word": "That's",
+        "start_offset": 162,
+        "end_offset": 168,
+        "start": 12.96,
+        "end": 13.44
+      },
+      {
+        "word": "correct.",
+        "start_offset": 168,
+        "end_offset": 178,
+        "start": 13.44,
+        "end": 14.24
+      },
+      {
+        "word": "I",
+        "start_offset": 193,
+        "end_offset": 197,
+        "start": 15.44,
+        "end": 15.76
+      },
+      {
+        "word": "am",
+        "start_offset": 204,
+        "end_offset": 207,
+        "start": 16.32,
+        "end": 16.56
+      },
+      {
+        "word": "right.",
+        "start_offset": 216,
+        "end_offset": 220,
+        "start": 17.28,
+        "end": 17.6
+      },
+      {
+        "word": "This",
+        "start_offset": 235,
+        "end_offset": 239,
+        "start": 18.8,
+        "end": 19.12
+      },
+      {
+        "word": "is",
+        "start_offset": 247,
+        "end_offset": 251,
+        "start": 19.76,
+        "end": 20.080000000000002
+      },
+      {
+        "word": "correct.",
+        "start_offset": 263,
+        "end_offset": 274,
+        "start": 21.04,
+        "end": 21.92
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "048-09.mp3",
+    "audio_duration": 24.03,
+    "transcription_time": 0.09,
+    "rtfx": 271.46,
+    "timestamp": "2026-01-06T21:51:44.043745+00:00"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "text": "Who makes this request? I am Ra. Your query is unclear. Please restate.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Who makes this request?",
+        "start_offset": 0,
+        "end_offset": 23,
+        "start": 1.281,
+        "end": 9.628
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 24,
+        "end_offset": 32,
+        "start": 9.648,
+        "end": 9.868
+      },
+      {
+        "segment": "Your query is unclear.",
+        "start_offset": 33,
+        "end_offset": 55,
+        "start": 11.229,
+        "end": 15.552
+      },
+      {
+        "segment": "Please restate.",
+        "start_offset": 56,
+        "end_offset": 71,
+        "start": 16.713,
+        "end": 19.075
+      }
+    ],
+    "word": [
+      {
+        "word": "Who",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 1.281,
+        "end": 1.361,
+        "score": -6.5103
+      },
+      {
+        "word": "makes",
+        "start_offset": 4,
+        "end_offset": 9,
+        "start": 1.401,
+        "end": 2.422,
+        "score": -4.799
+      },
+      {
+        "word": "this",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 7.786,
+        "end": 8.166,
+        "score": -5.5584
+      },
+      {
+        "word": "request?",
+        "start_offset": 15,
+        "end_offset": 23,
+        "start": 8.947,
+        "end": 9.628,
+        "score": -5.9441
+      },
+      {
+        "word": "I",
+        "start_offset": 24,
+        "end_offset": 25,
+        "start": 9.648,
+        "end": 9.668,
+        "score": -6.9502
+      },
+      {
+        "word": "am",
+        "start_offset": 26,
+        "end_offset": 28,
+        "start": 9.688,
+        "end": 9.748,
+        "score": -6.0758
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 29,
+        "end_offset": 32,
+        "start": 9.788,
+        "end": 9.868,
+        "score": -3.8515
+      },
+      {
+        "word": "Your",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 11.229,
+        "end": 11.549,
+        "score": -3.2603
+      },
+      {
+        "word": "query",
+        "start_offset": 38,
+        "end_offset": 43,
+        "start": 11.929,
+        "end": 12.49,
+        "score": -2.6312
+      },
+      {
+        "word": "is",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 13.471,
+        "end": 13.771,
+        "score": -1.0769
+      },
+      {
+        "word": "unclear.",
+        "start_offset": 47,
+        "end_offset": 55,
+        "start": 14.492,
+        "end": 15.552,
+        "score": -2.4765
+      },
+      {
+        "word": "Please",
+        "start_offset": 56,
+        "end_offset": 62,
+        "start": 16.713,
+        "end": 17.394,
+        "score": -2.4841
+      },
+      {
+        "word": "restate.",
+        "start_offset": 63,
+        "end_offset": 71,
+        "start": 17.954,
+        "end": 19.075,
+        "score": -1.5932
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "012-04.mp3",
+    "audio_duration": 20.0359,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

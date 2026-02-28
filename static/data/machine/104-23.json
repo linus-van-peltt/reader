@@ -1,0 +1,184 @@
+{
+  "text": "What is the name of the drops? Hi M. We have a difficulty, therefore we shall refrain from answering this query.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What is the name of the drops?",
+        "start_offset": 12,
+        "end_offset": 38,
+        "start": 0.96,
+        "end": 3.04
+      },
+      {
+        "segment": "Hi M.",
+        "start_offset": 82,
+        "end_offset": 100,
+        "start": 6.5600000000000005,
+        "end": 8.0
+      },
+      {
+        "segment": "We have a difficulty, therefore we shall refrain from answering this query.",
+        "start_offset": 169,
+        "end_offset": 512,
+        "start": 13.52,
+        "end": 40.96
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 12,
+        "end_offset": 19,
+        "start": 0.96,
+        "end": 1.52
+      },
+      {
+        "word": "is",
+        "start_offset": 19,
+        "end_offset": 22,
+        "start": 1.52,
+        "end": 1.76
+      },
+      {
+        "word": "the",
+        "start_offset": 22,
+        "end_offset": 25,
+        "start": 1.76,
+        "end": 2.0
+      },
+      {
+        "word": "name",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 2.0,
+        "end": 2.24
+      },
+      {
+        "word": "of",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 2.24,
+        "end": 2.4
+      },
+      {
+        "word": "the",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 2.4,
+        "end": 2.64
+      },
+      {
+        "word": "drops?",
+        "start_offset": 33,
+        "end_offset": 38,
+        "start": 2.64,
+        "end": 3.04
+      },
+      {
+        "word": "Hi",
+        "start_offset": 82,
+        "end_offset": 86,
+        "start": 6.5600000000000005,
+        "end": 6.88
+      },
+      {
+        "word": "M.",
+        "start_offset": 98,
+        "end_offset": 100,
+        "start": 7.84,
+        "end": 8.0
+      },
+      {
+        "word": "We",
+        "start_offset": 169,
+        "end_offset": 173,
+        "start": 13.52,
+        "end": 13.84
+      },
+      {
+        "word": "have",
+        "start_offset": 193,
+        "end_offset": 197,
+        "start": 15.44,
+        "end": 15.76
+      },
+      {
+        "word": "a",
+        "start_offset": 225,
+        "end_offset": 229,
+        "start": 18.0,
+        "end": 18.32
+      },
+      {
+        "word": "difficulty,",
+        "start_offset": 241,
+        "end_offset": 257,
+        "start": 19.28,
+        "end": 20.56
+      },
+      {
+        "word": "therefore",
+        "start_offset": 306,
+        "end_offset": 322,
+        "start": 24.48,
+        "end": 25.76
+      },
+      {
+        "word": "we",
+        "start_offset": 347,
+        "end_offset": 351,
+        "start": 27.76,
+        "end": 28.080000000000002
+      },
+      {
+        "word": "shall",
+        "start_offset": 359,
+        "end_offset": 367,
+        "start": 28.72,
+        "end": 29.36
+      },
+      {
+        "word": "refrain",
+        "start_offset": 383,
+        "end_offset": 398,
+        "start": 30.64,
+        "end": 31.84
+      },
+      {
+        "word": "from",
+        "start_offset": 422,
+        "end_offset": 426,
+        "start": 33.76,
+        "end": 34.08
+      },
+      {
+        "word": "answering",
+        "start_offset": 458,
+        "end_offset": 472,
+        "start": 36.64,
+        "end": 37.76
+      },
+      {
+        "word": "this",
+        "start_offset": 484,
+        "end_offset": 488,
+        "start": 38.72,
+        "end": 39.04
+      },
+      {
+        "word": "query.",
+        "start_offset": 504,
+        "end_offset": 512,
+        "start": 40.32,
+        "end": 40.96
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "104-23.mp3",
+    "audio_duration": 42.03,
+    "transcription_time": 0.11,
+    "rtfx": 398.36,
+    "timestamp": "2026-01-06T22:00:54.003631+00:00"
+  }
+}

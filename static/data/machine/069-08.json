@@ -1,0 +1,219 @@
+{
+  "text": "Would this be a function of the balancing action under the first distortion? I am Ra. Your query is somewhat opaque. Please restate for specificity.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would this be a function of the balancing action under the first distortion?",
+        "start_offset": 28,
+        "end_offset": 85,
+        "start": 2.24,
+        "end": 6.8
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 180,
+        "end_offset": 211,
+        "start": 14.4,
+        "end": 16.88
+      },
+      {
+        "segment": "Your query is somewhat opaque.",
+        "start_offset": 236,
+        "end_offset": 349,
+        "start": 18.88,
+        "end": 27.92
+      },
+      {
+        "segment": "Please restate for specificity.",
+        "start_offset": 384,
+        "end_offset": 460,
+        "start": 30.72,
+        "end": 36.800000000000004
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 28,
+        "end_offset": 35,
+        "start": 2.24,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "this",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 2.8000000000000003,
+        "end": 3.04
+      },
+      {
+        "word": "be",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 3.04,
+        "end": 3.2
+      },
+      {
+        "word": "a",
+        "start_offset": 40,
+        "end_offset": 43,
+        "start": 3.2,
+        "end": 3.44
+      },
+      {
+        "word": "function",
+        "start_offset": 43,
+        "end_offset": 47,
+        "start": 3.44,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "of",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 3.7600000000000002,
+        "end": 3.92
+      },
+      {
+        "word": "the",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 3.92,
+        "end": 4.16
+      },
+      {
+        "word": "balancing",
+        "start_offset": 52,
+        "end_offset": 60,
+        "start": 4.16,
+        "end": 4.8
+      },
+      {
+        "word": "action",
+        "start_offset": 60,
+        "end_offset": 65,
+        "start": 4.8,
+        "end": 5.2
+      },
+      {
+        "word": "under",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 5.2,
+        "end": 5.44
+      },
+      {
+        "word": "the",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 5.44,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "first",
+        "start_offset": 70,
+        "end_offset": 74,
+        "start": 5.6000000000000005,
+        "end": 5.92
+      },
+      {
+        "word": "distortion?",
+        "start_offset": 74,
+        "end_offset": 85,
+        "start": 5.92,
+        "end": 6.8
+      },
+      {
+        "word": "I",
+        "start_offset": 180,
+        "end_offset": 184,
+        "start": 14.4,
+        "end": 14.72
+      },
+      {
+        "word": "am",
+        "start_offset": 196,
+        "end_offset": 200,
+        "start": 15.68,
+        "end": 16.0
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 208,
+        "end_offset": 211,
+        "start": 16.64,
+        "end": 16.88
+      },
+      {
+        "word": "Your",
+        "start_offset": 236,
+        "end_offset": 244,
+        "start": 18.88,
+        "end": 19.52
+      },
+      {
+        "word": "query",
+        "start_offset": 256,
+        "end_offset": 268,
+        "start": 20.48,
+        "end": 21.44
+      },
+      {
+        "word": "is",
+        "start_offset": 280,
+        "end_offset": 284,
+        "start": 22.400000000000002,
+        "end": 22.72
+      },
+      {
+        "word": "somewhat",
+        "start_offset": 308,
+        "end_offset": 323,
+        "start": 24.64,
+        "end": 25.84
+      },
+      {
+        "word": "opaque.",
+        "start_offset": 338,
+        "end_offset": 349,
+        "start": 27.04,
+        "end": 27.92
+      },
+      {
+        "word": "Please",
+        "start_offset": 384,
+        "end_offset": 396,
+        "start": 30.72,
+        "end": 31.68
+      },
+      {
+        "word": "restate",
+        "start_offset": 402,
+        "end_offset": 414,
+        "start": 32.160000000000004,
+        "end": 33.12
+      },
+      {
+        "word": "for",
+        "start_offset": 428,
+        "end_offset": 432,
+        "start": 34.24,
+        "end": 34.56
+      },
+      {
+        "word": "specificity.",
+        "start_offset": 440,
+        "end_offset": 460,
+        "start": 35.2,
+        "end": 36.800000000000004
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "069-08.mp3",
+    "audio_duration": 37.04,
+    "transcription_time": 0.1,
+    "rtfx": 369.88,
+    "timestamp": "2026-01-06T21:54:48.437960+00:00"
+  }
+}

@@ -1,0 +1,570 @@
+{
+  "text": "It is not necessary that I include the information that you just gave in the book to accomplish my purpose. In order to save your polarity, shall I say, I can keep that as private material if you wish. Do you wish for me to keep it unpublished? I am Ra. That which we offer you is freely given and subject only to your discretion.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "It is not necessary that I include the information that you just gave in the book to accomplish my purpose.",
+        "start_offset": 0,
+        "end_offset": 107,
+        "start": 2.56,
+        "end": 8.241
+      },
+      {
+        "segment": "In order to save your polarity, shall I say, I can keep that as private material if you wish.",
+        "start_offset": 108,
+        "end_offset": 201,
+        "start": 8.841,
+        "end": 19.443
+      },
+      {
+        "segment": "Do you wish for me to keep it unpublished?",
+        "start_offset": 202,
+        "end_offset": 244,
+        "start": 22.864,
+        "end": 26.984
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 245,
+        "end_offset": 253,
+        "start": 31.665,
+        "end": 34.165
+      },
+      {
+        "segment": "That which we offer you is freely given and subject only to your discretion.",
+        "start_offset": 254,
+        "end_offset": 330,
+        "start": 37.986,
+        "end": 59.629
+      }
+    ],
+    "word": [
+      {
+        "word": "It",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.56,
+        "end": 2.62,
+        "score": -0.712
+      },
+      {
+        "word": "is",
+        "start_offset": 3,
+        "end_offset": 5,
+        "start": 2.7,
+        "end": 2.78,
+        "score": -0.7275
+      },
+      {
+        "word": "not",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 2.84,
+        "end": 3.0,
+        "score": -0.7023
+      },
+      {
+        "word": "necessary",
+        "start_offset": 10,
+        "end_offset": 19,
+        "start": 3.08,
+        "end": 3.641,
+        "score": -0.6955
+      },
+      {
+        "word": "that",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 3.681,
+        "end": 3.821,
+        "score": -0.7255
+      },
+      {
+        "word": "I",
+        "start_offset": 25,
+        "end_offset": 26,
+        "start": 3.941,
+        "end": 3.961,
+        "score": -0.7363
+      },
+      {
+        "word": "include",
+        "start_offset": 27,
+        "end_offset": 34,
+        "start": 4.001,
+        "end": 4.361,
+        "score": -0.713
+      },
+      {
+        "word": "the",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 4.381,
+        "end": 4.461,
+        "score": -0.8203
+      },
+      {
+        "word": "information",
+        "start_offset": 39,
+        "end_offset": 50,
+        "start": 4.521,
+        "end": 5.141,
+        "score": -0.6942
+      },
+      {
+        "word": "that",
+        "start_offset": 51,
+        "end_offset": 55,
+        "start": 5.181,
+        "end": 5.301,
+        "score": -3.7842
+      },
+      {
+        "word": "you",
+        "start_offset": 56,
+        "end_offset": 59,
+        "start": 5.361,
+        "end": 5.421,
+        "score": -0.7567
+      },
+      {
+        "word": "just",
+        "start_offset": 60,
+        "end_offset": 64,
+        "start": 5.501,
+        "end": 5.701,
+        "score": -0.7009
+      },
+      {
+        "word": "gave",
+        "start_offset": 65,
+        "end_offset": 69,
+        "start": 5.781,
+        "end": 6.081,
+        "score": -0.7098
+      },
+      {
+        "word": "in",
+        "start_offset": 70,
+        "end_offset": 72,
+        "start": 6.201,
+        "end": 6.261,
+        "score": -0.7051
+      },
+      {
+        "word": "the",
+        "start_offset": 73,
+        "end_offset": 76,
+        "start": 6.301,
+        "end": 6.401,
+        "score": -0.8046
+      },
+      {
+        "word": "book",
+        "start_offset": 77,
+        "end_offset": 81,
+        "start": 6.461,
+        "end": 6.681,
+        "score": -1.3174
+      },
+      {
+        "word": "to",
+        "start_offset": 82,
+        "end_offset": 84,
+        "start": 6.741,
+        "end": 6.801,
+        "score": -0.7038
+      },
+      {
+        "word": "accomplish",
+        "start_offset": 85,
+        "end_offset": 95,
+        "start": 6.901,
+        "end": 7.401,
+        "score": -0.703
+      },
+      {
+        "word": "my",
+        "start_offset": 96,
+        "end_offset": 98,
+        "start": 7.501,
+        "end": 7.661,
+        "score": -0.7078
+      },
+      {
+        "word": "purpose.",
+        "start_offset": 99,
+        "end_offset": 107,
+        "start": 7.761,
+        "end": 8.241,
+        "score": -0.7024
+      },
+      {
+        "word": "In",
+        "start_offset": 108,
+        "end_offset": 110,
+        "start": 8.841,
+        "end": 8.941,
+        "score": -0.7272
+      },
+      {
+        "word": "order",
+        "start_offset": 111,
+        "end_offset": 116,
+        "start": 9.141,
+        "end": 9.381,
+        "score": -0.7215
+      },
+      {
+        "word": "to",
+        "start_offset": 117,
+        "end_offset": 119,
+        "start": 9.501,
+        "end": 9.602,
+        "score": -1.0294
+      },
+      {
+        "word": "save",
+        "start_offset": 120,
+        "end_offset": 124,
+        "start": 10.742,
+        "end": 11.162,
+        "score": -0.7413
+      },
+      {
+        "word": "your",
+        "start_offset": 125,
+        "end_offset": 129,
+        "start": 11.542,
+        "end": 11.682,
+        "score": -0.756
+      },
+      {
+        "word": "polarity,",
+        "start_offset": 130,
+        "end_offset": 139,
+        "start": 11.742,
+        "end": 12.262,
+        "score": -0.8553
+      },
+      {
+        "word": "shall",
+        "start_offset": 140,
+        "end_offset": 145,
+        "start": 12.382,
+        "end": 12.542,
+        "score": -1.3941
+      },
+      {
+        "word": "I",
+        "start_offset": 146,
+        "end_offset": 147,
+        "start": 12.642,
+        "end": 12.662,
+        "score": -4.5626
+      },
+      {
+        "word": "say,",
+        "start_offset": 148,
+        "end_offset": 152,
+        "start": 12.822,
+        "end": 13.022,
+        "score": -0.767
+      },
+      {
+        "word": "I",
+        "start_offset": 153,
+        "end_offset": 154,
+        "start": 13.942,
+        "end": 13.962,
+        "score": -0.9
+      },
+      {
+        "word": "can",
+        "start_offset": 155,
+        "end_offset": 158,
+        "start": 14.862,
+        "end": 15.162,
+        "score": -1.7683
+      },
+      {
+        "word": "keep",
+        "start_offset": 159,
+        "end_offset": 163,
+        "start": 17.123,
+        "end": 17.343,
+        "score": -0.7193
+      },
+      {
+        "word": "that",
+        "start_offset": 164,
+        "end_offset": 168,
+        "start": 17.383,
+        "end": 17.603,
+        "score": -0.8148
+      },
+      {
+        "word": "as",
+        "start_offset": 169,
+        "end_offset": 171,
+        "start": 17.703,
+        "end": 17.783,
+        "score": -1.3567
+      },
+      {
+        "word": "private",
+        "start_offset": 172,
+        "end_offset": 179,
+        "start": 17.863,
+        "end": 18.243,
+        "score": -1.1336
+      },
+      {
+        "word": "material",
+        "start_offset": 180,
+        "end_offset": 188,
+        "start": 18.283,
+        "end": 18.823,
+        "score": -0.7198
+      },
+      {
+        "word": "if",
+        "start_offset": 189,
+        "end_offset": 191,
+        "start": 18.903,
+        "end": 19.003,
+        "score": -0.995
+      },
+      {
+        "word": "you",
+        "start_offset": 192,
+        "end_offset": 195,
+        "start": 19.043,
+        "end": 19.123,
+        "score": -1.457
+      },
+      {
+        "word": "wish.",
+        "start_offset": 196,
+        "end_offset": 201,
+        "start": 19.183,
+        "end": 19.443,
+        "score": -1.2691
+      },
+      {
+        "word": "Do",
+        "start_offset": 202,
+        "end_offset": 204,
+        "start": 22.864,
+        "end": 22.964,
+        "score": -1.164
+      },
+      {
+        "word": "you",
+        "start_offset": 205,
+        "end_offset": 208,
+        "start": 23.104,
+        "end": 23.224,
+        "score": -1.3315
+      },
+      {
+        "word": "wish",
+        "start_offset": 209,
+        "end_offset": 213,
+        "start": 24.404,
+        "end": 24.584,
+        "score": -0.8128
+      },
+      {
+        "word": "for",
+        "start_offset": 214,
+        "end_offset": 217,
+        "start": 24.604,
+        "end": 24.684,
+        "score": -1.0922
+      },
+      {
+        "word": "me",
+        "start_offset": 218,
+        "end_offset": 220,
+        "start": 24.724,
+        "end": 24.784,
+        "score": -0.9972
+      },
+      {
+        "word": "to",
+        "start_offset": 221,
+        "end_offset": 223,
+        "start": 24.844,
+        "end": 24.904,
+        "score": -1.3894
+      },
+      {
+        "word": "keep",
+        "start_offset": 224,
+        "end_offset": 228,
+        "start": 24.964,
+        "end": 25.164,
+        "score": -1.7936
+      },
+      {
+        "word": "it",
+        "start_offset": 229,
+        "end_offset": 231,
+        "start": 25.204,
+        "end": 25.284,
+        "score": -1.1646
+      },
+      {
+        "word": "unpublished?",
+        "start_offset": 232,
+        "end_offset": 244,
+        "start": 26.384,
+        "end": 26.984,
+        "score": -1.7248
+      },
+      {
+        "word": "I",
+        "start_offset": 245,
+        "end_offset": 246,
+        "start": 31.665,
+        "end": 31.685,
+        "score": -1.7047
+      },
+      {
+        "word": "am",
+        "start_offset": 247,
+        "end_offset": 249,
+        "start": 32.745,
+        "end": 33.045,
+        "score": -1.9435
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 250,
+        "end_offset": 253,
+        "start": 34.045,
+        "end": 34.165,
+        "score": -1.0707
+      },
+      {
+        "word": "That",
+        "start_offset": 254,
+        "end_offset": 258,
+        "start": 37.986,
+        "end": 38.346,
+        "score": -0.7217
+      },
+      {
+        "word": "which",
+        "start_offset": 259,
+        "end_offset": 264,
+        "start": 39.226,
+        "end": 39.606,
+        "score": -0.8248
+      },
+      {
+        "word": "we",
+        "start_offset": 265,
+        "end_offset": 267,
+        "start": 40.246,
+        "end": 40.386,
+        "score": -0.714
+      },
+      {
+        "word": "offer",
+        "start_offset": 268,
+        "end_offset": 273,
+        "start": 42.027,
+        "end": 42.467,
+        "score": -0.7041
+      },
+      {
+        "word": "you",
+        "start_offset": 274,
+        "end_offset": 277,
+        "start": 43.387,
+        "end": 43.527,
+        "score": -0.9238
+      },
+      {
+        "word": "is",
+        "start_offset": 278,
+        "end_offset": 280,
+        "start": 44.907,
+        "end": 45.267,
+        "score": -0.7111
+      },
+      {
+        "word": "freely",
+        "start_offset": 281,
+        "end_offset": 287,
+        "start": 46.387,
+        "end": 47.167,
+        "score": -0.7054
+      },
+      {
+        "word": "given",
+        "start_offset": 288,
+        "end_offset": 293,
+        "start": 48.308,
+        "end": 48.788,
+        "score": -0.7627
+      },
+      {
+        "word": "and",
+        "start_offset": 294,
+        "end_offset": 297,
+        "start": 50.168,
+        "end": 50.548,
+        "score": -0.7279
+      },
+      {
+        "word": "subject",
+        "start_offset": 298,
+        "end_offset": 305,
+        "start": 51.608,
+        "end": 52.888,
+        "score": -0.7338
+      },
+      {
+        "word": "only",
+        "start_offset": 306,
+        "end_offset": 310,
+        "start": 54.109,
+        "end": 54.589,
+        "score": -0.723
+      },
+      {
+        "word": "to",
+        "start_offset": 311,
+        "end_offset": 313,
+        "start": 55.649,
+        "end": 55.909,
+        "score": -0.8105
+      },
+      {
+        "word": "your",
+        "start_offset": 314,
+        "end_offset": 318,
+        "start": 57.409,
+        "end": 57.749,
+        "score": -0.8443
+      },
+      {
+        "word": "discretion.",
+        "start_offset": 319,
+        "end_offset": 330,
+        "start": 58.569,
+        "end": 59.629,
+        "score": -0.9591
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "053-04.mp3",
+    "audio_duration": 60.0294,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

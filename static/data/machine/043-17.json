@@ -1,0 +1,142 @@
+{
+  "text": "Is it necessary to eat food in Fourth Dentity? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is it necessary to eat food in Fourth Dentity?",
+        "start_offset": 16,
+        "end_offset": 67,
+        "start": 1.28,
+        "end": 5.36
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 118,
+        "end_offset": 148,
+        "start": 9.44,
+        "end": 11.84
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 178,
+        "end_offset": 222,
+        "start": 14.24,
+        "end": 17.76
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 1.28,
+        "end": 1.52
+      },
+      {
+        "word": "it",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 1.84,
+        "end": 2.16
+      },
+      {
+        "word": "necessary",
+        "start_offset": 27,
+        "end_offset": 35,
+        "start": 2.16,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "to",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 3.04,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "eat",
+        "start_offset": 41,
+        "end_offset": 47,
+        "start": 3.2800000000000002,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "food",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 3.7600000000000002,
+        "end": 4.08
+      },
+      {
+        "word": "in",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 4.08,
+        "end": 4.32
+      },
+      {
+        "word": "Fourth",
+        "start_offset": 54,
+        "end_offset": 60,
+        "start": 4.32,
+        "end": 4.8
+      },
+      {
+        "word": "Dentity?",
+        "start_offset": 60,
+        "end_offset": 67,
+        "start": 4.8,
+        "end": 5.36
+      },
+      {
+        "word": "I",
+        "start_offset": 118,
+        "end_offset": 122,
+        "start": 9.44,
+        "end": 9.76
+      },
+      {
+        "word": "am",
+        "start_offset": 130,
+        "end_offset": 134,
+        "start": 10.4,
+        "end": 10.72
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 146,
+        "end_offset": 148,
+        "start": 11.68,
+        "end": 11.84
+      },
+      {
+        "word": "This",
+        "start_offset": 178,
+        "end_offset": 182,
+        "start": 14.24,
+        "end": 14.56
+      },
+      {
+        "word": "is",
+        "start_offset": 194,
+        "end_offset": 198,
+        "start": 15.52,
+        "end": 15.84
+      },
+      {
+        "word": "correct.",
+        "start_offset": 210,
+        "end_offset": 222,
+        "start": 16.8,
+        "end": 17.76
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "043-17.mp3",
+    "audio_duration": 19.54,
+    "transcription_time": 0.09,
+    "rtfx": 225.42,
+    "timestamp": "2026-01-06T21:51:12.147805+00:00"
+  }
+}

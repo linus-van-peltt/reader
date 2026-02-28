@@ -1,0 +1,534 @@
+{
+  "text": "I have here a deck of 22 Tarot cards which have been copied according to information we have from the walls of I would suspect the large pyramid at Giza. If necessary, we can duplicate these cards in the book that we are preparing. I would ask Ra if these cards represent an exact replica of that which is in the Great Pyramid. Hi. And the resemblance is substantial.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I have here a deck of 22 Tarot cards which have been copied according to information we have from the walls of I would suspect the large pyramid at Giza.",
+        "start_offset": 20,
+        "end_offset": 293,
+        "start": 1.6,
+        "end": 23.44
+      },
+      {
+        "segment": "If necessary, we can duplicate these cards in the book that we are preparing.",
+        "start_offset": 324,
+        "end_offset": 413,
+        "start": 25.92,
+        "end": 33.04
+      },
+      {
+        "segment": "I would ask Ra if these cards represent an exact replica of that which is in the Great Pyramid.",
+        "start_offset": 425,
+        "end_offset": 610,
+        "start": 34.0,
+        "end": 48.800000000000004
+      },
+      {
+        "segment": "Hi.",
+        "start_offset": 681,
+        "end_offset": 685,
+        "start": 54.480000000000004,
+        "end": 54.800000000000004
+      },
+      {
+        "segment": "And the resemblance is substantial.",
+        "start_offset": 694,
+        "end_offset": 848,
+        "start": 55.52,
+        "end": 67.84
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 1.6,
+        "end": 1.92
+      },
+      {
+        "word": "have",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 1.92,
+        "end": 2.24
+      },
+      {
+        "word": "here",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 2.56,
+        "end": 2.88
+      },
+      {
+        "word": "a",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 6.4,
+        "end": 6.72
+      },
+      {
+        "word": "deck",
+        "start_offset": 88,
+        "end_offset": 94,
+        "start": 7.04,
+        "end": 7.5200000000000005
+      },
+      {
+        "word": "of",
+        "start_offset": 94,
+        "end_offset": 96,
+        "start": 7.5200000000000005,
+        "end": 7.68
+      },
+      {
+        "word": "22",
+        "start_offset": 96,
+        "end_offset": 105,
+        "start": 7.68,
+        "end": 8.4
+      },
+      {
+        "word": "Tarot",
+        "start_offset": 105,
+        "end_offset": 113,
+        "start": 8.4,
+        "end": 9.040000000000001
+      },
+      {
+        "word": "cards",
+        "start_offset": 115,
+        "end_offset": 122,
+        "start": 9.200000000000001,
+        "end": 9.76
+      },
+      {
+        "word": "which",
+        "start_offset": 126,
+        "end_offset": 130,
+        "start": 10.08,
+        "end": 10.4
+      },
+      {
+        "word": "have",
+        "start_offset": 130,
+        "end_offset": 134,
+        "start": 10.4,
+        "end": 10.72
+      },
+      {
+        "word": "been",
+        "start_offset": 134,
+        "end_offset": 138,
+        "start": 10.72,
+        "end": 11.040000000000001
+      },
+      {
+        "word": "copied",
+        "start_offset": 138,
+        "end_offset": 146,
+        "start": 11.040000000000001,
+        "end": 11.68
+      },
+      {
+        "word": "according",
+        "start_offset": 156,
+        "end_offset": 168,
+        "start": 12.48,
+        "end": 13.44
+      },
+      {
+        "word": "to",
+        "start_offset": 168,
+        "end_offset": 172,
+        "start": 13.44,
+        "end": 13.76
+      },
+      {
+        "word": "information",
+        "start_offset": 180,
+        "end_offset": 188,
+        "start": 14.4,
+        "end": 15.040000000000001
+      },
+      {
+        "word": "we",
+        "start_offset": 188,
+        "end_offset": 192,
+        "start": 15.040000000000001,
+        "end": 15.36
+      },
+      {
+        "word": "have",
+        "start_offset": 192,
+        "end_offset": 196,
+        "start": 15.36,
+        "end": 15.68
+      },
+      {
+        "word": "from",
+        "start_offset": 196,
+        "end_offset": 200,
+        "start": 15.68,
+        "end": 16.0
+      },
+      {
+        "word": "the",
+        "start_offset": 200,
+        "end_offset": 204,
+        "start": 16.0,
+        "end": 16.32
+      },
+      {
+        "word": "walls",
+        "start_offset": 215,
+        "end_offset": 223,
+        "start": 17.2,
+        "end": 17.84
+      },
+      {
+        "word": "of",
+        "start_offset": 226,
+        "end_offset": 229,
+        "start": 18.080000000000002,
+        "end": 18.32
+      },
+      {
+        "word": "I",
+        "start_offset": 231,
+        "end_offset": 235,
+        "start": 18.48,
+        "end": 18.8
+      },
+      {
+        "word": "would",
+        "start_offset": 235,
+        "end_offset": 238,
+        "start": 18.8,
+        "end": 19.04
+      },
+      {
+        "word": "suspect",
+        "start_offset": 238,
+        "end_offset": 245,
+        "start": 19.04,
+        "end": 19.6
+      },
+      {
+        "word": "the",
+        "start_offset": 249,
+        "end_offset": 253,
+        "start": 19.92,
+        "end": 20.240000000000002
+      },
+      {
+        "word": "large",
+        "start_offset": 268,
+        "end_offset": 274,
+        "start": 21.44,
+        "end": 21.92
+      },
+      {
+        "word": "pyramid",
+        "start_offset": 274,
+        "end_offset": 281,
+        "start": 21.92,
+        "end": 22.48
+      },
+      {
+        "word": "at",
+        "start_offset": 281,
+        "end_offset": 284,
+        "start": 22.48,
+        "end": 22.72
+      },
+      {
+        "word": "Giza.",
+        "start_offset": 284,
+        "end_offset": 293,
+        "start": 22.72,
+        "end": 23.44
+      },
+      {
+        "word": "If",
+        "start_offset": 324,
+        "end_offset": 330,
+        "start": 25.92,
+        "end": 26.400000000000002
+      },
+      {
+        "word": "necessary,",
+        "start_offset": 330,
+        "end_offset": 336,
+        "start": 26.400000000000002,
+        "end": 26.88
+      },
+      {
+        "word": "we",
+        "start_offset": 337,
+        "end_offset": 340,
+        "start": 26.96,
+        "end": 27.2
+      },
+      {
+        "word": "can",
+        "start_offset": 340,
+        "end_offset": 342,
+        "start": 27.2,
+        "end": 27.36
+      },
+      {
+        "word": "duplicate",
+        "start_offset": 342,
+        "end_offset": 351,
+        "start": 27.36,
+        "end": 28.080000000000002
+      },
+      {
+        "word": "these",
+        "start_offset": 351,
+        "end_offset": 354,
+        "start": 28.080000000000002,
+        "end": 28.32
+      },
+      {
+        "word": "cards",
+        "start_offset": 354,
+        "end_offset": 364,
+        "start": 28.32,
+        "end": 29.12
+      },
+      {
+        "word": "in",
+        "start_offset": 364,
+        "end_offset": 368,
+        "start": 29.12,
+        "end": 29.44
+      },
+      {
+        "word": "the",
+        "start_offset": 387,
+        "end_offset": 390,
+        "start": 30.96,
+        "end": 31.2
+      },
+      {
+        "word": "book",
+        "start_offset": 390,
+        "end_offset": 395,
+        "start": 31.2,
+        "end": 31.6
+      },
+      {
+        "word": "that",
+        "start_offset": 395,
+        "end_offset": 397,
+        "start": 31.6,
+        "end": 31.76
+      },
+      {
+        "word": "we",
+        "start_offset": 397,
+        "end_offset": 399,
+        "start": 31.76,
+        "end": 31.92
+      },
+      {
+        "word": "are",
+        "start_offset": 399,
+        "end_offset": 402,
+        "start": 31.92,
+        "end": 32.160000000000004
+      },
+      {
+        "word": "preparing.",
+        "start_offset": 402,
+        "end_offset": 413,
+        "start": 32.160000000000004,
+        "end": 33.04
+      },
+      {
+        "word": "I",
+        "start_offset": 425,
+        "end_offset": 429,
+        "start": 34.0,
+        "end": 34.32
+      },
+      {
+        "word": "would",
+        "start_offset": 429,
+        "end_offset": 432,
+        "start": 34.32,
+        "end": 34.56
+      },
+      {
+        "word": "ask",
+        "start_offset": 432,
+        "end_offset": 437,
+        "start": 34.56,
+        "end": 34.96
+      },
+      {
+        "word": "Ra",
+        "start_offset": 437,
+        "end_offset": 441,
+        "start": 34.96,
+        "end": 35.28
+      },
+      {
+        "word": "if",
+        "start_offset": 445,
+        "end_offset": 449,
+        "start": 35.6,
+        "end": 35.92
+      },
+      {
+        "word": "these",
+        "start_offset": 449,
+        "end_offset": 453,
+        "start": 35.92,
+        "end": 36.24
+      },
+      {
+        "word": "cards",
+        "start_offset": 453,
+        "end_offset": 465,
+        "start": 36.24,
+        "end": 37.2
+      },
+      {
+        "word": "represent",
+        "start_offset": 465,
+        "end_offset": 477,
+        "start": 37.2,
+        "end": 38.160000000000004
+      },
+      {
+        "word": "an",
+        "start_offset": 505,
+        "end_offset": 509,
+        "start": 40.4,
+        "end": 40.72
+      },
+      {
+        "word": "exact",
+        "start_offset": 533,
+        "end_offset": 541,
+        "start": 42.64,
+        "end": 43.28
+      },
+      {
+        "word": "replica",
+        "start_offset": 563,
+        "end_offset": 574,
+        "start": 45.04,
+        "end": 45.92
+      },
+      {
+        "word": "of",
+        "start_offset": 574,
+        "end_offset": 578,
+        "start": 45.92,
+        "end": 46.24
+      },
+      {
+        "word": "that",
+        "start_offset": 578,
+        "end_offset": 582,
+        "start": 46.24,
+        "end": 46.56
+      },
+      {
+        "word": "which",
+        "start_offset": 582,
+        "end_offset": 586,
+        "start": 46.56,
+        "end": 46.88
+      },
+      {
+        "word": "is",
+        "start_offset": 586,
+        "end_offset": 589,
+        "start": 46.88,
+        "end": 47.12
+      },
+      {
+        "word": "in",
+        "start_offset": 589,
+        "end_offset": 591,
+        "start": 47.12,
+        "end": 47.28
+      },
+      {
+        "word": "the",
+        "start_offset": 591,
+        "end_offset": 594,
+        "start": 47.28,
+        "end": 47.52
+      },
+      {
+        "word": "Great",
+        "start_offset": 594,
+        "end_offset": 598,
+        "start": 47.52,
+        "end": 47.84
+      },
+      {
+        "word": "Pyramid.",
+        "start_offset": 598,
+        "end_offset": 610,
+        "start": 47.84,
+        "end": 48.800000000000004
+      },
+      {
+        "word": "Hi.",
+        "start_offset": 681,
+        "end_offset": 685,
+        "start": 54.480000000000004,
+        "end": 54.800000000000004
+      },
+      {
+        "word": "And",
+        "start_offset": 694,
+        "end_offset": 698,
+        "start": 55.52,
+        "end": 55.84
+      },
+      {
+        "word": "the",
+        "start_offset": 755,
+        "end_offset": 759,
+        "start": 60.4,
+        "end": 60.72
+      },
+      {
+        "word": "resemblance",
+        "start_offset": 794,
+        "end_offset": 806,
+        "start": 63.52,
+        "end": 64.48
+      },
+      {
+        "word": "is",
+        "start_offset": 821,
+        "end_offset": 825,
+        "start": 65.68,
+        "end": 66.0
+      },
+      {
+        "word": "substantial.",
+        "start_offset": 839,
+        "end_offset": 848,
+        "start": 67.12,
+        "end": 67.84
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "089-14.mp3",
+    "audio_duration": 68.05,
+    "transcription_time": 0.13,
+    "rtfx": 506.71,
+    "timestamp": "2026-01-06T21:58:19.525832+00:00"
+  }
+}

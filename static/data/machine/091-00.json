@@ -1,0 +1,254 @@
+{
+  "text": "Right. Session number ninety-one, June twenty fifth. June twenty sixth, nineteen eighty two. In the love and in the light of the one in the creator. We communicate love.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Right.",
+        "start_offset": 159,
+        "end_offset": 166,
+        "start": 12.72,
+        "end": 13.280000000000001
+      },
+      {
+        "segment": "Session number ninety-one, June twenty fifth.",
+        "start_offset": 171,
+        "end_offset": 212,
+        "start": 13.68,
+        "end": 16.96
+      },
+      {
+        "segment": "June twenty sixth, nineteen eighty two.",
+        "start_offset": 244,
+        "end_offset": 277,
+        "start": 19.52,
+        "end": 22.16
+      },
+      {
+        "segment": "In the love and in the light of the one in the creator.",
+        "start_offset": 310,
+        "end_offset": 454,
+        "start": 24.8,
+        "end": 36.32
+      },
+      {
+        "segment": "We communicate love.",
+        "start_offset": 492,
+        "end_offset": 520,
+        "start": 39.36,
+        "end": 41.6
+      }
+    ],
+    "word": [
+      {
+        "word": "Right.",
+        "start_offset": 159,
+        "end_offset": 166,
+        "start": 12.72,
+        "end": 13.280000000000001
+      },
+      {
+        "word": "Session",
+        "start_offset": 171,
+        "end_offset": 177,
+        "start": 13.68,
+        "end": 14.16
+      },
+      {
+        "word": "number",
+        "start_offset": 177,
+        "end_offset": 181,
+        "start": 14.16,
+        "end": 14.48
+      },
+      {
+        "word": "ninety-one,",
+        "start_offset": 181,
+        "end_offset": 187,
+        "start": 14.48,
+        "end": 14.96
+      },
+      {
+        "word": "June",
+        "start_offset": 193,
+        "end_offset": 198,
+        "start": 15.44,
+        "end": 15.84
+      },
+      {
+        "word": "twenty",
+        "start_offset": 198,
+        "end_offset": 203,
+        "start": 15.84,
+        "end": 16.240000000000002
+      },
+      {
+        "word": "fifth.",
+        "start_offset": 203,
+        "end_offset": 212,
+        "start": 16.240000000000002,
+        "end": 16.96
+      },
+      {
+        "word": "June",
+        "start_offset": 244,
+        "end_offset": 251,
+        "start": 19.52,
+        "end": 20.080000000000002
+      },
+      {
+        "word": "twenty",
+        "start_offset": 251,
+        "end_offset": 255,
+        "start": 20.080000000000002,
+        "end": 20.400000000000002
+      },
+      {
+        "word": "sixth,",
+        "start_offset": 255,
+        "end_offset": 260,
+        "start": 20.400000000000002,
+        "end": 20.8
+      },
+      {
+        "word": "nineteen",
+        "start_offset": 262,
+        "end_offset": 268,
+        "start": 20.96,
+        "end": 21.44
+      },
+      {
+        "word": "eighty",
+        "start_offset": 268,
+        "end_offset": 271,
+        "start": 21.44,
+        "end": 21.68
+      },
+      {
+        "word": "two.",
+        "start_offset": 274,
+        "end_offset": 277,
+        "start": 21.92,
+        "end": 22.16
+      },
+      {
+        "word": "In",
+        "start_offset": 310,
+        "end_offset": 314,
+        "start": 24.8,
+        "end": 25.12
+      },
+      {
+        "word": "the",
+        "start_offset": 318,
+        "end_offset": 322,
+        "start": 25.44,
+        "end": 25.76
+      },
+      {
+        "word": "love",
+        "start_offset": 325,
+        "end_offset": 328,
+        "start": 26.0,
+        "end": 26.240000000000002
+      },
+      {
+        "word": "and",
+        "start_offset": 332,
+        "end_offset": 334,
+        "start": 26.560000000000002,
+        "end": 26.72
+      },
+      {
+        "word": "in",
+        "start_offset": 342,
+        "end_offset": 346,
+        "start": 27.36,
+        "end": 27.68
+      },
+      {
+        "word": "the",
+        "start_offset": 353,
+        "end_offset": 357,
+        "start": 28.240000000000002,
+        "end": 28.560000000000002
+      },
+      {
+        "word": "light",
+        "start_offset": 357,
+        "end_offset": 366,
+        "start": 28.560000000000002,
+        "end": 29.28
+      },
+      {
+        "word": "of",
+        "start_offset": 386,
+        "end_offset": 389,
+        "start": 30.88,
+        "end": 31.12
+      },
+      {
+        "word": "the",
+        "start_offset": 393,
+        "end_offset": 397,
+        "start": 31.44,
+        "end": 31.76
+      },
+      {
+        "word": "one",
+        "start_offset": 400,
+        "end_offset": 403,
+        "start": 32.0,
+        "end": 32.24
+      },
+      {
+        "word": "in",
+        "start_offset": 417,
+        "end_offset": 420,
+        "start": 33.36,
+        "end": 33.6
+      },
+      {
+        "word": "the",
+        "start_offset": 430,
+        "end_offset": 433,
+        "start": 34.4,
+        "end": 34.64
+      },
+      {
+        "word": "creator.",
+        "start_offset": 448,
+        "end_offset": 454,
+        "start": 35.84,
+        "end": 36.32
+      },
+      {
+        "word": "We",
+        "start_offset": 492,
+        "end_offset": 496,
+        "start": 39.36,
+        "end": 39.68
+      },
+      {
+        "word": "communicate",
+        "start_offset": 500,
+        "end_offset": 513,
+        "start": 40.0,
+        "end": 41.04
+      },
+      {
+        "word": "love.",
+        "start_offset": 517,
+        "end_offset": 520,
+        "start": 41.36,
+        "end": 41.6
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "091-00.mp3",
+    "audio_duration": 42.03,
+    "transcription_time": 0.11,
+    "rtfx": 377.83,
+    "timestamp": "2026-01-06T21:58:43.027831+00:00"
+  }
+}

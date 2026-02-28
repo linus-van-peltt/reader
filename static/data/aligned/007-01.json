@@ -1,0 +1,945 @@
+{
+  "text": "You mentioned that you were a member of the Confederation of Planets. What avenues of service, or types of service, are available to members of the Confederation? Would you describe some of them? I am Ra. I am assuming that you intend the service which we of the Confederation can offer, rather than the service which is available to our use. The service available for our offering to those who call us is equivalent to the square of the distortion/need of that calling divided by, or integrated with, the basic Law of One in its distortion indicating the free will of those who are not aware of the unity of creation.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "You mentioned that you were a member of the Confederation of Planets.",
+        "start_offset": 0,
+        "end_offset": 69,
+        "start": 0.72,
+        "end": 4.48
+      },
+      {
+        "segment": "What avenues of service, or types of service, are available to members of the Confederation?",
+        "start_offset": 70,
+        "end_offset": 162,
+        "start": 6.761,
+        "end": 14.861
+      },
+      {
+        "segment": "Would you describe some of them?",
+        "start_offset": 163,
+        "end_offset": 195,
+        "start": 14.881,
+        "end": 16.101
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 196,
+        "end_offset": 204,
+        "start": 28.242,
+        "end": 31.283
+      },
+      {
+        "segment": "I am assuming that you intend the service which we of the Confederation can offer, rather than the service which is available to our use.",
+        "start_offset": 205,
+        "end_offset": 342,
+        "start": 34.303,
+        "end": 72.086
+      },
+      {
+        "segment": "The service available for our offering to those who call us is equivalent to the square of the distortion/need of that calling divided by, or integrated with, the basic Law of One in its distortion indicating the free will of those who are not aware of the unity of creation.",
+        "start_offset": 343,
+        "end_offset": 618,
+        "start": 74.926,
+        "end": 154.313
+      }
+    ],
+    "word": [
+      {
+        "word": "You",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 0.72,
+        "end": 0.78,
+        "score": -5.6188
+      },
+      {
+        "word": "mentioned",
+        "start_offset": 4,
+        "end_offset": 13,
+        "start": 0.82,
+        "end": 1.28,
+        "score": -4.1334
+      },
+      {
+        "word": "that",
+        "start_offset": 14,
+        "end_offset": 18,
+        "start": 1.38,
+        "end": 1.56,
+        "score": -4.0582
+      },
+      {
+        "word": "you",
+        "start_offset": 19,
+        "end_offset": 22,
+        "start": 2.12,
+        "end": 2.22,
+        "score": -5.2063
+      },
+      {
+        "word": "were",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 2.24,
+        "end": 2.34,
+        "score": -4.7813
+      },
+      {
+        "word": "a",
+        "start_offset": 28,
+        "end_offset": 29,
+        "start": 2.36,
+        "end": 2.38,
+        "score": -6.044
+      },
+      {
+        "word": "member",
+        "start_offset": 30,
+        "end_offset": 36,
+        "start": 2.5,
+        "end": 2.72,
+        "score": -1.662
+      },
+      {
+        "word": "of",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 2.78,
+        "end": 2.82,
+        "score": -1.6811
+      },
+      {
+        "word": "the",
+        "start_offset": 40,
+        "end_offset": 43,
+        "start": 2.86,
+        "end": 2.92,
+        "score": -2.0519
+      },
+      {
+        "word": "Confederation",
+        "start_offset": 44,
+        "end_offset": 57,
+        "start": 2.96,
+        "end": 3.72,
+        "score": -2.0867
+      },
+      {
+        "word": "of",
+        "start_offset": 58,
+        "end_offset": 60,
+        "start": 3.76,
+        "end": 3.84,
+        "score": -2.0668
+      },
+      {
+        "word": "Planets.",
+        "start_offset": 61,
+        "end_offset": 69,
+        "start": 3.92,
+        "end": 4.48,
+        "score": -2.5208
+      },
+      {
+        "word": "What",
+        "start_offset": 70,
+        "end_offset": 74,
+        "start": 6.761,
+        "end": 6.961,
+        "score": -2.3393
+      },
+      {
+        "word": "avenues",
+        "start_offset": 75,
+        "end_offset": 82,
+        "start": 7.621,
+        "end": 8.321,
+        "score": -3.3824
+      },
+      {
+        "word": "of",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 9.201,
+        "end": 9.321,
+        "score": -2.4376
+      },
+      {
+        "word": "service,",
+        "start_offset": 86,
+        "end_offset": 94,
+        "start": 9.441,
+        "end": 9.981,
+        "score": -3.331
+      },
+      {
+        "word": "or",
+        "start_offset": 95,
+        "end_offset": 97,
+        "start": 10.401,
+        "end": 10.481,
+        "score": -3.7641
+      },
+      {
+        "word": "types",
+        "start_offset": 98,
+        "end_offset": 103,
+        "start": 10.581,
+        "end": 11.021,
+        "score": -2.6025
+      },
+      {
+        "word": "of",
+        "start_offset": 104,
+        "end_offset": 106,
+        "start": 11.201,
+        "end": 11.281,
+        "score": -3.4547
+      },
+      {
+        "word": "service,",
+        "start_offset": 107,
+        "end_offset": 115,
+        "start": 11.381,
+        "end": 11.801,
+        "score": -2.381
+      },
+      {
+        "word": "are",
+        "start_offset": 116,
+        "end_offset": 119,
+        "start": 11.921,
+        "end": 12.001,
+        "score": -2.5598
+      },
+      {
+        "word": "available",
+        "start_offset": 120,
+        "end_offset": 129,
+        "start": 12.041,
+        "end": 12.541,
+        "score": -2.6892
+      },
+      {
+        "word": "to",
+        "start_offset": 130,
+        "end_offset": 132,
+        "start": 12.941,
+        "end": 13.021,
+        "score": -3.546
+      },
+      {
+        "word": "members",
+        "start_offset": 133,
+        "end_offset": 140,
+        "start": 13.101,
+        "end": 13.481,
+        "score": -2.2836
+      },
+      {
+        "word": "of",
+        "start_offset": 141,
+        "end_offset": 143,
+        "start": 13.541,
+        "end": 13.601,
+        "score": -2.7298
+      },
+      {
+        "word": "the",
+        "start_offset": 144,
+        "end_offset": 147,
+        "start": 13.641,
+        "end": 13.721,
+        "score": -4.3016
+      },
+      {
+        "word": "Confederation?",
+        "start_offset": 148,
+        "end_offset": 162,
+        "start": 13.741,
+        "end": 14.861,
+        "score": -6.3736
+      },
+      {
+        "word": "Would",
+        "start_offset": 163,
+        "end_offset": 168,
+        "start": 14.881,
+        "end": 15.001,
+        "score": -6.204
+      },
+      {
+        "word": "you",
+        "start_offset": 169,
+        "end_offset": 172,
+        "start": 15.041,
+        "end": 15.101,
+        "score": -5.1176
+      },
+      {
+        "word": "describe",
+        "start_offset": 173,
+        "end_offset": 181,
+        "start": 15.141,
+        "end": 15.641,
+        "score": -4.3782
+      },
+      {
+        "word": "some",
+        "start_offset": 182,
+        "end_offset": 186,
+        "start": 15.681,
+        "end": 15.881,
+        "score": -5.2978
+      },
+      {
+        "word": "of",
+        "start_offset": 187,
+        "end_offset": 189,
+        "start": 15.901,
+        "end": 15.961,
+        "score": -8.5154
+      },
+      {
+        "word": "them?",
+        "start_offset": 190,
+        "end_offset": 195,
+        "start": 15.981,
+        "end": 16.101,
+        "score": -7.8843
+      },
+      {
+        "word": "I",
+        "start_offset": 196,
+        "end_offset": 197,
+        "start": 28.242,
+        "end": 28.262,
+        "score": -0.9188
+      },
+      {
+        "word": "am",
+        "start_offset": 198,
+        "end_offset": 200,
+        "start": 29.503,
+        "end": 29.743,
+        "score": -2.6741
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 201,
+        "end_offset": 204,
+        "start": 31.243,
+        "end": 31.283,
+        "score": -2.9279
+      },
+      {
+        "word": "I",
+        "start_offset": 205,
+        "end_offset": 206,
+        "start": 34.303,
+        "end": 34.323,
+        "score": -0.8334
+      },
+      {
+        "word": "am",
+        "start_offset": 207,
+        "end_offset": 209,
+        "start": 35.763,
+        "end": 36.003,
+        "score": -2.6808
+      },
+      {
+        "word": "assuming",
+        "start_offset": 210,
+        "end_offset": 218,
+        "start": 37.583,
+        "end": 38.363,
+        "score": -0.7254
+      },
+      {
+        "word": "that",
+        "start_offset": 219,
+        "end_offset": 223,
+        "start": 39.843,
+        "end": 40.203,
+        "score": -1.4798
+      },
+      {
+        "word": "you",
+        "start_offset": 224,
+        "end_offset": 227,
+        "start": 41.924,
+        "end": 42.104,
+        "score": -1.1087
+      },
+      {
+        "word": "intend",
+        "start_offset": 228,
+        "end_offset": 234,
+        "start": 43.564,
+        "end": 44.304,
+        "score": -0.6995
+      },
+      {
+        "word": "the",
+        "start_offset": 235,
+        "end_offset": 238,
+        "start": 46.404,
+        "end": 46.504,
+        "score": -0.787
+      },
+      {
+        "word": "service",
+        "start_offset": 239,
+        "end_offset": 246,
+        "start": 47.004,
+        "end": 47.684,
+        "score": -0.7547
+      },
+      {
+        "word": "which",
+        "start_offset": 247,
+        "end_offset": 252,
+        "start": 48.684,
+        "end": 49.024,
+        "score": -0.8863
+      },
+      {
+        "word": "we",
+        "start_offset": 253,
+        "end_offset": 255,
+        "start": 50.784,
+        "end": 50.924,
+        "score": -1.4608
+      },
+      {
+        "word": "of",
+        "start_offset": 256,
+        "end_offset": 258,
+        "start": 52.584,
+        "end": 52.784,
+        "score": -0.7373
+      },
+      {
+        "word": "the",
+        "start_offset": 259,
+        "end_offset": 262,
+        "start": 53.225,
+        "end": 53.365,
+        "score": -0.7439
+      },
+      {
+        "word": "Confederation",
+        "start_offset": 263,
+        "end_offset": 276,
+        "start": 54.185,
+        "end": 55.365,
+        "score": -0.6987
+      },
+      {
+        "word": "can",
+        "start_offset": 277,
+        "end_offset": 280,
+        "start": 56.445,
+        "end": 56.805,
+        "score": -0.698
+      },
+      {
+        "word": "offer,",
+        "start_offset": 281,
+        "end_offset": 287,
+        "start": 57.445,
+        "end": 57.805,
+        "score": -0.7076
+      },
+      {
+        "word": "rather",
+        "start_offset": 288,
+        "end_offset": 294,
+        "start": 59.045,
+        "end": 59.505,
+        "score": -0.7177
+      },
+      {
+        "word": "than",
+        "start_offset": 295,
+        "end_offset": 299,
+        "start": 60.285,
+        "end": 60.645,
+        "score": -0.718
+      },
+      {
+        "word": "the",
+        "start_offset": 300,
+        "end_offset": 303,
+        "start": 61.725,
+        "end": 61.885,
+        "score": -0.7212
+      },
+      {
+        "word": "service",
+        "start_offset": 304,
+        "end_offset": 311,
+        "start": 62.645,
+        "end": 63.225,
+        "score": -0.7717
+      },
+      {
+        "word": "which",
+        "start_offset": 312,
+        "end_offset": 317,
+        "start": 64.305,
+        "end": 64.665,
+        "score": -0.7864
+      },
+      {
+        "word": "is",
+        "start_offset": 318,
+        "end_offset": 320,
+        "start": 66.106,
+        "end": 66.286,
+        "score": -0.7096
+      },
+      {
+        "word": "available",
+        "start_offset": 321,
+        "end_offset": 330,
+        "start": 66.486,
+        "end": 67.246,
+        "score": -0.706
+      },
+      {
+        "word": "to",
+        "start_offset": 331,
+        "end_offset": 333,
+        "start": 68.586,
+        "end": 68.806,
+        "score": -1.0311
+      },
+      {
+        "word": "our",
+        "start_offset": 334,
+        "end_offset": 337,
+        "start": 70.286,
+        "end": 70.526,
+        "score": -1.3731
+      },
+      {
+        "word": "use.",
+        "start_offset": 338,
+        "end_offset": 342,
+        "start": 71.746,
+        "end": 72.086,
+        "score": -1.5361
+      },
+      {
+        "word": "The",
+        "start_offset": 343,
+        "end_offset": 346,
+        "start": 74.926,
+        "end": 75.026,
+        "score": -0.7583
+      },
+      {
+        "word": "service",
+        "start_offset": 347,
+        "end_offset": 354,
+        "start": 75.246,
+        "end": 75.926,
+        "score": -0.7404
+      },
+      {
+        "word": "available",
+        "start_offset": 355,
+        "end_offset": 364,
+        "start": 76.767,
+        "end": 77.587,
+        "score": -0.7198
+      },
+      {
+        "word": "for",
+        "start_offset": 365,
+        "end_offset": 368,
+        "start": 79.187,
+        "end": 79.607,
+        "score": -1.0708
+      },
+      {
+        "word": "our",
+        "start_offset": 369,
+        "end_offset": 372,
+        "start": 80.727,
+        "end": 81.007,
+        "score": -0.7776
+      },
+      {
+        "word": "offering",
+        "start_offset": 373,
+        "end_offset": 381,
+        "start": 82.207,
+        "end": 82.867,
+        "score": -0.9333
+      },
+      {
+        "word": "to",
+        "start_offset": 382,
+        "end_offset": 384,
+        "start": 84.347,
+        "end": 84.607,
+        "score": -1.033
+      },
+      {
+        "word": "those",
+        "start_offset": 385,
+        "end_offset": 390,
+        "start": 87.047,
+        "end": 87.687,
+        "score": -0.7727
+      },
+      {
+        "word": "who",
+        "start_offset": 391,
+        "end_offset": 394,
+        "start": 88.708,
+        "end": 88.868,
+        "score": -0.752
+      },
+      {
+        "word": "call",
+        "start_offset": 395,
+        "end_offset": 399,
+        "start": 90.448,
+        "end": 90.968,
+        "score": -0.7644
+      },
+      {
+        "word": "us",
+        "start_offset": 400,
+        "end_offset": 402,
+        "start": 92.088,
+        "end": 92.348,
+        "score": -1.1367
+      },
+      {
+        "word": "is",
+        "start_offset": 403,
+        "end_offset": 405,
+        "start": 94.428,
+        "end": 94.788,
+        "score": -0.804
+      },
+      {
+        "word": "equivalent",
+        "start_offset": 406,
+        "end_offset": 416,
+        "start": 96.168,
+        "end": 97.108,
+        "score": -0.7229
+      },
+      {
+        "word": "to",
+        "start_offset": 417,
+        "end_offset": 419,
+        "start": 98.348,
+        "end": 98.588,
+        "score": -1.0682
+      },
+      {
+        "word": "the",
+        "start_offset": 420,
+        "end_offset": 423,
+        "start": 100.309,
+        "end": 100.449,
+        "score": -0.7855
+      },
+      {
+        "word": "square",
+        "start_offset": 424,
+        "end_offset": 430,
+        "start": 101.269,
+        "end": 101.989,
+        "score": -0.9441
+      },
+      {
+        "word": "of",
+        "start_offset": 431,
+        "end_offset": 433,
+        "start": 103.509,
+        "end": 103.849,
+        "score": -5.5626
+      },
+      {
+        "word": "the",
+        "start_offset": 434,
+        "end_offset": 437,
+        "start": 105.229,
+        "end": 105.369,
+        "score": -0.8259
+      },
+      {
+        "word": "distortion/need",
+        "start_offset": 438,
+        "end_offset": 453,
+        "start": 106.709,
+        "end": 108.629,
+        "score": -1.3088
+      },
+      {
+        "word": "of",
+        "start_offset": 454,
+        "end_offset": 456,
+        "start": 110.309,
+        "end": 110.569,
+        "score": -0.8741
+      },
+      {
+        "word": "that",
+        "start_offset": 457,
+        "end_offset": 461,
+        "start": 111.589,
+        "end": 111.95,
+        "score": -2.939
+      },
+      {
+        "word": "calling",
+        "start_offset": 462,
+        "end_offset": 469,
+        "start": 113.21,
+        "end": 113.87,
+        "score": -0.7375
+      },
+      {
+        "word": "divided",
+        "start_offset": 470,
+        "end_offset": 477,
+        "start": 116.77,
+        "end": 117.55,
+        "score": -0.7572
+      },
+      {
+        "word": "by,",
+        "start_offset": 478,
+        "end_offset": 481,
+        "start": 118.49,
+        "end": 118.87,
+        "score": -0.9508
+      },
+      {
+        "word": "or",
+        "start_offset": 482,
+        "end_offset": 484,
+        "start": 120.17,
+        "end": 120.39,
+        "score": -0.7118
+      },
+      {
+        "word": "integrated",
+        "start_offset": 485,
+        "end_offset": 495,
+        "start": 121.01,
+        "end": 121.89,
+        "score": -1.7029
+      },
+      {
+        "word": "with,",
+        "start_offset": 496,
+        "end_offset": 501,
+        "start": 122.69,
+        "end": 123.01,
+        "score": -1.5427
+      },
+      {
+        "word": "the",
+        "start_offset": 502,
+        "end_offset": 505,
+        "start": 124.631,
+        "end": 124.751,
+        "score": -0.7871
+      },
+      {
+        "word": "basic",
+        "start_offset": 506,
+        "end_offset": 511,
+        "start": 125.011,
+        "end": 125.671,
+        "score": -0.7012
+      },
+      {
+        "word": "Law",
+        "start_offset": 512,
+        "end_offset": 515,
+        "start": 127.031,
+        "end": 127.291,
+        "score": -0.7678
+      },
+      {
+        "word": "of",
+        "start_offset": 516,
+        "end_offset": 518,
+        "start": 128.471,
+        "end": 128.671,
+        "score": -5.5758
+      },
+      {
+        "word": "One",
+        "start_offset": 519,
+        "end_offset": 522,
+        "start": 129.451,
+        "end": 129.531,
+        "score": -4.0635
+      },
+      {
+        "word": "in",
+        "start_offset": 523,
+        "end_offset": 525,
+        "start": 130.671,
+        "end": 130.851,
+        "score": -5.7608
+      },
+      {
+        "word": "its",
+        "start_offset": 526,
+        "end_offset": 529,
+        "start": 131.411,
+        "end": 131.611,
+        "score": -4.0878
+      },
+      {
+        "word": "distortion",
+        "start_offset": 530,
+        "end_offset": 540,
+        "start": 132.091,
+        "end": 132.991,
+        "score": -1.5736
+      },
+      {
+        "word": "indicating",
+        "start_offset": 541,
+        "end_offset": 551,
+        "start": 134.211,
+        "end": 135.051,
+        "score": -0.7051
+      },
+      {
+        "word": "the",
+        "start_offset": 552,
+        "end_offset": 555,
+        "start": 135.792,
+        "end": 135.932,
+        "score": -1.5306
+      },
+      {
+        "word": "free",
+        "start_offset": 556,
+        "end_offset": 560,
+        "start": 137.112,
+        "end": 137.472,
+        "score": -0.729
+      },
+      {
+        "word": "will",
+        "start_offset": 561,
+        "end_offset": 565,
+        "start": 138.392,
+        "end": 138.732,
+        "score": -0.7813
+      },
+      {
+        "word": "of",
+        "start_offset": 566,
+        "end_offset": 568,
+        "start": 140.032,
+        "end": 140.292,
+        "score": -5.5573
+      },
+      {
+        "word": "those",
+        "start_offset": 569,
+        "end_offset": 574,
+        "start": 141.572,
+        "end": 142.152,
+        "score": -0.7746
+      },
+      {
+        "word": "who",
+        "start_offset": 575,
+        "end_offset": 578,
+        "start": 142.912,
+        "end": 143.032,
+        "score": -0.8229
+      },
+      {
+        "word": "are",
+        "start_offset": 579,
+        "end_offset": 582,
+        "start": 144.072,
+        "end": 144.312,
+        "score": -1.822
+      },
+      {
+        "word": "not",
+        "start_offset": 583,
+        "end_offset": 586,
+        "start": 145.332,
+        "end": 145.672,
+        "score": -0.7005
+      },
+      {
+        "word": "aware",
+        "start_offset": 587,
+        "end_offset": 592,
+        "start": 146.432,
+        "end": 147.012,
+        "score": -0.8411
+      },
+      {
+        "word": "of",
+        "start_offset": 593,
+        "end_offset": 595,
+        "start": 148.213,
+        "end": 148.473,
+        "score": -5.5042
+      },
+      {
+        "word": "the",
+        "start_offset": 596,
+        "end_offset": 599,
+        "start": 149.413,
+        "end": 149.553,
+        "score": -0.8075
+      },
+      {
+        "word": "unity",
+        "start_offset": 600,
+        "end_offset": 605,
+        "start": 150.713,
+        "end": 151.233,
+        "score": -0.7054
+      },
+      {
+        "word": "of",
+        "start_offset": 606,
+        "end_offset": 608,
+        "start": 152.253,
+        "end": 152.513,
+        "score": -0.9165
+      },
+      {
+        "word": "creation.",
+        "start_offset": 609,
+        "end_offset": 618,
+        "start": 153.473,
+        "end": 154.313,
+        "score": -0.7274
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "007-01.mp3",
+    "audio_duration": 159.0335,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "text": "Was the attack successful in creating any further distortion of the instrument's physical complex? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Was the attack successful in creating any further distortion of the instrument's physical complex?",
+        "start_offset": 0,
+        "end_offset": 98,
+        "start": 2.602,
+        "end": 15.675
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 99,
+        "end_offset": 107,
+        "start": 19.178,
+        "end": 20.859
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 108,
+        "end_offset": 124,
+        "start": 22.701,
+        "end": 25.664
+      }
+    ],
+    "word": [
+      {
+        "word": "Was",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.602,
+        "end": 2.823,
+        "score": -0.7598
+      },
+      {
+        "word": "the",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 2.923,
+        "end": 3.043,
+        "score": -0.9229
+      },
+      {
+        "word": "attack",
+        "start_offset": 8,
+        "end_offset": 14,
+        "start": 3.123,
+        "end": 5.725,
+        "score": -4.5858
+      },
+      {
+        "word": "successful",
+        "start_offset": 15,
+        "end_offset": 25,
+        "start": 5.825,
+        "end": 6.526,
+        "score": -0.7119
+      },
+      {
+        "word": "in",
+        "start_offset": 26,
+        "end_offset": 28,
+        "start": 6.726,
+        "end": 6.846,
+        "score": -0.7637
+      },
+      {
+        "word": "creating",
+        "start_offset": 29,
+        "end_offset": 37,
+        "start": 9.729,
+        "end": 10.209,
+        "score": -0.7075
+      },
+      {
+        "word": "any",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 10.29,
+        "end": 10.45,
+        "score": -0.705
+      },
+      {
+        "word": "further",
+        "start_offset": 42,
+        "end_offset": 49,
+        "start": 11.411,
+        "end": 11.751,
+        "score": -0.7677
+      },
+      {
+        "word": "distortion",
+        "start_offset": 50,
+        "end_offset": 60,
+        "start": 11.811,
+        "end": 12.452,
+        "score": -0.8758
+      },
+      {
+        "word": "of",
+        "start_offset": 61,
+        "end_offset": 63,
+        "start": 12.532,
+        "end": 12.632,
+        "score": -0.7083
+      },
+      {
+        "word": "the",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 12.692,
+        "end": 12.792,
+        "score": -0.8071
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 68,
+        "end_offset": 80,
+        "start": 13.613,
+        "end": 14.533,
+        "score": -1.323
+      },
+      {
+        "word": "physical",
+        "start_offset": 81,
+        "end_offset": 89,
+        "start": 14.634,
+        "end": 15.034,
+        "score": -1.0307
+      },
+      {
+        "word": "complex?",
+        "start_offset": 90,
+        "end_offset": 98,
+        "start": 15.114,
+        "end": 15.675,
+        "score": -0.7077
+      },
+      {
+        "word": "I",
+        "start_offset": 99,
+        "end_offset": 100,
+        "start": 19.178,
+        "end": 19.198,
+        "score": -1.8318
+      },
+      {
+        "word": "am",
+        "start_offset": 101,
+        "end_offset": 103,
+        "start": 19.798,
+        "end": 20.119,
+        "score": -3.1452
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 104,
+        "end_offset": 107,
+        "start": 20.719,
+        "end": 20.859,
+        "score": -6.4367
+      },
+      {
+        "word": "This",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 22.701,
+        "end": 23.061,
+        "score": -1.9288
+      },
+      {
+        "word": "is",
+        "start_offset": 113,
+        "end_offset": 115,
+        "start": 23.782,
+        "end": 24.122,
+        "score": -2.272
+      },
+      {
+        "word": "correct.",
+        "start_offset": 116,
+        "end_offset": 124,
+        "start": 24.823,
+        "end": 25.664,
+        "score": -3.1199
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "062-03.mp3",
+    "audio_duration": 26.0441,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

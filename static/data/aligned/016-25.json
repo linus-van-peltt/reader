@@ -1,0 +1,617 @@
+{
+  "text": "How many inhabited planets are there in our galaxy? I am Ra. We are assuming that you intend all dimensions of consciousness or densities of awareness in this question. Approximately one-fifth of all planetary entities contain awareness of one or more densities. Some planetary spheres are hospitable only for certain densities. Your planetary sphere, for instance, is at this time hospitable to levels or densities one, two, three, and four.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "How many inhabited planets are there in our galaxy?",
+        "start_offset": 0,
+        "end_offset": 51,
+        "start": 1.74,
+        "end": 12.203
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 52,
+        "end_offset": 60,
+        "start": 12.223,
+        "end": 13.844
+      },
+      {
+        "segment": "We are assuming that you intend all dimensions of consciousness or densities of awareness in this question.",
+        "start_offset": 61,
+        "end_offset": 168,
+        "start": 13.984,
+        "end": 33.269
+      },
+      {
+        "segment": "Approximately one-fifth of all planetary entities contain awareness of one or more densities.",
+        "start_offset": 169,
+        "end_offset": 262,
+        "start": 34.469,
+        "end": 54.215
+      },
+      {
+        "segment": "Some planetary spheres are hospitable only for certain densities.",
+        "start_offset": 263,
+        "end_offset": 328,
+        "start": 55.455,
+        "end": 66.198
+      },
+      {
+        "segment": "Your planetary sphere, for instance, is at this time hospitable to levels or densities one, two, three, and four.",
+        "start_offset": 329,
+        "end_offset": 442,
+        "start": 67.378,
+        "end": 87.944
+      }
+    ],
+    "word": [
+      {
+        "word": "How",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 1.74,
+        "end": 1.8,
+        "score": -6.9317
+      },
+      {
+        "word": "many",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 1.82,
+        "end": 1.901,
+        "score": -6.9299
+      },
+      {
+        "word": "inhabited",
+        "start_offset": 9,
+        "end_offset": 18,
+        "start": 1.921,
+        "end": 2.101,
+        "score": -6.7539
+      },
+      {
+        "word": "planets",
+        "start_offset": 19,
+        "end_offset": 26,
+        "start": 2.201,
+        "end": 2.721,
+        "score": -6.6657
+      },
+      {
+        "word": "are",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 2.781,
+        "end": 2.981,
+        "score": -7.174
+      },
+      {
+        "word": "there",
+        "start_offset": 31,
+        "end_offset": 36,
+        "start": 3.041,
+        "end": 11.023,
+        "score": -6.2546
+      },
+      {
+        "word": "in",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 11.103,
+        "end": 11.183,
+        "score": -4.2553
+      },
+      {
+        "word": "our",
+        "start_offset": 40,
+        "end_offset": 43,
+        "start": 11.923,
+        "end": 11.983,
+        "score": -5.1294
+      },
+      {
+        "word": "galaxy?",
+        "start_offset": 44,
+        "end_offset": 51,
+        "start": 12.043,
+        "end": 12.203,
+        "score": -7.1489
+      },
+      {
+        "word": "I",
+        "start_offset": 52,
+        "end_offset": 53,
+        "start": 12.223,
+        "end": 12.243,
+        "score": -9.5802
+      },
+      {
+        "word": "am",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 12.263,
+        "end": 12.303,
+        "score": -8.5701
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 57,
+        "end_offset": 60,
+        "start": 12.323,
+        "end": 13.844,
+        "score": -7.708
+      },
+      {
+        "word": "We",
+        "start_offset": 61,
+        "end_offset": 63,
+        "start": 13.984,
+        "end": 14.124,
+        "score": -0.7302
+      },
+      {
+        "word": "are",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 14.844,
+        "end": 15.124,
+        "score": -1.1509
+      },
+      {
+        "word": "assuming",
+        "start_offset": 68,
+        "end_offset": 76,
+        "start": 15.524,
+        "end": 16.404,
+        "score": -1.5039
+      },
+      {
+        "word": "that",
+        "start_offset": 77,
+        "end_offset": 81,
+        "start": 17.025,
+        "end": 17.365,
+        "score": -0.7074
+      },
+      {
+        "word": "you",
+        "start_offset": 82,
+        "end_offset": 85,
+        "start": 18.185,
+        "end": 18.305,
+        "score": -0.781
+      },
+      {
+        "word": "intend",
+        "start_offset": 86,
+        "end_offset": 92,
+        "start": 18.945,
+        "end": 19.905,
+        "score": -1.1136
+      },
+      {
+        "word": "all",
+        "start_offset": 93,
+        "end_offset": 96,
+        "start": 20.986,
+        "end": 21.226,
+        "score": -1.1165
+      },
+      {
+        "word": "dimensions",
+        "start_offset": 97,
+        "end_offset": 107,
+        "start": 21.886,
+        "end": 23.066,
+        "score": -0.7117
+      },
+      {
+        "word": "of",
+        "start_offset": 108,
+        "end_offset": 110,
+        "start": 24.146,
+        "end": 24.407,
+        "score": -0.7189
+      },
+      {
+        "word": "consciousness",
+        "start_offset": 111,
+        "end_offset": 124,
+        "start": 24.927,
+        "end": 26.187,
+        "score": -1.1734
+      },
+      {
+        "word": "or",
+        "start_offset": 125,
+        "end_offset": 127,
+        "start": 27.067,
+        "end": 27.247,
+        "score": -0.7035
+      },
+      {
+        "word": "densities",
+        "start_offset": 128,
+        "end_offset": 137,
+        "start": 27.447,
+        "end": 28.508,
+        "score": -0.711
+      },
+      {
+        "word": "of",
+        "start_offset": 138,
+        "end_offset": 140,
+        "start": 28.888,
+        "end": 29.088,
+        "score": -0.7124
+      },
+      {
+        "word": "awareness",
+        "start_offset": 141,
+        "end_offset": 150,
+        "start": 29.468,
+        "end": 30.328,
+        "score": -0.8331
+      },
+      {
+        "word": "in",
+        "start_offset": 151,
+        "end_offset": 153,
+        "start": 31.208,
+        "end": 31.408,
+        "score": -0.8667
+      },
+      {
+        "word": "this",
+        "start_offset": 154,
+        "end_offset": 158,
+        "start": 31.849,
+        "end": 32.209,
+        "score": -0.8877
+      },
+      {
+        "word": "question.",
+        "start_offset": 159,
+        "end_offset": 168,
+        "start": 32.609,
+        "end": 33.269,
+        "score": -0.7406
+      },
+      {
+        "word": "Approximately",
+        "start_offset": 169,
+        "end_offset": 182,
+        "start": 34.469,
+        "end": 36.01,
+        "score": -0.7584
+      },
+      {
+        "word": "one-fifth",
+        "start_offset": 183,
+        "end_offset": 192,
+        "start": 37.17,
+        "end": 38.59,
+        "score": -1.831
+      },
+      {
+        "word": "of",
+        "start_offset": 193,
+        "end_offset": 195,
+        "start": 39.371,
+        "end": 39.611,
+        "score": -0.7896
+      },
+      {
+        "word": "all",
+        "start_offset": 196,
+        "end_offset": 199,
+        "start": 40.151,
+        "end": 40.411,
+        "score": -2.5018
+      },
+      {
+        "word": "planetary",
+        "start_offset": 200,
+        "end_offset": 209,
+        "start": 41.011,
+        "end": 42.171,
+        "score": -0.8783
+      },
+      {
+        "word": "entities",
+        "start_offset": 210,
+        "end_offset": 218,
+        "start": 43.112,
+        "end": 44.012,
+        "score": -0.8298
+      },
+      {
+        "word": "contain",
+        "start_offset": 219,
+        "end_offset": 226,
+        "start": 45.772,
+        "end": 46.693,
+        "score": -0.7207
+      },
+      {
+        "word": "awareness",
+        "start_offset": 227,
+        "end_offset": 236,
+        "start": 47.873,
+        "end": 48.793,
+        "score": -0.7197
+      },
+      {
+        "word": "of",
+        "start_offset": 237,
+        "end_offset": 239,
+        "start": 49.493,
+        "end": 49.713,
+        "score": -0.7004
+      },
+      {
+        "word": "one",
+        "start_offset": 240,
+        "end_offset": 243,
+        "start": 50.173,
+        "end": 50.434,
+        "score": -0.753
+      },
+      {
+        "word": "or",
+        "start_offset": 244,
+        "end_offset": 246,
+        "start": 51.154,
+        "end": 51.374,
+        "score": -1.0937
+      },
+      {
+        "word": "more",
+        "start_offset": 247,
+        "end_offset": 251,
+        "start": 52.034,
+        "end": 52.394,
+        "score": -0.8948
+      },
+      {
+        "word": "densities.",
+        "start_offset": 252,
+        "end_offset": 262,
+        "start": 53.154,
+        "end": 54.215,
+        "score": -0.7359
+      },
+      {
+        "word": "Some",
+        "start_offset": 263,
+        "end_offset": 267,
+        "start": 55.455,
+        "end": 55.855,
+        "score": -0.7625
+      },
+      {
+        "word": "planetary",
+        "start_offset": 268,
+        "end_offset": 277,
+        "start": 56.635,
+        "end": 57.695,
+        "score": -0.8558
+      },
+      {
+        "word": "spheres",
+        "start_offset": 278,
+        "end_offset": 285,
+        "start": 58.096,
+        "end": 58.816,
+        "score": -1.2723
+      },
+      {
+        "word": "are",
+        "start_offset": 286,
+        "end_offset": 289,
+        "start": 59.616,
+        "end": 59.896,
+        "score": -0.742
+      },
+      {
+        "word": "hospitable",
+        "start_offset": 290,
+        "end_offset": 300,
+        "start": 60.376,
+        "end": 61.376,
+        "score": -0.7317
+      },
+      {
+        "word": "only",
+        "start_offset": 301,
+        "end_offset": 305,
+        "start": 62.177,
+        "end": 62.537,
+        "score": -0.6992
+      },
+      {
+        "word": "for",
+        "start_offset": 306,
+        "end_offset": 309,
+        "start": 62.897,
+        "end": 63.257,
+        "score": -0.7897
+      },
+      {
+        "word": "certain",
+        "start_offset": 310,
+        "end_offset": 317,
+        "start": 63.997,
+        "end": 64.477,
+        "score": -1.916
+      },
+      {
+        "word": "densities.",
+        "start_offset": 318,
+        "end_offset": 328,
+        "start": 65.157,
+        "end": 66.198,
+        "score": -0.7214
+      },
+      {
+        "word": "Your",
+        "start_offset": 329,
+        "end_offset": 333,
+        "start": 67.378,
+        "end": 67.738,
+        "score": -0.797
+      },
+      {
+        "word": "planetary",
+        "start_offset": 334,
+        "end_offset": 343,
+        "start": 68.318,
+        "end": 69.299,
+        "score": -0.9095
+      },
+      {
+        "word": "sphere,",
+        "start_offset": 344,
+        "end_offset": 351,
+        "start": 69.739,
+        "end": 70.319,
+        "score": -1.5189
+      },
+      {
+        "word": "for",
+        "start_offset": 352,
+        "end_offset": 355,
+        "start": 70.999,
+        "end": 71.279,
+        "score": -0.8159
+      },
+      {
+        "word": "instance,",
+        "start_offset": 356,
+        "end_offset": 365,
+        "start": 71.579,
+        "end": 72.339,
+        "score": -0.6948
+      },
+      {
+        "word": "is",
+        "start_offset": 366,
+        "end_offset": 368,
+        "start": 73.12,
+        "end": 73.4,
+        "score": -0.696
+      },
+      {
+        "word": "at",
+        "start_offset": 369,
+        "end_offset": 371,
+        "start": 73.8,
+        "end": 74.0,
+        "score": -0.6983
+      },
+      {
+        "word": "this",
+        "start_offset": 372,
+        "end_offset": 376,
+        "start": 74.28,
+        "end": 74.62,
+        "score": -0.7362
+      },
+      {
+        "word": "time",
+        "start_offset": 377,
+        "end_offset": 381,
+        "start": 74.94,
+        "end": 75.46,
+        "score": -0.6957
+      },
+      {
+        "word": "hospitable",
+        "start_offset": 382,
+        "end_offset": 392,
+        "start": 76.08,
+        "end": 77.101,
+        "score": -0.7033
+      },
+      {
+        "word": "to",
+        "start_offset": 393,
+        "end_offset": 395,
+        "start": 77.941,
+        "end": 78.101,
+        "score": -0.7121
+      },
+      {
+        "word": "levels",
+        "start_offset": 396,
+        "end_offset": 402,
+        "start": 79.221,
+        "end": 79.841,
+        "score": -0.7184
+      },
+      {
+        "word": "or",
+        "start_offset": 403,
+        "end_offset": 405,
+        "start": 80.241,
+        "end": 80.462,
+        "score": -0.6984
+      },
+      {
+        "word": "densities",
+        "start_offset": 406,
+        "end_offset": 415,
+        "start": 80.762,
+        "end": 81.602,
+        "score": -0.7094
+      },
+      {
+        "word": "one,",
+        "start_offset": 416,
+        "end_offset": 420,
+        "start": 82.342,
+        "end": 82.602,
+        "score": -0.8156
+      },
+      {
+        "word": "two,",
+        "start_offset": 421,
+        "end_offset": 425,
+        "start": 83.442,
+        "end": 83.742,
+        "score": -2.8407
+      },
+      {
+        "word": "three,",
+        "start_offset": 426,
+        "end_offset": 432,
+        "start": 84.863,
+        "end": 85.223,
+        "score": -3.2667
+      },
+      {
+        "word": "and",
+        "start_offset": 433,
+        "end_offset": 436,
+        "start": 86.183,
+        "end": 86.463,
+        "score": -1.1405
+      },
+      {
+        "word": "four.",
+        "start_offset": 437,
+        "end_offset": 442,
+        "start": 87.583,
+        "end": 87.944,
+        "score": -2.2301
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-25.mp3",
+    "audio_duration": 90.0441,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

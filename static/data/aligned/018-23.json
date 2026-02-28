@@ -1,0 +1,220 @@
+{
+  "text": "Well, was Yahweh then of the Confederation? I am Ra. Yahweh was of the Confederation but was mistaken in its attempts to aid.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Well, was Yahweh then of the Confederation?",
+        "start_offset": 0,
+        "end_offset": 43,
+        "start": 5.821,
+        "end": 14.643
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 44,
+        "end_offset": 52,
+        "start": 14.663,
+        "end": 14.863
+      },
+      {
+        "segment": "Yahweh was of the Confederation but was mistaken in its attempts to aid.",
+        "start_offset": 53,
+        "end_offset": 125,
+        "start": 14.923,
+        "end": 30.666
+      }
+    ],
+    "word": [
+      {
+        "word": "Well,",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 5.821,
+        "end": 12.142,
+        "score": -8.2506
+      },
+      {
+        "word": "was",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 12.562,
+        "end": 12.622,
+        "score": -7.2241
+      },
+      {
+        "word": "Yahweh",
+        "start_offset": 10,
+        "end_offset": 16,
+        "start": 12.642,
+        "end": 12.982,
+        "score": -4.4287
+      },
+      {
+        "word": "then",
+        "start_offset": 17,
+        "end_offset": 21,
+        "start": 13.002,
+        "end": 13.083,
+        "score": -7.1991
+      },
+      {
+        "word": "of",
+        "start_offset": 22,
+        "end_offset": 24,
+        "start": 13.103,
+        "end": 13.143,
+        "score": -9.7349
+      },
+      {
+        "word": "the",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 14.223,
+        "end": 14.303,
+        "score": -6.417
+      },
+      {
+        "word": "Confederation?",
+        "start_offset": 29,
+        "end_offset": 43,
+        "start": 14.323,
+        "end": 14.643,
+        "score": -8.0544
+      },
+      {
+        "word": "I",
+        "start_offset": 44,
+        "end_offset": 45,
+        "start": 14.663,
+        "end": 14.683,
+        "score": -7.443
+      },
+      {
+        "word": "am",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 14.703,
+        "end": 14.743,
+        "score": -6.7324
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 14.823,
+        "end": 14.863,
+        "score": -5.1057
+      },
+      {
+        "word": "Yahweh",
+        "start_offset": 53,
+        "end_offset": 59,
+        "start": 14.923,
+        "end": 15.063,
+        "score": -6.3652
+      },
+      {
+        "word": "was",
+        "start_offset": 60,
+        "end_offset": 63,
+        "start": 16.063,
+        "end": 16.563,
+        "score": -0.7049
+      },
+      {
+        "word": "of",
+        "start_offset": 64,
+        "end_offset": 66,
+        "start": 17.363,
+        "end": 17.543,
+        "score": -0.7076
+      },
+      {
+        "word": "the",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 17.823,
+        "end": 17.943,
+        "score": -0.7476
+      },
+      {
+        "word": "Confederation",
+        "start_offset": 71,
+        "end_offset": 84,
+        "start": 18.263,
+        "end": 19.964,
+        "score": -0.7063
+      },
+      {
+        "word": "but",
+        "start_offset": 85,
+        "end_offset": 88,
+        "start": 21.144,
+        "end": 21.464,
+        "score": -0.7052
+      },
+      {
+        "word": "was",
+        "start_offset": 89,
+        "end_offset": 92,
+        "start": 21.864,
+        "end": 22.324,
+        "score": -0.7053
+      },
+      {
+        "word": "mistaken",
+        "start_offset": 93,
+        "end_offset": 101,
+        "start": 23.545,
+        "end": 24.765,
+        "score": -0.7224
+      },
+      {
+        "word": "in",
+        "start_offset": 102,
+        "end_offset": 104,
+        "start": 25.785,
+        "end": 26.025,
+        "score": -0.6988
+      },
+      {
+        "word": "its",
+        "start_offset": 105,
+        "end_offset": 108,
+        "start": 26.525,
+        "end": 26.865,
+        "score": -0.7111
+      },
+      {
+        "word": "attempts",
+        "start_offset": 109,
+        "end_offset": 117,
+        "start": 27.505,
+        "end": 28.405,
+        "score": -0.9059
+      },
+      {
+        "word": "to",
+        "start_offset": 118,
+        "end_offset": 120,
+        "start": 29.326,
+        "end": 29.546,
+        "score": -1.099
+      },
+      {
+        "word": "aid.",
+        "start_offset": 121,
+        "end_offset": 125,
+        "start": 30.286,
+        "end": 30.666,
+        "score": -1.3795
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "018-23.mp3",
+    "audio_duration": 32.0261,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

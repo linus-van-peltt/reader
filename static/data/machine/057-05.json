@@ -1,0 +1,205 @@
+{
+  "text": "What you rest on his head. I am the flawed but sufficient crystal which rests upon the digit of this in true and right hand.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What you rest on his head.",
+        "start_offset": 24,
+        "end_offset": 46,
+        "start": 1.92,
+        "end": 3.68
+      },
+      {
+        "segment": "I am the flawed but sufficient crystal which rests upon the digit of this in true and right hand.",
+        "start_offset": 111,
+        "end_offset": 516,
+        "start": 8.88,
+        "end": 41.28
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 1.92,
+        "end": 2.16
+      },
+      {
+        "word": "you",
+        "start_offset": 28,
+        "end_offset": 29,
+        "start": 2.24,
+        "end": 2.32
+      },
+      {
+        "word": "rest",
+        "start_offset": 31,
+        "end_offset": 32,
+        "start": 2.48,
+        "end": 2.56
+      },
+      {
+        "word": "on",
+        "start_offset": 35,
+        "end_offset": 36,
+        "start": 2.8000000000000003,
+        "end": 2.88
+      },
+      {
+        "word": "his",
+        "start_offset": 37,
+        "end_offset": 38,
+        "start": 2.96,
+        "end": 3.04
+      },
+      {
+        "word": "head.",
+        "start_offset": 41,
+        "end_offset": 46,
+        "start": 3.2800000000000002,
+        "end": 3.68
+      },
+      {
+        "word": "I",
+        "start_offset": 111,
+        "end_offset": 115,
+        "start": 8.88,
+        "end": 9.200000000000001
+      },
+      {
+        "word": "am",
+        "start_offset": 127,
+        "end_offset": 131,
+        "start": 10.16,
+        "end": 10.48
+      },
+      {
+        "word": "the",
+        "start_offset": 175,
+        "end_offset": 179,
+        "start": 14.0,
+        "end": 14.32
+      },
+      {
+        "word": "flawed",
+        "start_offset": 195,
+        "end_offset": 208,
+        "start": 15.6,
+        "end": 16.64
+      },
+      {
+        "word": "but",
+        "start_offset": 220,
+        "end_offset": 224,
+        "start": 17.6,
+        "end": 17.92
+      },
+      {
+        "word": "sufficient",
+        "start_offset": 240,
+        "end_offset": 258,
+        "start": 19.2,
+        "end": 20.64
+      },
+      {
+        "word": "crystal",
+        "start_offset": 273,
+        "end_offset": 286,
+        "start": 21.84,
+        "end": 22.88
+      },
+      {
+        "word": "which",
+        "start_offset": 298,
+        "end_offset": 302,
+        "start": 23.84,
+        "end": 24.16
+      },
+      {
+        "word": "rests",
+        "start_offset": 318,
+        "end_offset": 330,
+        "start": 25.44,
+        "end": 26.400000000000002
+      },
+      {
+        "word": "upon",
+        "start_offset": 346,
+        "end_offset": 354,
+        "start": 27.68,
+        "end": 28.32
+      },
+      {
+        "word": "the",
+        "start_offset": 376,
+        "end_offset": 380,
+        "start": 30.080000000000002,
+        "end": 30.400000000000002
+      },
+      {
+        "word": "digit",
+        "start_offset": 401,
+        "end_offset": 413,
+        "start": 32.08,
+        "end": 33.04
+      },
+      {
+        "word": "of",
+        "start_offset": 421,
+        "end_offset": 425,
+        "start": 33.68,
+        "end": 34.0
+      },
+      {
+        "word": "this",
+        "start_offset": 442,
+        "end_offset": 446,
+        "start": 35.36,
+        "end": 35.68
+      },
+      {
+        "word": "in",
+        "start_offset": 454,
+        "end_offset": 457,
+        "start": 36.32,
+        "end": 36.56
+      },
+      {
+        "word": "true",
+        "start_offset": 463,
+        "end_offset": 469,
+        "start": 37.04,
+        "end": 37.52
+      },
+      {
+        "word": "and",
+        "start_offset": 471,
+        "end_offset": 474,
+        "start": 37.68,
+        "end": 37.92
+      },
+      {
+        "word": "right",
+        "start_offset": 496,
+        "end_offset": 500,
+        "start": 39.68,
+        "end": 40.0
+      },
+      {
+        "word": "hand.",
+        "start_offset": 512,
+        "end_offset": 516,
+        "start": 40.96,
+        "end": 41.28
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "057-05.mp3",
+    "audio_duration": 42.03,
+    "transcription_time": 0.11,
+    "rtfx": 391.93,
+    "timestamp": "2026-01-06T21:52:44.960218+00:00"
+  }
+}

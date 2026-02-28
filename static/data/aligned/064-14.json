@@ -1,0 +1,745 @@
+{
+  "text": "Thank you. I read that recent research has indicated that the normal sleep cycle for entities on this planet occurs one hour later each diurnal period so that we have a 25-hour cycle instead of a 24. Is this correct, and if so, why is this? I am Ra. This is in some cases correct. The planetary influences from which those of Mars experience memory have some effect upon these third-density physical bodily complexes. This race has given its genetic material to many bodies upon your plane.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 0,
+        "end_offset": 10,
+        "start": 2.42,
+        "end": 2.76
+      },
+      {
+        "segment": "I read that recent research has indicated that the normal sleep cycle for entities on this planet occurs one hour later each diurnal period so that we have a 25-hour cycle instead of a Is this correct, and if so, why is this?",
+        "start_offset": 11,
+        "end_offset": 240,
+        "start": 7.38,
+        "end": 28.062
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 241,
+        "end_offset": 249,
+        "start": 33.182,
+        "end": 34.942
+      },
+      {
+        "segment": "This is in some cases correct.",
+        "start_offset": 250,
+        "end_offset": 280,
+        "start": 37.262,
+        "end": 44.143
+      },
+      {
+        "segment": "The planetary influences from which those of Mars experience memory have some effect upon these third-density physical bodily complexes.",
+        "start_offset": 281,
+        "end_offset": 417,
+        "start": 46.463,
+        "end": 89.405
+      },
+      {
+        "segment": "This race has given its genetic material to many bodies upon your plane.",
+        "start_offset": 418,
+        "end_offset": 490,
+        "start": 91.506,
+        "end": 109.067
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.42,
+        "end": 2.64,
+        "score": -5.9598
+      },
+      {
+        "word": "you.",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 2.7,
+        "end": 2.76,
+        "score": -6.9215
+      },
+      {
+        "word": "I",
+        "start_offset": 11,
+        "end_offset": 12,
+        "start": 7.38,
+        "end": 7.4,
+        "score": -3.8636
+      },
+      {
+        "word": "read",
+        "start_offset": 13,
+        "end_offset": 17,
+        "start": 7.48,
+        "end": 7.7,
+        "score": -3.7295
+      },
+      {
+        "word": "that",
+        "start_offset": 18,
+        "end_offset": 22,
+        "start": 7.74,
+        "end": 8.08,
+        "score": -3.12
+      },
+      {
+        "word": "recent",
+        "start_offset": 23,
+        "end_offset": 29,
+        "start": 8.761,
+        "end": 9.061,
+        "score": -3.6325
+      },
+      {
+        "word": "research",
+        "start_offset": 30,
+        "end_offset": 38,
+        "start": 9.121,
+        "end": 9.521,
+        "score": -2.6814
+      },
+      {
+        "word": "has",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 9.541,
+        "end": 9.641,
+        "score": -5.0302
+      },
+      {
+        "word": "indicated",
+        "start_offset": 43,
+        "end_offset": 52,
+        "start": 9.681,
+        "end": 10.201,
+        "score": -3.0023
+      },
+      {
+        "word": "that",
+        "start_offset": 53,
+        "end_offset": 57,
+        "start": 10.241,
+        "end": 10.421,
+        "score": -3.7337
+      },
+      {
+        "word": "the",
+        "start_offset": 58,
+        "end_offset": 61,
+        "start": 11.961,
+        "end": 12.081,
+        "score": -3.6077
+      },
+      {
+        "word": "normal",
+        "start_offset": 62,
+        "end_offset": 68,
+        "start": 12.541,
+        "end": 12.881,
+        "score": -2.605
+      },
+      {
+        "word": "sleep",
+        "start_offset": 69,
+        "end_offset": 74,
+        "start": 12.981,
+        "end": 13.281,
+        "score": -3.0691
+      },
+      {
+        "word": "cycle",
+        "start_offset": 75,
+        "end_offset": 80,
+        "start": 13.401,
+        "end": 13.841,
+        "score": -4.204
+      },
+      {
+        "word": "for",
+        "start_offset": 81,
+        "end_offset": 84,
+        "start": 15.141,
+        "end": 15.221,
+        "score": -7.0507
+      },
+      {
+        "word": "entities",
+        "start_offset": 85,
+        "end_offset": 93,
+        "start": 15.261,
+        "end": 15.641,
+        "score": -5.7877
+      },
+      {
+        "word": "on",
+        "start_offset": 94,
+        "end_offset": 96,
+        "start": 15.701,
+        "end": 15.821,
+        "score": -6.7585
+      },
+      {
+        "word": "this",
+        "start_offset": 97,
+        "end_offset": 101,
+        "start": 15.861,
+        "end": 16.001,
+        "score": -4.6915
+      },
+      {
+        "word": "planet",
+        "start_offset": 102,
+        "end_offset": 108,
+        "start": 16.101,
+        "end": 16.461,
+        "score": -3.6175
+      },
+      {
+        "word": "occurs",
+        "start_offset": 109,
+        "end_offset": 115,
+        "start": 16.501,
+        "end": 16.881,
+        "score": -5.4319
+      },
+      {
+        "word": "one",
+        "start_offset": 116,
+        "end_offset": 119,
+        "start": 17.081,
+        "end": 17.241,
+        "score": -4.621
+      },
+      {
+        "word": "hour",
+        "start_offset": 120,
+        "end_offset": 124,
+        "start": 17.441,
+        "end": 17.721,
+        "score": -3.3732
+      },
+      {
+        "word": "later",
+        "start_offset": 125,
+        "end_offset": 130,
+        "start": 17.841,
+        "end": 18.141,
+        "score": -2.8635
+      },
+      {
+        "word": "each",
+        "start_offset": 131,
+        "end_offset": 135,
+        "start": 18.261,
+        "end": 18.441,
+        "score": -4.4082
+      },
+      {
+        "word": "diurnal",
+        "start_offset": 136,
+        "end_offset": 143,
+        "start": 18.501,
+        "end": 19.041,
+        "score": -4.8514
+      },
+      {
+        "word": "period",
+        "start_offset": 144,
+        "end_offset": 150,
+        "start": 19.481,
+        "end": 19.901,
+        "score": -5.766
+      },
+      {
+        "word": "so",
+        "start_offset": 151,
+        "end_offset": 153,
+        "start": 19.941,
+        "end": 20.041,
+        "score": -5.2581
+      },
+      {
+        "word": "that",
+        "start_offset": 154,
+        "end_offset": 158,
+        "start": 20.101,
+        "end": 20.241,
+        "score": -6.8939
+      },
+      {
+        "word": "we",
+        "start_offset": 159,
+        "end_offset": 161,
+        "start": 20.261,
+        "end": 20.321,
+        "score": -8.1625
+      },
+      {
+        "word": "have",
+        "start_offset": 162,
+        "end_offset": 166,
+        "start": 20.401,
+        "end": 20.601,
+        "score": -7.1451
+      },
+      {
+        "word": "a",
+        "start_offset": 167,
+        "end_offset": 168,
+        "start": 20.861,
+        "end": 20.881,
+        "score": -8.7229
+      },
+      {
+        "word": "25-hour",
+        "start_offset": 169,
+        "end_offset": 176,
+        "start": 21.361,
+        "end": 21.641,
+        "score": -7.7541
+      },
+      {
+        "word": "cycle",
+        "start_offset": 177,
+        "end_offset": 182,
+        "start": 22.021,
+        "end": 22.381,
+        "score": -6.0438
+      },
+      {
+        "word": "instead",
+        "start_offset": 183,
+        "end_offset": 190,
+        "start": 22.401,
+        "end": 22.801,
+        "score": -7.4447
+      },
+      {
+        "word": "of",
+        "start_offset": 191,
+        "end_offset": 193,
+        "start": 22.821,
+        "end": 23.481,
+        "score": -9.5585
+      },
+      {
+        "word": "a",
+        "start_offset": 194,
+        "end_offset": 195,
+        "start": 25.242,
+        "end": 25.262,
+        "score": -9.1361
+      },
+      {
+        "word": "Is",
+        "start_offset": 200,
+        "end_offset": 202,
+        "start": 25.282,
+        "end": 25.362,
+        "score": -3.953
+      },
+      {
+        "word": "this",
+        "start_offset": 203,
+        "end_offset": 207,
+        "start": 25.422,
+        "end": 25.602,
+        "score": -3.4237
+      },
+      {
+        "word": "correct,",
+        "start_offset": 208,
+        "end_offset": 216,
+        "start": 25.662,
+        "end": 26.122,
+        "score": -4.8342
+      },
+      {
+        "word": "and",
+        "start_offset": 217,
+        "end_offset": 220,
+        "start": 26.182,
+        "end": 26.282,
+        "score": -5.3732
+      },
+      {
+        "word": "if",
+        "start_offset": 221,
+        "end_offset": 223,
+        "start": 26.322,
+        "end": 26.422,
+        "score": -5.6993
+      },
+      {
+        "word": "so,",
+        "start_offset": 224,
+        "end_offset": 227,
+        "start": 26.502,
+        "end": 26.622,
+        "score": -3.8955
+      },
+      {
+        "word": "why",
+        "start_offset": 228,
+        "end_offset": 231,
+        "start": 27.302,
+        "end": 27.482,
+        "score": -5.7715
+      },
+      {
+        "word": "is",
+        "start_offset": 232,
+        "end_offset": 234,
+        "start": 27.622,
+        "end": 27.742,
+        "score": -4.1681
+      },
+      {
+        "word": "this?",
+        "start_offset": 235,
+        "end_offset": 240,
+        "start": 27.802,
+        "end": 28.062,
+        "score": -5.2105
+      },
+      {
+        "word": "I",
+        "start_offset": 241,
+        "end_offset": 242,
+        "start": 33.182,
+        "end": 33.202,
+        "score": -1.2663
+      },
+      {
+        "word": "am",
+        "start_offset": 243,
+        "end_offset": 245,
+        "start": 33.862,
+        "end": 34.162,
+        "score": -3.121
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 246,
+        "end_offset": 249,
+        "start": 34.842,
+        "end": 34.942,
+        "score": -2.8789
+      },
+      {
+        "word": "This",
+        "start_offset": 250,
+        "end_offset": 254,
+        "start": 37.262,
+        "end": 37.682,
+        "score": -0.9148
+      },
+      {
+        "word": "is",
+        "start_offset": 255,
+        "end_offset": 257,
+        "start": 38.322,
+        "end": 38.702,
+        "score": -0.7552
+      },
+      {
+        "word": "in",
+        "start_offset": 258,
+        "end_offset": 260,
+        "start": 39.502,
+        "end": 39.722,
+        "score": -0.7441
+      },
+      {
+        "word": "some",
+        "start_offset": 261,
+        "end_offset": 265,
+        "start": 40.042,
+        "end": 40.442,
+        "score": -0.8099
+      },
+      {
+        "word": "cases",
+        "start_offset": 266,
+        "end_offset": 271,
+        "start": 41.162,
+        "end": 42.003,
+        "score": -0.7067
+      },
+      {
+        "word": "correct.",
+        "start_offset": 272,
+        "end_offset": 280,
+        "start": 43.123,
+        "end": 44.143,
+        "score": -0.7131
+      },
+      {
+        "word": "The",
+        "start_offset": 281,
+        "end_offset": 284,
+        "start": 46.463,
+        "end": 46.623,
+        "score": -1.1201
+      },
+      {
+        "word": "planetary",
+        "start_offset": 285,
+        "end_offset": 294,
+        "start": 49.043,
+        "end": 50.603,
+        "score": -0.8723
+      },
+      {
+        "word": "influences",
+        "start_offset": 295,
+        "end_offset": 305,
+        "start": 52.083,
+        "end": 53.883,
+        "score": -0.7721
+      },
+      {
+        "word": "from",
+        "start_offset": 306,
+        "end_offset": 310,
+        "start": 55.923,
+        "end": 56.423,
+        "score": -0.7058
+      },
+      {
+        "word": "which",
+        "start_offset": 311,
+        "end_offset": 316,
+        "start": 56.883,
+        "end": 57.363,
+        "score": -0.7814
+      },
+      {
+        "word": "those",
+        "start_offset": 317,
+        "end_offset": 322,
+        "start": 58.664,
+        "end": 59.264,
+        "score": -0.7867
+      },
+      {
+        "word": "of",
+        "start_offset": 323,
+        "end_offset": 325,
+        "start": 59.964,
+        "end": 60.284,
+        "score": -0.8707
+      },
+      {
+        "word": "Mars",
+        "start_offset": 326,
+        "end_offset": 330,
+        "start": 61.804,
+        "end": 62.504,
+        "score": -0.7714
+      },
+      {
+        "word": "experience",
+        "start_offset": 331,
+        "end_offset": 341,
+        "start": 65.484,
+        "end": 67.144,
+        "score": -1.044
+      },
+      {
+        "word": "memory",
+        "start_offset": 342,
+        "end_offset": 348,
+        "start": 68.424,
+        "end": 69.184,
+        "score": -0.9538
+      },
+      {
+        "word": "have",
+        "start_offset": 349,
+        "end_offset": 353,
+        "start": 70.944,
+        "end": 71.524,
+        "score": -1.774
+      },
+      {
+        "word": "some",
+        "start_offset": 354,
+        "end_offset": 358,
+        "start": 72.784,
+        "end": 73.384,
+        "score": -1.6913
+      },
+      {
+        "word": "effect",
+        "start_offset": 359,
+        "end_offset": 365,
+        "start": 74.345,
+        "end": 75.305,
+        "score": -0.9247
+      },
+      {
+        "word": "upon",
+        "start_offset": 366,
+        "end_offset": 370,
+        "start": 76.725,
+        "end": 77.485,
+        "score": -2.1444
+      },
+      {
+        "word": "these",
+        "start_offset": 371,
+        "end_offset": 376,
+        "start": 78.585,
+        "end": 79.225,
+        "score": -2.6678
+      },
+      {
+        "word": "third-density",
+        "start_offset": 377,
+        "end_offset": 390,
+        "start": 79.885,
+        "end": 82.205,
+        "score": -1.3075
+      },
+      {
+        "word": "physical",
+        "start_offset": 391,
+        "end_offset": 399,
+        "start": 84.145,
+        "end": 85.145,
+        "score": -1.1186
+      },
+      {
+        "word": "bodily",
+        "start_offset": 400,
+        "end_offset": 406,
+        "start": 86.525,
+        "end": 87.245,
+        "score": -2.0311
+      },
+      {
+        "word": "complexes.",
+        "start_offset": 407,
+        "end_offset": 417,
+        "start": 88.125,
+        "end": 89.405,
+        "score": -1.0355
+      },
+      {
+        "word": "This",
+        "start_offset": 418,
+        "end_offset": 422,
+        "start": 91.506,
+        "end": 91.966,
+        "score": -0.8063
+      },
+      {
+        "word": "race",
+        "start_offset": 423,
+        "end_offset": 427,
+        "start": 92.826,
+        "end": 93.426,
+        "score": -1.4982
+      },
+      {
+        "word": "has",
+        "start_offset": 428,
+        "end_offset": 431,
+        "start": 94.346,
+        "end": 94.906,
+        "score": -1.0912
+      },
+      {
+        "word": "given",
+        "start_offset": 432,
+        "end_offset": 437,
+        "start": 96.886,
+        "end": 97.406,
+        "score": -0.7601
+      },
+      {
+        "word": "its",
+        "start_offset": 438,
+        "end_offset": 441,
+        "start": 98.386,
+        "end": 98.746,
+        "score": -0.827
+      },
+      {
+        "word": "genetic",
+        "start_offset": 442,
+        "end_offset": 449,
+        "start": 100.286,
+        "end": 101.426,
+        "score": -0.8554
+      },
+      {
+        "word": "material",
+        "start_offset": 450,
+        "end_offset": 458,
+        "start": 102.706,
+        "end": 103.946,
+        "score": -1.2164
+      },
+      {
+        "word": "to",
+        "start_offset": 459,
+        "end_offset": 461,
+        "start": 105.286,
+        "end": 105.466,
+        "score": -1.5105
+      },
+      {
+        "word": "many",
+        "start_offset": 462,
+        "end_offset": 466,
+        "start": 106.466,
+        "end": 106.846,
+        "score": -1.2449
+      },
+      {
+        "word": "bodies",
+        "start_offset": 467,
+        "end_offset": 473,
+        "start": 108.387,
+        "end": 108.727,
+        "score": -4.8688
+      },
+      {
+        "word": "upon",
+        "start_offset": 474,
+        "end_offset": 478,
+        "start": 108.747,
+        "end": 108.827,
+        "score": -7.2299
+      },
+      {
+        "word": "your",
+        "start_offset": 479,
+        "end_offset": 483,
+        "start": 108.847,
+        "end": 108.947,
+        "score": -6.7453
+      },
+      {
+        "word": "plane.",
+        "start_offset": 484,
+        "end_offset": 490,
+        "start": 108.967,
+        "end": 109.067,
+        "score": -7.0818
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "064-14.mp3",
+    "audio_duration": 114.5469,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

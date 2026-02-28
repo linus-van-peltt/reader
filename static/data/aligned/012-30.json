@@ -1,0 +1,866 @@
+{
+  "text": "I just had a thought. Do any of these Wanderers have physical ailments in this Earth situation? I am Ra. Due to the extreme variance between the vibratory distortions of third density and those of the more dense densities, if you will, Wanderers have as a general rule some form of handicap, difficulty, or feeling of alienation which is severe. The most common of these difficulties are alienation, the reaction against the planetary vibration by personality disorders, as you would call them, and body complex ailments indicating difficulty in adjustment to the planetary vibrations such as allergies, as you would call them.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I just had a thought.",
+        "start_offset": 0,
+        "end_offset": 21,
+        "start": 3.98,
+        "end": 7.78
+      },
+      {
+        "segment": "Do any of these Wanderers have physical ailments in this Earth situation?",
+        "start_offset": 22,
+        "end_offset": 95,
+        "start": 8.04,
+        "end": 19.561
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 96,
+        "end_offset": 104,
+        "start": 19.581,
+        "end": 21.841
+      },
+      {
+        "segment": "Due to the extreme variance between the vibratory distortions of third density and those of the more dense densities, if you will, Wanderers have as a general rule some form of handicap, difficulty, or feeling of alienation which is severe.",
+        "start_offset": 105,
+        "end_offset": 345,
+        "start": 21.981,
+        "end": 84.884
+      },
+      {
+        "segment": "The most common of these difficulties are alienation, the reaction against the planetary vibration by personality disorders, as you would call them, and body complex ailments indicating difficulty in adjustment to the planetary vibrations such as allergies, as you would call them.",
+        "start_offset": 346,
+        "end_offset": 627,
+        "start": 89.865,
+        "end": 153.308
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 3.98,
+        "end": 4.0,
+        "score": -7.3092
+      },
+      {
+        "word": "just",
+        "start_offset": 2,
+        "end_offset": 6,
+        "start": 5.5,
+        "end": 5.8,
+        "score": -6.6401
+      },
+      {
+        "word": "had",
+        "start_offset": 7,
+        "end_offset": 10,
+        "start": 6.92,
+        "end": 7.1,
+        "score": -6.3337
+      },
+      {
+        "word": "a",
+        "start_offset": 11,
+        "end_offset": 12,
+        "start": 7.2,
+        "end": 7.22,
+        "score": -5.1069
+      },
+      {
+        "word": "thought.",
+        "start_offset": 13,
+        "end_offset": 21,
+        "start": 7.28,
+        "end": 7.78,
+        "score": -5.553
+      },
+      {
+        "word": "Do",
+        "start_offset": 22,
+        "end_offset": 24,
+        "start": 8.04,
+        "end": 8.12,
+        "score": -6.3044
+      },
+      {
+        "word": "any",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 8.2,
+        "end": 8.4,
+        "score": -6.9938
+      },
+      {
+        "word": "of",
+        "start_offset": 29,
+        "end_offset": 31,
+        "start": 8.42,
+        "end": 8.48,
+        "score": -8.5402
+      },
+      {
+        "word": "these",
+        "start_offset": 32,
+        "end_offset": 37,
+        "start": 8.52,
+        "end": 9.641,
+        "score": -5.109
+      },
+      {
+        "word": "Wanderers",
+        "start_offset": 38,
+        "end_offset": 47,
+        "start": 9.661,
+        "end": 10.141,
+        "score": -4.7575
+      },
+      {
+        "word": "have",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 10.161,
+        "end": 10.381,
+        "score": -5.9328
+      },
+      {
+        "word": "physical",
+        "start_offset": 53,
+        "end_offset": 61,
+        "start": 12.181,
+        "end": 12.661,
+        "score": -5.3112
+      },
+      {
+        "word": "ailments",
+        "start_offset": 62,
+        "end_offset": 70,
+        "start": 12.741,
+        "end": 13.041,
+        "score": -5.9378
+      },
+      {
+        "word": "in",
+        "start_offset": 71,
+        "end_offset": 73,
+        "start": 13.061,
+        "end": 13.481,
+        "score": -7.2161
+      },
+      {
+        "word": "this",
+        "start_offset": 74,
+        "end_offset": 78,
+        "start": 15.701,
+        "end": 17.181,
+        "score": -5.7688
+      },
+      {
+        "word": "Earth",
+        "start_offset": 79,
+        "end_offset": 84,
+        "start": 17.201,
+        "end": 18.181,
+        "score": -4.5848
+      },
+      {
+        "word": "situation?",
+        "start_offset": 85,
+        "end_offset": 95,
+        "start": 18.201,
+        "end": 19.561,
+        "score": -6.212
+      },
+      {
+        "word": "I",
+        "start_offset": 96,
+        "end_offset": 97,
+        "start": 19.581,
+        "end": 19.601,
+        "score": -7.498
+      },
+      {
+        "word": "am",
+        "start_offset": 98,
+        "end_offset": 100,
+        "start": 19.641,
+        "end": 19.681,
+        "score": -6.8274
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 101,
+        "end_offset": 104,
+        "start": 20.481,
+        "end": 21.841,
+        "score": -6.4757
+      },
+      {
+        "word": "Due",
+        "start_offset": 105,
+        "end_offset": 108,
+        "start": 21.981,
+        "end": 22.301,
+        "score": -1.5808
+      },
+      {
+        "word": "to",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 23.041,
+        "end": 23.381,
+        "score": -1.9966
+      },
+      {
+        "word": "the",
+        "start_offset": 112,
+        "end_offset": 115,
+        "start": 24.081,
+        "end": 24.221,
+        "score": -2.4997
+      },
+      {
+        "word": "extreme",
+        "start_offset": 116,
+        "end_offset": 123,
+        "start": 25.401,
+        "end": 26.221,
+        "score": -1.0672
+      },
+      {
+        "word": "variance",
+        "start_offset": 124,
+        "end_offset": 132,
+        "start": 27.181,
+        "end": 28.181,
+        "score": -1.3335
+      },
+      {
+        "word": "between",
+        "start_offset": 133,
+        "end_offset": 140,
+        "start": 29.102,
+        "end": 29.842,
+        "score": -2.7266
+      },
+      {
+        "word": "the",
+        "start_offset": 141,
+        "end_offset": 144,
+        "start": 31.222,
+        "end": 31.362,
+        "score": -2.902
+      },
+      {
+        "word": "vibratory",
+        "start_offset": 145,
+        "end_offset": 154,
+        "start": 32.422,
+        "end": 33.502,
+        "score": -1.5855
+      },
+      {
+        "word": "distortions",
+        "start_offset": 155,
+        "end_offset": 166,
+        "start": 34.702,
+        "end": 35.982,
+        "score": -1.0072
+      },
+      {
+        "word": "of",
+        "start_offset": 167,
+        "end_offset": 169,
+        "start": 36.602,
+        "end": 36.802,
+        "score": -0.8857
+      },
+      {
+        "word": "third",
+        "start_offset": 170,
+        "end_offset": 175,
+        "start": 37.582,
+        "end": 37.982,
+        "score": -4.6406
+      },
+      {
+        "word": "density",
+        "start_offset": 176,
+        "end_offset": 183,
+        "start": 38.482,
+        "end": 39.142,
+        "score": -1.0575
+      },
+      {
+        "word": "and",
+        "start_offset": 184,
+        "end_offset": 187,
+        "start": 40.262,
+        "end": 40.582,
+        "score": -0.7847
+      },
+      {
+        "word": "those",
+        "start_offset": 188,
+        "end_offset": 193,
+        "start": 40.942,
+        "end": 41.482,
+        "score": -2.4319
+      },
+      {
+        "word": "of",
+        "start_offset": 194,
+        "end_offset": 196,
+        "start": 41.862,
+        "end": 42.022,
+        "score": -1.7371
+      },
+      {
+        "word": "the",
+        "start_offset": 197,
+        "end_offset": 200,
+        "start": 43.262,
+        "end": 43.402,
+        "score": -3.0934
+      },
+      {
+        "word": "more",
+        "start_offset": 201,
+        "end_offset": 205,
+        "start": 44.842,
+        "end": 45.202,
+        "score": -1.0618
+      },
+      {
+        "word": "dense",
+        "start_offset": 206,
+        "end_offset": 211,
+        "start": 46.642,
+        "end": 47.202,
+        "score": -1.701
+      },
+      {
+        "word": "densities,",
+        "start_offset": 212,
+        "end_offset": 222,
+        "start": 48.143,
+        "end": 49.163,
+        "score": -1.2889
+      },
+      {
+        "word": "if",
+        "start_offset": 223,
+        "end_offset": 225,
+        "start": 49.883,
+        "end": 50.063,
+        "score": -3.4198
+      },
+      {
+        "word": "you",
+        "start_offset": 226,
+        "end_offset": 229,
+        "start": 50.143,
+        "end": 50.243,
+        "score": -3.4215
+      },
+      {
+        "word": "will,",
+        "start_offset": 230,
+        "end_offset": 235,
+        "start": 50.383,
+        "end": 50.783,
+        "score": -4.2192
+      },
+      {
+        "word": "Wanderers",
+        "start_offset": 236,
+        "end_offset": 245,
+        "start": 52.543,
+        "end": 53.703,
+        "score": -1.5672
+      },
+      {
+        "word": "have",
+        "start_offset": 246,
+        "end_offset": 250,
+        "start": 55.423,
+        "end": 55.923,
+        "score": -0.9801
+      },
+      {
+        "word": "as",
+        "start_offset": 251,
+        "end_offset": 253,
+        "start": 56.783,
+        "end": 57.123,
+        "score": -0.8796
+      },
+      {
+        "word": "a",
+        "start_offset": 254,
+        "end_offset": 255,
+        "start": 59.323,
+        "end": 59.343,
+        "score": -0.8352
+      },
+      {
+        "word": "general",
+        "start_offset": 256,
+        "end_offset": 263,
+        "start": 59.523,
+        "end": 60.083,
+        "score": -1.116
+      },
+      {
+        "word": "rule",
+        "start_offset": 264,
+        "end_offset": 268,
+        "start": 62.123,
+        "end": 63.303,
+        "score": -3.0865
+      },
+      {
+        "word": "some",
+        "start_offset": 269,
+        "end_offset": 273,
+        "start": 64.823,
+        "end": 65.783,
+        "score": -2.0241
+      },
+      {
+        "word": "form",
+        "start_offset": 274,
+        "end_offset": 278,
+        "start": 66.103,
+        "end": 66.443,
+        "score": -3.0534
+      },
+      {
+        "word": "of",
+        "start_offset": 279,
+        "end_offset": 281,
+        "start": 67.564,
+        "end": 67.864,
+        "score": -1.1263
+      },
+      {
+        "word": "handicap,",
+        "start_offset": 282,
+        "end_offset": 291,
+        "start": 70.284,
+        "end": 71.624,
+        "score": -1.4828
+      },
+      {
+        "word": "difficulty,",
+        "start_offset": 292,
+        "end_offset": 303,
+        "start": 73.004,
+        "end": 74.264,
+        "score": -1.0738
+      },
+      {
+        "word": "or",
+        "start_offset": 304,
+        "end_offset": 306,
+        "start": 75.524,
+        "end": 75.684,
+        "score": -1.2137
+      },
+      {
+        "word": "feeling",
+        "start_offset": 307,
+        "end_offset": 314,
+        "start": 77.024,
+        "end": 77.624,
+        "score": -2.717
+      },
+      {
+        "word": "of",
+        "start_offset": 315,
+        "end_offset": 317,
+        "start": 78.304,
+        "end": 78.544,
+        "score": -3.4274
+      },
+      {
+        "word": "alienation",
+        "start_offset": 318,
+        "end_offset": 328,
+        "start": 79.484,
+        "end": 80.984,
+        "score": -1.724
+      },
+      {
+        "word": "which",
+        "start_offset": 329,
+        "end_offset": 334,
+        "start": 82.144,
+        "end": 82.544,
+        "score": -0.7942
+      },
+      {
+        "word": "is",
+        "start_offset": 335,
+        "end_offset": 337,
+        "start": 83.164,
+        "end": 83.444,
+        "score": -1.0748
+      },
+      {
+        "word": "severe.",
+        "start_offset": 338,
+        "end_offset": 345,
+        "start": 84.204,
+        "end": 84.884,
+        "score": -1.7783
+      },
+      {
+        "word": "The",
+        "start_offset": 346,
+        "end_offset": 349,
+        "start": 89.865,
+        "end": 90.005,
+        "score": -1.8682
+      },
+      {
+        "word": "most",
+        "start_offset": 350,
+        "end_offset": 354,
+        "start": 90.945,
+        "end": 91.585,
+        "score": -0.7394
+      },
+      {
+        "word": "common",
+        "start_offset": 355,
+        "end_offset": 361,
+        "start": 92.365,
+        "end": 92.965,
+        "score": -4.3642
+      },
+      {
+        "word": "of",
+        "start_offset": 362,
+        "end_offset": 364,
+        "start": 93.925,
+        "end": 94.145,
+        "score": -1.5553
+      },
+      {
+        "word": "these",
+        "start_offset": 365,
+        "end_offset": 370,
+        "start": 94.845,
+        "end": 95.385,
+        "score": -2.8034
+      },
+      {
+        "word": "difficulties",
+        "start_offset": 371,
+        "end_offset": 383,
+        "start": 96.325,
+        "end": 97.985,
+        "score": -1.3011
+      },
+      {
+        "word": "are",
+        "start_offset": 384,
+        "end_offset": 387,
+        "start": 99.145,
+        "end": 99.445,
+        "score": -1.9838
+      },
+      {
+        "word": "alienation,",
+        "start_offset": 388,
+        "end_offset": 399,
+        "start": 100.665,
+        "end": 102.305,
+        "score": -1.6842
+      },
+      {
+        "word": "the",
+        "start_offset": 400,
+        "end_offset": 403,
+        "start": 104.745,
+        "end": 104.905,
+        "score": -2.9318
+      },
+      {
+        "word": "reaction",
+        "start_offset": 404,
+        "end_offset": 412,
+        "start": 106.326,
+        "end": 107.326,
+        "score": -0.7576
+      },
+      {
+        "word": "against",
+        "start_offset": 413,
+        "end_offset": 420,
+        "start": 108.266,
+        "end": 109.146,
+        "score": -1.4679
+      },
+      {
+        "word": "the",
+        "start_offset": 421,
+        "end_offset": 424,
+        "start": 110.146,
+        "end": 110.286,
+        "score": -2.7929
+      },
+      {
+        "word": "planetary",
+        "start_offset": 425,
+        "end_offset": 434,
+        "start": 111.466,
+        "end": 112.786,
+        "score": -1.5484
+      },
+      {
+        "word": "vibration",
+        "start_offset": 435,
+        "end_offset": 444,
+        "start": 113.406,
+        "end": 114.466,
+        "score": -0.8768
+      },
+      {
+        "word": "by",
+        "start_offset": 445,
+        "end_offset": 447,
+        "start": 115.626,
+        "end": 116.066,
+        "score": -1.6226
+      },
+      {
+        "word": "personality",
+        "start_offset": 448,
+        "end_offset": 459,
+        "start": 116.986,
+        "end": 119.266,
+        "score": -1.3528
+      },
+      {
+        "word": "disorders,",
+        "start_offset": 460,
+        "end_offset": 470,
+        "start": 120.606,
+        "end": 121.806,
+        "score": -2.1463
+      },
+      {
+        "word": "as",
+        "start_offset": 471,
+        "end_offset": 473,
+        "start": 122.586,
+        "end": 122.826,
+        "score": -0.7592
+      },
+      {
+        "word": "you",
+        "start_offset": 474,
+        "end_offset": 477,
+        "start": 123.046,
+        "end": 123.186,
+        "score": -1.9532
+      },
+      {
+        "word": "would",
+        "start_offset": 478,
+        "end_offset": 483,
+        "start": 123.346,
+        "end": 123.726,
+        "score": -3.1346
+      },
+      {
+        "word": "call",
+        "start_offset": 484,
+        "end_offset": 488,
+        "start": 124.006,
+        "end": 124.346,
+        "score": -3.7042
+      },
+      {
+        "word": "them,",
+        "start_offset": 489,
+        "end_offset": 494,
+        "start": 124.466,
+        "end": 124.787,
+        "score": -3.4191
+      },
+      {
+        "word": "and",
+        "start_offset": 495,
+        "end_offset": 498,
+        "start": 126.307,
+        "end": 126.627,
+        "score": -1.8434
+      },
+      {
+        "word": "body",
+        "start_offset": 499,
+        "end_offset": 503,
+        "start": 127.767,
+        "end": 128.187,
+        "score": -0.9425
+      },
+      {
+        "word": "complex",
+        "start_offset": 504,
+        "end_offset": 511,
+        "start": 128.807,
+        "end": 129.647,
+        "score": -2.3789
+      },
+      {
+        "word": "ailments",
+        "start_offset": 512,
+        "end_offset": 520,
+        "start": 130.567,
+        "end": 131.287,
+        "score": -2.9318
+      },
+      {
+        "word": "indicating",
+        "start_offset": 521,
+        "end_offset": 531,
+        "start": 132.247,
+        "end": 133.527,
+        "score": -1.3851
+      },
+      {
+        "word": "difficulty",
+        "start_offset": 532,
+        "end_offset": 542,
+        "start": 134.887,
+        "end": 135.827,
+        "score": -0.7352
+      },
+      {
+        "word": "in",
+        "start_offset": 543,
+        "end_offset": 545,
+        "start": 136.647,
+        "end": 136.827,
+        "score": -1.0454
+      },
+      {
+        "word": "adjustment",
+        "start_offset": 546,
+        "end_offset": 556,
+        "start": 137.587,
+        "end": 138.447,
+        "score": -3.7084
+      },
+      {
+        "word": "to",
+        "start_offset": 557,
+        "end_offset": 559,
+        "start": 139.267,
+        "end": 139.587,
+        "score": -2.3848
+      },
+      {
+        "word": "the",
+        "start_offset": 560,
+        "end_offset": 563,
+        "start": 140.607,
+        "end": 140.727,
+        "score": -1.541
+      },
+      {
+        "word": "planetary",
+        "start_offset": 564,
+        "end_offset": 573,
+        "start": 141.447,
+        "end": 142.667,
+        "score": -2.9732
+      },
+      {
+        "word": "vibrations",
+        "start_offset": 574,
+        "end_offset": 584,
+        "start": 143.487,
+        "end": 144.748,
+        "score": -1.3419
+      },
+      {
+        "word": "such",
+        "start_offset": 585,
+        "end_offset": 589,
+        "start": 145.508,
+        "end": 145.948,
+        "score": -0.7277
+      },
+      {
+        "word": "as",
+        "start_offset": 590,
+        "end_offset": 592,
+        "start": 146.728,
+        "end": 147.068,
+        "score": -1.0699
+      },
+      {
+        "word": "allergies,",
+        "start_offset": 593,
+        "end_offset": 603,
+        "start": 148.288,
+        "end": 149.868,
+        "score": -2.5472
+      },
+      {
+        "word": "as",
+        "start_offset": 604,
+        "end_offset": 606,
+        "start": 150.628,
+        "end": 150.888,
+        "score": -1.0545
+      },
+      {
+        "word": "you",
+        "start_offset": 607,
+        "end_offset": 610,
+        "start": 151.028,
+        "end": 151.188,
+        "score": -2.2412
+      },
+      {
+        "word": "would",
+        "start_offset": 611,
+        "end_offset": 616,
+        "start": 151.668,
+        "end": 152.008,
+        "score": -3.5342
+      },
+      {
+        "word": "call",
+        "start_offset": 617,
+        "end_offset": 621,
+        "start": 152.588,
+        "end": 152.908,
+        "score": -3.2875
+      },
+      {
+        "word": "them.",
+        "start_offset": 622,
+        "end_offset": 627,
+        "start": 153.048,
+        "end": 153.308,
+        "score": -3.4486
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "012-30.mp3",
+    "audio_duration": 157.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

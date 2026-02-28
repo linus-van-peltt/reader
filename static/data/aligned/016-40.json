@@ -1,0 +1,442 @@
+{
+  "text": "That is a very important point. I used the wrong word. What I meant to say was I believe that it was not necessary for an entity to be consciously aware of the Law of One to go from third to fourth density. I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "That is a very important point.",
+        "start_offset": 0,
+        "end_offset": 31,
+        "start": 2.522,
+        "end": 6.945
+      },
+      {
+        "segment": "I used the wrong word.",
+        "start_offset": 32,
+        "end_offset": 54,
+        "start": 6.985,
+        "end": 8.246
+      },
+      {
+        "segment": "What I meant to say was I believe that it was not necessary for an entity to be consciously aware of the Law of One to go from third to fourth density.",
+        "start_offset": 55,
+        "end_offset": 206,
+        "start": 9.567,
+        "end": 20.875
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 207,
+        "end_offset": 215,
+        "start": 24.217,
+        "end": 25.638
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 216,
+        "end_offset": 232,
+        "start": 25.738,
+        "end": 29.781
+      }
+    ],
+    "word": [
+      {
+        "word": "That",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.522,
+        "end": 2.682,
+        "score": -2.9457
+      },
+      {
+        "word": "is",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 2.722,
+        "end": 2.802,
+        "score": -2.3959
+      },
+      {
+        "word": "a",
+        "start_offset": 8,
+        "end_offset": 9,
+        "start": 2.822,
+        "end": 2.842,
+        "score": -4.9968
+      },
+      {
+        "word": "very",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 2.882,
+        "end": 3.102,
+        "score": -3.6637
+      },
+      {
+        "word": "important",
+        "start_offset": 15,
+        "end_offset": 24,
+        "start": 3.202,
+        "end": 3.683,
+        "score": -1.0823
+      },
+      {
+        "word": "point.",
+        "start_offset": 25,
+        "end_offset": 31,
+        "start": 3.743,
+        "end": 6.945,
+        "score": -2.9577
+      },
+      {
+        "word": "I",
+        "start_offset": 32,
+        "end_offset": 33,
+        "start": 6.985,
+        "end": 7.005,
+        "score": -3.2545
+      },
+      {
+        "word": "used",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 7.165,
+        "end": 7.425,
+        "score": -3.6846
+      },
+      {
+        "word": "the",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 7.545,
+        "end": 7.645,
+        "score": -3.8841
+      },
+      {
+        "word": "wrong",
+        "start_offset": 43,
+        "end_offset": 48,
+        "start": 7.685,
+        "end": 7.926,
+        "score": -4.5559
+      },
+      {
+        "word": "word.",
+        "start_offset": 49,
+        "end_offset": 54,
+        "start": 8.026,
+        "end": 8.246,
+        "score": -5.0607
+      },
+      {
+        "word": "What",
+        "start_offset": 55,
+        "end_offset": 59,
+        "start": 9.567,
+        "end": 9.707,
+        "score": -2.23
+      },
+      {
+        "word": "I",
+        "start_offset": 60,
+        "end_offset": 61,
+        "start": 9.787,
+        "end": 9.807,
+        "score": -2.079
+      },
+      {
+        "word": "meant",
+        "start_offset": 62,
+        "end_offset": 67,
+        "start": 9.827,
+        "end": 10.027,
+        "score": -3.1125
+      },
+      {
+        "word": "to",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 10.087,
+        "end": 10.167,
+        "score": -0.7826
+      },
+      {
+        "word": "say",
+        "start_offset": 71,
+        "end_offset": 74,
+        "start": 10.267,
+        "end": 10.467,
+        "score": -1.0224
+      },
+      {
+        "word": "was",
+        "start_offset": 75,
+        "end_offset": 78,
+        "start": 10.627,
+        "end": 10.908,
+        "score": -1.5219
+      },
+      {
+        "word": "I",
+        "start_offset": 79,
+        "end_offset": 80,
+        "start": 11.848,
+        "end": 11.868,
+        "score": -3.234
+      },
+      {
+        "word": "believe",
+        "start_offset": 81,
+        "end_offset": 88,
+        "start": 11.908,
+        "end": 12.309,
+        "score": -0.9618
+      },
+      {
+        "word": "that",
+        "start_offset": 89,
+        "end_offset": 93,
+        "start": 12.329,
+        "end": 12.489,
+        "score": -3.5679
+      },
+      {
+        "word": "it",
+        "start_offset": 94,
+        "end_offset": 96,
+        "start": 12.509,
+        "end": 12.589,
+        "score": -3.7848
+      },
+      {
+        "word": "was",
+        "start_offset": 97,
+        "end_offset": 100,
+        "start": 12.609,
+        "end": 12.749,
+        "score": -3.9735
+      },
+      {
+        "word": "not",
+        "start_offset": 101,
+        "end_offset": 104,
+        "start": 12.809,
+        "end": 13.069,
+        "score": -3.3047
+      },
+      {
+        "word": "necessary",
+        "start_offset": 105,
+        "end_offset": 114,
+        "start": 13.189,
+        "end": 13.81,
+        "score": -1.7388
+      },
+      {
+        "word": "for",
+        "start_offset": 115,
+        "end_offset": 118,
+        "start": 14.29,
+        "end": 14.57,
+        "score": -1.6223
+      },
+      {
+        "word": "an",
+        "start_offset": 119,
+        "end_offset": 121,
+        "start": 14.79,
+        "end": 14.85,
+        "score": -3.1083
+      },
+      {
+        "word": "entity",
+        "start_offset": 122,
+        "end_offset": 128,
+        "start": 15.01,
+        "end": 15.231,
+        "score": -4.3418
+      },
+      {
+        "word": "to",
+        "start_offset": 129,
+        "end_offset": 131,
+        "start": 15.311,
+        "end": 15.411,
+        "score": -3.5188
+      },
+      {
+        "word": "be",
+        "start_offset": 132,
+        "end_offset": 134,
+        "start": 15.831,
+        "end": 15.911,
+        "score": -6.3796
+      },
+      {
+        "word": "consciously",
+        "start_offset": 135,
+        "end_offset": 146,
+        "start": 16.131,
+        "end": 16.752,
+        "score": -3.4183
+      },
+      {
+        "word": "aware",
+        "start_offset": 147,
+        "end_offset": 152,
+        "start": 16.892,
+        "end": 17.192,
+        "score": -3.062
+      },
+      {
+        "word": "of",
+        "start_offset": 153,
+        "end_offset": 155,
+        "start": 17.832,
+        "end": 17.932,
+        "score": -1.8119
+      },
+      {
+        "word": "the",
+        "start_offset": 156,
+        "end_offset": 159,
+        "start": 17.952,
+        "end": 18.053,
+        "score": -1.0614
+      },
+      {
+        "word": "Law",
+        "start_offset": 160,
+        "end_offset": 163,
+        "start": 18.133,
+        "end": 18.313,
+        "score": -3.3315
+      },
+      {
+        "word": "of",
+        "start_offset": 164,
+        "end_offset": 166,
+        "start": 18.393,
+        "end": 18.613,
+        "score": -4.0308
+      },
+      {
+        "word": "One",
+        "start_offset": 167,
+        "end_offset": 170,
+        "start": 18.693,
+        "end": 18.833,
+        "score": -2.2154
+      },
+      {
+        "word": "to",
+        "start_offset": 171,
+        "end_offset": 173,
+        "start": 19.073,
+        "end": 19.133,
+        "score": -2.4513
+      },
+      {
+        "word": "go",
+        "start_offset": 174,
+        "end_offset": 176,
+        "start": 19.193,
+        "end": 19.233,
+        "score": -4.9471
+      },
+      {
+        "word": "from",
+        "start_offset": 177,
+        "end_offset": 181,
+        "start": 19.273,
+        "end": 19.594,
+        "score": -3.2217
+      },
+      {
+        "word": "third",
+        "start_offset": 182,
+        "end_offset": 187,
+        "start": 19.834,
+        "end": 20.034,
+        "score": -3.3647
+      },
+      {
+        "word": "to",
+        "start_offset": 188,
+        "end_offset": 190,
+        "start": 20.254,
+        "end": 20.354,
+        "score": -3.8964
+      },
+      {
+        "word": "fourth",
+        "start_offset": 191,
+        "end_offset": 197,
+        "start": 20.394,
+        "end": 20.574,
+        "score": -4.9818
+      },
+      {
+        "word": "density.",
+        "start_offset": 198,
+        "end_offset": 206,
+        "start": 20.594,
+        "end": 20.875,
+        "score": -4.6357
+      },
+      {
+        "word": "I",
+        "start_offset": 207,
+        "end_offset": 208,
+        "start": 24.217,
+        "end": 24.237,
+        "score": -2.5379
+      },
+      {
+        "word": "am",
+        "start_offset": 209,
+        "end_offset": 211,
+        "start": 24.737,
+        "end": 24.877,
+        "score": -4.136
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 212,
+        "end_offset": 215,
+        "start": 25.498,
+        "end": 25.638,
+        "score": -4.1524
+      },
+      {
+        "word": "This",
+        "start_offset": 216,
+        "end_offset": 220,
+        "start": 25.738,
+        "end": 27.339,
+        "score": -6.144
+      },
+      {
+        "word": "is",
+        "start_offset": 221,
+        "end_offset": 223,
+        "start": 28.1,
+        "end": 28.4,
+        "score": -5.5295
+      },
+      {
+        "word": "correct.",
+        "start_offset": 224,
+        "end_offset": 232,
+        "start": 29.02,
+        "end": 29.781,
+        "score": -4.0623
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-40.mp3",
+    "audio_duration": 30.0409,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "text": "Thank you. Could you please make the instrument cough?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 0,
+        "end_offset": 10,
+        "start": 1.642,
+        "end": 1.942
+      },
+      {
+        "segment": "Could you please make the instrument cough?",
+        "start_offset": 11,
+        "end_offset": 54,
+        "start": 2.002,
+        "end": 3.924
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 1.642,
+        "end": 1.842,
+        "score": -1.4314
+      },
+      {
+        "word": "you.",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 1.882,
+        "end": 1.942,
+        "score": -2.38
+      },
+      {
+        "word": "Could",
+        "start_offset": 11,
+        "end_offset": 16,
+        "start": 2.002,
+        "end": 2.142,
+        "score": -1.3817
+      },
+      {
+        "word": "you",
+        "start_offset": 17,
+        "end_offset": 20,
+        "start": 2.162,
+        "end": 2.262,
+        "score": -1.8915
+      },
+      {
+        "word": "please",
+        "start_offset": 21,
+        "end_offset": 27,
+        "start": 2.382,
+        "end": 2.623,
+        "score": -1.6228
+      },
+      {
+        "word": "make",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 2.663,
+        "end": 2.843,
+        "score": -1.5987
+      },
+      {
+        "word": "the",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 2.863,
+        "end": 2.943,
+        "score": -1.3547
+      },
+      {
+        "word": "instrument",
+        "start_offset": 37,
+        "end_offset": 47,
+        "start": 3.023,
+        "end": 3.463,
+        "score": -0.8329
+      },
+      {
+        "word": "cough?",
+        "start_offset": 48,
+        "end_offset": 54,
+        "start": 3.544,
+        "end": 3.924,
+        "score": -3.304
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "026-09.mp3",
+    "audio_duration": 7.027,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

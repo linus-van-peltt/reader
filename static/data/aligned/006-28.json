@@ -1,0 +1,244 @@
+{
+  "text": "In that case perhaps we should continue at a later time. We shall agree. Therefore, unless you have a short question we will take our leave.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "In that case perhaps we should continue at a later time.",
+        "start_offset": 0,
+        "end_offset": 56,
+        "start": 7.382,
+        "end": 12.524
+      },
+      {
+        "segment": "We shall agree.",
+        "start_offset": 57,
+        "end_offset": 72,
+        "start": 12.544,
+        "end": 14.345
+      },
+      {
+        "segment": "Therefore, unless you have a short question we will take our leave.",
+        "start_offset": 73,
+        "end_offset": 140,
+        "start": 14.365,
+        "end": 27.329
+      }
+    ],
+    "word": [
+      {
+        "word": "In",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 7.382,
+        "end": 8.943,
+        "score": -11.2326
+      },
+      {
+        "word": "that",
+        "start_offset": 3,
+        "end_offset": 7,
+        "start": 8.963,
+        "end": 9.043,
+        "score": -9.5441
+      },
+      {
+        "word": "case",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 9.063,
+        "end": 9.143,
+        "score": -9.4356
+      },
+      {
+        "word": "perhaps",
+        "start_offset": 13,
+        "end_offset": 20,
+        "start": 9.163,
+        "end": 10.404,
+        "score": -10.2636
+      },
+      {
+        "word": "we",
+        "start_offset": 21,
+        "end_offset": 23,
+        "start": 10.424,
+        "end": 10.464,
+        "score": -10.7957
+      },
+      {
+        "word": "should",
+        "start_offset": 24,
+        "end_offset": 30,
+        "start": 10.484,
+        "end": 10.824,
+        "score": -5.2361
+      },
+      {
+        "word": "continue",
+        "start_offset": 31,
+        "end_offset": 39,
+        "start": 10.844,
+        "end": 11.804,
+        "score": -11.3459
+      },
+      {
+        "word": "at",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 12.024,
+        "end": 12.064,
+        "score": -10.6965
+      },
+      {
+        "word": "a",
+        "start_offset": 43,
+        "end_offset": 44,
+        "start": 12.124,
+        "end": 12.144,
+        "score": -0.7077
+      },
+      {
+        "word": "later",
+        "start_offset": 45,
+        "end_offset": 50,
+        "start": 12.164,
+        "end": 12.364,
+        "score": -8.0139
+      },
+      {
+        "word": "time.",
+        "start_offset": 51,
+        "end_offset": 56,
+        "start": 12.404,
+        "end": 12.524,
+        "score": -7.3084
+      },
+      {
+        "word": "We",
+        "start_offset": 57,
+        "end_offset": 59,
+        "start": 12.544,
+        "end": 12.584,
+        "score": -10.2615
+      },
+      {
+        "word": "shall",
+        "start_offset": 60,
+        "end_offset": 65,
+        "start": 12.604,
+        "end": 14.205,
+        "score": -11.3568
+      },
+      {
+        "word": "agree.",
+        "start_offset": 66,
+        "end_offset": 72,
+        "start": 14.225,
+        "end": 14.345,
+        "score": -9.7478
+      },
+      {
+        "word": "Therefore,",
+        "start_offset": 73,
+        "end_offset": 83,
+        "start": 14.365,
+        "end": 14.965,
+        "score": -0.8076
+      },
+      {
+        "word": "unless",
+        "start_offset": 84,
+        "end_offset": 90,
+        "start": 16.586,
+        "end": 17.066,
+        "score": -0.6995
+      },
+      {
+        "word": "you",
+        "start_offset": 91,
+        "end_offset": 94,
+        "start": 17.826,
+        "end": 17.946,
+        "score": -0.7027
+      },
+      {
+        "word": "have",
+        "start_offset": 95,
+        "end_offset": 99,
+        "start": 18.086,
+        "end": 18.506,
+        "score": -0.7046
+      },
+      {
+        "word": "a",
+        "start_offset": 100,
+        "end_offset": 101,
+        "start": 19.467,
+        "end": 19.487,
+        "score": -0.7042
+      },
+      {
+        "word": "short",
+        "start_offset": 102,
+        "end_offset": 107,
+        "start": 19.727,
+        "end": 20.067,
+        "score": -0.6987
+      },
+      {
+        "word": "question",
+        "start_offset": 108,
+        "end_offset": 116,
+        "start": 21.287,
+        "end": 21.907,
+        "score": -0.7071
+      },
+      {
+        "word": "we",
+        "start_offset": 117,
+        "end_offset": 119,
+        "start": 23.008,
+        "end": 23.128,
+        "score": -0.7793
+      },
+      {
+        "word": "will",
+        "start_offset": 120,
+        "end_offset": 124,
+        "start": 24.008,
+        "end": 24.248,
+        "score": -0.7831
+      },
+      {
+        "word": "take",
+        "start_offset": 125,
+        "end_offset": 129,
+        "start": 24.868,
+        "end": 25.269,
+        "score": -0.7405
+      },
+      {
+        "word": "our",
+        "start_offset": 130,
+        "end_offset": 133,
+        "start": 25.989,
+        "end": 26.189,
+        "score": -0.7655
+      },
+      {
+        "word": "leave.",
+        "start_offset": 134,
+        "end_offset": 140,
+        "start": 27.069,
+        "end": 27.329,
+        "score": -1.1095
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "006-28.mp3",
+    "audio_duration": 28.0294,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

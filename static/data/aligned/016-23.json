@@ -1,0 +1,457 @@
+{
+  "text": "Does this mean that you would have awareness of all that is? I am Ra. This is partially correct. It is our understanding that it would not be our awareness, but simply awareness of the Creator. In the Creator is all that there is. Therefore, this knowledge would be available.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Does this mean that you would have awareness of all that is?",
+        "start_offset": 0,
+        "end_offset": 60,
+        "start": 2.7,
+        "end": 15.022
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 61,
+        "end_offset": 69,
+        "start": 15.042,
+        "end": 15.202
+      },
+      {
+        "segment": "This is partially correct.",
+        "start_offset": 70,
+        "end_offset": 96,
+        "start": 16.482,
+        "end": 20.563
+      },
+      {
+        "segment": "It is our understanding that it would not be our awareness, but simply awareness of the Creator.",
+        "start_offset": 97,
+        "end_offset": 193,
+        "start": 21.603,
+        "end": 41.766
+      },
+      {
+        "segment": "In the Creator is all that there is.",
+        "start_offset": 194,
+        "end_offset": 230,
+        "start": 43.786,
+        "end": 49.407
+      },
+      {
+        "segment": "Therefore, this knowledge would be available.",
+        "start_offset": 231,
+        "end_offset": 276,
+        "start": 50.447,
+        "end": 57.448
+      }
+    ],
+    "word": [
+      {
+        "word": "Does",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.7,
+        "end": 2.86,
+        "score": -8.7873
+      },
+      {
+        "word": "this",
+        "start_offset": 5,
+        "end_offset": 9,
+        "start": 4.601,
+        "end": 5.081,
+        "score": -8.1362
+      },
+      {
+        "word": "mean",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 12.582,
+        "end": 12.922,
+        "score": -6.8752
+      },
+      {
+        "word": "that",
+        "start_offset": 15,
+        "end_offset": 19,
+        "start": 12.942,
+        "end": 13.022,
+        "score": -8.2466
+      },
+      {
+        "word": "you",
+        "start_offset": 20,
+        "end_offset": 23,
+        "start": 13.442,
+        "end": 13.582,
+        "score": -7.2426
+      },
+      {
+        "word": "would",
+        "start_offset": 24,
+        "end_offset": 29,
+        "start": 13.602,
+        "end": 13.822,
+        "score": -7.1544
+      },
+      {
+        "word": "have",
+        "start_offset": 30,
+        "end_offset": 34,
+        "start": 13.842,
+        "end": 14.402,
+        "score": -8.6007
+      },
+      {
+        "word": "awareness",
+        "start_offset": 35,
+        "end_offset": 44,
+        "start": 14.422,
+        "end": 14.682,
+        "score": -7.1114
+      },
+      {
+        "word": "of",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 14.702,
+        "end": 14.742,
+        "score": -7.128
+      },
+      {
+        "word": "all",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 14.762,
+        "end": 14.842,
+        "score": -7.2814
+      },
+      {
+        "word": "that",
+        "start_offset": 52,
+        "end_offset": 56,
+        "start": 14.862,
+        "end": 14.942,
+        "score": -5.9816
+      },
+      {
+        "word": "is?",
+        "start_offset": 57,
+        "end_offset": 60,
+        "start": 14.982,
+        "end": 15.022,
+        "score": -8.0683
+      },
+      {
+        "word": "I",
+        "start_offset": 61,
+        "end_offset": 62,
+        "start": 15.042,
+        "end": 15.062,
+        "score": -8.7602
+      },
+      {
+        "word": "am",
+        "start_offset": 63,
+        "end_offset": 65,
+        "start": 15.082,
+        "end": 15.122,
+        "score": -8.3543
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 66,
+        "end_offset": 69,
+        "start": 15.142,
+        "end": 15.202,
+        "score": -8.5611
+      },
+      {
+        "word": "This",
+        "start_offset": 70,
+        "end_offset": 74,
+        "start": 16.482,
+        "end": 16.782,
+        "score": -1.5458
+      },
+      {
+        "word": "is",
+        "start_offset": 75,
+        "end_offset": 77,
+        "start": 17.262,
+        "end": 17.562,
+        "score": -0.9534
+      },
+      {
+        "word": "partially",
+        "start_offset": 78,
+        "end_offset": 87,
+        "start": 17.982,
+        "end": 18.943,
+        "score": -0.8688
+      },
+      {
+        "word": "correct.",
+        "start_offset": 88,
+        "end_offset": 96,
+        "start": 19.623,
+        "end": 20.563,
+        "score": -0.7429
+      },
+      {
+        "word": "It",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 21.603,
+        "end": 21.783,
+        "score": -0.921
+      },
+      {
+        "word": "is",
+        "start_offset": 100,
+        "end_offset": 102,
+        "start": 22.143,
+        "end": 22.383,
+        "score": -0.7374
+      },
+      {
+        "word": "our",
+        "start_offset": 103,
+        "end_offset": 106,
+        "start": 22.783,
+        "end": 23.043,
+        "score": -0.7173
+      },
+      {
+        "word": "understanding",
+        "start_offset": 107,
+        "end_offset": 120,
+        "start": 23.523,
+        "end": 24.823,
+        "score": -1.0921
+      },
+      {
+        "word": "that",
+        "start_offset": 121,
+        "end_offset": 125,
+        "start": 25.803,
+        "end": 26.164,
+        "score": -0.9206
+      },
+      {
+        "word": "it",
+        "start_offset": 126,
+        "end_offset": 128,
+        "start": 26.944,
+        "end": 27.124,
+        "score": -0.7914
+      },
+      {
+        "word": "would",
+        "start_offset": 129,
+        "end_offset": 134,
+        "start": 27.544,
+        "end": 27.844,
+        "score": -0.8073
+      },
+      {
+        "word": "not",
+        "start_offset": 135,
+        "end_offset": 138,
+        "start": 28.324,
+        "end": 28.684,
+        "score": -0.7574
+      },
+      {
+        "word": "be",
+        "start_offset": 139,
+        "end_offset": 141,
+        "start": 29.144,
+        "end": 29.264,
+        "score": -0.8701
+      },
+      {
+        "word": "our",
+        "start_offset": 142,
+        "end_offset": 145,
+        "start": 30.624,
+        "end": 30.944,
+        "score": -0.7926
+      },
+      {
+        "word": "awareness,",
+        "start_offset": 146,
+        "end_offset": 156,
+        "start": 31.564,
+        "end": 32.304,
+        "score": -0.766
+      },
+      {
+        "word": "but",
+        "start_offset": 157,
+        "end_offset": 160,
+        "start": 33.084,
+        "end": 33.404,
+        "score": -0.7042
+      },
+      {
+        "word": "simply",
+        "start_offset": 161,
+        "end_offset": 167,
+        "start": 34.025,
+        "end": 34.525,
+        "score": -0.6992
+      },
+      {
+        "word": "awareness",
+        "start_offset": 168,
+        "end_offset": 177,
+        "start": 35.425,
+        "end": 36.305,
+        "score": -0.8275
+      },
+      {
+        "word": "of",
+        "start_offset": 178,
+        "end_offset": 180,
+        "start": 38.105,
+        "end": 38.305,
+        "score": -1.5754
+      },
+      {
+        "word": "the",
+        "start_offset": 181,
+        "end_offset": 184,
+        "start": 39.525,
+        "end": 39.665,
+        "score": -1.591
+      },
+      {
+        "word": "Creator.",
+        "start_offset": 185,
+        "end_offset": 193,
+        "start": 40.825,
+        "end": 41.766,
+        "score": -1.5514
+      },
+      {
+        "word": "In",
+        "start_offset": 194,
+        "end_offset": 196,
+        "start": 43.786,
+        "end": 43.966,
+        "score": -1.0389
+      },
+      {
+        "word": "the",
+        "start_offset": 197,
+        "end_offset": 200,
+        "start": 44.406,
+        "end": 44.526,
+        "score": -1.1586
+      },
+      {
+        "word": "Creator",
+        "start_offset": 201,
+        "end_offset": 208,
+        "start": 44.986,
+        "end": 45.886,
+        "score": -0.7927
+      },
+      {
+        "word": "is",
+        "start_offset": 209,
+        "end_offset": 211,
+        "start": 46.946,
+        "end": 47.226,
+        "score": -0.7089
+      },
+      {
+        "word": "all",
+        "start_offset": 212,
+        "end_offset": 215,
+        "start": 47.706,
+        "end": 47.906,
+        "score": -0.7084
+      },
+      {
+        "word": "that",
+        "start_offset": 216,
+        "end_offset": 220,
+        "start": 48.186,
+        "end": 48.467,
+        "score": -0.732
+      },
+      {
+        "word": "there",
+        "start_offset": 221,
+        "end_offset": 226,
+        "start": 48.647,
+        "end": 48.887,
+        "score": -0.8046
+      },
+      {
+        "word": "is.",
+        "start_offset": 227,
+        "end_offset": 230,
+        "start": 49.107,
+        "end": 49.407,
+        "score": -0.7403
+      },
+      {
+        "word": "Therefore,",
+        "start_offset": 231,
+        "end_offset": 241,
+        "start": 50.447,
+        "end": 51.367,
+        "score": -0.8432
+      },
+      {
+        "word": "this",
+        "start_offset": 242,
+        "end_offset": 246,
+        "start": 52.007,
+        "end": 52.347,
+        "score": -0.9172
+      },
+      {
+        "word": "knowledge",
+        "start_offset": 247,
+        "end_offset": 256,
+        "start": 52.867,
+        "end": 53.507,
+        "score": -0.9371
+      },
+      {
+        "word": "would",
+        "start_offset": 257,
+        "end_offset": 262,
+        "start": 54.267,
+        "end": 54.607,
+        "score": -0.8331
+      },
+      {
+        "word": "be",
+        "start_offset": 263,
+        "end_offset": 265,
+        "start": 55.387,
+        "end": 55.507,
+        "score": -0.7508
+      },
+      {
+        "word": "available.",
+        "start_offset": 266,
+        "end_offset": 276,
+        "start": 56.508,
+        "end": 57.448,
+        "score": -1.4327
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-23.mp3",
+    "audio_duration": 61.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

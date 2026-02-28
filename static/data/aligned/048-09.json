@@ -1,0 +1,307 @@
+{
+  "text": "An analogy to that would be a student entering college and signing up for more courses than he could possibly assimilate in the time. Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "An analogy to that would be a student entering college and signing up for more courses than he could possibly assimilate in the time.",
+        "start_offset": 0,
+        "end_offset": 133,
+        "start": 1.601,
+        "end": 12.026
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 134,
+        "end_offset": 150,
+        "start": 13.027,
+        "end": 13.687
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 151,
+        "end_offset": 159,
+        "start": 15.788,
+        "end": 17.389
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 160,
+        "end_offset": 176,
+        "start": 18.93,
+        "end": 21.832
+      }
+    ],
+    "word": [
+      {
+        "word": "An",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 1.601,
+        "end": 1.681,
+        "score": -2.7605
+      },
+      {
+        "word": "analogy",
+        "start_offset": 3,
+        "end_offset": 10,
+        "start": 1.721,
+        "end": 2.241,
+        "score": -2.3748
+      },
+      {
+        "word": "to",
+        "start_offset": 11,
+        "end_offset": 13,
+        "start": 2.421,
+        "end": 2.501,
+        "score": -0.7031
+      },
+      {
+        "word": "that",
+        "start_offset": 14,
+        "end_offset": 18,
+        "start": 2.561,
+        "end": 2.801,
+        "score": -0.7178
+      },
+      {
+        "word": "would",
+        "start_offset": 19,
+        "end_offset": 24,
+        "start": 2.862,
+        "end": 3.022,
+        "score": -0.7158
+      },
+      {
+        "word": "be",
+        "start_offset": 25,
+        "end_offset": 27,
+        "start": 3.062,
+        "end": 3.142,
+        "score": -0.6965
+      },
+      {
+        "word": "a",
+        "start_offset": 28,
+        "end_offset": 29,
+        "start": 3.242,
+        "end": 3.262,
+        "score": -0.7001
+      },
+      {
+        "word": "student",
+        "start_offset": 30,
+        "end_offset": 37,
+        "start": 3.402,
+        "end": 3.842,
+        "score": -0.7424
+      },
+      {
+        "word": "entering",
+        "start_offset": 38,
+        "end_offset": 46,
+        "start": 3.942,
+        "end": 4.262,
+        "score": -1.1035
+      },
+      {
+        "word": "college",
+        "start_offset": 47,
+        "end_offset": 54,
+        "start": 4.322,
+        "end": 4.863,
+        "score": -0.6949
+      },
+      {
+        "word": "and",
+        "start_offset": 55,
+        "end_offset": 58,
+        "start": 4.943,
+        "end": 5.063,
+        "score": -0.9099
+      },
+      {
+        "word": "signing",
+        "start_offset": 59,
+        "end_offset": 66,
+        "start": 5.123,
+        "end": 5.483,
+        "score": -1.3957
+      },
+      {
+        "word": "up",
+        "start_offset": 67,
+        "end_offset": 69,
+        "start": 5.563,
+        "end": 5.663,
+        "score": -0.9549
+      },
+      {
+        "word": "for",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 5.723,
+        "end": 5.823,
+        "score": -0.7411
+      },
+      {
+        "word": "more",
+        "start_offset": 74,
+        "end_offset": 78,
+        "start": 5.903,
+        "end": 6.083,
+        "score": -0.7913
+      },
+      {
+        "word": "courses",
+        "start_offset": 79,
+        "end_offset": 86,
+        "start": 6.163,
+        "end": 6.644,
+        "score": -2.6739
+      },
+      {
+        "word": "than",
+        "start_offset": 87,
+        "end_offset": 91,
+        "start": 6.704,
+        "end": 6.844,
+        "score": -0.7113
+      },
+      {
+        "word": "he",
+        "start_offset": 92,
+        "end_offset": 94,
+        "start": 6.904,
+        "end": 6.964,
+        "score": -0.7046
+      },
+      {
+        "word": "could",
+        "start_offset": 95,
+        "end_offset": 100,
+        "start": 7.064,
+        "end": 7.264,
+        "score": -1.0347
+      },
+      {
+        "word": "possibly",
+        "start_offset": 101,
+        "end_offset": 109,
+        "start": 9.045,
+        "end": 9.605,
+        "score": -0.7549
+      },
+      {
+        "word": "assimilate",
+        "start_offset": 110,
+        "end_offset": 120,
+        "start": 10.486,
+        "end": 11.166,
+        "score": -1.2164
+      },
+      {
+        "word": "in",
+        "start_offset": 121,
+        "end_offset": 123,
+        "start": 11.366,
+        "end": 11.446,
+        "score": -1.0157
+      },
+      {
+        "word": "the",
+        "start_offset": 124,
+        "end_offset": 127,
+        "start": 11.486,
+        "end": 11.586,
+        "score": -0.8778
+      },
+      {
+        "word": "time.",
+        "start_offset": 128,
+        "end_offset": 133,
+        "start": 11.666,
+        "end": 12.026,
+        "score": -3.1642
+      },
+      {
+        "word": "Is",
+        "start_offset": 134,
+        "end_offset": 136,
+        "start": 13.027,
+        "end": 13.067,
+        "score": -7.4722
+      },
+      {
+        "word": "this",
+        "start_offset": 137,
+        "end_offset": 141,
+        "start": 13.087,
+        "end": 13.247,
+        "score": -3.3834
+      },
+      {
+        "word": "correct?",
+        "start_offset": 142,
+        "end_offset": 150,
+        "start": 13.287,
+        "end": 13.687,
+        "score": -0.7091
+      },
+      {
+        "word": "I",
+        "start_offset": 151,
+        "end_offset": 152,
+        "start": 15.788,
+        "end": 15.808,
+        "score": -2.1404
+      },
+      {
+        "word": "am",
+        "start_offset": 153,
+        "end_offset": 155,
+        "start": 16.409,
+        "end": 16.629,
+        "score": -4.5443
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 156,
+        "end_offset": 159,
+        "start": 17.269,
+        "end": 17.389,
+        "score": -5.3803
+      },
+      {
+        "word": "This",
+        "start_offset": 160,
+        "end_offset": 164,
+        "start": 18.93,
+        "end": 19.35,
+        "score": -0.9235
+      },
+      {
+        "word": "is",
+        "start_offset": 165,
+        "end_offset": 167,
+        "start": 19.931,
+        "end": 20.311,
+        "score": -0.8563
+      },
+      {
+        "word": "correct.",
+        "start_offset": 168,
+        "end_offset": 176,
+        "start": 21.071,
+        "end": 21.832,
+        "score": -1.7879
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "048-09.mp3",
+    "audio_duration": 24.0327,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

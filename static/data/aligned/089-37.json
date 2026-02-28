@@ -1,0 +1,276 @@
+{
+  "text": "As a wild guess, one of these entities wouldn't be the one who has been our companion here for some time in our sessions, would it? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "As a wild guess, one of these entities wouldn't be the one who has been our companion here for some time in our sessions, would it?",
+        "start_offset": 0,
+        "end_offset": 131,
+        "start": 2.822,
+        "end": 11.67
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 132,
+        "end_offset": 140,
+        "start": 11.79,
+        "end": 17.415
+      },
+      {
+        "segment": "No.",
+        "start_offset": 141,
+        "end_offset": 144,
+        "start": 18.476,
+        "end": 20.978
+      }
+    ],
+    "word": [
+      {
+        "word": "As",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.822,
+        "end": 2.943,
+        "score": -0.7201
+      },
+      {
+        "word": "a",
+        "start_offset": 3,
+        "end_offset": 4,
+        "start": 3.003,
+        "end": 3.023,
+        "score": -0.7371
+      },
+      {
+        "word": "wild",
+        "start_offset": 5,
+        "end_offset": 9,
+        "start": 3.103,
+        "end": 3.423,
+        "score": -0.7825
+      },
+      {
+        "word": "guess,",
+        "start_offset": 10,
+        "end_offset": 16,
+        "start": 3.483,
+        "end": 3.743,
+        "score": -1.2257
+      },
+      {
+        "word": "one",
+        "start_offset": 17,
+        "end_offset": 20,
+        "start": 3.903,
+        "end": 4.003,
+        "score": -0.6978
+      },
+      {
+        "word": "of",
+        "start_offset": 21,
+        "end_offset": 23,
+        "start": 4.044,
+        "end": 4.084,
+        "score": -1.0147
+      },
+      {
+        "word": "these",
+        "start_offset": 24,
+        "end_offset": 29,
+        "start": 4.104,
+        "end": 4.284,
+        "score": -0.7497
+      },
+      {
+        "word": "entities",
+        "start_offset": 30,
+        "end_offset": 38,
+        "start": 4.344,
+        "end": 4.724,
+        "score": -0.7031
+      },
+      {
+        "word": "wouldn't",
+        "start_offset": 39,
+        "end_offset": 47,
+        "start": 4.764,
+        "end": 5.024,
+        "score": -1.3629
+      },
+      {
+        "word": "be",
+        "start_offset": 48,
+        "end_offset": 50,
+        "start": 5.084,
+        "end": 5.164,
+        "score": -0.7418
+      },
+      {
+        "word": "the",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 5.265,
+        "end": 5.345,
+        "score": -0.803
+      },
+      {
+        "word": "one",
+        "start_offset": 55,
+        "end_offset": 58,
+        "start": 5.485,
+        "end": 5.645,
+        "score": -0.741
+      },
+      {
+        "word": "who",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 6.125,
+        "end": 6.205,
+        "score": -0.7111
+      },
+      {
+        "word": "has",
+        "start_offset": 63,
+        "end_offset": 66,
+        "start": 6.285,
+        "end": 6.406,
+        "score": -0.9189
+      },
+      {
+        "word": "been",
+        "start_offset": 67,
+        "end_offset": 71,
+        "start": 6.446,
+        "end": 6.586,
+        "score": -0.826
+      },
+      {
+        "word": "our",
+        "start_offset": 72,
+        "end_offset": 75,
+        "start": 6.666,
+        "end": 6.766,
+        "score": -0.7024
+      },
+      {
+        "word": "companion",
+        "start_offset": 76,
+        "end_offset": 85,
+        "start": 6.806,
+        "end": 7.386,
+        "score": -0.7112
+      },
+      {
+        "word": "here",
+        "start_offset": 86,
+        "end_offset": 90,
+        "start": 7.446,
+        "end": 7.687,
+        "score": -0.7424
+      },
+      {
+        "word": "for",
+        "start_offset": 91,
+        "end_offset": 94,
+        "start": 8.487,
+        "end": 8.648,
+        "score": -0.8084
+      },
+      {
+        "word": "some",
+        "start_offset": 95,
+        "end_offset": 99,
+        "start": 8.708,
+        "end": 8.908,
+        "score": -0.7019
+      },
+      {
+        "word": "time",
+        "start_offset": 100,
+        "end_offset": 104,
+        "start": 8.968,
+        "end": 9.268,
+        "score": -0.8732
+      },
+      {
+        "word": "in",
+        "start_offset": 105,
+        "end_offset": 107,
+        "start": 9.809,
+        "end": 9.909,
+        "score": -0.7548
+      },
+      {
+        "word": "our",
+        "start_offset": 108,
+        "end_offset": 111,
+        "start": 9.969,
+        "end": 10.089,
+        "score": -0.927
+      },
+      {
+        "word": "sessions,",
+        "start_offset": 112,
+        "end_offset": 121,
+        "start": 10.169,
+        "end": 10.689,
+        "score": -0.8345
+      },
+      {
+        "word": "would",
+        "start_offset": 122,
+        "end_offset": 127,
+        "start": 11.37,
+        "end": 11.55,
+        "score": -3.0016
+      },
+      {
+        "word": "it?",
+        "start_offset": 128,
+        "end_offset": 131,
+        "start": 11.57,
+        "end": 11.67,
+        "score": -5.0546
+      },
+      {
+        "word": "I",
+        "start_offset": 132,
+        "end_offset": 133,
+        "start": 11.79,
+        "end": 11.81,
+        "score": -1.3878
+      },
+      {
+        "word": "am",
+        "start_offset": 134,
+        "end_offset": 136,
+        "start": 11.85,
+        "end": 11.95,
+        "score": -7.1189
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 137,
+        "end_offset": 140,
+        "start": 12.03,
+        "end": 17.415,
+        "score": -8.3426
+      },
+      {
+        "word": "No.",
+        "start_offset": 141,
+        "end_offset": 144,
+        "start": 18.476,
+        "end": 20.978,
+        "score": -6.0192
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "089-37.mp3",
+    "audio_duration": 23.04,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

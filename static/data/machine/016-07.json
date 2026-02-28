@@ -1,0 +1,289 @@
+{
+  "text": "In this way, total free will is balanced so that an individual may have an equal opportunity to choose service to others or service to self. Is this correct? I am wrong. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "In this way, total free will is balanced so that an individual may have an equal opportunity to choose service to others or service to self.",
+        "start_offset": 32,
+        "end_offset": 191,
+        "start": 2.56,
+        "end": 15.280000000000001
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 194,
+        "end_offset": 211,
+        "start": 15.52,
+        "end": 16.88
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 227,
+        "end_offset": 254,
+        "start": 18.16,
+        "end": 20.32
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 263,
+        "end_offset": 296,
+        "start": 21.04,
+        "end": 23.68
+      }
+    ],
+    "word": [
+      {
+        "word": "In",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 2.56,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "this",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 2.8000000000000003,
+        "end": 3.12
+      },
+      {
+        "word": "way,",
+        "start_offset": 39,
+        "end_offset": 41,
+        "start": 3.12,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "total",
+        "start_offset": 44,
+        "end_offset": 49,
+        "start": 3.52,
+        "end": 3.92
+      },
+      {
+        "word": "free",
+        "start_offset": 49,
+        "end_offset": 55,
+        "start": 3.92,
+        "end": 4.4
+      },
+      {
+        "word": "will",
+        "start_offset": 55,
+        "end_offset": 59,
+        "start": 4.4,
+        "end": 4.72
+      },
+      {
+        "word": "is",
+        "start_offset": 70,
+        "end_offset": 74,
+        "start": 5.6000000000000005,
+        "end": 5.92
+      },
+      {
+        "word": "balanced",
+        "start_offset": 74,
+        "end_offset": 86,
+        "start": 5.92,
+        "end": 6.88
+      },
+      {
+        "word": "so",
+        "start_offset": 98,
+        "end_offset": 102,
+        "start": 7.84,
+        "end": 8.16
+      },
+      {
+        "word": "that",
+        "start_offset": 104,
+        "end_offset": 107,
+        "start": 8.32,
+        "end": 8.56
+      },
+      {
+        "word": "an",
+        "start_offset": 107,
+        "end_offset": 110,
+        "start": 8.56,
+        "end": 8.8
+      },
+      {
+        "word": "individual",
+        "start_offset": 110,
+        "end_offset": 121,
+        "start": 8.8,
+        "end": 9.68
+      },
+      {
+        "word": "may",
+        "start_offset": 124,
+        "end_offset": 127,
+        "start": 9.92,
+        "end": 10.16
+      },
+      {
+        "word": "have",
+        "start_offset": 127,
+        "end_offset": 129,
+        "start": 10.16,
+        "end": 10.32
+      },
+      {
+        "word": "an",
+        "start_offset": 129,
+        "end_offset": 132,
+        "start": 10.32,
+        "end": 10.56
+      },
+      {
+        "word": "equal",
+        "start_offset": 132,
+        "end_offset": 139,
+        "start": 10.56,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "opportunity",
+        "start_offset": 139,
+        "end_offset": 150,
+        "start": 11.120000000000001,
+        "end": 12.0
+      },
+      {
+        "word": "to",
+        "start_offset": 150,
+        "end_offset": 154,
+        "start": 12.0,
+        "end": 12.32
+      },
+      {
+        "word": "choose",
+        "start_offset": 154,
+        "end_offset": 158,
+        "start": 12.32,
+        "end": 12.64
+      },
+      {
+        "word": "service",
+        "start_offset": 161,
+        "end_offset": 167,
+        "start": 12.88,
+        "end": 13.36
+      },
+      {
+        "word": "to",
+        "start_offset": 167,
+        "end_offset": 169,
+        "start": 13.36,
+        "end": 13.52
+      },
+      {
+        "word": "others",
+        "start_offset": 169,
+        "end_offset": 171,
+        "start": 13.52,
+        "end": 13.68
+      },
+      {
+        "word": "or",
+        "start_offset": 173,
+        "end_offset": 175,
+        "start": 13.84,
+        "end": 14.0
+      },
+      {
+        "word": "service",
+        "start_offset": 175,
+        "end_offset": 180,
+        "start": 14.0,
+        "end": 14.4
+      },
+      {
+        "word": "to",
+        "start_offset": 180,
+        "end_offset": 181,
+        "start": 14.4,
+        "end": 14.48
+      },
+      {
+        "word": "self.",
+        "start_offset": 185,
+        "end_offset": 191,
+        "start": 14.8,
+        "end": 15.280000000000001
+      },
+      {
+        "word": "Is",
+        "start_offset": 194,
+        "end_offset": 197,
+        "start": 15.52,
+        "end": 15.76
+      },
+      {
+        "word": "this",
+        "start_offset": 197,
+        "end_offset": 201,
+        "start": 15.76,
+        "end": 16.080000000000002
+      },
+      {
+        "word": "correct?",
+        "start_offset": 201,
+        "end_offset": 211,
+        "start": 16.080000000000002,
+        "end": 16.88
+      },
+      {
+        "word": "I",
+        "start_offset": 227,
+        "end_offset": 231,
+        "start": 18.16,
+        "end": 18.48
+      },
+      {
+        "word": "am",
+        "start_offset": 235,
+        "end_offset": 239,
+        "start": 18.8,
+        "end": 19.12
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 247,
+        "end_offset": 254,
+        "start": 19.76,
+        "end": 20.32
+      },
+      {
+        "word": "This",
+        "start_offset": 263,
+        "end_offset": 267,
+        "start": 21.04,
+        "end": 21.36
+      },
+      {
+        "word": "is",
+        "start_offset": 275,
+        "end_offset": 279,
+        "start": 22.0,
+        "end": 22.32
+      },
+      {
+        "word": "correct.",
+        "start_offset": 287,
+        "end_offset": 296,
+        "start": 22.96,
+        "end": 23.68
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-07.mp3",
+    "audio_duration": 24.03,
+    "transcription_time": 0.09,
+    "rtfx": 271.57,
+    "timestamp": "2026-01-06T21:47:30.611095+00:00"
+  }
+}

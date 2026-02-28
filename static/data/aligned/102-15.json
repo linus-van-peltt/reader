@@ -1,0 +1,316 @@
+{
+  "text": "Is there a group of foods which is most likely not to cause the spasming condition or any foods that Ra could mention that are highly probable not to cause spasm? I am Ra. Yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there a group of foods which is most likely not to cause the spasming condition or any foods that Ra could mention that are highly probable not to cause spasm?",
+        "start_offset": 0,
+        "end_offset": 162,
+        "start": 2.402,
+        "end": 20.936
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 163,
+        "end_offset": 171,
+        "start": 20.956,
+        "end": 21.096
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 172,
+        "end_offset": 176,
+        "start": 31.484,
+        "end": 31.924
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.402,
+        "end": 2.522,
+        "score": -0.7062
+      },
+      {
+        "word": "there",
+        "start_offset": 3,
+        "end_offset": 8,
+        "start": 2.602,
+        "end": 2.782,
+        "score": -0.7789
+      },
+      {
+        "word": "a",
+        "start_offset": 9,
+        "end_offset": 10,
+        "start": 2.862,
+        "end": 2.882,
+        "score": -0.6988
+      },
+      {
+        "word": "group",
+        "start_offset": 11,
+        "end_offset": 16,
+        "start": 2.982,
+        "end": 3.202,
+        "score": -0.6998
+      },
+      {
+        "word": "of",
+        "start_offset": 17,
+        "end_offset": 19,
+        "start": 3.302,
+        "end": 3.383,
+        "score": -0.723
+      },
+      {
+        "word": "foods",
+        "start_offset": 20,
+        "end_offset": 25,
+        "start": 3.463,
+        "end": 3.883,
+        "score": -0.698
+      },
+      {
+        "word": "which",
+        "start_offset": 26,
+        "end_offset": 31,
+        "start": 4.483,
+        "end": 4.704,
+        "score": -0.7008
+      },
+      {
+        "word": "is",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 4.864,
+        "end": 5.004,
+        "score": -0.7116
+      },
+      {
+        "word": "most",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 5.164,
+        "end": 5.564,
+        "score": -0.7174
+      },
+      {
+        "word": "likely",
+        "start_offset": 40,
+        "end_offset": 46,
+        "start": 6.145,
+        "end": 6.625,
+        "score": -0.6994
+      },
+      {
+        "word": "not",
+        "start_offset": 47,
+        "end_offset": 50,
+        "start": 7.506,
+        "end": 7.766,
+        "score": -0.8311
+      },
+      {
+        "word": "to",
+        "start_offset": 51,
+        "end_offset": 53,
+        "start": 8.126,
+        "end": 8.286,
+        "score": -0.9773
+      },
+      {
+        "word": "cause",
+        "start_offset": 54,
+        "end_offset": 59,
+        "start": 10.128,
+        "end": 10.488,
+        "score": -1.0228
+      },
+      {
+        "word": "the",
+        "start_offset": 60,
+        "end_offset": 63,
+        "start": 10.528,
+        "end": 10.628,
+        "score": -0.7601
+      },
+      {
+        "word": "spasming",
+        "start_offset": 64,
+        "end_offset": 72,
+        "start": 10.748,
+        "end": 11.369,
+        "score": -2.1661
+      },
+      {
+        "word": "condition",
+        "start_offset": 73,
+        "end_offset": 82,
+        "start": 11.449,
+        "end": 11.969,
+        "score": -0.7367
+      },
+      {
+        "word": "or",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 12.67,
+        "end": 12.79,
+        "score": -2.3293
+      },
+      {
+        "word": "any",
+        "start_offset": 86,
+        "end_offset": 89,
+        "start": 12.93,
+        "end": 13.09,
+        "score": -0.6961
+      },
+      {
+        "word": "foods",
+        "start_offset": 90,
+        "end_offset": 95,
+        "start": 13.19,
+        "end": 13.71,
+        "score": -0.704
+      },
+      {
+        "word": "that",
+        "start_offset": 96,
+        "end_offset": 100,
+        "start": 13.79,
+        "end": 13.931,
+        "score": -1.548
+      },
+      {
+        "word": "Ra",
+        "start_offset": 101,
+        "end_offset": 103,
+        "start": 14.031,
+        "end": 14.131,
+        "score": -1.3521
+      },
+      {
+        "word": "could",
+        "start_offset": 104,
+        "end_offset": 109,
+        "start": 14.171,
+        "end": 14.291,
+        "score": -5.7435
+      },
+      {
+        "word": "mention",
+        "start_offset": 110,
+        "end_offset": 117,
+        "start": 14.491,
+        "end": 14.831,
+        "score": -3.146
+      },
+      {
+        "word": "that",
+        "start_offset": 118,
+        "end_offset": 122,
+        "start": 14.891,
+        "end": 15.031,
+        "score": -1.0138
+      },
+      {
+        "word": "are",
+        "start_offset": 123,
+        "end_offset": 126,
+        "start": 15.231,
+        "end": 15.392,
+        "score": -0.8364
+      },
+      {
+        "word": "highly",
+        "start_offset": 127,
+        "end_offset": 133,
+        "start": 16.412,
+        "end": 16.873,
+        "score": -3.4846
+      },
+      {
+        "word": "probable",
+        "start_offset": 134,
+        "end_offset": 142,
+        "start": 18.534,
+        "end": 19.295,
+        "score": -1.0016
+      },
+      {
+        "word": "not",
+        "start_offset": 143,
+        "end_offset": 146,
+        "start": 19.495,
+        "end": 19.735,
+        "score": -0.8316
+      },
+      {
+        "word": "to",
+        "start_offset": 147,
+        "end_offset": 149,
+        "start": 19.815,
+        "end": 19.915,
+        "score": -0.7695
+      },
+      {
+        "word": "cause",
+        "start_offset": 150,
+        "end_offset": 155,
+        "start": 20.015,
+        "end": 20.395,
+        "score": -1.4271
+      },
+      {
+        "word": "spasm?",
+        "start_offset": 156,
+        "end_offset": 162,
+        "start": 20.616,
+        "end": 20.936,
+        "score": -3.9546
+      },
+      {
+        "word": "I",
+        "start_offset": 163,
+        "end_offset": 164,
+        "start": 20.956,
+        "end": 20.976,
+        "score": -0.8243
+      },
+      {
+        "word": "am",
+        "start_offset": 165,
+        "end_offset": 167,
+        "start": 20.996,
+        "end": 21.036,
+        "score": -4.1764
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 168,
+        "end_offset": 171,
+        "start": 21.056,
+        "end": 21.096,
+        "score": -5.2806
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 172,
+        "end_offset": 176,
+        "start": 31.484,
+        "end": 31.924,
+        "score": -4.1447
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "102-15.mp3",
+    "audio_duration": 33.0449,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

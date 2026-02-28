@@ -1,0 +1,243 @@
+{
+  "text": "Is there a better method than that? I am Ra. There are better methods for those more practiced. For this group, this method is well.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there a better method than that?",
+        "start_offset": 0,
+        "end_offset": 35,
+        "start": 2.301,
+        "end": 4.222
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 36,
+        "end_offset": 44,
+        "start": 8.784,
+        "end": 10.724
+      },
+      {
+        "segment": "There are better methods for those more practiced.",
+        "start_offset": 45,
+        "end_offset": 95,
+        "start": 13.045,
+        "end": 28.571
+      },
+      {
+        "segment": "For this group, this method is well.",
+        "start_offset": 96,
+        "end_offset": 132,
+        "start": 30.792,
+        "end": 44.118
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.301,
+        "end": 2.421,
+        "score": -2.9699
+      },
+      {
+        "word": "there",
+        "start_offset": 3,
+        "end_offset": 8,
+        "start": 2.481,
+        "end": 2.701,
+        "score": -2.7473
+      },
+      {
+        "word": "a",
+        "start_offset": 9,
+        "end_offset": 10,
+        "start": 2.761,
+        "end": 2.781,
+        "score": -7.6387
+      },
+      {
+        "word": "better",
+        "start_offset": 11,
+        "end_offset": 17,
+        "start": 3.061,
+        "end": 3.321,
+        "score": -2.8165
+      },
+      {
+        "word": "method",
+        "start_offset": 18,
+        "end_offset": 24,
+        "start": 3.401,
+        "end": 3.762,
+        "score": -2.7802
+      },
+      {
+        "word": "than",
+        "start_offset": 25,
+        "end_offset": 29,
+        "start": 3.782,
+        "end": 3.922,
+        "score": -6.5358
+      },
+      {
+        "word": "that?",
+        "start_offset": 30,
+        "end_offset": 35,
+        "start": 3.962,
+        "end": 4.222,
+        "score": -5.0236
+      },
+      {
+        "word": "I",
+        "start_offset": 36,
+        "end_offset": 37,
+        "start": 8.784,
+        "end": 8.804,
+        "score": -1.1475
+      },
+      {
+        "word": "am",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 9.464,
+        "end": 9.764,
+        "score": -2.3964
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 10.624,
+        "end": 10.724,
+        "score": -3.5294
+      },
+      {
+        "word": "There",
+        "start_offset": 45,
+        "end_offset": 50,
+        "start": 13.045,
+        "end": 13.505,
+        "score": -0.8131
+      },
+      {
+        "word": "are",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 14.526,
+        "end": 14.846,
+        "score": -0.8359
+      },
+      {
+        "word": "better",
+        "start_offset": 55,
+        "end_offset": 61,
+        "start": 16.527,
+        "end": 17.007,
+        "score": -0.718
+      },
+      {
+        "word": "methods",
+        "start_offset": 62,
+        "end_offset": 69,
+        "start": 18.647,
+        "end": 19.348,
+        "score": -0.7631
+      },
+      {
+        "word": "for",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 20.888,
+        "end": 21.289,
+        "score": -0.8025
+      },
+      {
+        "word": "those",
+        "start_offset": 74,
+        "end_offset": 79,
+        "start": 22.709,
+        "end": 23.349,
+        "score": -1.013
+      },
+      {
+        "word": "more",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 25.33,
+        "end": 25.75,
+        "score": -0.776
+      },
+      {
+        "word": "practiced.",
+        "start_offset": 85,
+        "end_offset": 95,
+        "start": 27.551,
+        "end": 28.571,
+        "score": -0.7748
+      },
+      {
+        "word": "For",
+        "start_offset": 96,
+        "end_offset": 99,
+        "start": 30.792,
+        "end": 31.192,
+        "score": -0.8344
+      },
+      {
+        "word": "this",
+        "start_offset": 100,
+        "end_offset": 104,
+        "start": 32.393,
+        "end": 32.733,
+        "score": -0.7795
+      },
+      {
+        "word": "group,",
+        "start_offset": 105,
+        "end_offset": 111,
+        "start": 34.054,
+        "end": 34.494,
+        "score": -0.7615
+      },
+      {
+        "word": "this",
+        "start_offset": 112,
+        "end_offset": 116,
+        "start": 38.075,
+        "end": 38.435,
+        "score": -0.8087
+      },
+      {
+        "word": "method",
+        "start_offset": 117,
+        "end_offset": 123,
+        "start": 39.996,
+        "end": 40.516,
+        "score": -0.7449
+      },
+      {
+        "word": "is",
+        "start_offset": 124,
+        "end_offset": 126,
+        "start": 42.157,
+        "end": 42.457,
+        "score": -0.7706
+      },
+      {
+        "word": "well.",
+        "start_offset": 127,
+        "end_offset": 132,
+        "start": 43.838,
+        "end": 44.118,
+        "score": -0.9969
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "075-06.mp3",
+    "audio_duration": 48.0392,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

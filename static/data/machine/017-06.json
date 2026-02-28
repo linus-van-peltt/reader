@@ -1,0 +1,443 @@
+{
+  "text": "It's a danger both lives and recognition. I am raw. And there is a very little radiation as you know of it in this particular type of device. There is radiation which is localized. But the localization is such that it does not adrift with the winds as does the emission of your somewhat primitive weaponism.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "It's a danger both lives and recognition.",
+        "start_offset": 31,
+        "end_offset": 66,
+        "start": 2.48,
+        "end": 5.28
+      },
+      {
+        "segment": "I am raw.",
+        "start_offset": 109,
+        "end_offset": 139,
+        "start": 8.72,
+        "end": 11.120000000000001
+      },
+      {
+        "segment": "And there is a very little radiation as you know of it in this particular type of device.",
+        "start_offset": 161,
+        "end_offset": 397,
+        "start": 12.88,
+        "end": 31.76
+      },
+      {
+        "segment": "There is radiation which is localized.",
+        "start_offset": 409,
+        "end_offset": 479,
+        "start": 32.72,
+        "end": 38.32
+      },
+      {
+        "segment": "But the localization is such that it does not adrift with the winds as does the emission of your somewhat primitive weaponism.",
+        "start_offset": 492,
+        "end_offset": 779,
+        "start": 39.36,
+        "end": 62.32
+      }
+    ],
+    "word": [
+      {
+        "word": "It's",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 2.48,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "a",
+        "start_offset": 35,
+        "end_offset": 37,
+        "start": 2.8000000000000003,
+        "end": 2.96
+      },
+      {
+        "word": "danger",
+        "start_offset": 37,
+        "end_offset": 42,
+        "start": 2.96,
+        "end": 3.36
+      },
+      {
+        "word": "both",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 3.52,
+        "end": 3.68
+      },
+      {
+        "word": "lives",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 3.84,
+        "end": 4.16
+      },
+      {
+        "word": "and",
+        "start_offset": 55,
+        "end_offset": 56,
+        "start": 4.4,
+        "end": 4.48
+      },
+      {
+        "word": "recognition.",
+        "start_offset": 58,
+        "end_offset": 66,
+        "start": 4.64,
+        "end": 5.28
+      },
+      {
+        "word": "I",
+        "start_offset": 109,
+        "end_offset": 113,
+        "start": 8.72,
+        "end": 9.040000000000001
+      },
+      {
+        "word": "am",
+        "start_offset": 121,
+        "end_offset": 125,
+        "start": 9.68,
+        "end": 10.0
+      },
+      {
+        "word": "raw.",
+        "start_offset": 131,
+        "end_offset": 139,
+        "start": 10.48,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "And",
+        "start_offset": 161,
+        "end_offset": 165,
+        "start": 12.88,
+        "end": 13.200000000000001
+      },
+      {
+        "word": "there",
+        "start_offset": 165,
+        "end_offset": 169,
+        "start": 13.200000000000001,
+        "end": 13.52
+      },
+      {
+        "word": "is",
+        "start_offset": 177,
+        "end_offset": 181,
+        "start": 14.16,
+        "end": 14.48
+      },
+      {
+        "word": "a",
+        "start_offset": 188,
+        "end_offset": 192,
+        "start": 15.040000000000001,
+        "end": 15.36
+      },
+      {
+        "word": "very",
+        "start_offset": 192,
+        "end_offset": 196,
+        "start": 15.36,
+        "end": 15.68
+      },
+      {
+        "word": "little",
+        "start_offset": 204,
+        "end_offset": 208,
+        "start": 16.32,
+        "end": 16.64
+      },
+      {
+        "word": "radiation",
+        "start_offset": 224,
+        "end_offset": 236,
+        "start": 17.92,
+        "end": 18.88
+      },
+      {
+        "word": "as",
+        "start_offset": 245,
+        "end_offset": 249,
+        "start": 19.6,
+        "end": 19.92
+      },
+      {
+        "word": "you",
+        "start_offset": 253,
+        "end_offset": 257,
+        "start": 20.240000000000002,
+        "end": 20.56
+      },
+      {
+        "word": "know",
+        "start_offset": 265,
+        "end_offset": 269,
+        "start": 21.2,
+        "end": 21.52
+      },
+      {
+        "word": "of",
+        "start_offset": 277,
+        "end_offset": 281,
+        "start": 22.16,
+        "end": 22.48
+      },
+      {
+        "word": "it",
+        "start_offset": 281,
+        "end_offset": 285,
+        "start": 22.48,
+        "end": 22.8
+      },
+      {
+        "word": "in",
+        "start_offset": 302,
+        "end_offset": 306,
+        "start": 24.16,
+        "end": 24.48
+      },
+      {
+        "word": "this",
+        "start_offset": 314,
+        "end_offset": 318,
+        "start": 25.12,
+        "end": 25.44
+      },
+      {
+        "word": "particular",
+        "start_offset": 322,
+        "end_offset": 334,
+        "start": 25.76,
+        "end": 26.72
+      },
+      {
+        "word": "type",
+        "start_offset": 342,
+        "end_offset": 350,
+        "start": 27.36,
+        "end": 28.0
+      },
+      {
+        "word": "of",
+        "start_offset": 358,
+        "end_offset": 362,
+        "start": 28.64,
+        "end": 28.96
+      },
+      {
+        "word": "device.",
+        "start_offset": 389,
+        "end_offset": 397,
+        "start": 31.12,
+        "end": 31.76
+      },
+      {
+        "word": "There",
+        "start_offset": 409,
+        "end_offset": 417,
+        "start": 32.72,
+        "end": 33.36
+      },
+      {
+        "word": "is",
+        "start_offset": 417,
+        "end_offset": 421,
+        "start": 33.36,
+        "end": 33.68
+      },
+      {
+        "word": "radiation",
+        "start_offset": 433,
+        "end_offset": 445,
+        "start": 34.64,
+        "end": 35.6
+      },
+      {
+        "word": "which",
+        "start_offset": 452,
+        "end_offset": 456,
+        "start": 36.160000000000004,
+        "end": 36.480000000000004
+      },
+      {
+        "word": "is",
+        "start_offset": 456,
+        "end_offset": 460,
+        "start": 36.480000000000004,
+        "end": 36.800000000000004
+      },
+      {
+        "word": "localized.",
+        "start_offset": 463,
+        "end_offset": 479,
+        "start": 37.04,
+        "end": 38.32
+      },
+      {
+        "word": "But",
+        "start_offset": 492,
+        "end_offset": 496,
+        "start": 39.36,
+        "end": 39.68
+      },
+      {
+        "word": "the",
+        "start_offset": 508,
+        "end_offset": 512,
+        "start": 40.64,
+        "end": 40.96
+      },
+      {
+        "word": "localization",
+        "start_offset": 528,
+        "end_offset": 548,
+        "start": 42.24,
+        "end": 43.84
+      },
+      {
+        "word": "is",
+        "start_offset": 552,
+        "end_offset": 556,
+        "start": 44.160000000000004,
+        "end": 44.480000000000004
+      },
+      {
+        "word": "such",
+        "start_offset": 560,
+        "end_offset": 568,
+        "start": 44.800000000000004,
+        "end": 45.44
+      },
+      {
+        "word": "that",
+        "start_offset": 576,
+        "end_offset": 580,
+        "start": 46.08,
+        "end": 46.4
+      },
+      {
+        "word": "it",
+        "start_offset": 584,
+        "end_offset": 588,
+        "start": 46.72,
+        "end": 47.04
+      },
+      {
+        "word": "does",
+        "start_offset": 588,
+        "end_offset": 596,
+        "start": 47.04,
+        "end": 47.68
+      },
+      {
+        "word": "not",
+        "start_offset": 596,
+        "end_offset": 600,
+        "start": 47.68,
+        "end": 48.0
+      },
+      {
+        "word": "adrift",
+        "start_offset": 606,
+        "end_offset": 616,
+        "start": 48.480000000000004,
+        "end": 49.28
+      },
+      {
+        "word": "with",
+        "start_offset": 620,
+        "end_offset": 624,
+        "start": 49.6,
+        "end": 49.92
+      },
+      {
+        "word": "the",
+        "start_offset": 624,
+        "end_offset": 628,
+        "start": 49.92,
+        "end": 50.24
+      },
+      {
+        "word": "winds",
+        "start_offset": 632,
+        "end_offset": 644,
+        "start": 50.56,
+        "end": 51.52
+      },
+      {
+        "word": "as",
+        "start_offset": 655,
+        "end_offset": 659,
+        "start": 52.4,
+        "end": 52.72
+      },
+      {
+        "word": "does",
+        "start_offset": 675,
+        "end_offset": 683,
+        "start": 54.0,
+        "end": 54.64
+      },
+      {
+        "word": "the",
+        "start_offset": 683,
+        "end_offset": 686,
+        "start": 54.64,
+        "end": 54.88
+      },
+      {
+        "word": "emission",
+        "start_offset": 690,
+        "end_offset": 704,
+        "start": 55.2,
+        "end": 56.32
+      },
+      {
+        "word": "of",
+        "start_offset": 708,
+        "end_offset": 712,
+        "start": 56.64,
+        "end": 56.96
+      },
+      {
+        "word": "your",
+        "start_offset": 712,
+        "end_offset": 716,
+        "start": 56.96,
+        "end": 57.28
+      },
+      {
+        "word": "somewhat",
+        "start_offset": 724,
+        "end_offset": 736,
+        "start": 57.92,
+        "end": 58.88
+      },
+      {
+        "word": "primitive",
+        "start_offset": 744,
+        "end_offset": 756,
+        "start": 59.52,
+        "end": 60.480000000000004
+      },
+      {
+        "word": "weaponism.",
+        "start_offset": 768,
+        "end_offset": 779,
+        "start": 61.44,
+        "end": 62.32
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "017-06.mp3",
+    "audio_duration": 63.03,
+    "transcription_time": 0.13,
+    "rtfx": 492.85,
+    "timestamp": "2026-01-06T21:47:46.034134+00:00"
+  }
+}

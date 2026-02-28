@@ -1,0 +1,117 @@
+{
+  "text": "Thank you very much. Could you please make the instrument cough?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you very much.",
+        "start_offset": 0,
+        "end_offset": 20,
+        "start": 2.423,
+        "end": 3.304
+      },
+      {
+        "segment": "Could you please make the instrument cough?",
+        "start_offset": 21,
+        "end_offset": 64,
+        "start": 4.685,
+        "end": 10.011
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.423,
+        "end": 2.623,
+        "score": -1.1303
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 2.683,
+        "end": 2.743,
+        "score": -3.38
+      },
+      {
+        "word": "very",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 2.803,
+        "end": 3.003,
+        "score": -1.3693
+      },
+      {
+        "word": "much.",
+        "start_offset": 15,
+        "end_offset": 20,
+        "start": 3.063,
+        "end": 3.304,
+        "score": -0.9415
+      },
+      {
+        "word": "Could",
+        "start_offset": 21,
+        "end_offset": 26,
+        "start": 4.685,
+        "end": 5.146,
+        "score": -5.8259
+      },
+      {
+        "word": "you",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 5.206,
+        "end": 5.286,
+        "score": -3.7099
+      },
+      {
+        "word": "please",
+        "start_offset": 31,
+        "end_offset": 37,
+        "start": 5.726,
+        "end": 6.027,
+        "score": -2.9715
+      },
+      {
+        "word": "make",
+        "start_offset": 38,
+        "end_offset": 42,
+        "start": 6.047,
+        "end": 6.207,
+        "score": -3.9486
+      },
+      {
+        "word": "the",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 6.287,
+        "end": 6.347,
+        "score": -3.4372
+      },
+      {
+        "word": "instrument",
+        "start_offset": 47,
+        "end_offset": 57,
+        "start": 6.427,
+        "end": 6.868,
+        "score": -3.4858
+      },
+      {
+        "word": "cough?",
+        "start_offset": 58,
+        "end_offset": 64,
+        "start": 9.911,
+        "end": 10.011,
+        "score": -5.4819
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "026-37.mp3",
+    "audio_duration": 10.0311,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

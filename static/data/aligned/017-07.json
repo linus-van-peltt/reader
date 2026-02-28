@@ -1,0 +1,497 @@
+{
+  "text": "I believe that an analysis of the trees in that area has shown a low radiation level. Is this the reason for such a low radiation level in the trees? I am Ra. This is correct. The amount of radiation is very localized. However, the energy which is released is powerful enough to cause difficulties.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I believe that an analysis of the trees in that area has shown a low radiation level.",
+        "start_offset": 0,
+        "end_offset": 85,
+        "start": 2.241,
+        "end": 15.867
+      },
+      {
+        "segment": "Is this the reason for such a low radiation level in the trees?",
+        "start_offset": 86,
+        "end_offset": 149,
+        "start": 15.907,
+        "end": 22.93
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 150,
+        "end_offset": 158,
+        "start": 22.95,
+        "end": 23.351
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 159,
+        "end_offset": 175,
+        "start": 23.371,
+        "end": 25.532
+      },
+      {
+        "segment": "The amount of radiation is very localized.",
+        "start_offset": 176,
+        "end_offset": 218,
+        "start": 26.552,
+        "end": 33.375
+      },
+      {
+        "segment": "However, the energy which is released is powerful enough to cause difficulties.",
+        "start_offset": 219,
+        "end_offset": 298,
+        "start": 34.236,
+        "end": 50.583
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 2.241,
+        "end": 2.261,
+        "score": -11.0652
+      },
+      {
+        "word": "believe",
+        "start_offset": 2,
+        "end_offset": 9,
+        "start": 2.561,
+        "end": 2.761,
+        "score": -10.5999
+      },
+      {
+        "word": "that",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 2.781,
+        "end": 2.901,
+        "score": -8.5973
+      },
+      {
+        "word": "an",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 2.921,
+        "end": 2.961,
+        "score": -9.2295
+      },
+      {
+        "word": "analysis",
+        "start_offset": 18,
+        "end_offset": 26,
+        "start": 2.981,
+        "end": 3.141,
+        "score": -8.9477
+      },
+      {
+        "word": "of",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 3.161,
+        "end": 3.201,
+        "score": -11.6387
+      },
+      {
+        "word": "the",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 3.221,
+        "end": 3.281,
+        "score": -9.2944
+      },
+      {
+        "word": "trees",
+        "start_offset": 34,
+        "end_offset": 39,
+        "start": 3.342,
+        "end": 3.482,
+        "score": -10.1539
+      },
+      {
+        "word": "in",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 4.302,
+        "end": 4.942,
+        "score": -10.1608
+      },
+      {
+        "word": "that",
+        "start_offset": 43,
+        "end_offset": 47,
+        "start": 4.962,
+        "end": 5.082,
+        "score": -9.3722
+      },
+      {
+        "word": "area",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 5.102,
+        "end": 5.202,
+        "score": -9.4375
+      },
+      {
+        "word": "has",
+        "start_offset": 53,
+        "end_offset": 56,
+        "start": 5.222,
+        "end": 5.322,
+        "score": -9.3092
+      },
+      {
+        "word": "shown",
+        "start_offset": 57,
+        "end_offset": 62,
+        "start": 5.483,
+        "end": 5.663,
+        "score": -9.4596
+      },
+      {
+        "word": "a",
+        "start_offset": 63,
+        "end_offset": 64,
+        "start": 6.023,
+        "end": 6.043,
+        "score": -9.2523
+      },
+      {
+        "word": "low",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 6.083,
+        "end": 7.203,
+        "score": -10.9929
+      },
+      {
+        "word": "radiation",
+        "start_offset": 69,
+        "end_offset": 78,
+        "start": 7.764,
+        "end": 11.905,
+        "score": -10.1475
+      },
+      {
+        "word": "level.",
+        "start_offset": 79,
+        "end_offset": 85,
+        "start": 12.986,
+        "end": 15.867,
+        "score": -10.6494
+      },
+      {
+        "word": "Is",
+        "start_offset": 86,
+        "end_offset": 88,
+        "start": 15.907,
+        "end": 16.127,
+        "score": -9.5356
+      },
+      {
+        "word": "this",
+        "start_offset": 89,
+        "end_offset": 93,
+        "start": 17.028,
+        "end": 20.509,
+        "score": -7.0793
+      },
+      {
+        "word": "the",
+        "start_offset": 94,
+        "end_offset": 97,
+        "start": 20.529,
+        "end": 21.41,
+        "score": -8.0766
+      },
+      {
+        "word": "reason",
+        "start_offset": 98,
+        "end_offset": 104,
+        "start": 21.59,
+        "end": 21.71,
+        "score": -8.6694
+      },
+      {
+        "word": "for",
+        "start_offset": 105,
+        "end_offset": 108,
+        "start": 21.85,
+        "end": 22.09,
+        "score": -11.0269
+      },
+      {
+        "word": "such",
+        "start_offset": 109,
+        "end_offset": 113,
+        "start": 22.11,
+        "end": 22.19,
+        "score": -7.2938
+      },
+      {
+        "word": "a",
+        "start_offset": 114,
+        "end_offset": 115,
+        "start": 22.21,
+        "end": 22.23,
+        "score": -8.9346
+      },
+      {
+        "word": "low",
+        "start_offset": 116,
+        "end_offset": 119,
+        "start": 22.25,
+        "end": 22.31,
+        "score": -6.8657
+      },
+      {
+        "word": "radiation",
+        "start_offset": 120,
+        "end_offset": 129,
+        "start": 22.33,
+        "end": 22.53,
+        "score": -6.5201
+      },
+      {
+        "word": "level",
+        "start_offset": 130,
+        "end_offset": 135,
+        "start": 22.55,
+        "end": 22.65,
+        "score": -8.1332
+      },
+      {
+        "word": "in",
+        "start_offset": 136,
+        "end_offset": 138,
+        "start": 22.67,
+        "end": 22.71,
+        "score": -8.9833
+      },
+      {
+        "word": "the",
+        "start_offset": 139,
+        "end_offset": 142,
+        "start": 22.73,
+        "end": 22.79,
+        "score": -9.9677
+      },
+      {
+        "word": "trees?",
+        "start_offset": 143,
+        "end_offset": 149,
+        "start": 22.81,
+        "end": 22.93,
+        "score": -9.8748
+      },
+      {
+        "word": "I",
+        "start_offset": 150,
+        "end_offset": 151,
+        "start": 22.95,
+        "end": 22.97,
+        "score": -9.9069
+      },
+      {
+        "word": "am",
+        "start_offset": 152,
+        "end_offset": 154,
+        "start": 22.991,
+        "end": 23.031,
+        "score": -11.4007
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 155,
+        "end_offset": 158,
+        "start": 23.051,
+        "end": 23.351,
+        "score": -10.3072
+      },
+      {
+        "word": "This",
+        "start_offset": 159,
+        "end_offset": 163,
+        "start": 23.371,
+        "end": 23.711,
+        "score": -0.9081
+      },
+      {
+        "word": "is",
+        "start_offset": 164,
+        "end_offset": 166,
+        "start": 24.251,
+        "end": 24.471,
+        "score": -0.7104
+      },
+      {
+        "word": "correct.",
+        "start_offset": 167,
+        "end_offset": 175,
+        "start": 24.791,
+        "end": 25.532,
+        "score": -0.8024
+      },
+      {
+        "word": "The",
+        "start_offset": 176,
+        "end_offset": 179,
+        "start": 26.552,
+        "end": 26.672,
+        "score": -0.7313
+      },
+      {
+        "word": "amount",
+        "start_offset": 180,
+        "end_offset": 186,
+        "start": 27.272,
+        "end": 27.833,
+        "score": -0.7913
+      },
+      {
+        "word": "of",
+        "start_offset": 187,
+        "end_offset": 189,
+        "start": 28.153,
+        "end": 28.293,
+        "score": -0.7058
+      },
+      {
+        "word": "radiation",
+        "start_offset": 190,
+        "end_offset": 199,
+        "start": 28.593,
+        "end": 29.533,
+        "score": -0.7816
+      },
+      {
+        "word": "is",
+        "start_offset": 200,
+        "end_offset": 202,
+        "start": 30.814,
+        "end": 31.014,
+        "score": -0.7091
+      },
+      {
+        "word": "very",
+        "start_offset": 203,
+        "end_offset": 207,
+        "start": 31.334,
+        "end": 31.674,
+        "score": -0.7444
+      },
+      {
+        "word": "localized.",
+        "start_offset": 208,
+        "end_offset": 218,
+        "start": 32.275,
+        "end": 33.375,
+        "score": -2.2162
+      },
+      {
+        "word": "However,",
+        "start_offset": 219,
+        "end_offset": 227,
+        "start": 34.236,
+        "end": 34.996,
+        "score": -0.7019
+      },
+      {
+        "word": "the",
+        "start_offset": 228,
+        "end_offset": 231,
+        "start": 35.596,
+        "end": 35.716,
+        "score": -0.7778
+      },
+      {
+        "word": "energy",
+        "start_offset": 232,
+        "end_offset": 238,
+        "start": 37.017,
+        "end": 37.597,
+        "score": -0.7131
+      },
+      {
+        "word": "which",
+        "start_offset": 239,
+        "end_offset": 244,
+        "start": 38.818,
+        "end": 39.138,
+        "score": -0.9231
+      },
+      {
+        "word": "is",
+        "start_offset": 245,
+        "end_offset": 247,
+        "start": 40.058,
+        "end": 40.338,
+        "score": -0.7423
+      },
+      {
+        "word": "released",
+        "start_offset": 248,
+        "end_offset": 256,
+        "start": 40.699,
+        "end": 41.419,
+        "score": -0.7542
+      },
+      {
+        "word": "is",
+        "start_offset": 257,
+        "end_offset": 259,
+        "start": 42.82,
+        "end": 43.06,
+        "score": -0.7189
+      },
+      {
+        "word": "powerful",
+        "start_offset": 260,
+        "end_offset": 268,
+        "start": 43.88,
+        "end": 45.561,
+        "score": -3.0024
+      },
+      {
+        "word": "enough",
+        "start_offset": 269,
+        "end_offset": 275,
+        "start": 45.621,
+        "end": 46.081,
+        "score": -1.781
+      },
+      {
+        "word": "to",
+        "start_offset": 276,
+        "end_offset": 278,
+        "start": 46.981,
+        "end": 47.142,
+        "score": -0.7074
+      },
+      {
+        "word": "cause",
+        "start_offset": 279,
+        "end_offset": 284,
+        "start": 47.882,
+        "end": 48.422,
+        "score": -0.7777
+      },
+      {
+        "word": "difficulties.",
+        "start_offset": 285,
+        "end_offset": 298,
+        "start": 49.543,
+        "end": 50.583,
+        "score": -1.0243
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "017-07.mp3",
+    "audio_duration": 51.0433,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

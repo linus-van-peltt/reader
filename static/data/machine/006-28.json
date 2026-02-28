@@ -1,0 +1,198 @@
+{
+  "text": "That days perhaps we should make my life. We shall agree. Therefore, unless you have a short question, we will take our leave.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "That days perhaps we should make my life.",
+        "start_offset": 19,
+        "end_offset": 49,
+        "start": 1.52,
+        "end": 3.92
+      },
+      {
+        "segment": "We shall agree.",
+        "start_offset": 112,
+        "end_offset": 159,
+        "start": 8.96,
+        "end": 12.72
+      },
+      {
+        "segment": "Therefore, unless you have a short question, we will take our leave.",
+        "start_offset": 179,
+        "end_offset": 344,
+        "start": 14.32,
+        "end": 27.52
+      }
+    ],
+    "word": [
+      {
+        "word": "That",
+        "start_offset": 19,
+        "end_offset": 21,
+        "start": 1.52,
+        "end": 1.68
+      },
+      {
+        "word": "days",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 1.84,
+        "end": 2.08
+      },
+      {
+        "word": "perhaps",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 2.24,
+        "end": 2.56
+      },
+      {
+        "word": "we",
+        "start_offset": 34,
+        "end_offset": 36,
+        "start": 2.72,
+        "end": 2.88
+      },
+      {
+        "word": "should",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 2.88,
+        "end": 3.04
+      },
+      {
+        "word": "make",
+        "start_offset": 40,
+        "end_offset": 41,
+        "start": 3.2,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "my",
+        "start_offset": 44,
+        "end_offset": 45,
+        "start": 3.52,
+        "end": 3.6
+      },
+      {
+        "word": "life.",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 3.7600000000000002,
+        "end": 3.92
+      },
+      {
+        "word": "We",
+        "start_offset": 112,
+        "end_offset": 116,
+        "start": 8.96,
+        "end": 9.28
+      },
+      {
+        "word": "shall",
+        "start_offset": 131,
+        "end_offset": 139,
+        "start": 10.48,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "agree.",
+        "start_offset": 151,
+        "end_offset": 159,
+        "start": 12.08,
+        "end": 12.72
+      },
+      {
+        "word": "Therefore,",
+        "start_offset": 179,
+        "end_offset": 193,
+        "start": 14.32,
+        "end": 15.44
+      },
+      {
+        "word": "unless",
+        "start_offset": 206,
+        "end_offset": 218,
+        "start": 16.48,
+        "end": 17.44
+      },
+      {
+        "word": "you",
+        "start_offset": 222,
+        "end_offset": 226,
+        "start": 17.76,
+        "end": 18.080000000000002
+      },
+      {
+        "word": "have",
+        "start_offset": 226,
+        "end_offset": 230,
+        "start": 18.080000000000002,
+        "end": 18.400000000000002
+      },
+      {
+        "word": "a",
+        "start_offset": 242,
+        "end_offset": 246,
+        "start": 19.36,
+        "end": 19.68
+      },
+      {
+        "word": "short",
+        "start_offset": 246,
+        "end_offset": 254,
+        "start": 19.68,
+        "end": 20.32
+      },
+      {
+        "word": "question,",
+        "start_offset": 266,
+        "end_offset": 274,
+        "start": 21.28,
+        "end": 21.92
+      },
+      {
+        "word": "we",
+        "start_offset": 287,
+        "end_offset": 291,
+        "start": 22.96,
+        "end": 23.28
+      },
+      {
+        "word": "will",
+        "start_offset": 299,
+        "end_offset": 303,
+        "start": 23.92,
+        "end": 24.240000000000002
+      },
+      {
+        "word": "take",
+        "start_offset": 311,
+        "end_offset": 319,
+        "start": 24.88,
+        "end": 25.52
+      },
+      {
+        "word": "our",
+        "start_offset": 323,
+        "end_offset": 327,
+        "start": 25.84,
+        "end": 26.16
+      },
+      {
+        "word": "leave.",
+        "start_offset": 335,
+        "end_offset": 344,
+        "start": 26.8,
+        "end": 27.52
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "006-28.mp3",
+    "audio_duration": 28.03,
+    "transcription_time": 0.1,
+    "rtfx": 291.31,
+    "timestamp": "2026-01-06T21:46:10.210855+00:00"
+  }
+}

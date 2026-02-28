@@ -1,0 +1,282 @@
+{
+  "text": "I assume that the same answer would apply to the Orion group. Is this correct? As far as fourth and fifth density goes? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I assume that the same answer would apply to the Orion group.",
+        "start_offset": 0,
+        "end_offset": 61,
+        "start": 2.821,
+        "end": 6.462
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 62,
+        "end_offset": 78,
+        "start": 6.622,
+        "end": 7.262
+      },
+      {
+        "segment": "As far as fourth and fifth density goes?",
+        "start_offset": 79,
+        "end_offset": 119,
+        "start": 9.323,
+        "end": 14.685
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 120,
+        "end_offset": 128,
+        "start": 14.725,
+        "end": 15.965
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 129,
+        "end_offset": 145,
+        "start": 17.746,
+        "end": 21.227
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 2.821,
+        "end": 2.841,
+        "score": -5.9388
+      },
+      {
+        "word": "assume",
+        "start_offset": 2,
+        "end_offset": 8,
+        "start": 2.981,
+        "end": 3.381,
+        "score": -1.7699
+      },
+      {
+        "word": "that",
+        "start_offset": 9,
+        "end_offset": 13,
+        "start": 4.021,
+        "end": 4.161,
+        "score": -2.7046
+      },
+      {
+        "word": "the",
+        "start_offset": 14,
+        "end_offset": 17,
+        "start": 4.181,
+        "end": 4.241,
+        "score": -4.3204
+      },
+      {
+        "word": "same",
+        "start_offset": 18,
+        "end_offset": 22,
+        "start": 4.281,
+        "end": 4.502,
+        "score": -0.927
+      },
+      {
+        "word": "answer",
+        "start_offset": 23,
+        "end_offset": 29,
+        "start": 4.562,
+        "end": 4.742,
+        "score": -2.9849
+      },
+      {
+        "word": "would",
+        "start_offset": 30,
+        "end_offset": 35,
+        "start": 4.762,
+        "end": 4.882,
+        "score": -2.1508
+      },
+      {
+        "word": "apply",
+        "start_offset": 36,
+        "end_offset": 41,
+        "start": 4.902,
+        "end": 5.182,
+        "score": -1.3786
+      },
+      {
+        "word": "to",
+        "start_offset": 42,
+        "end_offset": 44,
+        "start": 5.262,
+        "end": 5.362,
+        "score": -0.7442
+      },
+      {
+        "word": "the",
+        "start_offset": 45,
+        "end_offset": 48,
+        "start": 5.422,
+        "end": 5.522,
+        "score": -0.8419
+      },
+      {
+        "word": "Orion",
+        "start_offset": 49,
+        "end_offset": 54,
+        "start": 5.602,
+        "end": 6.042,
+        "score": -1.3952
+      },
+      {
+        "word": "group.",
+        "start_offset": 55,
+        "end_offset": 61,
+        "start": 6.282,
+        "end": 6.462,
+        "score": -2.5628
+      },
+      {
+        "word": "Is",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 6.622,
+        "end": 6.702,
+        "score": -0.8548
+      },
+      {
+        "word": "this",
+        "start_offset": 65,
+        "end_offset": 69,
+        "start": 6.722,
+        "end": 6.862,
+        "score": -1.8205
+      },
+      {
+        "word": "correct?",
+        "start_offset": 70,
+        "end_offset": 78,
+        "start": 6.902,
+        "end": 7.262,
+        "score": -1.4529
+      },
+      {
+        "word": "As",
+        "start_offset": 79,
+        "end_offset": 81,
+        "start": 9.323,
+        "end": 9.403,
+        "score": -0.889
+      },
+      {
+        "word": "far",
+        "start_offset": 82,
+        "end_offset": 85,
+        "start": 9.463,
+        "end": 9.603,
+        "score": -0.8979
+      },
+      {
+        "word": "as",
+        "start_offset": 86,
+        "end_offset": 88,
+        "start": 9.643,
+        "end": 9.723,
+        "score": -1.1126
+      },
+      {
+        "word": "fourth",
+        "start_offset": 89,
+        "end_offset": 95,
+        "start": 9.763,
+        "end": 10.003,
+        "score": -2.868
+      },
+      {
+        "word": "and",
+        "start_offset": 96,
+        "end_offset": 99,
+        "start": 10.023,
+        "end": 10.083,
+        "score": -5.9126
+      },
+      {
+        "word": "fifth",
+        "start_offset": 100,
+        "end_offset": 105,
+        "start": 10.103,
+        "end": 10.343,
+        "score": -1.7847
+      },
+      {
+        "word": "density",
+        "start_offset": 106,
+        "end_offset": 113,
+        "start": 10.363,
+        "end": 14.005,
+        "score": -4.1655
+      },
+      {
+        "word": "goes?",
+        "start_offset": 114,
+        "end_offset": 119,
+        "start": 14.025,
+        "end": 14.685,
+        "score": -6.1021
+      },
+      {
+        "word": "I",
+        "start_offset": 120,
+        "end_offset": 121,
+        "start": 14.725,
+        "end": 14.745,
+        "score": -1.9459
+      },
+      {
+        "word": "am",
+        "start_offset": 122,
+        "end_offset": 124,
+        "start": 15.805,
+        "end": 15.845,
+        "score": -3.564
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 125,
+        "end_offset": 128,
+        "start": 15.905,
+        "end": 15.965,
+        "score": -4.8333
+      },
+      {
+        "word": "This",
+        "start_offset": 129,
+        "end_offset": 133,
+        "start": 17.746,
+        "end": 18.146,
+        "score": -0.7777
+      },
+      {
+        "word": "is",
+        "start_offset": 134,
+        "end_offset": 136,
+        "start": 19.406,
+        "end": 19.647,
+        "score": -0.7479
+      },
+      {
+        "word": "correct.",
+        "start_offset": 137,
+        "end_offset": 145,
+        "start": 20.367,
+        "end": 21.227,
+        "score": -0.7742
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "053-20.mp3",
+    "audio_duration": 22.0474,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

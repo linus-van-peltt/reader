@@ -1,0 +1,212 @@
+{
+  "text": "Is it this? Is that it? I am wrong. This is correct. A police increase the distance from the crown of the head.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is it this?",
+        "start_offset": 25,
+        "end_offset": 36,
+        "start": 2.0,
+        "end": 2.88
+      },
+      {
+        "segment": "Is that it?",
+        "start_offset": 256,
+        "end_offset": 276,
+        "start": 20.48,
+        "end": 22.080000000000002
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 307,
+        "end_offset": 349,
+        "start": 24.560000000000002,
+        "end": 27.92
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 358,
+        "end_offset": 398,
+        "start": 28.64,
+        "end": 31.84
+      },
+      {
+        "segment": "A police increase the distance from the crown of the head.",
+        "start_offset": 409,
+        "end_offset": 552,
+        "start": 32.72,
+        "end": 44.160000000000004
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 25,
+        "end_offset": 27,
+        "start": 2.0,
+        "end": 2.16
+      },
+      {
+        "word": "it",
+        "start_offset": 29,
+        "end_offset": 32,
+        "start": 2.32,
+        "end": 2.56
+      },
+      {
+        "word": "this?",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 2.56,
+        "end": 2.88
+      },
+      {
+        "word": "Is",
+        "start_offset": 256,
+        "end_offset": 260,
+        "start": 20.48,
+        "end": 20.8
+      },
+      {
+        "word": "that",
+        "start_offset": 260,
+        "end_offset": 264,
+        "start": 20.8,
+        "end": 21.12
+      },
+      {
+        "word": "it?",
+        "start_offset": 272,
+        "end_offset": 276,
+        "start": 21.76,
+        "end": 22.080000000000002
+      },
+      {
+        "word": "I",
+        "start_offset": 307,
+        "end_offset": 311,
+        "start": 24.560000000000002,
+        "end": 24.88
+      },
+      {
+        "word": "am",
+        "start_offset": 319,
+        "end_offset": 323,
+        "start": 25.52,
+        "end": 25.84
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 335,
+        "end_offset": 349,
+        "start": 26.8,
+        "end": 27.92
+      },
+      {
+        "word": "This",
+        "start_offset": 358,
+        "end_offset": 362,
+        "start": 28.64,
+        "end": 28.96
+      },
+      {
+        "word": "is",
+        "start_offset": 374,
+        "end_offset": 378,
+        "start": 29.92,
+        "end": 30.240000000000002
+      },
+      {
+        "word": "correct.",
+        "start_offset": 386,
+        "end_offset": 398,
+        "start": 30.88,
+        "end": 31.84
+      },
+      {
+        "word": "A",
+        "start_offset": 409,
+        "end_offset": 411,
+        "start": 32.72,
+        "end": 32.88
+      },
+      {
+        "word": "police",
+        "start_offset": 413,
+        "end_offset": 421,
+        "start": 33.04,
+        "end": 33.68
+      },
+      {
+        "word": "increase",
+        "start_offset": 432,
+        "end_offset": 444,
+        "start": 34.56,
+        "end": 35.52
+      },
+      {
+        "word": "the",
+        "start_offset": 455,
+        "end_offset": 459,
+        "start": 36.4,
+        "end": 36.72
+      },
+      {
+        "word": "distance",
+        "start_offset": 464,
+        "end_offset": 472,
+        "start": 37.12,
+        "end": 37.76
+      },
+      {
+        "word": "from",
+        "start_offset": 484,
+        "end_offset": 488,
+        "start": 38.72,
+        "end": 39.04
+      },
+      {
+        "word": "the",
+        "start_offset": 500,
+        "end_offset": 504,
+        "start": 40.0,
+        "end": 40.32
+      },
+      {
+        "word": "crown",
+        "start_offset": 504,
+        "end_offset": 512,
+        "start": 40.32,
+        "end": 40.96
+      },
+      {
+        "word": "of",
+        "start_offset": 524,
+        "end_offset": 528,
+        "start": 41.92,
+        "end": 42.24
+      },
+      {
+        "word": "the",
+        "start_offset": 536,
+        "end_offset": 540,
+        "start": 42.88,
+        "end": 43.2
+      },
+      {
+        "word": "head.",
+        "start_offset": 544,
+        "end_offset": 552,
+        "start": 43.52,
+        "end": 44.160000000000004
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "043-02.mp3",
+    "audio_duration": 47.05,
+    "transcription_time": 0.11,
+    "rtfx": 436.06,
+    "timestamp": "2026-01-06T21:51:08.551678+00:00"
+  }
+}

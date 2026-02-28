@@ -1,0 +1,466 @@
+{
+  "text": "Can you say anything about the coming planetary changes? I am Ra. I preferred to wait until this instrument had again reached the proper state of depth of singleness or one-pointedness before we spoke. The changes are very, very trivial. We do not concern ourselves with the conditions which bring about harvest.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you say anything about the coming planetary changes?",
+        "start_offset": 0,
+        "end_offset": 56,
+        "start": 7.641,
+        "end": 52.464
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 57,
+        "end_offset": 65,
+        "start": 52.484,
+        "end": 54.024
+      },
+      {
+        "segment": "I preferred to wait until this instrument had again reached the proper state of depth of singleness or one-pointedness before we spoke.",
+        "start_offset": 66,
+        "end_offset": 201,
+        "start": 54.204,
+        "end": 82.406
+      },
+      {
+        "segment": "The changes are very, very trivial.",
+        "start_offset": 202,
+        "end_offset": 237,
+        "start": 85.407,
+        "end": 109.069
+      },
+      {
+        "segment": "We do not concern ourselves with the conditions which bring about harvest.",
+        "start_offset": 238,
+        "end_offset": 312,
+        "start": 113.049,
+        "end": 127.01
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 7.641,
+        "end": 11.521,
+        "score": -8.901
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 13.221,
+        "end": 13.641,
+        "score": -9.2524
+      },
+      {
+        "word": "say",
+        "start_offset": 8,
+        "end_offset": 11,
+        "start": 22.262,
+        "end": 24.802,
+        "score": -8.1864
+      },
+      {
+        "word": "anything",
+        "start_offset": 12,
+        "end_offset": 20,
+        "start": 45.124,
+        "end": 49.024,
+        "score": -7.2844
+      },
+      {
+        "word": "about",
+        "start_offset": 21,
+        "end_offset": 26,
+        "start": 49.044,
+        "end": 49.944,
+        "score": -9.3616
+      },
+      {
+        "word": "the",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 49.964,
+        "end": 50.044,
+        "score": -6.2247
+      },
+      {
+        "word": "coming",
+        "start_offset": 31,
+        "end_offset": 37,
+        "start": 50.084,
+        "end": 50.244,
+        "score": -6.5599
+      },
+      {
+        "word": "planetary",
+        "start_offset": 38,
+        "end_offset": 47,
+        "start": 50.264,
+        "end": 51.144,
+        "score": -6.0041
+      },
+      {
+        "word": "changes?",
+        "start_offset": 48,
+        "end_offset": 56,
+        "start": 51.164,
+        "end": 52.464,
+        "score": -6.9225
+      },
+      {
+        "word": "I",
+        "start_offset": 57,
+        "end_offset": 58,
+        "start": 52.484,
+        "end": 52.504,
+        "score": -10.2025
+      },
+      {
+        "word": "am",
+        "start_offset": 59,
+        "end_offset": 61,
+        "start": 52.564,
+        "end": 52.604,
+        "score": -8.8321
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 53.904,
+        "end": 54.024,
+        "score": -5.8048
+      },
+      {
+        "word": "I",
+        "start_offset": 66,
+        "end_offset": 67,
+        "start": 54.204,
+        "end": 54.224,
+        "score": -0.7637
+      },
+      {
+        "word": "preferred",
+        "start_offset": 68,
+        "end_offset": 77,
+        "start": 56.064,
+        "end": 56.904,
+        "score": -1.2972
+      },
+      {
+        "word": "to",
+        "start_offset": 78,
+        "end_offset": 80,
+        "start": 57.504,
+        "end": 57.645,
+        "score": -1.0609
+      },
+      {
+        "word": "wait",
+        "start_offset": 81,
+        "end_offset": 85,
+        "start": 58.445,
+        "end": 58.785,
+        "score": -1.1013
+      },
+      {
+        "word": "until",
+        "start_offset": 86,
+        "end_offset": 91,
+        "start": 59.405,
+        "end": 59.825,
+        "score": -0.832
+      },
+      {
+        "word": "this",
+        "start_offset": 92,
+        "end_offset": 96,
+        "start": 60.825,
+        "end": 61.025,
+        "score": -0.7231
+      },
+      {
+        "word": "instrument",
+        "start_offset": 97,
+        "end_offset": 107,
+        "start": 61.185,
+        "end": 61.765,
+        "score": -0.7873
+      },
+      {
+        "word": "had",
+        "start_offset": 108,
+        "end_offset": 111,
+        "start": 62.545,
+        "end": 62.885,
+        "score": -4.4977
+      },
+      {
+        "word": "again",
+        "start_offset": 112,
+        "end_offset": 117,
+        "start": 64.005,
+        "end": 64.425,
+        "score": -0.7343
+      },
+      {
+        "word": "reached",
+        "start_offset": 118,
+        "end_offset": 125,
+        "start": 64.805,
+        "end": 65.245,
+        "score": -0.9752
+      },
+      {
+        "word": "the",
+        "start_offset": 126,
+        "end_offset": 129,
+        "start": 66.305,
+        "end": 66.425,
+        "score": -1.0528
+      },
+      {
+        "word": "proper",
+        "start_offset": 130,
+        "end_offset": 136,
+        "start": 67.585,
+        "end": 68.045,
+        "score": -1.4603
+      },
+      {
+        "word": "state",
+        "start_offset": 137,
+        "end_offset": 142,
+        "start": 68.585,
+        "end": 69.045,
+        "score": -0.7911
+      },
+      {
+        "word": "of",
+        "start_offset": 143,
+        "end_offset": 145,
+        "start": 70.466,
+        "end": 70.666,
+        "score": -1.2839
+      },
+      {
+        "word": "depth",
+        "start_offset": 146,
+        "end_offset": 151,
+        "start": 73.306,
+        "end": 73.686,
+        "score": -0.9031
+      },
+      {
+        "word": "of",
+        "start_offset": 152,
+        "end_offset": 154,
+        "start": 74.426,
+        "end": 74.606,
+        "score": -1.0356
+      },
+      {
+        "word": "singleness",
+        "start_offset": 155,
+        "end_offset": 165,
+        "start": 76.186,
+        "end": 76.886,
+        "score": -0.8135
+      },
+      {
+        "word": "or",
+        "start_offset": 166,
+        "end_offset": 168,
+        "start": 77.846,
+        "end": 77.986,
+        "score": -1.3017
+      },
+      {
+        "word": "one-pointedness",
+        "start_offset": 169,
+        "end_offset": 184,
+        "start": 78.306,
+        "end": 79.306,
+        "score": -1.3065
+      },
+      {
+        "word": "before",
+        "start_offset": 185,
+        "end_offset": 191,
+        "start": 80.446,
+        "end": 80.946,
+        "score": -0.7692
+      },
+      {
+        "word": "we",
+        "start_offset": 192,
+        "end_offset": 194,
+        "start": 81.126,
+        "end": 81.226,
+        "score": -1.1195
+      },
+      {
+        "word": "spoke.",
+        "start_offset": 195,
+        "end_offset": 201,
+        "start": 82.026,
+        "end": 82.406,
+        "score": -0.9801
+      },
+      {
+        "word": "The",
+        "start_offset": 202,
+        "end_offset": 205,
+        "start": 85.407,
+        "end": 85.547,
+        "score": -1.3282
+      },
+      {
+        "word": "changes",
+        "start_offset": 206,
+        "end_offset": 213,
+        "start": 87.847,
+        "end": 88.427,
+        "score": -0.7248
+      },
+      {
+        "word": "are",
+        "start_offset": 214,
+        "end_offset": 217,
+        "start": 90.647,
+        "end": 90.807,
+        "score": -1.1022
+      },
+      {
+        "word": "very,",
+        "start_offset": 218,
+        "end_offset": 223,
+        "start": 91.027,
+        "end": 91.387,
+        "score": -0.9552
+      },
+      {
+        "word": "very",
+        "start_offset": 224,
+        "end_offset": 228,
+        "start": 92.567,
+        "end": 92.927,
+        "score": -1.2894
+      },
+      {
+        "word": "trivial.",
+        "start_offset": 229,
+        "end_offset": 237,
+        "start": 108.548,
+        "end": 109.069,
+        "score": -1.2029
+      },
+      {
+        "word": "We",
+        "start_offset": 238,
+        "end_offset": 240,
+        "start": 113.049,
+        "end": 113.189,
+        "score": -0.8426
+      },
+      {
+        "word": "do",
+        "start_offset": 241,
+        "end_offset": 243,
+        "start": 115.669,
+        "end": 115.769,
+        "score": -0.773
+      },
+      {
+        "word": "not",
+        "start_offset": 244,
+        "end_offset": 247,
+        "start": 115.909,
+        "end": 116.229,
+        "score": -0.72
+      },
+      {
+        "word": "concern",
+        "start_offset": 248,
+        "end_offset": 255,
+        "start": 117.109,
+        "end": 117.749,
+        "score": -0.9227
+      },
+      {
+        "word": "ourselves",
+        "start_offset": 256,
+        "end_offset": 265,
+        "start": 118.269,
+        "end": 118.969,
+        "score": -1.9877
+      },
+      {
+        "word": "with",
+        "start_offset": 266,
+        "end_offset": 270,
+        "start": 120.049,
+        "end": 120.309,
+        "score": -0.8174
+      },
+      {
+        "word": "the",
+        "start_offset": 271,
+        "end_offset": 274,
+        "start": 120.389,
+        "end": 120.529,
+        "score": -0.8276
+      },
+      {
+        "word": "conditions",
+        "start_offset": 275,
+        "end_offset": 285,
+        "start": 121.129,
+        "end": 121.89,
+        "score": -0.7484
+      },
+      {
+        "word": "which",
+        "start_offset": 286,
+        "end_offset": 291,
+        "start": 123.01,
+        "end": 123.33,
+        "score": -0.8062
+      },
+      {
+        "word": "bring",
+        "start_offset": 292,
+        "end_offset": 297,
+        "start": 124.27,
+        "end": 124.59,
+        "score": -0.8349
+      },
+      {
+        "word": "about",
+        "start_offset": 298,
+        "end_offset": 303,
+        "start": 124.69,
+        "end": 125.17,
+        "score": -0.9766
+      },
+      {
+        "word": "harvest.",
+        "start_offset": 304,
+        "end_offset": 312,
+        "start": 126.49,
+        "end": 127.01,
+        "score": -2.0418
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "001-09.mp3",
+    "audio_duration": 131.0302,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

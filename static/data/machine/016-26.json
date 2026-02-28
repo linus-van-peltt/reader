@@ -1,0 +1,247 @@
+{
+  "text": "Well, roughly how many total times in this galaxy of stars are aware what the car should be. I am wrong. Approximately six, seven, oh, oh, oh, oh, oh, oh.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Well, roughly how many total times in this galaxy of stars are aware what the car should be.",
+        "start_offset": 24,
+        "end_offset": 280,
+        "start": 1.92,
+        "end": 22.400000000000002
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 310,
+        "end_offset": 342,
+        "start": 24.8,
+        "end": 27.36
+      },
+      {
+        "segment": "Approximately six, seven, oh, oh, oh, oh, oh, oh.",
+        "start_offset": 359,
+        "end_offset": 538,
+        "start": 28.72,
+        "end": 43.04
+      }
+    ],
+    "word": [
+      {
+        "word": "Well,",
+        "start_offset": 24,
+        "end_offset": 32,
+        "start": 1.92,
+        "end": 2.56
+      },
+      {
+        "word": "roughly",
+        "start_offset": 50,
+        "end_offset": 58,
+        "start": 4.0,
+        "end": 4.64
+      },
+      {
+        "word": "how",
+        "start_offset": 61,
+        "end_offset": 65,
+        "start": 4.88,
+        "end": 5.2
+      },
+      {
+        "word": "many",
+        "start_offset": 65,
+        "end_offset": 73,
+        "start": 5.2,
+        "end": 5.84
+      },
+      {
+        "word": "total",
+        "start_offset": 90,
+        "end_offset": 96,
+        "start": 7.2,
+        "end": 7.68
+      },
+      {
+        "word": "times",
+        "start_offset": 98,
+        "end_offset": 102,
+        "start": 7.84,
+        "end": 8.16
+      },
+      {
+        "word": "in",
+        "start_offset": 106,
+        "end_offset": 109,
+        "start": 8.48,
+        "end": 8.72
+      },
+      {
+        "word": "this",
+        "start_offset": 109,
+        "end_offset": 113,
+        "start": 8.72,
+        "end": 9.040000000000001
+      },
+      {
+        "word": "galaxy",
+        "start_offset": 119,
+        "end_offset": 133,
+        "start": 9.52,
+        "end": 10.64
+      },
+      {
+        "word": "of",
+        "start_offset": 151,
+        "end_offset": 153,
+        "start": 12.08,
+        "end": 12.24
+      },
+      {
+        "word": "stars",
+        "start_offset": 155,
+        "end_offset": 160,
+        "start": 12.4,
+        "end": 12.8
+      },
+      {
+        "word": "are",
+        "start_offset": 162,
+        "end_offset": 164,
+        "start": 12.96,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "aware",
+        "start_offset": 241,
+        "end_offset": 252,
+        "start": 19.28,
+        "end": 20.16
+      },
+      {
+        "word": "what",
+        "start_offset": 256,
+        "end_offset": 259,
+        "start": 20.48,
+        "end": 20.72
+      },
+      {
+        "word": "the",
+        "start_offset": 263,
+        "end_offset": 265,
+        "start": 21.04,
+        "end": 21.2
+      },
+      {
+        "word": "car",
+        "start_offset": 267,
+        "end_offset": 269,
+        "start": 21.36,
+        "end": 21.52
+      },
+      {
+        "word": "should",
+        "start_offset": 271,
+        "end_offset": 273,
+        "start": 21.68,
+        "end": 21.84
+      },
+      {
+        "word": "be.",
+        "start_offset": 276,
+        "end_offset": 280,
+        "start": 22.080000000000002,
+        "end": 22.400000000000002
+      },
+      {
+        "word": "I",
+        "start_offset": 310,
+        "end_offset": 314,
+        "start": 24.8,
+        "end": 25.12
+      },
+      {
+        "word": "am",
+        "start_offset": 322,
+        "end_offset": 326,
+        "start": 25.76,
+        "end": 26.080000000000002
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 334,
+        "end_offset": 342,
+        "start": 26.72,
+        "end": 27.36
+      },
+      {
+        "word": "Approximately",
+        "start_offset": 359,
+        "end_offset": 382,
+        "start": 28.72,
+        "end": 30.560000000000002
+      },
+      {
+        "word": "six,",
+        "start_offset": 416,
+        "end_offset": 424,
+        "start": 33.28,
+        "end": 33.92
+      },
+      {
+        "word": "seven,",
+        "start_offset": 434,
+        "end_offset": 442,
+        "start": 34.72,
+        "end": 35.36
+      },
+      {
+        "word": "oh,",
+        "start_offset": 457,
+        "end_offset": 461,
+        "start": 36.56,
+        "end": 36.88
+      },
+      {
+        "word": "oh,",
+        "start_offset": 471,
+        "end_offset": 475,
+        "start": 37.68,
+        "end": 38.0
+      },
+      {
+        "word": "oh,",
+        "start_offset": 485,
+        "end_offset": 488,
+        "start": 38.800000000000004,
+        "end": 39.04
+      },
+      {
+        "word": "oh,",
+        "start_offset": 507,
+        "end_offset": 511,
+        "start": 40.56,
+        "end": 40.88
+      },
+      {
+        "word": "oh,",
+        "start_offset": 520,
+        "end_offset": 522,
+        "start": 41.6,
+        "end": 41.76
+      },
+      {
+        "word": "oh.",
+        "start_offset": 535,
+        "end_offset": 538,
+        "start": 42.800000000000004,
+        "end": 43.04
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-26.mp3",
+    "audio_duration": 45.04,
+    "transcription_time": 0.11,
+    "rtfx": 420.67,
+    "timestamp": "2026-01-06T21:47:35.071102+00:00"
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "text": "I'm not going to be sure I'll understand you. Is that darkness experienced in negative space-time or a negative time space? I am ra a negative time space.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I'm not going to be sure I'll understand you.",
+        "start_offset": 9,
+        "end_offset": 33,
+        "start": 0.72,
+        "end": 2.64
+      },
+      {
+        "segment": "Is that darkness experienced in negative space-time or a negative time space?",
+        "start_offset": 34,
+        "end_offset": 91,
+        "start": 2.72,
+        "end": 7.28
+      },
+      {
+        "segment": "I am ra a negative time space.",
+        "start_offset": 123,
+        "end_offset": 231,
+        "start": 9.84,
+        "end": 18.48
+      }
+    ],
+    "word": [
+      {
+        "word": "I'm",
+        "start_offset": 9,
+        "end_offset": 14,
+        "start": 0.72,
+        "end": 1.12
+      },
+      {
+        "word": "not",
+        "start_offset": 14,
+        "end_offset": 17,
+        "start": 1.12,
+        "end": 1.36
+      },
+      {
+        "word": "going",
+        "start_offset": 17,
+        "end_offset": 19,
+        "start": 1.36,
+        "end": 1.52
+      },
+      {
+        "word": "to",
+        "start_offset": 19,
+        "end_offset": 20,
+        "start": 1.52,
+        "end": 1.6
+      },
+      {
+        "word": "be",
+        "start_offset": 20,
+        "end_offset": 21,
+        "start": 1.6,
+        "end": 1.68
+      },
+      {
+        "word": "sure",
+        "start_offset": 21,
+        "end_offset": 23,
+        "start": 1.68,
+        "end": 1.84
+      },
+      {
+        "word": "I'll",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 1.92,
+        "end": 2.08
+      },
+      {
+        "word": "understand",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 2.16,
+        "end": 2.4
+      },
+      {
+        "word": "you.",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 2.4,
+        "end": 2.64
+      },
+      {
+        "word": "Is",
+        "start_offset": 34,
+        "end_offset": 36,
+        "start": 2.72,
+        "end": 2.88
+      },
+      {
+        "word": "that",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 2.88,
+        "end": 3.04
+      },
+      {
+        "word": "darkness",
+        "start_offset": 38,
+        "end_offset": 45,
+        "start": 3.04,
+        "end": 3.6
+      },
+      {
+        "word": "experienced",
+        "start_offset": 45,
+        "end_offset": 52,
+        "start": 3.6,
+        "end": 4.16
+      },
+      {
+        "word": "in",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 4.16,
+        "end": 4.4
+      },
+      {
+        "word": "negative",
+        "start_offset": 55,
+        "end_offset": 61,
+        "start": 4.4,
+        "end": 4.88
+      },
+      {
+        "word": "space-time",
+        "start_offset": 61,
+        "end_offset": 69,
+        "start": 4.88,
+        "end": 5.5200000000000005
+      },
+      {
+        "word": "or",
+        "start_offset": 70,
+        "end_offset": 72,
+        "start": 5.6000000000000005,
+        "end": 5.76
+      },
+      {
+        "word": "a",
+        "start_offset": 72,
+        "end_offset": 74,
+        "start": 5.76,
+        "end": 5.92
+      },
+      {
+        "word": "negative",
+        "start_offset": 74,
+        "end_offset": 79,
+        "start": 5.92,
+        "end": 6.32
+      },
+      {
+        "word": "time",
+        "start_offset": 79,
+        "end_offset": 81,
+        "start": 6.32,
+        "end": 6.48
+      },
+      {
+        "word": "space?",
+        "start_offset": 84,
+        "end_offset": 91,
+        "start": 6.72,
+        "end": 7.28
+      },
+      {
+        "word": "I",
+        "start_offset": 123,
+        "end_offset": 127,
+        "start": 9.84,
+        "end": 10.16
+      },
+      {
+        "word": "am",
+        "start_offset": 135,
+        "end_offset": 138,
+        "start": 10.8,
+        "end": 11.040000000000001
+      },
+      {
+        "word": "ra",
+        "start_offset": 152,
+        "end_offset": 155,
+        "start": 12.16,
+        "end": 12.4
+      },
+      {
+        "word": "a",
+        "start_offset": 185,
+        "end_offset": 189,
+        "start": 14.8,
+        "end": 15.120000000000001
+      },
+      {
+        "word": "negative",
+        "start_offset": 189,
+        "end_offset": 201,
+        "start": 15.120000000000001,
+        "end": 16.080000000000002
+      },
+      {
+        "word": "time",
+        "start_offset": 210,
+        "end_offset": 214,
+        "start": 16.8,
+        "end": 17.12
+      },
+      {
+        "word": "space.",
+        "start_offset": 226,
+        "end_offset": 231,
+        "start": 18.080000000000002,
+        "end": 18.48
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "068-08.mp3",
+    "audio_duration": 19.04,
+    "transcription_time": 0.09,
+    "rtfx": 218.46,
+    "timestamp": "2026-01-06T21:54:40.341552+00:00"
+  }
+}

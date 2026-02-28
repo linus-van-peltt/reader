@@ -1,0 +1,77 @@
+{
+  "text": "Will you train us? We will.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Will you train us?",
+        "start_offset": 0,
+        "end_offset": 18,
+        "start": 0.561,
+        "end": 5.51
+      },
+      {
+        "segment": "We will.",
+        "start_offset": 19,
+        "end_offset": 27,
+        "start": 7.013,
+        "end": 7.234
+      }
+    ],
+    "word": [
+      {
+        "word": "Will",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 0.561,
+        "end": 5.13,
+        "score": -6.8981
+      },
+      {
+        "word": "you",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 5.15,
+        "end": 5.23,
+        "score": -4.5343
+      },
+      {
+        "word": "train",
+        "start_offset": 9,
+        "end_offset": 14,
+        "start": 5.25,
+        "end": 5.39,
+        "score": -4.7035
+      },
+      {
+        "word": "us?",
+        "start_offset": 15,
+        "end_offset": 18,
+        "start": 5.45,
+        "end": 5.51,
+        "score": -5.682
+      },
+      {
+        "word": "We",
+        "start_offset": 19,
+        "end_offset": 21,
+        "start": 7.013,
+        "end": 7.053,
+        "score": -5.4982
+      },
+      {
+        "word": "will.",
+        "start_offset": 22,
+        "end_offset": 27,
+        "start": 7.093,
+        "end": 7.234,
+        "score": -4.4042
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "004-16.mp3",
+    "audio_duration": 12.0425,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

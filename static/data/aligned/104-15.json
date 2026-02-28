@@ -1,0 +1,228 @@
+{
+  "text": "There's nothing that we can do to— Is there any other possibility of using any techniques to help his eyesight? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "There's nothing that we can do to— Is there any other possibility of using any techniques to help his eyesight?",
+        "start_offset": 0,
+        "end_offset": 111,
+        "start": 2.141,
+        "end": 10.786
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 112,
+        "end_offset": 120,
+        "start": 14.589,
+        "end": 16.95
+      },
+      {
+        "segment": "No.",
+        "start_offset": 121,
+        "end_offset": 124,
+        "start": 19.712,
+        "end": 19.832
+      }
+    ],
+    "word": [
+      {
+        "word": "There's",
+        "start_offset": 0,
+        "end_offset": 7,
+        "start": 2.141,
+        "end": 2.321,
+        "score": -2.0645
+      },
+      {
+        "word": "nothing",
+        "start_offset": 8,
+        "end_offset": 15,
+        "start": 2.361,
+        "end": 2.642,
+        "score": -0.9504
+      },
+      {
+        "word": "that",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 2.662,
+        "end": 2.762,
+        "score": -0.9848
+      },
+      {
+        "word": "we",
+        "start_offset": 21,
+        "end_offset": 23,
+        "start": 2.782,
+        "end": 2.862,
+        "score": -0.8178
+      },
+      {
+        "word": "can",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 2.902,
+        "end": 3.022,
+        "score": -0.7534
+      },
+      {
+        "word": "do",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 3.062,
+        "end": 3.142,
+        "score": -0.8087
+      },
+      {
+        "word": "to—",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 3.342,
+        "end": 3.442,
+        "score": -1.2424
+      },
+      {
+        "word": "Is",
+        "start_offset": 35,
+        "end_offset": 37,
+        "start": 3.902,
+        "end": 3.962,
+        "score": -2.1844
+      },
+      {
+        "word": "there",
+        "start_offset": 38,
+        "end_offset": 43,
+        "start": 3.982,
+        "end": 4.142,
+        "score": -2.0496
+      },
+      {
+        "word": "any",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 4.563,
+        "end": 4.723,
+        "score": -0.7707
+      },
+      {
+        "word": "other",
+        "start_offset": 48,
+        "end_offset": 53,
+        "start": 6.024,
+        "end": 6.264,
+        "score": -0.7894
+      },
+      {
+        "word": "possibility",
+        "start_offset": 54,
+        "end_offset": 65,
+        "start": 6.444,
+        "end": 7.204,
+        "score": -0.7121
+      },
+      {
+        "word": "of",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 7.464,
+        "end": 7.584,
+        "score": -2.5657
+      },
+      {
+        "word": "using",
+        "start_offset": 69,
+        "end_offset": 74,
+        "start": 7.684,
+        "end": 7.905,
+        "score": -0.7186
+      },
+      {
+        "word": "any",
+        "start_offset": 75,
+        "end_offset": 78,
+        "start": 7.985,
+        "end": 8.085,
+        "score": -0.7466
+      },
+      {
+        "word": "techniques",
+        "start_offset": 79,
+        "end_offset": 89,
+        "start": 8.145,
+        "end": 8.745,
+        "score": -1.7773
+      },
+      {
+        "word": "to",
+        "start_offset": 90,
+        "end_offset": 92,
+        "start": 8.825,
+        "end": 8.925,
+        "score": -0.724
+      },
+      {
+        "word": "help",
+        "start_offset": 93,
+        "end_offset": 97,
+        "start": 9.946,
+        "end": 10.146,
+        "score": -0.7517
+      },
+      {
+        "word": "his",
+        "start_offset": 98,
+        "end_offset": 101,
+        "start": 10.186,
+        "end": 10.286,
+        "score": -0.8547
+      },
+      {
+        "word": "eyesight?",
+        "start_offset": 102,
+        "end_offset": 111,
+        "start": 10.386,
+        "end": 10.786,
+        "score": -3.335
+      },
+      {
+        "word": "I",
+        "start_offset": 112,
+        "end_offset": 113,
+        "start": 14.589,
+        "end": 14.609,
+        "score": -2.4451
+      },
+      {
+        "word": "am",
+        "start_offset": 114,
+        "end_offset": 116,
+        "start": 15.389,
+        "end": 15.669,
+        "score": -4.4608
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 117,
+        "end_offset": 120,
+        "start": 16.83,
+        "end": 16.95,
+        "score": -5.2921
+      },
+      {
+        "word": "No.",
+        "start_offset": 121,
+        "end_offset": 124,
+        "start": 19.712,
+        "end": 19.832,
+        "score": -4.0681
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "104-15.mp3",
+    "audio_duration": 37.0417,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

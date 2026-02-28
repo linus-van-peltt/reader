@@ -1,0 +1,317 @@
+{
+  "text": "In your statement near the beginning of it, you said less than adequate work of your, and there was a word that I didn't understand at all. Are you familiar with the word that I'm trying to understand? I am",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "In your statement near the beginning of it, you said less than adequate work of your, and there was a word that I didn't understand at all.",
+        "start_offset": 31,
+        "end_offset": 201,
+        "start": 2.48,
+        "end": 16.080000000000002
+      },
+      {
+        "segment": "Are you familiar with the word that I'm trying to understand?",
+        "start_offset": 211,
+        "end_offset": 269,
+        "start": 16.88,
+        "end": 21.52
+      },
+      {
+        "segment": "I am",
+        "start_offset": 352,
+        "end_offset": 367,
+        "start": 28.16,
+        "end": 29.36
+      }
+    ],
+    "word": [
+      {
+        "word": "In",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 2.48,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "your",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 2.8000000000000003,
+        "end": 3.12
+      },
+      {
+        "word": "statement",
+        "start_offset": 55,
+        "end_offset": 62,
+        "start": 4.4,
+        "end": 4.96
+      },
+      {
+        "word": "near",
+        "start_offset": 65,
+        "end_offset": 69,
+        "start": 5.2,
+        "end": 5.5200000000000005
+      },
+      {
+        "word": "the",
+        "start_offset": 69,
+        "end_offset": 70,
+        "start": 5.5200000000000005,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "beginning",
+        "start_offset": 70,
+        "end_offset": 76,
+        "start": 5.6000000000000005,
+        "end": 6.08
+      },
+      {
+        "word": "of",
+        "start_offset": 76,
+        "end_offset": 80,
+        "start": 6.08,
+        "end": 6.4
+      },
+      {
+        "word": "it,",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 6.4,
+        "end": 6.72
+      },
+      {
+        "word": "you",
+        "start_offset": 117,
+        "end_offset": 120,
+        "start": 9.36,
+        "end": 9.6
+      },
+      {
+        "word": "said",
+        "start_offset": 120,
+        "end_offset": 122,
+        "start": 9.6,
+        "end": 9.76
+      },
+      {
+        "word": "less",
+        "start_offset": 124,
+        "end_offset": 129,
+        "start": 9.92,
+        "end": 10.32
+      },
+      {
+        "word": "than",
+        "start_offset": 129,
+        "end_offset": 132,
+        "start": 10.32,
+        "end": 10.56
+      },
+      {
+        "word": "adequate",
+        "start_offset": 132,
+        "end_offset": 143,
+        "start": 10.56,
+        "end": 11.44
+      },
+      {
+        "word": "work",
+        "start_offset": 143,
+        "end_offset": 147,
+        "start": 11.44,
+        "end": 11.76
+      },
+      {
+        "word": "of",
+        "start_offset": 150,
+        "end_offset": 154,
+        "start": 12.0,
+        "end": 12.32
+      },
+      {
+        "word": "your,",
+        "start_offset": 154,
+        "end_offset": 158,
+        "start": 12.32,
+        "end": 12.64
+      },
+      {
+        "word": "and",
+        "start_offset": 166,
+        "end_offset": 169,
+        "start": 13.280000000000001,
+        "end": 13.52
+      },
+      {
+        "word": "there",
+        "start_offset": 169,
+        "end_offset": 172,
+        "start": 13.52,
+        "end": 13.76
+      },
+      {
+        "word": "was",
+        "start_offset": 172,
+        "end_offset": 174,
+        "start": 13.76,
+        "end": 13.92
+      },
+      {
+        "word": "a",
+        "start_offset": 174,
+        "end_offset": 176,
+        "start": 13.92,
+        "end": 14.08
+      },
+      {
+        "word": "word",
+        "start_offset": 176,
+        "end_offset": 178,
+        "start": 14.08,
+        "end": 14.24
+      },
+      {
+        "word": "that",
+        "start_offset": 178,
+        "end_offset": 180,
+        "start": 14.24,
+        "end": 14.4
+      },
+      {
+        "word": "I",
+        "start_offset": 180,
+        "end_offset": 182,
+        "start": 14.4,
+        "end": 14.56
+      },
+      {
+        "word": "didn't",
+        "start_offset": 182,
+        "end_offset": 187,
+        "start": 14.56,
+        "end": 14.96
+      },
+      {
+        "word": "understand",
+        "start_offset": 187,
+        "end_offset": 193,
+        "start": 14.96,
+        "end": 15.44
+      },
+      {
+        "word": "at",
+        "start_offset": 193,
+        "end_offset": 197,
+        "start": 15.44,
+        "end": 15.76
+      },
+      {
+        "word": "all.",
+        "start_offset": 197,
+        "end_offset": 201,
+        "start": 15.76,
+        "end": 16.080000000000002
+      },
+      {
+        "word": "Are",
+        "start_offset": 211,
+        "end_offset": 217,
+        "start": 16.88,
+        "end": 17.36
+      },
+      {
+        "word": "you",
+        "start_offset": 217,
+        "end_offset": 221,
+        "start": 17.36,
+        "end": 17.68
+      },
+      {
+        "word": "familiar",
+        "start_offset": 221,
+        "end_offset": 229,
+        "start": 17.68,
+        "end": 18.32
+      },
+      {
+        "word": "with",
+        "start_offset": 229,
+        "end_offset": 231,
+        "start": 18.32,
+        "end": 18.48
+      },
+      {
+        "word": "the",
+        "start_offset": 231,
+        "end_offset": 234,
+        "start": 18.48,
+        "end": 18.72
+      },
+      {
+        "word": "word",
+        "start_offset": 234,
+        "end_offset": 238,
+        "start": 18.72,
+        "end": 19.04
+      },
+      {
+        "word": "that",
+        "start_offset": 238,
+        "end_offset": 240,
+        "start": 19.04,
+        "end": 19.2
+      },
+      {
+        "word": "I'm",
+        "start_offset": 240,
+        "end_offset": 245,
+        "start": 19.2,
+        "end": 19.6
+      },
+      {
+        "word": "trying",
+        "start_offset": 245,
+        "end_offset": 253,
+        "start": 19.6,
+        "end": 20.240000000000002
+      },
+      {
+        "word": "to",
+        "start_offset": 253,
+        "end_offset": 257,
+        "start": 20.240000000000002,
+        "end": 20.56
+      },
+      {
+        "word": "understand?",
+        "start_offset": 261,
+        "end_offset": 269,
+        "start": 20.88,
+        "end": 21.52
+      },
+      {
+        "word": "I",
+        "start_offset": 352,
+        "end_offset": 356,
+        "start": 28.16,
+        "end": 28.48
+      },
+      {
+        "word": "am",
+        "start_offset": 365,
+        "end_offset": 367,
+        "start": 29.2,
+        "end": 29.36
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "094-05.mp3",
+    "audio_duration": 34.04,
+    "transcription_time": 0.1,
+    "rtfx": 341.78,
+    "timestamp": "2026-01-06T21:59:19.561320+00:00"
+  }
+}

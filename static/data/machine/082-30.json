@@ -1,0 +1,303 @@
+{
+  "text": "Is there anything that we can do to improve the contact or make the instrument more comfortable? I am ra all parameters are being met. Remain united in love and thanksgiving. We thank you for your conscientiousness.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there anything that we can do to improve the contact or make the instrument more comfortable?",
+        "start_offset": 15,
+        "end_offset": 78,
+        "start": 1.2,
+        "end": 6.24
+      },
+      {
+        "segment": "I am ra all parameters are being met.",
+        "start_offset": 108,
+        "end_offset": 238,
+        "start": 8.64,
+        "end": 19.04
+      },
+      {
+        "segment": "Remain united in love and thanksgiving.",
+        "start_offset": 283,
+        "end_offset": 380,
+        "start": 22.64,
+        "end": 30.400000000000002
+      },
+      {
+        "segment": "We thank you for your conscientiousness.",
+        "start_offset": 410,
+        "end_offset": 505,
+        "start": 32.8,
+        "end": 40.4
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 15,
+        "end_offset": 19,
+        "start": 1.2,
+        "end": 1.52
+      },
+      {
+        "word": "there",
+        "start_offset": 19,
+        "end_offset": 22,
+        "start": 1.52,
+        "end": 1.76
+      },
+      {
+        "word": "anything",
+        "start_offset": 22,
+        "end_offset": 27,
+        "start": 1.76,
+        "end": 2.16
+      },
+      {
+        "word": "that",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 2.16,
+        "end": 2.32
+      },
+      {
+        "word": "we",
+        "start_offset": 29,
+        "end_offset": 32,
+        "start": 2.32,
+        "end": 2.56
+      },
+      {
+        "word": "can",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 2.56,
+        "end": 2.72
+      },
+      {
+        "word": "do",
+        "start_offset": 34,
+        "end_offset": 36,
+        "start": 2.72,
+        "end": 2.88
+      },
+      {
+        "word": "to",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 2.88,
+        "end": 3.12
+      },
+      {
+        "word": "improve",
+        "start_offset": 39,
+        "end_offset": 44,
+        "start": 3.12,
+        "end": 3.52
+      },
+      {
+        "word": "the",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 3.52,
+        "end": 3.68
+      },
+      {
+        "word": "contact",
+        "start_offset": 46,
+        "end_offset": 52,
+        "start": 3.68,
+        "end": 4.16
+      },
+      {
+        "word": "or",
+        "start_offset": 52,
+        "end_offset": 54,
+        "start": 4.16,
+        "end": 4.32
+      },
+      {
+        "word": "make",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 4.32,
+        "end": 4.48
+      },
+      {
+        "word": "the",
+        "start_offset": 56,
+        "end_offset": 58,
+        "start": 4.48,
+        "end": 4.64
+      },
+      {
+        "word": "instrument",
+        "start_offset": 58,
+        "end_offset": 63,
+        "start": 4.64,
+        "end": 5.04
+      },
+      {
+        "word": "more",
+        "start_offset": 63,
+        "end_offset": 66,
+        "start": 5.04,
+        "end": 5.28
+      },
+      {
+        "word": "comfortable?",
+        "start_offset": 66,
+        "end_offset": 78,
+        "start": 5.28,
+        "end": 6.24
+      },
+      {
+        "word": "I",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 8.64,
+        "end": 8.96
+      },
+      {
+        "word": "am",
+        "start_offset": 115,
+        "end_offset": 118,
+        "start": 9.200000000000001,
+        "end": 9.44
+      },
+      {
+        "word": "ra",
+        "start_offset": 128,
+        "end_offset": 130,
+        "start": 10.24,
+        "end": 10.4
+      },
+      {
+        "word": "all",
+        "start_offset": 161,
+        "end_offset": 165,
+        "start": 12.88,
+        "end": 13.200000000000001
+      },
+      {
+        "word": "parameters",
+        "start_offset": 173,
+        "end_offset": 189,
+        "start": 13.84,
+        "end": 15.120000000000001
+      },
+      {
+        "word": "are",
+        "start_offset": 209,
+        "end_offset": 213,
+        "start": 16.72,
+        "end": 17.04
+      },
+      {
+        "word": "being",
+        "start_offset": 223,
+        "end_offset": 231,
+        "start": 17.84,
+        "end": 18.48
+      },
+      {
+        "word": "met.",
+        "start_offset": 235,
+        "end_offset": 238,
+        "start": 18.8,
+        "end": 19.04
+      },
+      {
+        "word": "Remain",
+        "start_offset": 283,
+        "end_offset": 295,
+        "start": 22.64,
+        "end": 23.6
+      },
+      {
+        "word": "united",
+        "start_offset": 299,
+        "end_offset": 311,
+        "start": 23.92,
+        "end": 24.88
+      },
+      {
+        "word": "in",
+        "start_offset": 327,
+        "end_offset": 331,
+        "start": 26.16,
+        "end": 26.48
+      },
+      {
+        "word": "love",
+        "start_offset": 335,
+        "end_offset": 339,
+        "start": 26.8,
+        "end": 27.12
+      },
+      {
+        "word": "and",
+        "start_offset": 351,
+        "end_offset": 355,
+        "start": 28.080000000000002,
+        "end": 28.400000000000002
+      },
+      {
+        "word": "thanksgiving.",
+        "start_offset": 362,
+        "end_offset": 380,
+        "start": 28.96,
+        "end": 30.400000000000002
+      },
+      {
+        "word": "We",
+        "start_offset": 410,
+        "end_offset": 414,
+        "start": 32.8,
+        "end": 33.12
+      },
+      {
+        "word": "thank",
+        "start_offset": 422,
+        "end_offset": 430,
+        "start": 33.76,
+        "end": 34.4
+      },
+      {
+        "word": "you",
+        "start_offset": 430,
+        "end_offset": 434,
+        "start": 34.4,
+        "end": 34.72
+      },
+      {
+        "word": "for",
+        "start_offset": 442,
+        "end_offset": 446,
+        "start": 35.36,
+        "end": 35.68
+      },
+      {
+        "word": "your",
+        "start_offset": 466,
+        "end_offset": 470,
+        "start": 37.28,
+        "end": 37.6
+      },
+      {
+        "word": "conscientiousness.",
+        "start_offset": 474,
+        "end_offset": 505,
+        "start": 37.92,
+        "end": 40.4
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "082-30.mp3",
+    "audio_duration": 41.04,
+    "transcription_time": 0.11,
+    "rtfx": 373.0,
+    "timestamp": "2026-01-06T21:57:12.208692+00:00"
+  }
+}

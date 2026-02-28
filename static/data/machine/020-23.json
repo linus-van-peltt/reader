@@ -1,0 +1,184 @@
+{
+  "text": "Did this then help to reduce the lifespan? I am Ra. This did reduce the life span as you call it.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Did this then help to reduce the lifespan?",
+        "start_offset": 4,
+        "end_offset": 69,
+        "start": 0.32,
+        "end": 5.5200000000000005
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 134,
+        "end_offset": 162,
+        "start": 10.72,
+        "end": 12.96
+      },
+      {
+        "segment": "This did reduce the life span as you call it.",
+        "start_offset": 182,
+        "end_offset": 292,
+        "start": 14.56,
+        "end": 23.36
+      }
+    ],
+    "word": [
+      {
+        "word": "Did",
+        "start_offset": 4,
+        "end_offset": 12,
+        "start": 0.32,
+        "end": 0.96
+      },
+      {
+        "word": "this",
+        "start_offset": 12,
+        "end_offset": 16,
+        "start": 0.96,
+        "end": 1.28
+      },
+      {
+        "word": "then",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 1.28,
+        "end": 1.6
+      },
+      {
+        "word": "help",
+        "start_offset": 29,
+        "end_offset": 37,
+        "start": 2.32,
+        "end": 2.96
+      },
+      {
+        "word": "to",
+        "start_offset": 37,
+        "end_offset": 40,
+        "start": 2.96,
+        "end": 3.2
+      },
+      {
+        "word": "reduce",
+        "start_offset": 44,
+        "end_offset": 52,
+        "start": 3.52,
+        "end": 4.16
+      },
+      {
+        "word": "the",
+        "start_offset": 52,
+        "end_offset": 56,
+        "start": 4.16,
+        "end": 4.48
+      },
+      {
+        "word": "lifespan?",
+        "start_offset": 56,
+        "end_offset": 69,
+        "start": 4.48,
+        "end": 5.5200000000000005
+      },
+      {
+        "word": "I",
+        "start_offset": 134,
+        "end_offset": 138,
+        "start": 10.72,
+        "end": 11.040000000000001
+      },
+      {
+        "word": "am",
+        "start_offset": 146,
+        "end_offset": 150,
+        "start": 11.68,
+        "end": 12.0
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 158,
+        "end_offset": 162,
+        "start": 12.64,
+        "end": 12.96
+      },
+      {
+        "word": "This",
+        "start_offset": 182,
+        "end_offset": 186,
+        "start": 14.56,
+        "end": 14.88
+      },
+      {
+        "word": "did",
+        "start_offset": 194,
+        "end_offset": 198,
+        "start": 15.52,
+        "end": 15.84
+      },
+      {
+        "word": "reduce",
+        "start_offset": 202,
+        "end_offset": 214,
+        "start": 16.16,
+        "end": 17.12
+      },
+      {
+        "word": "the",
+        "start_offset": 218,
+        "end_offset": 222,
+        "start": 17.44,
+        "end": 17.76
+      },
+      {
+        "word": "life",
+        "start_offset": 238,
+        "end_offset": 246,
+        "start": 19.04,
+        "end": 19.68
+      },
+      {
+        "word": "span",
+        "start_offset": 246,
+        "end_offset": 257,
+        "start": 19.68,
+        "end": 20.56
+      },
+      {
+        "word": "as",
+        "start_offset": 264,
+        "end_offset": 268,
+        "start": 21.12,
+        "end": 21.44
+      },
+      {
+        "word": "you",
+        "start_offset": 272,
+        "end_offset": 276,
+        "start": 21.76,
+        "end": 22.080000000000002
+      },
+      {
+        "word": "call",
+        "start_offset": 276,
+        "end_offset": 284,
+        "start": 22.080000000000002,
+        "end": 22.72
+      },
+      {
+        "word": "it.",
+        "start_offset": 288,
+        "end_offset": 292,
+        "start": 23.04,
+        "end": 23.36
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "020-23.mp3",
+    "audio_duration": 24.03,
+    "transcription_time": 0.09,
+    "rtfx": 277.73,
+    "timestamp": "2026-01-06T21:48:17.536621+00:00"
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "text": "Is that the pillow or something else? Do you do you speak of the pillow under the neck? I am raw. There is a line of interference, a crossing of the a crown of the head.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is that the pillow or something else?",
+        "start_offset": 8,
+        "end_offset": 53,
+        "start": 0.64,
+        "end": 4.24
+      },
+      {
+        "segment": "Do you do you speak of the pillow under the neck?",
+        "start_offset": 256,
+        "end_offset": 301,
+        "start": 20.48,
+        "end": 24.080000000000002
+      },
+      {
+        "segment": "I am raw.",
+        "start_offset": 329,
+        "end_offset": 371,
+        "start": 26.32,
+        "end": 29.68
+      },
+      {
+        "segment": "There is a line of interference, a crossing of the a crown of the head.",
+        "start_offset": 385,
+        "end_offset": 588,
+        "start": 30.8,
+        "end": 47.04
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 0.64,
+        "end": 0.96
+      },
+      {
+        "word": "that",
+        "start_offset": 12,
+        "end_offset": 15,
+        "start": 0.96,
+        "end": 1.2
+      },
+      {
+        "word": "the",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 1.52,
+        "end": 1.84
+      },
+      {
+        "word": "pillow",
+        "start_offset": 23,
+        "end_offset": 31,
+        "start": 1.84,
+        "end": 2.48
+      },
+      {
+        "word": "or",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 2.64,
+        "end": 2.96
+      },
+      {
+        "word": "something",
+        "start_offset": 37,
+        "end_offset": 45,
+        "start": 2.96,
+        "end": 3.6
+      },
+      {
+        "word": "else?",
+        "start_offset": 45,
+        "end_offset": 53,
+        "start": 3.6,
+        "end": 4.24
+      },
+      {
+        "word": "Do",
+        "start_offset": 256,
+        "end_offset": 260,
+        "start": 20.48,
+        "end": 20.8
+      },
+      {
+        "word": "you",
+        "start_offset": 260,
+        "end_offset": 263,
+        "start": 20.8,
+        "end": 21.04
+      },
+      {
+        "word": "do",
+        "start_offset": 265,
+        "end_offset": 268,
+        "start": 21.2,
+        "end": 21.44
+      },
+      {
+        "word": "you",
+        "start_offset": 268,
+        "end_offset": 272,
+        "start": 21.44,
+        "end": 21.76
+      },
+      {
+        "word": "speak",
+        "start_offset": 272,
+        "end_offset": 276,
+        "start": 21.76,
+        "end": 22.080000000000002
+      },
+      {
+        "word": "of",
+        "start_offset": 276,
+        "end_offset": 278,
+        "start": 22.080000000000002,
+        "end": 22.240000000000002
+      },
+      {
+        "word": "the",
+        "start_offset": 278,
+        "end_offset": 280,
+        "start": 22.240000000000002,
+        "end": 22.400000000000002
+      },
+      {
+        "word": "pillow",
+        "start_offset": 280,
+        "end_offset": 287,
+        "start": 22.400000000000002,
+        "end": 22.96
+      },
+      {
+        "word": "under",
+        "start_offset": 287,
+        "end_offset": 290,
+        "start": 22.96,
+        "end": 23.2
+      },
+      {
+        "word": "the",
+        "start_offset": 290,
+        "end_offset": 293,
+        "start": 23.2,
+        "end": 23.44
+      },
+      {
+        "word": "neck?",
+        "start_offset": 293,
+        "end_offset": 301,
+        "start": 23.44,
+        "end": 24.080000000000002
+      },
+      {
+        "word": "I",
+        "start_offset": 329,
+        "end_offset": 333,
+        "start": 26.32,
+        "end": 26.64
+      },
+      {
+        "word": "am",
+        "start_offset": 349,
+        "end_offset": 353,
+        "start": 27.92,
+        "end": 28.240000000000002
+      },
+      {
+        "word": "raw.",
+        "start_offset": 361,
+        "end_offset": 371,
+        "start": 28.88,
+        "end": 29.68
+      },
+      {
+        "word": "There",
+        "start_offset": 385,
+        "end_offset": 393,
+        "start": 30.8,
+        "end": 31.44
+      },
+      {
+        "word": "is",
+        "start_offset": 401,
+        "end_offset": 405,
+        "start": 32.08,
+        "end": 32.4
+      },
+      {
+        "word": "a",
+        "start_offset": 417,
+        "end_offset": 421,
+        "start": 33.36,
+        "end": 33.68
+      },
+      {
+        "word": "line",
+        "start_offset": 435,
+        "end_offset": 443,
+        "start": 34.800000000000004,
+        "end": 35.44
+      },
+      {
+        "word": "of",
+        "start_offset": 451,
+        "end_offset": 455,
+        "start": 36.08,
+        "end": 36.4
+      },
+      {
+        "word": "interference,",
+        "start_offset": 471,
+        "end_offset": 486,
+        "start": 37.68,
+        "end": 38.88
+      },
+      {
+        "word": "a",
+        "start_offset": 501,
+        "end_offset": 505,
+        "start": 40.08,
+        "end": 40.4
+      },
+      {
+        "word": "crossing",
+        "start_offset": 505,
+        "end_offset": 516,
+        "start": 40.4,
+        "end": 41.28
+      },
+      {
+        "word": "of",
+        "start_offset": 516,
+        "end_offset": 520,
+        "start": 41.28,
+        "end": 41.6
+      },
+      {
+        "word": "the",
+        "start_offset": 520,
+        "end_offset": 524,
+        "start": 41.6,
+        "end": 41.92
+      },
+      {
+        "word": "a",
+        "start_offset": 544,
+        "end_offset": 548,
+        "start": 43.52,
+        "end": 43.84
+      },
+      {
+        "word": "crown",
+        "start_offset": 548,
+        "end_offset": 556,
+        "start": 43.84,
+        "end": 44.480000000000004
+      },
+      {
+        "word": "of",
+        "start_offset": 564,
+        "end_offset": 568,
+        "start": 45.12,
+        "end": 45.44
+      },
+      {
+        "word": "the",
+        "start_offset": 572,
+        "end_offset": 576,
+        "start": 45.76,
+        "end": 46.08
+      },
+      {
+        "word": "head.",
+        "start_offset": 580,
+        "end_offset": 588,
+        "start": 46.4,
+        "end": 47.04
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "043-01.mp3",
+    "audio_duration": 50.05,
+    "transcription_time": 0.11,
+    "rtfx": 446.05,
+    "timestamp": "2026-01-06T21:51:08.377241+00:00"
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "text": "Mention loss of knowledge and control over the body as being a factor that was helpful in the evolutionary process is available. Could you enumerate the important losses of knowledge and control over the body? I and ra. This query contains some portions which would be more helpfully henceward were some intervening material are requested.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Mention loss of knowledge and control over the body as being a factor that was helpful in the evolutionary process is available.",
+        "start_offset": 33,
+        "end_offset": 262,
+        "start": 2.64,
+        "end": 20.96
+      },
+      {
+        "segment": "Could you enumerate the important losses of knowledge and control over the body?",
+        "start_offset": 290,
+        "end_offset": 434,
+        "start": 23.2,
+        "end": 34.72
+      },
+      {
+        "segment": "I and ra.",
+        "start_offset": 528,
+        "end_offset": 558,
+        "start": 42.24,
+        "end": 44.64
+      },
+      {
+        "segment": "This query contains some portions which would be more helpfully henceward were some intervening material are requested.",
+        "start_offset": 637,
+        "end_offset": 953,
+        "start": 50.96,
+        "end": 76.24
+      }
+    ],
+    "word": [
+      {
+        "word": "Mention",
+        "start_offset": 33,
+        "end_offset": 39,
+        "start": 2.64,
+        "end": 3.12
+      },
+      {
+        "word": "loss",
+        "start_offset": 42,
+        "end_offset": 48,
+        "start": 3.36,
+        "end": 3.84
+      },
+      {
+        "word": "of",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 3.84,
+        "end": 4.16
+      },
+      {
+        "word": "knowledge",
+        "start_offset": 52,
+        "end_offset": 58,
+        "start": 4.16,
+        "end": 4.64
+      },
+      {
+        "word": "and",
+        "start_offset": 58,
+        "end_offset": 61,
+        "start": 4.64,
+        "end": 4.88
+      },
+      {
+        "word": "control",
+        "start_offset": 61,
+        "end_offset": 65,
+        "start": 4.88,
+        "end": 5.2
+      },
+      {
+        "word": "over",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 5.36,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "the",
+        "start_offset": 70,
+        "end_offset": 74,
+        "start": 5.6000000000000005,
+        "end": 5.92
+      },
+      {
+        "word": "body",
+        "start_offset": 74,
+        "end_offset": 82,
+        "start": 5.92,
+        "end": 6.5600000000000005
+      },
+      {
+        "word": "as",
+        "start_offset": 89,
+        "end_offset": 93,
+        "start": 7.12,
+        "end": 7.44
+      },
+      {
+        "word": "being",
+        "start_offset": 93,
+        "end_offset": 101,
+        "start": 7.44,
+        "end": 8.08
+      },
+      {
+        "word": "a",
+        "start_offset": 101,
+        "end_offset": 105,
+        "start": 8.08,
+        "end": 8.4
+      },
+      {
+        "word": "factor",
+        "start_offset": 129,
+        "end_offset": 137,
+        "start": 10.32,
+        "end": 10.96
+      },
+      {
+        "word": "that",
+        "start_offset": 193,
+        "end_offset": 197,
+        "start": 15.44,
+        "end": 15.76
+      },
+      {
+        "word": "was",
+        "start_offset": 197,
+        "end_offset": 200,
+        "start": 15.76,
+        "end": 16.0
+      },
+      {
+        "word": "helpful",
+        "start_offset": 200,
+        "end_offset": 209,
+        "start": 16.0,
+        "end": 16.72
+      },
+      {
+        "word": "in",
+        "start_offset": 209,
+        "end_offset": 213,
+        "start": 16.72,
+        "end": 17.04
+      },
+      {
+        "word": "the",
+        "start_offset": 223,
+        "end_offset": 227,
+        "start": 17.84,
+        "end": 18.16
+      },
+      {
+        "word": "evolutionary",
+        "start_offset": 227,
+        "end_offset": 240,
+        "start": 18.16,
+        "end": 19.2
+      },
+      {
+        "word": "process",
+        "start_offset": 240,
+        "end_offset": 246,
+        "start": 19.2,
+        "end": 19.68
+      },
+      {
+        "word": "is",
+        "start_offset": 249,
+        "end_offset": 251,
+        "start": 19.92,
+        "end": 20.080000000000002
+      },
+      {
+        "word": "available.",
+        "start_offset": 253,
+        "end_offset": 262,
+        "start": 20.240000000000002,
+        "end": 20.96
+      },
+      {
+        "word": "Could",
+        "start_offset": 290,
+        "end_offset": 298,
+        "start": 23.2,
+        "end": 23.84
+      },
+      {
+        "word": "you",
+        "start_offset": 298,
+        "end_offset": 302,
+        "start": 23.84,
+        "end": 24.16
+      },
+      {
+        "word": "enumerate",
+        "start_offset": 325,
+        "end_offset": 340,
+        "start": 26.0,
+        "end": 27.2
+      },
+      {
+        "word": "the",
+        "start_offset": 344,
+        "end_offset": 348,
+        "start": 27.52,
+        "end": 27.84
+      },
+      {
+        "word": "important",
+        "start_offset": 352,
+        "end_offset": 356,
+        "start": 28.16,
+        "end": 28.48
+      },
+      {
+        "word": "losses",
+        "start_offset": 376,
+        "end_offset": 388,
+        "start": 30.080000000000002,
+        "end": 31.04
+      },
+      {
+        "word": "of",
+        "start_offset": 388,
+        "end_offset": 392,
+        "start": 31.04,
+        "end": 31.36
+      },
+      {
+        "word": "knowledge",
+        "start_offset": 392,
+        "end_offset": 400,
+        "start": 31.36,
+        "end": 32.0
+      },
+      {
+        "word": "and",
+        "start_offset": 400,
+        "end_offset": 404,
+        "start": 32.0,
+        "end": 32.32
+      },
+      {
+        "word": "control",
+        "start_offset": 404,
+        "end_offset": 408,
+        "start": 32.32,
+        "end": 32.64
+      },
+      {
+        "word": "over",
+        "start_offset": 416,
+        "end_offset": 420,
+        "start": 33.28,
+        "end": 33.6
+      },
+      {
+        "word": "the",
+        "start_offset": 422,
+        "end_offset": 426,
+        "start": 33.76,
+        "end": 34.08
+      },
+      {
+        "word": "body?",
+        "start_offset": 426,
+        "end_offset": 434,
+        "start": 34.08,
+        "end": 34.72
+      },
+      {
+        "word": "I",
+        "start_offset": 528,
+        "end_offset": 532,
+        "start": 42.24,
+        "end": 42.56
+      },
+      {
+        "word": "and",
+        "start_offset": 541,
+        "end_offset": 545,
+        "start": 43.28,
+        "end": 43.6
+      },
+      {
+        "word": "ra.",
+        "start_offset": 555,
+        "end_offset": 558,
+        "start": 44.4,
+        "end": 44.64
+      },
+      {
+        "word": "This",
+        "start_offset": 637,
+        "end_offset": 641,
+        "start": 50.96,
+        "end": 51.28
+      },
+      {
+        "word": "query",
+        "start_offset": 647,
+        "end_offset": 655,
+        "start": 51.76,
+        "end": 52.4
+      },
+      {
+        "word": "contains",
+        "start_offset": 683,
+        "end_offset": 695,
+        "start": 54.64,
+        "end": 55.6
+      },
+      {
+        "word": "some",
+        "start_offset": 707,
+        "end_offset": 711,
+        "start": 56.56,
+        "end": 56.88
+      },
+      {
+        "word": "portions",
+        "start_offset": 721,
+        "end_offset": 729,
+        "start": 57.68,
+        "end": 58.32
+      },
+      {
+        "word": "which",
+        "start_offset": 749,
+        "end_offset": 753,
+        "start": 59.92,
+        "end": 60.24
+      },
+      {
+        "word": "would",
+        "start_offset": 761,
+        "end_offset": 765,
+        "start": 60.88,
+        "end": 61.2
+      },
+      {
+        "word": "be",
+        "start_offset": 769,
+        "end_offset": 773,
+        "start": 61.52,
+        "end": 61.84
+      },
+      {
+        "word": "more",
+        "start_offset": 773,
+        "end_offset": 777,
+        "start": 61.84,
+        "end": 62.160000000000004
+      },
+      {
+        "word": "helpfully",
+        "start_offset": 781,
+        "end_offset": 796,
+        "start": 62.480000000000004,
+        "end": 63.68
+      },
+      {
+        "word": "henceward",
+        "start_offset": 811,
+        "end_offset": 823,
+        "start": 64.88,
+        "end": 65.84
+      },
+      {
+        "word": "were",
+        "start_offset": 839,
+        "end_offset": 843,
+        "start": 67.12,
+        "end": 67.44
+      },
+      {
+        "word": "some",
+        "start_offset": 851,
+        "end_offset": 855,
+        "start": 68.08,
+        "end": 68.4
+      },
+      {
+        "word": "intervening",
+        "start_offset": 875,
+        "end_offset": 891,
+        "start": 70.0,
+        "end": 71.28
+      },
+      {
+        "word": "material",
+        "start_offset": 908,
+        "end_offset": 920,
+        "start": 72.64,
+        "end": 73.60000000000001
+      },
+      {
+        "word": "are",
+        "start_offset": 933,
+        "end_offset": 936,
+        "start": 74.64,
+        "end": 74.88
+      },
+      {
+        "word": "requested.",
+        "start_offset": 939,
+        "end_offset": 953,
+        "start": 75.12,
+        "end": 76.24
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "086-16.mp3",
+    "audio_duration": 107.05,
+    "transcription_time": 0.17,
+    "rtfx": 648.21,
+    "timestamp": "2026-01-06T21:57:48.768214+00:00"
+  }
+}

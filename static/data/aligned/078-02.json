@@ -1,0 +1,132 @@
+{
+  "text": "What was the misstep? I am Ra. It was a missed footing.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What was the misstep?",
+        "start_offset": 0,
+        "end_offset": 21,
+        "start": 2.901,
+        "end": 3.901
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 22,
+        "end_offset": 30,
+        "start": 11.463,
+        "end": 13.924
+      },
+      {
+        "segment": "It was a missed footing.",
+        "start_offset": 31,
+        "end_offset": 55,
+        "start": 17.125,
+        "end": 24.127
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.901,
+        "end": 3.041,
+        "score": -0.9897
+      },
+      {
+        "word": "was",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 3.081,
+        "end": 3.221,
+        "score": -0.8656
+      },
+      {
+        "word": "the",
+        "start_offset": 9,
+        "end_offset": 12,
+        "start": 3.261,
+        "end": 3.341,
+        "score": -0.9345
+      },
+      {
+        "word": "misstep?",
+        "start_offset": 13,
+        "end_offset": 21,
+        "start": 3.381,
+        "end": 3.901,
+        "score": -2.0285
+      },
+      {
+        "word": "I",
+        "start_offset": 22,
+        "end_offset": 23,
+        "start": 11.463,
+        "end": 11.483,
+        "score": -1.4123
+      },
+      {
+        "word": "am",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 12.383,
+        "end": 12.664,
+        "score": -2.509
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 13.764,
+        "end": 13.924,
+        "score": -2.5205
+      },
+      {
+        "word": "It",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 17.125,
+        "end": 17.365,
+        "score": -0.7116
+      },
+      {
+        "word": "was",
+        "start_offset": 34,
+        "end_offset": 37,
+        "start": 18.125,
+        "end": 18.645,
+        "score": -0.7342
+      },
+      {
+        "word": "a",
+        "start_offset": 38,
+        "end_offset": 39,
+        "start": 20.166,
+        "end": 20.186,
+        "score": -1.8617
+      },
+      {
+        "word": "missed",
+        "start_offset": 40,
+        "end_offset": 46,
+        "start": 21.186,
+        "end": 21.706,
+        "score": -2.7604
+      },
+      {
+        "word": "footing.",
+        "start_offset": 47,
+        "end_offset": 55,
+        "start": 23.627,
+        "end": 24.127,
+        "score": -0.9588
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "078-02.mp3",
+    "audio_duration": 29.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

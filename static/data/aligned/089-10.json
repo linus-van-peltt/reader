@@ -1,0 +1,172 @@
+{
+  "text": "Did the planet Venus become a fourth-density planet at that time? I am Ra. This is so.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Did the planet Venus become a fourth-density planet at that time?",
+        "start_offset": 0,
+        "end_offset": 65,
+        "start": 2.002,
+        "end": 6.348
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 66,
+        "end_offset": 74,
+        "start": 9.071,
+        "end": 11.374
+      },
+      {
+        "segment": "This is so.",
+        "start_offset": 75,
+        "end_offset": 86,
+        "start": 13.056,
+        "end": 15.579
+      }
+    ],
+    "word": [
+      {
+        "word": "Did",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.002,
+        "end": 2.223,
+        "score": -0.7046
+      },
+      {
+        "word": "the",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 2.303,
+        "end": 2.423,
+        "score": -0.7398
+      },
+      {
+        "word": "planet",
+        "start_offset": 8,
+        "end_offset": 14,
+        "start": 3.084,
+        "end": 3.324,
+        "score": -2.4128
+      },
+      {
+        "word": "Venus",
+        "start_offset": 15,
+        "end_offset": 20,
+        "start": 3.484,
+        "end": 3.805,
+        "score": -1.6944
+      },
+      {
+        "word": "become",
+        "start_offset": 21,
+        "end_offset": 27,
+        "start": 3.885,
+        "end": 4.225,
+        "score": -0.6998
+      },
+      {
+        "word": "a",
+        "start_offset": 28,
+        "end_offset": 29,
+        "start": 4.265,
+        "end": 4.285,
+        "score": -0.718
+      },
+      {
+        "word": "fourth-density",
+        "start_offset": 30,
+        "end_offset": 44,
+        "start": 4.385,
+        "end": 5.086,
+        "score": -0.7238
+      },
+      {
+        "word": "planet",
+        "start_offset": 45,
+        "end_offset": 51,
+        "start": 5.166,
+        "end": 5.567,
+        "score": -0.7124
+      },
+      {
+        "word": "at",
+        "start_offset": 52,
+        "end_offset": 54,
+        "start": 5.647,
+        "end": 5.727,
+        "score": -0.831
+      },
+      {
+        "word": "that",
+        "start_offset": 55,
+        "end_offset": 59,
+        "start": 5.767,
+        "end": 5.927,
+        "score": -0.7265
+      },
+      {
+        "word": "time?",
+        "start_offset": 60,
+        "end_offset": 65,
+        "start": 6.007,
+        "end": 6.348,
+        "score": -0.7843
+      },
+      {
+        "word": "I",
+        "start_offset": 66,
+        "end_offset": 67,
+        "start": 9.071,
+        "end": 9.091,
+        "score": -2.4553
+      },
+      {
+        "word": "am",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 10.012,
+        "end": 11.193,
+        "score": -5.7412
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 71,
+        "end_offset": 74,
+        "start": 11.253,
+        "end": 11.374,
+        "score": -6.3338
+      },
+      {
+        "word": "This",
+        "start_offset": 75,
+        "end_offset": 79,
+        "start": 13.056,
+        "end": 13.456,
+        "score": -1.99
+      },
+      {
+        "word": "is",
+        "start_offset": 80,
+        "end_offset": 82,
+        "start": 14.237,
+        "end": 14.497,
+        "score": -1.3367
+      },
+      {
+        "word": "so.",
+        "start_offset": 83,
+        "end_offset": 86,
+        "start": 15.398,
+        "end": 15.579,
+        "score": -0.9373
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "089-10.mp3",
+    "audio_duration": 16.0392,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

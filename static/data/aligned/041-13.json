@@ -1,0 +1,323 @@
+{
+  "text": "I didn't mean to waste time with that question but you just happened to mention that particular single cell. Does this polymorphous dinoflagellate then have an orange energy center? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I didn't mean to waste time with that question but you just happened to mention that particular single cell.",
+        "start_offset": 0,
+        "end_offset": 108,
+        "start": 2.381,
+        "end": 13.705
+      },
+      {
+        "segment": "Does this polymorphous dinoflagellate then have an orange energy center?",
+        "start_offset": 109,
+        "end_offset": 181,
+        "start": 18.046,
+        "end": 26.109
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 182,
+        "end_offset": 190,
+        "start": 31.651,
+        "end": 34.352
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 191,
+        "end_offset": 207,
+        "start": 36.633,
+        "end": 40.554
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 2.381,
+        "end": 2.401,
+        "score": -0.8106
+      },
+      {
+        "word": "didn't",
+        "start_offset": 2,
+        "end_offset": 8,
+        "start": 2.441,
+        "end": 2.661,
+        "score": -1.3776
+      },
+      {
+        "word": "mean",
+        "start_offset": 9,
+        "end_offset": 13,
+        "start": 2.681,
+        "end": 2.841,
+        "score": -0.7096
+      },
+      {
+        "word": "to",
+        "start_offset": 14,
+        "end_offset": 16,
+        "start": 2.861,
+        "end": 2.921,
+        "score": -1.544
+      },
+      {
+        "word": "waste",
+        "start_offset": 17,
+        "end_offset": 22,
+        "start": 2.981,
+        "end": 3.221,
+        "score": -2.2355
+      },
+      {
+        "word": "time",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 3.261,
+        "end": 3.521,
+        "score": -0.7669
+      },
+      {
+        "word": "with",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 3.541,
+        "end": 3.621,
+        "score": -5.3785
+      },
+      {
+        "word": "that",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 3.641,
+        "end": 3.801,
+        "score": -0.7783
+      },
+      {
+        "word": "question",
+        "start_offset": 38,
+        "end_offset": 46,
+        "start": 3.861,
+        "end": 4.302,
+        "score": -0.7055
+      },
+      {
+        "word": "but",
+        "start_offset": 47,
+        "end_offset": 50,
+        "start": 4.362,
+        "end": 4.502,
+        "score": -0.7086
+      },
+      {
+        "word": "you",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 4.862,
+        "end": 4.942,
+        "score": -0.7233
+      },
+      {
+        "word": "just",
+        "start_offset": 55,
+        "end_offset": 59,
+        "start": 4.962,
+        "end": 5.142,
+        "score": -0.7593
+      },
+      {
+        "word": "happened",
+        "start_offset": 60,
+        "end_offset": 68,
+        "start": 5.182,
+        "end": 5.442,
+        "score": -1.6986
+      },
+      {
+        "word": "to",
+        "start_offset": 69,
+        "end_offset": 71,
+        "start": 5.462,
+        "end": 5.502,
+        "score": -0.8673
+      },
+      {
+        "word": "mention",
+        "start_offset": 72,
+        "end_offset": 79,
+        "start": 5.602,
+        "end": 6.002,
+        "score": -0.9945
+      },
+      {
+        "word": "that",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 10.464,
+        "end": 10.644,
+        "score": -1.5668
+      },
+      {
+        "word": "particular",
+        "start_offset": 85,
+        "end_offset": 95,
+        "start": 10.704,
+        "end": 11.324,
+        "score": -1.3153
+      },
+      {
+        "word": "single",
+        "start_offset": 96,
+        "end_offset": 102,
+        "start": 13.025,
+        "end": 13.365,
+        "score": -2.3749
+      },
+      {
+        "word": "cell.",
+        "start_offset": 103,
+        "end_offset": 108,
+        "start": 13.425,
+        "end": 13.705,
+        "score": -4.8859
+      },
+      {
+        "word": "Does",
+        "start_offset": 109,
+        "end_offset": 113,
+        "start": 18.046,
+        "end": 18.246,
+        "score": -1.6963
+      },
+      {
+        "word": "this",
+        "start_offset": 114,
+        "end_offset": 118,
+        "start": 18.307,
+        "end": 18.587,
+        "score": -0.8386
+      },
+      {
+        "word": "polymorphous",
+        "start_offset": 119,
+        "end_offset": 131,
+        "start": 20.267,
+        "end": 20.827,
+        "score": -2.3469
+      },
+      {
+        "word": "dinoflagellate",
+        "start_offset": 132,
+        "end_offset": 146,
+        "start": 20.867,
+        "end": 21.828,
+        "score": -3.5387
+      },
+      {
+        "word": "then",
+        "start_offset": 147,
+        "end_offset": 151,
+        "start": 21.848,
+        "end": 22.028,
+        "score": -0.7719
+      },
+      {
+        "word": "have",
+        "start_offset": 152,
+        "end_offset": 156,
+        "start": 22.108,
+        "end": 22.408,
+        "score": -0.9091
+      },
+      {
+        "word": "an",
+        "start_offset": 157,
+        "end_offset": 159,
+        "start": 24.169,
+        "end": 24.269,
+        "score": -0.8667
+      },
+      {
+        "word": "orange",
+        "start_offset": 160,
+        "end_offset": 166,
+        "start": 24.409,
+        "end": 24.929,
+        "score": -1.0436
+      },
+      {
+        "word": "energy",
+        "start_offset": 167,
+        "end_offset": 173,
+        "start": 25.429,
+        "end": 25.729,
+        "score": -0.7495
+      },
+      {
+        "word": "center?",
+        "start_offset": 174,
+        "end_offset": 181,
+        "start": 25.829,
+        "end": 26.109,
+        "score": -3.0515
+      },
+      {
+        "word": "I",
+        "start_offset": 182,
+        "end_offset": 183,
+        "start": 31.651,
+        "end": 31.671,
+        "score": -4.8935
+      },
+      {
+        "word": "am",
+        "start_offset": 184,
+        "end_offset": 186,
+        "start": 32.812,
+        "end": 33.252,
+        "score": -4.2891
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 187,
+        "end_offset": 190,
+        "start": 34.232,
+        "end": 34.352,
+        "score": -6.0336
+      },
+      {
+        "word": "This",
+        "start_offset": 191,
+        "end_offset": 195,
+        "start": 36.633,
+        "end": 37.073,
+        "score": -3.1626
+      },
+      {
+        "word": "is",
+        "start_offset": 196,
+        "end_offset": 198,
+        "start": 38.054,
+        "end": 38.394,
+        "score": -3.0004
+      },
+      {
+        "word": "correct.",
+        "start_offset": 199,
+        "end_offset": 207,
+        "start": 39.534,
+        "end": 40.554,
+        "score": -2.2982
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "041-13.mp3",
+    "audio_duration": 41.5348,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

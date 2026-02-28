@@ -1,0 +1,124 @@
+{
+  "text": "Is this because of the first distortion? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is this because of the first distortion?",
+        "start_offset": 0,
+        "end_offset": 40,
+        "start": 2.181,
+        "end": 3.722
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 41,
+        "end_offset": 49,
+        "start": 7.924,
+        "end": 10.986
+      },
+      {
+        "segment": "No.",
+        "start_offset": 50,
+        "end_offset": 53,
+        "start": 13.247,
+        "end": 13.367
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.181,
+        "end": 2.241,
+        "score": -2.08
+      },
+      {
+        "word": "this",
+        "start_offset": 3,
+        "end_offset": 7,
+        "start": 2.261,
+        "end": 2.361,
+        "score": -1.6053
+      },
+      {
+        "word": "because",
+        "start_offset": 8,
+        "end_offset": 15,
+        "start": 2.421,
+        "end": 2.742,
+        "score": -1.0094
+      },
+      {
+        "word": "of",
+        "start_offset": 16,
+        "end_offset": 18,
+        "start": 2.762,
+        "end": 2.822,
+        "score": -0.7226
+      },
+      {
+        "word": "the",
+        "start_offset": 19,
+        "end_offset": 22,
+        "start": 2.842,
+        "end": 2.902,
+        "score": -0.7407
+      },
+      {
+        "word": "first",
+        "start_offset": 23,
+        "end_offset": 28,
+        "start": 2.942,
+        "end": 3.162,
+        "score": -0.8124
+      },
+      {
+        "word": "distortion?",
+        "start_offset": 29,
+        "end_offset": 40,
+        "start": 3.202,
+        "end": 3.722,
+        "score": -0.7685
+      },
+      {
+        "word": "I",
+        "start_offset": 41,
+        "end_offset": 42,
+        "start": 7.924,
+        "end": 7.944,
+        "score": -1.7084
+      },
+      {
+        "word": "am",
+        "start_offset": 43,
+        "end_offset": 45,
+        "start": 9.145,
+        "end": 9.405,
+        "score": -1.4378
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 46,
+        "end_offset": 49,
+        "start": 10.886,
+        "end": 10.986,
+        "score": -1.8597
+      },
+      {
+        "word": "No.",
+        "start_offset": 50,
+        "end_offset": 53,
+        "start": 13.247,
+        "end": 13.367,
+        "score": -2.3979
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "102-13.mp3",
+    "audio_duration": 14.0278,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

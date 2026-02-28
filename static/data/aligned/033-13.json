@@ -1,0 +1,299 @@
+{
+  "text": "Is this seniority system also used for the service-to-self side for becoming harvestable on that side? I am Ra. This is correct. You may ask one more full question at this time.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is this seniority system also used for the service-to-self side for becoming harvestable on that side?",
+        "start_offset": 0,
+        "end_offset": 102,
+        "start": 2.561,
+        "end": 10.886
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 103,
+        "end_offset": 111,
+        "start": 14.768,
+        "end": 16.308
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 112,
+        "end_offset": 128,
+        "start": 17.809,
+        "end": 20.771
+      },
+      {
+        "segment": "You may ask one more full question at this time.",
+        "start_offset": 129,
+        "end_offset": 177,
+        "start": 22.412,
+        "end": 33.017
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.561,
+        "end": 2.681,
+        "score": -0.7161
+      },
+      {
+        "word": "this",
+        "start_offset": 3,
+        "end_offset": 7,
+        "start": 2.721,
+        "end": 2.901,
+        "score": -0.73
+      },
+      {
+        "word": "seniority",
+        "start_offset": 8,
+        "end_offset": 17,
+        "start": 3.002,
+        "end": 3.582,
+        "score": -0.878
+      },
+      {
+        "word": "system",
+        "start_offset": 18,
+        "end_offset": 24,
+        "start": 3.682,
+        "end": 4.042,
+        "score": -0.6946
+      },
+      {
+        "word": "also",
+        "start_offset": 25,
+        "end_offset": 29,
+        "start": 4.462,
+        "end": 4.722,
+        "score": -0.7114
+      },
+      {
+        "word": "used",
+        "start_offset": 30,
+        "end_offset": 34,
+        "start": 4.963,
+        "end": 5.223,
+        "score": -0.698
+      },
+      {
+        "word": "for",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 5.963,
+        "end": 6.083,
+        "score": -0.7653
+      },
+      {
+        "word": "the",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 6.103,
+        "end": 6.183,
+        "score": -0.8021
+      },
+      {
+        "word": "service-to-self",
+        "start_offset": 43,
+        "end_offset": 58,
+        "start": 6.243,
+        "end": 7.044,
+        "score": -0.7239
+      },
+      {
+        "word": "side",
+        "start_offset": 59,
+        "end_offset": 63,
+        "start": 7.164,
+        "end": 7.744,
+        "score": -3.4191
+      },
+      {
+        "word": "for",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 8.444,
+        "end": 8.624,
+        "score": -0.8301
+      },
+      {
+        "word": "becoming",
+        "start_offset": 68,
+        "end_offset": 76,
+        "start": 8.704,
+        "end": 9.125,
+        "score": -0.9598
+      },
+      {
+        "word": "harvestable",
+        "start_offset": 77,
+        "end_offset": 88,
+        "start": 9.685,
+        "end": 10.305,
+        "score": -3.7377
+      },
+      {
+        "word": "on",
+        "start_offset": 89,
+        "end_offset": 91,
+        "start": 10.325,
+        "end": 10.365,
+        "score": -5.2695
+      },
+      {
+        "word": "that",
+        "start_offset": 92,
+        "end_offset": 96,
+        "start": 10.385,
+        "end": 10.585,
+        "score": -1.2003
+      },
+      {
+        "word": "side?",
+        "start_offset": 97,
+        "end_offset": 102,
+        "start": 10.625,
+        "end": 10.886,
+        "score": -1.4007
+      },
+      {
+        "word": "I",
+        "start_offset": 103,
+        "end_offset": 104,
+        "start": 14.768,
+        "end": 14.788,
+        "score": -0.7433
+      },
+      {
+        "word": "am",
+        "start_offset": 105,
+        "end_offset": 107,
+        "start": 15.508,
+        "end": 15.748,
+        "score": -0.8422
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 108,
+        "end_offset": 111,
+        "start": 16.168,
+        "end": 16.308,
+        "score": -0.8522
+      },
+      {
+        "word": "This",
+        "start_offset": 112,
+        "end_offset": 116,
+        "start": 17.809,
+        "end": 18.189,
+        "score": -0.7471
+      },
+      {
+        "word": "is",
+        "start_offset": 117,
+        "end_offset": 119,
+        "start": 18.89,
+        "end": 19.21,
+        "score": -0.71
+      },
+      {
+        "word": "correct.",
+        "start_offset": 120,
+        "end_offset": 128,
+        "start": 19.89,
+        "end": 20.771,
+        "score": -0.7006
+      },
+      {
+        "word": "You",
+        "start_offset": 129,
+        "end_offset": 132,
+        "start": 22.412,
+        "end": 22.572,
+        "score": -0.7224
+      },
+      {
+        "word": "may",
+        "start_offset": 133,
+        "end_offset": 136,
+        "start": 23.192,
+        "end": 23.512,
+        "score": -0.6968
+      },
+      {
+        "word": "ask",
+        "start_offset": 137,
+        "end_offset": 140,
+        "start": 24.172,
+        "end": 24.633,
+        "score": -0.715
+      },
+      {
+        "word": "one",
+        "start_offset": 141,
+        "end_offset": 144,
+        "start": 25.913,
+        "end": 26.194,
+        "score": -0.7083
+      },
+      {
+        "word": "more",
+        "start_offset": 145,
+        "end_offset": 149,
+        "start": 27.274,
+        "end": 27.754,
+        "score": -0.7169
+      },
+      {
+        "word": "full",
+        "start_offset": 150,
+        "end_offset": 154,
+        "start": 28.275,
+        "end": 28.655,
+        "score": -1.1164
+      },
+      {
+        "word": "question",
+        "start_offset": 155,
+        "end_offset": 163,
+        "start": 29.255,
+        "end": 29.915,
+        "score": -0.6981
+      },
+      {
+        "word": "at",
+        "start_offset": 164,
+        "end_offset": 166,
+        "start": 30.776,
+        "end": 31.036,
+        "score": -0.7104
+      },
+      {
+        "word": "this",
+        "start_offset": 167,
+        "end_offset": 171,
+        "start": 31.776,
+        "end": 32.097,
+        "score": -0.7293
+      },
+      {
+        "word": "time.",
+        "start_offset": 172,
+        "end_offset": 177,
+        "start": 32.497,
+        "end": 33.017,
+        "score": -0.7046
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "033-13.mp3",
+    "audio_duration": 34.0376,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

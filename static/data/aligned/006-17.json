@@ -1,0 +1,371 @@
+{
+  "text": "Is this inconvenience imminent within a few years? I am Ra. This inconvenience, or disharmonious vibratory complex, has begun several of your years in the past. It shall continue unabated for a period of approximately three oh, thirty 30, of your years.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is this inconvenience imminent within a few years?",
+        "start_offset": 0,
+        "end_offset": 50,
+        "start": 4.12,
+        "end": 21.762
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 51,
+        "end_offset": 59,
+        "start": 21.782,
+        "end": 23.982
+      },
+      {
+        "segment": "This inconvenience, or disharmonious vibratory complex, has begun several of your years in the past.",
+        "start_offset": 60,
+        "end_offset": 160,
+        "start": 24.162,
+        "end": 46.925
+      },
+      {
+        "segment": "It shall continue unabated for a period of approximately three oh, thirty of your years.",
+        "start_offset": 161,
+        "end_offset": 253,
+        "start": 48.285,
+        "end": 73.367
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 4.12,
+        "end": 4.56,
+        "score": -4.935
+      },
+      {
+        "word": "this",
+        "start_offset": 3,
+        "end_offset": 7,
+        "start": 14.481,
+        "end": 19.102,
+        "score": -7.3162
+      },
+      {
+        "word": "inconvenience",
+        "start_offset": 8,
+        "end_offset": 21,
+        "start": 19.122,
+        "end": 20.302,
+        "score": -7.2188
+      },
+      {
+        "word": "imminent",
+        "start_offset": 22,
+        "end_offset": 30,
+        "start": 20.322,
+        "end": 21.362,
+        "score": -7.9501
+      },
+      {
+        "word": "within",
+        "start_offset": 31,
+        "end_offset": 37,
+        "start": 21.382,
+        "end": 21.502,
+        "score": -6.3027
+      },
+      {
+        "word": "a",
+        "start_offset": 38,
+        "end_offset": 39,
+        "start": 21.522,
+        "end": 21.542,
+        "score": -6.9802
+      },
+      {
+        "word": "few",
+        "start_offset": 40,
+        "end_offset": 43,
+        "start": 21.562,
+        "end": 21.622,
+        "score": -6.8
+      },
+      {
+        "word": "years?",
+        "start_offset": 44,
+        "end_offset": 50,
+        "start": 21.662,
+        "end": 21.762,
+        "score": -8.1333
+      },
+      {
+        "word": "I",
+        "start_offset": 51,
+        "end_offset": 52,
+        "start": 21.782,
+        "end": 21.802,
+        "score": -8.7607
+      },
+      {
+        "word": "am",
+        "start_offset": 53,
+        "end_offset": 55,
+        "start": 21.822,
+        "end": 21.862,
+        "score": -8.887
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 56,
+        "end_offset": 59,
+        "start": 21.982,
+        "end": 23.982,
+        "score": -6.1908
+      },
+      {
+        "word": "This",
+        "start_offset": 60,
+        "end_offset": 64,
+        "start": 24.162,
+        "end": 24.502,
+        "score": -0.7306
+      },
+      {
+        "word": "inconvenience,",
+        "start_offset": 65,
+        "end_offset": 79,
+        "start": 25.623,
+        "end": 27.183,
+        "score": -1.0034
+      },
+      {
+        "word": "or",
+        "start_offset": 80,
+        "end_offset": 82,
+        "start": 27.883,
+        "end": 28.063,
+        "score": -0.7238
+      },
+      {
+        "word": "disharmonious",
+        "start_offset": 83,
+        "end_offset": 96,
+        "start": 28.863,
+        "end": 31.083,
+        "score": -0.857
+      },
+      {
+        "word": "vibratory",
+        "start_offset": 97,
+        "end_offset": 106,
+        "start": 32.343,
+        "end": 33.063,
+        "score": -1.0768
+      },
+      {
+        "word": "complex,",
+        "start_offset": 107,
+        "end_offset": 115,
+        "start": 33.843,
+        "end": 34.523,
+        "score": -0.7951
+      },
+      {
+        "word": "has",
+        "start_offset": 116,
+        "end_offset": 119,
+        "start": 36.044,
+        "end": 36.464,
+        "score": -0.7182
+      },
+      {
+        "word": "begun",
+        "start_offset": 120,
+        "end_offset": 125,
+        "start": 37.224,
+        "end": 37.744,
+        "score": -1.1204
+      },
+      {
+        "word": "several",
+        "start_offset": 126,
+        "end_offset": 133,
+        "start": 39.544,
+        "end": 40.064,
+        "score": -0.7033
+      },
+      {
+        "word": "of",
+        "start_offset": 134,
+        "end_offset": 136,
+        "start": 40.864,
+        "end": 41.044,
+        "score": -0.7168
+      },
+      {
+        "word": "your",
+        "start_offset": 137,
+        "end_offset": 141,
+        "start": 41.464,
+        "end": 41.724,
+        "score": -1.1683
+      },
+      {
+        "word": "years",
+        "start_offset": 142,
+        "end_offset": 147,
+        "start": 42.684,
+        "end": 43.224,
+        "score": -0.7262
+      },
+      {
+        "word": "in",
+        "start_offset": 148,
+        "end_offset": 150,
+        "start": 44.324,
+        "end": 44.504,
+        "score": -0.7719
+      },
+      {
+        "word": "the",
+        "start_offset": 151,
+        "end_offset": 154,
+        "start": 45.185,
+        "end": 45.325,
+        "score": -0.8125
+      },
+      {
+        "word": "past.",
+        "start_offset": 155,
+        "end_offset": 160,
+        "start": 46.265,
+        "end": 46.925,
+        "score": -1.2529
+      },
+      {
+        "word": "It",
+        "start_offset": 161,
+        "end_offset": 163,
+        "start": 48.285,
+        "end": 48.525,
+        "score": -0.7283
+      },
+      {
+        "word": "shall",
+        "start_offset": 164,
+        "end_offset": 169,
+        "start": 49.345,
+        "end": 49.825,
+        "score": -1.701
+      },
+      {
+        "word": "continue",
+        "start_offset": 170,
+        "end_offset": 178,
+        "start": 50.685,
+        "end": 51.625,
+        "score": -0.758
+      },
+      {
+        "word": "unabated",
+        "start_offset": 179,
+        "end_offset": 187,
+        "start": 52.765,
+        "end": 54.345,
+        "score": -0.8928
+      },
+      {
+        "word": "for",
+        "start_offset": 188,
+        "end_offset": 191,
+        "start": 55.826,
+        "end": 56.146,
+        "score": -0.7693
+      },
+      {
+        "word": "a",
+        "start_offset": 192,
+        "end_offset": 193,
+        "start": 57.026,
+        "end": 57.046,
+        "score": -0.7762
+      },
+      {
+        "word": "period",
+        "start_offset": 194,
+        "end_offset": 200,
+        "start": 58.326,
+        "end": 59.226,
+        "score": -0.7338
+      },
+      {
+        "word": "of",
+        "start_offset": 201,
+        "end_offset": 203,
+        "start": 60.186,
+        "end": 60.426,
+        "score": -0.721
+      },
+      {
+        "word": "approximately",
+        "start_offset": 204,
+        "end_offset": 217,
+        "start": 61.466,
+        "end": 63.506,
+        "score": -2.2617
+      },
+      {
+        "word": "three",
+        "start_offset": 218,
+        "end_offset": 223,
+        "start": 65.667,
+        "end": 66.087,
+        "score": -2.3299
+      },
+      {
+        "word": "oh,",
+        "start_offset": 224,
+        "end_offset": 227,
+        "start": 67.007,
+        "end": 67.147,
+        "score": -4.9024
+      },
+      {
+        "word": "thirty",
+        "start_offset": 228,
+        "end_offset": 234,
+        "start": 68.787,
+        "end": 69.247,
+        "score": -1.0626
+      },
+      {
+        "word": "of",
+        "start_offset": 239,
+        "end_offset": 241,
+        "start": 70.367,
+        "end": 70.587,
+        "score": -3.6582
+      },
+      {
+        "word": "your",
+        "start_offset": 242,
+        "end_offset": 246,
+        "start": 71.567,
+        "end": 71.867,
+        "score": -1.3091
+      },
+      {
+        "word": "years.",
+        "start_offset": 247,
+        "end_offset": 253,
+        "start": 72.847,
+        "end": 73.367,
+        "score": -0.7254
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "006-17.mp3",
+    "audio_duration": 78.0278,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

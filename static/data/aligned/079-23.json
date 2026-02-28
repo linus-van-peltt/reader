@@ -1,0 +1,235 @@
+{
+  "text": "This veil then occurs between what we now call the conscious and the unconscious mind. Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "This veil then occurs between what we now call the conscious and the unconscious mind.",
+        "start_offset": 0,
+        "end_offset": 86,
+        "start": 3.503,
+        "end": 9.668
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 87,
+        "end_offset": 103,
+        "start": 9.708,
+        "end": 10.349
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 104,
+        "end_offset": 112,
+        "start": 13.672,
+        "end": 16.074
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 113,
+        "end_offset": 129,
+        "start": 17.595,
+        "end": 21.018
+      }
+    ],
+    "word": [
+      {
+        "word": "This",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 3.503,
+        "end": 3.683,
+        "score": -0.7676
+      },
+      {
+        "word": "veil",
+        "start_offset": 5,
+        "end_offset": 9,
+        "start": 3.763,
+        "end": 4.044,
+        "score": -1.4095
+      },
+      {
+        "word": "then",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 4.124,
+        "end": 4.384,
+        "score": -1.7041
+      },
+      {
+        "word": "occurs",
+        "start_offset": 15,
+        "end_offset": 21,
+        "start": 4.964,
+        "end": 5.325,
+        "score": -0.701
+      },
+      {
+        "word": "between",
+        "start_offset": 22,
+        "end_offset": 29,
+        "start": 5.385,
+        "end": 5.765,
+        "score": -0.6981
+      },
+      {
+        "word": "what",
+        "start_offset": 30,
+        "end_offset": 34,
+        "start": 5.805,
+        "end": 5.985,
+        "score": -0.7009
+      },
+      {
+        "word": "we",
+        "start_offset": 35,
+        "end_offset": 37,
+        "start": 6.045,
+        "end": 6.145,
+        "score": -0.7093
+      },
+      {
+        "word": "now",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 6.386,
+        "end": 6.586,
+        "score": -0.7121
+      },
+      {
+        "word": "call",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 6.666,
+        "end": 6.946,
+        "score": -0.7139
+      },
+      {
+        "word": "the",
+        "start_offset": 47,
+        "end_offset": 50,
+        "start": 6.986,
+        "end": 7.046,
+        "score": -3.7746
+      },
+      {
+        "word": "conscious",
+        "start_offset": 51,
+        "end_offset": 60,
+        "start": 7.166,
+        "end": 7.667,
+        "score": -1.1752
+      },
+      {
+        "word": "and",
+        "start_offset": 61,
+        "end_offset": 64,
+        "start": 8.387,
+        "end": 8.507,
+        "score": -0.8996
+      },
+      {
+        "word": "the",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 8.547,
+        "end": 8.627,
+        "score": -0.7727
+      },
+      {
+        "word": "unconscious",
+        "start_offset": 69,
+        "end_offset": 80,
+        "start": 8.708,
+        "end": 9.288,
+        "score": -0.8944
+      },
+      {
+        "word": "mind.",
+        "start_offset": 81,
+        "end_offset": 86,
+        "start": 9.348,
+        "end": 9.668,
+        "score": -2.6555
+      },
+      {
+        "word": "Is",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 9.708,
+        "end": 9.748,
+        "score": -3.3148
+      },
+      {
+        "word": "this",
+        "start_offset": 90,
+        "end_offset": 94,
+        "start": 9.788,
+        "end": 9.929,
+        "score": -2.6291
+      },
+      {
+        "word": "correct?",
+        "start_offset": 95,
+        "end_offset": 103,
+        "start": 9.969,
+        "end": 10.349,
+        "score": -0.7277
+      },
+      {
+        "word": "I",
+        "start_offset": 104,
+        "end_offset": 105,
+        "start": 13.672,
+        "end": 13.692,
+        "score": -2.8604
+      },
+      {
+        "word": "am",
+        "start_offset": 106,
+        "end_offset": 108,
+        "start": 14.493,
+        "end": 14.773,
+        "score": -5.5268
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 109,
+        "end_offset": 112,
+        "start": 15.954,
+        "end": 16.074,
+        "score": -4.3388
+      },
+      {
+        "word": "This",
+        "start_offset": 113,
+        "end_offset": 117,
+        "start": 17.595,
+        "end": 17.976,
+        "score": -2.9385
+      },
+      {
+        "word": "is",
+        "start_offset": 118,
+        "end_offset": 120,
+        "start": 18.976,
+        "end": 19.277,
+        "score": -2.1273
+      },
+      {
+        "word": "correct.",
+        "start_offset": 121,
+        "end_offset": 129,
+        "start": 20.278,
+        "end": 21.018,
+        "score": -1.4973
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "079-23.mp3",
+    "audio_duration": 23.04,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

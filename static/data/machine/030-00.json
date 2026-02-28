@@ -1,0 +1,72 @@
+{
+  "text": "Raw 30, February 24th, 1981. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Raw 30, February 24th, 1981.",
+        "start_offset": 9,
+        "end_offset": 53,
+        "start": 0.72,
+        "end": 4.24
+      },
+      {
+        "segment": "No.",
+        "start_offset": 63,
+        "end_offset": 66,
+        "start": 5.04,
+        "end": 5.28
+      }
+    ],
+    "word": [
+      {
+        "word": "Raw",
+        "start_offset": 9,
+        "end_offset": 14,
+        "start": 0.72,
+        "end": 1.12
+      },
+      {
+        "word": "30,",
+        "start_offset": 17,
+        "end_offset": 22,
+        "start": 1.36,
+        "end": 1.76
+      },
+      {
+        "word": "February",
+        "start_offset": 23,
+        "end_offset": 29,
+        "start": 1.84,
+        "end": 2.32
+      },
+      {
+        "word": "24th,",
+        "start_offset": 29,
+        "end_offset": 36,
+        "start": 2.32,
+        "end": 2.88
+      },
+      {
+        "word": "1981.",
+        "start_offset": 38,
+        "end_offset": 53,
+        "start": 3.04,
+        "end": 4.24
+      },
+      {
+        "word": "No.",
+        "start_offset": 63,
+        "end_offset": 66,
+        "start": 5.04,
+        "end": 5.28
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "030-00.mp3",
+    "audio_duration": 7.03,
+    "transcription_time": 0.08,
+    "rtfx": 87.84,
+    "timestamp": "2026-01-06T21:49:35.744233+00:00"
+  }
+}

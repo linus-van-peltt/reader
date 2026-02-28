@@ -1,0 +1,252 @@
+{
+  "text": "Could you give me the last names of Albert and Martin? I am Ra. These entities are known to you as Albert Schweitzer and Martin Luther King.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you give me the last names of Albert and Martin?",
+        "start_offset": 0,
+        "end_offset": 54,
+        "start": 2.222,
+        "end": 5.144
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 55,
+        "end_offset": 63,
+        "start": 10.108,
+        "end": 12.109
+      },
+      {
+        "segment": "These entities are known to you as Albert Schweitzer and Martin Luther King.",
+        "start_offset": 64,
+        "end_offset": 140,
+        "start": 13.67,
+        "end": 32.244
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.222,
+        "end": 2.402,
+        "score": -6.8757
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 2.422,
+        "end": 2.482,
+        "score": -6.8857
+      },
+      {
+        "word": "give",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 2.502,
+        "end": 2.622,
+        "score": -7.2965
+      },
+      {
+        "word": "me",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 2.682,
+        "end": 2.802,
+        "score": -4.4226
+      },
+      {
+        "word": "the",
+        "start_offset": 18,
+        "end_offset": 21,
+        "start": 2.882,
+        "end": 2.962,
+        "score": -4.6049
+      },
+      {
+        "word": "last",
+        "start_offset": 22,
+        "end_offset": 26,
+        "start": 3.082,
+        "end": 3.443,
+        "score": -6.1011
+      },
+      {
+        "word": "names",
+        "start_offset": 27,
+        "end_offset": 32,
+        "start": 3.543,
+        "end": 3.943,
+        "score": -3.7498
+      },
+      {
+        "word": "of",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 4.003,
+        "end": 4.083,
+        "score": -4.4515
+      },
+      {
+        "word": "Albert",
+        "start_offset": 36,
+        "end_offset": 42,
+        "start": 4.203,
+        "end": 4.543,
+        "score": -3.9648
+      },
+      {
+        "word": "and",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 4.623,
+        "end": 4.724,
+        "score": -4.115
+      },
+      {
+        "word": "Martin?",
+        "start_offset": 47,
+        "end_offset": 54,
+        "start": 4.764,
+        "end": 5.144,
+        "score": -3.8323
+      },
+      {
+        "word": "I",
+        "start_offset": 55,
+        "end_offset": 56,
+        "start": 10.108,
+        "end": 10.128,
+        "score": -0.7099
+      },
+      {
+        "word": "am",
+        "start_offset": 57,
+        "end_offset": 59,
+        "start": 10.908,
+        "end": 11.188,
+        "score": -0.7006
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 60,
+        "end_offset": 63,
+        "start": 11.949,
+        "end": 12.109,
+        "score": -0.7584
+      },
+      {
+        "word": "These",
+        "start_offset": 64,
+        "end_offset": 69,
+        "start": 13.67,
+        "end": 14.251,
+        "score": -2.3393
+      },
+      {
+        "word": "entities",
+        "start_offset": 70,
+        "end_offset": 78,
+        "start": 14.891,
+        "end": 15.832,
+        "score": -3.6223
+      },
+      {
+        "word": "are",
+        "start_offset": 79,
+        "end_offset": 82,
+        "start": 17.453,
+        "end": 17.793,
+        "score": -0.8047
+      },
+      {
+        "word": "known",
+        "start_offset": 83,
+        "end_offset": 88,
+        "start": 18.194,
+        "end": 18.594,
+        "score": -0.7539
+      },
+      {
+        "word": "to",
+        "start_offset": 89,
+        "end_offset": 91,
+        "start": 19.315,
+        "end": 19.475,
+        "score": -0.7182
+      },
+      {
+        "word": "you",
+        "start_offset": 92,
+        "end_offset": 95,
+        "start": 20.215,
+        "end": 20.355,
+        "score": -0.7579
+      },
+      {
+        "word": "as",
+        "start_offset": 96,
+        "end_offset": 98,
+        "start": 21.536,
+        "end": 21.877,
+        "score": -0.7666
+      },
+      {
+        "word": "Albert",
+        "start_offset": 99,
+        "end_offset": 105,
+        "start": 23.017,
+        "end": 23.678,
+        "score": -0.6959
+      },
+      {
+        "word": "Schweitzer",
+        "start_offset": 106,
+        "end_offset": 116,
+        "start": 24.579,
+        "end": 25.459,
+        "score": -2.0743
+      },
+      {
+        "word": "and",
+        "start_offset": 117,
+        "end_offset": 120,
+        "start": 26.92,
+        "end": 27.341,
+        "score": -0.7297
+      },
+      {
+        "word": "Martin",
+        "start_offset": 121,
+        "end_offset": 127,
+        "start": 28.261,
+        "end": 28.842,
+        "score": -0.9223
+      },
+      {
+        "word": "Luther",
+        "start_offset": 128,
+        "end_offset": 134,
+        "start": 29.943,
+        "end": 30.503,
+        "score": -0.8065
+      },
+      {
+        "word": "King.",
+        "start_offset": 135,
+        "end_offset": 140,
+        "start": 31.804,
+        "end": 32.244,
+        "score": -0.7096
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "034-11.mp3",
+    "audio_duration": 33.0449,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

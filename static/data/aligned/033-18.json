@@ -1,0 +1,244 @@
+{
+  "text": "I believe that that is sufficient for the time being. I am Ra. Do you have a brief query or two before we close this working?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I believe that that is sufficient for the time being.",
+        "start_offset": 0,
+        "end_offset": 53,
+        "start": 1.68,
+        "end": 5.141
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 54,
+        "end_offset": 62,
+        "start": 16.322,
+        "end": 18.343
+      },
+      {
+        "segment": "Do you have a brief query or two before we close this working?",
+        "start_offset": 63,
+        "end_offset": 125,
+        "start": 19.983,
+        "end": 33.465
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 1.68,
+        "end": 1.7,
+        "score": -2.1085
+      },
+      {
+        "word": "believe",
+        "start_offset": 2,
+        "end_offset": 9,
+        "start": 1.72,
+        "end": 2.06,
+        "score": -1.6119
+      },
+      {
+        "word": "that",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 2.68,
+        "end": 2.82,
+        "score": -2.6407
+      },
+      {
+        "word": "that",
+        "start_offset": 15,
+        "end_offset": 19,
+        "start": 2.86,
+        "end": 3.02,
+        "score": -4.3304
+      },
+      {
+        "word": "is",
+        "start_offset": 20,
+        "end_offset": 22,
+        "start": 3.06,
+        "end": 3.14,
+        "score": -2.3278
+      },
+      {
+        "word": "sufficient",
+        "start_offset": 23,
+        "end_offset": 33,
+        "start": 3.2,
+        "end": 3.781,
+        "score": -0.8504
+      },
+      {
+        "word": "for",
+        "start_offset": 34,
+        "end_offset": 37,
+        "start": 4.201,
+        "end": 4.341,
+        "score": -0.9212
+      },
+      {
+        "word": "the",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 4.361,
+        "end": 4.421,
+        "score": -0.9209
+      },
+      {
+        "word": "time",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 4.481,
+        "end": 4.801,
+        "score": -0.8435
+      },
+      {
+        "word": "being.",
+        "start_offset": 47,
+        "end_offset": 53,
+        "start": 4.841,
+        "end": 5.141,
+        "score": -0.9962
+      },
+      {
+        "word": "I",
+        "start_offset": 54,
+        "end_offset": 55,
+        "start": 16.322,
+        "end": 16.342,
+        "score": -0.7313
+      },
+      {
+        "word": "am",
+        "start_offset": 56,
+        "end_offset": 58,
+        "start": 17.382,
+        "end": 17.623,
+        "score": -0.7785
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 18.183,
+        "end": 18.343,
+        "score": -0.8796
+      },
+      {
+        "word": "Do",
+        "start_offset": 63,
+        "end_offset": 65,
+        "start": 19.983,
+        "end": 20.083,
+        "score": -0.7411
+      },
+      {
+        "word": "you",
+        "start_offset": 66,
+        "end_offset": 69,
+        "start": 20.363,
+        "end": 20.523,
+        "score": -0.771
+      },
+      {
+        "word": "have",
+        "start_offset": 70,
+        "end_offset": 74,
+        "start": 21.563,
+        "end": 22.083,
+        "score": -0.7466
+      },
+      {
+        "word": "a",
+        "start_offset": 75,
+        "end_offset": 76,
+        "start": 24.203,
+        "end": 24.223,
+        "score": -0.7194
+      },
+      {
+        "word": "brief",
+        "start_offset": 77,
+        "end_offset": 82,
+        "start": 24.323,
+        "end": 24.704,
+        "score": -0.7441
+      },
+      {
+        "word": "query",
+        "start_offset": 83,
+        "end_offset": 88,
+        "start": 25.204,
+        "end": 25.684,
+        "score": -0.9058
+      },
+      {
+        "word": "or",
+        "start_offset": 89,
+        "end_offset": 91,
+        "start": 26.364,
+        "end": 26.564,
+        "score": -0.7867
+      },
+      {
+        "word": "two",
+        "start_offset": 92,
+        "end_offset": 95,
+        "start": 26.884,
+        "end": 27.184,
+        "score": -2.4317
+      },
+      {
+        "word": "before",
+        "start_offset": 96,
+        "end_offset": 102,
+        "start": 28.364,
+        "end": 28.964,
+        "score": -0.7209
+      },
+      {
+        "word": "we",
+        "start_offset": 103,
+        "end_offset": 105,
+        "start": 29.224,
+        "end": 29.384,
+        "score": -0.7204
+      },
+      {
+        "word": "close",
+        "start_offset": 106,
+        "end_offset": 111,
+        "start": 30.184,
+        "end": 30.864,
+        "score": -0.8752
+      },
+      {
+        "word": "this",
+        "start_offset": 112,
+        "end_offset": 116,
+        "start": 31.865,
+        "end": 32.265,
+        "score": -0.7646
+      },
+      {
+        "word": "working?",
+        "start_offset": 117,
+        "end_offset": 125,
+        "start": 32.865,
+        "end": 33.465,
+        "score": -0.7278
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "033-18.mp3",
+    "audio_duration": 40.0457,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

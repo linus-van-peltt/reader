@@ -1,0 +1,92 @@
+{
+  "text": "Is that satisfactory? I am Ra. Yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is that satisfactory?",
+        "start_offset": 0,
+        "end_offset": 21,
+        "start": 26.047,
+        "end": 30.128
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 22,
+        "end_offset": 30,
+        "start": 30.528,
+        "end": 32.688
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 34.789,
+        "end": 35.129
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 26.047,
+        "end": 26.127,
+        "score": -1.4722
+      },
+      {
+        "word": "that",
+        "start_offset": 3,
+        "end_offset": 7,
+        "start": 26.147,
+        "end": 26.327,
+        "score": -3.4354
+      },
+      {
+        "word": "satisfactory?",
+        "start_offset": 8,
+        "end_offset": 21,
+        "start": 26.347,
+        "end": 30.128,
+        "score": -3.5428
+      },
+      {
+        "word": "I",
+        "start_offset": 22,
+        "end_offset": 23,
+        "start": 30.528,
+        "end": 30.548,
+        "score": -1.5955
+      },
+      {
+        "word": "am",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 31.388,
+        "end": 32.488,
+        "score": -2.0165
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 32.588,
+        "end": 32.688,
+        "score": -2.8901
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 34.789,
+        "end": 35.129,
+        "score": -2.3593
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "043-03.mp3",
+    "audio_duration": 36.049,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

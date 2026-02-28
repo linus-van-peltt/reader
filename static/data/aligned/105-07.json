@@ -1,0 +1,532 @@
+{
+  "text": "Just so I don't make a mistake in interpreting your directions with respect to the second area outside the house, could you give me a distance and magnetic compass heading from, say, the exact center of the dwelling to that position? I am Ra. We may only be approximate but would suggest a distance of 37 feet, a magnetic heading of 84 to 92 degrees.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Just so I don't make a mistake in interpreting your directions with respect to the second area outside the house, could you give me a distance and magnetic compass heading from, say, the exact center of the dwelling to that position?",
+        "start_offset": 0,
+        "end_offset": 233,
+        "start": 2.42,
+        "end": 19.702
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 234,
+        "end_offset": 242,
+        "start": 26.842,
+        "end": 29.522
+      },
+      {
+        "segment": "We may only be approximate but would suggest a distance of feet, a magnetic heading of to degrees.",
+        "start_offset": 243,
+        "end_offset": 350,
+        "start": 32.903,
+        "end": 76.246
+      }
+    ],
+    "word": [
+      {
+        "word": "Just",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.42,
+        "end": 2.6,
+        "score": -2.2143
+      },
+      {
+        "word": "so",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 2.64,
+        "end": 2.7,
+        "score": -4.8671
+      },
+      {
+        "word": "I",
+        "start_offset": 8,
+        "end_offset": 9,
+        "start": 2.88,
+        "end": 2.9,
+        "score": -0.7339
+      },
+      {
+        "word": "don't",
+        "start_offset": 10,
+        "end_offset": 15,
+        "start": 2.92,
+        "end": 3.1,
+        "score": -1.1195
+      },
+      {
+        "word": "make",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 3.12,
+        "end": 3.28,
+        "score": -0.7157
+      },
+      {
+        "word": "a",
+        "start_offset": 21,
+        "end_offset": 22,
+        "start": 3.32,
+        "end": 3.34,
+        "score": -0.8281
+      },
+      {
+        "word": "mistake",
+        "start_offset": 23,
+        "end_offset": 30,
+        "start": 3.38,
+        "end": 3.78,
+        "score": -0.8263
+      },
+      {
+        "word": "in",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 3.82,
+        "end": 3.9,
+        "score": -2.953
+      },
+      {
+        "word": "interpreting",
+        "start_offset": 34,
+        "end_offset": 46,
+        "start": 3.96,
+        "end": 4.52,
+        "score": -0.7036
+      },
+      {
+        "word": "your",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 5.32,
+        "end": 5.44,
+        "score": -1.8648
+      },
+      {
+        "word": "directions",
+        "start_offset": 52,
+        "end_offset": 62,
+        "start": 5.46,
+        "end": 5.98,
+        "score": -0.7088
+      },
+      {
+        "word": "with",
+        "start_offset": 63,
+        "end_offset": 67,
+        "start": 6.02,
+        "end": 6.161,
+        "score": -0.7168
+      },
+      {
+        "word": "respect",
+        "start_offset": 68,
+        "end_offset": 75,
+        "start": 6.201,
+        "end": 6.621,
+        "score": -0.7135
+      },
+      {
+        "word": "to",
+        "start_offset": 76,
+        "end_offset": 78,
+        "start": 6.661,
+        "end": 6.721,
+        "score": -0.7368
+      },
+      {
+        "word": "the",
+        "start_offset": 79,
+        "end_offset": 82,
+        "start": 6.781,
+        "end": 6.881,
+        "score": -0.9387
+      },
+      {
+        "word": "second",
+        "start_offset": 83,
+        "end_offset": 89,
+        "start": 7.381,
+        "end": 7.741,
+        "score": -0.7149
+      },
+      {
+        "word": "area",
+        "start_offset": 90,
+        "end_offset": 94,
+        "start": 7.821,
+        "end": 8.101,
+        "score": -0.7039
+      },
+      {
+        "word": "outside",
+        "start_offset": 95,
+        "end_offset": 102,
+        "start": 8.961,
+        "end": 9.401,
+        "score": -0.7573
+      },
+      {
+        "word": "the",
+        "start_offset": 103,
+        "end_offset": 106,
+        "start": 9.441,
+        "end": 9.521,
+        "score": -1.1318
+      },
+      {
+        "word": "house,",
+        "start_offset": 107,
+        "end_offset": 113,
+        "start": 9.621,
+        "end": 9.961,
+        "score": -0.7818
+      },
+      {
+        "word": "could",
+        "start_offset": 114,
+        "end_offset": 119,
+        "start": 10.001,
+        "end": 10.881,
+        "score": -7.598
+      },
+      {
+        "word": "you",
+        "start_offset": 120,
+        "end_offset": 123,
+        "start": 10.901,
+        "end": 10.981,
+        "score": -3.3197
+      },
+      {
+        "word": "give",
+        "start_offset": 124,
+        "end_offset": 128,
+        "start": 11.041,
+        "end": 11.181,
+        "score": -1.283
+      },
+      {
+        "word": "me",
+        "start_offset": 129,
+        "end_offset": 131,
+        "start": 11.221,
+        "end": 11.281,
+        "score": -1.2813
+      },
+      {
+        "word": "a",
+        "start_offset": 132,
+        "end_offset": 133,
+        "start": 11.441,
+        "end": 11.461,
+        "score": -1.608
+      },
+      {
+        "word": "distance",
+        "start_offset": 134,
+        "end_offset": 142,
+        "start": 11.901,
+        "end": 12.361,
+        "score": -0.7422
+      },
+      {
+        "word": "and",
+        "start_offset": 143,
+        "end_offset": 146,
+        "start": 12.421,
+        "end": 12.521,
+        "score": -0.8496
+      },
+      {
+        "word": "magnetic",
+        "start_offset": 147,
+        "end_offset": 155,
+        "start": 12.581,
+        "end": 13.201,
+        "score": -0.7096
+      },
+      {
+        "word": "compass",
+        "start_offset": 156,
+        "end_offset": 163,
+        "start": 13.621,
+        "end": 14.041,
+        "score": -1.2624
+      },
+      {
+        "word": "heading",
+        "start_offset": 164,
+        "end_offset": 171,
+        "start": 14.201,
+        "end": 14.581,
+        "score": -0.7693
+      },
+      {
+        "word": "from,",
+        "start_offset": 172,
+        "end_offset": 177,
+        "start": 14.721,
+        "end": 15.001,
+        "score": -0.8953
+      },
+      {
+        "word": "say,",
+        "start_offset": 178,
+        "end_offset": 182,
+        "start": 15.381,
+        "end": 15.601,
+        "score": -1.1099
+      },
+      {
+        "word": "the",
+        "start_offset": 183,
+        "end_offset": 186,
+        "start": 15.681,
+        "end": 15.781,
+        "score": -1.2261
+      },
+      {
+        "word": "exact",
+        "start_offset": 187,
+        "end_offset": 192,
+        "start": 17.141,
+        "end": 17.541,
+        "score": -0.7719
+      },
+      {
+        "word": "center",
+        "start_offset": 193,
+        "end_offset": 199,
+        "start": 17.621,
+        "end": 17.941,
+        "score": -0.7937
+      },
+      {
+        "word": "of",
+        "start_offset": 200,
+        "end_offset": 202,
+        "start": 18.021,
+        "end": 18.082,
+        "score": -0.7514
+      },
+      {
+        "word": "the",
+        "start_offset": 203,
+        "end_offset": 206,
+        "start": 18.122,
+        "end": 18.202,
+        "score": -0.8241
+      },
+      {
+        "word": "dwelling",
+        "start_offset": 207,
+        "end_offset": 215,
+        "start": 18.242,
+        "end": 18.702,
+        "score": -3.1966
+      },
+      {
+        "word": "to",
+        "start_offset": 216,
+        "end_offset": 218,
+        "start": 18.782,
+        "end": 18.882,
+        "score": -0.7916
+      },
+      {
+        "word": "that",
+        "start_offset": 219,
+        "end_offset": 223,
+        "start": 18.942,
+        "end": 19.122,
+        "score": -0.8063
+      },
+      {
+        "word": "position?",
+        "start_offset": 224,
+        "end_offset": 233,
+        "start": 19.182,
+        "end": 19.702,
+        "score": -0.7075
+      },
+      {
+        "word": "I",
+        "start_offset": 234,
+        "end_offset": 235,
+        "start": 26.842,
+        "end": 26.862,
+        "score": -1.6971
+      },
+      {
+        "word": "am",
+        "start_offset": 236,
+        "end_offset": 238,
+        "start": 27.942,
+        "end": 28.182,
+        "score": -2.1569
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 239,
+        "end_offset": 242,
+        "start": 29.362,
+        "end": 29.522,
+        "score": -2.5226
+      },
+      {
+        "word": "We",
+        "start_offset": 243,
+        "end_offset": 245,
+        "start": 32.903,
+        "end": 33.083,
+        "score": -1.1361
+      },
+      {
+        "word": "may",
+        "start_offset": 246,
+        "end_offset": 249,
+        "start": 33.823,
+        "end": 34.123,
+        "score": -0.897
+      },
+      {
+        "word": "only",
+        "start_offset": 250,
+        "end_offset": 254,
+        "start": 34.983,
+        "end": 35.843,
+        "score": -1.3517
+      },
+      {
+        "word": "be",
+        "start_offset": 255,
+        "end_offset": 257,
+        "start": 36.223,
+        "end": 36.343,
+        "score": -1.0857
+      },
+      {
+        "word": "approximate",
+        "start_offset": 258,
+        "end_offset": 269,
+        "start": 36.783,
+        "end": 38.423,
+        "score": -1.253
+      },
+      {
+        "word": "but",
+        "start_offset": 270,
+        "end_offset": 273,
+        "start": 40.503,
+        "end": 40.923,
+        "score": -1.0605
+      },
+      {
+        "word": "would",
+        "start_offset": 274,
+        "end_offset": 279,
+        "start": 41.423,
+        "end": 41.863,
+        "score": -2.9301
+      },
+      {
+        "word": "suggest",
+        "start_offset": 280,
+        "end_offset": 287,
+        "start": 42.103,
+        "end": 43.484,
+        "score": -1.1247
+      },
+      {
+        "word": "a",
+        "start_offset": 288,
+        "end_offset": 289,
+        "start": 44.884,
+        "end": 44.904,
+        "score": -1.3023
+      },
+      {
+        "word": "distance",
+        "start_offset": 290,
+        "end_offset": 298,
+        "start": 46.144,
+        "end": 47.324,
+        "score": -1.6285
+      },
+      {
+        "word": "of",
+        "start_offset": 299,
+        "end_offset": 301,
+        "start": 48.944,
+        "end": 49.404,
+        "score": -1.4053
+      },
+      {
+        "word": "feet,",
+        "start_offset": 305,
+        "end_offset": 310,
+        "start": 54.004,
+        "end": 54.545,
+        "score": -2.6879
+      },
+      {
+        "word": "a",
+        "start_offset": 311,
+        "end_offset": 312,
+        "start": 57.565,
+        "end": 57.585,
+        "score": -1.0693
+      },
+      {
+        "word": "magnetic",
+        "start_offset": 313,
+        "end_offset": 321,
+        "start": 57.685,
+        "end": 59.965,
+        "score": -1.1597
+      },
+      {
+        "word": "heading",
+        "start_offset": 322,
+        "end_offset": 329,
+        "start": 61.845,
+        "end": 62.705,
+        "score": -1.396
+      },
+      {
+        "word": "of",
+        "start_offset": 330,
+        "end_offset": 332,
+        "start": 64.545,
+        "end": 65.125,
+        "score": -1.3948
+      },
+      {
+        "word": "to",
+        "start_offset": 336,
+        "end_offset": 338,
+        "start": 72.386,
+        "end": 72.626,
+        "score": -1.9203
+      },
+      {
+        "word": "degrees.",
+        "start_offset": 342,
+        "end_offset": 350,
+        "start": 75.206,
+        "end": 76.246,
+        "score": -2.3672
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "105-07.mp3",
+    "audio_duration": 79.0466,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "text": "Dr. Monroe, I understand, brought a four-toed Bigfoot cast by here the other day. Could you tell me which form of Bigfoot that cast was? I am Ra. We can.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Dr.",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 6.282,
+        "end": 6.602
+      },
+      {
+        "segment": "Monroe, I understand, brought a four-toed Bigfoot cast by here the other day.",
+        "start_offset": 4,
+        "end_offset": 81,
+        "start": 6.662,
+        "end": 13.384
+      },
+      {
+        "segment": "Could you tell me which form of Bigfoot that cast was?",
+        "start_offset": 82,
+        "end_offset": 136,
+        "start": 16.125,
+        "end": 20.606
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 137,
+        "end_offset": 145,
+        "start": 22.866,
+        "end": 24.467
+      },
+      {
+        "segment": "We can.",
+        "start_offset": 146,
+        "end_offset": 153,
+        "start": 26.587,
+        "end": 27.948
+      }
+    ],
+    "word": [
+      {
+        "word": "Dr.",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 6.282,
+        "end": 6.602,
+        "score": -1.2373
+      },
+      {
+        "word": "Monroe,",
+        "start_offset": 4,
+        "end_offset": 11,
+        "start": 6.662,
+        "end": 7.002,
+        "score": -3.1488
+      },
+      {
+        "word": "I",
+        "start_offset": 12,
+        "end_offset": 13,
+        "start": 7.082,
+        "end": 7.102,
+        "score": -2.8039
+      },
+      {
+        "word": "understand,",
+        "start_offset": 14,
+        "end_offset": 25,
+        "start": 7.162,
+        "end": 7.682,
+        "score": -0.7395
+      },
+      {
+        "word": "brought",
+        "start_offset": 26,
+        "end_offset": 33,
+        "start": 7.742,
+        "end": 7.922,
+        "score": -2.993
+      },
+      {
+        "word": "a",
+        "start_offset": 34,
+        "end_offset": 35,
+        "start": 7.962,
+        "end": 7.982,
+        "score": -1.4505
+      },
+      {
+        "word": "four-toed",
+        "start_offset": 36,
+        "end_offset": 45,
+        "start": 8.382,
+        "end": 8.963,
+        "score": -1.4028
+      },
+      {
+        "word": "Bigfoot",
+        "start_offset": 46,
+        "end_offset": 53,
+        "start": 10.183,
+        "end": 10.703,
+        "score": -1.1956
+      },
+      {
+        "word": "cast",
+        "start_offset": 54,
+        "end_offset": 58,
+        "start": 11.843,
+        "end": 12.263,
+        "score": -0.7636
+      },
+      {
+        "word": "by",
+        "start_offset": 59,
+        "end_offset": 61,
+        "start": 12.343,
+        "end": 12.424,
+        "score": -6.713
+      },
+      {
+        "word": "here",
+        "start_offset": 62,
+        "end_offset": 66,
+        "start": 12.644,
+        "end": 12.784,
+        "score": -2.588
+      },
+      {
+        "word": "the",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 12.804,
+        "end": 12.864,
+        "score": -2.7225
+      },
+      {
+        "word": "other",
+        "start_offset": 71,
+        "end_offset": 76,
+        "start": 12.924,
+        "end": 13.124,
+        "score": -2.9647
+      },
+      {
+        "word": "day.",
+        "start_offset": 77,
+        "end_offset": 81,
+        "start": 13.164,
+        "end": 13.384,
+        "score": -0.855
+      },
+      {
+        "word": "Could",
+        "start_offset": 82,
+        "end_offset": 87,
+        "start": 16.125,
+        "end": 16.305,
+        "score": -1.3775
+      },
+      {
+        "word": "you",
+        "start_offset": 88,
+        "end_offset": 91,
+        "start": 16.325,
+        "end": 16.425,
+        "score": -0.8184
+      },
+      {
+        "word": "tell",
+        "start_offset": 92,
+        "end_offset": 96,
+        "start": 17.125,
+        "end": 17.305,
+        "score": -2.0491
+      },
+      {
+        "word": "me",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 17.345,
+        "end": 17.425,
+        "score": -1.5627
+      },
+      {
+        "word": "which",
+        "start_offset": 100,
+        "end_offset": 105,
+        "start": 17.525,
+        "end": 17.785,
+        "score": -1.2159
+      },
+      {
+        "word": "form",
+        "start_offset": 106,
+        "end_offset": 110,
+        "start": 18.245,
+        "end": 18.445,
+        "score": -0.7896
+      },
+      {
+        "word": "of",
+        "start_offset": 111,
+        "end_offset": 113,
+        "start": 18.465,
+        "end": 18.545,
+        "score": -5.2791
+      },
+      {
+        "word": "Bigfoot",
+        "start_offset": 114,
+        "end_offset": 121,
+        "start": 18.585,
+        "end": 19.005,
+        "score": -1.6155
+      },
+      {
+        "word": "that",
+        "start_offset": 122,
+        "end_offset": 126,
+        "start": 19.025,
+        "end": 19.225,
+        "score": -2.0315
+      },
+      {
+        "word": "cast",
+        "start_offset": 127,
+        "end_offset": 131,
+        "start": 19.285,
+        "end": 19.666,
+        "score": -0.9577
+      },
+      {
+        "word": "was?",
+        "start_offset": 132,
+        "end_offset": 136,
+        "start": 20.346,
+        "end": 20.606,
+        "score": -1.2114
+      },
+      {
+        "word": "I",
+        "start_offset": 137,
+        "end_offset": 138,
+        "start": 22.866,
+        "end": 22.886,
+        "score": -4.2905
+      },
+      {
+        "word": "am",
+        "start_offset": 139,
+        "end_offset": 141,
+        "start": 23.467,
+        "end": 23.747,
+        "score": -4.3533
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 142,
+        "end_offset": 145,
+        "start": 24.387,
+        "end": 24.467,
+        "score": -6.2762
+      },
+      {
+        "word": "We",
+        "start_offset": 146,
+        "end_offset": 148,
+        "start": 26.587,
+        "end": 26.728,
+        "score": -3.7525
+      },
+      {
+        "word": "can.",
+        "start_offset": 149,
+        "end_offset": 153,
+        "start": 27.508,
+        "end": 27.948,
+        "score": -4.6803
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "064-17.mp3",
+    "audio_duration": 29.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

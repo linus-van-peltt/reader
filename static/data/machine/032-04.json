@@ -1,0 +1,527 @@
+{
+  "text": "So I should change that third to fourth. I am Ra. This is correct. Please continue to scan for errors having to do with numberings as you call them, as this concept is foreign to us, and we must translate, if you will, when using numbers. This is an ongoing weakness of this contact due to the difference between our ways and yours. Your aid is appreciated.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "So I should change that third to fourth.",
+        "start_offset": 24,
+        "end_offset": 58,
+        "start": 1.92,
+        "end": 4.64
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 94,
+        "end_offset": 122,
+        "start": 7.5200000000000005,
+        "end": 9.76
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 141,
+        "end_offset": 185,
+        "start": 11.28,
+        "end": 14.8
+      },
+      {
+        "segment": "Please continue to scan for errors having to do with numberings as you call them, as this concept is foreign to us, and we must translate, if you will, when using numbers.",
+        "start_offset": 204,
+        "end_offset": 672,
+        "start": 16.32,
+        "end": 53.76
+      },
+      {
+        "segment": "This is an ongoing weakness of this contact due to the difference between our ways and yours.",
+        "start_offset": 694,
+        "end_offset": 972,
+        "start": 55.52,
+        "end": 77.76
+      },
+      {
+        "segment": "Your aid is appreciated.",
+        "start_offset": 987,
+        "end_offset": 1057,
+        "start": 78.96000000000001,
+        "end": 84.56
+      }
+    ],
+    "word": [
+      {
+        "word": "So",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 1.92,
+        "end": 2.16
+      },
+      {
+        "word": "I",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 2.16,
+        "end": 2.4
+      },
+      {
+        "word": "should",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 2.4,
+        "end": 2.64
+      },
+      {
+        "word": "change",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 2.64,
+        "end": 2.96
+      },
+      {
+        "word": "that",
+        "start_offset": 37,
+        "end_offset": 40,
+        "start": 2.96,
+        "end": 3.2
+      },
+      {
+        "word": "third",
+        "start_offset": 40,
+        "end_offset": 45,
+        "start": 3.2,
+        "end": 3.6
+      },
+      {
+        "word": "to",
+        "start_offset": 45,
+        "end_offset": 48,
+        "start": 3.6,
+        "end": 3.84
+      },
+      {
+        "word": "fourth.",
+        "start_offset": 48,
+        "end_offset": 58,
+        "start": 3.84,
+        "end": 4.64
+      },
+      {
+        "word": "I",
+        "start_offset": 94,
+        "end_offset": 98,
+        "start": 7.5200000000000005,
+        "end": 7.84
+      },
+      {
+        "word": "am",
+        "start_offset": 102,
+        "end_offset": 106,
+        "start": 8.16,
+        "end": 8.48
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 118,
+        "end_offset": 122,
+        "start": 9.44,
+        "end": 9.76
+      },
+      {
+        "word": "This",
+        "start_offset": 141,
+        "end_offset": 145,
+        "start": 11.28,
+        "end": 11.6
+      },
+      {
+        "word": "is",
+        "start_offset": 157,
+        "end_offset": 161,
+        "start": 12.56,
+        "end": 12.88
+      },
+      {
+        "word": "correct.",
+        "start_offset": 173,
+        "end_offset": 185,
+        "start": 13.84,
+        "end": 14.8
+      },
+      {
+        "word": "Please",
+        "start_offset": 204,
+        "end_offset": 216,
+        "start": 16.32,
+        "end": 17.28
+      },
+      {
+        "word": "continue",
+        "start_offset": 220,
+        "end_offset": 236,
+        "start": 17.6,
+        "end": 18.88
+      },
+      {
+        "word": "to",
+        "start_offset": 248,
+        "end_offset": 252,
+        "start": 19.84,
+        "end": 20.16
+      },
+      {
+        "word": "scan",
+        "start_offset": 256,
+        "end_offset": 264,
+        "start": 20.48,
+        "end": 21.12
+      },
+      {
+        "word": "for",
+        "start_offset": 276,
+        "end_offset": 280,
+        "start": 22.080000000000002,
+        "end": 22.400000000000002
+      },
+      {
+        "word": "errors",
+        "start_offset": 288,
+        "end_offset": 300,
+        "start": 23.04,
+        "end": 24.0
+      },
+      {
+        "word": "having",
+        "start_offset": 308,
+        "end_offset": 316,
+        "start": 24.64,
+        "end": 25.28
+      },
+      {
+        "word": "to",
+        "start_offset": 324,
+        "end_offset": 328,
+        "start": 25.92,
+        "end": 26.240000000000002
+      },
+      {
+        "word": "do",
+        "start_offset": 328,
+        "end_offset": 332,
+        "start": 26.240000000000002,
+        "end": 26.560000000000002
+      },
+      {
+        "word": "with",
+        "start_offset": 348,
+        "end_offset": 352,
+        "start": 27.84,
+        "end": 28.16
+      },
+      {
+        "word": "numberings",
+        "start_offset": 371,
+        "end_offset": 385,
+        "start": 29.68,
+        "end": 30.8
+      },
+      {
+        "word": "as",
+        "start_offset": 398,
+        "end_offset": 402,
+        "start": 31.84,
+        "end": 32.160000000000004
+      },
+      {
+        "word": "you",
+        "start_offset": 406,
+        "end_offset": 410,
+        "start": 32.480000000000004,
+        "end": 32.8
+      },
+      {
+        "word": "call",
+        "start_offset": 410,
+        "end_offset": 418,
+        "start": 32.8,
+        "end": 33.44
+      },
+      {
+        "word": "them,",
+        "start_offset": 418,
+        "end_offset": 422,
+        "start": 33.44,
+        "end": 33.76
+      },
+      {
+        "word": "as",
+        "start_offset": 440,
+        "end_offset": 444,
+        "start": 35.2,
+        "end": 35.52
+      },
+      {
+        "word": "this",
+        "start_offset": 448,
+        "end_offset": 452,
+        "start": 35.84,
+        "end": 36.160000000000004
+      },
+      {
+        "word": "concept",
+        "start_offset": 460,
+        "end_offset": 476,
+        "start": 36.800000000000004,
+        "end": 38.08
+      },
+      {
+        "word": "is",
+        "start_offset": 492,
+        "end_offset": 496,
+        "start": 39.36,
+        "end": 39.68
+      },
+      {
+        "word": "foreign",
+        "start_offset": 501,
+        "end_offset": 512,
+        "start": 40.08,
+        "end": 40.96
+      },
+      {
+        "word": "to",
+        "start_offset": 516,
+        "end_offset": 520,
+        "start": 41.28,
+        "end": 41.6
+      },
+      {
+        "word": "us,",
+        "start_offset": 524,
+        "end_offset": 528,
+        "start": 41.92,
+        "end": 42.24
+      },
+      {
+        "word": "and",
+        "start_offset": 543,
+        "end_offset": 547,
+        "start": 43.44,
+        "end": 43.76
+      },
+      {
+        "word": "we",
+        "start_offset": 551,
+        "end_offset": 555,
+        "start": 44.08,
+        "end": 44.4
+      },
+      {
+        "word": "must",
+        "start_offset": 559,
+        "end_offset": 567,
+        "start": 44.72,
+        "end": 45.36
+      },
+      {
+        "word": "translate,",
+        "start_offset": 575,
+        "end_offset": 587,
+        "start": 46.0,
+        "end": 46.96
+      },
+      {
+        "word": "if",
+        "start_offset": 600,
+        "end_offset": 604,
+        "start": 48.0,
+        "end": 48.32
+      },
+      {
+        "word": "you",
+        "start_offset": 608,
+        "end_offset": 612,
+        "start": 48.64,
+        "end": 48.96
+      },
+      {
+        "word": "will,",
+        "start_offset": 612,
+        "end_offset": 616,
+        "start": 48.96,
+        "end": 49.28
+      },
+      {
+        "word": "when",
+        "start_offset": 632,
+        "end_offset": 636,
+        "start": 50.56,
+        "end": 50.88
+      },
+      {
+        "word": "using",
+        "start_offset": 644,
+        "end_offset": 652,
+        "start": 51.52,
+        "end": 52.160000000000004
+      },
+      {
+        "word": "numbers.",
+        "start_offset": 660,
+        "end_offset": 672,
+        "start": 52.800000000000004,
+        "end": 53.76
+      },
+      {
+        "word": "This",
+        "start_offset": 694,
+        "end_offset": 698,
+        "start": 55.52,
+        "end": 55.84
+      },
+      {
+        "word": "is",
+        "start_offset": 706,
+        "end_offset": 710,
+        "start": 56.480000000000004,
+        "end": 56.800000000000004
+      },
+      {
+        "word": "an",
+        "start_offset": 722,
+        "end_offset": 726,
+        "start": 57.76,
+        "end": 58.08
+      },
+      {
+        "word": "ongoing",
+        "start_offset": 734,
+        "end_offset": 750,
+        "start": 58.72,
+        "end": 60.0
+      },
+      {
+        "word": "weakness",
+        "start_offset": 758,
+        "end_offset": 770,
+        "start": 60.64,
+        "end": 61.6
+      },
+      {
+        "word": "of",
+        "start_offset": 782,
+        "end_offset": 786,
+        "start": 62.56,
+        "end": 62.88
+      },
+      {
+        "word": "this",
+        "start_offset": 790,
+        "end_offset": 794,
+        "start": 63.2,
+        "end": 63.52
+      },
+      {
+        "word": "contact",
+        "start_offset": 802,
+        "end_offset": 818,
+        "start": 64.16,
+        "end": 65.44
+      },
+      {
+        "word": "due",
+        "start_offset": 829,
+        "end_offset": 833,
+        "start": 66.32000000000001,
+        "end": 66.64
+      },
+      {
+        "word": "to",
+        "start_offset": 837,
+        "end_offset": 841,
+        "start": 66.96000000000001,
+        "end": 67.28
+      },
+      {
+        "word": "the",
+        "start_offset": 857,
+        "end_offset": 861,
+        "start": 68.56,
+        "end": 68.88
+      },
+      {
+        "word": "difference",
+        "start_offset": 868,
+        "end_offset": 880,
+        "start": 69.44,
+        "end": 70.4
+      },
+      {
+        "word": "between",
+        "start_offset": 892,
+        "end_offset": 904,
+        "start": 71.36,
+        "end": 72.32000000000001
+      },
+      {
+        "word": "our",
+        "start_offset": 920,
+        "end_offset": 924,
+        "start": 73.60000000000001,
+        "end": 73.92
+      },
+      {
+        "word": "ways",
+        "start_offset": 932,
+        "end_offset": 940,
+        "start": 74.56,
+        "end": 75.2
+      },
+      {
+        "word": "and",
+        "start_offset": 952,
+        "end_offset": 956,
+        "start": 76.16,
+        "end": 76.48
+      },
+      {
+        "word": "yours.",
+        "start_offset": 964,
+        "end_offset": 972,
+        "start": 77.12,
+        "end": 77.76
+      },
+      {
+        "word": "Your",
+        "start_offset": 987,
+        "end_offset": 995,
+        "start": 78.96000000000001,
+        "end": 79.60000000000001
+      },
+      {
+        "word": "aid",
+        "start_offset": 1002,
+        "end_offset": 1010,
+        "start": 80.16,
+        "end": 80.8
+      },
+      {
+        "word": "is",
+        "start_offset": 1022,
+        "end_offset": 1026,
+        "start": 81.76,
+        "end": 82.08
+      },
+      {
+        "word": "appreciated.",
+        "start_offset": 1038,
+        "end_offset": 1057,
+        "start": 83.04,
+        "end": 84.56
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "032-04.mp3",
+    "audio_duration": 86.05,
+    "transcription_time": 0.15,
+    "rtfx": 574.58,
+    "timestamp": "2026-01-06T21:49:52.281893+00:00"
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "text": "Okay, I understand that the garlic is to be used at the bar area and in the bedroom that is close to the kitchen and has an exit onto the carport. If I am correct then, those are the only two places to use the garlic: the bar and that room with the exit to the carport. That's correct, isn't it? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Okay, I understand that the garlic is to be used at the bar area and in the bedroom that is close to the kitchen and has an exit onto the carport.",
+        "start_offset": 0,
+        "end_offset": 146,
+        "start": 3.221,
+        "end": 16.587
+      },
+      {
+        "segment": "If I am correct then, those are the only two places to use the garlic: the bar and that room with the exit to the carport.",
+        "start_offset": 147,
+        "end_offset": 269,
+        "start": 16.727,
+        "end": 24.11
+      },
+      {
+        "segment": "That's correct, isn't it?",
+        "start_offset": 270,
+        "end_offset": 295,
+        "start": 24.47,
+        "end": 25.61
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 296,
+        "end_offset": 304,
+        "start": 25.63,
+        "end": 27.111
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 305,
+        "end_offset": 321,
+        "start": 30.672,
+        "end": 33.594
+      }
+    ],
+    "word": [
+      {
+        "word": "Okay,",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 3.221,
+        "end": 3.381,
+        "score": -5.2456
+      },
+      {
+        "word": "I",
+        "start_offset": 6,
+        "end_offset": 7,
+        "start": 3.401,
+        "end": 3.421,
+        "score": -4.9166
+      },
+      {
+        "word": "understand",
+        "start_offset": 8,
+        "end_offset": 18,
+        "start": 3.441,
+        "end": 3.782,
+        "score": -3.9891
+      },
+      {
+        "word": "that",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 3.802,
+        "end": 3.882,
+        "score": -3.7608
+      },
+      {
+        "word": "the",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 3.902,
+        "end": 3.962,
+        "score": -0.8549
+      },
+      {
+        "word": "garlic",
+        "start_offset": 28,
+        "end_offset": 34,
+        "start": 4.002,
+        "end": 4.362,
+        "score": -1.7
+      },
+      {
+        "word": "is",
+        "start_offset": 35,
+        "end_offset": 37,
+        "start": 4.402,
+        "end": 4.482,
+        "score": -1.8389
+      },
+      {
+        "word": "to",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 4.522,
+        "end": 4.582,
+        "score": -0.8655
+      },
+      {
+        "word": "be",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 4.622,
+        "end": 4.682,
+        "score": -0.8419
+      },
+      {
+        "word": "used",
+        "start_offset": 44,
+        "end_offset": 48,
+        "start": 4.802,
+        "end": 4.962,
+        "score": -0.7303
+      },
+      {
+        "word": "at",
+        "start_offset": 49,
+        "end_offset": 51,
+        "start": 5.002,
+        "end": 5.062,
+        "score": -3.9498
+      },
+      {
+        "word": "the",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 5.082,
+        "end": 5.162,
+        "score": -1.0689
+      },
+      {
+        "word": "bar",
+        "start_offset": 56,
+        "end_offset": 59,
+        "start": 5.202,
+        "end": 5.462,
+        "score": -1.4109
+      },
+      {
+        "word": "area",
+        "start_offset": 60,
+        "end_offset": 64,
+        "start": 5.482,
+        "end": 5.782,
+        "score": -2.2034
+      },
+      {
+        "word": "and",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 5.902,
+        "end": 6.343,
+        "score": -4.3533
+      },
+      {
+        "word": "in",
+        "start_offset": 69,
+        "end_offset": 71,
+        "start": 7.943,
+        "end": 8.023,
+        "score": -1.6587
+      },
+      {
+        "word": "the",
+        "start_offset": 72,
+        "end_offset": 75,
+        "start": 8.063,
+        "end": 8.143,
+        "score": -2.634
+      },
+      {
+        "word": "bedroom",
+        "start_offset": 76,
+        "end_offset": 83,
+        "start": 10.744,
+        "end": 11.144,
+        "score": -3.4524
+      },
+      {
+        "word": "that",
+        "start_offset": 84,
+        "end_offset": 88,
+        "start": 11.325,
+        "end": 11.485,
+        "score": -4.3332
+      },
+      {
+        "word": "is",
+        "start_offset": 89,
+        "end_offset": 91,
+        "start": 11.605,
+        "end": 11.705,
+        "score": -2.0399
+      },
+      {
+        "word": "close",
+        "start_offset": 92,
+        "end_offset": 97,
+        "start": 11.885,
+        "end": 12.165,
+        "score": -0.9688
+      },
+      {
+        "word": "to",
+        "start_offset": 98,
+        "end_offset": 100,
+        "start": 12.205,
+        "end": 12.265,
+        "score": -0.8358
+      },
+      {
+        "word": "the",
+        "start_offset": 101,
+        "end_offset": 104,
+        "start": 12.305,
+        "end": 12.385,
+        "score": -0.8264
+      },
+      {
+        "word": "kitchen",
+        "start_offset": 105,
+        "end_offset": 112,
+        "start": 12.445,
+        "end": 12.785,
+        "score": -1.3584
+      },
+      {
+        "word": "and",
+        "start_offset": 113,
+        "end_offset": 116,
+        "start": 13.305,
+        "end": 13.425,
+        "score": -1.2127
+      },
+      {
+        "word": "has",
+        "start_offset": 117,
+        "end_offset": 120,
+        "start": 13.445,
+        "end": 13.706,
+        "score": -1.2098
+      },
+      {
+        "word": "an",
+        "start_offset": 121,
+        "end_offset": 123,
+        "start": 14.466,
+        "end": 14.546,
+        "score": -0.8092
+      },
+      {
+        "word": "exit",
+        "start_offset": 124,
+        "end_offset": 128,
+        "start": 14.706,
+        "end": 15.086,
+        "score": -0.8756
+      },
+      {
+        "word": "onto",
+        "start_offset": 129,
+        "end_offset": 133,
+        "start": 15.366,
+        "end": 15.686,
+        "score": -0.8401
+      },
+      {
+        "word": "the",
+        "start_offset": 134,
+        "end_offset": 137,
+        "start": 15.786,
+        "end": 15.866,
+        "score": -0.8335
+      },
+      {
+        "word": "carport.",
+        "start_offset": 138,
+        "end_offset": 146,
+        "start": 15.966,
+        "end": 16.587,
+        "score": -0.7804
+      },
+      {
+        "word": "If",
+        "start_offset": 147,
+        "end_offset": 149,
+        "start": 16.727,
+        "end": 16.827,
+        "score": -4.0402
+      },
+      {
+        "word": "I",
+        "start_offset": 150,
+        "end_offset": 151,
+        "start": 16.867,
+        "end": 16.887,
+        "score": -5.5881
+      },
+      {
+        "word": "am",
+        "start_offset": 152,
+        "end_offset": 154,
+        "start": 16.967,
+        "end": 17.007,
+        "score": -5.8075
+      },
+      {
+        "word": "correct",
+        "start_offset": 155,
+        "end_offset": 162,
+        "start": 17.047,
+        "end": 17.407,
+        "score": -1.1595
+      },
+      {
+        "word": "then,",
+        "start_offset": 163,
+        "end_offset": 168,
+        "start": 17.427,
+        "end": 17.527,
+        "score": -4.4066
+      },
+      {
+        "word": "those",
+        "start_offset": 169,
+        "end_offset": 174,
+        "start": 17.547,
+        "end": 17.667,
+        "score": -4.054
+      },
+      {
+        "word": "are",
+        "start_offset": 175,
+        "end_offset": 178,
+        "start": 17.707,
+        "end": 17.767,
+        "score": -2.7102
+      },
+      {
+        "word": "the",
+        "start_offset": 179,
+        "end_offset": 182,
+        "start": 17.787,
+        "end": 17.847,
+        "score": -1.1141
+      },
+      {
+        "word": "only",
+        "start_offset": 183,
+        "end_offset": 187,
+        "start": 17.927,
+        "end": 18.067,
+        "score": -0.7559
+      },
+      {
+        "word": "two",
+        "start_offset": 188,
+        "end_offset": 191,
+        "start": 18.127,
+        "end": 18.247,
+        "score": -0.7346
+      },
+      {
+        "word": "places",
+        "start_offset": 192,
+        "end_offset": 198,
+        "start": 18.287,
+        "end": 18.688,
+        "score": -0.7014
+      },
+      {
+        "word": "to",
+        "start_offset": 199,
+        "end_offset": 201,
+        "start": 18.728,
+        "end": 18.808,
+        "score": -0.7454
+      },
+      {
+        "word": "use",
+        "start_offset": 202,
+        "end_offset": 205,
+        "start": 18.968,
+        "end": 19.148,
+        "score": -0.8405
+      },
+      {
+        "word": "the",
+        "start_offset": 206,
+        "end_offset": 209,
+        "start": 19.868,
+        "end": 19.968,
+        "score": -2.4768
+      },
+      {
+        "word": "garlic:",
+        "start_offset": 210,
+        "end_offset": 217,
+        "start": 20.348,
+        "end": 20.688,
+        "score": -5.1247
+      },
+      {
+        "word": "the",
+        "start_offset": 218,
+        "end_offset": 221,
+        "start": 21.109,
+        "end": 21.189,
+        "score": -1.962
+      },
+      {
+        "word": "bar",
+        "start_offset": 222,
+        "end_offset": 225,
+        "start": 21.249,
+        "end": 21.489,
+        "score": -1.4598
+      },
+      {
+        "word": "and",
+        "start_offset": 226,
+        "end_offset": 229,
+        "start": 21.629,
+        "end": 21.749,
+        "score": -4.8266
+      },
+      {
+        "word": "that",
+        "start_offset": 230,
+        "end_offset": 234,
+        "start": 21.909,
+        "end": 22.569,
+        "score": -4.0468
+      },
+      {
+        "word": "room",
+        "start_offset": 235,
+        "end_offset": 239,
+        "start": 22.609,
+        "end": 22.749,
+        "score": -2.2727
+      },
+      {
+        "word": "with",
+        "start_offset": 240,
+        "end_offset": 244,
+        "start": 22.769,
+        "end": 22.909,
+        "score": -3.697
+      },
+      {
+        "word": "the",
+        "start_offset": 245,
+        "end_offset": 248,
+        "start": 22.929,
+        "end": 22.989,
+        "score": -2.2466
+      },
+      {
+        "word": "exit",
+        "start_offset": 249,
+        "end_offset": 253,
+        "start": 23.069,
+        "end": 23.309,
+        "score": -1.2439
+      },
+      {
+        "word": "to",
+        "start_offset": 254,
+        "end_offset": 256,
+        "start": 23.369,
+        "end": 23.429,
+        "score": -2.5076
+      },
+      {
+        "word": "the",
+        "start_offset": 257,
+        "end_offset": 260,
+        "start": 23.469,
+        "end": 23.55,
+        "score": -1.6457
+      },
+      {
+        "word": "carport.",
+        "start_offset": 261,
+        "end_offset": 269,
+        "start": 23.59,
+        "end": 24.11,
+        "score": -1.683
+      },
+      {
+        "word": "That's",
+        "start_offset": 270,
+        "end_offset": 276,
+        "start": 24.47,
+        "end": 24.95,
+        "score": -3.3005
+      },
+      {
+        "word": "correct,",
+        "start_offset": 277,
+        "end_offset": 285,
+        "start": 25.01,
+        "end": 25.27,
+        "score": -1.1923
+      },
+      {
+        "word": "isn't",
+        "start_offset": 286,
+        "end_offset": 291,
+        "start": 25.33,
+        "end": 25.55,
+        "score": -4.2529
+      },
+      {
+        "word": "it?",
+        "start_offset": 292,
+        "end_offset": 295,
+        "start": 25.57,
+        "end": 25.61,
+        "score": -5.4921
+      },
+      {
+        "word": "I",
+        "start_offset": 296,
+        "end_offset": 297,
+        "start": 25.63,
+        "end": 25.65,
+        "score": -7.5871
+      },
+      {
+        "word": "am",
+        "start_offset": 298,
+        "end_offset": 300,
+        "start": 25.67,
+        "end": 27.011,
+        "score": -7.8431
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 301,
+        "end_offset": 304,
+        "start": 27.031,
+        "end": 27.111,
+        "score": -7.3071
+      },
+      {
+        "word": "This",
+        "start_offset": 305,
+        "end_offset": 309,
+        "start": 30.672,
+        "end": 30.973,
+        "score": -6.4908
+      },
+      {
+        "word": "is",
+        "start_offset": 310,
+        "end_offset": 312,
+        "start": 32.093,
+        "end": 32.313,
+        "score": -4.6212
+      },
+      {
+        "word": "correct.",
+        "start_offset": 313,
+        "end_offset": 321,
+        "start": 32.773,
+        "end": 33.594,
+        "score": -4.1274
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "095-09.mp3",
+    "audio_duration": 34.5339,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

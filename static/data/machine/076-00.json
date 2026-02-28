@@ -1,0 +1,205 @@
+{
+  "text": "Number seventy-six, February third, nineteen eighty-two. I greet you in the love and in the light of the one infinite creator. We communicate now.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Number seventy-six, February third, nineteen eighty-two.",
+        "start_offset": 23,
+        "end_offset": 74,
+        "start": 1.84,
+        "end": 5.92
+      },
+      {
+        "segment": "I greet you in the love and in the light of the one infinite creator.",
+        "start_offset": 124,
+        "end_offset": 385,
+        "start": 9.92,
+        "end": 30.8
+      },
+      {
+        "segment": "We communicate now.",
+        "start_offset": 446,
+        "end_offset": 483,
+        "start": 35.68,
+        "end": 38.64
+      }
+    ],
+    "word": [
+      {
+        "word": "Number",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 1.84,
+        "end": 2.16
+      },
+      {
+        "word": "seventy-six,",
+        "start_offset": 27,
+        "end_offset": 36,
+        "start": 2.16,
+        "end": 2.88
+      },
+      {
+        "word": "February",
+        "start_offset": 39,
+        "end_offset": 47,
+        "start": 3.12,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "third,",
+        "start_offset": 47,
+        "end_offset": 52,
+        "start": 3.7600000000000002,
+        "end": 4.16
+      },
+      {
+        "word": "nineteen",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 4.48,
+        "end": 4.8
+      },
+      {
+        "word": "eighty-two.",
+        "start_offset": 62,
+        "end_offset": 74,
+        "start": 4.96,
+        "end": 5.92
+      },
+      {
+        "word": "I",
+        "start_offset": 124,
+        "end_offset": 128,
+        "start": 9.92,
+        "end": 10.24
+      },
+      {
+        "word": "greet",
+        "start_offset": 136,
+        "end_offset": 148,
+        "start": 10.88,
+        "end": 11.84
+      },
+      {
+        "word": "you",
+        "start_offset": 148,
+        "end_offset": 152,
+        "start": 11.84,
+        "end": 12.16
+      },
+      {
+        "word": "in",
+        "start_offset": 168,
+        "end_offset": 172,
+        "start": 13.44,
+        "end": 13.76
+      },
+      {
+        "word": "the",
+        "start_offset": 180,
+        "end_offset": 184,
+        "start": 14.4,
+        "end": 14.72
+      },
+      {
+        "word": "love",
+        "start_offset": 192,
+        "end_offset": 196,
+        "start": 15.36,
+        "end": 15.68
+      },
+      {
+        "word": "and",
+        "start_offset": 223,
+        "end_offset": 227,
+        "start": 17.84,
+        "end": 18.16
+      },
+      {
+        "word": "in",
+        "start_offset": 239,
+        "end_offset": 243,
+        "start": 19.12,
+        "end": 19.44
+      },
+      {
+        "word": "the",
+        "start_offset": 251,
+        "end_offset": 255,
+        "start": 20.080000000000002,
+        "end": 20.400000000000002
+      },
+      {
+        "word": "light",
+        "start_offset": 271,
+        "end_offset": 279,
+        "start": 21.68,
+        "end": 22.32
+      },
+      {
+        "word": "of",
+        "start_offset": 299,
+        "end_offset": 302,
+        "start": 23.92,
+        "end": 24.16
+      },
+      {
+        "word": "the",
+        "start_offset": 314,
+        "end_offset": 318,
+        "start": 25.12,
+        "end": 25.44
+      },
+      {
+        "word": "one",
+        "start_offset": 326,
+        "end_offset": 330,
+        "start": 26.080000000000002,
+        "end": 26.400000000000002
+      },
+      {
+        "word": "infinite",
+        "start_offset": 349,
+        "end_offset": 361,
+        "start": 27.92,
+        "end": 28.88
+      },
+      {
+        "word": "creator.",
+        "start_offset": 373,
+        "end_offset": 385,
+        "start": 29.84,
+        "end": 30.8
+      },
+      {
+        "word": "We",
+        "start_offset": 446,
+        "end_offset": 450,
+        "start": 35.68,
+        "end": 36.0
+      },
+      {
+        "word": "communicate",
+        "start_offset": 454,
+        "end_offset": 475,
+        "start": 36.32,
+        "end": 38.0
+      },
+      {
+        "word": "now.",
+        "start_offset": 479,
+        "end_offset": 483,
+        "start": 38.32,
+        "end": 38.64
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "076-00.mp3",
+    "audio_duration": 39.03,
+    "transcription_time": 0.1,
+    "rtfx": 376.97,
+    "timestamp": "2026-01-06T21:55:55.078932+00:00"
+  }
+}

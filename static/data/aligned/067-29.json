@@ -1,0 +1,378 @@
+{
+  "text": "Perhaps it would be better to start the next session with the answer to this question. Would that be appropriate or is the energy already fixed? I am Ra. The energy is as always allotted. The choice, as always, is yours.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Perhaps it would be better to start the next session with the answer to this question.",
+        "start_offset": 0,
+        "end_offset": 86,
+        "start": 1.321,
+        "end": 5.823
+      },
+      {
+        "segment": "Would that be appropriate or is the energy already fixed?",
+        "start_offset": 87,
+        "end_offset": 144,
+        "start": 6.323,
+        "end": 10.425
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 145,
+        "end_offset": 153,
+        "start": 10.445,
+        "end": 13.946
+      },
+      {
+        "segment": "The energy is as always allotted.",
+        "start_offset": 154,
+        "end_offset": 187,
+        "start": 15.667,
+        "end": 22.17
+      },
+      {
+        "segment": "The choice, as always, is yours.",
+        "start_offset": 188,
+        "end_offset": 220,
+        "start": 23.77,
+        "end": 30.853
+      }
+    ],
+    "word": [
+      {
+        "word": "Perhaps",
+        "start_offset": 0,
+        "end_offset": 7,
+        "start": 1.321,
+        "end": 1.801,
+        "score": -1.1365
+      },
+      {
+        "word": "it",
+        "start_offset": 8,
+        "end_offset": 10,
+        "start": 1.841,
+        "end": 1.921,
+        "score": -0.8676
+      },
+      {
+        "word": "would",
+        "start_offset": 11,
+        "end_offset": 16,
+        "start": 1.941,
+        "end": 2.081,
+        "score": -1.347
+      },
+      {
+        "word": "be",
+        "start_offset": 17,
+        "end_offset": 19,
+        "start": 2.121,
+        "end": 2.181,
+        "score": -0.9935
+      },
+      {
+        "word": "better",
+        "start_offset": 20,
+        "end_offset": 26,
+        "start": 2.301,
+        "end": 2.601,
+        "score": -0.8944
+      },
+      {
+        "word": "to",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 2.681,
+        "end": 2.801,
+        "score": -1.0303
+      },
+      {
+        "word": "start",
+        "start_offset": 30,
+        "end_offset": 35,
+        "start": 3.301,
+        "end": 3.642,
+        "score": -0.9397
+      },
+      {
+        "word": "the",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 3.682,
+        "end": 3.742,
+        "score": -0.9682
+      },
+      {
+        "word": "next",
+        "start_offset": 40,
+        "end_offset": 44,
+        "start": 3.782,
+        "end": 4.042,
+        "score": -0.9735
+      },
+      {
+        "word": "session",
+        "start_offset": 45,
+        "end_offset": 52,
+        "start": 4.082,
+        "end": 4.402,
+        "score": -1.1315
+      },
+      {
+        "word": "with",
+        "start_offset": 53,
+        "end_offset": 57,
+        "start": 4.442,
+        "end": 4.562,
+        "score": -5.1447
+      },
+      {
+        "word": "the",
+        "start_offset": 58,
+        "end_offset": 61,
+        "start": 4.582,
+        "end": 4.642,
+        "score": -3.3197
+      },
+      {
+        "word": "answer",
+        "start_offset": 62,
+        "end_offset": 68,
+        "start": 4.722,
+        "end": 4.982,
+        "score": -1.8098
+      },
+      {
+        "word": "to",
+        "start_offset": 69,
+        "end_offset": 71,
+        "start": 5.022,
+        "end": 5.102,
+        "score": -1.5893
+      },
+      {
+        "word": "this",
+        "start_offset": 72,
+        "end_offset": 76,
+        "start": 5.142,
+        "end": 5.302,
+        "score": -1.7284
+      },
+      {
+        "word": "question.",
+        "start_offset": 77,
+        "end_offset": 86,
+        "start": 5.382,
+        "end": 5.823,
+        "score": -2.0391
+      },
+      {
+        "word": "Would",
+        "start_offset": 87,
+        "end_offset": 92,
+        "start": 6.323,
+        "end": 6.463,
+        "score": -5.0958
+      },
+      {
+        "word": "that",
+        "start_offset": 93,
+        "end_offset": 97,
+        "start": 6.483,
+        "end": 6.663,
+        "score": -3.8295
+      },
+      {
+        "word": "be",
+        "start_offset": 98,
+        "end_offset": 100,
+        "start": 6.723,
+        "end": 6.823,
+        "score": -3.7939
+      },
+      {
+        "word": "appropriate",
+        "start_offset": 101,
+        "end_offset": 112,
+        "start": 7.443,
+        "end": 7.983,
+        "score": -1.9114
+      },
+      {
+        "word": "or",
+        "start_offset": 113,
+        "end_offset": 115,
+        "start": 8.404,
+        "end": 8.484,
+        "score": -4.2838
+      },
+      {
+        "word": "is",
+        "start_offset": 116,
+        "end_offset": 118,
+        "start": 9.044,
+        "end": 9.144,
+        "score": -2.3628
+      },
+      {
+        "word": "the",
+        "start_offset": 119,
+        "end_offset": 122,
+        "start": 9.164,
+        "end": 9.244,
+        "score": -2.0139
+      },
+      {
+        "word": "energy",
+        "start_offset": 123,
+        "end_offset": 129,
+        "start": 9.344,
+        "end": 9.664,
+        "score": -1.8983
+      },
+      {
+        "word": "already",
+        "start_offset": 130,
+        "end_offset": 137,
+        "start": 9.804,
+        "end": 10.044,
+        "score": -2.3005
+      },
+      {
+        "word": "fixed?",
+        "start_offset": 138,
+        "end_offset": 144,
+        "start": 10.104,
+        "end": 10.425,
+        "score": -5.0967
+      },
+      {
+        "word": "I",
+        "start_offset": 145,
+        "end_offset": 146,
+        "start": 10.445,
+        "end": 10.465,
+        "score": -5.8601
+      },
+      {
+        "word": "am",
+        "start_offset": 147,
+        "end_offset": 149,
+        "start": 12.946,
+        "end": 13.246,
+        "score": -1.5974
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 150,
+        "end_offset": 153,
+        "start": 13.806,
+        "end": 13.946,
+        "score": -0.891
+      },
+      {
+        "word": "The",
+        "start_offset": 154,
+        "end_offset": 157,
+        "start": 15.667,
+        "end": 15.787,
+        "score": -1.0581
+      },
+      {
+        "word": "energy",
+        "start_offset": 158,
+        "end_offset": 164,
+        "start": 16.607,
+        "end": 17.087,
+        "score": -1.0999
+      },
+      {
+        "word": "is",
+        "start_offset": 165,
+        "end_offset": 167,
+        "start": 17.888,
+        "end": 18.188,
+        "score": -1.1364
+      },
+      {
+        "word": "as",
+        "start_offset": 168,
+        "end_offset": 170,
+        "start": 19.108,
+        "end": 19.428,
+        "score": -0.9112
+      },
+      {
+        "word": "always",
+        "start_offset": 171,
+        "end_offset": 177,
+        "start": 19.989,
+        "end": 20.609,
+        "score": -0.7864
+      },
+      {
+        "word": "allotted.",
+        "start_offset": 178,
+        "end_offset": 187,
+        "start": 21.549,
+        "end": 22.17,
+        "score": -0.9014
+      },
+      {
+        "word": "The",
+        "start_offset": 188,
+        "end_offset": 191,
+        "start": 23.77,
+        "end": 23.91,
+        "score": -1.2896
+      },
+      {
+        "word": "choice,",
+        "start_offset": 192,
+        "end_offset": 199,
+        "start": 25.811,
+        "end": 26.351,
+        "score": -0.7716
+      },
+      {
+        "word": "as",
+        "start_offset": 200,
+        "end_offset": 202,
+        "start": 27.272,
+        "end": 27.592,
+        "score": -0.7771
+      },
+      {
+        "word": "always,",
+        "start_offset": 203,
+        "end_offset": 210,
+        "start": 28.092,
+        "end": 28.712,
+        "score": -0.8182
+      },
+      {
+        "word": "is",
+        "start_offset": 211,
+        "end_offset": 213,
+        "start": 29.673,
+        "end": 29.933,
+        "score": -0.8881
+      },
+      {
+        "word": "yours.",
+        "start_offset": 214,
+        "end_offset": 220,
+        "start": 30.293,
+        "end": 30.853,
+        "score": -1.6086
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "067-29.mp3",
+    "audio_duration": 31.0335,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

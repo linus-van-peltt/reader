@@ -1,0 +1,371 @@
+{
+  "text": "Would you give me an example of that last statement? I am Ra. We preface this example with the reminder that each system is quite distorted and its teachings always half-lost. However, one such system is that called the tantric yoga.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would you give me an example of that last statement?",
+        "start_offset": 0,
+        "end_offset": 52,
+        "start": 2.3,
+        "end": 14.282
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 53,
+        "end_offset": 61,
+        "start": 14.302,
+        "end": 15.062
+      },
+      {
+        "segment": "We preface this example with the reminder that each system is quite distorted and its teachings always half-lost.",
+        "start_offset": 62,
+        "end_offset": 175,
+        "start": 15.122,
+        "end": 42.366
+      },
+      {
+        "segment": "However, one such system is that called the tantric yoga.",
+        "start_offset": 176,
+        "end_offset": 233,
+        "start": 43.687,
+        "end": 56.409
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.3,
+        "end": 2.42,
+        "score": -8.6682
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 2.44,
+        "end": 2.5,
+        "score": -8.6271
+      },
+      {
+        "word": "give",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 2.54,
+        "end": 2.74,
+        "score": -7.6325
+      },
+      {
+        "word": "me",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 2.78,
+        "end": 2.88,
+        "score": -7.5667
+      },
+      {
+        "word": "an",
+        "start_offset": 18,
+        "end_offset": 20,
+        "start": 8.841,
+        "end": 8.881,
+        "score": -6.548
+      },
+      {
+        "word": "example",
+        "start_offset": 21,
+        "end_offset": 28,
+        "start": 9.101,
+        "end": 11.102,
+        "score": -4.9478
+      },
+      {
+        "word": "of",
+        "start_offset": 29,
+        "end_offset": 31,
+        "start": 11.162,
+        "end": 11.342,
+        "score": -4.5657
+      },
+      {
+        "word": "that",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 11.362,
+        "end": 11.442,
+        "score": -5.7481
+      },
+      {
+        "word": "last",
+        "start_offset": 37,
+        "end_offset": 41,
+        "start": 11.462,
+        "end": 11.602,
+        "score": -7.7544
+      },
+      {
+        "word": "statement?",
+        "start_offset": 42,
+        "end_offset": 52,
+        "start": 11.702,
+        "end": 14.282,
+        "score": -6.6361
+      },
+      {
+        "word": "I",
+        "start_offset": 53,
+        "end_offset": 54,
+        "start": 14.302,
+        "end": 14.322,
+        "score": -5.0187
+      },
+      {
+        "word": "am",
+        "start_offset": 55,
+        "end_offset": 57,
+        "start": 14.822,
+        "end": 14.962,
+        "score": -4.3851
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 58,
+        "end_offset": 61,
+        "start": 15.002,
+        "end": 15.062,
+        "score": -3.2617
+      },
+      {
+        "word": "We",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 15.122,
+        "end": 15.222,
+        "score": -4.9679
+      },
+      {
+        "word": "preface",
+        "start_offset": 65,
+        "end_offset": 72,
+        "start": 15.242,
+        "end": 15.682,
+        "score": -3.5631
+      },
+      {
+        "word": "this",
+        "start_offset": 73,
+        "end_offset": 77,
+        "start": 16.082,
+        "end": 16.463,
+        "score": -0.7915
+      },
+      {
+        "word": "example",
+        "start_offset": 78,
+        "end_offset": 85,
+        "start": 17.103,
+        "end": 17.943,
+        "score": -0.7139
+      },
+      {
+        "word": "with",
+        "start_offset": 86,
+        "end_offset": 90,
+        "start": 18.563,
+        "end": 19.023,
+        "score": -0.8325
+      },
+      {
+        "word": "the",
+        "start_offset": 91,
+        "end_offset": 94,
+        "start": 20.563,
+        "end": 20.703,
+        "score": -0.7604
+      },
+      {
+        "word": "reminder",
+        "start_offset": 95,
+        "end_offset": 103,
+        "start": 21.223,
+        "end": 22.323,
+        "score": -0.7444
+      },
+      {
+        "word": "that",
+        "start_offset": 104,
+        "end_offset": 108,
+        "start": 23.284,
+        "end": 23.704,
+        "score": -0.7734
+      },
+      {
+        "word": "each",
+        "start_offset": 109,
+        "end_offset": 113,
+        "start": 24.984,
+        "end": 25.304,
+        "score": -0.7945
+      },
+      {
+        "word": "system",
+        "start_offset": 114,
+        "end_offset": 120,
+        "start": 26.464,
+        "end": 27.224,
+        "score": -0.6964
+      },
+      {
+        "word": "is",
+        "start_offset": 121,
+        "end_offset": 123,
+        "start": 28.384,
+        "end": 28.744,
+        "score": -0.7181
+      },
+      {
+        "word": "quite",
+        "start_offset": 124,
+        "end_offset": 129,
+        "start": 30.185,
+        "end": 30.745,
+        "score": -0.7962
+      },
+      {
+        "word": "distorted",
+        "start_offset": 130,
+        "end_offset": 139,
+        "start": 31.425,
+        "end": 32.725,
+        "score": -0.9992
+      },
+      {
+        "word": "and",
+        "start_offset": 140,
+        "end_offset": 143,
+        "start": 34.885,
+        "end": 35.245,
+        "score": -0.7088
+      },
+      {
+        "word": "its",
+        "start_offset": 144,
+        "end_offset": 147,
+        "start": 35.885,
+        "end": 36.286,
+        "score": -0.7087
+      },
+      {
+        "word": "teachings",
+        "start_offset": 148,
+        "end_offset": 157,
+        "start": 36.766,
+        "end": 37.746,
+        "score": -0.7105
+      },
+      {
+        "word": "always",
+        "start_offset": 158,
+        "end_offset": 164,
+        "start": 38.386,
+        "end": 39.166,
+        "score": -0.7015
+      },
+      {
+        "word": "half-lost.",
+        "start_offset": 165,
+        "end_offset": 175,
+        "start": 40.626,
+        "end": 42.366,
+        "score": -1.7222
+      },
+      {
+        "word": "However,",
+        "start_offset": 176,
+        "end_offset": 184,
+        "start": 43.687,
+        "end": 44.967,
+        "score": -0.7408
+      },
+      {
+        "word": "one",
+        "start_offset": 185,
+        "end_offset": 188,
+        "start": 46.047,
+        "end": 46.327,
+        "score": -0.7023
+      },
+      {
+        "word": "such",
+        "start_offset": 189,
+        "end_offset": 193,
+        "start": 46.907,
+        "end": 47.327,
+        "score": -0.7158
+      },
+      {
+        "word": "system",
+        "start_offset": 194,
+        "end_offset": 200,
+        "start": 48.047,
+        "end": 48.807,
+        "score": -0.6984
+      },
+      {
+        "word": "is",
+        "start_offset": 201,
+        "end_offset": 203,
+        "start": 49.808,
+        "end": 50.128,
+        "score": -0.7128
+      },
+      {
+        "word": "that",
+        "start_offset": 204,
+        "end_offset": 208,
+        "start": 50.468,
+        "end": 50.848,
+        "score": -0.7651
+      },
+      {
+        "word": "called",
+        "start_offset": 209,
+        "end_offset": 215,
+        "start": 51.388,
+        "end": 52.028,
+        "score": -0.9577
+      },
+      {
+        "word": "the",
+        "start_offset": 216,
+        "end_offset": 219,
+        "start": 52.808,
+        "end": 52.928,
+        "score": -0.7803
+      },
+      {
+        "word": "tantric",
+        "start_offset": 220,
+        "end_offset": 227,
+        "start": 53.748,
+        "end": 55.288,
+        "score": -1.013
+      },
+      {
+        "word": "yoga.",
+        "start_offset": 228,
+        "end_offset": 233,
+        "start": 55.969,
+        "end": 56.409,
+        "score": -0.8766
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "084-14.mp3",
+    "audio_duration": 67.0302,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

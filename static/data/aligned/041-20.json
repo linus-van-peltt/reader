@@ -1,0 +1,427 @@
+{
+  "text": "Could you tell me the difference between space/time and time/space? I am Ra. Using your words, the difference is that between the visible and invisible or the physical and metaphysical. Using mathematical terms, as does the one you call Larson, the difference is that between s/t and t/s.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you tell me the difference between space/time and time/space?",
+        "start_offset": 0,
+        "end_offset": 67,
+        "start": 2.1,
+        "end": 19.164
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 68,
+        "end_offset": 76,
+        "start": 19.184,
+        "end": 21.124
+      },
+      {
+        "segment": "Using your words, the difference is that between the visible and invisible or the physical and metaphysical.",
+        "start_offset": 77,
+        "end_offset": 185,
+        "start": 21.344,
+        "end": 45.389
+      },
+      {
+        "segment": "Using mathematical terms, as does the one you call Larson, the difference is that between s/t and t/s.",
+        "start_offset": 186,
+        "end_offset": 288,
+        "start": 46.949,
+        "end": 75.774
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.1,
+        "end": 2.42,
+        "score": -7.8771
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 2.44,
+        "end": 2.52,
+        "score": -10.3647
+      },
+      {
+        "word": "tell",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 3.981,
+        "end": 4.141,
+        "score": -9.1798
+      },
+      {
+        "word": "me",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 4.161,
+        "end": 4.241,
+        "score": -8.4389
+      },
+      {
+        "word": "the",
+        "start_offset": 18,
+        "end_offset": 21,
+        "start": 4.301,
+        "end": 4.361,
+        "score": -8.8374
+      },
+      {
+        "word": "difference",
+        "start_offset": 22,
+        "end_offset": 32,
+        "start": 4.481,
+        "end": 4.941,
+        "score": -7.8924
+      },
+      {
+        "word": "between",
+        "start_offset": 33,
+        "end_offset": 40,
+        "start": 5.741,
+        "end": 6.241,
+        "score": -6.9129
+      },
+      {
+        "word": "space/time",
+        "start_offset": 41,
+        "end_offset": 51,
+        "start": 7.501,
+        "end": 16.623,
+        "score": -6.5201
+      },
+      {
+        "word": "and",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 17.403,
+        "end": 17.803,
+        "score": -5.6301
+      },
+      {
+        "word": "time/space?",
+        "start_offset": 56,
+        "end_offset": 67,
+        "start": 18.744,
+        "end": 19.164,
+        "score": -6.4947
+      },
+      {
+        "word": "I",
+        "start_offset": 68,
+        "end_offset": 69,
+        "start": 19.184,
+        "end": 19.204,
+        "score": -7.9469
+      },
+      {
+        "word": "am",
+        "start_offset": 70,
+        "end_offset": 72,
+        "start": 19.224,
+        "end": 19.264,
+        "score": -8.9529
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 73,
+        "end_offset": 76,
+        "start": 19.284,
+        "end": 21.124,
+        "score": -5.3967
+      },
+      {
+        "word": "Using",
+        "start_offset": 77,
+        "end_offset": 82,
+        "start": 21.344,
+        "end": 21.904,
+        "score": -0.7175
+      },
+      {
+        "word": "your",
+        "start_offset": 83,
+        "end_offset": 87,
+        "start": 22.504,
+        "end": 22.864,
+        "score": -1.1687
+      },
+      {
+        "word": "words,",
+        "start_offset": 88,
+        "end_offset": 94,
+        "start": 23.564,
+        "end": 24.205,
+        "score": -0.7357
+      },
+      {
+        "word": "the",
+        "start_offset": 95,
+        "end_offset": 98,
+        "start": 26.005,
+        "end": 26.125,
+        "score": -0.7991
+      },
+      {
+        "word": "difference",
+        "start_offset": 99,
+        "end_offset": 109,
+        "start": 26.485,
+        "end": 27.545,
+        "score": -0.82
+      },
+      {
+        "word": "is",
+        "start_offset": 110,
+        "end_offset": 112,
+        "start": 28.465,
+        "end": 28.785,
+        "score": -0.7354
+      },
+      {
+        "word": "that",
+        "start_offset": 113,
+        "end_offset": 117,
+        "start": 29.226,
+        "end": 29.606,
+        "score": -0.744
+      },
+      {
+        "word": "between",
+        "start_offset": 118,
+        "end_offset": 125,
+        "start": 29.886,
+        "end": 30.826,
+        "score": -1.4432
+      },
+      {
+        "word": "the",
+        "start_offset": 126,
+        "end_offset": 129,
+        "start": 32.326,
+        "end": 32.446,
+        "score": -0.7538
+      },
+      {
+        "word": "visible",
+        "start_offset": 130,
+        "end_offset": 137,
+        "start": 32.806,
+        "end": 33.786,
+        "score": -0.7372
+      },
+      {
+        "word": "and",
+        "start_offset": 138,
+        "end_offset": 141,
+        "start": 34.627,
+        "end": 34.947,
+        "score": -0.7227
+      },
+      {
+        "word": "invisible",
+        "start_offset": 142,
+        "end_offset": 151,
+        "start": 35.287,
+        "end": 36.647,
+        "score": -0.7277
+      },
+      {
+        "word": "or",
+        "start_offset": 152,
+        "end_offset": 154,
+        "start": 37.947,
+        "end": 38.247,
+        "score": -0.7483
+      },
+      {
+        "word": "the",
+        "start_offset": 155,
+        "end_offset": 158,
+        "start": 39.227,
+        "end": 39.367,
+        "score": -0.8116
+      },
+      {
+        "word": "physical",
+        "start_offset": 159,
+        "end_offset": 167,
+        "start": 39.948,
+        "end": 41.028,
+        "score": -0.7837
+      },
+      {
+        "word": "and",
+        "start_offset": 168,
+        "end_offset": 171,
+        "start": 42.188,
+        "end": 42.628,
+        "score": -0.818
+      },
+      {
+        "word": "metaphysical.",
+        "start_offset": 172,
+        "end_offset": 185,
+        "start": 43.508,
+        "end": 45.389,
+        "score": -0.7317
+      },
+      {
+        "word": "Using",
+        "start_offset": 186,
+        "end_offset": 191,
+        "start": 46.949,
+        "end": 47.629,
+        "score": -0.7365
+      },
+      {
+        "word": "mathematical",
+        "start_offset": 192,
+        "end_offset": 204,
+        "start": 48.549,
+        "end": 50.41,
+        "score": -0.7583
+      },
+      {
+        "word": "terms,",
+        "start_offset": 205,
+        "end_offset": 211,
+        "start": 51.17,
+        "end": 51.97,
+        "score": -0.7215
+      },
+      {
+        "word": "as",
+        "start_offset": 212,
+        "end_offset": 214,
+        "start": 53.05,
+        "end": 53.41,
+        "score": -0.7162
+      },
+      {
+        "word": "does",
+        "start_offset": 215,
+        "end_offset": 219,
+        "start": 53.87,
+        "end": 54.33,
+        "score": -1.5715
+      },
+      {
+        "word": "the",
+        "start_offset": 220,
+        "end_offset": 223,
+        "start": 54.63,
+        "end": 54.77,
+        "score": -0.8274
+      },
+      {
+        "word": "one",
+        "start_offset": 224,
+        "end_offset": 227,
+        "start": 55.35,
+        "end": 55.711,
+        "score": -0.7177
+      },
+      {
+        "word": "you",
+        "start_offset": 228,
+        "end_offset": 231,
+        "start": 56.771,
+        "end": 56.911,
+        "score": -0.7359
+      },
+      {
+        "word": "call",
+        "start_offset": 232,
+        "end_offset": 236,
+        "start": 57.451,
+        "end": 58.171,
+        "score": -0.8672
+      },
+      {
+        "word": "Larson,",
+        "start_offset": 237,
+        "end_offset": 244,
+        "start": 59.211,
+        "end": 60.031,
+        "score": -0.7501
+      },
+      {
+        "word": "the",
+        "start_offset": 245,
+        "end_offset": 248,
+        "start": 61.252,
+        "end": 61.372,
+        "score": -0.8288
+      },
+      {
+        "word": "difference",
+        "start_offset": 249,
+        "end_offset": 259,
+        "start": 61.912,
+        "end": 63.032,
+        "score": -0.7965
+      },
+      {
+        "word": "is",
+        "start_offset": 260,
+        "end_offset": 262,
+        "start": 63.872,
+        "end": 64.252,
+        "score": -1.0174
+      },
+      {
+        "word": "that",
+        "start_offset": 263,
+        "end_offset": 267,
+        "start": 64.752,
+        "end": 65.192,
+        "score": -0.7609
+      },
+      {
+        "word": "between",
+        "start_offset": 268,
+        "end_offset": 275,
+        "start": 65.612,
+        "end": 66.673,
+        "score": -1.859
+      },
+      {
+        "word": "s/t",
+        "start_offset": 276,
+        "end_offset": 279,
+        "start": 68.773,
+        "end": 68.813,
+        "score": -3.9206
+      },
+      {
+        "word": "and",
+        "start_offset": 280,
+        "end_offset": 283,
+        "start": 72.014,
+        "end": 72.414,
+        "score": -0.8524
+      },
+      {
+        "word": "t/s.",
+        "start_offset": 284,
+        "end_offset": 288,
+        "start": 75.314,
+        "end": 75.774,
+        "score": -5.014
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "041-20.mp3",
+    "audio_duration": 84.0359,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "text": "How long ago did this happen in our years? I am having difficulty communicating with this instrument. We must deepen her state. This occurred approximately five hundred thousand 500, 000 of your years ago.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "How long ago did this happen in our years?",
+        "start_offset": 0,
+        "end_offset": 42,
+        "start": 2.641,
+        "end": 24.907
+      },
+      {
+        "segment": "I am having difficulty communicating with this instrument.",
+        "start_offset": 43,
+        "end_offset": 101,
+        "start": 24.927,
+        "end": 34.53
+      },
+      {
+        "segment": "We must deepen her state.",
+        "start_offset": 102,
+        "end_offset": 127,
+        "start": 36.851,
+        "end": 43.573
+      },
+      {
+        "segment": "This occurred approximately five hundred thousand of your years ago.",
+        "start_offset": 128,
+        "end_offset": 205,
+        "start": 50.635,
+        "end": 67.92
+      }
+    ],
+    "word": [
+      {
+        "word": "How",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.641,
+        "end": 2.801,
+        "score": -5.1521
+      },
+      {
+        "word": "long",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 2.821,
+        "end": 2.901,
+        "score": -7.1667
+      },
+      {
+        "word": "ago",
+        "start_offset": 9,
+        "end_offset": 12,
+        "start": 2.921,
+        "end": 2.981,
+        "score": -7.8514
+      },
+      {
+        "word": "did",
+        "start_offset": 13,
+        "end_offset": 16,
+        "start": 3.001,
+        "end": 3.061,
+        "score": -9.4041
+      },
+      {
+        "word": "this",
+        "start_offset": 17,
+        "end_offset": 21,
+        "start": 3.081,
+        "end": 3.541,
+        "score": -7.3441
+      },
+      {
+        "word": "happen",
+        "start_offset": 22,
+        "end_offset": 28,
+        "start": 3.561,
+        "end": 22.447,
+        "score": -8.7466
+      },
+      {
+        "word": "in",
+        "start_offset": 29,
+        "end_offset": 31,
+        "start": 22.587,
+        "end": 22.627,
+        "score": -4.8238
+      },
+      {
+        "word": "our",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 22.647,
+        "end": 24.247,
+        "score": -10.9226
+      },
+      {
+        "word": "years?",
+        "start_offset": 36,
+        "end_offset": 42,
+        "start": 24.747,
+        "end": 24.907,
+        "score": -7.4138
+      },
+      {
+        "word": "I",
+        "start_offset": 43,
+        "end_offset": 44,
+        "start": 24.927,
+        "end": 24.947,
+        "score": -8.4011
+      },
+      {
+        "word": "am",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 24.987,
+        "end": 25.027,
+        "score": -4.385
+      },
+      {
+        "word": "having",
+        "start_offset": 48,
+        "end_offset": 54,
+        "start": 25.768,
+        "end": 26.188,
+        "score": -0.7558
+      },
+      {
+        "word": "difficulty",
+        "start_offset": 55,
+        "end_offset": 65,
+        "start": 26.668,
+        "end": 27.368,
+        "score": -0.7221
+      },
+      {
+        "word": "communicating",
+        "start_offset": 66,
+        "end_offset": 79,
+        "start": 28.308,
+        "end": 29.329,
+        "score": -1.2218
+      },
+      {
+        "word": "with",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 30.809,
+        "end": 31.129,
+        "score": -3.3445
+      },
+      {
+        "word": "this",
+        "start_offset": 85,
+        "end_offset": 89,
+        "start": 32.29,
+        "end": 32.57,
+        "score": -0.7803
+      },
+      {
+        "word": "instrument.",
+        "start_offset": 90,
+        "end_offset": 101,
+        "start": 33.79,
+        "end": 34.53,
+        "score": -0.7383
+      },
+      {
+        "word": "We",
+        "start_offset": 102,
+        "end_offset": 104,
+        "start": 36.851,
+        "end": 36.991,
+        "score": -1.1464
+      },
+      {
+        "word": "must",
+        "start_offset": 105,
+        "end_offset": 109,
+        "start": 37.911,
+        "end": 38.311,
+        "score": -0.8003
+      },
+      {
+        "word": "deepen",
+        "start_offset": 110,
+        "end_offset": 116,
+        "start": 39.792,
+        "end": 40.212,
+        "score": -2.7004
+      },
+      {
+        "word": "her",
+        "start_offset": 117,
+        "end_offset": 120,
+        "start": 41.092,
+        "end": 41.332,
+        "score": -2.0254
+      },
+      {
+        "word": "state.",
+        "start_offset": 121,
+        "end_offset": 127,
+        "start": 43.013,
+        "end": 43.573,
+        "score": -1.3876
+      },
+      {
+        "word": "This",
+        "start_offset": 128,
+        "end_offset": 132,
+        "start": 50.635,
+        "end": 50.995,
+        "score": -0.786
+      },
+      {
+        "word": "occurred",
+        "start_offset": 133,
+        "end_offset": 141,
+        "start": 52.235,
+        "end": 52.836,
+        "score": -1.4438
+      },
+      {
+        "word": "approximately",
+        "start_offset": 142,
+        "end_offset": 155,
+        "start": 54.236,
+        "end": 55.336,
+        "score": -0.7324
+      },
+      {
+        "word": "five",
+        "start_offset": 156,
+        "end_offset": 160,
+        "start": 57.437,
+        "end": 58.037,
+        "score": -4.9977
+      },
+      {
+        "word": "hundred",
+        "start_offset": 161,
+        "end_offset": 168,
+        "start": 59.598,
+        "end": 60.118,
+        "score": -4.4588
+      },
+      {
+        "word": "thousand",
+        "start_offset": 169,
+        "end_offset": 177,
+        "start": 61.758,
+        "end": 62.478,
+        "score": -1.56
+      },
+      {
+        "word": "of",
+        "start_offset": 187,
+        "end_offset": 189,
+        "start": 63.799,
+        "end": 64.039,
+        "score": -0.733
+      },
+      {
+        "word": "your",
+        "start_offset": 190,
+        "end_offset": 194,
+        "start": 64.579,
+        "end": 64.839,
+        "score": -1.4943
+      },
+      {
+        "word": "years",
+        "start_offset": 195,
+        "end_offset": 200,
+        "start": 65.379,
+        "end": 65.799,
+        "score": -0.7279
+      },
+      {
+        "word": "ago.",
+        "start_offset": 201,
+        "end_offset": 205,
+        "start": 67.6,
+        "end": 67.92,
+        "score": -2.3476
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "006-12.mp3",
+    "audio_duration": 76.0425,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

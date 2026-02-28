@@ -1,0 +1,770 @@
+{
+  "text": "Would Ra please mention which foods are highly probable in not causing any spasming in the instrument's digestive system? I am Ra. The liquids not containing carbonation, the well-cooked vegetable which is most light and soft, the well-cooked grains, the non-fatted meat such as the fish. You may note that some recommended foodstuffs overlap allergies and sensitivities due to the juvenile rheumatoid arthritic distortions. Further, although sugar such as is in your sweetened desserts represents a potential, we may suggest that it be included at this period for aforementioned reasons.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would Ra please mention which foods are highly probable in not causing any spasming in the instrument's digestive system?",
+        "start_offset": 0,
+        "end_offset": 121,
+        "start": 0.04,
+        "end": 15.921
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 122,
+        "end_offset": 130,
+        "start": 15.941,
+        "end": 17.861
+      },
+      {
+        "segment": "The liquids not containing carbonation, the well-cooked vegetable which is most light and soft, the well-cooked grains, the non-fatted meat such as the fish.",
+        "start_offset": 131,
+        "end_offset": 288,
+        "start": 17.881,
+        "end": 85.384
+      },
+      {
+        "segment": "You may note that some recommended foodstuffs overlap allergies and sensitivities due to the juvenile rheumatoid arthritic distortions.",
+        "start_offset": 289,
+        "end_offset": 424,
+        "start": 85.404,
+        "end": 119.785
+      },
+      {
+        "segment": "Further, although sugar such as is in your sweetened desserts represents a potential, we may suggest that it be included at this period for aforementioned reasons.",
+        "start_offset": 425,
+        "end_offset": 588,
+        "start": 122.985,
+        "end": 185.968
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 0.04,
+        "end": 0.5,
+        "score": -9.0312
+      },
+      {
+        "word": "Ra",
+        "start_offset": 6,
+        "end_offset": 8,
+        "start": 0.52,
+        "end": 0.56,
+        "score": -9.0946
+      },
+      {
+        "word": "please",
+        "start_offset": 9,
+        "end_offset": 15,
+        "start": 0.58,
+        "end": 1.64,
+        "score": -9.0989
+      },
+      {
+        "word": "mention",
+        "start_offset": 16,
+        "end_offset": 23,
+        "start": 1.66,
+        "end": 2.02,
+        "score": -9.0004
+      },
+      {
+        "word": "which",
+        "start_offset": 24,
+        "end_offset": 29,
+        "start": 2.38,
+        "end": 2.58,
+        "score": -6.1511
+      },
+      {
+        "word": "foods",
+        "start_offset": 30,
+        "end_offset": 35,
+        "start": 2.64,
+        "end": 2.96,
+        "score": -10.376
+      },
+      {
+        "word": "are",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 3.84,
+        "end": 3.96,
+        "score": -6.4721
+      },
+      {
+        "word": "highly",
+        "start_offset": 40,
+        "end_offset": 46,
+        "start": 4.02,
+        "end": 8.36,
+        "score": -8.9204
+      },
+      {
+        "word": "probable",
+        "start_offset": 47,
+        "end_offset": 55,
+        "start": 8.38,
+        "end": 8.64,
+        "score": -9.3359
+      },
+      {
+        "word": "in",
+        "start_offset": 56,
+        "end_offset": 58,
+        "start": 8.7,
+        "end": 8.82,
+        "score": -7.3902
+      },
+      {
+        "word": "not",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 8.86,
+        "end": 8.92,
+        "score": -9.1603
+      },
+      {
+        "word": "causing",
+        "start_offset": 63,
+        "end_offset": 70,
+        "start": 9.0,
+        "end": 9.9,
+        "score": -7.8599
+      },
+      {
+        "word": "any",
+        "start_offset": 71,
+        "end_offset": 74,
+        "start": 9.96,
+        "end": 10.04,
+        "score": -8.5706
+      },
+      {
+        "word": "spasming",
+        "start_offset": 75,
+        "end_offset": 83,
+        "start": 10.08,
+        "end": 12.361,
+        "score": -6.591
+      },
+      {
+        "word": "in",
+        "start_offset": 84,
+        "end_offset": 86,
+        "start": 12.381,
+        "end": 13.421,
+        "score": -8.0447
+      },
+      {
+        "word": "the",
+        "start_offset": 87,
+        "end_offset": 90,
+        "start": 13.441,
+        "end": 13.581,
+        "score": -4.3666
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 91,
+        "end_offset": 103,
+        "start": 13.721,
+        "end": 15.581,
+        "score": -6.6957
+      },
+      {
+        "word": "digestive",
+        "start_offset": 104,
+        "end_offset": 113,
+        "start": 15.601,
+        "end": 15.781,
+        "score": -7.4029
+      },
+      {
+        "word": "system?",
+        "start_offset": 114,
+        "end_offset": 121,
+        "start": 15.801,
+        "end": 15.921,
+        "score": -9.4379
+      },
+      {
+        "word": "I",
+        "start_offset": 122,
+        "end_offset": 123,
+        "start": 15.941,
+        "end": 15.961,
+        "score": -9.4656
+      },
+      {
+        "word": "am",
+        "start_offset": 124,
+        "end_offset": 126,
+        "start": 15.981,
+        "end": 16.041,
+        "score": -9.6025
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 127,
+        "end_offset": 130,
+        "start": 17.801,
+        "end": 17.861,
+        "score": -9.4802
+      },
+      {
+        "word": "The",
+        "start_offset": 131,
+        "end_offset": 134,
+        "start": 17.881,
+        "end": 18.021,
+        "score": -1.1982
+      },
+      {
+        "word": "liquids",
+        "start_offset": 135,
+        "end_offset": 142,
+        "start": 20.401,
+        "end": 21.221,
+        "score": -0.759
+      },
+      {
+        "word": "not",
+        "start_offset": 143,
+        "end_offset": 146,
+        "start": 23.821,
+        "end": 24.201,
+        "score": -0.7139
+      },
+      {
+        "word": "containing",
+        "start_offset": 147,
+        "end_offset": 157,
+        "start": 25.381,
+        "end": 26.561,
+        "score": -0.8622
+      },
+      {
+        "word": "carbonation,",
+        "start_offset": 158,
+        "end_offset": 170,
+        "start": 28.481,
+        "end": 30.361,
+        "score": -0.8323
+      },
+      {
+        "word": "the",
+        "start_offset": 171,
+        "end_offset": 174,
+        "start": 34.922,
+        "end": 35.062,
+        "score": -0.9277
+      },
+      {
+        "word": "well-cooked",
+        "start_offset": 175,
+        "end_offset": 186,
+        "start": 38.162,
+        "end": 41.622,
+        "score": -1.0363
+      },
+      {
+        "word": "vegetable",
+        "start_offset": 187,
+        "end_offset": 196,
+        "start": 45.182,
+        "end": 46.702,
+        "score": -0.7629
+      },
+      {
+        "word": "which",
+        "start_offset": 197,
+        "end_offset": 202,
+        "start": 48.922,
+        "end": 49.322,
+        "score": -0.7738
+      },
+      {
+        "word": "is",
+        "start_offset": 203,
+        "end_offset": 205,
+        "start": 50.302,
+        "end": 50.662,
+        "score": -0.8225
+      },
+      {
+        "word": "most",
+        "start_offset": 206,
+        "end_offset": 210,
+        "start": 52.482,
+        "end": 53.002,
+        "score": -0.7101
+      },
+      {
+        "word": "light",
+        "start_offset": 211,
+        "end_offset": 216,
+        "start": 55.342,
+        "end": 55.782,
+        "score": -0.8172
+      },
+      {
+        "word": "and",
+        "start_offset": 217,
+        "end_offset": 220,
+        "start": 56.922,
+        "end": 57.242,
+        "score": -0.9064
+      },
+      {
+        "word": "soft,",
+        "start_offset": 221,
+        "end_offset": 226,
+        "start": 58.723,
+        "end": 59.303,
+        "score": -0.8556
+      },
+      {
+        "word": "the",
+        "start_offset": 227,
+        "end_offset": 230,
+        "start": 63.043,
+        "end": 63.183,
+        "score": -1.1059
+      },
+      {
+        "word": "well-cooked",
+        "start_offset": 231,
+        "end_offset": 242,
+        "start": 64.843,
+        "end": 67.523,
+        "score": -1.1061
+      },
+      {
+        "word": "grains,",
+        "start_offset": 243,
+        "end_offset": 250,
+        "start": 69.563,
+        "end": 70.323,
+        "score": -0.9536
+      },
+      {
+        "word": "the",
+        "start_offset": 251,
+        "end_offset": 254,
+        "start": 74.703,
+        "end": 74.843,
+        "score": -1.6249
+      },
+      {
+        "word": "non-fatted",
+        "start_offset": 255,
+        "end_offset": 265,
+        "start": 79.223,
+        "end": 82.364,
+        "score": -0.8766
+      },
+      {
+        "word": "meat",
+        "start_offset": 266,
+        "end_offset": 270,
+        "start": 84.544,
+        "end": 84.904,
+        "score": -1.0337
+      },
+      {
+        "word": "such",
+        "start_offset": 271,
+        "end_offset": 275,
+        "start": 85.044,
+        "end": 85.124,
+        "score": -6.2656
+      },
+      {
+        "word": "as",
+        "start_offset": 276,
+        "end_offset": 278,
+        "start": 85.164,
+        "end": 85.204,
+        "score": -5.0854
+      },
+      {
+        "word": "the",
+        "start_offset": 279,
+        "end_offset": 282,
+        "start": 85.224,
+        "end": 85.284,
+        "score": -5.8602
+      },
+      {
+        "word": "fish.",
+        "start_offset": 283,
+        "end_offset": 288,
+        "start": 85.304,
+        "end": 85.384,
+        "score": -6.3849
+      },
+      {
+        "word": "You",
+        "start_offset": 289,
+        "end_offset": 292,
+        "start": 85.404,
+        "end": 85.464,
+        "score": -6.1719
+      },
+      {
+        "word": "may",
+        "start_offset": 293,
+        "end_offset": 296,
+        "start": 85.504,
+        "end": 85.564,
+        "score": -5.9832
+      },
+      {
+        "word": "note",
+        "start_offset": 297,
+        "end_offset": 301,
+        "start": 85.584,
+        "end": 85.664,
+        "score": -5.4494
+      },
+      {
+        "word": "that",
+        "start_offset": 302,
+        "end_offset": 306,
+        "start": 85.684,
+        "end": 85.764,
+        "score": -5.7824
+      },
+      {
+        "word": "some",
+        "start_offset": 307,
+        "end_offset": 311,
+        "start": 85.784,
+        "end": 85.864,
+        "score": -5.367
+      },
+      {
+        "word": "recommended",
+        "start_offset": 312,
+        "end_offset": 323,
+        "start": 85.884,
+        "end": 86.124,
+        "score": -5.6159
+      },
+      {
+        "word": "foodstuffs",
+        "start_offset": 324,
+        "end_offset": 334,
+        "start": 86.144,
+        "end": 87.164,
+        "score": -4.6308
+      },
+      {
+        "word": "overlap",
+        "start_offset": 335,
+        "end_offset": 342,
+        "start": 88.884,
+        "end": 90.964,
+        "score": -0.8093
+      },
+      {
+        "word": "allergies",
+        "start_offset": 343,
+        "end_offset": 352,
+        "start": 93.104,
+        "end": 94.804,
+        "score": -1.2652
+      },
+      {
+        "word": "and",
+        "start_offset": 353,
+        "end_offset": 356,
+        "start": 95.424,
+        "end": 95.544,
+        "score": -4.0895
+      },
+      {
+        "word": "sensitivities",
+        "start_offset": 357,
+        "end_offset": 370,
+        "start": 95.744,
+        "end": 98.704,
+        "score": -1.5891
+      },
+      {
+        "word": "due",
+        "start_offset": 371,
+        "end_offset": 374,
+        "start": 100.324,
+        "end": 100.644,
+        "score": -2.9105
+      },
+      {
+        "word": "to",
+        "start_offset": 375,
+        "end_offset": 377,
+        "start": 101.604,
+        "end": 101.784,
+        "score": -0.7475
+      },
+      {
+        "word": "the",
+        "start_offset": 378,
+        "end_offset": 381,
+        "start": 104.445,
+        "end": 104.585,
+        "score": -0.9613
+      },
+      {
+        "word": "juvenile",
+        "start_offset": 382,
+        "end_offset": 390,
+        "start": 107.105,
+        "end": 109.265,
+        "score": -2.349
+      },
+      {
+        "word": "rheumatoid",
+        "start_offset": 391,
+        "end_offset": 401,
+        "start": 110.945,
+        "end": 112.445,
+        "score": -2.0602
+      },
+      {
+        "word": "arthritic",
+        "start_offset": 402,
+        "end_offset": 411,
+        "start": 114.645,
+        "end": 116.185,
+        "score": -0.843
+      },
+      {
+        "word": "distortions.",
+        "start_offset": 412,
+        "end_offset": 424,
+        "start": 118.265,
+        "end": 119.785,
+        "score": -0.8085
+      },
+      {
+        "word": "Further,",
+        "start_offset": 425,
+        "end_offset": 433,
+        "start": 122.985,
+        "end": 123.585,
+        "score": -0.806
+      },
+      {
+        "word": "although",
+        "start_offset": 434,
+        "end_offset": 442,
+        "start": 125.865,
+        "end": 127.146,
+        "score": -2.1002
+      },
+      {
+        "word": "sugar",
+        "start_offset": 443,
+        "end_offset": 448,
+        "start": 129.386,
+        "end": 130.146,
+        "score": -1.5098
+      },
+      {
+        "word": "such",
+        "start_offset": 449,
+        "end_offset": 453,
+        "start": 132.626,
+        "end": 133.126,
+        "score": -0.8242
+      },
+      {
+        "word": "as",
+        "start_offset": 454,
+        "end_offset": 456,
+        "start": 133.946,
+        "end": 134.326,
+        "score": -5.0537
+      },
+      {
+        "word": "is",
+        "start_offset": 457,
+        "end_offset": 459,
+        "start": 137.846,
+        "end": 138.226,
+        "score": -0.8827
+      },
+      {
+        "word": "in",
+        "start_offset": 460,
+        "end_offset": 462,
+        "start": 139.166,
+        "end": 139.446,
+        "score": -0.7776
+      },
+      {
+        "word": "your",
+        "start_offset": 463,
+        "end_offset": 467,
+        "start": 140.826,
+        "end": 141.186,
+        "score": -1.6247
+      },
+      {
+        "word": "sweetened",
+        "start_offset": 468,
+        "end_offset": 477,
+        "start": 142.806,
+        "end": 143.866,
+        "score": -1.6028
+      },
+      {
+        "word": "desserts",
+        "start_offset": 478,
+        "end_offset": 486,
+        "start": 144.766,
+        "end": 145.766,
+        "score": -1.2618
+      },
+      {
+        "word": "represents",
+        "start_offset": 487,
+        "end_offset": 497,
+        "start": 147.766,
+        "end": 150.107,
+        "score": -1.5695
+      },
+      {
+        "word": "a",
+        "start_offset": 498,
+        "end_offset": 499,
+        "start": 152.987,
+        "end": 153.007,
+        "score": -0.8528
+      },
+      {
+        "word": "potential,",
+        "start_offset": 500,
+        "end_offset": 510,
+        "start": 153.567,
+        "end": 155.027,
+        "score": -1.07
+      },
+      {
+        "word": "we",
+        "start_offset": 511,
+        "end_offset": 513,
+        "start": 157.947,
+        "end": 158.107,
+        "score": -0.8524
+      },
+      {
+        "word": "may",
+        "start_offset": 514,
+        "end_offset": 517,
+        "start": 159.407,
+        "end": 159.727,
+        "score": -0.8446
+      },
+      {
+        "word": "suggest",
+        "start_offset": 518,
+        "end_offset": 525,
+        "start": 160.587,
+        "end": 162.387,
+        "score": -0.8038
+      },
+      {
+        "word": "that",
+        "start_offset": 526,
+        "end_offset": 530,
+        "start": 163.767,
+        "end": 164.127,
+        "score": -2.7415
+      },
+      {
+        "word": "it",
+        "start_offset": 531,
+        "end_offset": 533,
+        "start": 165.207,
+        "end": 165.427,
+        "score": -0.7437
+      },
+      {
+        "word": "be",
+        "start_offset": 534,
+        "end_offset": 536,
+        "start": 166.427,
+        "end": 166.547,
+        "score": -0.9101
+      },
+      {
+        "word": "included",
+        "start_offset": 537,
+        "end_offset": 545,
+        "start": 168.107,
+        "end": 170.207,
+        "score": -1.249
+      },
+      {
+        "word": "at",
+        "start_offset": 546,
+        "end_offset": 548,
+        "start": 172.687,
+        "end": 172.967,
+        "score": -0.7166
+      },
+      {
+        "word": "this",
+        "start_offset": 549,
+        "end_offset": 553,
+        "start": 173.708,
+        "end": 174.148,
+        "score": -0.7465
+      },
+      {
+        "word": "period",
+        "start_offset": 554,
+        "end_offset": 560,
+        "start": 175.528,
+        "end": 176.548,
+        "score": -0.7944
+      },
+      {
+        "word": "for",
+        "start_offset": 561,
+        "end_offset": 564,
+        "start": 178.768,
+        "end": 179.168,
+        "score": -0.7204
+      },
+      {
+        "word": "aforementioned",
+        "start_offset": 565,
+        "end_offset": 579,
+        "start": 180.228,
+        "end": 184.068,
+        "score": -1.784
+      },
+      {
+        "word": "reasons.",
+        "start_offset": 580,
+        "end_offset": 588,
+        "start": 185.228,
+        "end": 185.968,
+        "score": -1.3526
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "102-16.mp3",
+    "audio_duration": 189.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

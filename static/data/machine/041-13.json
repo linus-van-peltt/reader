@@ -1,0 +1,331 @@
+{
+  "text": "I didn't mean to waste time on that question, but you just happened to mention the the uh that particular simple cell. Does this polymorphous down a flashlight then have a an orange energy center? I am wrong. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I didn't mean to waste time on that question, but you just happened to mention the the uh that particular simple cell.",
+        "start_offset": 25,
+        "end_offset": 173,
+        "start": 2.0,
+        "end": 13.84
+      },
+      {
+        "segment": "Does this polymorphous down a flashlight then have a an orange energy center?",
+        "start_offset": 223,
+        "end_offset": 332,
+        "start": 17.84,
+        "end": 26.560000000000002
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 390,
+        "end_offset": 435,
+        "start": 31.2,
+        "end": 34.800000000000004
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 457,
+        "end_offset": 508,
+        "start": 36.56,
+        "end": 40.64
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 25,
+        "end_offset": 29,
+        "start": 2.0,
+        "end": 2.32
+      },
+      {
+        "word": "didn't",
+        "start_offset": 29,
+        "end_offset": 33,
+        "start": 2.32,
+        "end": 2.64
+      },
+      {
+        "word": "mean",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 2.64,
+        "end": 2.88
+      },
+      {
+        "word": "to",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 2.88,
+        "end": 3.04
+      },
+      {
+        "word": "waste",
+        "start_offset": 38,
+        "end_offset": 42,
+        "start": 3.04,
+        "end": 3.36
+      },
+      {
+        "word": "time",
+        "start_offset": 42,
+        "end_offset": 44,
+        "start": 3.36,
+        "end": 3.52
+      },
+      {
+        "word": "on",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 3.52,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "that",
+        "start_offset": 47,
+        "end_offset": 50,
+        "start": 3.7600000000000002,
+        "end": 4.0
+      },
+      {
+        "word": "question,",
+        "start_offset": 50,
+        "end_offset": 54,
+        "start": 4.0,
+        "end": 4.32
+      },
+      {
+        "word": "but",
+        "start_offset": 56,
+        "end_offset": 59,
+        "start": 4.48,
+        "end": 4.72
+      },
+      {
+        "word": "you",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 4.72,
+        "end": 4.96
+      },
+      {
+        "word": "just",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 4.96,
+        "end": 5.12
+      },
+      {
+        "word": "happened",
+        "start_offset": 64,
+        "end_offset": 69,
+        "start": 5.12,
+        "end": 5.5200000000000005
+      },
+      {
+        "word": "to",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 5.5200000000000005,
+        "end": 5.76
+      },
+      {
+        "word": "mention",
+        "start_offset": 72,
+        "end_offset": 79,
+        "start": 5.76,
+        "end": 6.32
+      },
+      {
+        "word": "the",
+        "start_offset": 79,
+        "end_offset": 83,
+        "start": 6.32,
+        "end": 6.640000000000001
+      },
+      {
+        "word": "the",
+        "start_offset": 87,
+        "end_offset": 88,
+        "start": 6.96,
+        "end": 7.04
+      },
+      {
+        "word": "uh",
+        "start_offset": 111,
+        "end_offset": 115,
+        "start": 8.88,
+        "end": 9.200000000000001
+      },
+      {
+        "word": "that",
+        "start_offset": 129,
+        "end_offset": 133,
+        "start": 10.32,
+        "end": 10.64
+      },
+      {
+        "word": "particular",
+        "start_offset": 133,
+        "end_offset": 145,
+        "start": 10.64,
+        "end": 11.6
+      },
+      {
+        "word": "simple",
+        "start_offset": 161,
+        "end_offset": 166,
+        "start": 12.88,
+        "end": 13.280000000000001
+      },
+      {
+        "word": "cell.",
+        "start_offset": 168,
+        "end_offset": 173,
+        "start": 13.44,
+        "end": 13.84
+      },
+      {
+        "word": "Does",
+        "start_offset": 223,
+        "end_offset": 231,
+        "start": 17.84,
+        "end": 18.48
+      },
+      {
+        "word": "this",
+        "start_offset": 231,
+        "end_offset": 235,
+        "start": 18.48,
+        "end": 18.8
+      },
+      {
+        "word": "polymorphous",
+        "start_offset": 250,
+        "end_offset": 260,
+        "start": 20.0,
+        "end": 20.8
+      },
+      {
+        "word": "down",
+        "start_offset": 262,
+        "end_offset": 263,
+        "start": 20.96,
+        "end": 21.04
+      },
+      {
+        "word": "a",
+        "start_offset": 264,
+        "end_offset": 265,
+        "start": 21.12,
+        "end": 21.2
+      },
+      {
+        "word": "flashlight",
+        "start_offset": 266,
+        "end_offset": 275,
+        "start": 21.28,
+        "end": 22.0
+      },
+      {
+        "word": "then",
+        "start_offset": 275,
+        "end_offset": 279,
+        "start": 22.0,
+        "end": 22.32
+      },
+      {
+        "word": "have",
+        "start_offset": 279,
+        "end_offset": 283,
+        "start": 22.32,
+        "end": 22.64
+      },
+      {
+        "word": "a",
+        "start_offset": 287,
+        "end_offset": 291,
+        "start": 22.96,
+        "end": 23.28
+      },
+      {
+        "word": "an",
+        "start_offset": 299,
+        "end_offset": 302,
+        "start": 23.92,
+        "end": 24.16
+      },
+      {
+        "word": "orange",
+        "start_offset": 305,
+        "end_offset": 313,
+        "start": 24.400000000000002,
+        "end": 25.04
+      },
+      {
+        "word": "energy",
+        "start_offset": 316,
+        "end_offset": 324,
+        "start": 25.28,
+        "end": 25.92
+      },
+      {
+        "word": "center?",
+        "start_offset": 324,
+        "end_offset": 332,
+        "start": 25.92,
+        "end": 26.560000000000002
+      },
+      {
+        "word": "I",
+        "start_offset": 390,
+        "end_offset": 394,
+        "start": 31.2,
+        "end": 31.52
+      },
+      {
+        "word": "am",
+        "start_offset": 410,
+        "end_offset": 414,
+        "start": 32.8,
+        "end": 33.12
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 426,
+        "end_offset": 435,
+        "start": 34.08,
+        "end": 34.800000000000004
+      },
+      {
+        "word": "This",
+        "start_offset": 457,
+        "end_offset": 461,
+        "start": 36.56,
+        "end": 36.88
+      },
+      {
+        "word": "is",
+        "start_offset": 473,
+        "end_offset": 477,
+        "start": 37.84,
+        "end": 38.160000000000004
+      },
+      {
+        "word": "correct.",
+        "start_offset": 493,
+        "end_offset": 508,
+        "start": 39.44,
+        "end": 40.64
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "041-13.mp3",
+    "audio_duration": 41.53,
+    "transcription_time": 0.11,
+    "rtfx": 372.29,
+    "timestamp": "2026-01-06T21:50:53.342790+00:00"
+  }
+}

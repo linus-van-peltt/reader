@@ -1,0 +1,86 @@
+{
+  "text": "Is that satisfactory? I am wrong. Yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is that satisfactory?",
+        "start_offset": 322,
+        "end_offset": 346,
+        "start": 25.76,
+        "end": 27.68
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 376,
+        "end_offset": 412,
+        "start": 30.080000000000002,
+        "end": 32.96
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 432,
+        "end_offset": 439,
+        "start": 34.56,
+        "end": 35.12
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 322,
+        "end_offset": 326,
+        "start": 25.76,
+        "end": 26.080000000000002
+      },
+      {
+        "word": "that",
+        "start_offset": 326,
+        "end_offset": 329,
+        "start": 26.080000000000002,
+        "end": 26.32
+      },
+      {
+        "word": "satisfactory?",
+        "start_offset": 329,
+        "end_offset": 346,
+        "start": 26.32,
+        "end": 27.68
+      },
+      {
+        "word": "I",
+        "start_offset": 376,
+        "end_offset": 380,
+        "start": 30.080000000000002,
+        "end": 30.400000000000002
+      },
+      {
+        "word": "am",
+        "start_offset": 391,
+        "end_offset": 395,
+        "start": 31.28,
+        "end": 31.6
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 406,
+        "end_offset": 412,
+        "start": 32.480000000000004,
+        "end": 32.96
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 432,
+        "end_offset": 439,
+        "start": 34.56,
+        "end": 35.12
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "043-03.mp3",
+    "audio_duration": 36.05,
+    "transcription_time": 0.1,
+    "rtfx": 369.03,
+    "timestamp": "2026-01-06T21:51:08.696609+00:00"
+  }
+}

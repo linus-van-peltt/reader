@@ -1,0 +1,303 @@
+{
+  "text": "I mean taking the question previously, the one that I asked about you tell me the next step of that. I am wrong. The steps, as you call them, are at the point of question, simultaneous and infinite.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I mean taking the question previously, the one that I asked about you tell me the next step of that.",
+        "start_offset": 48,
+        "end_offset": 226,
+        "start": 3.84,
+        "end": 18.080000000000002
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 438,
+        "end_offset": 481,
+        "start": 35.04,
+        "end": 38.480000000000004
+      },
+      {
+        "segment": "The steps, as you call them, are at the point of question, simultaneous and infinite.",
+        "start_offset": 495,
+        "end_offset": 743,
+        "start": 39.6,
+        "end": 59.44
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 48,
+        "end_offset": 49,
+        "start": 3.84,
+        "end": 3.92
+      },
+      {
+        "word": "mean",
+        "start_offset": 50,
+        "end_offset": 52,
+        "start": 4.0,
+        "end": 4.16
+      },
+      {
+        "word": "taking",
+        "start_offset": 89,
+        "end_offset": 92,
+        "start": 7.12,
+        "end": 7.36
+      },
+      {
+        "word": "the",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 7.76,
+        "end": 7.92
+      },
+      {
+        "word": "question",
+        "start_offset": 99,
+        "end_offset": 102,
+        "start": 7.92,
+        "end": 8.16
+      },
+      {
+        "word": "previously,",
+        "start_offset": 105,
+        "end_offset": 111,
+        "start": 8.4,
+        "end": 8.88
+      },
+      {
+        "word": "the",
+        "start_offset": 114,
+        "end_offset": 115,
+        "start": 9.120000000000001,
+        "end": 9.200000000000001
+      },
+      {
+        "word": "one",
+        "start_offset": 115,
+        "end_offset": 117,
+        "start": 9.200000000000001,
+        "end": 9.36
+      },
+      {
+        "word": "that",
+        "start_offset": 117,
+        "end_offset": 118,
+        "start": 9.36,
+        "end": 9.44
+      },
+      {
+        "word": "I",
+        "start_offset": 119,
+        "end_offset": 120,
+        "start": 9.52,
+        "end": 9.6
+      },
+      {
+        "word": "asked",
+        "start_offset": 122,
+        "end_offset": 126,
+        "start": 9.76,
+        "end": 10.08
+      },
+      {
+        "word": "about",
+        "start_offset": 130,
+        "end_offset": 131,
+        "start": 10.4,
+        "end": 10.48
+      },
+      {
+        "word": "you",
+        "start_offset": 188,
+        "end_offset": 189,
+        "start": 15.040000000000001,
+        "end": 15.120000000000001
+      },
+      {
+        "word": "tell",
+        "start_offset": 191,
+        "end_offset": 193,
+        "start": 15.280000000000001,
+        "end": 15.44
+      },
+      {
+        "word": "me",
+        "start_offset": 193,
+        "end_offset": 194,
+        "start": 15.44,
+        "end": 15.52
+      },
+      {
+        "word": "the",
+        "start_offset": 195,
+        "end_offset": 196,
+        "start": 15.6,
+        "end": 15.68
+      },
+      {
+        "word": "next",
+        "start_offset": 198,
+        "end_offset": 200,
+        "start": 15.84,
+        "end": 16.0
+      },
+      {
+        "word": "step",
+        "start_offset": 202,
+        "end_offset": 206,
+        "start": 16.16,
+        "end": 16.48
+      },
+      {
+        "word": "of",
+        "start_offset": 223,
+        "end_offset": 224,
+        "start": 17.84,
+        "end": 17.92
+      },
+      {
+        "word": "that.",
+        "start_offset": 224,
+        "end_offset": 226,
+        "start": 17.92,
+        "end": 18.080000000000002
+      },
+      {
+        "word": "I",
+        "start_offset": 438,
+        "end_offset": 442,
+        "start": 35.04,
+        "end": 35.36
+      },
+      {
+        "word": "am",
+        "start_offset": 454,
+        "end_offset": 458,
+        "start": 36.32,
+        "end": 36.64
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 470,
+        "end_offset": 481,
+        "start": 37.6,
+        "end": 38.480000000000004
+      },
+      {
+        "word": "The",
+        "start_offset": 495,
+        "end_offset": 499,
+        "start": 39.6,
+        "end": 39.92
+      },
+      {
+        "word": "steps,",
+        "start_offset": 527,
+        "end_offset": 535,
+        "start": 42.160000000000004,
+        "end": 42.800000000000004
+      },
+      {
+        "word": "as",
+        "start_offset": 547,
+        "end_offset": 551,
+        "start": 43.76,
+        "end": 44.08
+      },
+      {
+        "word": "you",
+        "start_offset": 555,
+        "end_offset": 559,
+        "start": 44.4,
+        "end": 44.72
+      },
+      {
+        "word": "call",
+        "start_offset": 566,
+        "end_offset": 572,
+        "start": 45.28,
+        "end": 45.76
+      },
+      {
+        "word": "them,",
+        "start_offset": 576,
+        "end_offset": 580,
+        "start": 46.08,
+        "end": 46.4
+      },
+      {
+        "word": "are",
+        "start_offset": 604,
+        "end_offset": 608,
+        "start": 48.32,
+        "end": 48.64
+      },
+      {
+        "word": "at",
+        "start_offset": 616,
+        "end_offset": 620,
+        "start": 49.28,
+        "end": 49.6
+      },
+      {
+        "word": "the",
+        "start_offset": 624,
+        "end_offset": 628,
+        "start": 49.92,
+        "end": 50.24
+      },
+      {
+        "word": "point",
+        "start_offset": 632,
+        "end_offset": 636,
+        "start": 50.56,
+        "end": 50.88
+      },
+      {
+        "word": "of",
+        "start_offset": 644,
+        "end_offset": 648,
+        "start": 51.52,
+        "end": 51.84
+      },
+      {
+        "word": "question,",
+        "start_offset": 656,
+        "end_offset": 668,
+        "start": 52.480000000000004,
+        "end": 53.44
+      },
+      {
+        "word": "simultaneous",
+        "start_offset": 681,
+        "end_offset": 708,
+        "start": 54.480000000000004,
+        "end": 56.64
+      },
+      {
+        "word": "and",
+        "start_offset": 719,
+        "end_offset": 723,
+        "start": 57.52,
+        "end": 57.84
+      },
+      {
+        "word": "infinite.",
+        "start_offset": 731,
+        "end_offset": 743,
+        "start": 58.480000000000004,
+        "end": 59.44
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "013-11.mp3",
+    "audio_duration": 93.05,
+    "transcription_time": 0.15,
+    "rtfx": 604.88,
+    "timestamp": "2026-01-06T21:47:05.679178+00:00"
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "text": "As I understand it then, the initiate was to be on the center line of the pyramid, but at an altitude above the base as defined by the intersection of the four triangles made by dividing each side into four triangles. Is that correct? This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "As I understand it then, the initiate was to be on the center line of the pyramid, but at an altitude above the base as defined by the intersection of the four triangles made by dividing each side into four triangles.",
+        "start_offset": 0,
+        "end_offset": 217,
+        "start": 1.761,
+        "end": 26.12
+      },
+      {
+        "segment": "Is that correct?",
+        "start_offset": 218,
+        "end_offset": 234,
+        "start": 28.421,
+        "end": 30.163
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 235,
+        "end_offset": 251,
+        "start": 30.783,
+        "end": 32.284
+      }
+    ],
+    "word": [
+      {
+        "word": "As",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 1.761,
+        "end": 1.861,
+        "score": -3.19
+      },
+      {
+        "word": "I",
+        "start_offset": 3,
+        "end_offset": 4,
+        "start": 1.981,
+        "end": 2.002,
+        "score": -2.3612
+      },
+      {
+        "word": "understand",
+        "start_offset": 5,
+        "end_offset": 15,
+        "start": 2.082,
+        "end": 2.642,
+        "score": -3.0291
+      },
+      {
+        "word": "it",
+        "start_offset": 16,
+        "end_offset": 18,
+        "start": 2.662,
+        "end": 2.762,
+        "score": -2.2999
+      },
+      {
+        "word": "then,",
+        "start_offset": 19,
+        "end_offset": 24,
+        "start": 3.963,
+        "end": 4.103,
+        "score": -3.7657
+      },
+      {
+        "word": "the",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 4.183,
+        "end": 4.283,
+        "score": -3.1975
+      },
+      {
+        "word": "initiate",
+        "start_offset": 29,
+        "end_offset": 37,
+        "start": 4.483,
+        "end": 4.924,
+        "score": -3.6861
+      },
+      {
+        "word": "was",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 5.024,
+        "end": 5.244,
+        "score": -2.8783
+      },
+      {
+        "word": "to",
+        "start_offset": 42,
+        "end_offset": 44,
+        "start": 5.324,
+        "end": 5.484,
+        "score": -3.5695
+      },
+      {
+        "word": "be",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 5.624,
+        "end": 5.744,
+        "score": -4.0401
+      },
+      {
+        "word": "on",
+        "start_offset": 48,
+        "end_offset": 50,
+        "start": 7.506,
+        "end": 7.606,
+        "score": -3.883
+      },
+      {
+        "word": "the",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 7.646,
+        "end": 7.806,
+        "score": -4.1693
+      },
+      {
+        "word": "center",
+        "start_offset": 55,
+        "end_offset": 61,
+        "start": 8.046,
+        "end": 8.366,
+        "score": -3.3005
+      },
+      {
+        "word": "line",
+        "start_offset": 62,
+        "end_offset": 66,
+        "start": 8.386,
+        "end": 8.647,
+        "score": -3.0255
+      },
+      {
+        "word": "of",
+        "start_offset": 67,
+        "end_offset": 69,
+        "start": 9.447,
+        "end": 9.607,
+        "score": -6.7494
+      },
+      {
+        "word": "the",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 11.008,
+        "end": 11.108,
+        "score": -5.1653
+      },
+      {
+        "word": "pyramid,",
+        "start_offset": 74,
+        "end_offset": 82,
+        "start": 11.208,
+        "end": 11.589,
+        "score": -3.8491
+      },
+      {
+        "word": "but",
+        "start_offset": 83,
+        "end_offset": 86,
+        "start": 11.649,
+        "end": 11.749,
+        "score": -4.6439
+      },
+      {
+        "word": "at",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 11.769,
+        "end": 11.809,
+        "score": -3.771
+      },
+      {
+        "word": "an",
+        "start_offset": 90,
+        "end_offset": 92,
+        "start": 11.849,
+        "end": 11.889,
+        "score": -3.6554
+      },
+      {
+        "word": "altitude",
+        "start_offset": 93,
+        "end_offset": 101,
+        "start": 11.969,
+        "end": 12.67,
+        "score": -2.7081
+      },
+      {
+        "word": "above",
+        "start_offset": 102,
+        "end_offset": 107,
+        "start": 12.77,
+        "end": 13.07,
+        "score": -4.0588
+      },
+      {
+        "word": "the",
+        "start_offset": 108,
+        "end_offset": 111,
+        "start": 13.09,
+        "end": 13.21,
+        "score": -3.5779
+      },
+      {
+        "word": "base",
+        "start_offset": 112,
+        "end_offset": 116,
+        "start": 13.31,
+        "end": 13.55,
+        "score": -3.7091
+      },
+      {
+        "word": "as",
+        "start_offset": 117,
+        "end_offset": 119,
+        "start": 14.251,
+        "end": 14.311,
+        "score": -2.9316
+      },
+      {
+        "word": "defined",
+        "start_offset": 120,
+        "end_offset": 127,
+        "start": 14.351,
+        "end": 14.811,
+        "score": -3.7979
+      },
+      {
+        "word": "by",
+        "start_offset": 128,
+        "end_offset": 130,
+        "start": 14.891,
+        "end": 14.931,
+        "score": -7.2101
+      },
+      {
+        "word": "the",
+        "start_offset": 131,
+        "end_offset": 134,
+        "start": 15.011,
+        "end": 15.171,
+        "score": -3.306
+      },
+      {
+        "word": "intersection",
+        "start_offset": 135,
+        "end_offset": 147,
+        "start": 17.373,
+        "end": 18.154,
+        "score": -3.0116
+      },
+      {
+        "word": "of",
+        "start_offset": 148,
+        "end_offset": 150,
+        "start": 18.234,
+        "end": 18.314,
+        "score": -6.1917
+      },
+      {
+        "word": "the",
+        "start_offset": 151,
+        "end_offset": 154,
+        "start": 18.394,
+        "end": 18.454,
+        "score": -5.9708
+      },
+      {
+        "word": "four",
+        "start_offset": 155,
+        "end_offset": 159,
+        "start": 18.514,
+        "end": 18.774,
+        "score": -2.4482
+      },
+      {
+        "word": "triangles",
+        "start_offset": 160,
+        "end_offset": 169,
+        "start": 18.834,
+        "end": 19.114,
+        "score": -4.7327
+      },
+      {
+        "word": "made",
+        "start_offset": 170,
+        "end_offset": 174,
+        "start": 19.134,
+        "end": 19.475,
+        "score": -4.2568
+      },
+      {
+        "word": "by",
+        "start_offset": 175,
+        "end_offset": 177,
+        "start": 19.595,
+        "end": 19.695,
+        "score": -3.6797
+      },
+      {
+        "word": "dividing",
+        "start_offset": 178,
+        "end_offset": 186,
+        "start": 20.375,
+        "end": 20.836,
+        "score": -4.2099
+      },
+      {
+        "word": "each",
+        "start_offset": 187,
+        "end_offset": 191,
+        "start": 20.916,
+        "end": 21.796,
+        "score": -4.3559
+      },
+      {
+        "word": "side",
+        "start_offset": 192,
+        "end_offset": 196,
+        "start": 22.137,
+        "end": 22.457,
+        "score": -4.2837
+      },
+      {
+        "word": "into",
+        "start_offset": 197,
+        "end_offset": 201,
+        "start": 22.497,
+        "end": 22.657,
+        "score": -4.803
+      },
+      {
+        "word": "four",
+        "start_offset": 202,
+        "end_offset": 206,
+        "start": 23.798,
+        "end": 23.938,
+        "score": -6.2111
+      },
+      {
+        "word": "triangles.",
+        "start_offset": 207,
+        "end_offset": 217,
+        "start": 25.759,
+        "end": 26.12,
+        "score": -4.8677
+      },
+      {
+        "word": "Is",
+        "start_offset": 218,
+        "end_offset": 220,
+        "start": 28.421,
+        "end": 28.481,
+        "score": -5.3213
+      },
+      {
+        "word": "that",
+        "start_offset": 221,
+        "end_offset": 225,
+        "start": 29.502,
+        "end": 29.782,
+        "score": -3.5358
+      },
+      {
+        "word": "correct?",
+        "start_offset": 226,
+        "end_offset": 234,
+        "start": 29.923,
+        "end": 30.163,
+        "score": -5.3547
+      },
+      {
+        "word": "This",
+        "start_offset": 235,
+        "end_offset": 239,
+        "start": 30.783,
+        "end": 31.184,
+        "score": -4.1566
+      },
+      {
+        "word": "is",
+        "start_offset": 240,
+        "end_offset": 242,
+        "start": 31.224,
+        "end": 31.264,
+        "score": -3.5054
+      },
+      {
+        "word": "correct.",
+        "start_offset": 243,
+        "end_offset": 251,
+        "start": 31.904,
+        "end": 32.284,
+        "score": -3.4194
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "004-03.mp3",
+    "audio_duration": 33.0449,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

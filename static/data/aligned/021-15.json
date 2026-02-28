@@ -1,0 +1,299 @@
+{
+  "text": "Then the Confederation gardeners did nothing, I'm assuming, until some of the plants in their garden, shall I say, called them for help. Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then the Confederation gardeners did nothing, I'm assuming, until some of the plants in their garden, shall I say, called them for help.",
+        "start_offset": 0,
+        "end_offset": 136,
+        "start": 3.102,
+        "end": 15.772
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 137,
+        "end_offset": 153,
+        "start": 16.472,
+        "end": 17.193
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 154,
+        "end_offset": 162,
+        "start": 19.955,
+        "end": 21.216
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 163,
+        "end_offset": 179,
+        "start": 22.577,
+        "end": 25.059
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 3.102,
+        "end": 3.383,
+        "score": -0.7576
+      },
+      {
+        "word": "the",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 3.683,
+        "end": 3.783,
+        "score": -0.7438
+      },
+      {
+        "word": "Confederation",
+        "start_offset": 9,
+        "end_offset": 22,
+        "start": 3.823,
+        "end": 4.663,
+        "score": -0.7073
+      },
+      {
+        "word": "gardeners",
+        "start_offset": 23,
+        "end_offset": 32,
+        "start": 4.824,
+        "end": 5.384,
+        "score": -0.7166
+      },
+      {
+        "word": "did",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 7.405,
+        "end": 7.586,
+        "score": -0.6984
+      },
+      {
+        "word": "nothing,",
+        "start_offset": 37,
+        "end_offset": 45,
+        "start": 7.686,
+        "end": 8.066,
+        "score": -0.7171
+      },
+      {
+        "word": "I'm",
+        "start_offset": 46,
+        "end_offset": 49,
+        "start": 8.186,
+        "end": 8.306,
+        "score": -5.7389
+      },
+      {
+        "word": "assuming,",
+        "start_offset": 50,
+        "end_offset": 59,
+        "start": 8.366,
+        "end": 8.827,
+        "score": -0.7179
+      },
+      {
+        "word": "until",
+        "start_offset": 60,
+        "end_offset": 65,
+        "start": 8.947,
+        "end": 9.427,
+        "score": -0.6974
+      },
+      {
+        "word": "some",
+        "start_offset": 66,
+        "end_offset": 70,
+        "start": 10.428,
+        "end": 10.628,
+        "score": -0.6987
+      },
+      {
+        "word": "of",
+        "start_offset": 71,
+        "end_offset": 73,
+        "start": 10.668,
+        "end": 10.748,
+        "score": -0.7396
+      },
+      {
+        "word": "the",
+        "start_offset": 74,
+        "end_offset": 77,
+        "start": 11.088,
+        "end": 11.188,
+        "score": -0.8134
+      },
+      {
+        "word": "plants",
+        "start_offset": 78,
+        "end_offset": 84,
+        "start": 11.288,
+        "end": 11.709,
+        "score": -0.7089
+      },
+      {
+        "word": "in",
+        "start_offset": 85,
+        "end_offset": 87,
+        "start": 11.769,
+        "end": 11.829,
+        "score": -0.7034
+      },
+      {
+        "word": "their",
+        "start_offset": 88,
+        "end_offset": 93,
+        "start": 11.869,
+        "end": 12.009,
+        "score": -0.8286
+      },
+      {
+        "word": "garden,",
+        "start_offset": 94,
+        "end_offset": 101,
+        "start": 12.069,
+        "end": 12.449,
+        "score": -0.7031
+      },
+      {
+        "word": "shall",
+        "start_offset": 102,
+        "end_offset": 107,
+        "start": 12.529,
+        "end": 12.749,
+        "score": -0.7523
+      },
+      {
+        "word": "I",
+        "start_offset": 108,
+        "end_offset": 109,
+        "start": 12.85,
+        "end": 12.87,
+        "score": -5.1614
+      },
+      {
+        "word": "say,",
+        "start_offset": 110,
+        "end_offset": 114,
+        "start": 13.03,
+        "end": 13.27,
+        "score": -0.7354
+      },
+      {
+        "word": "called",
+        "start_offset": 115,
+        "end_offset": 121,
+        "start": 14.271,
+        "end": 14.651,
+        "score": -0.846
+      },
+      {
+        "word": "them",
+        "start_offset": 122,
+        "end_offset": 126,
+        "start": 14.691,
+        "end": 14.891,
+        "score": -0.723
+      },
+      {
+        "word": "for",
+        "start_offset": 127,
+        "end_offset": 130,
+        "start": 15.231,
+        "end": 15.411,
+        "score": -0.7009
+      },
+      {
+        "word": "help.",
+        "start_offset": 131,
+        "end_offset": 136,
+        "start": 15.492,
+        "end": 15.772,
+        "score": -0.7
+      },
+      {
+        "word": "Is",
+        "start_offset": 137,
+        "end_offset": 139,
+        "start": 16.472,
+        "end": 16.552,
+        "score": -0.7342
+      },
+      {
+        "word": "this",
+        "start_offset": 140,
+        "end_offset": 144,
+        "start": 16.592,
+        "end": 16.732,
+        "score": -0.7196
+      },
+      {
+        "word": "correct?",
+        "start_offset": 145,
+        "end_offset": 153,
+        "start": 16.772,
+        "end": 17.193,
+        "score": -0.7119
+      },
+      {
+        "word": "I",
+        "start_offset": 154,
+        "end_offset": 155,
+        "start": 19.955,
+        "end": 19.975,
+        "score": -1.0528
+      },
+      {
+        "word": "am",
+        "start_offset": 156,
+        "end_offset": 158,
+        "start": 20.355,
+        "end": 20.615,
+        "score": -1.4931
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 159,
+        "end_offset": 162,
+        "start": 21.096,
+        "end": 21.216,
+        "score": -1.4609
+      },
+      {
+        "word": "This",
+        "start_offset": 163,
+        "end_offset": 167,
+        "start": 22.577,
+        "end": 22.937,
+        "score": -1.8306
+      },
+      {
+        "word": "is",
+        "start_offset": 168,
+        "end_offset": 170,
+        "start": 23.517,
+        "end": 23.818,
+        "score": -1.5194
+      },
+      {
+        "word": "correct.",
+        "start_offset": 171,
+        "end_offset": 179,
+        "start": 24.418,
+        "end": 25.059,
+        "score": -0.9069
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "021-15.mp3",
+    "audio_duration": 25.3388,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

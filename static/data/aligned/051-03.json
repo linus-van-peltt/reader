@@ -1,0 +1,355 @@
+{
+  "text": "I assume that that latter type is the type that we experience with most of our landings from the Orion group. Is this correct? I am Ra. The Orion group is mixed between the penultimate and the latter groups.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I assume that that latter type is the type that we experience with most of our landings from the Orion group.",
+        "start_offset": 0,
+        "end_offset": 109,
+        "start": 2.381,
+        "end": 12.723
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 110,
+        "end_offset": 126,
+        "start": 14.003,
+        "end": 14.683
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 127,
+        "end_offset": 135,
+        "start": 20.345,
+        "end": 22.285
+      },
+      {
+        "segment": "The Orion group is mixed between the penultimate and the latter groups.",
+        "start_offset": 136,
+        "end_offset": 207,
+        "start": 24.446,
+        "end": 41.71
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 2.381,
+        "end": 2.401,
+        "score": -2.9628
+      },
+      {
+        "word": "assume",
+        "start_offset": 2,
+        "end_offset": 8,
+        "start": 2.461,
+        "end": 2.901,
+        "score": -1.0116
+      },
+      {
+        "word": "that",
+        "start_offset": 9,
+        "end_offset": 13,
+        "start": 2.921,
+        "end": 3.001,
+        "score": -7.4884
+      },
+      {
+        "word": "that",
+        "start_offset": 14,
+        "end_offset": 18,
+        "start": 3.041,
+        "end": 3.261,
+        "score": -0.7602
+      },
+      {
+        "word": "latter",
+        "start_offset": 19,
+        "end_offset": 25,
+        "start": 3.601,
+        "end": 3.901,
+        "score": -0.7628
+      },
+      {
+        "word": "type",
+        "start_offset": 26,
+        "end_offset": 30,
+        "start": 3.961,
+        "end": 4.301,
+        "score": -1.4388
+      },
+      {
+        "word": "is",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 4.341,
+        "end": 4.501,
+        "score": -2.9465
+      },
+      {
+        "word": "the",
+        "start_offset": 34,
+        "end_offset": 37,
+        "start": 5.261,
+        "end": 5.361,
+        "score": -0.9423
+      },
+      {
+        "word": "type",
+        "start_offset": 38,
+        "end_offset": 42,
+        "start": 5.421,
+        "end": 5.761,
+        "score": -1.2756
+      },
+      {
+        "word": "that",
+        "start_offset": 43,
+        "end_offset": 47,
+        "start": 5.781,
+        "end": 5.861,
+        "score": -5.9017
+      },
+      {
+        "word": "we",
+        "start_offset": 48,
+        "end_offset": 50,
+        "start": 5.881,
+        "end": 5.981,
+        "score": -1.6537
+      },
+      {
+        "word": "experience",
+        "start_offset": 51,
+        "end_offset": 61,
+        "start": 6.061,
+        "end": 6.782,
+        "score": -0.7357
+      },
+      {
+        "word": "with",
+        "start_offset": 62,
+        "end_offset": 66,
+        "start": 7.182,
+        "end": 7.362,
+        "score": -3.0318
+      },
+      {
+        "word": "most",
+        "start_offset": 67,
+        "end_offset": 71,
+        "start": 7.402,
+        "end": 7.702,
+        "score": -0.8448
+      },
+      {
+        "word": "of",
+        "start_offset": 72,
+        "end_offset": 74,
+        "start": 7.762,
+        "end": 7.842,
+        "score": -0.9694
+      },
+      {
+        "word": "our",
+        "start_offset": 75,
+        "end_offset": 78,
+        "start": 7.962,
+        "end": 8.122,
+        "score": -1.1043
+      },
+      {
+        "word": "landings",
+        "start_offset": 79,
+        "end_offset": 87,
+        "start": 10.322,
+        "end": 10.862,
+        "score": -1.5757
+      },
+      {
+        "word": "from",
+        "start_offset": 88,
+        "end_offset": 92,
+        "start": 10.942,
+        "end": 11.203,
+        "score": -0.7767
+      },
+      {
+        "word": "the",
+        "start_offset": 93,
+        "end_offset": 96,
+        "start": 11.703,
+        "end": 11.823,
+        "score": -0.91
+      },
+      {
+        "word": "Orion",
+        "start_offset": 97,
+        "end_offset": 102,
+        "start": 11.903,
+        "end": 12.343,
+        "score": -0.9947
+      },
+      {
+        "word": "group.",
+        "start_offset": 103,
+        "end_offset": 109,
+        "start": 12.423,
+        "end": 12.723,
+        "score": -0.8143
+      },
+      {
+        "word": "Is",
+        "start_offset": 110,
+        "end_offset": 112,
+        "start": 14.003,
+        "end": 14.103,
+        "score": -0.8908
+      },
+      {
+        "word": "this",
+        "start_offset": 113,
+        "end_offset": 117,
+        "start": 14.123,
+        "end": 14.283,
+        "score": -0.8704
+      },
+      {
+        "word": "correct?",
+        "start_offset": 118,
+        "end_offset": 126,
+        "start": 14.323,
+        "end": 14.683,
+        "score": -2.6592
+      },
+      {
+        "word": "I",
+        "start_offset": 127,
+        "end_offset": 128,
+        "start": 20.345,
+        "end": 20.365,
+        "score": -1.301
+      },
+      {
+        "word": "am",
+        "start_offset": 129,
+        "end_offset": 131,
+        "start": 21.045,
+        "end": 21.465,
+        "score": -2.4234
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 132,
+        "end_offset": 135,
+        "start": 22.165,
+        "end": 22.285,
+        "score": -2.7652
+      },
+      {
+        "word": "The",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 24.446,
+        "end": 24.586,
+        "score": -1.0537
+      },
+      {
+        "word": "Orion",
+        "start_offset": 140,
+        "end_offset": 145,
+        "start": 25.446,
+        "end": 26.606,
+        "score": -1.1635
+      },
+      {
+        "word": "group",
+        "start_offset": 146,
+        "end_offset": 151,
+        "start": 27.126,
+        "end": 27.566,
+        "score": -0.7117
+      },
+      {
+        "word": "is",
+        "start_offset": 152,
+        "end_offset": 154,
+        "start": 29.147,
+        "end": 29.507,
+        "score": -0.729
+      },
+      {
+        "word": "mixed",
+        "start_offset": 155,
+        "end_offset": 160,
+        "start": 30.287,
+        "end": 30.947,
+        "score": -0.7638
+      },
+      {
+        "word": "between",
+        "start_offset": 161,
+        "end_offset": 168,
+        "start": 32.107,
+        "end": 32.988,
+        "score": -0.9432
+      },
+      {
+        "word": "the",
+        "start_offset": 169,
+        "end_offset": 172,
+        "start": 33.588,
+        "end": 33.728,
+        "score": -1.5865
+      },
+      {
+        "word": "penultimate",
+        "start_offset": 173,
+        "end_offset": 184,
+        "start": 34.708,
+        "end": 36.488,
+        "score": -1.5176
+      },
+      {
+        "word": "and",
+        "start_offset": 185,
+        "end_offset": 188,
+        "start": 37.329,
+        "end": 37.749,
+        "score": -0.8307
+      },
+      {
+        "word": "the",
+        "start_offset": 189,
+        "end_offset": 192,
+        "start": 38.429,
+        "end": 38.569,
+        "score": -1.0219
+      },
+      {
+        "word": "latter",
+        "start_offset": 193,
+        "end_offset": 199,
+        "start": 39.529,
+        "end": 40.129,
+        "score": -0.8904
+      },
+      {
+        "word": "groups.",
+        "start_offset": 200,
+        "end_offset": 207,
+        "start": 41.149,
+        "end": 41.71,
+        "score": -0.8713
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "051-03.mp3",
+    "audio_duration": 43.0498,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,633 @@
+{
+  "text": "I'll have to think about that one. Unless… I'll come back to that. We were thinking of replacing the sword in the right hand with the magical sphere and a downward scepter in the left hand, similar to Card Five, the Significator, as more appropriate for this card. Would Ra comment on that, please? I am Ra. This is quite acceptable, especially if the sphere may be imaged as spherical and effulgent.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I'll have to think about that one.",
+        "start_offset": 0,
+        "end_offset": 34,
+        "start": 1.64,
+        "end": 15.201
+      },
+      {
+        "segment": "Unless… I'll come back to that.",
+        "start_offset": 35,
+        "end_offset": 66,
+        "start": 15.221,
+        "end": 21.842
+      },
+      {
+        "segment": "We were thinking of replacing the sword in the right hand with the magical sphere and a downward scepter in the left hand, similar to Card Five, the Significator, as more appropriate for this card.",
+        "start_offset": 67,
+        "end_offset": 264,
+        "start": 25.682,
+        "end": 47.844
+      },
+      {
+        "segment": "Would Ra comment on that, please?",
+        "start_offset": 265,
+        "end_offset": 298,
+        "start": 49.684,
+        "end": 51.104
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 299,
+        "end_offset": 307,
+        "start": 56.165,
+        "end": 57.825
+      },
+      {
+        "segment": "This is quite acceptable, especially if the sphere may be imaged as spherical and effulgent.",
+        "start_offset": 308,
+        "end_offset": 400,
+        "start": 61.405,
+        "end": 87.628
+      }
+    ],
+    "word": [
+      {
+        "word": "I'll",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 1.64,
+        "end": 2.38,
+        "score": -10.2087
+      },
+      {
+        "word": "have",
+        "start_offset": 5,
+        "end_offset": 9,
+        "start": 3.16,
+        "end": 3.4,
+        "score": -8.0402
+      },
+      {
+        "word": "to",
+        "start_offset": 10,
+        "end_offset": 12,
+        "start": 3.42,
+        "end": 3.46,
+        "score": -9.3599
+      },
+      {
+        "word": "think",
+        "start_offset": 13,
+        "end_offset": 18,
+        "start": 3.48,
+        "end": 3.64,
+        "score": -6.2104
+      },
+      {
+        "word": "about",
+        "start_offset": 19,
+        "end_offset": 24,
+        "start": 3.66,
+        "end": 3.86,
+        "score": -6.6053
+      },
+      {
+        "word": "that",
+        "start_offset": 25,
+        "end_offset": 29,
+        "start": 3.92,
+        "end": 15.101,
+        "score": -5.8313
+      },
+      {
+        "word": "one.",
+        "start_offset": 30,
+        "end_offset": 34,
+        "start": 15.121,
+        "end": 15.201,
+        "score": -6.7033
+      },
+      {
+        "word": "Unless…",
+        "start_offset": 35,
+        "end_offset": 42,
+        "start": 15.221,
+        "end": 15.541,
+        "score": -7.0146
+      },
+      {
+        "word": "I'll",
+        "start_offset": 43,
+        "end_offset": 47,
+        "start": 20.962,
+        "end": 21.122,
+        "score": -8.5585
+      },
+      {
+        "word": "come",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 21.142,
+        "end": 21.342,
+        "score": -4.722
+      },
+      {
+        "word": "back",
+        "start_offset": 53,
+        "end_offset": 57,
+        "start": 21.362,
+        "end": 21.522,
+        "score": -5.9713
+      },
+      {
+        "word": "to",
+        "start_offset": 58,
+        "end_offset": 60,
+        "start": 21.542,
+        "end": 21.582,
+        "score": -6.4643
+      },
+      {
+        "word": "that.",
+        "start_offset": 61,
+        "end_offset": 66,
+        "start": 21.622,
+        "end": 21.842,
+        "score": -5.2381
+      },
+      {
+        "word": "We",
+        "start_offset": 67,
+        "end_offset": 69,
+        "start": 25.682,
+        "end": 25.782,
+        "score": -4.2647
+      },
+      {
+        "word": "were",
+        "start_offset": 70,
+        "end_offset": 74,
+        "start": 25.882,
+        "end": 26.022,
+        "score": -3.7082
+      },
+      {
+        "word": "thinking",
+        "start_offset": 75,
+        "end_offset": 83,
+        "start": 26.462,
+        "end": 26.782,
+        "score": -2.0268
+      },
+      {
+        "word": "of",
+        "start_offset": 84,
+        "end_offset": 86,
+        "start": 26.862,
+        "end": 26.982,
+        "score": -6.4927
+      },
+      {
+        "word": "replacing",
+        "start_offset": 87,
+        "end_offset": 96,
+        "start": 27.402,
+        "end": 28.022,
+        "score": -1.3414
+      },
+      {
+        "word": "the",
+        "start_offset": 97,
+        "end_offset": 100,
+        "start": 28.783,
+        "end": 28.843,
+        "score": -4.3637
+      },
+      {
+        "word": "sword",
+        "start_offset": 101,
+        "end_offset": 106,
+        "start": 29.043,
+        "end": 29.423,
+        "score": -1.8527
+      },
+      {
+        "word": "in",
+        "start_offset": 107,
+        "end_offset": 109,
+        "start": 30.063,
+        "end": 30.103,
+        "score": -1.0841
+      },
+      {
+        "word": "the",
+        "start_offset": 110,
+        "end_offset": 113,
+        "start": 30.143,
+        "end": 30.203,
+        "score": -1.0093
+      },
+      {
+        "word": "right",
+        "start_offset": 114,
+        "end_offset": 119,
+        "start": 30.263,
+        "end": 30.483,
+        "score": -1.07
+      },
+      {
+        "word": "hand",
+        "start_offset": 120,
+        "end_offset": 124,
+        "start": 30.543,
+        "end": 30.803,
+        "score": -1.0398
+      },
+      {
+        "word": "with",
+        "start_offset": 125,
+        "end_offset": 129,
+        "start": 30.863,
+        "end": 31.063,
+        "score": -1.3077
+      },
+      {
+        "word": "the",
+        "start_offset": 130,
+        "end_offset": 133,
+        "start": 32.483,
+        "end": 32.583,
+        "score": -1.5338
+      },
+      {
+        "word": "magical",
+        "start_offset": 134,
+        "end_offset": 141,
+        "start": 32.743,
+        "end": 33.283,
+        "score": -1.068
+      },
+      {
+        "word": "sphere",
+        "start_offset": 142,
+        "end_offset": 148,
+        "start": 33.963,
+        "end": 34.323,
+        "score": -2.5805
+      },
+      {
+        "word": "and",
+        "start_offset": 149,
+        "end_offset": 152,
+        "start": 35.883,
+        "end": 36.083,
+        "score": -2.2152
+      },
+      {
+        "word": "a",
+        "start_offset": 153,
+        "end_offset": 154,
+        "start": 36.923,
+        "end": 36.943,
+        "score": -3.9375
+      },
+      {
+        "word": "downward",
+        "start_offset": 155,
+        "end_offset": 163,
+        "start": 37.043,
+        "end": 37.503,
+        "score": -1.9993
+      },
+      {
+        "word": "scepter",
+        "start_offset": 164,
+        "end_offset": 171,
+        "start": 38.483,
+        "end": 38.883,
+        "score": -4.0918
+      },
+      {
+        "word": "in",
+        "start_offset": 172,
+        "end_offset": 174,
+        "start": 39.543,
+        "end": 39.603,
+        "score": -2.6878
+      },
+      {
+        "word": "the",
+        "start_offset": 175,
+        "end_offset": 178,
+        "start": 39.623,
+        "end": 39.683,
+        "score": -3.8192
+      },
+      {
+        "word": "left",
+        "start_offset": 179,
+        "end_offset": 183,
+        "start": 39.743,
+        "end": 39.964,
+        "score": -3.2775
+      },
+      {
+        "word": "hand,",
+        "start_offset": 184,
+        "end_offset": 189,
+        "start": 40.024,
+        "end": 40.284,
+        "score": -4.2625
+      },
+      {
+        "word": "similar",
+        "start_offset": 190,
+        "end_offset": 197,
+        "start": 41.324,
+        "end": 41.684,
+        "score": -2.4175
+      },
+      {
+        "word": "to",
+        "start_offset": 198,
+        "end_offset": 200,
+        "start": 41.744,
+        "end": 41.844,
+        "score": -3.1392
+      },
+      {
+        "word": "Card",
+        "start_offset": 201,
+        "end_offset": 205,
+        "start": 42.064,
+        "end": 42.344,
+        "score": -2.4604
+      },
+      {
+        "word": "Five,",
+        "start_offset": 206,
+        "end_offset": 211,
+        "start": 42.384,
+        "end": 42.844,
+        "score": -4.79
+      },
+      {
+        "word": "the",
+        "start_offset": 212,
+        "end_offset": 215,
+        "start": 43.004,
+        "end": 43.084,
+        "score": -4.67
+      },
+      {
+        "word": "Significator,",
+        "start_offset": 216,
+        "end_offset": 229,
+        "start": 43.144,
+        "end": 43.824,
+        "score": -3.888
+      },
+      {
+        "word": "as",
+        "start_offset": 230,
+        "end_offset": 232,
+        "start": 45.524,
+        "end": 45.724,
+        "score": -1.3242
+      },
+      {
+        "word": "more",
+        "start_offset": 233,
+        "end_offset": 237,
+        "start": 45.904,
+        "end": 46.084,
+        "score": -1.6084
+      },
+      {
+        "word": "appropriate",
+        "start_offset": 238,
+        "end_offset": 249,
+        "start": 46.104,
+        "end": 46.724,
+        "score": -0.9907
+      },
+      {
+        "word": "for",
+        "start_offset": 250,
+        "end_offset": 253,
+        "start": 46.744,
+        "end": 46.864,
+        "score": -0.9205
+      },
+      {
+        "word": "this",
+        "start_offset": 254,
+        "end_offset": 258,
+        "start": 46.904,
+        "end": 47.104,
+        "score": -1.1649
+      },
+      {
+        "word": "card.",
+        "start_offset": 259,
+        "end_offset": 264,
+        "start": 47.464,
+        "end": 47.844,
+        "score": -1.4227
+      },
+      {
+        "word": "Would",
+        "start_offset": 265,
+        "end_offset": 270,
+        "start": 49.684,
+        "end": 49.944,
+        "score": -5.5817
+      },
+      {
+        "word": "Ra",
+        "start_offset": 271,
+        "end_offset": 273,
+        "start": 49.984,
+        "end": 50.064,
+        "score": -2.9976
+      },
+      {
+        "word": "comment",
+        "start_offset": 274,
+        "end_offset": 281,
+        "start": 50.124,
+        "end": 50.464,
+        "score": -4.7622
+      },
+      {
+        "word": "on",
+        "start_offset": 282,
+        "end_offset": 284,
+        "start": 50.504,
+        "end": 50.564,
+        "score": -4.8335
+      },
+      {
+        "word": "that,",
+        "start_offset": 285,
+        "end_offset": 290,
+        "start": 50.584,
+        "end": 50.764,
+        "score": -5.6314
+      },
+      {
+        "word": "please?",
+        "start_offset": 291,
+        "end_offset": 298,
+        "start": 50.784,
+        "end": 51.104,
+        "score": -4.5484
+      },
+      {
+        "word": "I",
+        "start_offset": 299,
+        "end_offset": 300,
+        "start": 56.165,
+        "end": 56.185,
+        "score": -3.2134
+      },
+      {
+        "word": "am",
+        "start_offset": 301,
+        "end_offset": 303,
+        "start": 56.765,
+        "end": 57.105,
+        "score": -5.0171
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 304,
+        "end_offset": 307,
+        "start": 57.665,
+        "end": 57.825,
+        "score": -6.8461
+      },
+      {
+        "word": "This",
+        "start_offset": 308,
+        "end_offset": 312,
+        "start": 61.405,
+        "end": 61.765,
+        "score": -0.9015
+      },
+      {
+        "word": "is",
+        "start_offset": 313,
+        "end_offset": 315,
+        "start": 62.465,
+        "end": 62.786,
+        "score": -0.8827
+      },
+      {
+        "word": "quite",
+        "start_offset": 316,
+        "end_offset": 321,
+        "start": 63.686,
+        "end": 64.286,
+        "score": -1.2675
+      },
+      {
+        "word": "acceptable,",
+        "start_offset": 322,
+        "end_offset": 333,
+        "start": 65.486,
+        "end": 66.906,
+        "score": -0.819
+      },
+      {
+        "word": "especially",
+        "start_offset": 334,
+        "end_offset": 344,
+        "start": 70.226,
+        "end": 71.246,
+        "score": -1.3566
+      },
+      {
+        "word": "if",
+        "start_offset": 345,
+        "end_offset": 347,
+        "start": 71.986,
+        "end": 72.266,
+        "score": -0.7864
+      },
+      {
+        "word": "the",
+        "start_offset": 348,
+        "end_offset": 351,
+        "start": 72.586,
+        "end": 72.726,
+        "score": -1.0938
+      },
+      {
+        "word": "sphere",
+        "start_offset": 352,
+        "end_offset": 358,
+        "start": 75.987,
+        "end": 76.527,
+        "score": -1.2174
+      },
+      {
+        "word": "may",
+        "start_offset": 359,
+        "end_offset": 362,
+        "start": 76.827,
+        "end": 77.167,
+        "score": -0.7335
+      },
+      {
+        "word": "be",
+        "start_offset": 363,
+        "end_offset": 365,
+        "start": 77.607,
+        "end": 77.707,
+        "score": -0.7202
+      },
+      {
+        "word": "imaged",
+        "start_offset": 366,
+        "end_offset": 372,
+        "start": 78.787,
+        "end": 79.647,
+        "score": -0.7191
+      },
+      {
+        "word": "as",
+        "start_offset": 373,
+        "end_offset": 375,
+        "start": 80.747,
+        "end": 81.167,
+        "score": -0.7988
+      },
+      {
+        "word": "spherical",
+        "start_offset": 376,
+        "end_offset": 385,
+        "start": 83.187,
+        "end": 84.687,
+        "score": -1.3753
+      },
+      {
+        "word": "and",
+        "start_offset": 386,
+        "end_offset": 389,
+        "start": 85.248,
+        "end": 85.668,
+        "score": -0.8224
+      },
+      {
+        "word": "effulgent.",
+        "start_offset": 390,
+        "end_offset": 400,
+        "start": 86.008,
+        "end": 87.628,
+        "score": -1.9728
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "103-13.mp3",
+    "audio_duration": 93.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

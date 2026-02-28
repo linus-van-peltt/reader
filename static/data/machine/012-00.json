@@ -1,0 +1,226 @@
+{
+  "text": "January twenty-eighth, eighty-one, round twelve. January twenty-eighth, eighty-one, round twelve. I agree you in the love and the light of the creation. I come in now.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "January twenty-eighth, eighty-one, round twelve.",
+        "start_offset": 19,
+        "end_offset": 44,
+        "start": 1.52,
+        "end": 3.52
+      },
+      {
+        "segment": "January twenty-eighth, eighty-one, round twelve.",
+        "start_offset": 47,
+        "end_offset": 70,
+        "start": 3.7600000000000002,
+        "end": 5.6000000000000005
+      },
+      {
+        "segment": "I agree you in the love and the light of the creation.",
+        "start_offset": 111,
+        "end_offset": 306,
+        "start": 8.88,
+        "end": 24.48
+      },
+      {
+        "segment": "I come in now.",
+        "start_offset": 360,
+        "end_offset": 412,
+        "start": 28.8,
+        "end": 32.96
+      }
+    ],
+    "word": [
+      {
+        "word": "January",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 1.52,
+        "end": 1.84
+      },
+      {
+        "word": "twenty-eighth,",
+        "start_offset": 25,
+        "end_offset": 31,
+        "start": 2.0,
+        "end": 2.48
+      },
+      {
+        "word": "eighty-one,",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 2.56,
+        "end": 2.88
+      },
+      {
+        "word": "round",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 2.96,
+        "end": 3.12
+      },
+      {
+        "word": "twelve.",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 3.2800000000000002,
+        "end": 3.52
+      },
+      {
+        "word": "January",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 3.7600000000000002,
+        "end": 4.08
+      },
+      {
+        "word": "twenty-eighth,",
+        "start_offset": 51,
+        "end_offset": 56,
+        "start": 4.08,
+        "end": 4.48
+      },
+      {
+        "word": "eighty-one,",
+        "start_offset": 58,
+        "end_offset": 62,
+        "start": 4.64,
+        "end": 4.96
+      },
+      {
+        "word": "round",
+        "start_offset": 63,
+        "end_offset": 65,
+        "start": 5.04,
+        "end": 5.2
+      },
+      {
+        "word": "twelve.",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 5.36,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "I",
+        "start_offset": 111,
+        "end_offset": 115,
+        "start": 8.88,
+        "end": 9.200000000000001
+      },
+      {
+        "word": "agree",
+        "start_offset": 121,
+        "end_offset": 126,
+        "start": 9.68,
+        "end": 10.08
+      },
+      {
+        "word": "you",
+        "start_offset": 137,
+        "end_offset": 140,
+        "start": 10.96,
+        "end": 11.200000000000001
+      },
+      {
+        "word": "in",
+        "start_offset": 156,
+        "end_offset": 160,
+        "start": 12.48,
+        "end": 12.8
+      },
+      {
+        "word": "the",
+        "start_offset": 168,
+        "end_offset": 172,
+        "start": 13.44,
+        "end": 13.76
+      },
+      {
+        "word": "love",
+        "start_offset": 180,
+        "end_offset": 184,
+        "start": 14.4,
+        "end": 14.72
+      },
+      {
+        "word": "and",
+        "start_offset": 199,
+        "end_offset": 203,
+        "start": 15.92,
+        "end": 16.240000000000002
+      },
+      {
+        "word": "the",
+        "start_offset": 211,
+        "end_offset": 215,
+        "start": 16.88,
+        "end": 17.2
+      },
+      {
+        "word": "light",
+        "start_offset": 227,
+        "end_offset": 234,
+        "start": 18.16,
+        "end": 18.72
+      },
+      {
+        "word": "of",
+        "start_offset": 245,
+        "end_offset": 248,
+        "start": 19.6,
+        "end": 19.84
+      },
+      {
+        "word": "the",
+        "start_offset": 260,
+        "end_offset": 262,
+        "start": 20.8,
+        "end": 20.96
+      },
+      {
+        "word": "creation.",
+        "start_offset": 298,
+        "end_offset": 306,
+        "start": 23.84,
+        "end": 24.48
+      },
+      {
+        "word": "I",
+        "start_offset": 360,
+        "end_offset": 363,
+        "start": 28.8,
+        "end": 29.04
+      },
+      {
+        "word": "come",
+        "start_offset": 378,
+        "end_offset": 380,
+        "start": 30.240000000000002,
+        "end": 30.400000000000002
+      },
+      {
+        "word": "in",
+        "start_offset": 384,
+        "end_offset": 386,
+        "start": 30.72,
+        "end": 30.88
+      },
+      {
+        "word": "now.",
+        "start_offset": 408,
+        "end_offset": 412,
+        "start": 32.64,
+        "end": 32.96
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "012-00.mp3",
+    "audio_duration": 34.04,
+    "transcription_time": 0.1,
+    "rtfx": 333.62,
+    "timestamp": "2026-01-06T21:46:52.800975+00:00"
+  }
+}

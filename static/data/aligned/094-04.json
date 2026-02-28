@@ -1,0 +1,387 @@
+{
+  "text": "I immediately think of the instrument wearing long underwear under the robe that it now wears and an extremely light, white cover. Would this be satisfactory? I am Ra. Due to this instrument's lack of radiant physical energy the heavier cover is suggested.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I immediately think of the instrument wearing long underwear under the robe that it now wears and an extremely light, white cover.",
+        "start_offset": 0,
+        "end_offset": 130,
+        "start": 2.701,
+        "end": 14.965
+      },
+      {
+        "segment": "Would this be satisfactory?",
+        "start_offset": 131,
+        "end_offset": 158,
+        "start": 15.725,
+        "end": 17.025
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 159,
+        "end_offset": 167,
+        "start": 25.788,
+        "end": 28.449
+      },
+      {
+        "segment": "Due to this instrument's lack of radiant physical energy the heavier cover is suggested.",
+        "start_offset": 168,
+        "end_offset": 256,
+        "start": 30.93,
+        "end": 63.28
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 2.701,
+        "end": 2.721,
+        "score": -4.466
+      },
+      {
+        "word": "immediately",
+        "start_offset": 2,
+        "end_offset": 13,
+        "start": 2.801,
+        "end": 3.301,
+        "score": -0.7446
+      },
+      {
+        "word": "think",
+        "start_offset": 14,
+        "end_offset": 19,
+        "start": 3.381,
+        "end": 3.681,
+        "score": -1.6342
+      },
+      {
+        "word": "of",
+        "start_offset": 20,
+        "end_offset": 22,
+        "start": 3.781,
+        "end": 3.881,
+        "score": -0.8188
+      },
+      {
+        "word": "the",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 5.302,
+        "end": 5.402,
+        "score": -0.8603
+      },
+      {
+        "word": "instrument",
+        "start_offset": 27,
+        "end_offset": 37,
+        "start": 5.502,
+        "end": 5.922,
+        "score": -0.7033
+      },
+      {
+        "word": "wearing",
+        "start_offset": 38,
+        "end_offset": 45,
+        "start": 5.982,
+        "end": 6.322,
+        "score": -1.016
+      },
+      {
+        "word": "long",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 7.262,
+        "end": 7.542,
+        "score": -0.7765
+      },
+      {
+        "word": "underwear",
+        "start_offset": 51,
+        "end_offset": 60,
+        "start": 7.642,
+        "end": 8.163,
+        "score": -1.2063
+      },
+      {
+        "word": "under",
+        "start_offset": 61,
+        "end_offset": 66,
+        "start": 8.763,
+        "end": 8.983,
+        "score": -0.7075
+      },
+      {
+        "word": "the",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 9.043,
+        "end": 9.163,
+        "score": -0.785
+      },
+      {
+        "word": "robe",
+        "start_offset": 71,
+        "end_offset": 75,
+        "start": 10.223,
+        "end": 10.603,
+        "score": -0.8721
+      },
+      {
+        "word": "that",
+        "start_offset": 76,
+        "end_offset": 80,
+        "start": 10.783,
+        "end": 10.943,
+        "score": -0.8427
+      },
+      {
+        "word": "it",
+        "start_offset": 81,
+        "end_offset": 83,
+        "start": 10.963,
+        "end": 11.003,
+        "score": -5.6963
+      },
+      {
+        "word": "now",
+        "start_offset": 84,
+        "end_offset": 87,
+        "start": 11.063,
+        "end": 11.264,
+        "score": -0.7203
+      },
+      {
+        "word": "wears",
+        "start_offset": 88,
+        "end_offset": 93,
+        "start": 11.364,
+        "end": 11.744,
+        "score": -2.0206
+      },
+      {
+        "word": "and",
+        "start_offset": 94,
+        "end_offset": 97,
+        "start": 11.964,
+        "end": 12.084,
+        "score": -0.8319
+      },
+      {
+        "word": "an",
+        "start_offset": 98,
+        "end_offset": 100,
+        "start": 12.144,
+        "end": 12.264,
+        "score": -0.7402
+      },
+      {
+        "word": "extremely",
+        "start_offset": 101,
+        "end_offset": 110,
+        "start": 12.344,
+        "end": 12.884,
+        "score": -0.7054
+      },
+      {
+        "word": "light,",
+        "start_offset": 111,
+        "end_offset": 117,
+        "start": 13.004,
+        "end": 13.304,
+        "score": -0.7337
+      },
+      {
+        "word": "white",
+        "start_offset": 118,
+        "end_offset": 123,
+        "start": 14.224,
+        "end": 14.545,
+        "score": -0.7888
+      },
+      {
+        "word": "cover.",
+        "start_offset": 124,
+        "end_offset": 130,
+        "start": 14.625,
+        "end": 14.965,
+        "score": -0.7013
+      },
+      {
+        "word": "Would",
+        "start_offset": 131,
+        "end_offset": 136,
+        "start": 15.725,
+        "end": 15.865,
+        "score": -5.5722
+      },
+      {
+        "word": "this",
+        "start_offset": 137,
+        "end_offset": 141,
+        "start": 15.905,
+        "end": 16.045,
+        "score": -0.7904
+      },
+      {
+        "word": "be",
+        "start_offset": 142,
+        "end_offset": 144,
+        "start": 16.105,
+        "end": 16.185,
+        "score": -0.7287
+      },
+      {
+        "word": "satisfactory?",
+        "start_offset": 145,
+        "end_offset": 158,
+        "start": 16.285,
+        "end": 17.025,
+        "score": -0.699
+      },
+      {
+        "word": "I",
+        "start_offset": 159,
+        "end_offset": 160,
+        "start": 25.788,
+        "end": 25.808,
+        "score": -1.5567
+      },
+      {
+        "word": "am",
+        "start_offset": 161,
+        "end_offset": 163,
+        "start": 26.748,
+        "end": 28.309,
+        "score": -1.808
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 164,
+        "end_offset": 167,
+        "start": 28.349,
+        "end": 28.449,
+        "score": -2.3231
+      },
+      {
+        "word": "Due",
+        "start_offset": 168,
+        "end_offset": 171,
+        "start": 30.93,
+        "end": 31.27,
+        "score": -2.041
+      },
+      {
+        "word": "to",
+        "start_offset": 172,
+        "end_offset": 174,
+        "start": 32.11,
+        "end": 32.23,
+        "score": -1.7545
+      },
+      {
+        "word": "this",
+        "start_offset": 175,
+        "end_offset": 179,
+        "start": 33.13,
+        "end": 33.491,
+        "score": -0.9214
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 180,
+        "end_offset": 192,
+        "start": 34.791,
+        "end": 35.971,
+        "score": -1.365
+      },
+      {
+        "word": "lack",
+        "start_offset": 193,
+        "end_offset": 197,
+        "start": 39.752,
+        "end": 40.153,
+        "score": -0.8806
+      },
+      {
+        "word": "of",
+        "start_offset": 198,
+        "end_offset": 200,
+        "start": 41.013,
+        "end": 41.273,
+        "score": -0.7746
+      },
+      {
+        "word": "radiant",
+        "start_offset": 201,
+        "end_offset": 208,
+        "start": 43.214,
+        "end": 44.234,
+        "score": -1.2223
+      },
+      {
+        "word": "physical",
+        "start_offset": 209,
+        "end_offset": 217,
+        "start": 46.475,
+        "end": 47.495,
+        "score": -2.0854
+      },
+      {
+        "word": "energy",
+        "start_offset": 218,
+        "end_offset": 224,
+        "start": 48.855,
+        "end": 49.476,
+        "score": -0.8178
+      },
+      {
+        "word": "the",
+        "start_offset": 225,
+        "end_offset": 228,
+        "start": 51.496,
+        "end": 51.636,
+        "score": -1.2143
+      },
+      {
+        "word": "heavier",
+        "start_offset": 229,
+        "end_offset": 236,
+        "start": 54.397,
+        "end": 55.277,
+        "score": -1.5856
+      },
+      {
+        "word": "cover",
+        "start_offset": 237,
+        "end_offset": 242,
+        "start": 57.118,
+        "end": 57.618,
+        "score": -0.7151
+      },
+      {
+        "word": "is",
+        "start_offset": 243,
+        "end_offset": 245,
+        "start": 58.778,
+        "end": 59.059,
+        "score": -0.7538
+      },
+      {
+        "word": "suggested.",
+        "start_offset": 246,
+        "end_offset": 256,
+        "start": 62.22,
+        "end": 63.28,
+        "score": -1.0313
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "094-04.mp3",
+    "audio_duration": 69.0417,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

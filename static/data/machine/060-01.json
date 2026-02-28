@@ -1,0 +1,156 @@
+{
+  "text": "First give me an indication of the instrument's condition. I am wrong. It is as previously stated.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "First give me an indication of the instrument's condition.",
+        "start_offset": 31,
+        "end_offset": 81,
+        "start": 2.48,
+        "end": 6.48
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 158,
+        "end_offset": 194,
+        "start": 12.64,
+        "end": 15.52
+      },
+      {
+        "segment": "It is as previously stated.",
+        "start_offset": 217,
+        "end_offset": 300,
+        "start": 17.36,
+        "end": 24.0
+      }
+    ],
+    "word": [
+      {
+        "word": "First",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 2.48,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "give",
+        "start_offset": 36,
+        "end_offset": 40,
+        "start": 2.88,
+        "end": 3.2
+      },
+      {
+        "word": "me",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 3.2,
+        "end": 3.36
+      },
+      {
+        "word": "an",
+        "start_offset": 42,
+        "end_offset": 44,
+        "start": 3.36,
+        "end": 3.52
+      },
+      {
+        "word": "indication",
+        "start_offset": 44,
+        "end_offset": 53,
+        "start": 3.52,
+        "end": 4.24
+      },
+      {
+        "word": "of",
+        "start_offset": 53,
+        "end_offset": 56,
+        "start": 4.24,
+        "end": 4.48
+      },
+      {
+        "word": "the",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 4.48,
+        "end": 4.8
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 60,
+        "end_offset": 73,
+        "start": 4.8,
+        "end": 5.84
+      },
+      {
+        "word": "condition.",
+        "start_offset": 73,
+        "end_offset": 81,
+        "start": 5.84,
+        "end": 6.48
+      },
+      {
+        "word": "I",
+        "start_offset": 158,
+        "end_offset": 162,
+        "start": 12.64,
+        "end": 12.96
+      },
+      {
+        "word": "am",
+        "start_offset": 170,
+        "end_offset": 173,
+        "start": 13.6,
+        "end": 13.84
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 186,
+        "end_offset": 194,
+        "start": 14.88,
+        "end": 15.52
+      },
+      {
+        "word": "It",
+        "start_offset": 217,
+        "end_offset": 221,
+        "start": 17.36,
+        "end": 17.68
+      },
+      {
+        "word": "is",
+        "start_offset": 229,
+        "end_offset": 233,
+        "start": 18.32,
+        "end": 18.64
+      },
+      {
+        "word": "as",
+        "start_offset": 245,
+        "end_offset": 249,
+        "start": 19.6,
+        "end": 19.92
+      },
+      {
+        "word": "previously",
+        "start_offset": 261,
+        "end_offset": 277,
+        "start": 20.88,
+        "end": 22.16
+      },
+      {
+        "word": "stated.",
+        "start_offset": 289,
+        "end_offset": 300,
+        "start": 23.12,
+        "end": 24.0
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "060-01.mp3",
+    "audio_duration": 25.05,
+    "transcription_time": 0.09,
+    "rtfx": 286.64,
+    "timestamp": "2026-01-06T21:53:10.223810+00:00"
+  }
+}

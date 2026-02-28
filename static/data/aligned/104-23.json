@@ -1,0 +1,219 @@
+{
+  "text": "What is the name of the drops? I am Ra. We have a difficulty. Therefore, we shall refrain from answering this query.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What is the name of the drops?",
+        "start_offset": 0,
+        "end_offset": 30,
+        "start": 1.46,
+        "end": 2.961
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 31,
+        "end_offset": 39,
+        "start": 7.122,
+        "end": 9.302
+      },
+      {
+        "segment": "We have a difficulty.",
+        "start_offset": 40,
+        "end_offset": 61,
+        "start": 13.584,
+        "end": 20.525
+      },
+      {
+        "segment": "Therefore, we shall refrain from answering this query.",
+        "start_offset": 62,
+        "end_offset": 116,
+        "start": 24.506,
+        "end": 40.831
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 1.46,
+        "end": 1.6,
+        "score": -3.1703
+      },
+      {
+        "word": "is",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 1.64,
+        "end": 1.74,
+        "score": -1.8908
+      },
+      {
+        "word": "the",
+        "start_offset": 8,
+        "end_offset": 11,
+        "start": 1.78,
+        "end": 1.86,
+        "score": -1.984
+      },
+      {
+        "word": "name",
+        "start_offset": 12,
+        "end_offset": 16,
+        "start": 1.961,
+        "end": 2.281,
+        "score": -1.7756
+      },
+      {
+        "word": "of",
+        "start_offset": 17,
+        "end_offset": 19,
+        "start": 2.341,
+        "end": 2.401,
+        "score": -1.5719
+      },
+      {
+        "word": "the",
+        "start_offset": 20,
+        "end_offset": 23,
+        "start": 2.441,
+        "end": 2.521,
+        "score": -2.1394
+      },
+      {
+        "word": "drops?",
+        "start_offset": 24,
+        "end_offset": 30,
+        "start": 2.581,
+        "end": 2.961,
+        "score": -2.8372
+      },
+      {
+        "word": "I",
+        "start_offset": 31,
+        "end_offset": 32,
+        "start": 7.122,
+        "end": 7.142,
+        "score": -1.6775
+      },
+      {
+        "word": "am",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 7.922,
+        "end": 8.222,
+        "score": -2.4249
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 9.162,
+        "end": 9.302,
+        "score": -2.4618
+      },
+      {
+        "word": "We",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 13.584,
+        "end": 13.744,
+        "score": -1.0769
+      },
+      {
+        "word": "have",
+        "start_offset": 43,
+        "end_offset": 47,
+        "start": 15.524,
+        "end": 16.144,
+        "score": -1.3845
+      },
+      {
+        "word": "a",
+        "start_offset": 48,
+        "end_offset": 49,
+        "start": 18.045,
+        "end": 18.065,
+        "score": -1.2205
+      },
+      {
+        "word": "difficulty.",
+        "start_offset": 50,
+        "end_offset": 61,
+        "start": 19.425,
+        "end": 20.525,
+        "score": -1.0184
+      },
+      {
+        "word": "Therefore,",
+        "start_offset": 62,
+        "end_offset": 72,
+        "start": 24.506,
+        "end": 25.547,
+        "score": -0.9223
+      },
+      {
+        "word": "we",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 27.767,
+        "end": 27.887,
+        "score": -1.1619
+      },
+      {
+        "word": "shall",
+        "start_offset": 76,
+        "end_offset": 81,
+        "start": 28.868,
+        "end": 29.308,
+        "score": -1.7015
+      },
+      {
+        "word": "refrain",
+        "start_offset": 82,
+        "end_offset": 89,
+        "start": 30.708,
+        "end": 31.648,
+        "score": -1.5286
+      },
+      {
+        "word": "from",
+        "start_offset": 90,
+        "end_offset": 94,
+        "start": 33.649,
+        "end": 34.049,
+        "score": -0.9178
+      },
+      {
+        "word": "answering",
+        "start_offset": 95,
+        "end_offset": 104,
+        "start": 36.79,
+        "end": 37.65,
+        "score": -1.0615
+      },
+      {
+        "word": "this",
+        "start_offset": 105,
+        "end_offset": 109,
+        "start": 38.77,
+        "end": 39.11,
+        "score": -0.9209
+      },
+      {
+        "word": "query.",
+        "start_offset": 110,
+        "end_offset": 116,
+        "start": 40.331,
+        "end": 40.831,
+        "score": -1.894
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "104-23.mp3",
+    "audio_duration": 42.0311,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

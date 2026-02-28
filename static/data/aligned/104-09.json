@@ -1,0 +1,420 @@
+{
+  "text": "Well, does it seem that the cat will lose all of its vision in the near future, or is the cat very near death? I am Ra. The one known as Gandalf will not lose eyesight or life on most possibility/probability vortices for three of your seasons, approximately.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Well, does it seem that the cat will lose all of its vision in the near future, or is the cat very near death?",
+        "start_offset": 0,
+        "end_offset": 110,
+        "start": 2.741,
+        "end": 13.743
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 111,
+        "end_offset": 119,
+        "start": 18.984,
+        "end": 21.564
+      },
+      {
+        "segment": "The one known as Gandalf will not lose eyesight or life on most possibility/probability vortices for three of your seasons, approximately.",
+        "start_offset": 120,
+        "end_offset": 258,
+        "start": 27.805,
+        "end": 74.275
+      }
+    ],
+    "word": [
+      {
+        "word": "Well,",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.741,
+        "end": 2.961,
+        "score": -1.8285
+      },
+      {
+        "word": "does",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 5.341,
+        "end": 5.521,
+        "score": -2.5269
+      },
+      {
+        "word": "it",
+        "start_offset": 11,
+        "end_offset": 13,
+        "start": 5.581,
+        "end": 6.441,
+        "score": -3.4474
+      },
+      {
+        "word": "seem",
+        "start_offset": 14,
+        "end_offset": 18,
+        "start": 6.561,
+        "end": 6.761,
+        "score": -2.1251
+      },
+      {
+        "word": "that",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 6.781,
+        "end": 6.881,
+        "score": -5.1851
+      },
+      {
+        "word": "the",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 6.901,
+        "end": 7.001,
+        "score": -1.765
+      },
+      {
+        "word": "cat",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 7.041,
+        "end": 7.401,
+        "score": -1.1815
+      },
+      {
+        "word": "will",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 7.942,
+        "end": 8.142,
+        "score": -4.3323
+      },
+      {
+        "word": "lose",
+        "start_offset": 37,
+        "end_offset": 41,
+        "start": 8.162,
+        "end": 8.342,
+        "score": -4.1887
+      },
+      {
+        "word": "all",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 8.902,
+        "end": 9.042,
+        "score": -2.2157
+      },
+      {
+        "word": "of",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 9.082,
+        "end": 9.182,
+        "score": -2.4129
+      },
+      {
+        "word": "its",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 9.242,
+        "end": 9.382,
+        "score": -1.5762
+      },
+      {
+        "word": "vision",
+        "start_offset": 53,
+        "end_offset": 59,
+        "start": 9.502,
+        "end": 9.882,
+        "score": -1.1864
+      },
+      {
+        "word": "in",
+        "start_offset": 60,
+        "end_offset": 62,
+        "start": 11.182,
+        "end": 11.222,
+        "score": -1.6256
+      },
+      {
+        "word": "the",
+        "start_offset": 63,
+        "end_offset": 66,
+        "start": 11.262,
+        "end": 11.342,
+        "score": -1.4352
+      },
+      {
+        "word": "near",
+        "start_offset": 67,
+        "end_offset": 71,
+        "start": 11.382,
+        "end": 11.542,
+        "score": -1.4463
+      },
+      {
+        "word": "future,",
+        "start_offset": 72,
+        "end_offset": 79,
+        "start": 11.602,
+        "end": 12.062,
+        "score": -1.4215
+      },
+      {
+        "word": "or",
+        "start_offset": 80,
+        "end_offset": 82,
+        "start": 12.342,
+        "end": 12.442,
+        "score": -1.7234
+      },
+      {
+        "word": "is",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 12.502,
+        "end": 12.582,
+        "score": -2.4445
+      },
+      {
+        "word": "the",
+        "start_offset": 86,
+        "end_offset": 89,
+        "start": 12.622,
+        "end": 12.702,
+        "score": -2.2361
+      },
+      {
+        "word": "cat",
+        "start_offset": 90,
+        "end_offset": 93,
+        "start": 12.743,
+        "end": 12.923,
+        "score": -2.4623
+      },
+      {
+        "word": "very",
+        "start_offset": 94,
+        "end_offset": 98,
+        "start": 12.963,
+        "end": 13.163,
+        "score": -3.2668
+      },
+      {
+        "word": "near",
+        "start_offset": 99,
+        "end_offset": 103,
+        "start": 13.243,
+        "end": 13.383,
+        "score": -2.2386
+      },
+      {
+        "word": "death?",
+        "start_offset": 104,
+        "end_offset": 110,
+        "start": 13.443,
+        "end": 13.743,
+        "score": -1.5687
+      },
+      {
+        "word": "I",
+        "start_offset": 111,
+        "end_offset": 112,
+        "start": 18.984,
+        "end": 19.004,
+        "score": -1.3593
+      },
+      {
+        "word": "am",
+        "start_offset": 113,
+        "end_offset": 115,
+        "start": 19.864,
+        "end": 20.164,
+        "score": -1.9766
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 116,
+        "end_offset": 119,
+        "start": 21.404,
+        "end": 21.564,
+        "score": -2.485
+      },
+      {
+        "word": "The",
+        "start_offset": 120,
+        "end_offset": 123,
+        "start": 27.805,
+        "end": 27.925,
+        "score": -0.8222
+      },
+      {
+        "word": "one",
+        "start_offset": 124,
+        "end_offset": 127,
+        "start": 28.326,
+        "end": 28.626,
+        "score": -0.9248
+      },
+      {
+        "word": "known",
+        "start_offset": 128,
+        "end_offset": 133,
+        "start": 28.966,
+        "end": 29.406,
+        "score": -0.7724
+      },
+      {
+        "word": "as",
+        "start_offset": 134,
+        "end_offset": 136,
+        "start": 29.786,
+        "end": 30.186,
+        "score": -0.7124
+      },
+      {
+        "word": "Gandalf",
+        "start_offset": 137,
+        "end_offset": 144,
+        "start": 30.466,
+        "end": 31.526,
+        "score": -1.0621
+      },
+      {
+        "word": "will",
+        "start_offset": 145,
+        "end_offset": 149,
+        "start": 35.507,
+        "end": 35.867,
+        "score": -1.3654
+      },
+      {
+        "word": "not",
+        "start_offset": 150,
+        "end_offset": 153,
+        "start": 36.507,
+        "end": 36.907,
+        "score": -0.8508
+      },
+      {
+        "word": "lose",
+        "start_offset": 154,
+        "end_offset": 158,
+        "start": 38.087,
+        "end": 38.588,
+        "score": -1.013
+      },
+      {
+        "word": "eyesight",
+        "start_offset": 159,
+        "end_offset": 167,
+        "start": 39.948,
+        "end": 41.288,
+        "score": -2.1168
+      },
+      {
+        "word": "or",
+        "start_offset": 168,
+        "end_offset": 170,
+        "start": 42.568,
+        "end": 42.808,
+        "score": -0.8076
+      },
+      {
+        "word": "life",
+        "start_offset": 171,
+        "end_offset": 175,
+        "start": 43.749,
+        "end": 44.329,
+        "score": -1.0394
+      },
+      {
+        "word": "on",
+        "start_offset": 176,
+        "end_offset": 178,
+        "start": 46.549,
+        "end": 46.809,
+        "score": -0.7401
+      },
+      {
+        "word": "most",
+        "start_offset": 179,
+        "end_offset": 183,
+        "start": 47.469,
+        "end": 47.989,
+        "score": -0.713
+      },
+      {
+        "word": "possibility/probability",
+        "start_offset": 184,
+        "end_offset": 207,
+        "start": 49.07,
+        "end": 53.671,
+        "score": -0.7142
+      },
+      {
+        "word": "vortices",
+        "start_offset": 208,
+        "end_offset": 216,
+        "start": 55.031,
+        "end": 56.351,
+        "score": -1.1102
+      },
+      {
+        "word": "for",
+        "start_offset": 217,
+        "end_offset": 220,
+        "start": 57.951,
+        "end": 58.491,
+        "score": -0.815
+      },
+      {
+        "word": "three",
+        "start_offset": 221,
+        "end_offset": 226,
+        "start": 65.133,
+        "end": 65.633,
+        "score": -1.7472
+      },
+      {
+        "word": "of",
+        "start_offset": 227,
+        "end_offset": 229,
+        "start": 66.173,
+        "end": 66.533,
+        "score": -1.4552
+      },
+      {
+        "word": "your",
+        "start_offset": 230,
+        "end_offset": 234,
+        "start": 66.833,
+        "end": 67.173,
+        "score": -1.8409
+      },
+      {
+        "word": "seasons,",
+        "start_offset": 235,
+        "end_offset": 243,
+        "start": 68.253,
+        "end": 69.154,
+        "score": -0.7372
+      },
+      {
+        "word": "approximately.",
+        "start_offset": 244,
+        "end_offset": 258,
+        "start": 71.954,
+        "end": 74.275,
+        "score": -1.744
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "104-09.mp3",
+    "audio_duration": 77.0351,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

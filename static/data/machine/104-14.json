@@ -1,0 +1,317 @@
+{
+  "text": "Good. We administered the drops you spoke of that would help his asight so that he wouldn't uh find the solar so that he wouldn't be confounded or is there any way we can do that? I it is unlikely.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Good.",
+        "start_offset": 28,
+        "end_offset": 38,
+        "start": 2.24,
+        "end": 3.04
+      },
+      {
+        "segment": "We administered the drops you spoke of that would help his asight so that he wouldn't uh find the solar so that he wouldn't be confounded or is there any way we can do that?",
+        "start_offset": 55,
+        "end_offset": 235,
+        "start": 4.4,
+        "end": 18.8
+      },
+      {
+        "segment": "I it is unlikely.",
+        "start_offset": 274,
+        "end_offset": 449,
+        "start": 21.92,
+        "end": 35.92
+      }
+    ],
+    "word": [
+      {
+        "word": "Good.",
+        "start_offset": 28,
+        "end_offset": 38,
+        "start": 2.24,
+        "end": 3.04
+      },
+      {
+        "word": "We",
+        "start_offset": 55,
+        "end_offset": 58,
+        "start": 4.4,
+        "end": 4.64
+      },
+      {
+        "word": "administered",
+        "start_offset": 59,
+        "end_offset": 67,
+        "start": 4.72,
+        "end": 5.36
+      },
+      {
+        "word": "the",
+        "start_offset": 67,
+        "end_offset": 69,
+        "start": 5.36,
+        "end": 5.5200000000000005
+      },
+      {
+        "word": "drops",
+        "start_offset": 69,
+        "end_offset": 74,
+        "start": 5.5200000000000005,
+        "end": 5.92
+      },
+      {
+        "word": "you",
+        "start_offset": 74,
+        "end_offset": 76,
+        "start": 5.92,
+        "end": 6.08
+      },
+      {
+        "word": "spoke",
+        "start_offset": 76,
+        "end_offset": 81,
+        "start": 6.08,
+        "end": 6.48
+      },
+      {
+        "word": "of",
+        "start_offset": 81,
+        "end_offset": 83,
+        "start": 6.48,
+        "end": 6.640000000000001
+      },
+      {
+        "word": "that",
+        "start_offset": 85,
+        "end_offset": 88,
+        "start": 6.8,
+        "end": 7.04
+      },
+      {
+        "word": "would",
+        "start_offset": 88,
+        "end_offset": 90,
+        "start": 7.04,
+        "end": 7.2
+      },
+      {
+        "word": "help",
+        "start_offset": 90,
+        "end_offset": 94,
+        "start": 7.2,
+        "end": 7.5200000000000005
+      },
+      {
+        "word": "his",
+        "start_offset": 94,
+        "end_offset": 97,
+        "start": 7.5200000000000005,
+        "end": 7.76
+      },
+      {
+        "word": "asight",
+        "start_offset": 97,
+        "end_offset": 103,
+        "start": 7.76,
+        "end": 8.24
+      },
+      {
+        "word": "so",
+        "start_offset": 107,
+        "end_offset": 109,
+        "start": 8.56,
+        "end": 8.72
+      },
+      {
+        "word": "that",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 8.72,
+        "end": 8.88
+      },
+      {
+        "word": "he",
+        "start_offset": 111,
+        "end_offset": 114,
+        "start": 8.88,
+        "end": 9.120000000000001
+      },
+      {
+        "word": "wouldn't",
+        "start_offset": 114,
+        "end_offset": 127,
+        "start": 9.120000000000001,
+        "end": 10.16
+      },
+      {
+        "word": "uh",
+        "start_offset": 133,
+        "end_offset": 136,
+        "start": 10.64,
+        "end": 10.88
+      },
+      {
+        "word": "find",
+        "start_offset": 139,
+        "end_offset": 145,
+        "start": 11.120000000000001,
+        "end": 11.6
+      },
+      {
+        "word": "the",
+        "start_offset": 149,
+        "end_offset": 152,
+        "start": 11.92,
+        "end": 12.16
+      },
+      {
+        "word": "solar",
+        "start_offset": 165,
+        "end_offset": 170,
+        "start": 13.200000000000001,
+        "end": 13.6
+      },
+      {
+        "word": "so",
+        "start_offset": 172,
+        "end_offset": 175,
+        "start": 13.76,
+        "end": 14.0
+      },
+      {
+        "word": "that",
+        "start_offset": 175,
+        "end_offset": 177,
+        "start": 14.0,
+        "end": 14.16
+      },
+      {
+        "word": "he",
+        "start_offset": 177,
+        "end_offset": 179,
+        "start": 14.16,
+        "end": 14.32
+      },
+      {
+        "word": "wouldn't",
+        "start_offset": 179,
+        "end_offset": 182,
+        "start": 14.32,
+        "end": 14.56
+      },
+      {
+        "word": "be",
+        "start_offset": 182,
+        "end_offset": 183,
+        "start": 14.56,
+        "end": 14.64
+      },
+      {
+        "word": "confounded",
+        "start_offset": 185,
+        "end_offset": 194,
+        "start": 14.8,
+        "end": 15.52
+      },
+      {
+        "word": "or",
+        "start_offset": 197,
+        "end_offset": 201,
+        "start": 15.76,
+        "end": 16.080000000000002
+      },
+      {
+        "word": "is",
+        "start_offset": 207,
+        "end_offset": 209,
+        "start": 16.56,
+        "end": 16.72
+      },
+      {
+        "word": "there",
+        "start_offset": 214,
+        "end_offset": 216,
+        "start": 17.12,
+        "end": 17.28
+      },
+      {
+        "word": "any",
+        "start_offset": 216,
+        "end_offset": 219,
+        "start": 17.28,
+        "end": 17.52
+      },
+      {
+        "word": "way",
+        "start_offset": 219,
+        "end_offset": 222,
+        "start": 17.52,
+        "end": 17.76
+      },
+      {
+        "word": "we",
+        "start_offset": 222,
+        "end_offset": 224,
+        "start": 17.76,
+        "end": 17.92
+      },
+      {
+        "word": "can",
+        "start_offset": 224,
+        "end_offset": 227,
+        "start": 17.92,
+        "end": 18.16
+      },
+      {
+        "word": "do",
+        "start_offset": 227,
+        "end_offset": 231,
+        "start": 18.16,
+        "end": 18.48
+      },
+      {
+        "word": "that?",
+        "start_offset": 231,
+        "end_offset": 235,
+        "start": 18.48,
+        "end": 18.8
+      },
+      {
+        "word": "I",
+        "start_offset": 274,
+        "end_offset": 278,
+        "start": 21.92,
+        "end": 22.240000000000002
+      },
+      {
+        "word": "it",
+        "start_offset": 394,
+        "end_offset": 398,
+        "start": 31.52,
+        "end": 31.84
+      },
+      {
+        "word": "is",
+        "start_offset": 406,
+        "end_offset": 410,
+        "start": 32.480000000000004,
+        "end": 32.8
+      },
+      {
+        "word": "unlikely.",
+        "start_offset": 433,
+        "end_offset": 449,
+        "start": 34.64,
+        "end": 35.92
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "104-14.mp3",
+    "audio_duration": 39.03,
+    "transcription_time": 0.1,
+    "rtfx": 376.24,
+    "timestamp": "2026-01-06T22:00:52.088840+00:00"
+  }
+}

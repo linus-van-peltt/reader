@@ -1,0 +1,148 @@
+{
+  "text": "Were the lines at Nazca included in this? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Were the lines at Nazca included in this?",
+        "start_offset": 0,
+        "end_offset": 41,
+        "start": 2.742,
+        "end": 7.246
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 42,
+        "end_offset": 50,
+        "start": 13.11,
+        "end": 15.072
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 51,
+        "end_offset": 67,
+        "start": 16.413,
+        "end": 19.496
+      }
+    ],
+    "word": [
+      {
+        "word": "Were",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.742,
+        "end": 2.902,
+        "score": -3.6427
+      },
+      {
+        "word": "the",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 2.922,
+        "end": 3.022,
+        "score": -2.3455
+      },
+      {
+        "word": "lines",
+        "start_offset": 9,
+        "end_offset": 14,
+        "start": 3.803,
+        "end": 4.283,
+        "score": -1.882
+      },
+      {
+        "word": "at",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 4.323,
+        "end": 4.424,
+        "score": -0.7869
+      },
+      {
+        "word": "Nazca",
+        "start_offset": 18,
+        "end_offset": 23,
+        "start": 4.524,
+        "end": 5.064,
+        "score": -2.5668
+      },
+      {
+        "word": "included",
+        "start_offset": 24,
+        "end_offset": 32,
+        "start": 5.945,
+        "end": 6.745,
+        "score": -0.722
+      },
+      {
+        "word": "in",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 6.865,
+        "end": 6.946,
+        "score": -0.7421
+      },
+      {
+        "word": "this?",
+        "start_offset": 36,
+        "end_offset": 41,
+        "start": 6.986,
+        "end": 7.246,
+        "score": -1.0466
+      },
+      {
+        "word": "I",
+        "start_offset": 42,
+        "end_offset": 43,
+        "start": 13.11,
+        "end": 13.13,
+        "score": -0.9602
+      },
+      {
+        "word": "am",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 13.991,
+        "end": 14.291,
+        "score": -2.1467
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 47,
+        "end_offset": 50,
+        "start": 14.932,
+        "end": 15.072,
+        "score": -0.8793
+      },
+      {
+        "word": "This",
+        "start_offset": 51,
+        "end_offset": 55,
+        "start": 16.413,
+        "end": 16.833,
+        "score": -0.767
+      },
+      {
+        "word": "is",
+        "start_offset": 56,
+        "end_offset": 58,
+        "start": 17.534,
+        "end": 17.874,
+        "score": -0.7234
+      },
+      {
+        "word": "correct.",
+        "start_offset": 59,
+        "end_offset": 67,
+        "start": 18.615,
+        "end": 19.496,
+        "score": -0.7764
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "020-39.mp3",
+    "audio_duration": 20.0359,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

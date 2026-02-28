@@ -1,0 +1,394 @@
+{
+  "text": "Is there anything we can do to make the instrument more comfortable? I am ra small I just mix you may make how ever we are now able to use this instrument with many more distortion and without depleting the instrument to any significant extent. Do you wish to ask for?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there anything we can do to make the instrument more comfortable?",
+        "start_offset": 28,
+        "end_offset": 70,
+        "start": 2.24,
+        "end": 5.6000000000000005
+      },
+      {
+        "segment": "I am ra small I just mix you may make how ever we are now able to use this instrument with many more distortion and without depleting the instrument to any significant extent.",
+        "start_offset": 161,
+        "end_offset": 861,
+        "start": 12.88,
+        "end": 68.88
+      },
+      {
+        "segment": "Do you wish to ask for?",
+        "start_offset": 908,
+        "end_offset": 986,
+        "start": 72.64,
+        "end": 78.88
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 2.24,
+        "end": 2.56
+      },
+      {
+        "word": "there",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 2.56,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "anything",
+        "start_offset": 35,
+        "end_offset": 40,
+        "start": 2.8000000000000003,
+        "end": 3.2
+      },
+      {
+        "word": "we",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 3.2,
+        "end": 3.36
+      },
+      {
+        "word": "can",
+        "start_offset": 42,
+        "end_offset": 44,
+        "start": 3.36,
+        "end": 3.52
+      },
+      {
+        "word": "do",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 3.52,
+        "end": 3.68
+      },
+      {
+        "word": "to",
+        "start_offset": 46,
+        "end_offset": 47,
+        "start": 3.68,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "make",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 3.7600000000000002,
+        "end": 3.92
+      },
+      {
+        "word": "the",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 3.92,
+        "end": 4.16
+      },
+      {
+        "word": "instrument",
+        "start_offset": 52,
+        "end_offset": 58,
+        "start": 4.16,
+        "end": 4.64
+      },
+      {
+        "word": "more",
+        "start_offset": 58,
+        "end_offset": 61,
+        "start": 4.64,
+        "end": 4.88
+      },
+      {
+        "word": "comfortable?",
+        "start_offset": 61,
+        "end_offset": 70,
+        "start": 4.88,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "I",
+        "start_offset": 161,
+        "end_offset": 165,
+        "start": 12.88,
+        "end": 13.200000000000001
+      },
+      {
+        "word": "am",
+        "start_offset": 179,
+        "end_offset": 182,
+        "start": 14.32,
+        "end": 14.56
+      },
+      {
+        "word": "ra",
+        "start_offset": 198,
+        "end_offset": 201,
+        "start": 15.84,
+        "end": 16.080000000000002
+      },
+      {
+        "word": "small",
+        "start_offset": 275,
+        "end_offset": 283,
+        "start": 22.0,
+        "end": 22.64
+      },
+      {
+        "word": "I",
+        "start_offset": 296,
+        "end_offset": 298,
+        "start": 23.68,
+        "end": 23.84
+      },
+      {
+        "word": "just",
+        "start_offset": 304,
+        "end_offset": 308,
+        "start": 24.32,
+        "end": 24.64
+      },
+      {
+        "word": "mix",
+        "start_offset": 314,
+        "end_offset": 321,
+        "start": 25.12,
+        "end": 25.68
+      },
+      {
+        "word": "you",
+        "start_offset": 343,
+        "end_offset": 347,
+        "start": 27.44,
+        "end": 27.76
+      },
+      {
+        "word": "may",
+        "start_offset": 359,
+        "end_offset": 363,
+        "start": 28.72,
+        "end": 29.04
+      },
+      {
+        "word": "make",
+        "start_offset": 375,
+        "end_offset": 379,
+        "start": 30.0,
+        "end": 30.32
+      },
+      {
+        "word": "how",
+        "start_offset": 395,
+        "end_offset": 399,
+        "start": 31.6,
+        "end": 31.92
+      },
+      {
+        "word": "ever",
+        "start_offset": 411,
+        "end_offset": 415,
+        "start": 32.88,
+        "end": 33.2
+      },
+      {
+        "word": "we",
+        "start_offset": 431,
+        "end_offset": 435,
+        "start": 34.480000000000004,
+        "end": 34.800000000000004
+      },
+      {
+        "word": "are",
+        "start_offset": 447,
+        "end_offset": 451,
+        "start": 35.76,
+        "end": 36.08
+      },
+      {
+        "word": "now",
+        "start_offset": 459,
+        "end_offset": 463,
+        "start": 36.72,
+        "end": 37.04
+      },
+      {
+        "word": "able",
+        "start_offset": 479,
+        "end_offset": 487,
+        "start": 38.32,
+        "end": 38.96
+      },
+      {
+        "word": "to",
+        "start_offset": 495,
+        "end_offset": 499,
+        "start": 39.6,
+        "end": 39.92
+      },
+      {
+        "word": "use",
+        "start_offset": 511,
+        "end_offset": 515,
+        "start": 40.88,
+        "end": 41.2
+      },
+      {
+        "word": "this",
+        "start_offset": 527,
+        "end_offset": 531,
+        "start": 42.160000000000004,
+        "end": 42.480000000000004
+      },
+      {
+        "word": "instrument",
+        "start_offset": 547,
+        "end_offset": 559,
+        "start": 43.76,
+        "end": 44.72
+      },
+      {
+        "word": "with",
+        "start_offset": 575,
+        "end_offset": 579,
+        "start": 46.0,
+        "end": 46.32
+      },
+      {
+        "word": "many",
+        "start_offset": 591,
+        "end_offset": 602,
+        "start": 47.28,
+        "end": 48.160000000000004
+      },
+      {
+        "word": "more",
+        "start_offset": 609,
+        "end_offset": 612,
+        "start": 48.72,
+        "end": 48.96
+      },
+      {
+        "word": "distortion",
+        "start_offset": 636,
+        "end_offset": 652,
+        "start": 50.88,
+        "end": 52.160000000000004
+      },
+      {
+        "word": "and",
+        "start_offset": 667,
+        "end_offset": 671,
+        "start": 53.36,
+        "end": 53.68
+      },
+      {
+        "word": "without",
+        "start_offset": 683,
+        "end_offset": 699,
+        "start": 54.64,
+        "end": 55.92
+      },
+      {
+        "word": "depleting",
+        "start_offset": 718,
+        "end_offset": 732,
+        "start": 57.44,
+        "end": 58.56
+      },
+      {
+        "word": "the",
+        "start_offset": 736,
+        "end_offset": 739,
+        "start": 58.88,
+        "end": 59.120000000000005
+      },
+      {
+        "word": "instrument",
+        "start_offset": 755,
+        "end_offset": 766,
+        "start": 60.4,
+        "end": 61.28
+      },
+      {
+        "word": "to",
+        "start_offset": 786,
+        "end_offset": 790,
+        "start": 62.88,
+        "end": 63.2
+      },
+      {
+        "word": "any",
+        "start_offset": 798,
+        "end_offset": 802,
+        "start": 63.84,
+        "end": 64.16
+      },
+      {
+        "word": "significant",
+        "start_offset": 814,
+        "end_offset": 838,
+        "start": 65.12,
+        "end": 67.04
+      },
+      {
+        "word": "extent.",
+        "start_offset": 850,
+        "end_offset": 861,
+        "start": 68.0,
+        "end": 68.88
+      },
+      {
+        "word": "Do",
+        "start_offset": 908,
+        "end_offset": 912,
+        "start": 72.64,
+        "end": 72.96000000000001
+      },
+      {
+        "word": "you",
+        "start_offset": 920,
+        "end_offset": 924,
+        "start": 73.60000000000001,
+        "end": 73.92
+      },
+      {
+        "word": "wish",
+        "start_offset": 936,
+        "end_offset": 944,
+        "start": 74.88,
+        "end": 75.52
+      },
+      {
+        "word": "to",
+        "start_offset": 952,
+        "end_offset": 956,
+        "start": 76.16,
+        "end": 76.48
+      },
+      {
+        "word": "ask",
+        "start_offset": 968,
+        "end_offset": 976,
+        "start": 77.44,
+        "end": 78.08
+      },
+      {
+        "word": "for?",
+        "start_offset": 983,
+        "end_offset": 986,
+        "start": 78.64,
+        "end": 78.88
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "007-18.mp3",
+    "audio_duration": 80.04,
+    "transcription_time": 0.14,
+    "rtfx": 574.68,
+    "timestamp": "2026-01-06T21:46:18.212689+00:00"
+  }
+}

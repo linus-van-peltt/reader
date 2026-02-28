@@ -1,0 +1,227 @@
+{
+  "text": "Does the instrument know who these people are, Stuart and Douglas? I don't know who they are. I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Does the instrument know who these people are, Stuart and Douglas?",
+        "start_offset": 0,
+        "end_offset": 66,
+        "start": 2.601,
+        "end": 6.202
+      },
+      {
+        "segment": "I don't know who they are.",
+        "start_offset": 67,
+        "end_offset": 93,
+        "start": 6.302,
+        "end": 7.382
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 94,
+        "end_offset": 102,
+        "start": 9.643,
+        "end": 11.364
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 103,
+        "end_offset": 119,
+        "start": 13.124,
+        "end": 16.606
+      }
+    ],
+    "word": [
+      {
+        "word": "Does",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.601,
+        "end": 2.841,
+        "score": -2.917
+      },
+      {
+        "word": "the",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 2.881,
+        "end": 2.981,
+        "score": -0.8319
+      },
+      {
+        "word": "instrument",
+        "start_offset": 9,
+        "end_offset": 19,
+        "start": 3.081,
+        "end": 3.601,
+        "score": -0.6997
+      },
+      {
+        "word": "know",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 3.741,
+        "end": 3.961,
+        "score": -0.9918
+      },
+      {
+        "word": "who",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 4.081,
+        "end": 4.201,
+        "score": -0.7563
+      },
+      {
+        "word": "these",
+        "start_offset": 29,
+        "end_offset": 34,
+        "start": 4.441,
+        "end": 4.682,
+        "score": -1.1889
+      },
+      {
+        "word": "people",
+        "start_offset": 35,
+        "end_offset": 41,
+        "start": 4.742,
+        "end": 5.062,
+        "score": -0.6996
+      },
+      {
+        "word": "are,",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 5.182,
+        "end": 5.322,
+        "score": -0.7035
+      },
+      {
+        "word": "Stuart",
+        "start_offset": 47,
+        "end_offset": 53,
+        "start": 5.382,
+        "end": 5.702,
+        "score": -2.4682
+      },
+      {
+        "word": "and",
+        "start_offset": 54,
+        "end_offset": 57,
+        "start": 5.722,
+        "end": 5.802,
+        "score": -2.7072
+      },
+      {
+        "word": "Douglas?",
+        "start_offset": 58,
+        "end_offset": 66,
+        "start": 5.842,
+        "end": 6.202,
+        "score": -1.5893
+      },
+      {
+        "word": "I",
+        "start_offset": 67,
+        "end_offset": 68,
+        "start": 6.302,
+        "end": 6.322,
+        "score": -4.1254
+      },
+      {
+        "word": "don't",
+        "start_offset": 69,
+        "end_offset": 74,
+        "start": 6.402,
+        "end": 6.782,
+        "score": -4.0624
+      },
+      {
+        "word": "know",
+        "start_offset": 75,
+        "end_offset": 79,
+        "start": 6.802,
+        "end": 6.942,
+        "score": -5.4024
+      },
+      {
+        "word": "who",
+        "start_offset": 80,
+        "end_offset": 83,
+        "start": 6.962,
+        "end": 7.022,
+        "score": -3.1886
+      },
+      {
+        "word": "they",
+        "start_offset": 84,
+        "end_offset": 88,
+        "start": 7.062,
+        "end": 7.242,
+        "score": -1.7533
+      },
+      {
+        "word": "are.",
+        "start_offset": 89,
+        "end_offset": 93,
+        "start": 7.262,
+        "end": 7.382,
+        "score": -2.5011
+      },
+      {
+        "word": "I",
+        "start_offset": 94,
+        "end_offset": 95,
+        "start": 9.643,
+        "end": 9.663,
+        "score": -3.1001
+      },
+      {
+        "word": "am",
+        "start_offset": 96,
+        "end_offset": 98,
+        "start": 10.343,
+        "end": 10.704,
+        "score": -4.9164
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 99,
+        "end_offset": 102,
+        "start": 11.244,
+        "end": 11.364,
+        "score": -7.1475
+      },
+      {
+        "word": "This",
+        "start_offset": 103,
+        "end_offset": 107,
+        "start": 13.124,
+        "end": 13.565,
+        "score": -3.0436
+      },
+      {
+        "word": "is",
+        "start_offset": 108,
+        "end_offset": 110,
+        "start": 14.385,
+        "end": 14.685,
+        "score": -2.9128
+      },
+      {
+        "word": "correct.",
+        "start_offset": 111,
+        "end_offset": 119,
+        "start": 15.745,
+        "end": 16.606,
+        "score": -2.592
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "062-12.mp3",
+    "audio_duration": 22.0474,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "text": "Now the processes that we're talking about are processes that occur on many planets in our Milky Way galaxy? Or do they occur on all planets or what percentage? I am these processes occur upon all planets which have a given birth to sublogoi such as yourselves, the percentage of inhabited planets is a proximately a ten a percent.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Now the processes that we're talking about are processes that occur on many planets in our Milky Way galaxy?",
+        "start_offset": 30,
+        "end_offset": 215,
+        "start": 2.4,
+        "end": 17.2
+      },
+      {
+        "segment": "Or do they occur on all planets or what percentage?",
+        "start_offset": 227,
+        "end_offset": 277,
+        "start": 18.16,
+        "end": 22.16
+      },
+      {
+        "segment": "I am these processes occur upon all planets which have a given birth to sublogoi such as yourselves, the percentage of inhabited planets is a proximately a ten a percent.",
+        "start_offset": 307,
+        "end_offset": 985,
+        "start": 24.560000000000002,
+        "end": 78.8
+      }
+    ],
+    "word": [
+      {
+        "word": "Now",
+        "start_offset": 30,
+        "end_offset": 34,
+        "start": 2.4,
+        "end": 2.72
+      },
+      {
+        "word": "the",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 2.8000000000000003,
+        "end": 3.12
+      },
+      {
+        "word": "processes",
+        "start_offset": 39,
+        "end_offset": 46,
+        "start": 3.12,
+        "end": 3.68
+      },
+      {
+        "word": "that",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 3.68,
+        "end": 3.84
+      },
+      {
+        "word": "we're",
+        "start_offset": 48,
+        "end_offset": 53,
+        "start": 3.84,
+        "end": 4.24
+      },
+      {
+        "word": "talking",
+        "start_offset": 53,
+        "end_offset": 62,
+        "start": 4.24,
+        "end": 4.96
+      },
+      {
+        "word": "about",
+        "start_offset": 62,
+        "end_offset": 66,
+        "start": 4.96,
+        "end": 5.28
+      },
+      {
+        "word": "are",
+        "start_offset": 93,
+        "end_offset": 96,
+        "start": 7.44,
+        "end": 7.68
+      },
+      {
+        "word": "processes",
+        "start_offset": 98,
+        "end_offset": 109,
+        "start": 7.84,
+        "end": 8.72
+      },
+      {
+        "word": "that",
+        "start_offset": 109,
+        "end_offset": 112,
+        "start": 8.72,
+        "end": 8.96
+      },
+      {
+        "word": "occur",
+        "start_offset": 112,
+        "end_offset": 122,
+        "start": 8.96,
+        "end": 9.76
+      },
+      {
+        "word": "on",
+        "start_offset": 122,
+        "end_offset": 126,
+        "start": 9.76,
+        "end": 10.08
+      },
+      {
+        "word": "many",
+        "start_offset": 149,
+        "end_offset": 156,
+        "start": 11.92,
+        "end": 12.48
+      },
+      {
+        "word": "planets",
+        "start_offset": 156,
+        "end_offset": 164,
+        "start": 12.48,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "in",
+        "start_offset": 176,
+        "end_offset": 180,
+        "start": 14.08,
+        "end": 14.4
+      },
+      {
+        "word": "our",
+        "start_offset": 184,
+        "end_offset": 187,
+        "start": 14.72,
+        "end": 14.96
+      },
+      {
+        "word": "Milky",
+        "start_offset": 191,
+        "end_offset": 197,
+        "start": 15.280000000000001,
+        "end": 15.76
+      },
+      {
+        "word": "Way",
+        "start_offset": 199,
+        "end_offset": 203,
+        "start": 15.92,
+        "end": 16.240000000000002
+      },
+      {
+        "word": "galaxy?",
+        "start_offset": 203,
+        "end_offset": 215,
+        "start": 16.240000000000002,
+        "end": 17.2
+      },
+      {
+        "word": "Or",
+        "start_offset": 227,
+        "end_offset": 230,
+        "start": 18.16,
+        "end": 18.400000000000002
+      },
+      {
+        "word": "do",
+        "start_offset": 232,
+        "end_offset": 235,
+        "start": 18.56,
+        "end": 18.8
+      },
+      {
+        "word": "they",
+        "start_offset": 235,
+        "end_offset": 237,
+        "start": 18.8,
+        "end": 18.96
+      },
+      {
+        "word": "occur",
+        "start_offset": 237,
+        "end_offset": 242,
+        "start": 18.96,
+        "end": 19.36
+      },
+      {
+        "word": "on",
+        "start_offset": 242,
+        "end_offset": 245,
+        "start": 19.36,
+        "end": 19.6
+      },
+      {
+        "word": "all",
+        "start_offset": 245,
+        "end_offset": 249,
+        "start": 19.6,
+        "end": 19.92
+      },
+      {
+        "word": "planets",
+        "start_offset": 249,
+        "end_offset": 255,
+        "start": 19.92,
+        "end": 20.400000000000002
+      },
+      {
+        "word": "or",
+        "start_offset": 257,
+        "end_offset": 260,
+        "start": 20.56,
+        "end": 20.8
+      },
+      {
+        "word": "what",
+        "start_offset": 262,
+        "end_offset": 266,
+        "start": 20.96,
+        "end": 21.28
+      },
+      {
+        "word": "percentage?",
+        "start_offset": 266,
+        "end_offset": 277,
+        "start": 21.28,
+        "end": 22.16
+      },
+      {
+        "word": "I",
+        "start_offset": 307,
+        "end_offset": 311,
+        "start": 24.560000000000002,
+        "end": 24.88
+      },
+      {
+        "word": "am",
+        "start_offset": 327,
+        "end_offset": 330,
+        "start": 26.16,
+        "end": 26.400000000000002
+      },
+      {
+        "word": "these",
+        "start_offset": 368,
+        "end_offset": 372,
+        "start": 29.44,
+        "end": 29.76
+      },
+      {
+        "word": "processes",
+        "start_offset": 382,
+        "end_offset": 398,
+        "start": 30.560000000000002,
+        "end": 31.84
+      },
+      {
+        "word": "occur",
+        "start_offset": 418,
+        "end_offset": 432,
+        "start": 33.44,
+        "end": 34.56
+      },
+      {
+        "word": "upon",
+        "start_offset": 448,
+        "end_offset": 456,
+        "start": 35.84,
+        "end": 36.480000000000004
+      },
+      {
+        "word": "all",
+        "start_offset": 472,
+        "end_offset": 476,
+        "start": 37.76,
+        "end": 38.08
+      },
+      {
+        "word": "planets",
+        "start_offset": 492,
+        "end_offset": 500,
+        "start": 39.36,
+        "end": 40.0
+      },
+      {
+        "word": "which",
+        "start_offset": 515,
+        "end_offset": 519,
+        "start": 41.2,
+        "end": 41.52
+      },
+      {
+        "word": "have",
+        "start_offset": 535,
+        "end_offset": 539,
+        "start": 42.800000000000004,
+        "end": 43.12
+      },
+      {
+        "word": "a",
+        "start_offset": 547,
+        "end_offset": 548,
+        "start": 43.76,
+        "end": 43.84
+      },
+      {
+        "word": "given",
+        "start_offset": 552,
+        "end_offset": 563,
+        "start": 44.160000000000004,
+        "end": 45.04
+      },
+      {
+        "word": "birth",
+        "start_offset": 570,
+        "end_offset": 582,
+        "start": 45.6,
+        "end": 46.56
+      },
+      {
+        "word": "to",
+        "start_offset": 593,
+        "end_offset": 597,
+        "start": 47.44,
+        "end": 47.76
+      },
+      {
+        "word": "sublogoi",
+        "start_offset": 613,
+        "end_offset": 640,
+        "start": 49.04,
+        "end": 51.2
+      },
+      {
+        "word": "such",
+        "start_offset": 651,
+        "end_offset": 659,
+        "start": 52.08,
+        "end": 52.72
+      },
+      {
+        "word": "as",
+        "start_offset": 667,
+        "end_offset": 671,
+        "start": 53.36,
+        "end": 53.68
+      },
+      {
+        "word": "yourselves,",
+        "start_offset": 687,
+        "end_offset": 702,
+        "start": 54.96,
+        "end": 56.160000000000004
+      },
+      {
+        "word": "the",
+        "start_offset": 732,
+        "end_offset": 736,
+        "start": 58.56,
+        "end": 58.88
+      },
+      {
+        "word": "percentage",
+        "start_offset": 755,
+        "end_offset": 771,
+        "start": 60.4,
+        "end": 61.68
+      },
+      {
+        "word": "of",
+        "start_offset": 787,
+        "end_offset": 791,
+        "start": 62.96,
+        "end": 63.28
+      },
+      {
+        "word": "inhabited",
+        "start_offset": 811,
+        "end_offset": 830,
+        "start": 64.88,
+        "end": 66.4
+      },
+      {
+        "word": "planets",
+        "start_offset": 849,
+        "end_offset": 857,
+        "start": 67.92,
+        "end": 68.56
+      },
+      {
+        "word": "is",
+        "start_offset": 879,
+        "end_offset": 883,
+        "start": 70.32000000000001,
+        "end": 70.64
+      },
+      {
+        "word": "a",
+        "start_offset": 911,
+        "end_offset": 913,
+        "start": 72.88,
+        "end": 73.04
+      },
+      {
+        "word": "proximately",
+        "start_offset": 917,
+        "end_offset": 937,
+        "start": 73.36,
+        "end": 74.96000000000001
+      },
+      {
+        "word": "a",
+        "start_offset": 956,
+        "end_offset": 960,
+        "start": 76.48,
+        "end": 76.8
+      },
+      {
+        "word": "ten",
+        "start_offset": 960,
+        "end_offset": 964,
+        "start": 76.8,
+        "end": 77.12
+      },
+      {
+        "word": "a",
+        "start_offset": 973,
+        "end_offset": 977,
+        "start": 77.84,
+        "end": 78.16
+      },
+      {
+        "word": "percent.",
+        "start_offset": 977,
+        "end_offset": 985,
+        "start": 78.16,
+        "end": 78.8
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "071-09.mp3",
+    "audio_duration": 84.04,
+    "transcription_time": 0.15,
+    "rtfx": 565.65,
+    "timestamp": "2026-01-06T21:55:06.162298+00:00"
+  }
+}

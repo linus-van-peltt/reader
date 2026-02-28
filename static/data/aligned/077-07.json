@@ -1,0 +1,452 @@
+{
+  "text": "The instrument would also like to know if the what we call tuning could be improved during times when we do not communicate with Ra, for that communication. I am Ra. That which has been stated in regard to the latter question will suffice to point the way for the present query.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "The instrument would also like to know if the what we call tuning could be improved during times when we do not communicate with Ra, for that communication.",
+        "start_offset": 0,
+        "end_offset": 156,
+        "start": 2.22,
+        "end": 20.604
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 157,
+        "end_offset": 165,
+        "start": 28.106,
+        "end": 30.926
+      },
+      {
+        "segment": "That which has been stated in regard to the latter question will suffice to point the way for the present query.",
+        "start_offset": 166,
+        "end_offset": 278,
+        "start": 33.007,
+        "end": 67.634
+      }
+    ],
+    "word": [
+      {
+        "word": "The",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.22,
+        "end": 2.32,
+        "score": -0.9368
+      },
+      {
+        "word": "instrument",
+        "start_offset": 4,
+        "end_offset": 14,
+        "start": 2.461,
+        "end": 2.921,
+        "score": -0.7022
+      },
+      {
+        "word": "would",
+        "start_offset": 15,
+        "end_offset": 20,
+        "start": 2.961,
+        "end": 3.081,
+        "score": -1.2412
+      },
+      {
+        "word": "also",
+        "start_offset": 21,
+        "end_offset": 25,
+        "start": 3.121,
+        "end": 3.361,
+        "score": -0.7305
+      },
+      {
+        "word": "like",
+        "start_offset": 26,
+        "end_offset": 30,
+        "start": 3.561,
+        "end": 3.781,
+        "score": -0.8269
+      },
+      {
+        "word": "to",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 3.841,
+        "end": 3.901,
+        "score": -0.7044
+      },
+      {
+        "word": "know",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 3.961,
+        "end": 4.161,
+        "score": -0.7975
+      },
+      {
+        "word": "if",
+        "start_offset": 39,
+        "end_offset": 41,
+        "start": 5.001,
+        "end": 5.141,
+        "score": -0.7176
+      },
+      {
+        "word": "the",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 5.301,
+        "end": 5.441,
+        "score": -1.0177
+      },
+      {
+        "word": "what",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 6.501,
+        "end": 6.661,
+        "score": -0.9818
+      },
+      {
+        "word": "we",
+        "start_offset": 51,
+        "end_offset": 53,
+        "start": 6.701,
+        "end": 6.781,
+        "score": -0.8831
+      },
+      {
+        "word": "call",
+        "start_offset": 54,
+        "end_offset": 58,
+        "start": 6.881,
+        "end": 7.121,
+        "score": -2.1639
+      },
+      {
+        "word": "tuning",
+        "start_offset": 59,
+        "end_offset": 65,
+        "start": 7.241,
+        "end": 7.662,
+        "score": -1.0158
+      },
+      {
+        "word": "could",
+        "start_offset": 66,
+        "end_offset": 71,
+        "start": 9.182,
+        "end": 9.362,
+        "score": -0.7854
+      },
+      {
+        "word": "be",
+        "start_offset": 72,
+        "end_offset": 74,
+        "start": 9.382,
+        "end": 9.462,
+        "score": -0.7736
+      },
+      {
+        "word": "improved",
+        "start_offset": 75,
+        "end_offset": 83,
+        "start": 9.582,
+        "end": 10.662,
+        "score": -0.7747
+      },
+      {
+        "word": "during",
+        "start_offset": 84,
+        "end_offset": 90,
+        "start": 12.883,
+        "end": 13.263,
+        "score": -0.876
+      },
+      {
+        "word": "times",
+        "start_offset": 91,
+        "end_offset": 96,
+        "start": 15.283,
+        "end": 15.763,
+        "score": -2.9402
+      },
+      {
+        "word": "when",
+        "start_offset": 97,
+        "end_offset": 101,
+        "start": 16.923,
+        "end": 17.063,
+        "score": -0.8506
+      },
+      {
+        "word": "we",
+        "start_offset": 102,
+        "end_offset": 104,
+        "start": 17.123,
+        "end": 17.204,
+        "score": -0.8426
+      },
+      {
+        "word": "do",
+        "start_offset": 105,
+        "end_offset": 107,
+        "start": 17.284,
+        "end": 17.364,
+        "score": -0.7849
+      },
+      {
+        "word": "not",
+        "start_offset": 108,
+        "end_offset": 111,
+        "start": 17.464,
+        "end": 17.644,
+        "score": -0.7737
+      },
+      {
+        "word": "communicate",
+        "start_offset": 112,
+        "end_offset": 123,
+        "start": 18.224,
+        "end": 18.824,
+        "score": -0.7198
+      },
+      {
+        "word": "with",
+        "start_offset": 124,
+        "end_offset": 128,
+        "start": 18.844,
+        "end": 18.984,
+        "score": -1.4291
+      },
+      {
+        "word": "Ra,",
+        "start_offset": 129,
+        "end_offset": 132,
+        "start": 19.004,
+        "end": 19.124,
+        "score": -1.9452
+      },
+      {
+        "word": "for",
+        "start_offset": 133,
+        "end_offset": 136,
+        "start": 19.404,
+        "end": 19.604,
+        "score": -0.7661
+      },
+      {
+        "word": "that",
+        "start_offset": 137,
+        "end_offset": 141,
+        "start": 19.644,
+        "end": 19.824,
+        "score": -0.811
+      },
+      {
+        "word": "communication.",
+        "start_offset": 142,
+        "end_offset": 156,
+        "start": 19.884,
+        "end": 20.604,
+        "score": -0.7195
+      },
+      {
+        "word": "I",
+        "start_offset": 157,
+        "end_offset": 158,
+        "start": 28.106,
+        "end": 28.126,
+        "score": -1.7032
+      },
+      {
+        "word": "am",
+        "start_offset": 159,
+        "end_offset": 161,
+        "start": 29.146,
+        "end": 29.406,
+        "score": -2.7344
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 162,
+        "end_offset": 165,
+        "start": 30.786,
+        "end": 30.926,
+        "score": -1.3212
+      },
+      {
+        "word": "That",
+        "start_offset": 166,
+        "end_offset": 170,
+        "start": 33.007,
+        "end": 33.367,
+        "score": -0.7356
+      },
+      {
+        "word": "which",
+        "start_offset": 171,
+        "end_offset": 176,
+        "start": 34.147,
+        "end": 34.487,
+        "score": -0.7404
+      },
+      {
+        "word": "has",
+        "start_offset": 177,
+        "end_offset": 180,
+        "start": 35.227,
+        "end": 35.747,
+        "score": -0.7104
+      },
+      {
+        "word": "been",
+        "start_offset": 181,
+        "end_offset": 185,
+        "start": 36.367,
+        "end": 36.728,
+        "score": -0.7082
+      },
+      {
+        "word": "stated",
+        "start_offset": 186,
+        "end_offset": 192,
+        "start": 37.808,
+        "end": 38.548,
+        "score": -0.6964
+      },
+      {
+        "word": "in",
+        "start_offset": 193,
+        "end_offset": 195,
+        "start": 40.048,
+        "end": 40.308,
+        "score": -0.7109
+      },
+      {
+        "word": "regard",
+        "start_offset": 196,
+        "end_offset": 202,
+        "start": 41.308,
+        "end": 42.129,
+        "score": -0.8006
+      },
+      {
+        "word": "to",
+        "start_offset": 203,
+        "end_offset": 205,
+        "start": 43.509,
+        "end": 43.729,
+        "score": -0.8042
+      },
+      {
+        "word": "the",
+        "start_offset": 206,
+        "end_offset": 209,
+        "start": 44.309,
+        "end": 44.429,
+        "score": -0.8622
+      },
+      {
+        "word": "latter",
+        "start_offset": 210,
+        "end_offset": 216,
+        "start": 47.01,
+        "end": 47.49,
+        "score": -0.7061
+      },
+      {
+        "word": "question",
+        "start_offset": 217,
+        "end_offset": 225,
+        "start": 48.67,
+        "end": 49.33,
+        "score": -0.72
+      },
+      {
+        "word": "will",
+        "start_offset": 226,
+        "end_offset": 230,
+        "start": 51.631,
+        "end": 51.931,
+        "score": -0.8933
+      },
+      {
+        "word": "suffice",
+        "start_offset": 231,
+        "end_offset": 238,
+        "start": 53.071,
+        "end": 53.751,
+        "score": -0.865
+      },
+      {
+        "word": "to",
+        "start_offset": 239,
+        "end_offset": 241,
+        "start": 55.431,
+        "end": 55.651,
+        "score": -0.8531
+      },
+      {
+        "word": "point",
+        "start_offset": 242,
+        "end_offset": 247,
+        "start": 57.212,
+        "end": 57.692,
+        "score": -0.8619
+      },
+      {
+        "word": "the",
+        "start_offset": 248,
+        "end_offset": 251,
+        "start": 59.192,
+        "end": 59.272,
+        "score": -0.7844
+      },
+      {
+        "word": "way",
+        "start_offset": 252,
+        "end_offset": 255,
+        "start": 59.392,
+        "end": 59.752,
+        "score": -0.7423
+      },
+      {
+        "word": "for",
+        "start_offset": 256,
+        "end_offset": 259,
+        "start": 62.153,
+        "end": 62.473,
+        "score": -1.1051
+      },
+      {
+        "word": "the",
+        "start_offset": 260,
+        "end_offset": 263,
+        "start": 64.213,
+        "end": 64.353,
+        "score": -0.8902
+      },
+      {
+        "word": "present",
+        "start_offset": 264,
+        "end_offset": 271,
+        "start": 65.393,
+        "end": 66.053,
+        "score": -0.7516
+      },
+      {
+        "word": "query.",
+        "start_offset": 272,
+        "end_offset": 278,
+        "start": 67.214,
+        "end": 67.634,
+        "score": -1.0126
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "077-07.mp3",
+    "audio_duration": 70.0343,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

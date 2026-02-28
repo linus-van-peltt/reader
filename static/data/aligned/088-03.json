@@ -1,0 +1,338 @@
+{
+  "text": "I assume from this that our fifth-density negative companion is still on R and R. Is this correct? I am Ra. Your fifth-density companion is not accompanying you at this time. However, it is not resting.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I assume from this that our fifth-density negative companion is still on R and R.",
+        "start_offset": 0,
+        "end_offset": 81,
+        "start": 2.841,
+        "end": 9.104
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 82,
+        "end_offset": 98,
+        "start": 9.424,
+        "end": 10.104
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 99,
+        "end_offset": 107,
+        "start": 18.908,
+        "end": 20.489
+      },
+      {
+        "segment": "Your fifth-density companion is not accompanying you at this time.",
+        "start_offset": 108,
+        "end_offset": 174,
+        "start": 26.791,
+        "end": 39.256
+      },
+      {
+        "segment": "However, it is not resting.",
+        "start_offset": 175,
+        "end_offset": 202,
+        "start": 43.258,
+        "end": 49.721
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 2.841,
+        "end": 2.861,
+        "score": -1.1469
+      },
+      {
+        "word": "assume",
+        "start_offset": 2,
+        "end_offset": 8,
+        "start": 2.941,
+        "end": 3.341,
+        "score": -1.21
+      },
+      {
+        "word": "from",
+        "start_offset": 9,
+        "end_offset": 13,
+        "start": 3.381,
+        "end": 3.521,
+        "score": -1.2029
+      },
+      {
+        "word": "this",
+        "start_offset": 14,
+        "end_offset": 18,
+        "start": 3.581,
+        "end": 3.802,
+        "score": -1.4937
+      },
+      {
+        "word": "that",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 3.822,
+        "end": 3.962,
+        "score": -1.6458
+      },
+      {
+        "word": "our",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 4.022,
+        "end": 4.102,
+        "score": -2.1559
+      },
+      {
+        "word": "fifth-density",
+        "start_offset": 28,
+        "end_offset": 41,
+        "start": 4.222,
+        "end": 4.942,
+        "score": -2.7037
+      },
+      {
+        "word": "negative",
+        "start_offset": 42,
+        "end_offset": 50,
+        "start": 5.182,
+        "end": 5.622,
+        "score": -5.0429
+      },
+      {
+        "word": "companion",
+        "start_offset": 51,
+        "end_offset": 60,
+        "start": 7.023,
+        "end": 7.703,
+        "score": -1.5997
+      },
+      {
+        "word": "is",
+        "start_offset": 61,
+        "end_offset": 63,
+        "start": 7.763,
+        "end": 7.863,
+        "score": -1.7381
+      },
+      {
+        "word": "still",
+        "start_offset": 64,
+        "end_offset": 69,
+        "start": 7.943,
+        "end": 8.223,
+        "score": -1.2859
+      },
+      {
+        "word": "on",
+        "start_offset": 70,
+        "end_offset": 72,
+        "start": 8.283,
+        "end": 8.424,
+        "score": -1.3941
+      },
+      {
+        "word": "R",
+        "start_offset": 73,
+        "end_offset": 74,
+        "start": 8.684,
+        "end": 8.704,
+        "score": -1.2167
+      },
+      {
+        "word": "and",
+        "start_offset": 75,
+        "end_offset": 78,
+        "start": 8.744,
+        "end": 8.864,
+        "score": -2.6142
+      },
+      {
+        "word": "R.",
+        "start_offset": 79,
+        "end_offset": 81,
+        "start": 9.084,
+        "end": 9.104,
+        "score": -2.1046
+      },
+      {
+        "word": "Is",
+        "start_offset": 82,
+        "end_offset": 84,
+        "start": 9.424,
+        "end": 9.464,
+        "score": -7.5402
+      },
+      {
+        "word": "this",
+        "start_offset": 85,
+        "end_offset": 89,
+        "start": 9.484,
+        "end": 9.664,
+        "score": -3.197
+      },
+      {
+        "word": "correct?",
+        "start_offset": 90,
+        "end_offset": 98,
+        "start": 9.704,
+        "end": 10.104,
+        "score": -1.8561
+      },
+      {
+        "word": "I",
+        "start_offset": 99,
+        "end_offset": 100,
+        "start": 18.908,
+        "end": 18.928,
+        "score": -1.4834
+      },
+      {
+        "word": "am",
+        "start_offset": 101,
+        "end_offset": 103,
+        "start": 19.508,
+        "end": 19.688,
+        "score": -3.6811
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 104,
+        "end_offset": 107,
+        "start": 20.368,
+        "end": 20.489,
+        "score": -1.4154
+      },
+      {
+        "word": "Your",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 26.791,
+        "end": 27.071,
+        "score": -1.3409
+      },
+      {
+        "word": "fifth-density",
+        "start_offset": 113,
+        "end_offset": 126,
+        "start": 27.551,
+        "end": 28.932,
+        "score": -0.865
+      },
+      {
+        "word": "companion",
+        "start_offset": 127,
+        "end_offset": 136,
+        "start": 29.512,
+        "end": 30.193,
+        "score": -0.9081
+      },
+      {
+        "word": "is",
+        "start_offset": 137,
+        "end_offset": 139,
+        "start": 32.433,
+        "end": 32.694,
+        "score": -0.8122
+      },
+      {
+        "word": "not",
+        "start_offset": 140,
+        "end_offset": 143,
+        "start": 34.494,
+        "end": 34.754,
+        "score": -0.72
+      },
+      {
+        "word": "accompanying",
+        "start_offset": 144,
+        "end_offset": 156,
+        "start": 35.015,
+        "end": 36.175,
+        "score": -0.9221
+      },
+      {
+        "word": "you",
+        "start_offset": 157,
+        "end_offset": 160,
+        "start": 36.515,
+        "end": 36.615,
+        "score": -0.8859
+      },
+      {
+        "word": "at",
+        "start_offset": 161,
+        "end_offset": 163,
+        "start": 36.995,
+        "end": 37.175,
+        "score": -0.7239
+      },
+      {
+        "word": "this",
+        "start_offset": 164,
+        "end_offset": 168,
+        "start": 37.476,
+        "end": 37.756,
+        "score": -0.7797
+      },
+      {
+        "word": "time.",
+        "start_offset": 169,
+        "end_offset": 174,
+        "start": 38.796,
+        "end": 39.256,
+        "score": -0.7694
+      },
+      {
+        "word": "However,",
+        "start_offset": 175,
+        "end_offset": 183,
+        "start": 43.258,
+        "end": 43.778,
+        "score": -0.7679
+      },
+      {
+        "word": "it",
+        "start_offset": 184,
+        "end_offset": 186,
+        "start": 45.379,
+        "end": 45.559,
+        "score": -0.7813
+      },
+      {
+        "word": "is",
+        "start_offset": 187,
+        "end_offset": 189,
+        "start": 46.559,
+        "end": 46.819,
+        "score": -0.8304
+      },
+      {
+        "word": "not",
+        "start_offset": 190,
+        "end_offset": 193,
+        "start": 47.56,
+        "end": 47.86,
+        "score": -0.8084
+      },
+      {
+        "word": "resting.",
+        "start_offset": 194,
+        "end_offset": 202,
+        "start": 49.18,
+        "end": 49.721,
+        "score": -0.7559
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "088-03.mp3",
+    "audio_duration": 58.0441,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

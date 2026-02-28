@@ -1,0 +1,149 @@
+{
+  "text": "I'd first like to ask of the instrument's condition. I and Ra, it is as previously stated.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I'd first like to ask of the instrument's condition.",
+        "start_offset": 18,
+        "end_offset": 86,
+        "start": 1.44,
+        "end": 6.88
+      },
+      {
+        "segment": "I and Ra, it is as previously stated.",
+        "start_offset": 204,
+        "end_offset": 370,
+        "start": 16.32,
+        "end": 29.6
+      }
+    ],
+    "word": [
+      {
+        "word": "I'd",
+        "start_offset": 18,
+        "end_offset": 24,
+        "start": 1.44,
+        "end": 1.92
+      },
+      {
+        "word": "first",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 2.16,
+        "end": 2.48
+      },
+      {
+        "word": "like",
+        "start_offset": 45,
+        "end_offset": 48,
+        "start": 3.6,
+        "end": 3.84
+      },
+      {
+        "word": "to",
+        "start_offset": 50,
+        "end_offset": 53,
+        "start": 4.0,
+        "end": 4.24
+      },
+      {
+        "word": "ask",
+        "start_offset": 53,
+        "end_offset": 59,
+        "start": 4.24,
+        "end": 4.72
+      },
+      {
+        "word": "of",
+        "start_offset": 59,
+        "end_offset": 63,
+        "start": 4.72,
+        "end": 5.04
+      },
+      {
+        "word": "the",
+        "start_offset": 63,
+        "end_offset": 67,
+        "start": 5.04,
+        "end": 5.36
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 67,
+        "end_offset": 78,
+        "start": 5.36,
+        "end": 6.24
+      },
+      {
+        "word": "condition.",
+        "start_offset": 78,
+        "end_offset": 86,
+        "start": 6.24,
+        "end": 6.88
+      },
+      {
+        "word": "I",
+        "start_offset": 204,
+        "end_offset": 208,
+        "start": 16.32,
+        "end": 16.64
+      },
+      {
+        "word": "and",
+        "start_offset": 220,
+        "end_offset": 222,
+        "start": 17.6,
+        "end": 17.76
+      },
+      {
+        "word": "Ra,",
+        "start_offset": 237,
+        "end_offset": 241,
+        "start": 18.96,
+        "end": 19.28
+      },
+      {
+        "word": "it",
+        "start_offset": 266,
+        "end_offset": 270,
+        "start": 21.28,
+        "end": 21.6
+      },
+      {
+        "word": "is",
+        "start_offset": 282,
+        "end_offset": 286,
+        "start": 22.56,
+        "end": 22.88
+      },
+      {
+        "word": "as",
+        "start_offset": 294,
+        "end_offset": 298,
+        "start": 23.52,
+        "end": 23.84
+      },
+      {
+        "word": "previously",
+        "start_offset": 318,
+        "end_offset": 338,
+        "start": 25.44,
+        "end": 27.04
+      },
+      {
+        "word": "stated.",
+        "start_offset": 358,
+        "end_offset": 370,
+        "start": 28.64,
+        "end": 29.6
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "054-01.mp3",
+    "audio_duration": 32.03,
+    "transcription_time": 0.1,
+    "rtfx": 333.83,
+    "timestamp": "2026-01-06T21:52:19.695225+00:00"
+  }
+}

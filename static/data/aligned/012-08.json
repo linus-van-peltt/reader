@@ -1,0 +1,237 @@
+{
+  "text": "Does this account for what we call the \"UFO Flaps\" where a large number of UFOs show up like in 1973? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Does this account for what we call the \"UFO Flaps\" where a large number of UFOs show up like in I am Ra.",
+        "start_offset": 0,
+        "end_offset": 110,
+        "start": 2.042,
+        "end": 14.992
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 111,
+        "end_offset": 127,
+        "start": 16.613,
+        "end": 19.536
+      }
+    ],
+    "word": [
+      {
+        "word": "Does",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.042,
+        "end": 2.262,
+        "score": -4.3266
+      },
+      {
+        "word": "this",
+        "start_offset": 5,
+        "end_offset": 9,
+        "start": 2.322,
+        "end": 2.522,
+        "score": -1.082
+      },
+      {
+        "word": "account",
+        "start_offset": 10,
+        "end_offset": 17,
+        "start": 2.602,
+        "end": 3.002,
+        "score": -0.8161
+      },
+      {
+        "word": "for",
+        "start_offset": 18,
+        "end_offset": 21,
+        "start": 3.082,
+        "end": 3.203,
+        "score": -1.5249
+      },
+      {
+        "word": "what",
+        "start_offset": 22,
+        "end_offset": 26,
+        "start": 3.223,
+        "end": 3.363,
+        "score": -3.0631
+      },
+      {
+        "word": "we",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 3.383,
+        "end": 3.483,
+        "score": -3.6447
+      },
+      {
+        "word": "call",
+        "start_offset": 30,
+        "end_offset": 34,
+        "start": 3.583,
+        "end": 3.823,
+        "score": -2.3568
+      },
+      {
+        "word": "the",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 4.243,
+        "end": 4.343,
+        "score": -3.47
+      },
+      {
+        "word": "\"UFO",
+        "start_offset": 39,
+        "end_offset": 43,
+        "start": 4.363,
+        "end": 4.464,
+        "score": -4.5169
+      },
+      {
+        "word": "Flaps\"",
+        "start_offset": 44,
+        "end_offset": 50,
+        "start": 4.544,
+        "end": 4.924,
+        "score": -2.6039
+      },
+      {
+        "word": "where",
+        "start_offset": 51,
+        "end_offset": 56,
+        "start": 4.944,
+        "end": 5.084,
+        "score": -5.1764
+      },
+      {
+        "word": "a",
+        "start_offset": 57,
+        "end_offset": 58,
+        "start": 5.124,
+        "end": 5.144,
+        "score": -1.3713
+      },
+      {
+        "word": "large",
+        "start_offset": 59,
+        "end_offset": 64,
+        "start": 5.204,
+        "end": 5.504,
+        "score": -1.4559
+      },
+      {
+        "word": "number",
+        "start_offset": 65,
+        "end_offset": 71,
+        "start": 5.544,
+        "end": 5.825,
+        "score": -4.0737
+      },
+      {
+        "word": "of",
+        "start_offset": 72,
+        "end_offset": 74,
+        "start": 5.985,
+        "end": 6.025,
+        "score": -5.2071
+      },
+      {
+        "word": "UFOs",
+        "start_offset": 75,
+        "end_offset": 79,
+        "start": 6.045,
+        "end": 6.305,
+        "score": -3.9269
+      },
+      {
+        "word": "show",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 6.385,
+        "end": 6.605,
+        "score": -2.8783
+      },
+      {
+        "word": "up",
+        "start_offset": 85,
+        "end_offset": 87,
+        "start": 6.685,
+        "end": 6.785,
+        "score": -4.248
+      },
+      {
+        "word": "like",
+        "start_offset": 88,
+        "end_offset": 92,
+        "start": 6.926,
+        "end": 7.126,
+        "score": -3.5676
+      },
+      {
+        "word": "in",
+        "start_offset": 93,
+        "end_offset": 95,
+        "start": 7.166,
+        "end": 7.206,
+        "score": -3.3717
+      },
+      {
+        "word": "I",
+        "start_offset": 102,
+        "end_offset": 103,
+        "start": 7.306,
+        "end": 7.326,
+        "score": -2.1841
+      },
+      {
+        "word": "am",
+        "start_offset": 104,
+        "end_offset": 106,
+        "start": 7.546,
+        "end": 7.646,
+        "score": -2.6203
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 107,
+        "end_offset": 110,
+        "start": 14.872,
+        "end": 14.992,
+        "score": -2.0567
+      },
+      {
+        "word": "This",
+        "start_offset": 111,
+        "end_offset": 115,
+        "start": 16.613,
+        "end": 16.974,
+        "score": -2.9744
+      },
+      {
+        "word": "is",
+        "start_offset": 116,
+        "end_offset": 118,
+        "start": 17.914,
+        "end": 18.194,
+        "score": -1.6956
+      },
+      {
+        "word": "correct.",
+        "start_offset": 119,
+        "end_offset": 127,
+        "start": 19.035,
+        "end": 19.536,
+        "score": -3.4098
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "012-08.mp3",
+    "audio_duration": 20.0359,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

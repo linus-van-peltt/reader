@@ -1,0 +1,163 @@
+{
+  "text": "I assume, then, that they came in late. Is this correct? I am Ra. Yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I assume, then, that they came in late.",
+        "start_offset": 0,
+        "end_offset": 39,
+        "start": 3.002,
+        "end": 4.743
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 40,
+        "end_offset": 56,
+        "start": 15.888,
+        "end": 16.509
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 57,
+        "end_offset": 65,
+        "start": 19.07,
+        "end": 20.851
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 66,
+        "end_offset": 70,
+        "start": 22.592,
+        "end": 23.012
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 3.002,
+        "end": 3.022,
+        "score": -1.9058
+      },
+      {
+        "word": "assume,",
+        "start_offset": 2,
+        "end_offset": 9,
+        "start": 3.082,
+        "end": 3.402,
+        "score": -0.7335
+      },
+      {
+        "word": "then,",
+        "start_offset": 10,
+        "end_offset": 15,
+        "start": 3.422,
+        "end": 3.562,
+        "score": -0.8575
+      },
+      {
+        "word": "that",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 3.602,
+        "end": 3.722,
+        "score": -0.81
+      },
+      {
+        "word": "they",
+        "start_offset": 21,
+        "end_offset": 25,
+        "start": 3.762,
+        "end": 3.882,
+        "score": -0.8099
+      },
+      {
+        "word": "came",
+        "start_offset": 26,
+        "end_offset": 30,
+        "start": 3.942,
+        "end": 4.162,
+        "score": -0.73
+      },
+      {
+        "word": "in",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 4.202,
+        "end": 4.262,
+        "score": -0.8335
+      },
+      {
+        "word": "late.",
+        "start_offset": 34,
+        "end_offset": 39,
+        "start": 4.402,
+        "end": 4.743,
+        "score": -1.2792
+      },
+      {
+        "word": "Is",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 15.888,
+        "end": 15.968,
+        "score": -1.361
+      },
+      {
+        "word": "this",
+        "start_offset": 43,
+        "end_offset": 47,
+        "start": 15.988,
+        "end": 16.129,
+        "score": -2.9148
+      },
+      {
+        "word": "correct?",
+        "start_offset": 48,
+        "end_offset": 56,
+        "start": 16.169,
+        "end": 16.509,
+        "score": -2.8
+      },
+      {
+        "word": "I",
+        "start_offset": 57,
+        "end_offset": 58,
+        "start": 19.07,
+        "end": 19.09,
+        "score": -1.9168
+      },
+      {
+        "word": "am",
+        "start_offset": 59,
+        "end_offset": 61,
+        "start": 19.73,
+        "end": 19.931,
+        "score": -3.9221
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 20.791,
+        "end": 20.851,
+        "score": -5.0574
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 66,
+        "end_offset": 70,
+        "start": 22.592,
+        "end": 23.012,
+        "score": -2.5785
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "089-43.mp3",
+    "audio_duration": 24.0327,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

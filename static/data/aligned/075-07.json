@@ -1,0 +1,323 @@
+{
+  "text": "I would assume those more practiced would leave their physical bodies and, in the other body, enter the room and practice the banishing ritual. Is this what you mean? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I would assume those more practiced would leave their physical bodies and, in the other body, enter the room and practice the banishing ritual.",
+        "start_offset": 0,
+        "end_offset": 143,
+        "start": 1.901,
+        "end": 17.205
+      },
+      {
+        "segment": "Is this what you mean?",
+        "start_offset": 144,
+        "end_offset": 166,
+        "start": 17.265,
+        "end": 18.045
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 167,
+        "end_offset": 175,
+        "start": 20.066,
+        "end": 21.786
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 176,
+        "end_offset": 192,
+        "start": 23.307,
+        "end": 26.307
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 1.901,
+        "end": 1.921,
+        "score": -9.463
+      },
+      {
+        "word": "would",
+        "start_offset": 2,
+        "end_offset": 7,
+        "start": 1.941,
+        "end": 2.101,
+        "score": -3.5354
+      },
+      {
+        "word": "assume",
+        "start_offset": 8,
+        "end_offset": 14,
+        "start": 2.121,
+        "end": 2.561,
+        "score": -1.198
+      },
+      {
+        "word": "those",
+        "start_offset": 15,
+        "end_offset": 20,
+        "start": 2.601,
+        "end": 2.921,
+        "score": -2.2701
+      },
+      {
+        "word": "more",
+        "start_offset": 21,
+        "end_offset": 25,
+        "start": 3.621,
+        "end": 3.841,
+        "score": -0.788
+      },
+      {
+        "word": "practiced",
+        "start_offset": 26,
+        "end_offset": 35,
+        "start": 3.901,
+        "end": 4.541,
+        "score": -0.7474
+      },
+      {
+        "word": "would",
+        "start_offset": 36,
+        "end_offset": 41,
+        "start": 4.721,
+        "end": 4.921,
+        "score": -0.9639
+      },
+      {
+        "word": "leave",
+        "start_offset": 42,
+        "end_offset": 47,
+        "start": 5.001,
+        "end": 5.281,
+        "score": -0.8793
+      },
+      {
+        "word": "their",
+        "start_offset": 48,
+        "end_offset": 53,
+        "start": 5.362,
+        "end": 5.542,
+        "score": -0.7212
+      },
+      {
+        "word": "physical",
+        "start_offset": 54,
+        "end_offset": 62,
+        "start": 6.482,
+        "end": 6.882,
+        "score": -0.7999
+      },
+      {
+        "word": "bodies",
+        "start_offset": 63,
+        "end_offset": 69,
+        "start": 6.922,
+        "end": 7.362,
+        "score": -0.7039
+      },
+      {
+        "word": "and,",
+        "start_offset": 70,
+        "end_offset": 74,
+        "start": 7.622,
+        "end": 7.822,
+        "score": -0.7164
+      },
+      {
+        "word": "in",
+        "start_offset": 75,
+        "end_offset": 77,
+        "start": 8.923,
+        "end": 9.123,
+        "score": -0.8204
+      },
+      {
+        "word": "the",
+        "start_offset": 78,
+        "end_offset": 81,
+        "start": 10.963,
+        "end": 11.083,
+        "score": -0.9729
+      },
+      {
+        "word": "other",
+        "start_offset": 82,
+        "end_offset": 87,
+        "start": 11.903,
+        "end": 12.163,
+        "score": -0.8529
+      },
+      {
+        "word": "body,",
+        "start_offset": 88,
+        "end_offset": 93,
+        "start": 13.044,
+        "end": 13.364,
+        "score": -2.0017
+      },
+      {
+        "word": "enter",
+        "start_offset": 94,
+        "end_offset": 99,
+        "start": 14.584,
+        "end": 14.804,
+        "score": -0.7294
+      },
+      {
+        "word": "the",
+        "start_offset": 100,
+        "end_offset": 103,
+        "start": 14.864,
+        "end": 14.944,
+        "score": -0.7574
+      },
+      {
+        "word": "room",
+        "start_offset": 104,
+        "end_offset": 108,
+        "start": 15.004,
+        "end": 15.304,
+        "score": -2.3691
+      },
+      {
+        "word": "and",
+        "start_offset": 109,
+        "end_offset": 112,
+        "start": 15.524,
+        "end": 15.644,
+        "score": -0.8053
+      },
+      {
+        "word": "practice",
+        "start_offset": 113,
+        "end_offset": 121,
+        "start": 15.744,
+        "end": 16.205,
+        "score": -0.7027
+      },
+      {
+        "word": "the",
+        "start_offset": 122,
+        "end_offset": 125,
+        "start": 16.245,
+        "end": 16.345,
+        "score": -0.7578
+      },
+      {
+        "word": "banishing",
+        "start_offset": 126,
+        "end_offset": 135,
+        "start": 16.385,
+        "end": 16.825,
+        "score": -0.8368
+      },
+      {
+        "word": "ritual.",
+        "start_offset": 136,
+        "end_offset": 143,
+        "start": 16.905,
+        "end": 17.205,
+        "score": -1.4875
+      },
+      {
+        "word": "Is",
+        "start_offset": 144,
+        "end_offset": 146,
+        "start": 17.265,
+        "end": 17.325,
+        "score": -2.6419
+      },
+      {
+        "word": "this",
+        "start_offset": 147,
+        "end_offset": 151,
+        "start": 17.365,
+        "end": 17.505,
+        "score": -0.8007
+      },
+      {
+        "word": "what",
+        "start_offset": 152,
+        "end_offset": 156,
+        "start": 17.545,
+        "end": 17.685,
+        "score": -2.9659
+      },
+      {
+        "word": "you",
+        "start_offset": 157,
+        "end_offset": 160,
+        "start": 17.725,
+        "end": 17.805,
+        "score": -2.4232
+      },
+      {
+        "word": "mean?",
+        "start_offset": 161,
+        "end_offset": 166,
+        "start": 17.845,
+        "end": 18.045,
+        "score": -2.2702
+      },
+      {
+        "word": "I",
+        "start_offset": 167,
+        "end_offset": 168,
+        "start": 20.066,
+        "end": 20.086,
+        "score": -4.209
+      },
+      {
+        "word": "am",
+        "start_offset": 169,
+        "end_offset": 171,
+        "start": 20.806,
+        "end": 21.066,
+        "score": -6.6514
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 172,
+        "end_offset": 175,
+        "start": 21.726,
+        "end": 21.786,
+        "score": -8.5299
+      },
+      {
+        "word": "This",
+        "start_offset": 176,
+        "end_offset": 180,
+        "start": 23.307,
+        "end": 23.687,
+        "score": -2.0413
+      },
+      {
+        "word": "is",
+        "start_offset": 181,
+        "end_offset": 183,
+        "start": 24.547,
+        "end": 24.827,
+        "score": -1.4795
+      },
+      {
+        "word": "correct.",
+        "start_offset": 184,
+        "end_offset": 192,
+        "start": 25.507,
+        "end": 26.307,
+        "score": -1.0623
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "075-07.mp3",
+    "audio_duration": 29.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

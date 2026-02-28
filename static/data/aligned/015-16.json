@@ -1,0 +1,292 @@
+{
+  "text": "What do you mean by their other-selves being harvestable? I am Ra. The other-selves with whom these beings are concerned are those which did not attain harvest during the second major cycle.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What do you mean by their other-selves being harvestable?",
+        "start_offset": 0,
+        "end_offset": 57,
+        "start": 3.741,
+        "end": 10.342
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 58,
+        "end_offset": 66,
+        "start": 10.362,
+        "end": 10.682
+      },
+      {
+        "segment": "The other-selves with whom these beings are concerned are those which did not attain harvest during the second major cycle.",
+        "start_offset": 67,
+        "end_offset": 190,
+        "start": 11.802,
+        "end": 38.847
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 3.741,
+        "end": 4.101,
+        "score": -8.4664
+      },
+      {
+        "word": "do",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 4.121,
+        "end": 4.181,
+        "score": -9.0834
+      },
+      {
+        "word": "you",
+        "start_offset": 8,
+        "end_offset": 11,
+        "start": 5.061,
+        "end": 5.361,
+        "score": -10.5353
+      },
+      {
+        "word": "mean",
+        "start_offset": 12,
+        "end_offset": 16,
+        "start": 7.741,
+        "end": 7.881,
+        "score": -7.0123
+      },
+      {
+        "word": "by",
+        "start_offset": 17,
+        "end_offset": 19,
+        "start": 7.901,
+        "end": 8.101,
+        "score": -7.6439
+      },
+      {
+        "word": "their",
+        "start_offset": 20,
+        "end_offset": 25,
+        "start": 8.121,
+        "end": 9.122,
+        "score": -5.9866
+      },
+      {
+        "word": "other-selves",
+        "start_offset": 26,
+        "end_offset": 38,
+        "start": 9.142,
+        "end": 9.982,
+        "score": -7.7755
+      },
+      {
+        "word": "being",
+        "start_offset": 39,
+        "end_offset": 44,
+        "start": 10.002,
+        "end": 10.102,
+        "score": -7.7743
+      },
+      {
+        "word": "harvestable?",
+        "start_offset": 45,
+        "end_offset": 57,
+        "start": 10.122,
+        "end": 10.342,
+        "score": -8.256
+      },
+      {
+        "word": "I",
+        "start_offset": 58,
+        "end_offset": 59,
+        "start": 10.362,
+        "end": 10.382,
+        "score": -9.5166
+      },
+      {
+        "word": "am",
+        "start_offset": 60,
+        "end_offset": 62,
+        "start": 10.442,
+        "end": 10.482,
+        "score": -9.7207
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 63,
+        "end_offset": 66,
+        "start": 10.602,
+        "end": 10.682,
+        "score": -9.7014
+      },
+      {
+        "word": "The",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 11.802,
+        "end": 11.942,
+        "score": -0.7418
+      },
+      {
+        "word": "other-selves",
+        "start_offset": 71,
+        "end_offset": 83,
+        "start": 12.662,
+        "end": 13.982,
+        "score": -0.786
+      },
+      {
+        "word": "with",
+        "start_offset": 84,
+        "end_offset": 88,
+        "start": 15.023,
+        "end": 15.363,
+        "score": -0.8359
+      },
+      {
+        "word": "whom",
+        "start_offset": 89,
+        "end_offset": 93,
+        "start": 15.823,
+        "end": 16.183,
+        "score": -1.3596
+      },
+      {
+        "word": "these",
+        "start_offset": 94,
+        "end_offset": 99,
+        "start": 17.763,
+        "end": 18.223,
+        "score": -0.7442
+      },
+      {
+        "word": "beings",
+        "start_offset": 100,
+        "end_offset": 106,
+        "start": 18.603,
+        "end": 19.423,
+        "score": -0.741
+      },
+      {
+        "word": "are",
+        "start_offset": 107,
+        "end_offset": 110,
+        "start": 20.804,
+        "end": 21.064,
+        "score": -0.8077
+      },
+      {
+        "word": "concerned",
+        "start_offset": 111,
+        "end_offset": 120,
+        "start": 21.284,
+        "end": 22.444,
+        "score": -0.6999
+      },
+      {
+        "word": "are",
+        "start_offset": 121,
+        "end_offset": 124,
+        "start": 23.244,
+        "end": 23.504,
+        "score": -0.7411
+      },
+      {
+        "word": "those",
+        "start_offset": 125,
+        "end_offset": 130,
+        "start": 23.664,
+        "end": 24.324,
+        "score": -0.7172
+      },
+      {
+        "word": "which",
+        "start_offset": 131,
+        "end_offset": 136,
+        "start": 26.265,
+        "end": 26.665,
+        "score": -0.8123
+      },
+      {
+        "word": "did",
+        "start_offset": 137,
+        "end_offset": 140,
+        "start": 27.385,
+        "end": 27.725,
+        "score": -0.703
+      },
+      {
+        "word": "not",
+        "start_offset": 141,
+        "end_offset": 144,
+        "start": 28.405,
+        "end": 28.785,
+        "score": -0.6972
+      },
+      {
+        "word": "attain",
+        "start_offset": 145,
+        "end_offset": 151,
+        "start": 29.865,
+        "end": 30.565,
+        "score": -1.227
+      },
+      {
+        "word": "harvest",
+        "start_offset": 152,
+        "end_offset": 159,
+        "start": 31.326,
+        "end": 32.206,
+        "score": -0.8568
+      },
+      {
+        "word": "during",
+        "start_offset": 160,
+        "end_offset": 166,
+        "start": 33.126,
+        "end": 33.666,
+        "score": -0.7948
+      },
+      {
+        "word": "the",
+        "start_offset": 167,
+        "end_offset": 170,
+        "start": 34.286,
+        "end": 34.446,
+        "score": -0.7191
+      },
+      {
+        "word": "second",
+        "start_offset": 171,
+        "end_offset": 177,
+        "start": 35.346,
+        "end": 36.086,
+        "score": -0.7566
+      },
+      {
+        "word": "major",
+        "start_offset": 178,
+        "end_offset": 183,
+        "start": 36.747,
+        "end": 37.307,
+        "score": -0.738
+      },
+      {
+        "word": "cycle.",
+        "start_offset": 184,
+        "end_offset": 190,
+        "start": 38.227,
+        "end": 38.847,
+        "score": -0.9002
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "015-16.mp3",
+    "audio_duration": 39.0269,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

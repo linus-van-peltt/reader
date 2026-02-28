@@ -1,0 +1,135 @@
+{
+  "text": "Then this then creates, I would assume, the planetary or racial mind. Is this correct?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then this then creates, I would assume, the planetary or racial mind.",
+        "start_offset": 36,
+        "end_offset": 156,
+        "start": 2.88,
+        "end": 12.48
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 161,
+        "end_offset": 178,
+        "start": 12.88,
+        "end": 14.24
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 36,
+        "end_offset": 43,
+        "start": 2.88,
+        "end": 3.44
+      },
+      {
+        "word": "this",
+        "start_offset": 79,
+        "end_offset": 83,
+        "start": 6.32,
+        "end": 6.640000000000001
+      },
+      {
+        "word": "then",
+        "start_offset": 86,
+        "end_offset": 90,
+        "start": 6.88,
+        "end": 7.2
+      },
+      {
+        "word": "creates,",
+        "start_offset": 93,
+        "end_offset": 101,
+        "start": 7.44,
+        "end": 8.08
+      },
+      {
+        "word": "I",
+        "start_offset": 104,
+        "end_offset": 108,
+        "start": 8.32,
+        "end": 8.64
+      },
+      {
+        "word": "would",
+        "start_offset": 108,
+        "end_offset": 111,
+        "start": 8.64,
+        "end": 8.88
+      },
+      {
+        "word": "assume,",
+        "start_offset": 111,
+        "end_offset": 119,
+        "start": 8.88,
+        "end": 9.52
+      },
+      {
+        "word": "the",
+        "start_offset": 124,
+        "end_offset": 128,
+        "start": 9.92,
+        "end": 10.24
+      },
+      {
+        "word": "planetary",
+        "start_offset": 128,
+        "end_offset": 140,
+        "start": 10.24,
+        "end": 11.200000000000001
+      },
+      {
+        "word": "or",
+        "start_offset": 140,
+        "end_offset": 143,
+        "start": 11.200000000000001,
+        "end": 11.44
+      },
+      {
+        "word": "racial",
+        "start_offset": 146,
+        "end_offset": 153,
+        "start": 11.68,
+        "end": 12.24
+      },
+      {
+        "word": "mind.",
+        "start_offset": 153,
+        "end_offset": 156,
+        "start": 12.24,
+        "end": 12.48
+      },
+      {
+        "word": "Is",
+        "start_offset": 161,
+        "end_offset": 164,
+        "start": 12.88,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "this",
+        "start_offset": 164,
+        "end_offset": 168,
+        "start": 13.120000000000001,
+        "end": 13.44
+      },
+      {
+        "word": "correct?",
+        "start_offset": 168,
+        "end_offset": 178,
+        "start": 13.44,
+        "end": 14.24
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "091-05.mp3",
+    "audio_duration": 26.04,
+    "transcription_time": 0.09,
+    "rtfx": 287.28,
+    "timestamp": "2026-01-06T21:58:44.090525+00:00"
+  }
+}

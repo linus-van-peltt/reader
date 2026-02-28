@@ -1,0 +1,296 @@
+{
+  "text": "Could you tell me the condition of the instrument? I am the physical complex is as previously stated. There is some slight loss of vital energy. The basic complex distortions are similar to your previous asking.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you tell me the condition of the instrument?",
+        "start_offset": 24,
+        "end_offset": 59,
+        "start": 1.92,
+        "end": 4.72
+      },
+      {
+        "segment": "I am the physical complex is as previously stated.",
+        "start_offset": 104,
+        "end_offset": 325,
+        "start": 8.32,
+        "end": 26.0
+      },
+      {
+        "segment": "There is some slight loss of vital energy.",
+        "start_offset": 348,
+        "end_offset": 503,
+        "start": 27.84,
+        "end": 40.24
+      },
+      {
+        "segment": "The basic complex distortions are similar to your previous asking.",
+        "start_offset": 555,
+        "end_offset": 804,
+        "start": 44.4,
+        "end": 64.32000000000001
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 24,
+        "end_offset": 30,
+        "start": 1.92,
+        "end": 2.4
+      },
+      {
+        "word": "you",
+        "start_offset": 30,
+        "end_offset": 32,
+        "start": 2.4,
+        "end": 2.56
+      },
+      {
+        "word": "tell",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 2.56,
+        "end": 2.72
+      },
+      {
+        "word": "me",
+        "start_offset": 34,
+        "end_offset": 36,
+        "start": 2.72,
+        "end": 2.88
+      },
+      {
+        "word": "the",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 2.88,
+        "end": 3.04
+      },
+      {
+        "word": "condition",
+        "start_offset": 38,
+        "end_offset": 43,
+        "start": 3.04,
+        "end": 3.44
+      },
+      {
+        "word": "of",
+        "start_offset": 43,
+        "end_offset": 45,
+        "start": 3.44,
+        "end": 3.6
+      },
+      {
+        "word": "the",
+        "start_offset": 45,
+        "end_offset": 48,
+        "start": 3.6,
+        "end": 3.84
+      },
+      {
+        "word": "instrument?",
+        "start_offset": 48,
+        "end_offset": 59,
+        "start": 3.84,
+        "end": 4.72
+      },
+      {
+        "word": "I",
+        "start_offset": 104,
+        "end_offset": 106,
+        "start": 8.32,
+        "end": 8.48
+      },
+      {
+        "word": "am",
+        "start_offset": 116,
+        "end_offset": 119,
+        "start": 9.28,
+        "end": 9.52
+      },
+      {
+        "word": "the",
+        "start_offset": 169,
+        "end_offset": 171,
+        "start": 13.52,
+        "end": 13.68
+      },
+      {
+        "word": "physical",
+        "start_offset": 203,
+        "end_offset": 215,
+        "start": 16.240000000000002,
+        "end": 17.2
+      },
+      {
+        "word": "complex",
+        "start_offset": 223,
+        "end_offset": 235,
+        "start": 17.84,
+        "end": 18.8
+      },
+      {
+        "word": "is",
+        "start_offset": 249,
+        "end_offset": 253,
+        "start": 19.92,
+        "end": 20.240000000000002
+      },
+      {
+        "word": "as",
+        "start_offset": 262,
+        "end_offset": 266,
+        "start": 20.96,
+        "end": 21.28
+      },
+      {
+        "word": "previously",
+        "start_offset": 282,
+        "end_offset": 301,
+        "start": 22.56,
+        "end": 24.080000000000002
+      },
+      {
+        "word": "stated.",
+        "start_offset": 317,
+        "end_offset": 325,
+        "start": 25.36,
+        "end": 26.0
+      },
+      {
+        "word": "There",
+        "start_offset": 348,
+        "end_offset": 356,
+        "start": 27.84,
+        "end": 28.48
+      },
+      {
+        "word": "is",
+        "start_offset": 364,
+        "end_offset": 368,
+        "start": 29.12,
+        "end": 29.44
+      },
+      {
+        "word": "some",
+        "start_offset": 380,
+        "end_offset": 384,
+        "start": 30.400000000000002,
+        "end": 30.72
+      },
+      {
+        "word": "slight",
+        "start_offset": 412,
+        "end_offset": 423,
+        "start": 32.96,
+        "end": 33.84
+      },
+      {
+        "word": "loss",
+        "start_offset": 435,
+        "end_offset": 443,
+        "start": 34.800000000000004,
+        "end": 35.44
+      },
+      {
+        "word": "of",
+        "start_offset": 447,
+        "end_offset": 451,
+        "start": 35.76,
+        "end": 36.08
+      },
+      {
+        "word": "vital",
+        "start_offset": 467,
+        "end_offset": 475,
+        "start": 37.36,
+        "end": 38.0
+      },
+      {
+        "word": "energy.",
+        "start_offset": 491,
+        "end_offset": 503,
+        "start": 39.28,
+        "end": 40.24
+      },
+      {
+        "word": "The",
+        "start_offset": 555,
+        "end_offset": 559,
+        "start": 44.4,
+        "end": 44.72
+      },
+      {
+        "word": "basic",
+        "start_offset": 583,
+        "end_offset": 591,
+        "start": 46.64,
+        "end": 47.28
+      },
+      {
+        "word": "complex",
+        "start_offset": 618,
+        "end_offset": 626,
+        "start": 49.44,
+        "end": 50.08
+      },
+      {
+        "word": "distortions",
+        "start_offset": 642,
+        "end_offset": 654,
+        "start": 51.36,
+        "end": 52.32
+      },
+      {
+        "word": "are",
+        "start_offset": 686,
+        "end_offset": 690,
+        "start": 54.88,
+        "end": 55.2
+      },
+      {
+        "word": "similar",
+        "start_offset": 710,
+        "end_offset": 722,
+        "start": 56.800000000000004,
+        "end": 57.76
+      },
+      {
+        "word": "to",
+        "start_offset": 734,
+        "end_offset": 738,
+        "start": 58.72,
+        "end": 59.04
+      },
+      {
+        "word": "your",
+        "start_offset": 750,
+        "end_offset": 754,
+        "start": 60.0,
+        "end": 60.32
+      },
+      {
+        "word": "previous",
+        "start_offset": 770,
+        "end_offset": 785,
+        "start": 61.6,
+        "end": 62.800000000000004
+      },
+      {
+        "word": "asking.",
+        "start_offset": 792,
+        "end_offset": 804,
+        "start": 63.36,
+        "end": 64.32000000000001
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "078-04.mp3",
+    "audio_duration": 66.04,
+    "transcription_time": 0.13,
+    "rtfx": 518.8,
+    "timestamp": "2026-01-06T21:56:14.899613+00:00"
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "text": "And yet, though they had already evolved through a positive fourth density they, shall we say, flipped polarity in the reincarnating in third density. Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "And yet, though they had already evolved through a positive fourth density they, shall we say, flipped polarity in the reincarnating in third density.",
+        "start_offset": 0,
+        "end_offset": 150,
+        "start": 3.083,
+        "end": 16.415
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 151,
+        "end_offset": 167,
+        "start": 16.475,
+        "end": 17.136
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 168,
+        "end_offset": 176,
+        "start": 19.498,
+        "end": 21.46
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 177,
+        "end_offset": 193,
+        "start": 23.141,
+        "end": 25.824
+      }
+    ],
+    "word": [
+      {
+        "word": "And",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 3.083,
+        "end": 3.203,
+        "score": -0.721
+      },
+      {
+        "word": "yet,",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 3.283,
+        "end": 3.503,
+        "score": -0.6974
+      },
+      {
+        "word": "though",
+        "start_offset": 9,
+        "end_offset": 15,
+        "start": 3.763,
+        "end": 3.984,
+        "score": -0.7625
+      },
+      {
+        "word": "they",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 4.024,
+        "end": 4.164,
+        "score": -0.7212
+      },
+      {
+        "word": "had",
+        "start_offset": 21,
+        "end_offset": 24,
+        "start": 4.244,
+        "end": 4.444,
+        "score": -0.7026
+      },
+      {
+        "word": "already",
+        "start_offset": 25,
+        "end_offset": 32,
+        "start": 4.824,
+        "end": 5.265,
+        "score": -0.7241
+      },
+      {
+        "word": "evolved",
+        "start_offset": 33,
+        "end_offset": 40,
+        "start": 5.705,
+        "end": 6.146,
+        "score": -0.7386
+      },
+      {
+        "word": "through",
+        "start_offset": 41,
+        "end_offset": 48,
+        "start": 6.166,
+        "end": 6.326,
+        "score": -0.744
+      },
+      {
+        "word": "a",
+        "start_offset": 49,
+        "end_offset": 50,
+        "start": 6.366,
+        "end": 6.386,
+        "score": -0.7229
+      },
+      {
+        "word": "positive",
+        "start_offset": 51,
+        "end_offset": 59,
+        "start": 6.426,
+        "end": 6.946,
+        "score": -0.7214
+      },
+      {
+        "word": "fourth",
+        "start_offset": 60,
+        "end_offset": 66,
+        "start": 6.986,
+        "end": 7.267,
+        "score": -0.8166
+      },
+      {
+        "word": "density",
+        "start_offset": 67,
+        "end_offset": 74,
+        "start": 7.367,
+        "end": 7.847,
+        "score": -0.7
+      },
+      {
+        "word": "they,",
+        "start_offset": 75,
+        "end_offset": 80,
+        "start": 8.188,
+        "end": 8.428,
+        "score": -0.8046
+      },
+      {
+        "word": "shall",
+        "start_offset": 81,
+        "end_offset": 86,
+        "start": 9.229,
+        "end": 9.489,
+        "score": -0.7979
+      },
+      {
+        "word": "we",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 9.529,
+        "end": 9.629,
+        "score": -1.1607
+      },
+      {
+        "word": "say,",
+        "start_offset": 90,
+        "end_offset": 94,
+        "start": 9.789,
+        "end": 10.029,
+        "score": -0.7647
+      },
+      {
+        "word": "flipped",
+        "start_offset": 95,
+        "end_offset": 102,
+        "start": 10.189,
+        "end": 10.51,
+        "score": -1.2619
+      },
+      {
+        "word": "polarity",
+        "start_offset": 103,
+        "end_offset": 111,
+        "start": 10.63,
+        "end": 11.31,
+        "score": -0.7238
+      },
+      {
+        "word": "in",
+        "start_offset": 112,
+        "end_offset": 114,
+        "start": 11.891,
+        "end": 12.031,
+        "score": -1.0423
+      },
+      {
+        "word": "the",
+        "start_offset": 115,
+        "end_offset": 118,
+        "start": 12.592,
+        "end": 12.712,
+        "score": -1.1315
+      },
+      {
+        "word": "reincarnating",
+        "start_offset": 119,
+        "end_offset": 132,
+        "start": 13.032,
+        "end": 15.534,
+        "score": -0.9065
+      },
+      {
+        "word": "in",
+        "start_offset": 133,
+        "end_offset": 135,
+        "start": 15.574,
+        "end": 15.634,
+        "score": -0.964
+      },
+      {
+        "word": "third",
+        "start_offset": 136,
+        "end_offset": 141,
+        "start": 15.715,
+        "end": 15.955,
+        "score": -0.7733
+      },
+      {
+        "word": "density.",
+        "start_offset": 142,
+        "end_offset": 150,
+        "start": 16.015,
+        "end": 16.415,
+        "score": -0.7158
+      },
+      {
+        "word": "Is",
+        "start_offset": 151,
+        "end_offset": 153,
+        "start": 16.475,
+        "end": 16.535,
+        "score": -0.7712
+      },
+      {
+        "word": "this",
+        "start_offset": 154,
+        "end_offset": 158,
+        "start": 16.575,
+        "end": 16.695,
+        "score": -0.7775
+      },
+      {
+        "word": "correct?",
+        "start_offset": 159,
+        "end_offset": 167,
+        "start": 16.756,
+        "end": 17.136,
+        "score": -0.7004
+      },
+      {
+        "word": "I",
+        "start_offset": 168,
+        "end_offset": 169,
+        "start": 19.498,
+        "end": 19.518,
+        "score": -4.5143
+      },
+      {
+        "word": "am",
+        "start_offset": 170,
+        "end_offset": 172,
+        "start": 20.259,
+        "end": 21.34,
+        "score": -5.1107
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 173,
+        "end_offset": 176,
+        "start": 21.36,
+        "end": 21.46,
+        "score": -7.4839
+      },
+      {
+        "word": "This",
+        "start_offset": 177,
+        "end_offset": 181,
+        "start": 23.141,
+        "end": 23.462,
+        "score": -4.1107
+      },
+      {
+        "word": "is",
+        "start_offset": 182,
+        "end_offset": 184,
+        "start": 24.062,
+        "end": 24.403,
+        "score": -3.6309
+      },
+      {
+        "word": "correct.",
+        "start_offset": 185,
+        "end_offset": 193,
+        "start": 25.043,
+        "end": 25.824,
+        "score": -2.8958
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "089-34.mp3",
+    "audio_duration": 26.0441,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

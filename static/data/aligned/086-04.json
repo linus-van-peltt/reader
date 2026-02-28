@@ -1,0 +1,204 @@
+{
+  "text": "What's the present situation with our fifth-density service-to-self polarized companion? I am Ra. The period which you may call crisis remains.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What's the present situation with our fifth-density service-to-self polarized companion?",
+        "start_offset": 0,
+        "end_offset": 88,
+        "start": 2.3,
+        "end": 8.161
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 89,
+        "end_offset": 97,
+        "start": 14.222,
+        "end": 16.682
+      },
+      {
+        "segment": "The period which you may call crisis remains.",
+        "start_offset": 98,
+        "end_offset": 143,
+        "start": 19.503,
+        "end": 34.185
+      }
+    ],
+    "word": [
+      {
+        "word": "What's",
+        "start_offset": 0,
+        "end_offset": 6,
+        "start": 2.3,
+        "end": 2.48,
+        "score": -2.6596
+      },
+      {
+        "word": "the",
+        "start_offset": 7,
+        "end_offset": 10,
+        "start": 2.5,
+        "end": 2.58,
+        "score": -1.1364
+      },
+      {
+        "word": "present",
+        "start_offset": 11,
+        "end_offset": 18,
+        "start": 2.62,
+        "end": 3.02,
+        "score": -0.8964
+      },
+      {
+        "word": "situation",
+        "start_offset": 19,
+        "end_offset": 28,
+        "start": 3.1,
+        "end": 3.721,
+        "score": -0.7115
+      },
+      {
+        "word": "with",
+        "start_offset": 29,
+        "end_offset": 33,
+        "start": 3.801,
+        "end": 3.961,
+        "score": -0.857
+      },
+      {
+        "word": "our",
+        "start_offset": 34,
+        "end_offset": 37,
+        "start": 4.081,
+        "end": 4.301,
+        "score": -2.399
+      },
+      {
+        "word": "fifth-density",
+        "start_offset": 38,
+        "end_offset": 51,
+        "start": 4.861,
+        "end": 5.661,
+        "score": -1.0104
+      },
+      {
+        "word": "service-to-self",
+        "start_offset": 52,
+        "end_offset": 67,
+        "start": 6.181,
+        "end": 6.961,
+        "score": -1.6253
+      },
+      {
+        "word": "polarized",
+        "start_offset": 68,
+        "end_offset": 77,
+        "start": 7.061,
+        "end": 7.621,
+        "score": -3.8711
+      },
+      {
+        "word": "companion?",
+        "start_offset": 78,
+        "end_offset": 88,
+        "start": 7.681,
+        "end": 8.161,
+        "score": -3.563
+      },
+      {
+        "word": "I",
+        "start_offset": 89,
+        "end_offset": 90,
+        "start": 14.222,
+        "end": 14.242,
+        "score": -5.7098
+      },
+      {
+        "word": "am",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 15.502,
+        "end": 16.482,
+        "score": -2.3839
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 94,
+        "end_offset": 97,
+        "start": 16.602,
+        "end": 16.682,
+        "score": -3.5591
+      },
+      {
+        "word": "The",
+        "start_offset": 98,
+        "end_offset": 101,
+        "start": 19.503,
+        "end": 19.603,
+        "score": -4.8824
+      },
+      {
+        "word": "period",
+        "start_offset": 102,
+        "end_offset": 108,
+        "start": 22.283,
+        "end": 23.183,
+        "score": -2.0013
+      },
+      {
+        "word": "which",
+        "start_offset": 109,
+        "end_offset": 114,
+        "start": 24.784,
+        "end": 25.184,
+        "score": -1.1019
+      },
+      {
+        "word": "you",
+        "start_offset": 115,
+        "end_offset": 118,
+        "start": 25.524,
+        "end": 25.684,
+        "score": -1.7002
+      },
+      {
+        "word": "may",
+        "start_offset": 119,
+        "end_offset": 122,
+        "start": 26.204,
+        "end": 26.584,
+        "score": -2.1216
+      },
+      {
+        "word": "call",
+        "start_offset": 123,
+        "end_offset": 127,
+        "start": 27.124,
+        "end": 27.504,
+        "score": -2.1643
+      },
+      {
+        "word": "crisis",
+        "start_offset": 128,
+        "end_offset": 134,
+        "start": 29.004,
+        "end": 29.924,
+        "score": -2.133
+      },
+      {
+        "word": "remains.",
+        "start_offset": 135,
+        "end_offset": 143,
+        "start": 32.885,
+        "end": 34.185,
+        "score": -2.3457
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "086-04.mp3",
+    "audio_duration": 74.0311,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

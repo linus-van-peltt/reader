@@ -1,0 +1,435 @@
+{
+  "text": "There must be a point at which the removal of distortion reaches a minimum for use of the crystal in tapping intelligent energy. Is this correct? I am Ra. This is correct only if it is understood, shall we say, that each mind/body/spirit complex has an unique such point.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "There must be a point at which the removal of distortion reaches a minimum for use of the crystal in tapping intelligent energy.",
+        "start_offset": 0,
+        "end_offset": 128,
+        "start": 2.16,
+        "end": 22.685
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 129,
+        "end_offset": 145,
+        "start": 24.165,
+        "end": 24.925
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 146,
+        "end_offset": 154,
+        "start": 28.646,
+        "end": 30.427
+      },
+      {
+        "segment": "This is correct only if it is understood, shall we say, that each mind/body/spirit complex has an unique such point.",
+        "start_offset": 155,
+        "end_offset": 271,
+        "start": 33.087,
+        "end": 60.793
+      }
+    ],
+    "word": [
+      {
+        "word": "There",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.16,
+        "end": 2.341,
+        "score": -0.7231
+      },
+      {
+        "word": "must",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 2.401,
+        "end": 2.701,
+        "score": -0.7279
+      },
+      {
+        "word": "be",
+        "start_offset": 11,
+        "end_offset": 13,
+        "start": 2.801,
+        "end": 2.901,
+        "score": -0.811
+      },
+      {
+        "word": "a",
+        "start_offset": 14,
+        "end_offset": 15,
+        "start": 4.541,
+        "end": 4.561,
+        "score": -0.884
+      },
+      {
+        "word": "point",
+        "start_offset": 16,
+        "end_offset": 21,
+        "start": 6.421,
+        "end": 6.841,
+        "score": -0.8546
+      },
+      {
+        "word": "at",
+        "start_offset": 22,
+        "end_offset": 24,
+        "start": 7.842,
+        "end": 7.962,
+        "score": -0.8671
+      },
+      {
+        "word": "which",
+        "start_offset": 25,
+        "end_offset": 30,
+        "start": 8.042,
+        "end": 8.322,
+        "score": -0.8564
+      },
+      {
+        "word": "the",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 12.443,
+        "end": 12.583,
+        "score": -0.8311
+      },
+      {
+        "word": "removal",
+        "start_offset": 35,
+        "end_offset": 42,
+        "start": 12.803,
+        "end": 13.263,
+        "score": -0.7072
+      },
+      {
+        "word": "of",
+        "start_offset": 43,
+        "end_offset": 45,
+        "start": 13.403,
+        "end": 13.483,
+        "score": -0.7143
+      },
+      {
+        "word": "distortion",
+        "start_offset": 46,
+        "end_offset": 56,
+        "start": 13.543,
+        "end": 14.263,
+        "score": -1.0015
+      },
+      {
+        "word": "reaches",
+        "start_offset": 57,
+        "end_offset": 64,
+        "start": 16.604,
+        "end": 17.064,
+        "score": -0.7389
+      },
+      {
+        "word": "a",
+        "start_offset": 65,
+        "end_offset": 66,
+        "start": 17.204,
+        "end": 17.224,
+        "score": -0.7758
+      },
+      {
+        "word": "minimum",
+        "start_offset": 67,
+        "end_offset": 74,
+        "start": 17.524,
+        "end": 17.944,
+        "score": -0.9435
+      },
+      {
+        "word": "for",
+        "start_offset": 75,
+        "end_offset": 78,
+        "start": 18.904,
+        "end": 19.064,
+        "score": -1.1748
+      },
+      {
+        "word": "use",
+        "start_offset": 79,
+        "end_offset": 82,
+        "start": 19.244,
+        "end": 19.464,
+        "score": -0.7683
+      },
+      {
+        "word": "of",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 19.624,
+        "end": 19.704,
+        "score": -0.8183
+      },
+      {
+        "word": "the",
+        "start_offset": 86,
+        "end_offset": 89,
+        "start": 19.744,
+        "end": 19.824,
+        "score": -0.8663
+      },
+      {
+        "word": "crystal",
+        "start_offset": 90,
+        "end_offset": 97,
+        "start": 19.864,
+        "end": 20.304,
+        "score": -1.2218
+      },
+      {
+        "word": "in",
+        "start_offset": 98,
+        "end_offset": 100,
+        "start": 20.464,
+        "end": 20.544,
+        "score": -1.3345
+      },
+      {
+        "word": "tapping",
+        "start_offset": 101,
+        "end_offset": 108,
+        "start": 20.884,
+        "end": 21.365,
+        "score": -1.3181
+      },
+      {
+        "word": "intelligent",
+        "start_offset": 109,
+        "end_offset": 120,
+        "start": 21.625,
+        "end": 22.225,
+        "score": -1.1278
+      },
+      {
+        "word": "energy.",
+        "start_offset": 121,
+        "end_offset": 128,
+        "start": 22.345,
+        "end": 22.685,
+        "score": -1.2937
+      },
+      {
+        "word": "Is",
+        "start_offset": 129,
+        "end_offset": 131,
+        "start": 24.165,
+        "end": 24.265,
+        "score": -1.6547
+      },
+      {
+        "word": "this",
+        "start_offset": 132,
+        "end_offset": 136,
+        "start": 24.285,
+        "end": 24.465,
+        "score": -1.1965
+      },
+      {
+        "word": "correct?",
+        "start_offset": 137,
+        "end_offset": 145,
+        "start": 24.505,
+        "end": 24.925,
+        "score": -0.826
+      },
+      {
+        "word": "I",
+        "start_offset": 146,
+        "end_offset": 147,
+        "start": 28.646,
+        "end": 28.666,
+        "score": -0.9135
+      },
+      {
+        "word": "am",
+        "start_offset": 148,
+        "end_offset": 150,
+        "start": 29.346,
+        "end": 29.706,
+        "score": -3.6227
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 151,
+        "end_offset": 154,
+        "start": 30.306,
+        "end": 30.427,
+        "score": -0.9459
+      },
+      {
+        "word": "This",
+        "start_offset": 155,
+        "end_offset": 159,
+        "start": 33.087,
+        "end": 33.447,
+        "score": -0.7259
+      },
+      {
+        "word": "is",
+        "start_offset": 160,
+        "end_offset": 162,
+        "start": 34.127,
+        "end": 34.427,
+        "score": -0.7029
+      },
+      {
+        "word": "correct",
+        "start_offset": 163,
+        "end_offset": 170,
+        "start": 34.947,
+        "end": 35.928,
+        "score": -0.7013
+      },
+      {
+        "word": "only",
+        "start_offset": 171,
+        "end_offset": 175,
+        "start": 37.168,
+        "end": 37.648,
+        "score": -0.6997
+      },
+      {
+        "word": "if",
+        "start_offset": 176,
+        "end_offset": 178,
+        "start": 38.308,
+        "end": 38.528,
+        "score": -0.6967
+      },
+      {
+        "word": "it",
+        "start_offset": 179,
+        "end_offset": 181,
+        "start": 38.988,
+        "end": 39.168,
+        "score": -0.6978
+      },
+      {
+        "word": "is",
+        "start_offset": 182,
+        "end_offset": 184,
+        "start": 39.488,
+        "end": 39.789,
+        "score": -0.6998
+      },
+      {
+        "word": "understood,",
+        "start_offset": 185,
+        "end_offset": 196,
+        "start": 40.569,
+        "end": 41.949,
+        "score": -0.7493
+      },
+      {
+        "word": "shall",
+        "start_offset": 197,
+        "end_offset": 202,
+        "start": 42.729,
+        "end": 43.169,
+        "score": -0.7614
+      },
+      {
+        "word": "we",
+        "start_offset": 203,
+        "end_offset": 205,
+        "start": 43.549,
+        "end": 43.689,
+        "score": -0.6989
+      },
+      {
+        "word": "say,",
+        "start_offset": 206,
+        "end_offset": 210,
+        "start": 44.029,
+        "end": 44.47,
+        "score": -0.6969
+      },
+      {
+        "word": "that",
+        "start_offset": 211,
+        "end_offset": 215,
+        "start": 45.75,
+        "end": 46.13,
+        "score": -0.7122
+      },
+      {
+        "word": "each",
+        "start_offset": 216,
+        "end_offset": 220,
+        "start": 46.99,
+        "end": 47.31,
+        "score": -0.7145
+      },
+      {
+        "word": "mind/body/spirit",
+        "start_offset": 221,
+        "end_offset": 237,
+        "start": 47.99,
+        "end": 51.231,
+        "score": -0.6981
+      },
+      {
+        "word": "complex",
+        "start_offset": 238,
+        "end_offset": 245,
+        "start": 52.051,
+        "end": 53.171,
+        "score": -0.6993
+      },
+      {
+        "word": "has",
+        "start_offset": 246,
+        "end_offset": 249,
+        "start": 54.352,
+        "end": 54.852,
+        "score": -0.834
+      },
+      {
+        "word": "an",
+        "start_offset": 250,
+        "end_offset": 252,
+        "start": 56.072,
+        "end": 56.372,
+        "score": -0.7703
+      },
+      {
+        "word": "unique",
+        "start_offset": 253,
+        "end_offset": 259,
+        "start": 57.172,
+        "end": 57.832,
+        "score": -0.927
+      },
+      {
+        "word": "such",
+        "start_offset": 260,
+        "end_offset": 264,
+        "start": 58.973,
+        "end": 59.373,
+        "score": -0.7018
+      },
+      {
+        "word": "point.",
+        "start_offset": 265,
+        "end_offset": 271,
+        "start": 60.213,
+        "end": 60.793,
+        "score": -0.7375
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "029-25.mp3",
+    "audio_duration": 63.0335,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

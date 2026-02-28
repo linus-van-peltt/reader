@@ -1,0 +1,499 @@
+{
+  "text": "I was wondering how many inhabited planets there are in our galaxy and if they all reach higher density by the Law of One, or if there is any other way— it doesn't seem to me that there would be any other way to reach higher density. Is this correct? I am Ra. Please restate your query.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I was wondering how many inhabited planets there are in our galaxy and if they all reach higher density by the Law of One, or if there is any other way— it doesn't seem to me that there would be any other way to reach higher density.",
+        "start_offset": 0,
+        "end_offset": 233,
+        "start": 3.422,
+        "end": 22.613
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 234,
+        "end_offset": 250,
+        "start": 22.673,
+        "end": 24.094
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 251,
+        "end_offset": 259,
+        "start": 28.817,
+        "end": 30.498
+      },
+      {
+        "segment": "Please restate your query.",
+        "start_offset": 260,
+        "end_offset": 286,
+        "start": 31.959,
+        "end": 37.042
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 3.422,
+        "end": 3.442,
+        "score": -7.6844
+      },
+      {
+        "word": "was",
+        "start_offset": 2,
+        "end_offset": 5,
+        "start": 3.462,
+        "end": 3.642,
+        "score": -3.4927
+      },
+      {
+        "word": "wondering",
+        "start_offset": 6,
+        "end_offset": 15,
+        "start": 3.722,
+        "end": 4.122,
+        "score": -3.3184
+      },
+      {
+        "word": "how",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 5.503,
+        "end": 5.583,
+        "score": -4.2932
+      },
+      {
+        "word": "many",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 5.603,
+        "end": 5.763,
+        "score": -1.4048
+      },
+      {
+        "word": "inhabited",
+        "start_offset": 25,
+        "end_offset": 34,
+        "start": 5.843,
+        "end": 6.484,
+        "score": -2.5874
+      },
+      {
+        "word": "planets",
+        "start_offset": 35,
+        "end_offset": 42,
+        "start": 6.684,
+        "end": 7.104,
+        "score": -2.5317
+      },
+      {
+        "word": "there",
+        "start_offset": 43,
+        "end_offset": 48,
+        "start": 7.204,
+        "end": 7.384,
+        "score": -2.447
+      },
+      {
+        "word": "are",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 7.444,
+        "end": 7.604,
+        "score": -1.1837
+      },
+      {
+        "word": "in",
+        "start_offset": 53,
+        "end_offset": 55,
+        "start": 7.705,
+        "end": 7.785,
+        "score": -0.8169
+      },
+      {
+        "word": "our",
+        "start_offset": 56,
+        "end_offset": 59,
+        "start": 7.885,
+        "end": 8.045,
+        "score": -0.9815
+      },
+      {
+        "word": "galaxy",
+        "start_offset": 60,
+        "end_offset": 66,
+        "start": 8.145,
+        "end": 8.665,
+        "score": -1.8013
+      },
+      {
+        "word": "and",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 8.785,
+        "end": 8.905,
+        "score": -1.6283
+      },
+      {
+        "word": "if",
+        "start_offset": 71,
+        "end_offset": 73,
+        "start": 8.945,
+        "end": 9.065,
+        "score": -3.8914
+      },
+      {
+        "word": "they",
+        "start_offset": 74,
+        "end_offset": 78,
+        "start": 9.105,
+        "end": 9.265,
+        "score": -1.2709
+      },
+      {
+        "word": "all",
+        "start_offset": 79,
+        "end_offset": 82,
+        "start": 9.466,
+        "end": 9.706,
+        "score": -1.7704
+      },
+      {
+        "word": "reach",
+        "start_offset": 83,
+        "end_offset": 88,
+        "start": 9.726,
+        "end": 9.986,
+        "score": -4.5254
+      },
+      {
+        "word": "higher",
+        "start_offset": 89,
+        "end_offset": 95,
+        "start": 10.406,
+        "end": 10.626,
+        "score": -3.7513
+      },
+      {
+        "word": "density",
+        "start_offset": 96,
+        "end_offset": 103,
+        "start": 10.706,
+        "end": 11.086,
+        "score": -3.5266
+      },
+      {
+        "word": "by",
+        "start_offset": 104,
+        "end_offset": 106,
+        "start": 12.147,
+        "end": 12.187,
+        "score": -6.3617
+      },
+      {
+        "word": "the",
+        "start_offset": 107,
+        "end_offset": 110,
+        "start": 15.849,
+        "end": 15.949,
+        "score": -4.8921
+      },
+      {
+        "word": "Law",
+        "start_offset": 111,
+        "end_offset": 114,
+        "start": 16.029,
+        "end": 16.23,
+        "score": -1.6932
+      },
+      {
+        "word": "of",
+        "start_offset": 115,
+        "end_offset": 117,
+        "start": 16.27,
+        "end": 16.43,
+        "score": -3.3413
+      },
+      {
+        "word": "One,",
+        "start_offset": 118,
+        "end_offset": 122,
+        "start": 16.51,
+        "end": 16.87,
+        "score": -2.8796
+      },
+      {
+        "word": "or",
+        "start_offset": 123,
+        "end_offset": 125,
+        "start": 17.17,
+        "end": 17.29,
+        "score": -2.4237
+      },
+      {
+        "word": "if",
+        "start_offset": 126,
+        "end_offset": 128,
+        "start": 17.41,
+        "end": 17.49,
+        "score": -4.5038
+      },
+      {
+        "word": "there",
+        "start_offset": 129,
+        "end_offset": 134,
+        "start": 17.59,
+        "end": 17.83,
+        "score": -3.5443
+      },
+      {
+        "word": "is",
+        "start_offset": 135,
+        "end_offset": 137,
+        "start": 17.85,
+        "end": 17.971,
+        "score": -1.4575
+      },
+      {
+        "word": "any",
+        "start_offset": 138,
+        "end_offset": 141,
+        "start": 18.431,
+        "end": 18.591,
+        "score": -1.3924
+      },
+      {
+        "word": "other",
+        "start_offset": 142,
+        "end_offset": 147,
+        "start": 18.651,
+        "end": 18.811,
+        "score": -1.4909
+      },
+      {
+        "word": "way—",
+        "start_offset": 148,
+        "end_offset": 152,
+        "start": 18.851,
+        "end": 18.991,
+        "score": -0.893
+      },
+      {
+        "word": "it",
+        "start_offset": 153,
+        "end_offset": 155,
+        "start": 19.011,
+        "end": 19.051,
+        "score": -5.6058
+      },
+      {
+        "word": "doesn't",
+        "start_offset": 156,
+        "end_offset": 163,
+        "start": 19.071,
+        "end": 19.351,
+        "score": -3.9991
+      },
+      {
+        "word": "seem",
+        "start_offset": 164,
+        "end_offset": 168,
+        "start": 19.371,
+        "end": 19.471,
+        "score": -5.0703
+      },
+      {
+        "word": "to",
+        "start_offset": 169,
+        "end_offset": 171,
+        "start": 19.491,
+        "end": 19.531,
+        "score": -6.0355
+      },
+      {
+        "word": "me",
+        "start_offset": 172,
+        "end_offset": 174,
+        "start": 19.551,
+        "end": 19.652,
+        "score": -4.9811
+      },
+      {
+        "word": "that",
+        "start_offset": 175,
+        "end_offset": 179,
+        "start": 19.692,
+        "end": 19.872,
+        "score": -4.5842
+      },
+      {
+        "word": "there",
+        "start_offset": 180,
+        "end_offset": 185,
+        "start": 19.932,
+        "end": 20.032,
+        "score": -3.7428
+      },
+      {
+        "word": "would",
+        "start_offset": 186,
+        "end_offset": 191,
+        "start": 20.052,
+        "end": 20.152,
+        "score": -5.7385
+      },
+      {
+        "word": "be",
+        "start_offset": 192,
+        "end_offset": 194,
+        "start": 20.192,
+        "end": 20.232,
+        "score": -4.7472
+      },
+      {
+        "word": "any",
+        "start_offset": 195,
+        "end_offset": 198,
+        "start": 20.352,
+        "end": 20.492,
+        "score": -1.3347
+      },
+      {
+        "word": "other",
+        "start_offset": 199,
+        "end_offset": 204,
+        "start": 20.552,
+        "end": 20.732,
+        "score": -1.1762
+      },
+      {
+        "word": "way",
+        "start_offset": 205,
+        "end_offset": 208,
+        "start": 20.772,
+        "end": 20.912,
+        "score": -0.8167
+      },
+      {
+        "word": "to",
+        "start_offset": 209,
+        "end_offset": 211,
+        "start": 20.992,
+        "end": 21.072,
+        "score": -1.039
+      },
+      {
+        "word": "reach",
+        "start_offset": 212,
+        "end_offset": 217,
+        "start": 21.112,
+        "end": 21.353,
+        "score": -2.3122
+      },
+      {
+        "word": "higher",
+        "start_offset": 218,
+        "end_offset": 224,
+        "start": 21.373,
+        "end": 22.213,
+        "score": -3.7984
+      },
+      {
+        "word": "density.",
+        "start_offset": 225,
+        "end_offset": 233,
+        "start": 22.293,
+        "end": 22.613,
+        "score": -3.8223
+      },
+      {
+        "word": "Is",
+        "start_offset": 234,
+        "end_offset": 236,
+        "start": 22.673,
+        "end": 22.733,
+        "score": -4.543
+      },
+      {
+        "word": "this",
+        "start_offset": 237,
+        "end_offset": 241,
+        "start": 23.274,
+        "end": 23.474,
+        "score": -4.6023
+      },
+      {
+        "word": "correct?",
+        "start_offset": 242,
+        "end_offset": 250,
+        "start": 23.774,
+        "end": 24.094,
+        "score": -4.8125
+      },
+      {
+        "word": "I",
+        "start_offset": 251,
+        "end_offset": 252,
+        "start": 28.817,
+        "end": 28.837,
+        "score": -1.2181
+      },
+      {
+        "word": "am",
+        "start_offset": 253,
+        "end_offset": 255,
+        "start": 29.497,
+        "end": 29.657,
+        "score": -3.9395
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 256,
+        "end_offset": 259,
+        "start": 30.358,
+        "end": 30.498,
+        "score": -2.4061
+      },
+      {
+        "word": "Please",
+        "start_offset": 260,
+        "end_offset": 266,
+        "start": 31.959,
+        "end": 32.419,
+        "score": -2.1984
+      },
+      {
+        "word": "restate",
+        "start_offset": 267,
+        "end_offset": 274,
+        "start": 33.079,
+        "end": 34.1,
+        "score": -2.0123
+      },
+      {
+        "word": "your",
+        "start_offset": 275,
+        "end_offset": 279,
+        "start": 34.88,
+        "end": 35.121,
+        "score": -2.6439
+      },
+      {
+        "word": "query.",
+        "start_offset": 280,
+        "end_offset": 286,
+        "start": 36.081,
+        "end": 37.042,
+        "score": -3.4222
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-24.mp3",
+    "audio_duration": 37.0417,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

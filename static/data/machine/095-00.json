@@ -1,0 +1,226 @@
+{
+  "text": "Raw session number ninety-five, September second, nineteen eighty two. I greet you my friend in the in the light of the one intent creator. We communicate now.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Raw session number ninety-five, September second, nineteen eighty two.",
+        "start_offset": 137,
+        "end_offset": 211,
+        "start": 10.96,
+        "end": 16.88
+      },
+      {
+        "segment": "I greet you my friend in the in the light of the one intent creator.",
+        "start_offset": 252,
+        "end_offset": 538,
+        "start": 20.16,
+        "end": 43.04
+      },
+      {
+        "segment": "We communicate now.",
+        "start_offset": 590,
+        "end_offset": 623,
+        "start": 47.2,
+        "end": 49.84
+      }
+    ],
+    "word": [
+      {
+        "word": "Raw",
+        "start_offset": 137,
+        "end_offset": 145,
+        "start": 10.96,
+        "end": 11.6
+      },
+      {
+        "word": "session",
+        "start_offset": 147,
+        "end_offset": 153,
+        "start": 11.76,
+        "end": 12.24
+      },
+      {
+        "word": "number",
+        "start_offset": 153,
+        "end_offset": 157,
+        "start": 12.24,
+        "end": 12.56
+      },
+      {
+        "word": "ninety-five,",
+        "start_offset": 157,
+        "end_offset": 168,
+        "start": 12.56,
+        "end": 13.44
+      },
+      {
+        "word": "September",
+        "start_offset": 174,
+        "end_offset": 185,
+        "start": 13.92,
+        "end": 14.8
+      },
+      {
+        "word": "second,",
+        "start_offset": 185,
+        "end_offset": 192,
+        "start": 14.8,
+        "end": 15.36
+      },
+      {
+        "word": "nineteen",
+        "start_offset": 194,
+        "end_offset": 200,
+        "start": 15.52,
+        "end": 16.0
+      },
+      {
+        "word": "eighty",
+        "start_offset": 200,
+        "end_offset": 207,
+        "start": 16.0,
+        "end": 16.56
+      },
+      {
+        "word": "two.",
+        "start_offset": 207,
+        "end_offset": 211,
+        "start": 16.56,
+        "end": 16.88
+      },
+      {
+        "word": "I",
+        "start_offset": 252,
+        "end_offset": 256,
+        "start": 20.16,
+        "end": 20.48
+      },
+      {
+        "word": "greet",
+        "start_offset": 264,
+        "end_offset": 272,
+        "start": 21.12,
+        "end": 21.76
+      },
+      {
+        "word": "you",
+        "start_offset": 276,
+        "end_offset": 280,
+        "start": 22.080000000000002,
+        "end": 22.400000000000002
+      },
+      {
+        "word": "my",
+        "start_offset": 310,
+        "end_offset": 314,
+        "start": 24.8,
+        "end": 25.12
+      },
+      {
+        "word": "friend",
+        "start_offset": 326,
+        "end_offset": 334,
+        "start": 26.080000000000002,
+        "end": 26.72
+      },
+      {
+        "word": "in",
+        "start_offset": 363,
+        "end_offset": 367,
+        "start": 29.04,
+        "end": 29.36
+      },
+      {
+        "word": "the",
+        "start_offset": 371,
+        "end_offset": 375,
+        "start": 29.68,
+        "end": 30.0
+      },
+      {
+        "word": "in",
+        "start_offset": 430,
+        "end_offset": 434,
+        "start": 34.4,
+        "end": 34.72
+      },
+      {
+        "word": "the",
+        "start_offset": 438,
+        "end_offset": 442,
+        "start": 35.04,
+        "end": 35.36
+      },
+      {
+        "word": "light",
+        "start_offset": 446,
+        "end_offset": 458,
+        "start": 35.68,
+        "end": 36.64
+      },
+      {
+        "word": "of",
+        "start_offset": 476,
+        "end_offset": 480,
+        "start": 38.08,
+        "end": 38.4
+      },
+      {
+        "word": "the",
+        "start_offset": 484,
+        "end_offset": 488,
+        "start": 38.72,
+        "end": 39.04
+      },
+      {
+        "word": "one",
+        "start_offset": 488,
+        "end_offset": 492,
+        "start": 39.04,
+        "end": 39.36
+      },
+      {
+        "word": "intent",
+        "start_offset": 503,
+        "end_offset": 512,
+        "start": 40.24,
+        "end": 40.96
+      },
+      {
+        "word": "creator.",
+        "start_offset": 531,
+        "end_offset": 538,
+        "start": 42.480000000000004,
+        "end": 43.04
+      },
+      {
+        "word": "We",
+        "start_offset": 590,
+        "end_offset": 594,
+        "start": 47.2,
+        "end": 47.52
+      },
+      {
+        "word": "communicate",
+        "start_offset": 598,
+        "end_offset": 616,
+        "start": 47.84,
+        "end": 49.28
+      },
+      {
+        "word": "now.",
+        "start_offset": 619,
+        "end_offset": 623,
+        "start": 49.52,
+        "end": 49.84
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "095-00.mp3",
+    "audio_duration": 51.04,
+    "transcription_time": 0.11,
+    "rtfx": 451.01,
+    "timestamp": "2026-01-06T21:59:30.395260+00:00"
+  }
+}

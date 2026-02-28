@@ -1,0 +1,541 @@
+{
+  "text": "Can you tell me the cause for the increase of the physical distortion? I am wrong. Physical distortions of this nature are begun as we have said, due to over activity of weak, as you call this distortion, portions of the body complex. The worsening is due to the nature of the distortion itself, which you call arthritis. Once begun the distortion will unpredictably remain and unpredictably worsen or lessen.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me the cause for the increase of the physical distortion?",
+        "start_offset": 28,
+        "end_offset": 80,
+        "start": 2.24,
+        "end": 6.4
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 176,
+        "end_offset": 215,
+        "start": 14.08,
+        "end": 17.2
+      },
+      {
+        "segment": "Physical distortions of this nature are begun as we have said, due to over activity of weak, as you call this distortion, portions of the body complex.",
+        "start_offset": 250,
+        "end_offset": 814,
+        "start": 20.0,
+        "end": 65.12
+      },
+      {
+        "segment": "The worsening is due to the nature of the distortion itself, which you call arthritis.",
+        "start_offset": 842,
+        "end_offset": 1126,
+        "start": 67.36,
+        "end": 90.08
+      },
+      {
+        "segment": "Once begun the distortion will unpredictably remain and unpredictably worsen or lessen.",
+        "start_offset": 1151,
+        "end_offset": 1514,
+        "start": 92.08,
+        "end": 121.12
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 2.24,
+        "end": 2.4
+      },
+      {
+        "word": "you",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 2.56,
+        "end": 2.72
+      },
+      {
+        "word": "tell",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 2.72,
+        "end": 3.04
+      },
+      {
+        "word": "me",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 3.04,
+        "end": 3.2
+      },
+      {
+        "word": "the",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 3.2,
+        "end": 3.36
+      },
+      {
+        "word": "cause",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 3.36,
+        "end": 3.68
+      },
+      {
+        "word": "for",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 3.68,
+        "end": 3.84
+      },
+      {
+        "word": "the",
+        "start_offset": 48,
+        "end_offset": 50,
+        "start": 3.84,
+        "end": 4.0
+      },
+      {
+        "word": "increase",
+        "start_offset": 50,
+        "end_offset": 57,
+        "start": 4.0,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "of",
+        "start_offset": 57,
+        "end_offset": 59,
+        "start": 4.5600000000000005,
+        "end": 4.72
+      },
+      {
+        "word": "the",
+        "start_offset": 59,
+        "end_offset": 61,
+        "start": 4.72,
+        "end": 4.88
+      },
+      {
+        "word": "physical",
+        "start_offset": 61,
+        "end_offset": 68,
+        "start": 4.88,
+        "end": 5.44
+      },
+      {
+        "word": "distortion?",
+        "start_offset": 68,
+        "end_offset": 80,
+        "start": 5.44,
+        "end": 6.4
+      },
+      {
+        "word": "I",
+        "start_offset": 176,
+        "end_offset": 180,
+        "start": 14.08,
+        "end": 14.4
+      },
+      {
+        "word": "am",
+        "start_offset": 192,
+        "end_offset": 196,
+        "start": 15.36,
+        "end": 15.68
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 207,
+        "end_offset": 215,
+        "start": 16.56,
+        "end": 17.2
+      },
+      {
+        "word": "Physical",
+        "start_offset": 250,
+        "end_offset": 264,
+        "start": 20.0,
+        "end": 21.12
+      },
+      {
+        "word": "distortions",
+        "start_offset": 276,
+        "end_offset": 292,
+        "start": 22.080000000000002,
+        "end": 23.36
+      },
+      {
+        "word": "of",
+        "start_offset": 312,
+        "end_offset": 316,
+        "start": 24.96,
+        "end": 25.28
+      },
+      {
+        "word": "this",
+        "start_offset": 324,
+        "end_offset": 328,
+        "start": 25.92,
+        "end": 26.240000000000002
+      },
+      {
+        "word": "nature",
+        "start_offset": 336,
+        "end_offset": 344,
+        "start": 26.88,
+        "end": 27.52
+      },
+      {
+        "word": "are",
+        "start_offset": 372,
+        "end_offset": 376,
+        "start": 29.76,
+        "end": 30.080000000000002
+      },
+      {
+        "word": "begun",
+        "start_offset": 383,
+        "end_offset": 392,
+        "start": 30.64,
+        "end": 31.36
+      },
+      {
+        "word": "as",
+        "start_offset": 409,
+        "end_offset": 413,
+        "start": 32.72,
+        "end": 33.04
+      },
+      {
+        "word": "we",
+        "start_offset": 417,
+        "end_offset": 421,
+        "start": 33.36,
+        "end": 33.68
+      },
+      {
+        "word": "have",
+        "start_offset": 429,
+        "end_offset": 433,
+        "start": 34.32,
+        "end": 34.64
+      },
+      {
+        "word": "said,",
+        "start_offset": 441,
+        "end_offset": 445,
+        "start": 35.28,
+        "end": 35.6
+      },
+      {
+        "word": "due",
+        "start_offset": 472,
+        "end_offset": 474,
+        "start": 37.76,
+        "end": 37.92
+      },
+      {
+        "word": "to",
+        "start_offset": 487,
+        "end_offset": 491,
+        "start": 38.96,
+        "end": 39.28
+      },
+      {
+        "word": "over",
+        "start_offset": 525,
+        "end_offset": 529,
+        "start": 42.0,
+        "end": 42.32
+      },
+      {
+        "word": "activity",
+        "start_offset": 549,
+        "end_offset": 565,
+        "start": 43.92,
+        "end": 45.2
+      },
+      {
+        "word": "of",
+        "start_offset": 597,
+        "end_offset": 601,
+        "start": 47.76,
+        "end": 48.08
+      },
+      {
+        "word": "weak,",
+        "start_offset": 629,
+        "end_offset": 637,
+        "start": 50.32,
+        "end": 50.96
+      },
+      {
+        "word": "as",
+        "start_offset": 649,
+        "end_offset": 653,
+        "start": 51.92,
+        "end": 52.24
+      },
+      {
+        "word": "you",
+        "start_offset": 661,
+        "end_offset": 665,
+        "start": 52.88,
+        "end": 53.2
+      },
+      {
+        "word": "call",
+        "start_offset": 673,
+        "end_offset": 681,
+        "start": 53.84,
+        "end": 54.480000000000004
+      },
+      {
+        "word": "this",
+        "start_offset": 685,
+        "end_offset": 689,
+        "start": 54.800000000000004,
+        "end": 55.120000000000005
+      },
+      {
+        "word": "distortion,",
+        "start_offset": 705,
+        "end_offset": 717,
+        "start": 56.4,
+        "end": 57.36
+      },
+      {
+        "word": "portions",
+        "start_offset": 736,
+        "end_offset": 747,
+        "start": 58.88,
+        "end": 59.76
+      },
+      {
+        "word": "of",
+        "start_offset": 763,
+        "end_offset": 767,
+        "start": 61.04,
+        "end": 61.36
+      },
+      {
+        "word": "the",
+        "start_offset": 771,
+        "end_offset": 775,
+        "start": 61.68,
+        "end": 62.0
+      },
+      {
+        "word": "body",
+        "start_offset": 783,
+        "end_offset": 791,
+        "start": 62.64,
+        "end": 63.28
+      },
+      {
+        "word": "complex.",
+        "start_offset": 803,
+        "end_offset": 814,
+        "start": 64.24,
+        "end": 65.12
+      },
+      {
+        "word": "The",
+        "start_offset": 842,
+        "end_offset": 846,
+        "start": 67.36,
+        "end": 67.68
+      },
+      {
+        "word": "worsening",
+        "start_offset": 858,
+        "end_offset": 873,
+        "start": 68.64,
+        "end": 69.84
+      },
+      {
+        "word": "is",
+        "start_offset": 889,
+        "end_offset": 893,
+        "start": 71.12,
+        "end": 71.44
+      },
+      {
+        "word": "due",
+        "start_offset": 901,
+        "end_offset": 905,
+        "start": 72.08,
+        "end": 72.4
+      },
+      {
+        "word": "to",
+        "start_offset": 913,
+        "end_offset": 917,
+        "start": 73.04,
+        "end": 73.36
+      },
+      {
+        "word": "the",
+        "start_offset": 921,
+        "end_offset": 925,
+        "start": 73.68,
+        "end": 74.0
+      },
+      {
+        "word": "nature",
+        "start_offset": 929,
+        "end_offset": 941,
+        "start": 74.32000000000001,
+        "end": 75.28
+      },
+      {
+        "word": "of",
+        "start_offset": 957,
+        "end_offset": 961,
+        "start": 76.56,
+        "end": 76.88
+      },
+      {
+        "word": "the",
+        "start_offset": 973,
+        "end_offset": 977,
+        "start": 77.84,
+        "end": 78.16
+      },
+      {
+        "word": "distortion",
+        "start_offset": 985,
+        "end_offset": 1001,
+        "start": 78.8,
+        "end": 80.08
+      },
+      {
+        "word": "itself,",
+        "start_offset": 1016,
+        "end_offset": 1024,
+        "start": 81.28,
+        "end": 81.92
+      },
+      {
+        "word": "which",
+        "start_offset": 1048,
+        "end_offset": 1052,
+        "start": 83.84,
+        "end": 84.16
+      },
+      {
+        "word": "you",
+        "start_offset": 1060,
+        "end_offset": 1064,
+        "start": 84.8,
+        "end": 85.12
+      },
+      {
+        "word": "call",
+        "start_offset": 1076,
+        "end_offset": 1084,
+        "start": 86.08,
+        "end": 86.72
+      },
+      {
+        "word": "arthritis.",
+        "start_offset": 1104,
+        "end_offset": 1126,
+        "start": 88.32000000000001,
+        "end": 90.08
+      },
+      {
+        "word": "Once",
+        "start_offset": 1151,
+        "end_offset": 1159,
+        "start": 92.08,
+        "end": 92.72
+      },
+      {
+        "word": "begun",
+        "start_offset": 1179,
+        "end_offset": 1187,
+        "start": 94.32000000000001,
+        "end": 94.96000000000001
+      },
+      {
+        "word": "the",
+        "start_offset": 1202,
+        "end_offset": 1206,
+        "start": 96.16,
+        "end": 96.48
+      },
+      {
+        "word": "distortion",
+        "start_offset": 1234,
+        "end_offset": 1250,
+        "start": 98.72,
+        "end": 100.0
+      },
+      {
+        "word": "will",
+        "start_offset": 1280,
+        "end_offset": 1284,
+        "start": 102.4,
+        "end": 102.72
+      },
+      {
+        "word": "unpredictably",
+        "start_offset": 1308,
+        "end_offset": 1342,
+        "start": 104.64,
+        "end": 107.36
+      },
+      {
+        "word": "remain",
+        "start_offset": 1362,
+        "end_offset": 1374,
+        "start": 108.96000000000001,
+        "end": 109.92
+      },
+      {
+        "word": "and",
+        "start_offset": 1398,
+        "end_offset": 1402,
+        "start": 111.84,
+        "end": 112.16
+      },
+      {
+        "word": "unpredictably",
+        "start_offset": 1414,
+        "end_offset": 1446,
+        "start": 113.12,
+        "end": 115.68
+      },
+      {
+        "word": "worsen",
+        "start_offset": 1462,
+        "end_offset": 1470,
+        "start": 116.96000000000001,
+        "end": 117.60000000000001
+      },
+      {
+        "word": "or",
+        "start_offset": 1486,
+        "end_offset": 1490,
+        "start": 118.88,
+        "end": 119.2
+      },
+      {
+        "word": "lessen.",
+        "start_offset": 1502,
+        "end_offset": 1514,
+        "start": 120.16,
+        "end": 121.12
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "058-02.mp3",
+    "audio_duration": 126.04,
+    "transcription_time": 0.19,
+    "rtfx": 675.67,
+    "timestamp": "2026-01-06T21:52:55.060412+00:00"
+  }
+}

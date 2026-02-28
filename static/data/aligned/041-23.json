@@ -1,0 +1,290 @@
+{
+  "text": "I have a book, Initiation, in which the woman describes initiation. Are you familiar with the contents of this book? I am Ra. This is correct. We scan your mind.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I have a book, Initiation, in which the woman describes initiation.",
+        "start_offset": 0,
+        "end_offset": 67,
+        "start": 2.481,
+        "end": 12.405
+      },
+      {
+        "segment": "Are you familiar with the contents of this book?",
+        "start_offset": 68,
+        "end_offset": 116,
+        "start": 14.345,
+        "end": 16.306
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 117,
+        "end_offset": 125,
+        "start": 22.488,
+        "end": 24.429
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 126,
+        "end_offset": 142,
+        "start": 26.39,
+        "end": 29.571
+      },
+      {
+        "segment": "We scan your mind.",
+        "start_offset": 143,
+        "end_offset": 161,
+        "start": 30.952,
+        "end": 35.633
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 2.481,
+        "end": 2.501,
+        "score": -5.8734
+      },
+      {
+        "word": "have",
+        "start_offset": 2,
+        "end_offset": 6,
+        "start": 2.561,
+        "end": 2.941,
+        "score": -2.1648
+      },
+      {
+        "word": "a",
+        "start_offset": 7,
+        "end_offset": 8,
+        "start": 3.161,
+        "end": 3.181,
+        "score": -1.8041
+      },
+      {
+        "word": "book,",
+        "start_offset": 9,
+        "end_offset": 14,
+        "start": 4.102,
+        "end": 4.362,
+        "score": -2.5658
+      },
+      {
+        "word": "Initiation,",
+        "start_offset": 15,
+        "end_offset": 26,
+        "start": 4.582,
+        "end": 5.362,
+        "score": -1.9139
+      },
+      {
+        "word": "in",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 8.003,
+        "end": 8.083,
+        "score": -0.7504
+      },
+      {
+        "word": "which",
+        "start_offset": 30,
+        "end_offset": 35,
+        "start": 8.123,
+        "end": 8.363,
+        "score": -0.7524
+      },
+      {
+        "word": "the",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 8.483,
+        "end": 8.603,
+        "score": -1.0982
+      },
+      {
+        "word": "woman",
+        "start_offset": 40,
+        "end_offset": 45,
+        "start": 9.043,
+        "end": 9.324,
+        "score": -1.4319
+      },
+      {
+        "word": "describes",
+        "start_offset": 46,
+        "end_offset": 55,
+        "start": 9.364,
+        "end": 10.064,
+        "score": -1.5116
+      },
+      {
+        "word": "initiation.",
+        "start_offset": 56,
+        "end_offset": 67,
+        "start": 11.604,
+        "end": 12.405,
+        "score": -1.928
+      },
+      {
+        "word": "Are",
+        "start_offset": 68,
+        "end_offset": 71,
+        "start": 14.345,
+        "end": 14.425,
+        "score": -2.2657
+      },
+      {
+        "word": "you",
+        "start_offset": 72,
+        "end_offset": 75,
+        "start": 14.445,
+        "end": 14.525,
+        "score": -1.4
+      },
+      {
+        "word": "familiar",
+        "start_offset": 76,
+        "end_offset": 84,
+        "start": 14.565,
+        "end": 14.886,
+        "score": -3.2356
+      },
+      {
+        "word": "with",
+        "start_offset": 85,
+        "end_offset": 89,
+        "start": 14.906,
+        "end": 15.006,
+        "score": -2.9316
+      },
+      {
+        "word": "the",
+        "start_offset": 90,
+        "end_offset": 93,
+        "start": 15.026,
+        "end": 15.086,
+        "score": -1.5111
+      },
+      {
+        "word": "contents",
+        "start_offset": 94,
+        "end_offset": 102,
+        "start": 15.186,
+        "end": 15.706,
+        "score": -0.7605
+      },
+      {
+        "word": "of",
+        "start_offset": 103,
+        "end_offset": 105,
+        "start": 15.746,
+        "end": 15.826,
+        "score": -0.8289
+      },
+      {
+        "word": "this",
+        "start_offset": 106,
+        "end_offset": 110,
+        "start": 15.846,
+        "end": 15.986,
+        "score": -3.5332
+      },
+      {
+        "word": "book?",
+        "start_offset": 111,
+        "end_offset": 116,
+        "start": 16.066,
+        "end": 16.306,
+        "score": -0.8176
+      },
+      {
+        "word": "I",
+        "start_offset": 117,
+        "end_offset": 118,
+        "start": 22.488,
+        "end": 22.508,
+        "score": -1.1195
+      },
+      {
+        "word": "am",
+        "start_offset": 119,
+        "end_offset": 121,
+        "start": 23.269,
+        "end": 23.609,
+        "score": -1.4577
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 122,
+        "end_offset": 125,
+        "start": 24.269,
+        "end": 24.429,
+        "score": -3.7856
+      },
+      {
+        "word": "This",
+        "start_offset": 126,
+        "end_offset": 130,
+        "start": 26.39,
+        "end": 26.79,
+        "score": -0.7441
+      },
+      {
+        "word": "is",
+        "start_offset": 131,
+        "end_offset": 133,
+        "start": 27.57,
+        "end": 27.89,
+        "score": -0.7285
+      },
+      {
+        "word": "correct.",
+        "start_offset": 134,
+        "end_offset": 142,
+        "start": 28.571,
+        "end": 29.571,
+        "score": -1.4903
+      },
+      {
+        "word": "We",
+        "start_offset": 143,
+        "end_offset": 145,
+        "start": 30.952,
+        "end": 31.132,
+        "score": -1.0908
+      },
+      {
+        "word": "scan",
+        "start_offset": 146,
+        "end_offset": 150,
+        "start": 32.312,
+        "end": 33.012,
+        "score": -0.7364
+      },
+      {
+        "word": "your",
+        "start_offset": 151,
+        "end_offset": 155,
+        "start": 33.813,
+        "end": 34.213,
+        "score": -1.1645
+      },
+      {
+        "word": "mind.",
+        "start_offset": 156,
+        "end_offset": 161,
+        "start": 35.093,
+        "end": 35.633,
+        "score": -0.7765
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "041-23.mp3",
+    "audio_duration": 38.0343,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

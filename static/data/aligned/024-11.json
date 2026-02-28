@@ -1,0 +1,283 @@
+{
+  "text": "Very good. Did the Orion group use similar methods for their impression 3, 600 years ago? I am Ra. The group or empire had an emissary in your skies at that time.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Very good.",
+        "start_offset": 0,
+        "end_offset": 10,
+        "start": 1.481,
+        "end": 3.261
+      },
+      {
+        "segment": "Did the Orion group use similar methods for their impression years ago?",
+        "start_offset": 11,
+        "end_offset": 89,
+        "start": 3.281,
+        "end": 12.405
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 90,
+        "end_offset": 98,
+        "start": 16.326,
+        "end": 18.227
+      },
+      {
+        "segment": "The group or empire had an emissary in your skies at that time.",
+        "start_offset": 99,
+        "end_offset": 162,
+        "start": 20.328,
+        "end": 36.554
+      }
+    ],
+    "word": [
+      {
+        "word": "Very",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 1.481,
+        "end": 1.621,
+        "score": -8.403
+      },
+      {
+        "word": "good.",
+        "start_offset": 5,
+        "end_offset": 10,
+        "start": 1.701,
+        "end": 3.261,
+        "score": -7.1187
+      },
+      {
+        "word": "Did",
+        "start_offset": 11,
+        "end_offset": 14,
+        "start": 3.281,
+        "end": 3.381,
+        "score": -4.0552
+      },
+      {
+        "word": "the",
+        "start_offset": 15,
+        "end_offset": 18,
+        "start": 3.401,
+        "end": 3.501,
+        "score": -1.143
+      },
+      {
+        "word": "Orion",
+        "start_offset": 19,
+        "end_offset": 24,
+        "start": 3.581,
+        "end": 4.002,
+        "score": -1.5805
+      },
+      {
+        "word": "group",
+        "start_offset": 25,
+        "end_offset": 30,
+        "start": 4.082,
+        "end": 4.282,
+        "score": -0.8217
+      },
+      {
+        "word": "use",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 4.422,
+        "end": 4.562,
+        "score": -0.732
+      },
+      {
+        "word": "similar",
+        "start_offset": 35,
+        "end_offset": 42,
+        "start": 4.602,
+        "end": 4.962,
+        "score": -0.9278
+      },
+      {
+        "word": "methods",
+        "start_offset": 43,
+        "end_offset": 50,
+        "start": 5.002,
+        "end": 5.442,
+        "score": -1.2233
+      },
+      {
+        "word": "for",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 5.702,
+        "end": 5.902,
+        "score": -1.2303
+      },
+      {
+        "word": "their",
+        "start_offset": 55,
+        "end_offset": 60,
+        "start": 6.182,
+        "end": 6.342,
+        "score": -1.687
+      },
+      {
+        "word": "impression",
+        "start_offset": 61,
+        "end_offset": 71,
+        "start": 6.382,
+        "end": 6.923,
+        "score": -1.3118
+      },
+      {
+        "word": "years",
+        "start_offset": 79,
+        "end_offset": 84,
+        "start": 12.065,
+        "end": 12.245,
+        "score": -6.2222
+      },
+      {
+        "word": "ago?",
+        "start_offset": 85,
+        "end_offset": 89,
+        "start": 12.285,
+        "end": 12.405,
+        "score": -7.3588
+      },
+      {
+        "word": "I",
+        "start_offset": 90,
+        "end_offset": 91,
+        "start": 16.326,
+        "end": 16.346,
+        "score": -0.8087
+      },
+      {
+        "word": "am",
+        "start_offset": 92,
+        "end_offset": 94,
+        "start": 16.926,
+        "end": 17.266,
+        "score": -2.9361
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 95,
+        "end_offset": 98,
+        "start": 18.067,
+        "end": 18.227,
+        "score": -0.9672
+      },
+      {
+        "word": "The",
+        "start_offset": 99,
+        "end_offset": 102,
+        "start": 20.328,
+        "end": 20.468,
+        "score": -0.7788
+      },
+      {
+        "word": "group",
+        "start_offset": 103,
+        "end_offset": 108,
+        "start": 21.868,
+        "end": 22.348,
+        "score": -0.7892
+      },
+      {
+        "word": "or",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 23.269,
+        "end": 23.549,
+        "score": -0.7115
+      },
+      {
+        "word": "empire",
+        "start_offset": 112,
+        "end_offset": 118,
+        "start": 23.989,
+        "end": 24.969,
+        "score": -0.8173
+      },
+      {
+        "word": "had",
+        "start_offset": 119,
+        "end_offset": 122,
+        "start": 26.59,
+        "end": 27.03,
+        "score": -0.7102
+      },
+      {
+        "word": "an",
+        "start_offset": 123,
+        "end_offset": 125,
+        "start": 27.47,
+        "end": 27.79,
+        "score": -0.7262
+      },
+      {
+        "word": "emissary",
+        "start_offset": 126,
+        "end_offset": 134,
+        "start": 28.231,
+        "end": 29.431,
+        "score": -1.0831
+      },
+      {
+        "word": "in",
+        "start_offset": 135,
+        "end_offset": 137,
+        "start": 31.532,
+        "end": 31.772,
+        "score": -0.6997
+      },
+      {
+        "word": "your",
+        "start_offset": 138,
+        "end_offset": 142,
+        "start": 32.112,
+        "end": 32.472,
+        "score": -0.9945
+      },
+      {
+        "word": "skies",
+        "start_offset": 143,
+        "end_offset": 148,
+        "start": 32.692,
+        "end": 33.593,
+        "score": -2.3736
+      },
+      {
+        "word": "at",
+        "start_offset": 149,
+        "end_offset": 151,
+        "start": 34.353,
+        "end": 34.633,
+        "score": -0.7094
+      },
+      {
+        "word": "that",
+        "start_offset": 152,
+        "end_offset": 156,
+        "start": 35.093,
+        "end": 35.493,
+        "score": -0.7371
+      },
+      {
+        "word": "time.",
+        "start_offset": 157,
+        "end_offset": 162,
+        "start": 35.894,
+        "end": 36.554,
+        "score": -0.7043
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "024-11.mp3",
+    "audio_duration": 38.0343,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

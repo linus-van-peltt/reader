@@ -1,0 +1,240 @@
+{
+  "text": "Was that the only thing we could do? I am Ra. That is the only thing you could do, which you are not already attempting with a whole heart.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Was that the only thing we could do?",
+        "start_offset": 31,
+        "end_offset": 56,
+        "start": 2.48,
+        "end": 4.48
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 99,
+        "end_offset": 131,
+        "start": 7.92,
+        "end": 10.48
+      },
+      {
+        "segment": "That is the only thing you could do, which you are not already attempting with a whole heart.",
+        "start_offset": 159,
+        "end_offset": 455,
+        "start": 12.72,
+        "end": 36.4
+      }
+    ],
+    "word": [
+      {
+        "word": "Was",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 2.48,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "that",
+        "start_offset": 35,
+        "end_offset": 37,
+        "start": 2.8000000000000003,
+        "end": 2.96
+      },
+      {
+        "word": "the",
+        "start_offset": 37,
+        "end_offset": 40,
+        "start": 2.96,
+        "end": 3.2
+      },
+      {
+        "word": "only",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 3.2,
+        "end": 3.36
+      },
+      {
+        "word": "thing",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 3.36,
+        "end": 3.6
+      },
+      {
+        "word": "we",
+        "start_offset": 45,
+        "end_offset": 48,
+        "start": 3.6,
+        "end": 3.84
+      },
+      {
+        "word": "could",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 3.84,
+        "end": 4.16
+      },
+      {
+        "word": "do?",
+        "start_offset": 52,
+        "end_offset": 56,
+        "start": 4.16,
+        "end": 4.48
+      },
+      {
+        "word": "I",
+        "start_offset": 99,
+        "end_offset": 103,
+        "start": 7.92,
+        "end": 8.24
+      },
+      {
+        "word": "am",
+        "start_offset": 111,
+        "end_offset": 115,
+        "start": 8.88,
+        "end": 9.200000000000001
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 127,
+        "end_offset": 131,
+        "start": 10.16,
+        "end": 10.48
+      },
+      {
+        "word": "That",
+        "start_offset": 159,
+        "end_offset": 163,
+        "start": 12.72,
+        "end": 13.040000000000001
+      },
+      {
+        "word": "is",
+        "start_offset": 171,
+        "end_offset": 175,
+        "start": 13.68,
+        "end": 14.0
+      },
+      {
+        "word": "the",
+        "start_offset": 187,
+        "end_offset": 191,
+        "start": 14.96,
+        "end": 15.280000000000001
+      },
+      {
+        "word": "only",
+        "start_offset": 207,
+        "end_offset": 211,
+        "start": 16.56,
+        "end": 16.88
+      },
+      {
+        "word": "thing",
+        "start_offset": 223,
+        "end_offset": 235,
+        "start": 17.84,
+        "end": 18.8
+      },
+      {
+        "word": "you",
+        "start_offset": 243,
+        "end_offset": 247,
+        "start": 19.44,
+        "end": 19.76
+      },
+      {
+        "word": "could",
+        "start_offset": 259,
+        "end_offset": 263,
+        "start": 20.72,
+        "end": 21.04
+      },
+      {
+        "word": "do,",
+        "start_offset": 271,
+        "end_offset": 275,
+        "start": 21.68,
+        "end": 22.0
+      },
+      {
+        "word": "which",
+        "start_offset": 291,
+        "end_offset": 295,
+        "start": 23.28,
+        "end": 23.6
+      },
+      {
+        "word": "you",
+        "start_offset": 303,
+        "end_offset": 307,
+        "start": 24.240000000000002,
+        "end": 24.560000000000002
+      },
+      {
+        "word": "are",
+        "start_offset": 323,
+        "end_offset": 327,
+        "start": 25.84,
+        "end": 26.16
+      },
+      {
+        "word": "not",
+        "start_offset": 339,
+        "end_offset": 343,
+        "start": 27.12,
+        "end": 27.44
+      },
+      {
+        "word": "already",
+        "start_offset": 355,
+        "end_offset": 367,
+        "start": 28.400000000000002,
+        "end": 29.36
+      },
+      {
+        "word": "attempting",
+        "start_offset": 381,
+        "end_offset": 395,
+        "start": 30.48,
+        "end": 31.6
+      },
+      {
+        "word": "with",
+        "start_offset": 407,
+        "end_offset": 411,
+        "start": 32.56,
+        "end": 32.88
+      },
+      {
+        "word": "a",
+        "start_offset": 427,
+        "end_offset": 431,
+        "start": 34.160000000000004,
+        "end": 34.480000000000004
+      },
+      {
+        "word": "whole",
+        "start_offset": 431,
+        "end_offset": 439,
+        "start": 34.480000000000004,
+        "end": 35.12
+      },
+      {
+        "word": "heart.",
+        "start_offset": 447,
+        "end_offset": 455,
+        "start": 35.76,
+        "end": 36.4
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "077-05.mp3",
+    "audio_duration": 39.03,
+    "transcription_time": 0.1,
+    "rtfx": 393.07,
+    "timestamp": "2026-01-06T21:56:05.272516+00:00"
+  }
+}

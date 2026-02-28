@@ -1,0 +1,188 @@
+{
+  "text": "Could you first please give me the condition of the instrument? I am Ra. It is as previously stated.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you first please give me the condition of the instrument?",
+        "start_offset": 0,
+        "end_offset": 63,
+        "start": 0.1,
+        "end": 2.461
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 64,
+        "end_offset": 72,
+        "start": 8.644,
+        "end": 10.244
+      },
+      {
+        "segment": "It is as previously stated.",
+        "start_offset": 73,
+        "end_offset": 100,
+        "start": 12.445,
+        "end": 18.107
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 0.1,
+        "end": 0.22,
+        "score": -4.7758
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 0.26,
+        "end": 0.32,
+        "score": -0.8956
+      },
+      {
+        "word": "first",
+        "start_offset": 10,
+        "end_offset": 15,
+        "start": 0.38,
+        "end": 0.62,
+        "score": -0.7128
+      },
+      {
+        "word": "please",
+        "start_offset": 16,
+        "end_offset": 22,
+        "start": 0.66,
+        "end": 0.92,
+        "score": -2.0758
+      },
+      {
+        "word": "give",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 0.94,
+        "end": 1.1,
+        "score": -0.7055
+      },
+      {
+        "word": "me",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 1.12,
+        "end": 1.18,
+        "score": -0.7113
+      },
+      {
+        "word": "the",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 1.261,
+        "end": 1.341,
+        "score": -0.7169
+      },
+      {
+        "word": "condition",
+        "start_offset": 35,
+        "end_offset": 44,
+        "start": 1.361,
+        "end": 1.761,
+        "score": -0.698
+      },
+      {
+        "word": "of",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 1.821,
+        "end": 1.881,
+        "score": -0.7332
+      },
+      {
+        "word": "the",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 1.901,
+        "end": 1.961,
+        "score": -0.7491
+      },
+      {
+        "word": "instrument?",
+        "start_offset": 52,
+        "end_offset": 63,
+        "start": 2.021,
+        "end": 2.461,
+        "score": -1.012
+      },
+      {
+        "word": "I",
+        "start_offset": 64,
+        "end_offset": 65,
+        "start": 8.644,
+        "end": 8.664,
+        "score": -1.1686
+      },
+      {
+        "word": "am",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 9.064,
+        "end": 9.404,
+        "score": -1.6928
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 10.124,
+        "end": 10.244,
+        "score": -2.6982
+      },
+      {
+        "word": "It",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 12.445,
+        "end": 12.605,
+        "score": -0.8085
+      },
+      {
+        "word": "is",
+        "start_offset": 76,
+        "end_offset": 78,
+        "start": 13.085,
+        "end": 13.626,
+        "score": -0.7684
+      },
+      {
+        "word": "as",
+        "start_offset": 79,
+        "end_offset": 81,
+        "start": 14.146,
+        "end": 14.566,
+        "score": -0.7515
+      },
+      {
+        "word": "previously",
+        "start_offset": 82,
+        "end_offset": 92,
+        "start": 15.046,
+        "end": 16.207,
+        "score": -0.7318
+      },
+      {
+        "word": "stated.",
+        "start_offset": 93,
+        "end_offset": 100,
+        "start": 17.467,
+        "end": 18.107,
+        "score": -0.8856
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "079-01.mp3",
+    "audio_duration": 21.0286,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,689 @@
+{
+  "text": "Is the Council of Nine the same nine that was mentioned in this book? I am Ra. The Council of Nine has been retained in semi-undistorted form by two main sources, that known in your naming, as Mark and that known in your naming as Henry. In one case, the channel became the scribe. In the other, the channel was not the scribe. However, without the aid of the scribe, the energy would not have come to the channel.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is the Council of Nine the same nine that was mentioned in this book?",
+        "start_offset": 0,
+        "end_offset": 69,
+        "start": 2.84,
+        "end": 22.024
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 70,
+        "end_offset": 78,
+        "start": 22.044,
+        "end": 23.864
+      },
+      {
+        "segment": "The Council of Nine has been retained in semi-undistorted form by two main sources, that known in your naming, as Mark and that known in your naming as Henry.",
+        "start_offset": 79,
+        "end_offset": 237,
+        "start": 24.004,
+        "end": 78.713
+      },
+      {
+        "segment": "In one case, the channel became the scribe.",
+        "start_offset": 238,
+        "end_offset": 281,
+        "start": 82.093,
+        "end": 94.495
+      },
+      {
+        "segment": "In the other, the channel was not the scribe.",
+        "start_offset": 282,
+        "end_offset": 327,
+        "start": 95.796,
+        "end": 107.377
+      },
+      {
+        "segment": "However, without the aid of the scribe, the energy would not have come to the channel.",
+        "start_offset": 328,
+        "end_offset": 414,
+        "start": 108.438,
+        "end": 131.541
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.84,
+        "end": 2.9,
+        "score": -9.6603
+      },
+      {
+        "word": "the",
+        "start_offset": 3,
+        "end_offset": 6,
+        "start": 3.0,
+        "end": 4.601,
+        "score": -9.7011
+      },
+      {
+        "word": "Council",
+        "start_offset": 7,
+        "end_offset": 14,
+        "start": 4.621,
+        "end": 5.061,
+        "score": -4.058
+      },
+      {
+        "word": "of",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 5.121,
+        "end": 5.181,
+        "score": -6.2032
+      },
+      {
+        "word": "Nine",
+        "start_offset": 18,
+        "end_offset": 22,
+        "start": 5.281,
+        "end": 5.601,
+        "score": -5.5678
+      },
+      {
+        "word": "the",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 5.701,
+        "end": 5.761,
+        "score": -6.7041
+      },
+      {
+        "word": "same",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 7.701,
+        "end": 8.241,
+        "score": -6.732
+      },
+      {
+        "word": "nine",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 8.341,
+        "end": 18.963,
+        "score": -5.4779
+      },
+      {
+        "word": "that",
+        "start_offset": 37,
+        "end_offset": 41,
+        "start": 18.983,
+        "end": 19.963,
+        "score": -7.7592
+      },
+      {
+        "word": "was",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 19.983,
+        "end": 20.123,
+        "score": -7.6469
+      },
+      {
+        "word": "mentioned",
+        "start_offset": 46,
+        "end_offset": 55,
+        "start": 20.263,
+        "end": 21.664,
+        "score": -6.6285
+      },
+      {
+        "word": "in",
+        "start_offset": 56,
+        "end_offset": 58,
+        "start": 21.684,
+        "end": 21.804,
+        "score": -6.0419
+      },
+      {
+        "word": "this",
+        "start_offset": 59,
+        "end_offset": 63,
+        "start": 21.824,
+        "end": 21.904,
+        "score": -6.1485
+      },
+      {
+        "word": "book?",
+        "start_offset": 64,
+        "end_offset": 69,
+        "start": 21.924,
+        "end": 22.024,
+        "score": -8.9753
+      },
+      {
+        "word": "I",
+        "start_offset": 70,
+        "end_offset": 71,
+        "start": 22.044,
+        "end": 22.064,
+        "score": -8.6271
+      },
+      {
+        "word": "am",
+        "start_offset": 72,
+        "end_offset": 74,
+        "start": 22.084,
+        "end": 22.124,
+        "score": -8.6488
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 75,
+        "end_offset": 78,
+        "start": 22.164,
+        "end": 23.864,
+        "score": -8.7872
+      },
+      {
+        "word": "The",
+        "start_offset": 79,
+        "end_offset": 82,
+        "start": 24.004,
+        "end": 24.184,
+        "score": -1.5706
+      },
+      {
+        "word": "Council",
+        "start_offset": 83,
+        "end_offset": 90,
+        "start": 26.384,
+        "end": 27.184,
+        "score": -0.8004
+      },
+      {
+        "word": "of",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 28.465,
+        "end": 28.685,
+        "score": -0.8549
+      },
+      {
+        "word": "Nine",
+        "start_offset": 94,
+        "end_offset": 98,
+        "start": 30.025,
+        "end": 30.525,
+        "score": -3.7177
+      },
+      {
+        "word": "has",
+        "start_offset": 99,
+        "end_offset": 102,
+        "start": 31.845,
+        "end": 32.365,
+        "score": -0.9223
+      },
+      {
+        "word": "been",
+        "start_offset": 103,
+        "end_offset": 107,
+        "start": 33.205,
+        "end": 33.525,
+        "score": -1.2498
+      },
+      {
+        "word": "retained",
+        "start_offset": 108,
+        "end_offset": 116,
+        "start": 35.986,
+        "end": 38.606,
+        "score": -0.9158
+      },
+      {
+        "word": "in",
+        "start_offset": 117,
+        "end_offset": 119,
+        "start": 39.846,
+        "end": 40.047,
+        "score": -1.042
+      },
+      {
+        "word": "semi-undistorted",
+        "start_offset": 120,
+        "end_offset": 136,
+        "start": 43.867,
+        "end": 47.088,
+        "score": -0.7428
+      },
+      {
+        "word": "form",
+        "start_offset": 137,
+        "end_offset": 141,
+        "start": 48.108,
+        "end": 48.628,
+        "score": -0.7927
+      },
+      {
+        "word": "by",
+        "start_offset": 142,
+        "end_offset": 144,
+        "start": 49.928,
+        "end": 50.328,
+        "score": -1.2006
+      },
+      {
+        "word": "two",
+        "start_offset": 145,
+        "end_offset": 148,
+        "start": 51.348,
+        "end": 51.648,
+        "score": -1.3853
+      },
+      {
+        "word": "main",
+        "start_offset": 149,
+        "end_offset": 153,
+        "start": 52.929,
+        "end": 53.389,
+        "score": -2.4405
+      },
+      {
+        "word": "sources,",
+        "start_offset": 154,
+        "end_offset": 162,
+        "start": 54.449,
+        "end": 55.209,
+        "score": -0.7783
+      },
+      {
+        "word": "that",
+        "start_offset": 163,
+        "end_offset": 167,
+        "start": 56.429,
+        "end": 56.809,
+        "score": -0.762
+      },
+      {
+        "word": "known",
+        "start_offset": 168,
+        "end_offset": 173,
+        "start": 58.63,
+        "end": 59.03,
+        "score": -0.8795
+      },
+      {
+        "word": "in",
+        "start_offset": 174,
+        "end_offset": 176,
+        "start": 60.01,
+        "end": 60.19,
+        "score": -0.7217
+      },
+      {
+        "word": "your",
+        "start_offset": 177,
+        "end_offset": 181,
+        "start": 60.95,
+        "end": 61.29,
+        "score": -0.876
+      },
+      {
+        "word": "naming,",
+        "start_offset": 182,
+        "end_offset": 189,
+        "start": 62.33,
+        "end": 62.97,
+        "score": -0.7703
+      },
+      {
+        "word": "as",
+        "start_offset": 190,
+        "end_offset": 192,
+        "start": 64.11,
+        "end": 64.45,
+        "score": -0.8332
+      },
+      {
+        "word": "Mark",
+        "start_offset": 193,
+        "end_offset": 197,
+        "start": 65.551,
+        "end": 65.991,
+        "score": -1.158
+      },
+      {
+        "word": "and",
+        "start_offset": 198,
+        "end_offset": 201,
+        "start": 67.391,
+        "end": 67.731,
+        "score": -1.0271
+      },
+      {
+        "word": "that",
+        "start_offset": 202,
+        "end_offset": 206,
+        "start": 68.851,
+        "end": 69.251,
+        "score": -1.0047
+      },
+      {
+        "word": "known",
+        "start_offset": 207,
+        "end_offset": 212,
+        "start": 70.852,
+        "end": 71.292,
+        "score": -1.1187
+      },
+      {
+        "word": "in",
+        "start_offset": 213,
+        "end_offset": 215,
+        "start": 72.352,
+        "end": 72.552,
+        "score": -0.9731
+      },
+      {
+        "word": "your",
+        "start_offset": 216,
+        "end_offset": 220,
+        "start": 73.592,
+        "end": 73.892,
+        "score": -0.9996
+      },
+      {
+        "word": "naming",
+        "start_offset": 221,
+        "end_offset": 227,
+        "start": 74.852,
+        "end": 75.552,
+        "score": -0.7726
+      },
+      {
+        "word": "as",
+        "start_offset": 228,
+        "end_offset": 230,
+        "start": 76.852,
+        "end": 77.213,
+        "score": -0.8561
+      },
+      {
+        "word": "Henry.",
+        "start_offset": 231,
+        "end_offset": 237,
+        "start": 78.173,
+        "end": 78.713,
+        "score": -0.7493
+      },
+      {
+        "word": "In",
+        "start_offset": 238,
+        "end_offset": 240,
+        "start": 82.093,
+        "end": 82.313,
+        "score": -0.883
+      },
+      {
+        "word": "one",
+        "start_offset": 241,
+        "end_offset": 244,
+        "start": 83.694,
+        "end": 83.974,
+        "score": -0.7482
+      },
+      {
+        "word": "case,",
+        "start_offset": 245,
+        "end_offset": 250,
+        "start": 84.834,
+        "end": 85.594,
+        "score": -0.7499
+      },
+      {
+        "word": "the",
+        "start_offset": 251,
+        "end_offset": 254,
+        "start": 87.494,
+        "end": 87.634,
+        "score": -0.8585
+      },
+      {
+        "word": "channel",
+        "start_offset": 255,
+        "end_offset": 262,
+        "start": 88.414,
+        "end": 89.114,
+        "score": -0.9228
+      },
+      {
+        "word": "became",
+        "start_offset": 263,
+        "end_offset": 269,
+        "start": 90.155,
+        "end": 91.055,
+        "score": -0.7223
+      },
+      {
+        "word": "the",
+        "start_offset": 270,
+        "end_offset": 273,
+        "start": 92.395,
+        "end": 92.555,
+        "score": -1.0724
+      },
+      {
+        "word": "scribe.",
+        "start_offset": 274,
+        "end_offset": 281,
+        "start": 93.635,
+        "end": 94.495,
+        "score": -1.1638
+      },
+      {
+        "word": "In",
+        "start_offset": 282,
+        "end_offset": 284,
+        "start": 95.796,
+        "end": 95.976,
+        "score": -0.8571
+      },
+      {
+        "word": "the",
+        "start_offset": 285,
+        "end_offset": 288,
+        "start": 96.816,
+        "end": 96.956,
+        "score": -0.9781
+      },
+      {
+        "word": "other,",
+        "start_offset": 289,
+        "end_offset": 295,
+        "start": 97.916,
+        "end": 98.236,
+        "score": -0.8991
+      },
+      {
+        "word": "the",
+        "start_offset": 296,
+        "end_offset": 299,
+        "start": 100.016,
+        "end": 100.156,
+        "score": -0.9857
+      },
+      {
+        "word": "channel",
+        "start_offset": 300,
+        "end_offset": 307,
+        "start": 100.956,
+        "end": 101.637,
+        "score": -1.0278
+      },
+      {
+        "word": "was",
+        "start_offset": 308,
+        "end_offset": 311,
+        "start": 103.177,
+        "end": 103.697,
+        "score": -0.7177
+      },
+      {
+        "word": "not",
+        "start_offset": 312,
+        "end_offset": 315,
+        "start": 105.037,
+        "end": 105.357,
+        "score": -0.7679
+      },
+      {
+        "word": "the",
+        "start_offset": 316,
+        "end_offset": 319,
+        "start": 106.017,
+        "end": 106.137,
+        "score": -0.7562
+      },
+      {
+        "word": "scribe.",
+        "start_offset": 320,
+        "end_offset": 327,
+        "start": 106.637,
+        "end": 107.377,
+        "score": -0.9325
+      },
+      {
+        "word": "However,",
+        "start_offset": 328,
+        "end_offset": 336,
+        "start": 108.438,
+        "end": 109.758,
+        "score": -0.7578
+      },
+      {
+        "word": "without",
+        "start_offset": 337,
+        "end_offset": 344,
+        "start": 110.818,
+        "end": 112.038,
+        "score": -0.7266
+      },
+      {
+        "word": "the",
+        "start_offset": 345,
+        "end_offset": 348,
+        "start": 113.198,
+        "end": 113.338,
+        "score": -1.0386
+      },
+      {
+        "word": "aid",
+        "start_offset": 349,
+        "end_offset": 352,
+        "start": 114.239,
+        "end": 114.539,
+        "score": -1.0682
+      },
+      {
+        "word": "of",
+        "start_offset": 353,
+        "end_offset": 355,
+        "start": 115.679,
+        "end": 115.919,
+        "score": -5.289
+      },
+      {
+        "word": "the",
+        "start_offset": 356,
+        "end_offset": 359,
+        "start": 116.679,
+        "end": 116.819,
+        "score": -0.7543
+      },
+      {
+        "word": "scribe,",
+        "start_offset": 360,
+        "end_offset": 367,
+        "start": 117.659,
+        "end": 118.559,
+        "score": -1.1227
+      },
+      {
+        "word": "the",
+        "start_offset": 368,
+        "end_offset": 371,
+        "start": 120.38,
+        "end": 120.52,
+        "score": -1.0051
+      },
+      {
+        "word": "energy",
+        "start_offset": 372,
+        "end_offset": 378,
+        "start": 121.52,
+        "end": 122.02,
+        "score": -2.2392
+      },
+      {
+        "word": "would",
+        "start_offset": 379,
+        "end_offset": 384,
+        "start": 123.48,
+        "end": 123.76,
+        "score": -0.8075
+      },
+      {
+        "word": "not",
+        "start_offset": 385,
+        "end_offset": 388,
+        "start": 124.24,
+        "end": 124.6,
+        "score": -0.9164
+      },
+      {
+        "word": "have",
+        "start_offset": 389,
+        "end_offset": 393,
+        "start": 125.76,
+        "end": 126.181,
+        "score": -0.9406
+      },
+      {
+        "word": "come",
+        "start_offset": 394,
+        "end_offset": 398,
+        "start": 126.941,
+        "end": 127.461,
+        "score": -0.7226
+      },
+      {
+        "word": "to",
+        "start_offset": 399,
+        "end_offset": 401,
+        "start": 128.621,
+        "end": 128.801,
+        "score": -0.7278
+      },
+      {
+        "word": "the",
+        "start_offset": 402,
+        "end_offset": 405,
+        "start": 129.821,
+        "end": 129.961,
+        "score": -1.0074
+      },
+      {
+        "word": "channel.",
+        "start_offset": 406,
+        "end_offset": 414,
+        "start": 130.941,
+        "end": 131.541,
+        "score": -0.8864
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "007-10.mp3",
+    "audio_duration": 133.0416,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "text": "Nine archetypes, I will guess that those nine were three of mind, three of body, and three of spirit. Is this correct? Aye. And wow. This is a correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Nine archetypes, I will guess that those nine were three of mind, three of body, and three of spirit.",
+        "start_offset": 26,
+        "end_offset": 117,
+        "start": 2.08,
+        "end": 9.36
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 118,
+        "end_offset": 134,
+        "start": 9.44,
+        "end": 10.72
+      },
+      {
+        "segment": "Aye.",
+        "start_offset": 157,
+        "end_offset": 164,
+        "start": 12.56,
+        "end": 13.120000000000001
+      },
+      {
+        "segment": "And wow.",
+        "start_offset": 171,
+        "end_offset": 188,
+        "start": 13.68,
+        "end": 15.040000000000001
+      },
+      {
+        "segment": "This is a correct.",
+        "start_offset": 200,
+        "end_offset": 239,
+        "start": 16.0,
+        "end": 19.12
+      }
+    ],
+    "word": [
+      {
+        "word": "Nine",
+        "start_offset": 26,
+        "end_offset": 34,
+        "start": 2.08,
+        "end": 2.72
+      },
+      {
+        "word": "archetypes,",
+        "start_offset": 34,
+        "end_offset": 43,
+        "start": 2.72,
+        "end": 3.44
+      },
+      {
+        "word": "I",
+        "start_offset": 45,
+        "end_offset": 48,
+        "start": 3.6,
+        "end": 3.84
+      },
+      {
+        "word": "will",
+        "start_offset": 48,
+        "end_offset": 50,
+        "start": 3.84,
+        "end": 4.0
+      },
+      {
+        "word": "guess",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 4.16,
+        "end": 4.4
+      },
+      {
+        "word": "that",
+        "start_offset": 57,
+        "end_offset": 59,
+        "start": 4.5600000000000005,
+        "end": 4.72
+      },
+      {
+        "word": "those",
+        "start_offset": 59,
+        "end_offset": 64,
+        "start": 4.72,
+        "end": 5.12
+      },
+      {
+        "word": "nine",
+        "start_offset": 64,
+        "end_offset": 72,
+        "start": 5.12,
+        "end": 5.76
+      },
+      {
+        "word": "were",
+        "start_offset": 72,
+        "end_offset": 75,
+        "start": 5.76,
+        "end": 6.0
+      },
+      {
+        "word": "three",
+        "start_offset": 79,
+        "end_offset": 86,
+        "start": 6.32,
+        "end": 6.88
+      },
+      {
+        "word": "of",
+        "start_offset": 86,
+        "end_offset": 90,
+        "start": 6.88,
+        "end": 7.2
+      },
+      {
+        "word": "mind,",
+        "start_offset": 90,
+        "end_offset": 94,
+        "start": 7.2,
+        "end": 7.5200000000000005
+      },
+      {
+        "word": "three",
+        "start_offset": 96,
+        "end_offset": 99,
+        "start": 7.68,
+        "end": 7.92
+      },
+      {
+        "word": "of",
+        "start_offset": 99,
+        "end_offset": 102,
+        "start": 7.92,
+        "end": 8.16
+      },
+      {
+        "word": "body,",
+        "start_offset": 102,
+        "end_offset": 105,
+        "start": 8.16,
+        "end": 8.4
+      },
+      {
+        "word": "and",
+        "start_offset": 106,
+        "end_offset": 108,
+        "start": 8.48,
+        "end": 8.64
+      },
+      {
+        "word": "three",
+        "start_offset": 108,
+        "end_offset": 111,
+        "start": 8.64,
+        "end": 8.88
+      },
+      {
+        "word": "of",
+        "start_offset": 111,
+        "end_offset": 113,
+        "start": 8.88,
+        "end": 9.040000000000001
+      },
+      {
+        "word": "spirit.",
+        "start_offset": 113,
+        "end_offset": 117,
+        "start": 9.040000000000001,
+        "end": 9.36
+      },
+      {
+        "word": "Is",
+        "start_offset": 118,
+        "end_offset": 120,
+        "start": 9.44,
+        "end": 9.6
+      },
+      {
+        "word": "this",
+        "start_offset": 120,
+        "end_offset": 123,
+        "start": 9.6,
+        "end": 9.84
+      },
+      {
+        "word": "correct?",
+        "start_offset": 123,
+        "end_offset": 134,
+        "start": 9.84,
+        "end": 10.72
+      },
+      {
+        "word": "Aye.",
+        "start_offset": 157,
+        "end_offset": 164,
+        "start": 12.56,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "And",
+        "start_offset": 171,
+        "end_offset": 175,
+        "start": 13.68,
+        "end": 14.0
+      },
+      {
+        "word": "wow.",
+        "start_offset": 181,
+        "end_offset": 188,
+        "start": 14.48,
+        "end": 15.040000000000001
+      },
+      {
+        "word": "This",
+        "start_offset": 200,
+        "end_offset": 204,
+        "start": 16.0,
+        "end": 16.32
+      },
+      {
+        "word": "is",
+        "start_offset": 216,
+        "end_offset": 220,
+        "start": 17.28,
+        "end": 17.6
+      },
+      {
+        "word": "a",
+        "start_offset": 223,
+        "end_offset": 227,
+        "start": 17.84,
+        "end": 18.16
+      },
+      {
+        "word": "correct.",
+        "start_offset": 232,
+        "end_offset": 239,
+        "start": 18.56,
+        "end": 19.12
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "079-15.mp3",
+    "audio_duration": 25.05,
+    "transcription_time": 0.09,
+    "rtfx": 276.65,
+    "timestamp": "2026-01-06T21:56:32.122504+00:00"
+  }
+}

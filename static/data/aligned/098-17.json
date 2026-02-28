@@ -1,0 +1,435 @@
+{
+  "text": "I was wondering if this would be an appropriate time to end since the tape recorder has clicked some time ago? I am Ra. This is a matter for your discrimination. The instrument remains open to our use although, as we have noted, the physical distortions begin to mount.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I was wondering if this would be an appropriate time to end since the tape recorder has clicked some time ago?",
+        "start_offset": 0,
+        "end_offset": 110,
+        "start": 1.3,
+        "end": 16.242
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 111,
+        "end_offset": 119,
+        "start": 16.262,
+        "end": 19.183
+      },
+      {
+        "segment": "This is a matter for your discrimination.",
+        "start_offset": 120,
+        "end_offset": 161,
+        "start": 19.323,
+        "end": 25.864
+      },
+      {
+        "segment": "The instrument remains open to our use although, as we have noted, the physical distortions begin to mount.",
+        "start_offset": 162,
+        "end_offset": 269,
+        "start": 27.264,
+        "end": 52.847
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 1.3,
+        "end": 1.32,
+        "score": -7.6803
+      },
+      {
+        "word": "was",
+        "start_offset": 2,
+        "end_offset": 5,
+        "start": 5.121,
+        "end": 5.241,
+        "score": -7.9179
+      },
+      {
+        "word": "wondering",
+        "start_offset": 6,
+        "end_offset": 15,
+        "start": 5.281,
+        "end": 5.661,
+        "score": -7.038
+      },
+      {
+        "word": "if",
+        "start_offset": 16,
+        "end_offset": 18,
+        "start": 5.721,
+        "end": 5.821,
+        "score": -9.0942
+      },
+      {
+        "word": "this",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 5.881,
+        "end": 6.041,
+        "score": -8.3445
+      },
+      {
+        "word": "would",
+        "start_offset": 24,
+        "end_offset": 29,
+        "start": 6.061,
+        "end": 6.181,
+        "score": -9.3371
+      },
+      {
+        "word": "be",
+        "start_offset": 30,
+        "end_offset": 32,
+        "start": 6.441,
+        "end": 6.481,
+        "score": -8.4009
+      },
+      {
+        "word": "an",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 6.501,
+        "end": 6.541,
+        "score": -5.0264
+      },
+      {
+        "word": "appropriate",
+        "start_offset": 36,
+        "end_offset": 47,
+        "start": 6.561,
+        "end": 7.841,
+        "score": -5.7186
+      },
+      {
+        "word": "time",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 9.541,
+        "end": 9.821,
+        "score": -6.5886
+      },
+      {
+        "word": "to",
+        "start_offset": 53,
+        "end_offset": 55,
+        "start": 9.881,
+        "end": 9.961,
+        "score": -6.2726
+      },
+      {
+        "word": "end",
+        "start_offset": 56,
+        "end_offset": 59,
+        "start": 10.101,
+        "end": 10.161,
+        "score": -7.8874
+      },
+      {
+        "word": "since",
+        "start_offset": 60,
+        "end_offset": 65,
+        "start": 10.281,
+        "end": 10.541,
+        "score": -6.6803
+      },
+      {
+        "word": "the",
+        "start_offset": 66,
+        "end_offset": 69,
+        "start": 10.761,
+        "end": 11.202,
+        "score": -6.6329
+      },
+      {
+        "word": "tape",
+        "start_offset": 70,
+        "end_offset": 74,
+        "start": 11.342,
+        "end": 11.482,
+        "score": -6.2471
+      },
+      {
+        "word": "recorder",
+        "start_offset": 75,
+        "end_offset": 83,
+        "start": 11.502,
+        "end": 11.802,
+        "score": -7.0478
+      },
+      {
+        "word": "has",
+        "start_offset": 84,
+        "end_offset": 87,
+        "start": 14.122,
+        "end": 14.282,
+        "score": -5.027
+      },
+      {
+        "word": "clicked",
+        "start_offset": 88,
+        "end_offset": 95,
+        "start": 14.302,
+        "end": 14.502,
+        "score": -7.531
+      },
+      {
+        "word": "some",
+        "start_offset": 96,
+        "end_offset": 100,
+        "start": 14.522,
+        "end": 15.302,
+        "score": -7.2978
+      },
+      {
+        "word": "time",
+        "start_offset": 101,
+        "end_offset": 105,
+        "start": 15.382,
+        "end": 15.502,
+        "score": -6.5745
+      },
+      {
+        "word": "ago?",
+        "start_offset": 106,
+        "end_offset": 110,
+        "start": 15.522,
+        "end": 16.242,
+        "score": -6.9654
+      },
+      {
+        "word": "I",
+        "start_offset": 111,
+        "end_offset": 112,
+        "start": 16.262,
+        "end": 16.282,
+        "score": -6.0885
+      },
+      {
+        "word": "am",
+        "start_offset": 113,
+        "end_offset": 115,
+        "start": 16.302,
+        "end": 16.342,
+        "score": -7.0168
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 116,
+        "end_offset": 119,
+        "start": 16.362,
+        "end": 19.183,
+        "score": -4.0338
+      },
+      {
+        "word": "This",
+        "start_offset": 120,
+        "end_offset": 124,
+        "start": 19.323,
+        "end": 19.623,
+        "score": -0.8244
+      },
+      {
+        "word": "is",
+        "start_offset": 125,
+        "end_offset": 127,
+        "start": 20.243,
+        "end": 20.463,
+        "score": -0.7631
+      },
+      {
+        "word": "a",
+        "start_offset": 128,
+        "end_offset": 129,
+        "start": 20.763,
+        "end": 20.783,
+        "score": -1.0207
+      },
+      {
+        "word": "matter",
+        "start_offset": 130,
+        "end_offset": 136,
+        "start": 21.383,
+        "end": 21.803,
+        "score": -0.7235
+      },
+      {
+        "word": "for",
+        "start_offset": 137,
+        "end_offset": 140,
+        "start": 22.343,
+        "end": 22.643,
+        "score": -1.7185
+      },
+      {
+        "word": "your",
+        "start_offset": 141,
+        "end_offset": 145,
+        "start": 23.143,
+        "end": 23.383,
+        "score": -1.1492
+      },
+      {
+        "word": "discrimination.",
+        "start_offset": 146,
+        "end_offset": 161,
+        "start": 24.283,
+        "end": 25.864,
+        "score": -1.2039
+      },
+      {
+        "word": "The",
+        "start_offset": 162,
+        "end_offset": 165,
+        "start": 27.264,
+        "end": 27.384,
+        "score": -0.9089
+      },
+      {
+        "word": "instrument",
+        "start_offset": 166,
+        "end_offset": 176,
+        "start": 28.484,
+        "end": 29.684,
+        "score": -0.765
+      },
+      {
+        "word": "remains",
+        "start_offset": 177,
+        "end_offset": 184,
+        "start": 31.324,
+        "end": 31.984,
+        "score": -0.7275
+      },
+      {
+        "word": "open",
+        "start_offset": 185,
+        "end_offset": 189,
+        "start": 32.784,
+        "end": 33.145,
+        "score": -0.7237
+      },
+      {
+        "word": "to",
+        "start_offset": 190,
+        "end_offset": 192,
+        "start": 33.445,
+        "end": 33.605,
+        "score": -1.2642
+      },
+      {
+        "word": "our",
+        "start_offset": 193,
+        "end_offset": 196,
+        "start": 34.405,
+        "end": 34.665,
+        "score": -1.0854
+      },
+      {
+        "word": "use",
+        "start_offset": 197,
+        "end_offset": 200,
+        "start": 35.365,
+        "end": 35.705,
+        "score": -0.9342
+      },
+      {
+        "word": "although,",
+        "start_offset": 201,
+        "end_offset": 210,
+        "start": 36.825,
+        "end": 37.345,
+        "score": -1.0437
+      },
+      {
+        "word": "as",
+        "start_offset": 211,
+        "end_offset": 213,
+        "start": 38.005,
+        "end": 38.305,
+        "score": -0.7273
+      },
+      {
+        "word": "we",
+        "start_offset": 214,
+        "end_offset": 216,
+        "start": 38.725,
+        "end": 38.865,
+        "score": -0.733
+      },
+      {
+        "word": "have",
+        "start_offset": 217,
+        "end_offset": 221,
+        "start": 39.625,
+        "end": 40.025,
+        "score": -1.239
+      },
+      {
+        "word": "noted,",
+        "start_offset": 222,
+        "end_offset": 228,
+        "start": 40.946,
+        "end": 41.426,
+        "score": -0.7536
+      },
+      {
+        "word": "the",
+        "start_offset": 229,
+        "end_offset": 232,
+        "start": 42.586,
+        "end": 42.706,
+        "score": -1.0613
+      },
+      {
+        "word": "physical",
+        "start_offset": 233,
+        "end_offset": 241,
+        "start": 44.406,
+        "end": 45.186,
+        "score": -1.0232
+      },
+      {
+        "word": "distortions",
+        "start_offset": 242,
+        "end_offset": 253,
+        "start": 46.146,
+        "end": 47.286,
+        "score": -1.1712
+      },
+      {
+        "word": "begin",
+        "start_offset": 254,
+        "end_offset": 259,
+        "start": 48.547,
+        "end": 49.087,
+        "score": -1.2806
+      },
+      {
+        "word": "to",
+        "start_offset": 260,
+        "end_offset": 262,
+        "start": 49.767,
+        "end": 49.907,
+        "score": -0.8558
+      },
+      {
+        "word": "mount.",
+        "start_offset": 263,
+        "end_offset": 269,
+        "start": 52.427,
+        "end": 52.847,
+        "score": -0.8385
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "098-17.mp3",
+    "audio_duration": 54.0474,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

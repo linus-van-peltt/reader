@@ -1,0 +1,282 @@
+{
+  "text": "Is it um you rather not uh give me information as to the uh specifics of my statement. Hi, M Ra. We did not perceive a query in a further detail. Please re question.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is it um you rather not uh give me information as to the uh specifics of my statement.",
+        "start_offset": 24,
+        "end_offset": 203,
+        "start": 1.92,
+        "end": 16.240000000000002
+      },
+      {
+        "segment": "Hi, M Ra.",
+        "start_offset": 231,
+        "end_offset": 254,
+        "start": 18.48,
+        "end": 20.32
+      },
+      {
+        "segment": "We did not perceive a query in a further detail.",
+        "start_offset": 294,
+        "end_offset": 413,
+        "start": 23.52,
+        "end": 33.04
+      },
+      {
+        "segment": "Please re question.",
+        "start_offset": 424,
+        "end_offset": 457,
+        "start": 33.92,
+        "end": 36.56
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 1.92,
+        "end": 2.24
+      },
+      {
+        "word": "it",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 2.24,
+        "end": 2.4
+      },
+      {
+        "word": "um",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 2.8000000000000003,
+        "end": 3.12
+      },
+      {
+        "word": "you",
+        "start_offset": 67,
+        "end_offset": 69,
+        "start": 5.36,
+        "end": 5.5200000000000005
+      },
+      {
+        "word": "rather",
+        "start_offset": 71,
+        "end_offset": 78,
+        "start": 5.68,
+        "end": 6.24
+      },
+      {
+        "word": "not",
+        "start_offset": 78,
+        "end_offset": 82,
+        "start": 6.24,
+        "end": 6.5600000000000005
+      },
+      {
+        "word": "uh",
+        "start_offset": 82,
+        "end_offset": 86,
+        "start": 6.5600000000000005,
+        "end": 6.88
+      },
+      {
+        "word": "give",
+        "start_offset": 94,
+        "end_offset": 102,
+        "start": 7.5200000000000005,
+        "end": 8.16
+      },
+      {
+        "word": "me",
+        "start_offset": 102,
+        "end_offset": 106,
+        "start": 8.16,
+        "end": 8.48
+      },
+      {
+        "word": "information",
+        "start_offset": 118,
+        "end_offset": 126,
+        "start": 9.44,
+        "end": 10.08
+      },
+      {
+        "word": "as",
+        "start_offset": 126,
+        "end_offset": 130,
+        "start": 10.08,
+        "end": 10.4
+      },
+      {
+        "word": "to",
+        "start_offset": 134,
+        "end_offset": 138,
+        "start": 10.72,
+        "end": 11.040000000000001
+      },
+      {
+        "word": "the",
+        "start_offset": 162,
+        "end_offset": 165,
+        "start": 12.96,
+        "end": 13.200000000000001
+      },
+      {
+        "word": "uh",
+        "start_offset": 169,
+        "end_offset": 173,
+        "start": 13.52,
+        "end": 13.84
+      },
+      {
+        "word": "specifics",
+        "start_offset": 177,
+        "end_offset": 188,
+        "start": 14.16,
+        "end": 15.040000000000001
+      },
+      {
+        "word": "of",
+        "start_offset": 188,
+        "end_offset": 191,
+        "start": 15.040000000000001,
+        "end": 15.280000000000001
+      },
+      {
+        "word": "my",
+        "start_offset": 191,
+        "end_offset": 195,
+        "start": 15.280000000000001,
+        "end": 15.6
+      },
+      {
+        "word": "statement.",
+        "start_offset": 195,
+        "end_offset": 203,
+        "start": 15.6,
+        "end": 16.240000000000002
+      },
+      {
+        "word": "Hi,",
+        "start_offset": 231,
+        "end_offset": 235,
+        "start": 18.48,
+        "end": 18.8
+      },
+      {
+        "word": "M",
+        "start_offset": 243,
+        "end_offset": 247,
+        "start": 19.44,
+        "end": 19.76
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 252,
+        "end_offset": 254,
+        "start": 20.16,
+        "end": 20.32
+      },
+      {
+        "word": "We",
+        "start_offset": 294,
+        "end_offset": 298,
+        "start": 23.52,
+        "end": 23.84
+      },
+      {
+        "word": "did",
+        "start_offset": 302,
+        "end_offset": 306,
+        "start": 24.16,
+        "end": 24.48
+      },
+      {
+        "word": "not",
+        "start_offset": 310,
+        "end_offset": 314,
+        "start": 24.8,
+        "end": 25.12
+      },
+      {
+        "word": "perceive",
+        "start_offset": 318,
+        "end_offset": 330,
+        "start": 25.44,
+        "end": 26.400000000000002
+      },
+      {
+        "word": "a",
+        "start_offset": 338,
+        "end_offset": 342,
+        "start": 27.04,
+        "end": 27.36
+      },
+      {
+        "word": "query",
+        "start_offset": 348,
+        "end_offset": 356,
+        "start": 27.84,
+        "end": 28.48
+      },
+      {
+        "word": "in",
+        "start_offset": 372,
+        "end_offset": 376,
+        "start": 29.76,
+        "end": 30.080000000000002
+      },
+      {
+        "word": "a",
+        "start_offset": 382,
+        "end_offset": 386,
+        "start": 30.560000000000002,
+        "end": 30.88
+      },
+      {
+        "word": "further",
+        "start_offset": 386,
+        "end_offset": 397,
+        "start": 30.88,
+        "end": 31.76
+      },
+      {
+        "word": "detail.",
+        "start_offset": 405,
+        "end_offset": 413,
+        "start": 32.4,
+        "end": 33.04
+      },
+      {
+        "word": "Please",
+        "start_offset": 424,
+        "end_offset": 436,
+        "start": 33.92,
+        "end": 34.88
+      },
+      {
+        "word": "re",
+        "start_offset": 444,
+        "end_offset": 448,
+        "start": 35.52,
+        "end": 35.84
+      },
+      {
+        "word": "question.",
+        "start_offset": 450,
+        "end_offset": 457,
+        "start": 36.0,
+        "end": 36.56
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "067-05.mp3",
+    "audio_duration": 37.04,
+    "transcription_time": 0.1,
+    "rtfx": 367.54,
+    "timestamp": "2026-01-06T21:54:26.582018+00:00"
+  }
+}

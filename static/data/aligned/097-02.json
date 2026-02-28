@@ -1,0 +1,164 @@
+{
+  "text": "What's the situation with our fifth-density negative friend? I am Ra. It is as previously stated.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What's the situation with our fifth-density negative friend?",
+        "start_offset": 0,
+        "end_offset": 60,
+        "start": 2.621,
+        "end": 5.902
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 61,
+        "end_offset": 69,
+        "start": 12.944,
+        "end": 16.525
+      },
+      {
+        "segment": "It is as previously stated.",
+        "start_offset": 70,
+        "end_offset": 97,
+        "start": 20.486,
+        "end": 29.929
+      }
+    ],
+    "word": [
+      {
+        "word": "What's",
+        "start_offset": 0,
+        "end_offset": 6,
+        "start": 2.621,
+        "end": 2.841,
+        "score": -5.97
+      },
+      {
+        "word": "the",
+        "start_offset": 7,
+        "end_offset": 10,
+        "start": 2.861,
+        "end": 2.921,
+        "score": -1.685
+      },
+      {
+        "word": "situation",
+        "start_offset": 11,
+        "end_offset": 20,
+        "start": 3.021,
+        "end": 3.601,
+        "score": -0.7105
+      },
+      {
+        "word": "with",
+        "start_offset": 21,
+        "end_offset": 25,
+        "start": 3.661,
+        "end": 3.781,
+        "score": -0.8276
+      },
+      {
+        "word": "our",
+        "start_offset": 26,
+        "end_offset": 29,
+        "start": 3.901,
+        "end": 4.001,
+        "score": -3.7268
+      },
+      {
+        "word": "fifth-density",
+        "start_offset": 30,
+        "end_offset": 43,
+        "start": 4.221,
+        "end": 4.921,
+        "score": -1.4573
+      },
+      {
+        "word": "negative",
+        "start_offset": 44,
+        "end_offset": 52,
+        "start": 5.021,
+        "end": 5.462,
+        "score": -1.8456
+      },
+      {
+        "word": "friend?",
+        "start_offset": 53,
+        "end_offset": 60,
+        "start": 5.502,
+        "end": 5.902,
+        "score": -1.4196
+      },
+      {
+        "word": "I",
+        "start_offset": 61,
+        "end_offset": 62,
+        "start": 12.944,
+        "end": 12.964,
+        "score": -1.1601
+      },
+      {
+        "word": "am",
+        "start_offset": 63,
+        "end_offset": 65,
+        "start": 14.224,
+        "end": 14.444,
+        "score": -2.6269
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 66,
+        "end_offset": 69,
+        "start": 16.305,
+        "end": 16.525,
+        "score": -3.6857
+      },
+      {
+        "word": "It",
+        "start_offset": 70,
+        "end_offset": 72,
+        "start": 20.486,
+        "end": 20.706,
+        "score": -0.9945
+      },
+      {
+        "word": "is",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 22.126,
+        "end": 22.507,
+        "score": -0.768
+      },
+      {
+        "word": "as",
+        "start_offset": 76,
+        "end_offset": 78,
+        "start": 23.887,
+        "end": 24.307,
+        "score": -0.7968
+      },
+      {
+        "word": "previously",
+        "start_offset": 79,
+        "end_offset": 89,
+        "start": 25.968,
+        "end": 27.548,
+        "score": -1.0984
+      },
+      {
+        "word": "stated.",
+        "start_offset": 90,
+        "end_offset": 97,
+        "start": 29.109,
+        "end": 29.929,
+        "score": -0.7097
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "097-02.mp3",
+    "audio_duration": 35.0303,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "text": "Well, then, as the cycle terminated 25, 000 years ago, what was the reaction of the Confederation to the lack of harvest? I am Ra. We became concerned.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Well, then, as the cycle terminated years ago, what was the reaction of the Confederation to the lack of harvest?",
+        "start_offset": 0,
+        "end_offset": 121,
+        "start": 2.202,
+        "end": 19.114
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 122,
+        "end_offset": 130,
+        "start": 24.599,
+        "end": 26.32
+      },
+      {
+        "segment": "We became concerned.",
+        "start_offset": 131,
+        "end_offset": 151,
+        "start": 28.401,
+        "end": 31.864
+      }
+    ],
+    "word": [
+      {
+        "word": "Well,",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.202,
+        "end": 2.422,
+        "score": -0.8478
+      },
+      {
+        "word": "then,",
+        "start_offset": 6,
+        "end_offset": 11,
+        "start": 2.482,
+        "end": 2.682,
+        "score": -0.8171
+      },
+      {
+        "word": "as",
+        "start_offset": 12,
+        "end_offset": 14,
+        "start": 5.564,
+        "end": 5.844,
+        "score": -0.9461
+      },
+      {
+        "word": "the",
+        "start_offset": 15,
+        "end_offset": 18,
+        "start": 7.586,
+        "end": 7.686,
+        "score": -0.8762
+      },
+      {
+        "word": "cycle",
+        "start_offset": 19,
+        "end_offset": 24,
+        "start": 7.786,
+        "end": 8.266,
+        "score": -0.9941
+      },
+      {
+        "word": "terminated",
+        "start_offset": 25,
+        "end_offset": 35,
+        "start": 9.247,
+        "end": 9.927,
+        "score": -0.7085
+      },
+      {
+        "word": "years",
+        "start_offset": 44,
+        "end_offset": 49,
+        "start": 11.469,
+        "end": 11.669,
+        "score": -0.7958
+      },
+      {
+        "word": "ago,",
+        "start_offset": 50,
+        "end_offset": 54,
+        "start": 11.709,
+        "end": 11.869,
+        "score": -1.0414
+      },
+      {
+        "word": "what",
+        "start_offset": 55,
+        "end_offset": 59,
+        "start": 13.89,
+        "end": 14.051,
+        "score": -0.7143
+      },
+      {
+        "word": "was",
+        "start_offset": 60,
+        "end_offset": 63,
+        "start": 14.131,
+        "end": 14.291,
+        "score": -0.703
+      },
+      {
+        "word": "the",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 14.371,
+        "end": 14.491,
+        "score": -0.7414
+      },
+      {
+        "word": "reaction",
+        "start_offset": 68,
+        "end_offset": 76,
+        "start": 14.751,
+        "end": 15.372,
+        "score": -0.6961
+      },
+      {
+        "word": "of",
+        "start_offset": 77,
+        "end_offset": 79,
+        "start": 15.952,
+        "end": 16.012,
+        "score": -0.6963
+      },
+      {
+        "word": "the",
+        "start_offset": 80,
+        "end_offset": 83,
+        "start": 16.052,
+        "end": 16.132,
+        "score": -0.7049
+      },
+      {
+        "word": "Confederation",
+        "start_offset": 84,
+        "end_offset": 97,
+        "start": 16.172,
+        "end": 17.073,
+        "score": -0.6944
+      },
+      {
+        "word": "to",
+        "start_offset": 98,
+        "end_offset": 100,
+        "start": 17.693,
+        "end": 17.813,
+        "score": -0.702
+      },
+      {
+        "word": "the",
+        "start_offset": 101,
+        "end_offset": 104,
+        "start": 17.974,
+        "end": 18.054,
+        "score": -0.7899
+      },
+      {
+        "word": "lack",
+        "start_offset": 105,
+        "end_offset": 109,
+        "start": 18.134,
+        "end": 18.394,
+        "score": -0.7244
+      },
+      {
+        "word": "of",
+        "start_offset": 110,
+        "end_offset": 112,
+        "start": 18.454,
+        "end": 18.534,
+        "score": -0.6992
+      },
+      {
+        "word": "harvest?",
+        "start_offset": 113,
+        "end_offset": 121,
+        "start": 18.614,
+        "end": 19.114,
+        "score": -1.247
+      },
+      {
+        "word": "I",
+        "start_offset": 122,
+        "end_offset": 123,
+        "start": 24.599,
+        "end": 24.619,
+        "score": -0.9798
+      },
+      {
+        "word": "am",
+        "start_offset": 124,
+        "end_offset": 126,
+        "start": 25.299,
+        "end": 25.619,
+        "score": -1.6244
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 127,
+        "end_offset": 130,
+        "start": 26.18,
+        "end": 26.32,
+        "score": -1.7548
+      },
+      {
+        "word": "We",
+        "start_offset": 131,
+        "end_offset": 133,
+        "start": 28.401,
+        "end": 28.562,
+        "score": -0.7794
+      },
+      {
+        "word": "became",
+        "start_offset": 134,
+        "end_offset": 140,
+        "start": 29.362,
+        "end": 30.083,
+        "score": -0.6992
+      },
+      {
+        "word": "concerned.",
+        "start_offset": 141,
+        "end_offset": 151,
+        "start": 30.903,
+        "end": 31.864,
+        "score": -0.7094
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "022-16.mp3",
+    "audio_duration": 33.0449,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

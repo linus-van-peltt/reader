@@ -1,0 +1,180 @@
+{
+  "text": "Should I move the Bible, candle, and incense at this time? I am Ra. This would be appropriate.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Should I move the Bible, candle, and incense at this time?",
+        "start_offset": 0,
+        "end_offset": 58,
+        "start": 2.701,
+        "end": 14.865
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 59,
+        "end_offset": 67,
+        "start": 15.025,
+        "end": 18.466
+      },
+      {
+        "segment": "This would be appropriate.",
+        "start_offset": 68,
+        "end_offset": 94,
+        "start": 20.326,
+        "end": 26.128
+      }
+    ],
+    "word": [
+      {
+        "word": "Should",
+        "start_offset": 0,
+        "end_offset": 6,
+        "start": 2.701,
+        "end": 2.941,
+        "score": -5.2223
+      },
+      {
+        "word": "I",
+        "start_offset": 7,
+        "end_offset": 8,
+        "start": 2.961,
+        "end": 2.981,
+        "score": -5.937
+      },
+      {
+        "word": "move",
+        "start_offset": 9,
+        "end_offset": 13,
+        "start": 3.081,
+        "end": 3.221,
+        "score": -5.7183
+      },
+      {
+        "word": "the",
+        "start_offset": 14,
+        "end_offset": 17,
+        "start": 3.301,
+        "end": 3.381,
+        "score": -6.1303
+      },
+      {
+        "word": "Bible,",
+        "start_offset": 18,
+        "end_offset": 24,
+        "start": 3.461,
+        "end": 3.761,
+        "score": -6.0953
+      },
+      {
+        "word": "candle,",
+        "start_offset": 25,
+        "end_offset": 32,
+        "start": 4.922,
+        "end": 5.202,
+        "score": -5.2631
+      },
+      {
+        "word": "and",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 5.222,
+        "end": 5.302,
+        "score": -5.6829
+      },
+      {
+        "word": "incense",
+        "start_offset": 37,
+        "end_offset": 44,
+        "start": 5.362,
+        "end": 5.682,
+        "score": -5.0311
+      },
+      {
+        "word": "at",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 5.722,
+        "end": 5.762,
+        "score": -6.1759
+      },
+      {
+        "word": "this",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 5.782,
+        "end": 6.122,
+        "score": -3.8169
+      },
+      {
+        "word": "time?",
+        "start_offset": 53,
+        "end_offset": 58,
+        "start": 6.142,
+        "end": 14.865,
+        "score": -5.0613
+      },
+      {
+        "word": "I",
+        "start_offset": 59,
+        "end_offset": 60,
+        "start": 15.025,
+        "end": 15.045,
+        "score": -1.6557
+      },
+      {
+        "word": "am",
+        "start_offset": 61,
+        "end_offset": 63,
+        "start": 16.965,
+        "end": 17.165,
+        "score": -1.6348
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 18.366,
+        "end": 18.466,
+        "score": -1.2514
+      },
+      {
+        "word": "This",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 20.326,
+        "end": 20.666,
+        "score": -2.1106
+      },
+      {
+        "word": "would",
+        "start_offset": 73,
+        "end_offset": 78,
+        "start": 21.767,
+        "end": 22.187,
+        "score": -4.1036
+      },
+      {
+        "word": "be",
+        "start_offset": 79,
+        "end_offset": 81,
+        "start": 23.507,
+        "end": 23.627,
+        "score": -1.7464
+      },
+      {
+        "word": "appropriate.",
+        "start_offset": 82,
+        "end_offset": 94,
+        "start": 25.288,
+        "end": 26.128,
+        "score": -2.8996
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "003-02.mp3",
+    "audio_duration": 52.0359,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

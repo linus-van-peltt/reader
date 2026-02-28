@@ -1,0 +1,211 @@
+{
+  "text": "Did the balancing pyramid cause the Earth from changing its axis? I am Ra. This query is not clear. Please restate.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Did the balancing pyramid cause the Earth from changing its axis?",
+        "start_offset": 0,
+        "end_offset": 65,
+        "start": 2.702,
+        "end": 9.146
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 66,
+        "end_offset": 74,
+        "start": 16.091,
+        "end": 18.493
+      },
+      {
+        "segment": "This query is not clear.",
+        "start_offset": 75,
+        "end_offset": 99,
+        "start": 20.434,
+        "end": 25.978
+      },
+      {
+        "segment": "Please restate.",
+        "start_offset": 100,
+        "end_offset": 115,
+        "start": 27.039,
+        "end": 29.601
+      }
+    ],
+    "word": [
+      {
+        "word": "Did",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.702,
+        "end": 2.782,
+        "score": -7.041
+      },
+      {
+        "word": "the",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 2.882,
+        "end": 2.962,
+        "score": -5.0919
+      },
+      {
+        "word": "balancing",
+        "start_offset": 8,
+        "end_offset": 17,
+        "start": 3.262,
+        "end": 3.803,
+        "score": -4.4433
+      },
+      {
+        "word": "pyramid",
+        "start_offset": 18,
+        "end_offset": 25,
+        "start": 3.863,
+        "end": 4.363,
+        "score": -4.9826
+      },
+      {
+        "word": "cause",
+        "start_offset": 26,
+        "end_offset": 31,
+        "start": 5.604,
+        "end": 5.944,
+        "score": -4.7733
+      },
+      {
+        "word": "the",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 5.984,
+        "end": 6.064,
+        "score": -5.8891
+      },
+      {
+        "word": "Earth",
+        "start_offset": 36,
+        "end_offset": 41,
+        "start": 6.364,
+        "end": 6.585,
+        "score": -5.0055
+      },
+      {
+        "word": "from",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 6.825,
+        "end": 7.045,
+        "score": -4.7536
+      },
+      {
+        "word": "changing",
+        "start_offset": 47,
+        "end_offset": 55,
+        "start": 8.146,
+        "end": 8.566,
+        "score": -4.3424
+      },
+      {
+        "word": "its",
+        "start_offset": 56,
+        "end_offset": 59,
+        "start": 8.606,
+        "end": 8.726,
+        "score": -4.925
+      },
+      {
+        "word": "axis?",
+        "start_offset": 60,
+        "end_offset": 65,
+        "start": 8.786,
+        "end": 9.146,
+        "score": -4.7731
+      },
+      {
+        "word": "I",
+        "start_offset": 66,
+        "end_offset": 67,
+        "start": 16.091,
+        "end": 16.111,
+        "score": -0.8475
+      },
+      {
+        "word": "am",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 16.912,
+        "end": 17.152,
+        "score": -2.3587
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 71,
+        "end_offset": 74,
+        "start": 18.313,
+        "end": 18.493,
+        "score": -2.18
+      },
+      {
+        "word": "This",
+        "start_offset": 75,
+        "end_offset": 79,
+        "start": 20.434,
+        "end": 20.794,
+        "score": -0.7323
+      },
+      {
+        "word": "query",
+        "start_offset": 80,
+        "end_offset": 85,
+        "start": 21.355,
+        "end": 21.895,
+        "score": -0.9633
+      },
+      {
+        "word": "is",
+        "start_offset": 86,
+        "end_offset": 88,
+        "start": 22.996,
+        "end": 23.276,
+        "score": -0.7651
+      },
+      {
+        "word": "not",
+        "start_offset": 89,
+        "end_offset": 92,
+        "start": 24.397,
+        "end": 24.697,
+        "score": -0.7192
+      },
+      {
+        "word": "clear.",
+        "start_offset": 93,
+        "end_offset": 99,
+        "start": 25.538,
+        "end": 25.978,
+        "score": -0.9524
+      },
+      {
+        "word": "Please",
+        "start_offset": 100,
+        "end_offset": 106,
+        "start": 27.039,
+        "end": 27.679,
+        "score": -1.1042
+      },
+      {
+        "word": "restate.",
+        "start_offset": 107,
+        "end_offset": 115,
+        "start": 28.28,
+        "end": 29.601,
+        "score": -1.3152
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "014-09.mp3",
+    "audio_duration": 30.0409,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

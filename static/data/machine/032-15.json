@@ -1,0 +1,114 @@
+{
+  "text": "I am Ra. Do you have any brief queries before we close?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I am Ra.",
+        "start_offset": 193,
+        "end_offset": 217,
+        "start": 15.44,
+        "end": 17.36
+      },
+      {
+        "segment": "Do you have any brief queries before we close?",
+        "start_offset": 234,
+        "end_offset": 351,
+        "start": 18.72,
+        "end": 28.080000000000002
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 193,
+        "end_offset": 197,
+        "start": 15.44,
+        "end": 15.76
+      },
+      {
+        "word": "am",
+        "start_offset": 201,
+        "end_offset": 205,
+        "start": 16.080000000000002,
+        "end": 16.4
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 213,
+        "end_offset": 217,
+        "start": 17.04,
+        "end": 17.36
+      },
+      {
+        "word": "Do",
+        "start_offset": 234,
+        "end_offset": 238,
+        "start": 18.72,
+        "end": 19.04
+      },
+      {
+        "word": "you",
+        "start_offset": 242,
+        "end_offset": 246,
+        "start": 19.36,
+        "end": 19.68
+      },
+      {
+        "word": "have",
+        "start_offset": 250,
+        "end_offset": 254,
+        "start": 20.0,
+        "end": 20.32
+      },
+      {
+        "word": "any",
+        "start_offset": 274,
+        "end_offset": 278,
+        "start": 21.92,
+        "end": 22.240000000000002
+      },
+      {
+        "word": "brief",
+        "start_offset": 287,
+        "end_offset": 295,
+        "start": 22.96,
+        "end": 23.6
+      },
+      {
+        "word": "queries",
+        "start_offset": 299,
+        "end_offset": 307,
+        "start": 23.92,
+        "end": 24.560000000000002
+      },
+      {
+        "word": "before",
+        "start_offset": 319,
+        "end_offset": 331,
+        "start": 25.52,
+        "end": 26.48
+      },
+      {
+        "word": "we",
+        "start_offset": 335,
+        "end_offset": 339,
+        "start": 26.8,
+        "end": 27.12
+      },
+      {
+        "word": "close?",
+        "start_offset": 343,
+        "end_offset": 351,
+        "start": 27.44,
+        "end": 28.080000000000002
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "032-15.mp3",
+    "audio_duration": 36.05,
+    "transcription_time": 0.1,
+    "rtfx": 368.21,
+    "timestamp": "2026-01-06T21:49:56.336835+00:00"
+  }
+}

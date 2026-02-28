@@ -1,0 +1,315 @@
+{
+  "text": "Now, the disciplines of the personality I see as the paramount work of any who have become consciously aware of the process of evolution. Am I correct on that statement? I am Ra. Quite.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Now, the disciplines of the personality I see as the paramount work of any who have become consciously aware of the process of evolution.",
+        "start_offset": 0,
+        "end_offset": 137,
+        "start": 2.661,
+        "end": 24.389
+      },
+      {
+        "segment": "Am I correct on that statement?",
+        "start_offset": 138,
+        "end_offset": 169,
+        "start": 27.07,
+        "end": 28.371
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 170,
+        "end_offset": 178,
+        "start": 32.292,
+        "end": 34.213
+      },
+      {
+        "segment": "Quite.",
+        "start_offset": 179,
+        "end_offset": 185,
+        "start": 37.174,
+        "end": 37.614
+      }
+    ],
+    "word": [
+      {
+        "word": "Now,",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.661,
+        "end": 3.001,
+        "score": -4.7756
+      },
+      {
+        "word": "the",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 3.241,
+        "end": 3.341,
+        "score": -0.8184
+      },
+      {
+        "word": "disciplines",
+        "start_offset": 9,
+        "end_offset": 20,
+        "start": 3.601,
+        "end": 4.282,
+        "score": -1.2172
+      },
+      {
+        "word": "of",
+        "start_offset": 21,
+        "end_offset": 23,
+        "start": 5.522,
+        "end": 5.602,
+        "score": -0.7578
+      },
+      {
+        "word": "the",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 5.642,
+        "end": 5.702,
+        "score": -0.9214
+      },
+      {
+        "word": "personality",
+        "start_offset": 28,
+        "end_offset": 39,
+        "start": 5.762,
+        "end": 6.542,
+        "score": -0.7764
+      },
+      {
+        "word": "I",
+        "start_offset": 40,
+        "end_offset": 41,
+        "start": 7.323,
+        "end": 7.343,
+        "score": -7.3247
+      },
+      {
+        "word": "see",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 7.383,
+        "end": 7.463,
+        "score": -2.5329
+      },
+      {
+        "word": "as",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 9.083,
+        "end": 9.283,
+        "score": -0.7328
+      },
+      {
+        "word": "the",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 9.404,
+        "end": 9.524,
+        "score": -0.8209
+      },
+      {
+        "word": "paramount",
+        "start_offset": 53,
+        "end_offset": 62,
+        "start": 11.624,
+        "end": 12.345,
+        "score": -0.9434
+      },
+      {
+        "word": "work",
+        "start_offset": 63,
+        "end_offset": 67,
+        "start": 14.085,
+        "end": 14.405,
+        "score": -0.711
+      },
+      {
+        "word": "of",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 15.346,
+        "end": 15.426,
+        "score": -0.7166
+      },
+      {
+        "word": "any",
+        "start_offset": 71,
+        "end_offset": 74,
+        "start": 15.586,
+        "end": 15.766,
+        "score": -0.7088
+      },
+      {
+        "word": "who",
+        "start_offset": 75,
+        "end_offset": 78,
+        "start": 17.206,
+        "end": 17.327,
+        "score": -0.8391
+      },
+      {
+        "word": "have",
+        "start_offset": 79,
+        "end_offset": 83,
+        "start": 17.467,
+        "end": 17.687,
+        "score": -0.7032
+      },
+      {
+        "word": "become",
+        "start_offset": 84,
+        "end_offset": 90,
+        "start": 17.707,
+        "end": 18.027,
+        "score": -0.8096
+      },
+      {
+        "word": "consciously",
+        "start_offset": 91,
+        "end_offset": 102,
+        "start": 18.107,
+        "end": 18.687,
+        "score": -0.8912
+      },
+      {
+        "word": "aware",
+        "start_offset": 103,
+        "end_offset": 108,
+        "start": 18.767,
+        "end": 19.187,
+        "score": -0.7226
+      },
+      {
+        "word": "of",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 20.608,
+        "end": 20.828,
+        "score": -0.7166
+      },
+      {
+        "word": "the",
+        "start_offset": 112,
+        "end_offset": 115,
+        "start": 22.849,
+        "end": 22.969,
+        "score": -0.7402
+      },
+      {
+        "word": "process",
+        "start_offset": 116,
+        "end_offset": 123,
+        "start": 23.009,
+        "end": 23.609,
+        "score": -0.6974
+      },
+      {
+        "word": "of",
+        "start_offset": 124,
+        "end_offset": 126,
+        "start": 23.669,
+        "end": 23.749,
+        "score": -0.7091
+      },
+      {
+        "word": "evolution.",
+        "start_offset": 127,
+        "end_offset": 137,
+        "start": 23.829,
+        "end": 24.389,
+        "score": -0.6976
+      },
+      {
+        "word": "Am",
+        "start_offset": 138,
+        "end_offset": 140,
+        "start": 27.07,
+        "end": 27.11,
+        "score": -4.4928
+      },
+      {
+        "word": "I",
+        "start_offset": 141,
+        "end_offset": 142,
+        "start": 27.21,
+        "end": 27.23,
+        "score": -7.5505
+      },
+      {
+        "word": "correct",
+        "start_offset": 143,
+        "end_offset": 150,
+        "start": 27.29,
+        "end": 27.61,
+        "score": -0.7786
+      },
+      {
+        "word": "on",
+        "start_offset": 151,
+        "end_offset": 153,
+        "start": 27.65,
+        "end": 27.69,
+        "score": -3.3183
+      },
+      {
+        "word": "that",
+        "start_offset": 154,
+        "end_offset": 158,
+        "start": 27.71,
+        "end": 27.87,
+        "score": -3.9069
+      },
+      {
+        "word": "statement?",
+        "start_offset": 159,
+        "end_offset": 169,
+        "start": 27.931,
+        "end": 28.371,
+        "score": -1.0414
+      },
+      {
+        "word": "I",
+        "start_offset": 170,
+        "end_offset": 171,
+        "start": 32.292,
+        "end": 32.312,
+        "score": -5.5339
+      },
+      {
+        "word": "am",
+        "start_offset": 172,
+        "end_offset": 174,
+        "start": 33.052,
+        "end": 34.113,
+        "score": -6.0194
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 175,
+        "end_offset": 178,
+        "start": 34.133,
+        "end": 34.213,
+        "score": -8.3202
+      },
+      {
+        "word": "Quite.",
+        "start_offset": 179,
+        "end_offset": 185,
+        "start": 37.174,
+        "end": 37.614,
+        "score": -7.2808
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "074-10.mp3",
+    "audio_duration": 38.0343,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

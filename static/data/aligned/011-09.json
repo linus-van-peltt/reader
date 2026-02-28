@@ -1,0 +1,355 @@
+{
+  "text": "Are any of these people known in the history of our planet by name? I am Ra. We will mention a few. The one known as Taras Bulba, the one known as Genghis Khan, the one known as Rasputin.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Are any of these people known in the history of our planet by name?",
+        "start_offset": 0,
+        "end_offset": 67,
+        "start": 2.941,
+        "end": 11.524
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 68,
+        "end_offset": 76,
+        "start": 11.784,
+        "end": 14.205
+      },
+      {
+        "segment": "We will mention a few.",
+        "start_offset": 77,
+        "end_offset": 99,
+        "start": 19.567,
+        "end": 25.829
+      },
+      {
+        "segment": "The one known as Taras Bulba, the one known as Genghis Khan, the one known as Rasputin.",
+        "start_offset": 100,
+        "end_offset": 187,
+        "start": 27.849,
+        "end": 55.439
+      }
+    ],
+    "word": [
+      {
+        "word": "Are",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.941,
+        "end": 3.081,
+        "score": -6.8199
+      },
+      {
+        "word": "any",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 3.101,
+        "end": 3.261,
+        "score": -7.5872
+      },
+      {
+        "word": "of",
+        "start_offset": 8,
+        "end_offset": 10,
+        "start": 3.301,
+        "end": 3.401,
+        "score": -11.2838
+      },
+      {
+        "word": "these",
+        "start_offset": 11,
+        "end_offset": 16,
+        "start": 3.441,
+        "end": 3.701,
+        "score": -6.4453
+      },
+      {
+        "word": "people",
+        "start_offset": 17,
+        "end_offset": 23,
+        "start": 3.741,
+        "end": 4.121,
+        "score": -8.3662
+      },
+      {
+        "word": "known",
+        "start_offset": 24,
+        "end_offset": 29,
+        "start": 4.582,
+        "end": 4.862,
+        "score": -7.2688
+      },
+      {
+        "word": "in",
+        "start_offset": 30,
+        "end_offset": 32,
+        "start": 4.922,
+        "end": 4.982,
+        "score": -4.964
+      },
+      {
+        "word": "the",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 5.022,
+        "end": 5.102,
+        "score": -6.2244
+      },
+      {
+        "word": "history",
+        "start_offset": 37,
+        "end_offset": 44,
+        "start": 5.142,
+        "end": 5.402,
+        "score": -8.8099
+      },
+      {
+        "word": "of",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 5.422,
+        "end": 5.462,
+        "score": -10.5555
+      },
+      {
+        "word": "our",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 5.502,
+        "end": 5.582,
+        "score": -8.5984
+      },
+      {
+        "word": "planet",
+        "start_offset": 52,
+        "end_offset": 58,
+        "start": 5.682,
+        "end": 6.062,
+        "score": -8.5613
+      },
+      {
+        "word": "by",
+        "start_offset": 59,
+        "end_offset": 61,
+        "start": 6.202,
+        "end": 6.242,
+        "score": -9.4485
+      },
+      {
+        "word": "name?",
+        "start_offset": 62,
+        "end_offset": 67,
+        "start": 6.382,
+        "end": 11.524,
+        "score": -6.9941
+      },
+      {
+        "word": "I",
+        "start_offset": 68,
+        "end_offset": 69,
+        "start": 11.784,
+        "end": 11.804,
+        "score": -0.7361
+      },
+      {
+        "word": "am",
+        "start_offset": 70,
+        "end_offset": 72,
+        "start": 12.664,
+        "end": 12.924,
+        "score": -0.7494
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 73,
+        "end_offset": 76,
+        "start": 14.085,
+        "end": 14.205,
+        "score": -0.8365
+      },
+      {
+        "word": "We",
+        "start_offset": 77,
+        "end_offset": 79,
+        "start": 19.567,
+        "end": 19.707,
+        "score": -0.7347
+      },
+      {
+        "word": "will",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 21.027,
+        "end": 21.307,
+        "score": -0.9896
+      },
+      {
+        "word": "mention",
+        "start_offset": 85,
+        "end_offset": 92,
+        "start": 22.568,
+        "end": 23.168,
+        "score": -0.8024
+      },
+      {
+        "word": "a",
+        "start_offset": 93,
+        "end_offset": 94,
+        "start": 24.408,
+        "end": 24.428,
+        "score": -0.8305
+      },
+      {
+        "word": "few.",
+        "start_offset": 95,
+        "end_offset": 99,
+        "start": 25.529,
+        "end": 25.829,
+        "score": -2.3727
+      },
+      {
+        "word": "The",
+        "start_offset": 100,
+        "end_offset": 103,
+        "start": 27.849,
+        "end": 27.989,
+        "score": -0.9163
+      },
+      {
+        "word": "one",
+        "start_offset": 104,
+        "end_offset": 107,
+        "start": 29.07,
+        "end": 29.33,
+        "score": -1.129
+      },
+      {
+        "word": "known",
+        "start_offset": 108,
+        "end_offset": 113,
+        "start": 30.27,
+        "end": 30.65,
+        "score": -0.798
+      },
+      {
+        "word": "as",
+        "start_offset": 114,
+        "end_offset": 116,
+        "start": 31.891,
+        "end": 32.231,
+        "score": -0.7175
+      },
+      {
+        "word": "Taras",
+        "start_offset": 117,
+        "end_offset": 122,
+        "start": 33.311,
+        "end": 34.432,
+        "score": -0.7674
+      },
+      {
+        "word": "Bulba,",
+        "start_offset": 123,
+        "end_offset": 129,
+        "start": 35.892,
+        "end": 36.432,
+        "score": -2.0239
+      },
+      {
+        "word": "the",
+        "start_offset": 130,
+        "end_offset": 133,
+        "start": 39.093,
+        "end": 39.213,
+        "score": -1.8466
+      },
+      {
+        "word": "one",
+        "start_offset": 134,
+        "end_offset": 137,
+        "start": 40.093,
+        "end": 40.394,
+        "score": -1.0052
+      },
+      {
+        "word": "known",
+        "start_offset": 138,
+        "end_offset": 143,
+        "start": 41.294,
+        "end": 41.714,
+        "score": -0.8717
+      },
+      {
+        "word": "as",
+        "start_offset": 144,
+        "end_offset": 146,
+        "start": 42.734,
+        "end": 43.074,
+        "score": -0.761
+      },
+      {
+        "word": "Genghis",
+        "start_offset": 147,
+        "end_offset": 154,
+        "start": 44.235,
+        "end": 45.055,
+        "score": -1.6639
+      },
+      {
+        "word": "Khan,",
+        "start_offset": 155,
+        "end_offset": 160,
+        "start": 46.136,
+        "end": 46.716,
+        "score": -1.7307
+      },
+      {
+        "word": "the",
+        "start_offset": 161,
+        "end_offset": 164,
+        "start": 48.836,
+        "end": 48.976,
+        "score": -1.4942
+      },
+      {
+        "word": "one",
+        "start_offset": 165,
+        "end_offset": 168,
+        "start": 49.937,
+        "end": 50.197,
+        "score": -1.0928
+      },
+      {
+        "word": "known",
+        "start_offset": 169,
+        "end_offset": 174,
+        "start": 50.977,
+        "end": 51.357,
+        "score": -0.9005
+      },
+      {
+        "word": "as",
+        "start_offset": 175,
+        "end_offset": 177,
+        "start": 52.378,
+        "end": 52.758,
+        "score": -0.75
+      },
+      {
+        "word": "Rasputin.",
+        "start_offset": 178,
+        "end_offset": 187,
+        "start": 53.878,
+        "end": 55.439,
+        "score": -1.4486
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "011-09.mp3",
+    "audio_duration": 62.0409,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

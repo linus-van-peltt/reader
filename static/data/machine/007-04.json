@@ -1,0 +1,310 @@
+{
+  "text": "Let us use an example if ten, only ten entities on earth required your services. How would you compute their call using the square rule? We would square one ten sequential times, raising the number to the tenth square.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Let us use an example if ten, only ten entities on earth required your services.",
+        "start_offset": 35,
+        "end_offset": 216,
+        "start": 2.8000000000000003,
+        "end": 17.28
+      },
+      {
+        "segment": "How would you compute their call using the square rule?",
+        "start_offset": 219,
+        "end_offset": 295,
+        "start": 17.52,
+        "end": 23.6
+      },
+      {
+        "segment": "We would square one ten sequential times, raising the number to the tenth square.",
+        "start_offset": 334,
+        "end_offset": 616,
+        "start": 26.72,
+        "end": 49.28
+      }
+    ],
+    "word": [
+      {
+        "word": "Let",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 2.8000000000000003,
+        "end": 3.04
+      },
+      {
+        "word": "us",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 3.36,
+        "end": 3.68
+      },
+      {
+        "word": "use",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 3.68,
+        "end": 4.0
+      },
+      {
+        "word": "an",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 4.08,
+        "end": 4.32
+      },
+      {
+        "word": "example",
+        "start_offset": 54,
+        "end_offset": 63,
+        "start": 4.32,
+        "end": 5.04
+      },
+      {
+        "word": "if",
+        "start_offset": 66,
+        "end_offset": 70,
+        "start": 5.28,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "ten,",
+        "start_offset": 105,
+        "end_offset": 109,
+        "start": 8.4,
+        "end": 8.72
+      },
+      {
+        "word": "only",
+        "start_offset": 118,
+        "end_offset": 122,
+        "start": 9.44,
+        "end": 9.76
+      },
+      {
+        "word": "ten",
+        "start_offset": 124,
+        "end_offset": 128,
+        "start": 9.92,
+        "end": 10.24
+      },
+      {
+        "word": "entities",
+        "start_offset": 154,
+        "end_offset": 164,
+        "start": 12.32,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "on",
+        "start_offset": 164,
+        "end_offset": 168,
+        "start": 13.120000000000001,
+        "end": 13.44
+      },
+      {
+        "word": "earth",
+        "start_offset": 168,
+        "end_offset": 179,
+        "start": 13.44,
+        "end": 14.32
+      },
+      {
+        "word": "required",
+        "start_offset": 194,
+        "end_offset": 204,
+        "start": 15.52,
+        "end": 16.32
+      },
+      {
+        "word": "your",
+        "start_offset": 204,
+        "end_offset": 207,
+        "start": 16.32,
+        "end": 16.56
+      },
+      {
+        "word": "services.",
+        "start_offset": 207,
+        "end_offset": 216,
+        "start": 16.56,
+        "end": 17.28
+      },
+      {
+        "word": "How",
+        "start_offset": 219,
+        "end_offset": 223,
+        "start": 17.52,
+        "end": 17.84
+      },
+      {
+        "word": "would",
+        "start_offset": 223,
+        "end_offset": 226,
+        "start": 17.84,
+        "end": 18.080000000000002
+      },
+      {
+        "word": "you",
+        "start_offset": 226,
+        "end_offset": 229,
+        "start": 18.080000000000002,
+        "end": 18.32
+      },
+      {
+        "word": "compute",
+        "start_offset": 229,
+        "end_offset": 240,
+        "start": 18.32,
+        "end": 19.2
+      },
+      {
+        "word": "their",
+        "start_offset": 256,
+        "end_offset": 258,
+        "start": 20.48,
+        "end": 20.64
+      },
+      {
+        "word": "call",
+        "start_offset": 262,
+        "end_offset": 266,
+        "start": 20.96,
+        "end": 21.28
+      },
+      {
+        "word": "using",
+        "start_offset": 271,
+        "end_offset": 277,
+        "start": 21.68,
+        "end": 22.16
+      },
+      {
+        "word": "the",
+        "start_offset": 277,
+        "end_offset": 280,
+        "start": 22.16,
+        "end": 22.400000000000002
+      },
+      {
+        "word": "square",
+        "start_offset": 280,
+        "end_offset": 288,
+        "start": 22.400000000000002,
+        "end": 23.04
+      },
+      {
+        "word": "rule?",
+        "start_offset": 288,
+        "end_offset": 295,
+        "start": 23.04,
+        "end": 23.6
+      },
+      {
+        "word": "We",
+        "start_offset": 334,
+        "end_offset": 338,
+        "start": 26.72,
+        "end": 27.04
+      },
+      {
+        "word": "would",
+        "start_offset": 346,
+        "end_offset": 350,
+        "start": 27.68,
+        "end": 28.0
+      },
+      {
+        "word": "square",
+        "start_offset": 365,
+        "end_offset": 376,
+        "start": 29.2,
+        "end": 30.080000000000002
+      },
+      {
+        "word": "one",
+        "start_offset": 400,
+        "end_offset": 404,
+        "start": 32.0,
+        "end": 32.32
+      },
+      {
+        "word": "ten",
+        "start_offset": 430,
+        "end_offset": 434,
+        "start": 34.4,
+        "end": 34.72
+      },
+      {
+        "word": "sequential",
+        "start_offset": 446,
+        "end_offset": 462,
+        "start": 35.68,
+        "end": 36.96
+      },
+      {
+        "word": "times,",
+        "start_offset": 470,
+        "end_offset": 482,
+        "start": 37.6,
+        "end": 38.56
+      },
+      {
+        "word": "raising",
+        "start_offset": 511,
+        "end_offset": 525,
+        "start": 40.88,
+        "end": 42.0
+      },
+      {
+        "word": "the",
+        "start_offset": 533,
+        "end_offset": 537,
+        "start": 42.64,
+        "end": 42.96
+      },
+      {
+        "word": "number",
+        "start_offset": 537,
+        "end_offset": 545,
+        "start": 42.96,
+        "end": 43.6
+      },
+      {
+        "word": "to",
+        "start_offset": 557,
+        "end_offset": 561,
+        "start": 44.56,
+        "end": 44.88
+      },
+      {
+        "word": "the",
+        "start_offset": 573,
+        "end_offset": 577,
+        "start": 45.84,
+        "end": 46.160000000000004
+      },
+      {
+        "word": "tenth",
+        "start_offset": 585,
+        "end_offset": 597,
+        "start": 46.800000000000004,
+        "end": 47.76
+      },
+      {
+        "word": "square.",
+        "start_offset": 605,
+        "end_offset": 616,
+        "start": 48.4,
+        "end": 49.28
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "007-04.mp3",
+    "audio_duration": 50.05,
+    "transcription_time": 0.11,
+    "rtfx": 443.12,
+    "timestamp": "2026-01-06T21:46:12.029349+00:00"
+  }
+}

@@ -1,0 +1,531 @@
+{
+  "text": "Then as we enter the fourth density there will be a split, shall we say, and part of the individuals who go into the fourth density will go to planets or places where there is service to others and the other part will go into places where there is service to self. Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then as we enter the fourth density there will be a split, shall we say, and part of the individuals who go into the fourth density will go to planets or places where there is service to others and the other part will go into places where there is service to self.",
+        "start_offset": 0,
+        "end_offset": 264,
+        "start": 2.162,
+        "end": 21.636
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 265,
+        "end_offset": 281,
+        "start": 21.756,
+        "end": 22.377
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 282,
+        "end_offset": 290,
+        "start": 26.54,
+        "end": 27.861
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 291,
+        "end_offset": 307,
+        "start": 29.242,
+        "end": 31.824
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.162,
+        "end": 2.402,
+        "score": -3.3825
+      },
+      {
+        "word": "as",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 2.982,
+        "end": 3.102,
+        "score": -0.7655
+      },
+      {
+        "word": "we",
+        "start_offset": 8,
+        "end_offset": 10,
+        "start": 3.142,
+        "end": 3.202,
+        "score": -0.8076
+      },
+      {
+        "word": "enter",
+        "start_offset": 11,
+        "end_offset": 16,
+        "start": 3.302,
+        "end": 3.463,
+        "score": -1.1881
+      },
+      {
+        "word": "the",
+        "start_offset": 17,
+        "end_offset": 20,
+        "start": 3.503,
+        "end": 3.563,
+        "score": -1.1007
+      },
+      {
+        "word": "fourth",
+        "start_offset": 21,
+        "end_offset": 27,
+        "start": 4.143,
+        "end": 4.423,
+        "score": -2.5566
+      },
+      {
+        "word": "density",
+        "start_offset": 28,
+        "end_offset": 35,
+        "start": 4.483,
+        "end": 4.964,
+        "score": -1.3973
+      },
+      {
+        "word": "there",
+        "start_offset": 36,
+        "end_offset": 41,
+        "start": 6.025,
+        "end": 6.205,
+        "score": -0.7656
+      },
+      {
+        "word": "will",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 6.265,
+        "end": 6.445,
+        "score": -0.8055
+      },
+      {
+        "word": "be",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 6.525,
+        "end": 6.605,
+        "score": -0.7075
+      },
+      {
+        "word": "a",
+        "start_offset": 50,
+        "end_offset": 51,
+        "start": 6.905,
+        "end": 6.925,
+        "score": -0.7243
+      },
+      {
+        "word": "split,",
+        "start_offset": 52,
+        "end_offset": 58,
+        "start": 7.085,
+        "end": 7.446,
+        "score": -0.7498
+      },
+      {
+        "word": "shall",
+        "start_offset": 59,
+        "end_offset": 64,
+        "start": 7.526,
+        "end": 7.746,
+        "score": -2.077
+      },
+      {
+        "word": "we",
+        "start_offset": 65,
+        "end_offset": 67,
+        "start": 7.786,
+        "end": 7.846,
+        "score": -1.9342
+      },
+      {
+        "word": "say,",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 7.946,
+        "end": 8.146,
+        "score": -0.8044
+      },
+      {
+        "word": "and",
+        "start_offset": 73,
+        "end_offset": 76,
+        "start": 9.427,
+        "end": 9.607,
+        "score": -0.9835
+      },
+      {
+        "word": "part",
+        "start_offset": 77,
+        "end_offset": 81,
+        "start": 10.008,
+        "end": 10.288,
+        "score": -0.763
+      },
+      {
+        "word": "of",
+        "start_offset": 82,
+        "end_offset": 84,
+        "start": 10.428,
+        "end": 10.508,
+        "score": -0.6984
+      },
+      {
+        "word": "the",
+        "start_offset": 85,
+        "end_offset": 88,
+        "start": 10.568,
+        "end": 10.648,
+        "score": -0.7203
+      },
+      {
+        "word": "individuals",
+        "start_offset": 89,
+        "end_offset": 100,
+        "start": 10.728,
+        "end": 11.369,
+        "score": -0.7035
+      },
+      {
+        "word": "who",
+        "start_offset": 101,
+        "end_offset": 104,
+        "start": 11.389,
+        "end": 11.449,
+        "score": -3.2285
+      },
+      {
+        "word": "go",
+        "start_offset": 105,
+        "end_offset": 107,
+        "start": 11.489,
+        "end": 11.609,
+        "score": -2.475
+      },
+      {
+        "word": "into",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 11.649,
+        "end": 11.729,
+        "score": -4.7236
+      },
+      {
+        "word": "the",
+        "start_offset": 113,
+        "end_offset": 116,
+        "start": 11.749,
+        "end": 11.829,
+        "score": -7.356
+      },
+      {
+        "word": "fourth",
+        "start_offset": 117,
+        "end_offset": 123,
+        "start": 11.849,
+        "end": 12.129,
+        "score": -2.3
+      },
+      {
+        "word": "density",
+        "start_offset": 124,
+        "end_offset": 131,
+        "start": 12.149,
+        "end": 12.509,
+        "score": -2.4948
+      },
+      {
+        "word": "will",
+        "start_offset": 132,
+        "end_offset": 136,
+        "start": 12.59,
+        "end": 12.73,
+        "score": -0.8304
+      },
+      {
+        "word": "go",
+        "start_offset": 137,
+        "end_offset": 139,
+        "start": 12.77,
+        "end": 12.87,
+        "score": -0.8927
+      },
+      {
+        "word": "to",
+        "start_offset": 140,
+        "end_offset": 142,
+        "start": 13.57,
+        "end": 13.75,
+        "score": -0.9504
+      },
+      {
+        "word": "planets",
+        "start_offset": 143,
+        "end_offset": 150,
+        "start": 14.451,
+        "end": 14.911,
+        "score": -1.9817
+      },
+      {
+        "word": "or",
+        "start_offset": 151,
+        "end_offset": 153,
+        "start": 15.912,
+        "end": 15.992,
+        "score": -1.3069
+      },
+      {
+        "word": "places",
+        "start_offset": 154,
+        "end_offset": 160,
+        "start": 16.052,
+        "end": 16.552,
+        "score": -0.8373
+      },
+      {
+        "word": "where",
+        "start_offset": 161,
+        "end_offset": 166,
+        "start": 16.653,
+        "end": 16.853,
+        "score": -1.025
+      },
+      {
+        "word": "there",
+        "start_offset": 167,
+        "end_offset": 172,
+        "start": 17.273,
+        "end": 17.413,
+        "score": -1.3855
+      },
+      {
+        "word": "is",
+        "start_offset": 173,
+        "end_offset": 175,
+        "start": 17.433,
+        "end": 17.513,
+        "score": -1.6956
+      },
+      {
+        "word": "service",
+        "start_offset": 176,
+        "end_offset": 183,
+        "start": 17.553,
+        "end": 17.833,
+        "score": -1.7356
+      },
+      {
+        "word": "to",
+        "start_offset": 184,
+        "end_offset": 186,
+        "start": 17.853,
+        "end": 17.914,
+        "score": -1.5066
+      },
+      {
+        "word": "others",
+        "start_offset": 187,
+        "end_offset": 193,
+        "start": 18.034,
+        "end": 18.274,
+        "score": -0.839
+      },
+      {
+        "word": "and",
+        "start_offset": 194,
+        "end_offset": 197,
+        "start": 18.334,
+        "end": 18.414,
+        "score": -0.9334
+      },
+      {
+        "word": "the",
+        "start_offset": 198,
+        "end_offset": 201,
+        "start": 18.434,
+        "end": 18.534,
+        "score": -3.6153
+      },
+      {
+        "word": "other",
+        "start_offset": 202,
+        "end_offset": 207,
+        "start": 18.574,
+        "end": 18.694,
+        "score": -4.994
+      },
+      {
+        "word": "part",
+        "start_offset": 208,
+        "end_offset": 212,
+        "start": 18.734,
+        "end": 18.934,
+        "score": -0.7812
+      },
+      {
+        "word": "will",
+        "start_offset": 213,
+        "end_offset": 217,
+        "start": 18.954,
+        "end": 19.054,
+        "score": -3.4902
+      },
+      {
+        "word": "go",
+        "start_offset": 218,
+        "end_offset": 220,
+        "start": 19.114,
+        "end": 19.215,
+        "score": -2.4766
+      },
+      {
+        "word": "into",
+        "start_offset": 221,
+        "end_offset": 225,
+        "start": 19.355,
+        "end": 19.495,
+        "score": -2.6163
+      },
+      {
+        "word": "places",
+        "start_offset": 226,
+        "end_offset": 232,
+        "start": 19.575,
+        "end": 19.975,
+        "score": -2.4367
+      },
+      {
+        "word": "where",
+        "start_offset": 233,
+        "end_offset": 238,
+        "start": 20.455,
+        "end": 20.576,
+        "score": -3.3976
+      },
+      {
+        "word": "there",
+        "start_offset": 239,
+        "end_offset": 244,
+        "start": 20.596,
+        "end": 20.716,
+        "score": -1.6403
+      },
+      {
+        "word": "is",
+        "start_offset": 245,
+        "end_offset": 247,
+        "start": 20.736,
+        "end": 20.816,
+        "score": -1.5241
+      },
+      {
+        "word": "service",
+        "start_offset": 248,
+        "end_offset": 255,
+        "start": 20.876,
+        "end": 21.196,
+        "score": -1.0708
+      },
+      {
+        "word": "to",
+        "start_offset": 256,
+        "end_offset": 258,
+        "start": 21.236,
+        "end": 21.296,
+        "score": -0.9537
+      },
+      {
+        "word": "self.",
+        "start_offset": 259,
+        "end_offset": 264,
+        "start": 21.376,
+        "end": 21.636,
+        "score": -5.8594
+      },
+      {
+        "word": "Is",
+        "start_offset": 265,
+        "end_offset": 267,
+        "start": 21.756,
+        "end": 21.816,
+        "score": -3.1627
+      },
+      {
+        "word": "this",
+        "start_offset": 268,
+        "end_offset": 272,
+        "start": 21.836,
+        "end": 21.997,
+        "score": -1.48
+      },
+      {
+        "word": "correct?",
+        "start_offset": 273,
+        "end_offset": 281,
+        "start": 22.037,
+        "end": 22.377,
+        "score": -3.3501
+      },
+      {
+        "word": "I",
+        "start_offset": 282,
+        "end_offset": 283,
+        "start": 26.54,
+        "end": 26.56,
+        "score": -1.7476
+      },
+      {
+        "word": "am",
+        "start_offset": 284,
+        "end_offset": 286,
+        "start": 27.04,
+        "end": 27.741,
+        "score": -3.3609
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 287,
+        "end_offset": 290,
+        "start": 27.761,
+        "end": 27.861,
+        "score": -3.6204
+      },
+      {
+        "word": "This",
+        "start_offset": 291,
+        "end_offset": 295,
+        "start": 29.242,
+        "end": 29.582,
+        "score": -0.9598
+      },
+      {
+        "word": "is",
+        "start_offset": 296,
+        "end_offset": 298,
+        "start": 30.203,
+        "end": 30.443,
+        "score": -1.0302
+      },
+      {
+        "word": "correct.",
+        "start_offset": 299,
+        "end_offset": 307,
+        "start": 31.043,
+        "end": 31.824,
+        "score": -0.7275
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-12.mp3",
+    "audio_duration": 33.0449,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

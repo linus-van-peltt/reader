@@ -1,0 +1,514 @@
+{
+  "text": "I'm sorry, I meant the first attempt in the second major cycle. I'm now working in the second 25, 000 years. How many years ago was the Orion group's attempt in that cycle? I am Ra. The Orion group next attempted in more fertile territory approximately three six zero zero 3, 600 of your years in the past, as you measure time.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I'm sorry, I meant the first attempt in the second major cycle.",
+        "start_offset": 0,
+        "end_offset": 63,
+        "start": 0.6,
+        "end": 7.663
+      },
+      {
+        "segment": "I'm now working in the second years.",
+        "start_offset": 64,
+        "end_offset": 108,
+        "start": 8.343,
+        "end": 11.024
+      },
+      {
+        "segment": "How many years ago was the Orion group's attempt in that cycle?",
+        "start_offset": 109,
+        "end_offset": 172,
+        "start": 12.204,
+        "end": 19.407
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 173,
+        "end_offset": 181,
+        "start": 19.627,
+        "end": 21.248
+      },
+      {
+        "segment": "The Orion group next attempted in more fertile territory approximately three six zero zero of your years in the past, as you measure time.",
+        "start_offset": 182,
+        "end_offset": 327,
+        "start": 23.308,
+        "end": 54.76
+      }
+    ],
+    "word": [
+      {
+        "word": "I'm",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 0.6,
+        "end": 0.96,
+        "score": -6.5068
+      },
+      {
+        "word": "sorry,",
+        "start_offset": 4,
+        "end_offset": 10,
+        "start": 2.621,
+        "end": 2.861,
+        "score": -6.8772
+      },
+      {
+        "word": "I",
+        "start_offset": 11,
+        "end_offset": 12,
+        "start": 3.121,
+        "end": 3.141,
+        "score": -7.4327
+      },
+      {
+        "word": "meant",
+        "start_offset": 13,
+        "end_offset": 18,
+        "start": 3.221,
+        "end": 3.481,
+        "score": -4.6383
+      },
+      {
+        "word": "the",
+        "start_offset": 19,
+        "end_offset": 22,
+        "start": 3.801,
+        "end": 3.881,
+        "score": -4.0794
+      },
+      {
+        "word": "first",
+        "start_offset": 23,
+        "end_offset": 28,
+        "start": 3.981,
+        "end": 4.302,
+        "score": -4.4666
+      },
+      {
+        "word": "attempt",
+        "start_offset": 29,
+        "end_offset": 36,
+        "start": 4.502,
+        "end": 4.902,
+        "score": -3.6145
+      },
+      {
+        "word": "in",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 5.102,
+        "end": 5.202,
+        "score": -3.7401
+      },
+      {
+        "word": "the",
+        "start_offset": 40,
+        "end_offset": 43,
+        "start": 5.242,
+        "end": 5.322,
+        "score": -4.9344
+      },
+      {
+        "word": "second",
+        "start_offset": 44,
+        "end_offset": 50,
+        "start": 5.422,
+        "end": 5.782,
+        "score": -6.4074
+      },
+      {
+        "word": "major",
+        "start_offset": 51,
+        "end_offset": 56,
+        "start": 6.963,
+        "end": 7.243,
+        "score": -3.5838
+      },
+      {
+        "word": "cycle.",
+        "start_offset": 57,
+        "end_offset": 63,
+        "start": 7.343,
+        "end": 7.663,
+        "score": -7.5873
+      },
+      {
+        "word": "I'm",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 8.343,
+        "end": 8.683,
+        "score": -8.9087
+      },
+      {
+        "word": "now",
+        "start_offset": 68,
+        "end_offset": 71,
+        "start": 8.883,
+        "end": 9.063,
+        "score": -4.3335
+      },
+      {
+        "word": "working",
+        "start_offset": 72,
+        "end_offset": 79,
+        "start": 9.103,
+        "end": 9.403,
+        "score": -2.8961
+      },
+      {
+        "word": "in",
+        "start_offset": 80,
+        "end_offset": 82,
+        "start": 9.443,
+        "end": 9.503,
+        "score": -3.6352
+      },
+      {
+        "word": "the",
+        "start_offset": 83,
+        "end_offset": 86,
+        "start": 9.523,
+        "end": 9.603,
+        "score": -4.8117
+      },
+      {
+        "word": "second",
+        "start_offset": 87,
+        "end_offset": 93,
+        "start": 9.684,
+        "end": 9.964,
+        "score": -5.9685
+      },
+      {
+        "word": "years.",
+        "start_offset": 102,
+        "end_offset": 108,
+        "start": 10.804,
+        "end": 11.024,
+        "score": -5.4844
+      },
+      {
+        "word": "How",
+        "start_offset": 109,
+        "end_offset": 112,
+        "start": 12.204,
+        "end": 12.324,
+        "score": -8.5541
+      },
+      {
+        "word": "many",
+        "start_offset": 113,
+        "end_offset": 117,
+        "start": 12.344,
+        "end": 12.485,
+        "score": -5.3843
+      },
+      {
+        "word": "years",
+        "start_offset": 118,
+        "end_offset": 123,
+        "start": 12.545,
+        "end": 12.745,
+        "score": -3.5667
+      },
+      {
+        "word": "ago",
+        "start_offset": 124,
+        "end_offset": 127,
+        "start": 12.765,
+        "end": 12.925,
+        "score": -3.4031
+      },
+      {
+        "word": "was",
+        "start_offset": 128,
+        "end_offset": 131,
+        "start": 12.965,
+        "end": 13.545,
+        "score": -8.6999
+      },
+      {
+        "word": "the",
+        "start_offset": 132,
+        "end_offset": 135,
+        "start": 14.885,
+        "end": 14.945,
+        "score": -8.6615
+      },
+      {
+        "word": "Orion",
+        "start_offset": 136,
+        "end_offset": 141,
+        "start": 15.226,
+        "end": 15.566,
+        "score": -8.933
+      },
+      {
+        "word": "group's",
+        "start_offset": 142,
+        "end_offset": 149,
+        "start": 15.586,
+        "end": 15.826,
+        "score": -9.7734
+      },
+      {
+        "word": "attempt",
+        "start_offset": 150,
+        "end_offset": 157,
+        "start": 16.286,
+        "end": 16.566,
+        "score": -7.6184
+      },
+      {
+        "word": "in",
+        "start_offset": 158,
+        "end_offset": 160,
+        "start": 16.766,
+        "end": 16.826,
+        "score": -7.651
+      },
+      {
+        "word": "that",
+        "start_offset": 161,
+        "end_offset": 165,
+        "start": 16.846,
+        "end": 17.066,
+        "score": -7.4212
+      },
+      {
+        "word": "cycle?",
+        "start_offset": 166,
+        "end_offset": 172,
+        "start": 17.086,
+        "end": 19.407,
+        "score": -8.7493
+      },
+      {
+        "word": "I",
+        "start_offset": 173,
+        "end_offset": 174,
+        "start": 19.627,
+        "end": 19.647,
+        "score": -0.9219
+      },
+      {
+        "word": "am",
+        "start_offset": 175,
+        "end_offset": 177,
+        "start": 20.187,
+        "end": 20.507,
+        "score": -2.5146
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 178,
+        "end_offset": 181,
+        "start": 21.128,
+        "end": 21.248,
+        "score": -1.026
+      },
+      {
+        "word": "The",
+        "start_offset": 182,
+        "end_offset": 185,
+        "start": 23.308,
+        "end": 23.449,
+        "score": -0.7676
+      },
+      {
+        "word": "Orion",
+        "start_offset": 186,
+        "end_offset": 191,
+        "start": 24.049,
+        "end": 25.049,
+        "score": -1.0437
+      },
+      {
+        "word": "group",
+        "start_offset": 192,
+        "end_offset": 197,
+        "start": 25.549,
+        "end": 26.129,
+        "score": -0.8169
+      },
+      {
+        "word": "next",
+        "start_offset": 198,
+        "end_offset": 202,
+        "start": 27.63,
+        "end": 28.25,
+        "score": -0.7024
+      },
+      {
+        "word": "attempted",
+        "start_offset": 203,
+        "end_offset": 212,
+        "start": 28.71,
+        "end": 30.011,
+        "score": -1.1315
+      },
+      {
+        "word": "in",
+        "start_offset": 213,
+        "end_offset": 215,
+        "start": 31.451,
+        "end": 31.692,
+        "score": -0.7035
+      },
+      {
+        "word": "more",
+        "start_offset": 216,
+        "end_offset": 220,
+        "start": 32.112,
+        "end": 32.572,
+        "score": -0.7335
+      },
+      {
+        "word": "fertile",
+        "start_offset": 221,
+        "end_offset": 228,
+        "start": 32.892,
+        "end": 33.872,
+        "score": -1.086
+      },
+      {
+        "word": "territory",
+        "start_offset": 229,
+        "end_offset": 238,
+        "start": 34.473,
+        "end": 35.613,
+        "score": -0.7713
+      },
+      {
+        "word": "approximately",
+        "start_offset": 239,
+        "end_offset": 252,
+        "start": 37.194,
+        "end": 38.834,
+        "score": -1.0162
+      },
+      {
+        "word": "three",
+        "start_offset": 253,
+        "end_offset": 258,
+        "start": 39.794,
+        "end": 40.375,
+        "score": -3.4822
+      },
+      {
+        "word": "six",
+        "start_offset": 259,
+        "end_offset": 262,
+        "start": 41.035,
+        "end": 41.415,
+        "score": -5.2108
+      },
+      {
+        "word": "zero",
+        "start_offset": 263,
+        "end_offset": 267,
+        "start": 42.355,
+        "end": 42.756,
+        "score": -4.2604
+      },
+      {
+        "word": "zero",
+        "start_offset": 268,
+        "end_offset": 272,
+        "start": 43.396,
+        "end": 43.816,
+        "score": -2.6592
+      },
+      {
+        "word": "of",
+        "start_offset": 280,
+        "end_offset": 282,
+        "start": 45.076,
+        "end": 45.356,
+        "score": -0.7203
+      },
+      {
+        "word": "your",
+        "start_offset": 283,
+        "end_offset": 287,
+        "start": 45.737,
+        "end": 46.137,
+        "score": -1.0498
+      },
+      {
+        "word": "years",
+        "start_offset": 288,
+        "end_offset": 293,
+        "start": 46.577,
+        "end": 47.197,
+        "score": -0.6982
+      },
+      {
+        "word": "in",
+        "start_offset": 294,
+        "end_offset": 296,
+        "start": 48.137,
+        "end": 48.318,
+        "score": -0.706
+      },
+      {
+        "word": "the",
+        "start_offset": 297,
+        "end_offset": 300,
+        "start": 48.478,
+        "end": 48.598,
+        "score": -0.7617
+      },
+      {
+        "word": "past,",
+        "start_offset": 301,
+        "end_offset": 306,
+        "start": 48.878,
+        "end": 49.578,
+        "score": -0.6993
+      },
+      {
+        "word": "as",
+        "start_offset": 307,
+        "end_offset": 309,
+        "start": 50.598,
+        "end": 50.959,
+        "score": -0.709
+      },
+      {
+        "word": "you",
+        "start_offset": 310,
+        "end_offset": 313,
+        "start": 51.299,
+        "end": 51.459,
+        "score": -0.9246
+      },
+      {
+        "word": "measure",
+        "start_offset": 314,
+        "end_offset": 321,
+        "start": 52.599,
+        "end": 53.319,
+        "score": -1.1992
+      },
+      {
+        "word": "time.",
+        "start_offset": 322,
+        "end_offset": 327,
+        "start": 54.08,
+        "end": 54.76,
+        "score": -0.8088
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "021-22.mp3",
+    "audio_duration": 55.04,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

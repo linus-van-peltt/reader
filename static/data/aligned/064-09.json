@@ -1,0 +1,649 @@
+{
+  "text": "The question was brought up recently having to do with possible records left near, in, or under the Great Pyramid at Giza. I have no idea whether this would be of benefit. I will just ask if there is any benefit in investigating in this area? I am Ra. We apologize for seeming to be so shy of information. However, any words upon this particular subject create the possibility of infringement upon free will.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "The question was brought up recently having to do with possible records left near, in, or under the Great Pyramid at Giza.",
+        "start_offset": 0,
+        "end_offset": 122,
+        "start": 2.86,
+        "end": 19.822
+      },
+      {
+        "segment": "I have no idea whether this would be of benefit.",
+        "start_offset": 123,
+        "end_offset": 171,
+        "start": 22.142,
+        "end": 26.342
+      },
+      {
+        "segment": "I will just ask if there is any benefit in investigating in this area?",
+        "start_offset": 172,
+        "end_offset": 242,
+        "start": 26.503,
+        "end": 34.923
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 243,
+        "end_offset": 251,
+        "start": 42.104,
+        "end": 44.124
+      },
+      {
+        "segment": "We apologize for seeming to be so shy of information.",
+        "start_offset": 252,
+        "end_offset": 305,
+        "start": 47.264,
+        "end": 64.266
+      },
+      {
+        "segment": "However, any words upon this particular subject create the possibility of infringement upon free will.",
+        "start_offset": 306,
+        "end_offset": 408,
+        "start": 66.346,
+        "end": 97.269
+      }
+    ],
+    "word": [
+      {
+        "word": "The",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.86,
+        "end": 2.92,
+        "score": -6.3279
+      },
+      {
+        "word": "question",
+        "start_offset": 4,
+        "end_offset": 12,
+        "start": 3.02,
+        "end": 3.32,
+        "score": -4.8935
+      },
+      {
+        "word": "was",
+        "start_offset": 13,
+        "end_offset": 16,
+        "start": 3.36,
+        "end": 3.46,
+        "score": -2.6344
+      },
+      {
+        "word": "brought",
+        "start_offset": 17,
+        "end_offset": 24,
+        "start": 3.52,
+        "end": 3.76,
+        "score": -4.3638
+      },
+      {
+        "word": "up",
+        "start_offset": 25,
+        "end_offset": 27,
+        "start": 3.82,
+        "end": 3.96,
+        "score": -2.8928
+      },
+      {
+        "word": "recently",
+        "start_offset": 28,
+        "end_offset": 36,
+        "start": 10.241,
+        "end": 10.801,
+        "score": -3.2919
+      },
+      {
+        "word": "having",
+        "start_offset": 37,
+        "end_offset": 43,
+        "start": 11.681,
+        "end": 12.001,
+        "score": -3.5713
+      },
+      {
+        "word": "to",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 12.181,
+        "end": 12.241,
+        "score": -4.808
+      },
+      {
+        "word": "do",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 12.301,
+        "end": 12.381,
+        "score": -6.2992
+      },
+      {
+        "word": "with",
+        "start_offset": 50,
+        "end_offset": 54,
+        "start": 12.461,
+        "end": 12.621,
+        "score": -4.944
+      },
+      {
+        "word": "possible",
+        "start_offset": 55,
+        "end_offset": 63,
+        "start": 12.681,
+        "end": 13.201,
+        "score": -3.2854
+      },
+      {
+        "word": "records",
+        "start_offset": 64,
+        "end_offset": 71,
+        "start": 13.261,
+        "end": 13.741,
+        "score": -2.7121
+      },
+      {
+        "word": "left",
+        "start_offset": 72,
+        "end_offset": 76,
+        "start": 14.541,
+        "end": 14.801,
+        "score": -3.313
+      },
+      {
+        "word": "near,",
+        "start_offset": 77,
+        "end_offset": 82,
+        "start": 14.941,
+        "end": 15.221,
+        "score": -4.3032
+      },
+      {
+        "word": "in,",
+        "start_offset": 83,
+        "end_offset": 86,
+        "start": 15.601,
+        "end": 15.741,
+        "score": -3.208
+      },
+      {
+        "word": "or",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 15.781,
+        "end": 15.861,
+        "score": -4.154
+      },
+      {
+        "word": "under",
+        "start_offset": 90,
+        "end_offset": 95,
+        "start": 15.942,
+        "end": 16.162,
+        "score": -3.6985
+      },
+      {
+        "word": "the",
+        "start_offset": 96,
+        "end_offset": 99,
+        "start": 16.242,
+        "end": 16.342,
+        "score": -4.4905
+      },
+      {
+        "word": "Great",
+        "start_offset": 100,
+        "end_offset": 105,
+        "start": 18.082,
+        "end": 18.362,
+        "score": -4.5295
+      },
+      {
+        "word": "Pyramid",
+        "start_offset": 106,
+        "end_offset": 113,
+        "start": 18.442,
+        "end": 18.802,
+        "score": -5.4284
+      },
+      {
+        "word": "at",
+        "start_offset": 114,
+        "end_offset": 116,
+        "start": 18.842,
+        "end": 18.982,
+        "score": -5.1514
+      },
+      {
+        "word": "Giza.",
+        "start_offset": 117,
+        "end_offset": 122,
+        "start": 19.402,
+        "end": 19.822,
+        "score": -4.9648
+      },
+      {
+        "word": "I",
+        "start_offset": 123,
+        "end_offset": 124,
+        "start": 22.142,
+        "end": 22.162,
+        "score": -6.1189
+      },
+      {
+        "word": "have",
+        "start_offset": 125,
+        "end_offset": 129,
+        "start": 22.262,
+        "end": 22.502,
+        "score": -5.5091
+      },
+      {
+        "word": "no",
+        "start_offset": 130,
+        "end_offset": 132,
+        "start": 23.162,
+        "end": 23.262,
+        "score": -3.9959
+      },
+      {
+        "word": "idea",
+        "start_offset": 133,
+        "end_offset": 137,
+        "start": 23.462,
+        "end": 23.722,
+        "score": -4.531
+      },
+      {
+        "word": "whether",
+        "start_offset": 138,
+        "end_offset": 145,
+        "start": 23.802,
+        "end": 24.042,
+        "score": -5.9272
+      },
+      {
+        "word": "this",
+        "start_offset": 146,
+        "end_offset": 150,
+        "start": 24.102,
+        "end": 24.282,
+        "score": -4.8307
+      },
+      {
+        "word": "would",
+        "start_offset": 151,
+        "end_offset": 156,
+        "start": 24.362,
+        "end": 24.502,
+        "score": -6.8927
+      },
+      {
+        "word": "be",
+        "start_offset": 157,
+        "end_offset": 159,
+        "start": 24.542,
+        "end": 24.642,
+        "score": -5.5973
+      },
+      {
+        "word": "of",
+        "start_offset": 160,
+        "end_offset": 162,
+        "start": 24.722,
+        "end": 24.822,
+        "score": -7.1081
+      },
+      {
+        "word": "benefit.",
+        "start_offset": 163,
+        "end_offset": 171,
+        "start": 25.782,
+        "end": 26.342,
+        "score": -4.5564
+      },
+      {
+        "word": "I",
+        "start_offset": 172,
+        "end_offset": 173,
+        "start": 26.503,
+        "end": 26.523,
+        "score": -5.5933
+      },
+      {
+        "word": "will",
+        "start_offset": 174,
+        "end_offset": 178,
+        "start": 30.223,
+        "end": 30.363,
+        "score": -6.9664
+      },
+      {
+        "word": "just",
+        "start_offset": 179,
+        "end_offset": 183,
+        "start": 30.403,
+        "end": 30.603,
+        "score": -4.1137
+      },
+      {
+        "word": "ask",
+        "start_offset": 184,
+        "end_offset": 187,
+        "start": 30.683,
+        "end": 31.263,
+        "score": -5.4586
+      },
+      {
+        "word": "if",
+        "start_offset": 188,
+        "end_offset": 190,
+        "start": 31.443,
+        "end": 31.703,
+        "score": -5.4303
+      },
+      {
+        "word": "there",
+        "start_offset": 191,
+        "end_offset": 196,
+        "start": 31.923,
+        "end": 32.063,
+        "score": -4.8693
+      },
+      {
+        "word": "is",
+        "start_offset": 197,
+        "end_offset": 199,
+        "start": 32.083,
+        "end": 32.123,
+        "score": -7.2232
+      },
+      {
+        "word": "any",
+        "start_offset": 200,
+        "end_offset": 203,
+        "start": 32.143,
+        "end": 32.263,
+        "score": -3.5764
+      },
+      {
+        "word": "benefit",
+        "start_offset": 204,
+        "end_offset": 211,
+        "start": 32.563,
+        "end": 33.043,
+        "score": -4.552
+      },
+      {
+        "word": "in",
+        "start_offset": 212,
+        "end_offset": 214,
+        "start": 33.083,
+        "end": 33.143,
+        "score": -3.0897
+      },
+      {
+        "word": "investigating",
+        "start_offset": 215,
+        "end_offset": 228,
+        "start": 33.503,
+        "end": 34.203,
+        "score": -2.4945
+      },
+      {
+        "word": "in",
+        "start_offset": 229,
+        "end_offset": 231,
+        "start": 34.243,
+        "end": 34.303,
+        "score": -1.9199
+      },
+      {
+        "word": "this",
+        "start_offset": 232,
+        "end_offset": 236,
+        "start": 34.323,
+        "end": 34.503,
+        "score": -2.6514
+      },
+      {
+        "word": "area?",
+        "start_offset": 237,
+        "end_offset": 242,
+        "start": 34.643,
+        "end": 34.923,
+        "score": -3.2415
+      },
+      {
+        "word": "I",
+        "start_offset": 243,
+        "end_offset": 244,
+        "start": 42.104,
+        "end": 42.124,
+        "score": -2.6577
+      },
+      {
+        "word": "am",
+        "start_offset": 245,
+        "end_offset": 247,
+        "start": 42.964,
+        "end": 43.264,
+        "score": -3.5865
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 248,
+        "end_offset": 251,
+        "start": 43.964,
+        "end": 44.124,
+        "score": -3.5124
+      },
+      {
+        "word": "We",
+        "start_offset": 252,
+        "end_offset": 254,
+        "start": 47.264,
+        "end": 47.404,
+        "score": -2.6502
+      },
+      {
+        "word": "apologize",
+        "start_offset": 255,
+        "end_offset": 264,
+        "start": 49.385,
+        "end": 51.225,
+        "score": -1.424
+      },
+      {
+        "word": "for",
+        "start_offset": 265,
+        "end_offset": 268,
+        "start": 52.525,
+        "end": 52.925,
+        "score": -0.8071
+      },
+      {
+        "word": "seeming",
+        "start_offset": 269,
+        "end_offset": 276,
+        "start": 53.425,
+        "end": 54.225,
+        "score": -1.757
+      },
+      {
+        "word": "to",
+        "start_offset": 277,
+        "end_offset": 279,
+        "start": 55.165,
+        "end": 55.345,
+        "score": -2.1225
+      },
+      {
+        "word": "be",
+        "start_offset": 280,
+        "end_offset": 282,
+        "start": 56.145,
+        "end": 56.285,
+        "score": -1.0464
+      },
+      {
+        "word": "so",
+        "start_offset": 283,
+        "end_offset": 285,
+        "start": 58.446,
+        "end": 58.606,
+        "score": -0.9082
+      },
+      {
+        "word": "shy",
+        "start_offset": 286,
+        "end_offset": 289,
+        "start": 59.626,
+        "end": 60.166,
+        "score": -2.7177
+      },
+      {
+        "word": "of",
+        "start_offset": 290,
+        "end_offset": 292,
+        "start": 60.966,
+        "end": 61.306,
+        "score": -3.8134
+      },
+      {
+        "word": "information.",
+        "start_offset": 293,
+        "end_offset": 305,
+        "start": 62.586,
+        "end": 64.266,
+        "score": -0.8141
+      },
+      {
+        "word": "However,",
+        "start_offset": 306,
+        "end_offset": 314,
+        "start": 66.346,
+        "end": 67.686,
+        "score": -1.1362
+      },
+      {
+        "word": "any",
+        "start_offset": 315,
+        "end_offset": 318,
+        "start": 69.387,
+        "end": 69.667,
+        "score": -0.8306
+      },
+      {
+        "word": "words",
+        "start_offset": 319,
+        "end_offset": 324,
+        "start": 70.407,
+        "end": 71.087,
+        "score": -0.8177
+      },
+      {
+        "word": "upon",
+        "start_offset": 325,
+        "end_offset": 329,
+        "start": 72.787,
+        "end": 73.427,
+        "score": -2.4684
+      },
+      {
+        "word": "this",
+        "start_offset": 330,
+        "end_offset": 334,
+        "start": 74.007,
+        "end": 74.447,
+        "score": -2.2004
+      },
+      {
+        "word": "particular",
+        "start_offset": 335,
+        "end_offset": 345,
+        "start": 75.967,
+        "end": 77.587,
+        "score": -1.0105
+      },
+      {
+        "word": "subject",
+        "start_offset": 346,
+        "end_offset": 353,
+        "start": 79.528,
+        "end": 80.588,
+        "score": -0.9669
+      },
+      {
+        "word": "create",
+        "start_offset": 354,
+        "end_offset": 360,
+        "start": 83.388,
+        "end": 84.488,
+        "score": -1.9882
+      },
+      {
+        "word": "the",
+        "start_offset": 361,
+        "end_offset": 364,
+        "start": 85.128,
+        "end": 85.248,
+        "score": -1.1918
+      },
+      {
+        "word": "possibility",
+        "start_offset": 365,
+        "end_offset": 376,
+        "start": 85.648,
+        "end": 87.508,
+        "score": -0.7906
+      },
+      {
+        "word": "of",
+        "start_offset": 377,
+        "end_offset": 379,
+        "start": 89.008,
+        "end": 89.488,
+        "score": -3.1736
+      },
+      {
+        "word": "infringement",
+        "start_offset": 380,
+        "end_offset": 392,
+        "start": 90.709,
+        "end": 92.409,
+        "score": -0.8463
+      },
+      {
+        "word": "upon",
+        "start_offset": 393,
+        "end_offset": 397,
+        "start": 93.949,
+        "end": 94.689,
+        "score": -2.3712
+      },
+      {
+        "word": "free",
+        "start_offset": 398,
+        "end_offset": 402,
+        "start": 95.889,
+        "end": 96.289,
+        "score": -1.7004
+      },
+      {
+        "word": "will.",
+        "start_offset": 403,
+        "end_offset": 408,
+        "start": 96.909,
+        "end": 97.269,
+        "score": -1.676
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "064-09.mp3",
+    "audio_duration": 121.0514,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

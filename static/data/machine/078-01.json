@@ -1,0 +1,282 @@
+{
+  "text": "Was there some problem with the ritual performed that the that it was necessary to perform it twice? I am there was a misstep which created a momentary lapse of concentration. This was not well.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Was there some problem with the ritual performed that the that it was necessary to perform it twice?",
+        "start_offset": 28,
+        "end_offset": 140,
+        "start": 2.24,
+        "end": 11.200000000000001
+      },
+      {
+        "segment": "I am there was a misstep which created a momentary lapse of concentration.",
+        "start_offset": 266,
+        "end_offset": 654,
+        "start": 21.28,
+        "end": 52.32
+      },
+      {
+        "segment": "This was not well.",
+        "start_offset": 695,
+        "end_offset": 783,
+        "start": 55.6,
+        "end": 62.64
+      }
+    ],
+    "word": [
+      {
+        "word": "Was",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 2.24,
+        "end": 2.56
+      },
+      {
+        "word": "there",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 2.72,
+        "end": 3.04
+      },
+      {
+        "word": "some",
+        "start_offset": 38,
+        "end_offset": 42,
+        "start": 3.04,
+        "end": 3.36
+      },
+      {
+        "word": "problem",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 3.36,
+        "end": 3.68
+      },
+      {
+        "word": "with",
+        "start_offset": 49,
+        "end_offset": 53,
+        "start": 3.92,
+        "end": 4.24
+      },
+      {
+        "word": "the",
+        "start_offset": 53,
+        "end_offset": 57,
+        "start": 4.24,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "ritual",
+        "start_offset": 68,
+        "end_offset": 78,
+        "start": 5.44,
+        "end": 6.24
+      },
+      {
+        "word": "performed",
+        "start_offset": 78,
+        "end_offset": 89,
+        "start": 6.24,
+        "end": 7.12
+      },
+      {
+        "word": "that",
+        "start_offset": 93,
+        "end_offset": 97,
+        "start": 7.44,
+        "end": 7.76
+      },
+      {
+        "word": "the",
+        "start_offset": 97,
+        "end_offset": 100,
+        "start": 7.76,
+        "end": 8.0
+      },
+      {
+        "word": "that",
+        "start_offset": 104,
+        "end_offset": 107,
+        "start": 8.32,
+        "end": 8.56
+      },
+      {
+        "word": "it",
+        "start_offset": 107,
+        "end_offset": 110,
+        "start": 8.56,
+        "end": 8.8
+      },
+      {
+        "word": "was",
+        "start_offset": 110,
+        "end_offset": 112,
+        "start": 8.8,
+        "end": 8.96
+      },
+      {
+        "word": "necessary",
+        "start_offset": 112,
+        "end_offset": 117,
+        "start": 8.96,
+        "end": 9.36
+      },
+      {
+        "word": "to",
+        "start_offset": 117,
+        "end_offset": 119,
+        "start": 9.36,
+        "end": 9.52
+      },
+      {
+        "word": "perform",
+        "start_offset": 119,
+        "end_offset": 124,
+        "start": 9.52,
+        "end": 9.92
+      },
+      {
+        "word": "it",
+        "start_offset": 124,
+        "end_offset": 126,
+        "start": 9.92,
+        "end": 10.08
+      },
+      {
+        "word": "twice?",
+        "start_offset": 132,
+        "end_offset": 140,
+        "start": 10.56,
+        "end": 11.200000000000001
+      },
+      {
+        "word": "I",
+        "start_offset": 266,
+        "end_offset": 270,
+        "start": 21.28,
+        "end": 21.6
+      },
+      {
+        "word": "am",
+        "start_offset": 281,
+        "end_offset": 284,
+        "start": 22.48,
+        "end": 22.72
+      },
+      {
+        "word": "there",
+        "start_offset": 330,
+        "end_offset": 334,
+        "start": 26.400000000000002,
+        "end": 26.72
+      },
+      {
+        "word": "was",
+        "start_offset": 354,
+        "end_offset": 358,
+        "start": 28.32,
+        "end": 28.64
+      },
+      {
+        "word": "a",
+        "start_offset": 386,
+        "end_offset": 390,
+        "start": 30.88,
+        "end": 31.2
+      },
+      {
+        "word": "misstep",
+        "start_offset": 410,
+        "end_offset": 448,
+        "start": 32.8,
+        "end": 35.84
+      },
+      {
+        "word": "which",
+        "start_offset": 464,
+        "end_offset": 468,
+        "start": 37.12,
+        "end": 37.44
+      },
+      {
+        "word": "created",
+        "start_offset": 492,
+        "end_offset": 504,
+        "start": 39.36,
+        "end": 40.32
+      },
+      {
+        "word": "a",
+        "start_offset": 532,
+        "end_offset": 536,
+        "start": 42.56,
+        "end": 42.88
+      },
+      {
+        "word": "momentary",
+        "start_offset": 563,
+        "end_offset": 575,
+        "start": 45.04,
+        "end": 46.0
+      },
+      {
+        "word": "lapse",
+        "start_offset": 598,
+        "end_offset": 610,
+        "start": 47.84,
+        "end": 48.800000000000004
+      },
+      {
+        "word": "of",
+        "start_offset": 614,
+        "end_offset": 618,
+        "start": 49.120000000000005,
+        "end": 49.44
+      },
+      {
+        "word": "concentration.",
+        "start_offset": 634,
+        "end_offset": 654,
+        "start": 50.72,
+        "end": 52.32
+      },
+      {
+        "word": "This",
+        "start_offset": 695,
+        "end_offset": 699,
+        "start": 55.6,
+        "end": 55.92
+      },
+      {
+        "word": "was",
+        "start_offset": 727,
+        "end_offset": 731,
+        "start": 58.160000000000004,
+        "end": 58.480000000000004
+      },
+      {
+        "word": "not",
+        "start_offset": 767,
+        "end_offset": 771,
+        "start": 61.36,
+        "end": 61.68
+      },
+      {
+        "word": "well.",
+        "start_offset": 779,
+        "end_offset": 783,
+        "start": 62.32,
+        "end": 62.64
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "078-01.mp3",
+    "audio_duration": 65.04,
+    "transcription_time": 0.12,
+    "rtfx": 528.99,
+    "timestamp": "2026-01-06T21:56:14.336737+00:00"
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "text": "How is Ra able to know all of this information? This is a somewhat unimportant question, but it is just amazing to me that Ra is able to know all of these trivial things. What do you do, move in time/space and inspect the problem or what? I am Ra. Your former supposition is correct, your latter unintelligible to us.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "How is Ra able to know all of this information?",
+        "start_offset": 0,
+        "end_offset": 47,
+        "start": 4.141,
+        "end": 7.301
+      },
+      {
+        "segment": "This is a somewhat unimportant question, but it is just amazing to me that Ra is able to know all of these trivial things.",
+        "start_offset": 48,
+        "end_offset": 170,
+        "start": 8.921,
+        "end": 18.623
+      },
+      {
+        "segment": "What do you do, move in time/space and inspect the problem or what?",
+        "start_offset": 171,
+        "end_offset": 238,
+        "start": 20.263,
+        "end": 25.423
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 239,
+        "end_offset": 247,
+        "start": 30.124,
+        "end": 33.145
+      },
+      {
+        "segment": "Your former supposition is correct, your latter unintelligible to us.",
+        "start_offset": 248,
+        "end_offset": 317,
+        "start": 35.025,
+        "end": 51.727
+      }
+    ],
+    "word": [
+      {
+        "word": "How",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 4.141,
+        "end": 4.301,
+        "score": -3.4111
+      },
+      {
+        "word": "is",
+        "start_offset": 4,
+        "end_offset": 6,
+        "start": 4.321,
+        "end": 4.401,
+        "score": -3.1678
+      },
+      {
+        "word": "Ra",
+        "start_offset": 7,
+        "end_offset": 9,
+        "start": 4.501,
+        "end": 4.601,
+        "score": -1.3936
+      },
+      {
+        "word": "able",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 4.861,
+        "end": 5.081,
+        "score": -0.7197
+      },
+      {
+        "word": "to",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 5.101,
+        "end": 5.161,
+        "score": -0.7332
+      },
+      {
+        "word": "know",
+        "start_offset": 18,
+        "end_offset": 22,
+        "start": 5.221,
+        "end": 5.381,
+        "score": -0.8296
+      },
+      {
+        "word": "all",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 5.521,
+        "end": 5.621,
+        "score": -0.8339
+      },
+      {
+        "word": "of",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 5.641,
+        "end": 5.701,
+        "score": -2.061
+      },
+      {
+        "word": "this",
+        "start_offset": 30,
+        "end_offset": 34,
+        "start": 5.741,
+        "end": 5.961,
+        "score": -0.7686
+      },
+      {
+        "word": "information?",
+        "start_offset": 35,
+        "end_offset": 47,
+        "start": 6.641,
+        "end": 7.301,
+        "score": -0.7172
+      },
+      {
+        "word": "This",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 8.921,
+        "end": 9.081,
+        "score": -0.865
+      },
+      {
+        "word": "is",
+        "start_offset": 53,
+        "end_offset": 55,
+        "start": 9.141,
+        "end": 9.221,
+        "score": -0.9005
+      },
+      {
+        "word": "a",
+        "start_offset": 56,
+        "end_offset": 57,
+        "start": 9.281,
+        "end": 9.301,
+        "score": -1.1372
+      },
+      {
+        "word": "somewhat",
+        "start_offset": 58,
+        "end_offset": 66,
+        "start": 9.681,
+        "end": 10.061,
+        "score": -0.7493
+      },
+      {
+        "word": "unimportant",
+        "start_offset": 67,
+        "end_offset": 78,
+        "start": 10.541,
+        "end": 11.022,
+        "score": -0.7189
+      },
+      {
+        "word": "question,",
+        "start_offset": 79,
+        "end_offset": 88,
+        "start": 11.042,
+        "end": 11.382,
+        "score": -0.709
+      },
+      {
+        "word": "but",
+        "start_offset": 89,
+        "end_offset": 92,
+        "start": 11.442,
+        "end": 11.622,
+        "score": -1.2208
+      },
+      {
+        "word": "it",
+        "start_offset": 93,
+        "end_offset": 95,
+        "start": 11.682,
+        "end": 11.782,
+        "score": -0.9839
+      },
+      {
+        "word": "is",
+        "start_offset": 96,
+        "end_offset": 98,
+        "start": 11.822,
+        "end": 11.882,
+        "score": -3.9422
+      },
+      {
+        "word": "just",
+        "start_offset": 99,
+        "end_offset": 103,
+        "start": 12.542,
+        "end": 12.902,
+        "score": -0.811
+      },
+      {
+        "word": "amazing",
+        "start_offset": 104,
+        "end_offset": 111,
+        "start": 13.502,
+        "end": 13.922,
+        "score": -1.1787
+      },
+      {
+        "word": "to",
+        "start_offset": 112,
+        "end_offset": 114,
+        "start": 13.962,
+        "end": 14.022,
+        "score": -0.7144
+      },
+      {
+        "word": "me",
+        "start_offset": 115,
+        "end_offset": 117,
+        "start": 14.082,
+        "end": 14.142,
+        "score": -0.7096
+      },
+      {
+        "word": "that",
+        "start_offset": 118,
+        "end_offset": 122,
+        "start": 14.242,
+        "end": 14.362,
+        "score": -1.9735
+      },
+      {
+        "word": "Ra",
+        "start_offset": 123,
+        "end_offset": 125,
+        "start": 14.422,
+        "end": 14.542,
+        "score": -2.6563
+      },
+      {
+        "word": "is",
+        "start_offset": 126,
+        "end_offset": 128,
+        "start": 14.682,
+        "end": 14.782,
+        "score": -1.1246
+      },
+      {
+        "word": "able",
+        "start_offset": 129,
+        "end_offset": 133,
+        "start": 14.902,
+        "end": 15.102,
+        "score": -0.7747
+      },
+      {
+        "word": "to",
+        "start_offset": 134,
+        "end_offset": 136,
+        "start": 15.142,
+        "end": 15.202,
+        "score": -0.7074
+      },
+      {
+        "word": "know",
+        "start_offset": 137,
+        "end_offset": 141,
+        "start": 15.242,
+        "end": 15.422,
+        "score": -0.7951
+      },
+      {
+        "word": "all",
+        "start_offset": 142,
+        "end_offset": 145,
+        "start": 15.602,
+        "end": 15.722,
+        "score": -0.7109
+      },
+      {
+        "word": "of",
+        "start_offset": 146,
+        "end_offset": 148,
+        "start": 15.782,
+        "end": 15.842,
+        "score": -1.3944
+      },
+      {
+        "word": "these",
+        "start_offset": 149,
+        "end_offset": 154,
+        "start": 15.862,
+        "end": 17.282,
+        "score": -1.8907
+      },
+      {
+        "word": "trivial",
+        "start_offset": 155,
+        "end_offset": 162,
+        "start": 17.482,
+        "end": 17.922,
+        "score": -0.7113
+      },
+      {
+        "word": "things.",
+        "start_offset": 163,
+        "end_offset": 170,
+        "start": 18.182,
+        "end": 18.623,
+        "score": -0.7472
+      },
+      {
+        "word": "What",
+        "start_offset": 171,
+        "end_offset": 175,
+        "start": 20.263,
+        "end": 20.403,
+        "score": -0.7154
+      },
+      {
+        "word": "do",
+        "start_offset": 176,
+        "end_offset": 178,
+        "start": 20.423,
+        "end": 20.463,
+        "score": -0.9869
+      },
+      {
+        "word": "you",
+        "start_offset": 179,
+        "end_offset": 182,
+        "start": 20.503,
+        "end": 20.583,
+        "score": -1.1706
+      },
+      {
+        "word": "do,",
+        "start_offset": 183,
+        "end_offset": 186,
+        "start": 20.603,
+        "end": 20.683,
+        "score": -0.7116
+      },
+      {
+        "word": "move",
+        "start_offset": 187,
+        "end_offset": 191,
+        "start": 20.783,
+        "end": 21.003,
+        "score": -3.3855
+      },
+      {
+        "word": "in",
+        "start_offset": 192,
+        "end_offset": 194,
+        "start": 21.363,
+        "end": 21.423,
+        "score": -1.3518
+      },
+      {
+        "word": "time/space",
+        "start_offset": 195,
+        "end_offset": 205,
+        "start": 23.143,
+        "end": 23.843,
+        "score": -1.3497
+      },
+      {
+        "word": "and",
+        "start_offset": 206,
+        "end_offset": 209,
+        "start": 23.863,
+        "end": 23.923,
+        "score": -0.8369
+      },
+      {
+        "word": "inspect",
+        "start_offset": 210,
+        "end_offset": 217,
+        "start": 23.963,
+        "end": 24.383,
+        "score": -0.7043
+      },
+      {
+        "word": "the",
+        "start_offset": 218,
+        "end_offset": 221,
+        "start": 24.463,
+        "end": 24.543,
+        "score": -0.9247
+      },
+      {
+        "word": "problem",
+        "start_offset": 222,
+        "end_offset": 229,
+        "start": 24.603,
+        "end": 24.983,
+        "score": -0.6975
+      },
+      {
+        "word": "or",
+        "start_offset": 230,
+        "end_offset": 232,
+        "start": 25.043,
+        "end": 25.163,
+        "score": -1.9268
+      },
+      {
+        "word": "what?",
+        "start_offset": 233,
+        "end_offset": 238,
+        "start": 25.223,
+        "end": 25.423,
+        "score": -0.8419
+      },
+      {
+        "word": "I",
+        "start_offset": 239,
+        "end_offset": 240,
+        "start": 30.124,
+        "end": 30.144,
+        "score": -2.8385
+      },
+      {
+        "word": "am",
+        "start_offset": 241,
+        "end_offset": 243,
+        "start": 31.144,
+        "end": 32.985,
+        "score": -3.8804
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 244,
+        "end_offset": 247,
+        "start": 33.045,
+        "end": 33.145,
+        "score": -2.6998
+      },
+      {
+        "word": "Your",
+        "start_offset": 248,
+        "end_offset": 252,
+        "start": 35.025,
+        "end": 35.305,
+        "score": -1.3597
+      },
+      {
+        "word": "former",
+        "start_offset": 253,
+        "end_offset": 259,
+        "start": 36.385,
+        "end": 36.885,
+        "score": -0.7959
+      },
+      {
+        "word": "supposition",
+        "start_offset": 260,
+        "end_offset": 271,
+        "start": 38.085,
+        "end": 39.605,
+        "score": -1.724
+      },
+      {
+        "word": "is",
+        "start_offset": 272,
+        "end_offset": 274,
+        "start": 41.026,
+        "end": 41.266,
+        "score": -0.7326
+      },
+      {
+        "word": "correct,",
+        "start_offset": 275,
+        "end_offset": 283,
+        "start": 42.006,
+        "end": 42.726,
+        "score": -0.7107
+      },
+      {
+        "word": "your",
+        "start_offset": 284,
+        "end_offset": 288,
+        "start": 44.186,
+        "end": 44.466,
+        "score": -1.4872
+      },
+      {
+        "word": "latter",
+        "start_offset": 289,
+        "end_offset": 295,
+        "start": 45.386,
+        "end": 45.846,
+        "score": -0.7138
+      },
+      {
+        "word": "unintelligible",
+        "start_offset": 296,
+        "end_offset": 310,
+        "start": 47.006,
+        "end": 49.447,
+        "score": -1.2046
+      },
+      {
+        "word": "to",
+        "start_offset": 311,
+        "end_offset": 313,
+        "start": 50.247,
+        "end": 50.387,
+        "score": -0.7655
+      },
+      {
+        "word": "us.",
+        "start_offset": 314,
+        "end_offset": 317,
+        "start": 51.447,
+        "end": 51.727,
+        "score": -0.8689
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "096-09.mp3",
+    "audio_duration": 54.0474,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

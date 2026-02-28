@@ -1,0 +1,212 @@
+{
+  "text": "Did this then help to reduce the life span? I am Ra. This did reduce the life span, as you call it.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Did this then help to reduce the life span?",
+        "start_offset": 0,
+        "end_offset": 43,
+        "start": 0.62,
+        "end": 5.223
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 44,
+        "end_offset": 52,
+        "start": 11.126,
+        "end": 12.847
+      },
+      {
+        "segment": "This did reduce the life span, as you call it.",
+        "start_offset": 53,
+        "end_offset": 99,
+        "start": 14.448,
+        "end": 23.512
+      }
+    ],
+    "word": [
+      {
+        "word": "Did",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 0.62,
+        "end": 0.8,
+        "score": -0.7604
+      },
+      {
+        "word": "this",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 0.88,
+        "end": 1.121,
+        "score": -0.7758
+      },
+      {
+        "word": "then",
+        "start_offset": 9,
+        "end_offset": 13,
+        "start": 1.241,
+        "end": 1.521,
+        "score": -0.8274
+      },
+      {
+        "word": "help",
+        "start_offset": 14,
+        "end_offset": 18,
+        "start": 2.481,
+        "end": 2.761,
+        "score": -1.3391
+      },
+      {
+        "word": "to",
+        "start_offset": 19,
+        "end_offset": 21,
+        "start": 2.942,
+        "end": 3.062,
+        "score": -1.0632
+      },
+      {
+        "word": "reduce",
+        "start_offset": 22,
+        "end_offset": 28,
+        "start": 3.402,
+        "end": 4.042,
+        "score": -0.9306
+      },
+      {
+        "word": "the",
+        "start_offset": 29,
+        "end_offset": 32,
+        "start": 4.282,
+        "end": 4.402,
+        "score": -1.0513
+      },
+      {
+        "word": "life",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 4.482,
+        "end": 4.763,
+        "score": -0.8763
+      },
+      {
+        "word": "span?",
+        "start_offset": 38,
+        "end_offset": 43,
+        "start": 4.843,
+        "end": 5.223,
+        "score": -0.8331
+      },
+      {
+        "word": "I",
+        "start_offset": 44,
+        "end_offset": 45,
+        "start": 11.126,
+        "end": 11.146,
+        "score": -1.0347
+      },
+      {
+        "word": "am",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 11.806,
+        "end": 12.106,
+        "score": -0.862
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 12.687,
+        "end": 12.847,
+        "score": -0.8341
+      },
+      {
+        "word": "This",
+        "start_offset": 53,
+        "end_offset": 57,
+        "start": 14.448,
+        "end": 14.808,
+        "score": -0.7286
+      },
+      {
+        "word": "did",
+        "start_offset": 58,
+        "end_offset": 61,
+        "start": 15.348,
+        "end": 15.668,
+        "score": -0.7055
+      },
+      {
+        "word": "reduce",
+        "start_offset": 62,
+        "end_offset": 68,
+        "start": 16.209,
+        "end": 16.929,
+        "score": -0.7292
+      },
+      {
+        "word": "the",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 17.409,
+        "end": 17.509,
+        "score": -0.7832
+      },
+      {
+        "word": "life",
+        "start_offset": 73,
+        "end_offset": 77,
+        "start": 18.99,
+        "end": 19.41,
+        "score": -0.7111
+      },
+      {
+        "word": "span,",
+        "start_offset": 78,
+        "end_offset": 83,
+        "start": 19.79,
+        "end": 20.291,
+        "score": -0.7025
+      },
+      {
+        "word": "as",
+        "start_offset": 84,
+        "end_offset": 86,
+        "start": 21.071,
+        "end": 21.371,
+        "score": -0.7086
+      },
+      {
+        "word": "you",
+        "start_offset": 87,
+        "end_offset": 90,
+        "start": 21.651,
+        "end": 21.792,
+        "score": -0.7279
+      },
+      {
+        "word": "call",
+        "start_offset": 91,
+        "end_offset": 95,
+        "start": 22.032,
+        "end": 22.392,
+        "score": -0.7512
+      },
+      {
+        "word": "it.",
+        "start_offset": 96,
+        "end_offset": 99,
+        "start": 23.292,
+        "end": 23.512,
+        "score": -0.7283
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "020-23.mp3",
+    "audio_duration": 24.0327,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

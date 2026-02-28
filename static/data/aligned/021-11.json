@@ -1,0 +1,292 @@
+{
+  "text": "At this time in our cycle, near the end, what percentage of the entities, approximately, incarnating are making their own choices? I am Ra. The approximate percentage is five four, fifty-four 54 percent.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "At this time in our cycle, near the end, what percentage of the entities, approximately, incarnating are making their own choices?",
+        "start_offset": 0,
+        "end_offset": 130,
+        "start": 3.921,
+        "end": 18.903
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 131,
+        "end_offset": 139,
+        "start": 28.764,
+        "end": 30.624
+      },
+      {
+        "segment": "The approximate percentage is five four, fifty-four percent.",
+        "start_offset": 140,
+        "end_offset": 203,
+        "start": 33.285,
+        "end": 46.166
+      }
+    ],
+    "word": [
+      {
+        "word": "At",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 3.921,
+        "end": 4.021,
+        "score": -1.0878
+      },
+      {
+        "word": "this",
+        "start_offset": 3,
+        "end_offset": 7,
+        "start": 4.081,
+        "end": 4.261,
+        "score": -0.9726
+      },
+      {
+        "word": "time",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 4.341,
+        "end": 4.781,
+        "score": -0.8563
+      },
+      {
+        "word": "in",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 5.841,
+        "end": 5.921,
+        "score": -0.7643
+      },
+      {
+        "word": "our",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 5.981,
+        "end": 6.101,
+        "score": -0.8887
+      },
+      {
+        "word": "cycle,",
+        "start_offset": 20,
+        "end_offset": 26,
+        "start": 6.141,
+        "end": 6.541,
+        "score": -1.3437
+      },
+      {
+        "word": "near",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 6.821,
+        "end": 6.961,
+        "score": -3.4415
+      },
+      {
+        "word": "the",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 6.981,
+        "end": 7.061,
+        "score": -1.3213
+      },
+      {
+        "word": "end,",
+        "start_offset": 36,
+        "end_offset": 40,
+        "start": 7.181,
+        "end": 7.341,
+        "score": -1.2534
+      },
+      {
+        "word": "what",
+        "start_offset": 41,
+        "end_offset": 45,
+        "start": 9.501,
+        "end": 9.661,
+        "score": -1.0463
+      },
+      {
+        "word": "percentage",
+        "start_offset": 46,
+        "end_offset": 56,
+        "start": 9.781,
+        "end": 10.441,
+        "score": -0.7365
+      },
+      {
+        "word": "of",
+        "start_offset": 57,
+        "end_offset": 59,
+        "start": 10.762,
+        "end": 10.882,
+        "score": -0.7468
+      },
+      {
+        "word": "the",
+        "start_offset": 60,
+        "end_offset": 63,
+        "start": 10.962,
+        "end": 11.082,
+        "score": -0.7683
+      },
+      {
+        "word": "entities,",
+        "start_offset": 64,
+        "end_offset": 73,
+        "start": 13.202,
+        "end": 13.522,
+        "score": -1.7803
+      },
+      {
+        "word": "approximately,",
+        "start_offset": 74,
+        "end_offset": 88,
+        "start": 13.842,
+        "end": 14.462,
+        "score": -1.6885
+      },
+      {
+        "word": "incarnating",
+        "start_offset": 89,
+        "end_offset": 100,
+        "start": 14.722,
+        "end": 15.442,
+        "score": -1.1404
+      },
+      {
+        "word": "are",
+        "start_offset": 101,
+        "end_offset": 104,
+        "start": 16.842,
+        "end": 17.022,
+        "score": -0.973
+      },
+      {
+        "word": "making",
+        "start_offset": 105,
+        "end_offset": 111,
+        "start": 17.262,
+        "end": 17.662,
+        "score": -0.7302
+      },
+      {
+        "word": "their",
+        "start_offset": 112,
+        "end_offset": 117,
+        "start": 17.862,
+        "end": 18.003,
+        "score": -0.7929
+      },
+      {
+        "word": "own",
+        "start_offset": 118,
+        "end_offset": 121,
+        "start": 18.103,
+        "end": 18.243,
+        "score": -0.7217
+      },
+      {
+        "word": "choices?",
+        "start_offset": 122,
+        "end_offset": 130,
+        "start": 18.343,
+        "end": 18.903,
+        "score": -0.742
+      },
+      {
+        "word": "I",
+        "start_offset": 131,
+        "end_offset": 132,
+        "start": 28.764,
+        "end": 28.784,
+        "score": -1.0579
+      },
+      {
+        "word": "am",
+        "start_offset": 133,
+        "end_offset": 135,
+        "start": 29.444,
+        "end": 29.784,
+        "score": -3.2948
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 30.464,
+        "end": 30.624,
+        "score": -1.3781
+      },
+      {
+        "word": "The",
+        "start_offset": 140,
+        "end_offset": 143,
+        "start": 33.285,
+        "end": 33.425,
+        "score": -0.854
+      },
+      {
+        "word": "approximate",
+        "start_offset": 144,
+        "end_offset": 155,
+        "start": 34.205,
+        "end": 35.845,
+        "score": -1.0539
+      },
+      {
+        "word": "percentage",
+        "start_offset": 156,
+        "end_offset": 166,
+        "start": 36.665,
+        "end": 38.025,
+        "score": -0.8145
+      },
+      {
+        "word": "is",
+        "start_offset": 167,
+        "end_offset": 169,
+        "start": 39.285,
+        "end": 39.586,
+        "score": -0.7832
+      },
+      {
+        "word": "five",
+        "start_offset": 170,
+        "end_offset": 174,
+        "start": 39.846,
+        "end": 40.486,
+        "score": -1.7384
+      },
+      {
+        "word": "four,",
+        "start_offset": 175,
+        "end_offset": 180,
+        "start": 40.906,
+        "end": 42.846,
+        "score": -5.3874
+      },
+      {
+        "word": "fifty-four",
+        "start_offset": 181,
+        "end_offset": 191,
+        "start": 42.866,
+        "end": 44.606,
+        "score": -5.2972
+      },
+      {
+        "word": "percent.",
+        "start_offset": 195,
+        "end_offset": 203,
+        "start": 45.226,
+        "end": 46.166,
+        "score": -1.9441
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "021-11.mp3",
+    "audio_duration": 47.0466,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "text": "Jim has read the entire book. I have only read part of it, but I was wondering if the teachings in the book with respect to balancing were your teachings, Ra's teachings? I am Ra. This is basically correct with distortions that may be seen when this material is collated with the material we have offered.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Jim has read the entire book.",
+        "start_offset": 0,
+        "end_offset": 29,
+        "start": 2.26,
+        "end": 3.921
+      },
+      {
+        "segment": "I have only read part of it, but I was wondering if the teachings in the book with respect to balancing were your teachings, Ra's teachings?",
+        "start_offset": 30,
+        "end_offset": 170,
+        "start": 4.341,
+        "end": 23.325
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 171,
+        "end_offset": 179,
+        "start": 28.406,
+        "end": 30.526
+      },
+      {
+        "segment": "This is basically correct with distortions that may be seen when this material is collated with the material we have offered.",
+        "start_offset": 180,
+        "end_offset": 305,
+        "start": 32.327,
+        "end": 63.933
+      }
+    ],
+    "word": [
+      {
+        "word": "Jim",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.26,
+        "end": 2.541,
+        "score": -0.9486
+      },
+      {
+        "word": "has",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 2.641,
+        "end": 2.761,
+        "score": -1.1266
+      },
+      {
+        "word": "read",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 2.841,
+        "end": 3.021,
+        "score": -1.0642
+      },
+      {
+        "word": "the",
+        "start_offset": 13,
+        "end_offset": 16,
+        "start": 3.061,
+        "end": 3.141,
+        "score": -1.0356
+      },
+      {
+        "word": "entire",
+        "start_offset": 17,
+        "end_offset": 23,
+        "start": 3.201,
+        "end": 3.601,
+        "score": -0.9981
+      },
+      {
+        "word": "book.",
+        "start_offset": 24,
+        "end_offset": 29,
+        "start": 3.661,
+        "end": 3.921,
+        "score": -1.383
+      },
+      {
+        "word": "I",
+        "start_offset": 30,
+        "end_offset": 31,
+        "start": 4.341,
+        "end": 4.361,
+        "score": -8.1547
+      },
+      {
+        "word": "have",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 4.381,
+        "end": 4.541,
+        "score": -1.7838
+      },
+      {
+        "word": "only",
+        "start_offset": 37,
+        "end_offset": 41,
+        "start": 4.581,
+        "end": 4.741,
+        "score": -1.1755
+      },
+      {
+        "word": "read",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 4.801,
+        "end": 4.961,
+        "score": -1.2979
+      },
+      {
+        "word": "part",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 5.021,
+        "end": 5.261,
+        "score": -1.2581
+      },
+      {
+        "word": "of",
+        "start_offset": 52,
+        "end_offset": 54,
+        "start": 5.281,
+        "end": 5.361,
+        "score": -1.6046
+      },
+      {
+        "word": "it,",
+        "start_offset": 55,
+        "end_offset": 58,
+        "start": 5.381,
+        "end": 5.481,
+        "score": -2.6134
+      },
+      {
+        "word": "but",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 6.941,
+        "end": 7.121,
+        "score": -1.4089
+      },
+      {
+        "word": "I",
+        "start_offset": 63,
+        "end_offset": 64,
+        "start": 8.922,
+        "end": 8.942,
+        "score": -5.7483
+      },
+      {
+        "word": "was",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 9.062,
+        "end": 9.302,
+        "score": -1.9973
+      },
+      {
+        "word": "wondering",
+        "start_offset": 69,
+        "end_offset": 78,
+        "start": 11.202,
+        "end": 11.722,
+        "score": -0.7958
+      },
+      {
+        "word": "if",
+        "start_offset": 79,
+        "end_offset": 81,
+        "start": 11.862,
+        "end": 11.982,
+        "score": -1.1218
+      },
+      {
+        "word": "the",
+        "start_offset": 82,
+        "end_offset": 85,
+        "start": 12.123,
+        "end": 12.223,
+        "score": -1.029
+      },
+      {
+        "word": "teachings",
+        "start_offset": 86,
+        "end_offset": 95,
+        "start": 15.103,
+        "end": 15.763,
+        "score": -0.9707
+      },
+      {
+        "word": "in",
+        "start_offset": 96,
+        "end_offset": 98,
+        "start": 16.043,
+        "end": 16.203,
+        "score": -0.8859
+      },
+      {
+        "word": "the",
+        "start_offset": 99,
+        "end_offset": 102,
+        "start": 16.803,
+        "end": 16.904,
+        "score": -0.9896
+      },
+      {
+        "word": "book",
+        "start_offset": 103,
+        "end_offset": 107,
+        "start": 17.064,
+        "end": 17.324,
+        "score": -0.8726
+      },
+      {
+        "word": "with",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 17.404,
+        "end": 17.544,
+        "score": -0.9525
+      },
+      {
+        "word": "respect",
+        "start_offset": 113,
+        "end_offset": 120,
+        "start": 17.604,
+        "end": 18.044,
+        "score": -0.9709
+      },
+      {
+        "word": "to",
+        "start_offset": 121,
+        "end_offset": 123,
+        "start": 18.084,
+        "end": 18.164,
+        "score": -0.9345
+      },
+      {
+        "word": "balancing",
+        "start_offset": 124,
+        "end_offset": 133,
+        "start": 18.244,
+        "end": 18.864,
+        "score": -1.0127
+      },
+      {
+        "word": "were",
+        "start_offset": 134,
+        "end_offset": 138,
+        "start": 19.784,
+        "end": 20.044,
+        "score": -1.3793
+      },
+      {
+        "word": "your",
+        "start_offset": 139,
+        "end_offset": 143,
+        "start": 20.684,
+        "end": 20.824,
+        "score": -1.108
+      },
+      {
+        "word": "teachings,",
+        "start_offset": 144,
+        "end_offset": 154,
+        "start": 20.904,
+        "end": 21.424,
+        "score": -2.4051
+      },
+      {
+        "word": "Ra's",
+        "start_offset": 155,
+        "end_offset": 159,
+        "start": 22.465,
+        "end": 22.785,
+        "score": -3.104
+      },
+      {
+        "word": "teachings?",
+        "start_offset": 160,
+        "end_offset": 170,
+        "start": 22.845,
+        "end": 23.325,
+        "score": -1.1587
+      },
+      {
+        "word": "I",
+        "start_offset": 171,
+        "end_offset": 172,
+        "start": 28.406,
+        "end": 28.426,
+        "score": -1.4376
+      },
+      {
+        "word": "am",
+        "start_offset": 173,
+        "end_offset": 175,
+        "start": 29.146,
+        "end": 29.546,
+        "score": -2.7563
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 176,
+        "end_offset": 179,
+        "start": 30.386,
+        "end": 30.526,
+        "score": -1.2776
+      },
+      {
+        "word": "This",
+        "start_offset": 180,
+        "end_offset": 184,
+        "start": 32.327,
+        "end": 32.787,
+        "score": -0.758
+      },
+      {
+        "word": "is",
+        "start_offset": 185,
+        "end_offset": 187,
+        "start": 33.647,
+        "end": 34.027,
+        "score": -0.7213
+      },
+      {
+        "word": "basically",
+        "start_offset": 188,
+        "end_offset": 197,
+        "start": 35.007,
+        "end": 36.148,
+        "score": -1.0436
+      },
+      {
+        "word": "correct",
+        "start_offset": 198,
+        "end_offset": 205,
+        "start": 37.288,
+        "end": 38.288,
+        "score": -0.7105
+      },
+      {
+        "word": "with",
+        "start_offset": 206,
+        "end_offset": 210,
+        "start": 39.588,
+        "end": 40.008,
+        "score": -0.7526
+      },
+      {
+        "word": "distortions",
+        "start_offset": 211,
+        "end_offset": 222,
+        "start": 41.169,
+        "end": 42.669,
+        "score": -0.7768
+      },
+      {
+        "word": "that",
+        "start_offset": 223,
+        "end_offset": 227,
+        "start": 43.729,
+        "end": 44.149,
+        "score": -0.7082
+      },
+      {
+        "word": "may",
+        "start_offset": 228,
+        "end_offset": 231,
+        "start": 44.509,
+        "end": 44.829,
+        "score": -0.7692
+      },
+      {
+        "word": "be",
+        "start_offset": 232,
+        "end_offset": 234,
+        "start": 45.289,
+        "end": 45.409,
+        "score": -0.7035
+      },
+      {
+        "word": "seen",
+        "start_offset": 235,
+        "end_offset": 239,
+        "start": 45.97,
+        "end": 46.47,
+        "score": -0.7558
+      },
+      {
+        "word": "when",
+        "start_offset": 240,
+        "end_offset": 244,
+        "start": 47.79,
+        "end": 48.25,
+        "score": -0.7792
+      },
+      {
+        "word": "this",
+        "start_offset": 245,
+        "end_offset": 249,
+        "start": 49.37,
+        "end": 49.77,
+        "score": -0.7427
+      },
+      {
+        "word": "material",
+        "start_offset": 250,
+        "end_offset": 258,
+        "start": 50.21,
+        "end": 51.471,
+        "score": -0.6985
+      },
+      {
+        "word": "is",
+        "start_offset": 259,
+        "end_offset": 261,
+        "start": 52.511,
+        "end": 52.891,
+        "score": -0.7202
+      },
+      {
+        "word": "collated",
+        "start_offset": 262,
+        "end_offset": 270,
+        "start": 54.151,
+        "end": 55.392,
+        "score": -1.1345
+      },
+      {
+        "word": "with",
+        "start_offset": 271,
+        "end_offset": 275,
+        "start": 56.492,
+        "end": 56.892,
+        "score": -0.7391
+      },
+      {
+        "word": "the",
+        "start_offset": 276,
+        "end_offset": 279,
+        "start": 58.092,
+        "end": 58.212,
+        "score": -0.7671
+      },
+      {
+        "word": "material",
+        "start_offset": 280,
+        "end_offset": 288,
+        "start": 58.552,
+        "end": 59.872,
+        "score": -0.6971
+      },
+      {
+        "word": "we",
+        "start_offset": 289,
+        "end_offset": 291,
+        "start": 60.933,
+        "end": 61.073,
+        "score": -0.7565
+      },
+      {
+        "word": "have",
+        "start_offset": 292,
+        "end_offset": 296,
+        "start": 61.733,
+        "end": 62.233,
+        "score": -0.9293
+      },
+      {
+        "word": "offered.",
+        "start_offset": 297,
+        "end_offset": 305,
+        "start": 63.353,
+        "end": 63.933,
+        "score": -0.7814
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "041-24.mp3",
+    "audio_duration": 108.0425,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,554 @@
+{
+  "text": "What kind of distortion? I am Ra. The degree of distortion would depend upon the amount of neglect. The ultimate penalty, shall we say, for the disturbing of the physical vehicle is the death, in this case by what you would call the congestive heart failure. As the support group was prompt there should be little or no distortion experienced by the instrument.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What kind of distortion?",
+        "start_offset": 0,
+        "end_offset": 24,
+        "start": 2.9,
+        "end": 10.081
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 25,
+        "end_offset": 33,
+        "start": 10.101,
+        "end": 11.242
+      },
+      {
+        "segment": "The degree of distortion would depend upon the amount of neglect.",
+        "start_offset": 34,
+        "end_offset": 99,
+        "start": 18.463,
+        "end": 31.604
+      },
+      {
+        "segment": "The ultimate penalty, shall we say, for the disturbing of the physical vehicle is the death, in this case by what you would call the congestive heart failure.",
+        "start_offset": 100,
+        "end_offset": 258,
+        "start": 34.405,
+        "end": 74.53
+      },
+      {
+        "segment": "As the support group was prompt there should be little or no distortion experienced by the instrument.",
+        "start_offset": 259,
+        "end_offset": 361,
+        "start": 78.431,
+        "end": 100.554
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.9,
+        "end": 3.06,
+        "score": -9.2719
+      },
+      {
+        "word": "kind",
+        "start_offset": 5,
+        "end_offset": 9,
+        "start": 3.08,
+        "end": 3.44,
+        "score": -7.8697
+      },
+      {
+        "word": "of",
+        "start_offset": 10,
+        "end_offset": 12,
+        "start": 3.681,
+        "end": 8.561,
+        "score": -9.2823
+      },
+      {
+        "word": "distortion?",
+        "start_offset": 13,
+        "end_offset": 24,
+        "start": 8.581,
+        "end": 10.081,
+        "score": -7.083
+      },
+      {
+        "word": "I",
+        "start_offset": 25,
+        "end_offset": 26,
+        "start": 10.101,
+        "end": 10.121,
+        "score": -7.7612
+      },
+      {
+        "word": "am",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 10.161,
+        "end": 11.122,
+        "score": -6.792
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 11.142,
+        "end": 11.242,
+        "score": -7.597
+      },
+      {
+        "word": "The",
+        "start_offset": 34,
+        "end_offset": 37,
+        "start": 18.463,
+        "end": 18.603,
+        "score": -0.8005
+      },
+      {
+        "word": "degree",
+        "start_offset": 38,
+        "end_offset": 44,
+        "start": 19.483,
+        "end": 20.143,
+        "score": -2.5335
+      },
+      {
+        "word": "of",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 20.643,
+        "end": 20.923,
+        "score": -0.7365
+      },
+      {
+        "word": "distortion",
+        "start_offset": 48,
+        "end_offset": 58,
+        "start": 21.043,
+        "end": 22.163,
+        "score": -0.8198
+      },
+      {
+        "word": "would",
+        "start_offset": 59,
+        "end_offset": 64,
+        "start": 23.483,
+        "end": 23.903,
+        "score": -1.2346
+      },
+      {
+        "word": "depend",
+        "start_offset": 65,
+        "end_offset": 71,
+        "start": 24.563,
+        "end": 25.284,
+        "score": -0.6991
+      },
+      {
+        "word": "upon",
+        "start_offset": 72,
+        "end_offset": 76,
+        "start": 25.644,
+        "end": 26.284,
+        "score": -1.6988
+      },
+      {
+        "word": "the",
+        "start_offset": 77,
+        "end_offset": 80,
+        "start": 26.724,
+        "end": 26.844,
+        "score": -0.734
+      },
+      {
+        "word": "amount",
+        "start_offset": 81,
+        "end_offset": 87,
+        "start": 28.124,
+        "end": 28.824,
+        "score": -0.7444
+      },
+      {
+        "word": "of",
+        "start_offset": 88,
+        "end_offset": 90,
+        "start": 29.444,
+        "end": 29.704,
+        "score": -0.825
+      },
+      {
+        "word": "neglect.",
+        "start_offset": 91,
+        "end_offset": 99,
+        "start": 30.724,
+        "end": 31.604,
+        "score": -0.8066
+      },
+      {
+        "word": "The",
+        "start_offset": 100,
+        "end_offset": 103,
+        "start": 34.405,
+        "end": 34.545,
+        "score": -0.9116
+      },
+      {
+        "word": "ultimate",
+        "start_offset": 104,
+        "end_offset": 112,
+        "start": 36.405,
+        "end": 37.365,
+        "score": -0.7618
+      },
+      {
+        "word": "penalty,",
+        "start_offset": 113,
+        "end_offset": 121,
+        "start": 40.526,
+        "end": 41.486,
+        "score": -0.8485
+      },
+      {
+        "word": "shall",
+        "start_offset": 122,
+        "end_offset": 127,
+        "start": 41.986,
+        "end": 42.306,
+        "score": -1.0088
+      },
+      {
+        "word": "we",
+        "start_offset": 128,
+        "end_offset": 130,
+        "start": 42.406,
+        "end": 42.526,
+        "score": -0.7323
+      },
+      {
+        "word": "say,",
+        "start_offset": 131,
+        "end_offset": 135,
+        "start": 42.726,
+        "end": 43.126,
+        "score": -0.8609
+      },
+      {
+        "word": "for",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 43.826,
+        "end": 44.166,
+        "score": -0.7665
+      },
+      {
+        "word": "the",
+        "start_offset": 140,
+        "end_offset": 143,
+        "start": 45.706,
+        "end": 45.846,
+        "score": -0.8328
+      },
+      {
+        "word": "disturbing",
+        "start_offset": 144,
+        "end_offset": 154,
+        "start": 46.967,
+        "end": 48.147,
+        "score": -0.7468
+      },
+      {
+        "word": "of",
+        "start_offset": 155,
+        "end_offset": 157,
+        "start": 48.447,
+        "end": 48.767,
+        "score": -0.7544
+      },
+      {
+        "word": "the",
+        "start_offset": 158,
+        "end_offset": 161,
+        "start": 48.987,
+        "end": 49.127,
+        "score": -0.8771
+      },
+      {
+        "word": "physical",
+        "start_offset": 162,
+        "end_offset": 170,
+        "start": 51.307,
+        "end": 52.287,
+        "score": -0.9584
+      },
+      {
+        "word": "vehicle",
+        "start_offset": 171,
+        "end_offset": 178,
+        "start": 53.027,
+        "end": 53.828,
+        "score": -0.9336
+      },
+      {
+        "word": "is",
+        "start_offset": 179,
+        "end_offset": 181,
+        "start": 56.148,
+        "end": 56.468,
+        "score": -0.7609
+      },
+      {
+        "word": "the",
+        "start_offset": 182,
+        "end_offset": 185,
+        "start": 57.048,
+        "end": 57.168,
+        "score": -0.7634
+      },
+      {
+        "word": "death,",
+        "start_offset": 186,
+        "end_offset": 192,
+        "start": 57.968,
+        "end": 58.488,
+        "score": -2.5392
+      },
+      {
+        "word": "in",
+        "start_offset": 193,
+        "end_offset": 195,
+        "start": 60.368,
+        "end": 60.609,
+        "score": -0.731
+      },
+      {
+        "word": "this",
+        "start_offset": 196,
+        "end_offset": 200,
+        "start": 61.189,
+        "end": 61.569,
+        "score": -0.8233
+      },
+      {
+        "word": "case",
+        "start_offset": 201,
+        "end_offset": 205,
+        "start": 62.049,
+        "end": 62.569,
+        "score": -0.7306
+      },
+      {
+        "word": "by",
+        "start_offset": 206,
+        "end_offset": 208,
+        "start": 63.689,
+        "end": 64.089,
+        "score": -1.2295
+      },
+      {
+        "word": "what",
+        "start_offset": 209,
+        "end_offset": 213,
+        "start": 65.009,
+        "end": 65.349,
+        "score": -0.7485
+      },
+      {
+        "word": "you",
+        "start_offset": 214,
+        "end_offset": 217,
+        "start": 65.809,
+        "end": 65.949,
+        "score": -0.7439
+      },
+      {
+        "word": "would",
+        "start_offset": 218,
+        "end_offset": 223,
+        "start": 66.509,
+        "end": 66.869,
+        "score": -0.8235
+      },
+      {
+        "word": "call",
+        "start_offset": 224,
+        "end_offset": 228,
+        "start": 67.429,
+        "end": 67.87,
+        "score": -0.8338
+      },
+      {
+        "word": "the",
+        "start_offset": 229,
+        "end_offset": 232,
+        "start": 68.55,
+        "end": 68.69,
+        "score": -0.7289
+      },
+      {
+        "word": "congestive",
+        "start_offset": 233,
+        "end_offset": 243,
+        "start": 69.61,
+        "end": 71.23,
+        "score": -1.5509
+      },
+      {
+        "word": "heart",
+        "start_offset": 244,
+        "end_offset": 249,
+        "start": 72.39,
+        "end": 72.81,
+        "score": -1.3006
+      },
+      {
+        "word": "failure.",
+        "start_offset": 250,
+        "end_offset": 258,
+        "start": 73.79,
+        "end": 74.53,
+        "score": -2.4161
+      },
+      {
+        "word": "As",
+        "start_offset": 259,
+        "end_offset": 261,
+        "start": 78.431,
+        "end": 78.791,
+        "score": -0.809
+      },
+      {
+        "word": "the",
+        "start_offset": 262,
+        "end_offset": 265,
+        "start": 80.491,
+        "end": 80.611,
+        "score": -0.759
+      },
+      {
+        "word": "support",
+        "start_offset": 266,
+        "end_offset": 273,
+        "start": 81.011,
+        "end": 81.831,
+        "score": -0.8276
+      },
+      {
+        "word": "group",
+        "start_offset": 274,
+        "end_offset": 279,
+        "start": 82.072,
+        "end": 82.412,
+        "score": -0.761
+      },
+      {
+        "word": "was",
+        "start_offset": 280,
+        "end_offset": 283,
+        "start": 82.692,
+        "end": 83.072,
+        "score": -0.7138
+      },
+      {
+        "word": "prompt",
+        "start_offset": 284,
+        "end_offset": 290,
+        "start": 84.472,
+        "end": 85.072,
+        "score": -0.9452
+      },
+      {
+        "word": "there",
+        "start_offset": 291,
+        "end_offset": 296,
+        "start": 86.072,
+        "end": 86.352,
+        "score": -0.8306
+      },
+      {
+        "word": "should",
+        "start_offset": 297,
+        "end_offset": 303,
+        "start": 86.672,
+        "end": 87.052,
+        "score": -0.9561
+      },
+      {
+        "word": "be",
+        "start_offset": 304,
+        "end_offset": 306,
+        "start": 87.292,
+        "end": 87.412,
+        "score": -0.7159
+      },
+      {
+        "word": "little",
+        "start_offset": 307,
+        "end_offset": 313,
+        "start": 88.712,
+        "end": 89.233,
+        "score": -0.8792
+      },
+      {
+        "word": "or",
+        "start_offset": 314,
+        "end_offset": 316,
+        "start": 89.973,
+        "end": 90.233,
+        "score": -0.7672
+      },
+      {
+        "word": "no",
+        "start_offset": 317,
+        "end_offset": 319,
+        "start": 91.193,
+        "end": 91.333,
+        "score": -0.9198
+      },
+      {
+        "word": "distortion",
+        "start_offset": 320,
+        "end_offset": 330,
+        "start": 92.253,
+        "end": 93.273,
+        "score": -0.8389
+      },
+      {
+        "word": "experienced",
+        "start_offset": 331,
+        "end_offset": 342,
+        "start": 95.053,
+        "end": 96.514,
+        "score": -0.9854
+      },
+      {
+        "word": "by",
+        "start_offset": 343,
+        "end_offset": 345,
+        "start": 97.794,
+        "end": 98.234,
+        "score": -1.1189
+      },
+      {
+        "word": "the",
+        "start_offset": 346,
+        "end_offset": 349,
+        "start": 98.654,
+        "end": 98.774,
+        "score": -1.5404
+      },
+      {
+        "word": "instrument.",
+        "start_offset": 350,
+        "end_offset": 361,
+        "start": 99.434,
+        "end": 100.554,
+        "score": -0.7715
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "091-10.mp3",
+    "audio_duration": 102.0343,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "text": "I am wrong. The use of experience is to learn, consider a race who watches a movie. It experiences a story and identifies with the feelings, perceptions, and experiences of the hero.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I am wrong.",
+        "start_offset": 110,
+        "end_offset": 155,
+        "start": 8.8,
+        "end": 12.4
+      },
+      {
+        "segment": "The use of experience is to learn, consider a race who watches a movie.",
+        "start_offset": 197,
+        "end_offset": 463,
+        "start": 15.76,
+        "end": 37.04
+      },
+      {
+        "segment": "It experiences a story and identifies with the feelings, perceptions, and experiences of the hero.",
+        "start_offset": 486,
+        "end_offset": 776,
+        "start": 38.88,
+        "end": 62.08
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 110,
+        "end_offset": 114,
+        "start": 8.8,
+        "end": 9.120000000000001
+      },
+      {
+        "word": "am",
+        "start_offset": 126,
+        "end_offset": 130,
+        "start": 10.08,
+        "end": 10.4
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 146,
+        "end_offset": 155,
+        "start": 11.68,
+        "end": 12.4
+      },
+      {
+        "word": "The",
+        "start_offset": 197,
+        "end_offset": 201,
+        "start": 15.76,
+        "end": 16.080000000000002
+      },
+      {
+        "word": "use",
+        "start_offset": 217,
+        "end_offset": 221,
+        "start": 17.36,
+        "end": 17.68
+      },
+      {
+        "word": "of",
+        "start_offset": 233,
+        "end_offset": 237,
+        "start": 18.64,
+        "end": 18.96
+      },
+      {
+        "word": "experience",
+        "start_offset": 249,
+        "end_offset": 265,
+        "start": 19.92,
+        "end": 21.2
+      },
+      {
+        "word": "is",
+        "start_offset": 277,
+        "end_offset": 281,
+        "start": 22.16,
+        "end": 22.48
+      },
+      {
+        "word": "to",
+        "start_offset": 293,
+        "end_offset": 297,
+        "start": 23.44,
+        "end": 23.76
+      },
+      {
+        "word": "learn,",
+        "start_offset": 309,
+        "end_offset": 321,
+        "start": 24.72,
+        "end": 25.68
+      },
+      {
+        "word": "consider",
+        "start_offset": 332,
+        "end_offset": 336,
+        "start": 26.560000000000002,
+        "end": 26.88
+      },
+      {
+        "word": "a",
+        "start_offset": 364,
+        "end_offset": 368,
+        "start": 29.12,
+        "end": 29.44
+      },
+      {
+        "word": "race",
+        "start_offset": 380,
+        "end_offset": 388,
+        "start": 30.400000000000002,
+        "end": 31.04
+      },
+      {
+        "word": "who",
+        "start_offset": 399,
+        "end_offset": 403,
+        "start": 31.92,
+        "end": 32.24
+      },
+      {
+        "word": "watches",
+        "start_offset": 415,
+        "end_offset": 427,
+        "start": 33.2,
+        "end": 34.160000000000004
+      },
+      {
+        "word": "a",
+        "start_offset": 439,
+        "end_offset": 443,
+        "start": 35.12,
+        "end": 35.44
+      },
+      {
+        "word": "movie.",
+        "start_offset": 455,
+        "end_offset": 463,
+        "start": 36.4,
+        "end": 37.04
+      },
+      {
+        "word": "It",
+        "start_offset": 486,
+        "end_offset": 490,
+        "start": 38.88,
+        "end": 39.2
+      },
+      {
+        "word": "experiences",
+        "start_offset": 498,
+        "end_offset": 522,
+        "start": 39.84,
+        "end": 41.76
+      },
+      {
+        "word": "a",
+        "start_offset": 538,
+        "end_offset": 542,
+        "start": 43.04,
+        "end": 43.36
+      },
+      {
+        "word": "story",
+        "start_offset": 546,
+        "end_offset": 558,
+        "start": 43.68,
+        "end": 44.64
+      },
+      {
+        "word": "and",
+        "start_offset": 570,
+        "end_offset": 574,
+        "start": 45.6,
+        "end": 45.92
+      },
+      {
+        "word": "identifies",
+        "start_offset": 586,
+        "end_offset": 605,
+        "start": 46.88,
+        "end": 48.4
+      },
+      {
+        "word": "with",
+        "start_offset": 617,
+        "end_offset": 621,
+        "start": 49.36,
+        "end": 49.68
+      },
+      {
+        "word": "the",
+        "start_offset": 629,
+        "end_offset": 633,
+        "start": 50.32,
+        "end": 50.64
+      },
+      {
+        "word": "feelings,",
+        "start_offset": 648,
+        "end_offset": 659,
+        "start": 51.84,
+        "end": 52.72
+      },
+      {
+        "word": "perceptions,",
+        "start_offset": 670,
+        "end_offset": 682,
+        "start": 53.6,
+        "end": 54.56
+      },
+      {
+        "word": "and",
+        "start_offset": 697,
+        "end_offset": 701,
+        "start": 55.76,
+        "end": 56.08
+      },
+      {
+        "word": "experiences",
+        "start_offset": 705,
+        "end_offset": 725,
+        "start": 56.4,
+        "end": 58.0
+      },
+      {
+        "word": "of",
+        "start_offset": 741,
+        "end_offset": 745,
+        "start": 59.28,
+        "end": 59.6
+      },
+      {
+        "word": "the",
+        "start_offset": 753,
+        "end_offset": 757,
+        "start": 60.24,
+        "end": 60.56
+      },
+      {
+        "word": "hero.",
+        "start_offset": 768,
+        "end_offset": 776,
+        "start": 61.44,
+        "end": 62.08
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "008-17.mp3",
+    "audio_duration": 74.03,
+    "transcription_time": 0.13,
+    "rtfx": 574.12,
+    "timestamp": "2026-01-06T21:46:24.026194+00:00"
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "text": "You also mentioned the pyramid was used for learning. Is this the same process or is there a difference? I am Ra. There is a difference.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "You also mentioned the pyramid was used for learning.",
+        "start_offset": 0,
+        "end_offset": 53,
+        "start": 1.922,
+        "end": 4.564
+      },
+      {
+        "segment": "Is this the same process or is there a difference?",
+        "start_offset": 54,
+        "end_offset": 104,
+        "start": 4.684,
+        "end": 7.566
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 105,
+        "end_offset": 113,
+        "start": 11.589,
+        "end": 13.511
+      },
+      {
+        "segment": "There is a difference.",
+        "start_offset": 114,
+        "end_offset": 136,
+        "start": 15.492,
+        "end": 19.796
+      }
+    ],
+    "word": [
+      {
+        "word": "You",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 1.922,
+        "end": 2.042,
+        "score": -5.4298
+      },
+      {
+        "word": "also",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 2.122,
+        "end": 2.362,
+        "score": -0.7028
+      },
+      {
+        "word": "mentioned",
+        "start_offset": 9,
+        "end_offset": 18,
+        "start": 2.542,
+        "end": 2.962,
+        "score": -0.7491
+      },
+      {
+        "word": "the",
+        "start_offset": 19,
+        "end_offset": 22,
+        "start": 2.982,
+        "end": 3.062,
+        "score": -1.0919
+      },
+      {
+        "word": "pyramid",
+        "start_offset": 23,
+        "end_offset": 30,
+        "start": 3.102,
+        "end": 3.483,
+        "score": -0.8146
+      },
+      {
+        "word": "was",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 3.523,
+        "end": 3.643,
+        "score": -0.7216
+      },
+      {
+        "word": "used",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 3.743,
+        "end": 3.923,
+        "score": -0.6971
+      },
+      {
+        "word": "for",
+        "start_offset": 40,
+        "end_offset": 43,
+        "start": 3.943,
+        "end": 4.063,
+        "score": -0.7072
+      },
+      {
+        "word": "learning.",
+        "start_offset": 44,
+        "end_offset": 53,
+        "start": 4.163,
+        "end": 4.564,
+        "score": -0.7447
+      },
+      {
+        "word": "Is",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 4.684,
+        "end": 4.804,
+        "score": -1.5009
+      },
+      {
+        "word": "this",
+        "start_offset": 57,
+        "end_offset": 61,
+        "start": 4.844,
+        "end": 5.024,
+        "score": -1.2249
+      },
+      {
+        "word": "the",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 5.084,
+        "end": 5.204,
+        "score": -1.5382
+      },
+      {
+        "word": "same",
+        "start_offset": 66,
+        "end_offset": 70,
+        "start": 5.584,
+        "end": 5.845,
+        "score": -0.9019
+      },
+      {
+        "word": "process",
+        "start_offset": 71,
+        "end_offset": 78,
+        "start": 5.905,
+        "end": 6.465,
+        "score": -0.7074
+      },
+      {
+        "word": "or",
+        "start_offset": 79,
+        "end_offset": 81,
+        "start": 6.525,
+        "end": 6.585,
+        "score": -1.6837
+      },
+      {
+        "word": "is",
+        "start_offset": 82,
+        "end_offset": 84,
+        "start": 6.625,
+        "end": 6.685,
+        "score": -3.2207
+      },
+      {
+        "word": "there",
+        "start_offset": 85,
+        "end_offset": 90,
+        "start": 6.725,
+        "end": 6.926,
+        "score": -1.1174
+      },
+      {
+        "word": "a",
+        "start_offset": 91,
+        "end_offset": 92,
+        "start": 6.986,
+        "end": 7.006,
+        "score": -5.8827
+      },
+      {
+        "word": "difference?",
+        "start_offset": 93,
+        "end_offset": 104,
+        "start": 7.026,
+        "end": 7.566,
+        "score": -0.7629
+      },
+      {
+        "word": "I",
+        "start_offset": 105,
+        "end_offset": 106,
+        "start": 11.589,
+        "end": 11.609,
+        "score": -4.0773
+      },
+      {
+        "word": "am",
+        "start_offset": 107,
+        "end_offset": 109,
+        "start": 12.31,
+        "end": 12.55,
+        "score": -6.6722
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 110,
+        "end_offset": 113,
+        "start": 12.65,
+        "end": 13.511,
+        "score": -8.53
+      },
+      {
+        "word": "There",
+        "start_offset": 114,
+        "end_offset": 119,
+        "start": 15.492,
+        "end": 15.853,
+        "score": -3.6581
+      },
+      {
+        "word": "is",
+        "start_offset": 120,
+        "end_offset": 122,
+        "start": 16.553,
+        "end": 16.953,
+        "score": -2.8198
+      },
+      {
+        "word": "a",
+        "start_offset": 123,
+        "end_offset": 124,
+        "start": 17.774,
+        "end": 17.794,
+        "score": -2.1214
+      },
+      {
+        "word": "difference.",
+        "start_offset": 125,
+        "end_offset": 136,
+        "start": 18.775,
+        "end": 19.796,
+        "score": -3.3808
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "057-25.mp3",
+    "audio_duration": 20.0359,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

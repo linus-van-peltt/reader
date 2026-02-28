@@ -1,0 +1,184 @@
+{
+  "text": "The instrument would like to ask, is there any danger in receiving too much transferred energy with the instrument in her present condition?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "The instrument would like to ask, is there any danger in receiving too much transferred energy with the instrument in her present condition?",
+        "start_offset": 30,
+        "end_offset": 131,
+        "start": 2.4,
+        "end": 10.48
+      }
+    ],
+    "word": [
+      {
+        "word": "The",
+        "start_offset": 30,
+        "end_offset": 34,
+        "start": 2.4,
+        "end": 2.72
+      },
+      {
+        "word": "instrument",
+        "start_offset": 34,
+        "end_offset": 45,
+        "start": 2.72,
+        "end": 3.6
+      },
+      {
+        "word": "would",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 3.92,
+        "end": 4.16
+      },
+      {
+        "word": "like",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 4.16,
+        "end": 4.4
+      },
+      {
+        "word": "to",
+        "start_offset": 55,
+        "end_offset": 58,
+        "start": 4.4,
+        "end": 4.64
+      },
+      {
+        "word": "ask,",
+        "start_offset": 58,
+        "end_offset": 62,
+        "start": 4.64,
+        "end": 4.96
+      },
+      {
+        "word": "is",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 5.12,
+        "end": 5.36
+      },
+      {
+        "word": "there",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 5.36,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "any",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 5.6000000000000005,
+        "end": 5.84
+      },
+      {
+        "word": "danger",
+        "start_offset": 73,
+        "end_offset": 78,
+        "start": 5.84,
+        "end": 6.24
+      },
+      {
+        "word": "in",
+        "start_offset": 78,
+        "end_offset": 81,
+        "start": 6.24,
+        "end": 6.48
+      },
+      {
+        "word": "receiving",
+        "start_offset": 81,
+        "end_offset": 87,
+        "start": 6.48,
+        "end": 6.96
+      },
+      {
+        "word": "too",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 6.96,
+        "end": 7.12
+      },
+      {
+        "word": "much",
+        "start_offset": 89,
+        "end_offset": 91,
+        "start": 7.12,
+        "end": 7.28
+      },
+      {
+        "word": "transferred",
+        "start_offset": 91,
+        "end_offset": 99,
+        "start": 7.28,
+        "end": 7.92
+      },
+      {
+        "word": "energy",
+        "start_offset": 99,
+        "end_offset": 103,
+        "start": 7.92,
+        "end": 8.24
+      },
+      {
+        "word": "with",
+        "start_offset": 103,
+        "end_offset": 105,
+        "start": 8.24,
+        "end": 8.4
+      },
+      {
+        "word": "the",
+        "start_offset": 105,
+        "end_offset": 107,
+        "start": 8.4,
+        "end": 8.56
+      },
+      {
+        "word": "instrument",
+        "start_offset": 107,
+        "end_offset": 112,
+        "start": 8.56,
+        "end": 8.96
+      },
+      {
+        "word": "in",
+        "start_offset": 112,
+        "end_offset": 115,
+        "start": 8.96,
+        "end": 9.200000000000001
+      },
+      {
+        "word": "her",
+        "start_offset": 115,
+        "end_offset": 118,
+        "start": 9.200000000000001,
+        "end": 9.44
+      },
+      {
+        "word": "present",
+        "start_offset": 118,
+        "end_offset": 123,
+        "start": 9.44,
+        "end": 9.84
+      },
+      {
+        "word": "condition?",
+        "start_offset": 123,
+        "end_offset": 131,
+        "start": 9.84,
+        "end": 10.48
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "079-02.mp3",
+    "audio_duration": 22.05,
+    "transcription_time": 0.09,
+    "rtfx": 250.5,
+    "timestamp": "2026-01-06T21:56:28.694435+00:00"
+  }
+}

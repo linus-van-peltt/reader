@@ -1,0 +1,422 @@
+{
+  "text": "When we're finishing the last session, I asked a question that was too long to answer. It had to do with the shape of the pyramid and its relationship to the initiation. Is this an appropriate time to ask this question? Hi, who? Yes, this is and appropriate space to ask that question.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "When we're finishing the last session, I asked a question that was too long to answer.",
+        "start_offset": 32,
+        "end_offset": 192,
+        "start": 2.56,
+        "end": 15.36
+      },
+      {
+        "segment": "It had to do with the shape of the pyramid and its relationship to the initiation.",
+        "start_offset": 221,
+        "end_offset": 358,
+        "start": 17.68,
+        "end": 28.64
+      },
+      {
+        "segment": "Is this an appropriate time to ask this question?",
+        "start_offset": 377,
+        "end_offset": 450,
+        "start": 30.16,
+        "end": 36.0
+      },
+      {
+        "segment": "Hi, who?",
+        "start_offset": 544,
+        "end_offset": 563,
+        "start": 43.52,
+        "end": 45.04
+      },
+      {
+        "segment": "Yes, this is and appropriate space to ask that question.",
+        "start_offset": 608,
+        "end_offset": 783,
+        "start": 48.64,
+        "end": 62.64
+      }
+    ],
+    "word": [
+      {
+        "word": "When",
+        "start_offset": 32,
+        "end_offset": 37,
+        "start": 2.56,
+        "end": 2.96
+      },
+      {
+        "word": "we're",
+        "start_offset": 37,
+        "end_offset": 55,
+        "start": 2.96,
+        "end": 4.4
+      },
+      {
+        "word": "finishing",
+        "start_offset": 55,
+        "end_offset": 64,
+        "start": 4.4,
+        "end": 5.12
+      },
+      {
+        "word": "the",
+        "start_offset": 64,
+        "end_offset": 68,
+        "start": 5.12,
+        "end": 5.44
+      },
+      {
+        "word": "last",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 5.44,
+        "end": 5.76
+      },
+      {
+        "word": "session,",
+        "start_offset": 72,
+        "end_offset": 78,
+        "start": 5.76,
+        "end": 6.24
+      },
+      {
+        "word": "I",
+        "start_offset": 144,
+        "end_offset": 148,
+        "start": 11.52,
+        "end": 11.84
+      },
+      {
+        "word": "asked",
+        "start_offset": 156,
+        "end_offset": 162,
+        "start": 12.48,
+        "end": 12.96
+      },
+      {
+        "word": "a",
+        "start_offset": 162,
+        "end_offset": 164,
+        "start": 12.96,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "question",
+        "start_offset": 164,
+        "end_offset": 168,
+        "start": 13.120000000000001,
+        "end": 13.44
+      },
+      {
+        "word": "that",
+        "start_offset": 168,
+        "end_offset": 169,
+        "start": 13.44,
+        "end": 13.52
+      },
+      {
+        "word": "was",
+        "start_offset": 171,
+        "end_offset": 172,
+        "start": 13.68,
+        "end": 13.76
+      },
+      {
+        "word": "too",
+        "start_offset": 175,
+        "end_offset": 179,
+        "start": 14.0,
+        "end": 14.32
+      },
+      {
+        "word": "long",
+        "start_offset": 179,
+        "end_offset": 181,
+        "start": 14.32,
+        "end": 14.48
+      },
+      {
+        "word": "to",
+        "start_offset": 183,
+        "end_offset": 186,
+        "start": 14.64,
+        "end": 14.88
+      },
+      {
+        "word": "answer.",
+        "start_offset": 186,
+        "end_offset": 192,
+        "start": 14.88,
+        "end": 15.36
+      },
+      {
+        "word": "It",
+        "start_offset": 221,
+        "end_offset": 223,
+        "start": 17.68,
+        "end": 17.84
+      },
+      {
+        "word": "had",
+        "start_offset": 223,
+        "end_offset": 226,
+        "start": 17.84,
+        "end": 18.080000000000002
+      },
+      {
+        "word": "to",
+        "start_offset": 228,
+        "end_offset": 231,
+        "start": 18.240000000000002,
+        "end": 18.48
+      },
+      {
+        "word": "do",
+        "start_offset": 231,
+        "end_offset": 235,
+        "start": 18.48,
+        "end": 18.8
+      },
+      {
+        "word": "with",
+        "start_offset": 235,
+        "end_offset": 239,
+        "start": 18.8,
+        "end": 19.12
+      },
+      {
+        "word": "the",
+        "start_offset": 239,
+        "end_offset": 243,
+        "start": 19.12,
+        "end": 19.44
+      },
+      {
+        "word": "shape",
+        "start_offset": 243,
+        "end_offset": 251,
+        "start": 19.44,
+        "end": 20.080000000000002
+      },
+      {
+        "word": "of",
+        "start_offset": 258,
+        "end_offset": 261,
+        "start": 20.64,
+        "end": 20.88
+      },
+      {
+        "word": "the",
+        "start_offset": 261,
+        "end_offset": 265,
+        "start": 20.88,
+        "end": 21.2
+      },
+      {
+        "word": "pyramid",
+        "start_offset": 265,
+        "end_offset": 277,
+        "start": 21.2,
+        "end": 22.16
+      },
+      {
+        "word": "and",
+        "start_offset": 281,
+        "end_offset": 285,
+        "start": 22.48,
+        "end": 22.8
+      },
+      {
+        "word": "its",
+        "start_offset": 285,
+        "end_offset": 289,
+        "start": 22.8,
+        "end": 23.12
+      },
+      {
+        "word": "relationship",
+        "start_offset": 301,
+        "end_offset": 317,
+        "start": 24.080000000000002,
+        "end": 25.36
+      },
+      {
+        "word": "to",
+        "start_offset": 317,
+        "end_offset": 321,
+        "start": 25.36,
+        "end": 25.68
+      },
+      {
+        "word": "the",
+        "start_offset": 341,
+        "end_offset": 344,
+        "start": 27.28,
+        "end": 27.52
+      },
+      {
+        "word": "initiation.",
+        "start_offset": 344,
+        "end_offset": 358,
+        "start": 27.52,
+        "end": 28.64
+      },
+      {
+        "word": "Is",
+        "start_offset": 377,
+        "end_offset": 381,
+        "start": 30.16,
+        "end": 30.48
+      },
+      {
+        "word": "this",
+        "start_offset": 385,
+        "end_offset": 389,
+        "start": 30.8,
+        "end": 31.12
+      },
+      {
+        "word": "an",
+        "start_offset": 409,
+        "end_offset": 412,
+        "start": 32.72,
+        "end": 32.96
+      },
+      {
+        "word": "appropriate",
+        "start_offset": 412,
+        "end_offset": 424,
+        "start": 32.96,
+        "end": 33.92
+      },
+      {
+        "word": "time",
+        "start_offset": 424,
+        "end_offset": 428,
+        "start": 33.92,
+        "end": 34.24
+      },
+      {
+        "word": "to",
+        "start_offset": 431,
+        "end_offset": 434,
+        "start": 34.480000000000004,
+        "end": 34.72
+      },
+      {
+        "word": "ask",
+        "start_offset": 434,
+        "end_offset": 440,
+        "start": 34.72,
+        "end": 35.2
+      },
+      {
+        "word": "this",
+        "start_offset": 440,
+        "end_offset": 444,
+        "start": 35.2,
+        "end": 35.52
+      },
+      {
+        "word": "question?",
+        "start_offset": 444,
+        "end_offset": 450,
+        "start": 35.52,
+        "end": 36.0
+      },
+      {
+        "word": "Hi,",
+        "start_offset": 544,
+        "end_offset": 548,
+        "start": 43.52,
+        "end": 43.84
+      },
+      {
+        "word": "who?",
+        "start_offset": 560,
+        "end_offset": 563,
+        "start": 44.800000000000004,
+        "end": 45.04
+      },
+      {
+        "word": "Yes,",
+        "start_offset": 608,
+        "end_offset": 616,
+        "start": 48.64,
+        "end": 49.28
+      },
+      {
+        "word": "this",
+        "start_offset": 626,
+        "end_offset": 630,
+        "start": 50.08,
+        "end": 50.4
+      },
+      {
+        "word": "is",
+        "start_offset": 636,
+        "end_offset": 638,
+        "start": 50.88,
+        "end": 51.04
+      },
+      {
+        "word": "and",
+        "start_offset": 669,
+        "end_offset": 673,
+        "start": 53.52,
+        "end": 53.84
+      },
+      {
+        "word": "appropriate",
+        "start_offset": 684,
+        "end_offset": 698,
+        "start": 54.72,
+        "end": 55.84
+      },
+      {
+        "word": "space",
+        "start_offset": 731,
+        "end_offset": 739,
+        "start": 58.480000000000004,
+        "end": 59.120000000000005
+      },
+      {
+        "word": "to",
+        "start_offset": 747,
+        "end_offset": 751,
+        "start": 59.76,
+        "end": 60.08
+      },
+      {
+        "word": "ask",
+        "start_offset": 755,
+        "end_offset": 763,
+        "start": 60.4,
+        "end": 61.04
+      },
+      {
+        "word": "that",
+        "start_offset": 767,
+        "end_offset": 771,
+        "start": 61.36,
+        "end": 61.68
+      },
+      {
+        "word": "question.",
+        "start_offset": 775,
+        "end_offset": 783,
+        "start": 62.0,
+        "end": 62.64
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "004-01.mp3",
+    "audio_duration": 72.05,
+    "transcription_time": 0.13,
+    "rtfx": 546.42,
+    "timestamp": "2026-01-06T21:45:44.798804+00:00"
+  }
+}

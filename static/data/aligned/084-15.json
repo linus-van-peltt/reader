@@ -1,0 +1,338 @@
+{
+  "text": "Considering individual A and individual B, if individual A experiences the orgasm is the energy, then, transferred to individual B in a greater amount? Is that correct? I am Ra. Your query is incomplete. Please restate.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Considering individual A and individual B, if individual A experiences the orgasm is the energy, then, transferred to individual B in a greater amount?",
+        "start_offset": 0,
+        "end_offset": 151,
+        "start": 2.061,
+        "end": 16.228
+      },
+      {
+        "segment": "Is that correct?",
+        "start_offset": 152,
+        "end_offset": 168,
+        "start": 17.569,
+        "end": 18.269
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 169,
+        "end_offset": 177,
+        "start": 22.111,
+        "end": 25.213
+      },
+      {
+        "segment": "Your query is incomplete.",
+        "start_offset": 178,
+        "end_offset": 203,
+        "start": 25.293,
+        "end": 29.395
+      },
+      {
+        "segment": "Please restate.",
+        "start_offset": 204,
+        "end_offset": 219,
+        "start": 30.416,
+        "end": 32.417
+      }
+    ],
+    "word": [
+      {
+        "word": "Considering",
+        "start_offset": 0,
+        "end_offset": 11,
+        "start": 2.061,
+        "end": 2.741,
+        "score": -0.7092
+      },
+      {
+        "word": "individual",
+        "start_offset": 12,
+        "end_offset": 22,
+        "start": 3.622,
+        "end": 4.122,
+        "score": -0.7164
+      },
+      {
+        "word": "A",
+        "start_offset": 23,
+        "end_offset": 24,
+        "start": 4.262,
+        "end": 4.282,
+        "score": -0.749
+      },
+      {
+        "word": "and",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 4.562,
+        "end": 4.642,
+        "score": -1.3522
+      },
+      {
+        "word": "individual",
+        "start_offset": 29,
+        "end_offset": 39,
+        "start": 4.682,
+        "end": 5.223,
+        "score": -0.7058
+      },
+      {
+        "word": "B,",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 5.343,
+        "end": 5.363,
+        "score": -0.7013
+      },
+      {
+        "word": "if",
+        "start_offset": 43,
+        "end_offset": 45,
+        "start": 6.864,
+        "end": 6.964,
+        "score": -0.7014
+      },
+      {
+        "word": "individual",
+        "start_offset": 46,
+        "end_offset": 56,
+        "start": 7.084,
+        "end": 7.664,
+        "score": -0.6975
+      },
+      {
+        "word": "A",
+        "start_offset": 57,
+        "end_offset": 58,
+        "start": 7.804,
+        "end": 7.824,
+        "score": -0.7344
+      },
+      {
+        "word": "experiences",
+        "start_offset": 59,
+        "end_offset": 70,
+        "start": 9.125,
+        "end": 9.825,
+        "score": -0.7029
+      },
+      {
+        "word": "the",
+        "start_offset": 71,
+        "end_offset": 74,
+        "start": 9.885,
+        "end": 9.985,
+        "score": -0.8536
+      },
+      {
+        "word": "orgasm",
+        "start_offset": 75,
+        "end_offset": 81,
+        "start": 10.125,
+        "end": 10.706,
+        "score": -0.8691
+      },
+      {
+        "word": "is",
+        "start_offset": 82,
+        "end_offset": 84,
+        "start": 10.866,
+        "end": 10.966,
+        "score": -2.8927
+      },
+      {
+        "word": "the",
+        "start_offset": 85,
+        "end_offset": 88,
+        "start": 11.026,
+        "end": 11.126,
+        "score": -2.1454
+      },
+      {
+        "word": "energy,",
+        "start_offset": 89,
+        "end_offset": 96,
+        "start": 11.766,
+        "end": 12.106,
+        "score": -0.7084
+      },
+      {
+        "word": "then,",
+        "start_offset": 97,
+        "end_offset": 102,
+        "start": 12.186,
+        "end": 12.406,
+        "score": -0.7194
+      },
+      {
+        "word": "transferred",
+        "start_offset": 103,
+        "end_offset": 114,
+        "start": 12.526,
+        "end": 13.207,
+        "score": -0.971
+      },
+      {
+        "word": "to",
+        "start_offset": 115,
+        "end_offset": 117,
+        "start": 13.367,
+        "end": 13.467,
+        "score": -0.7314
+      },
+      {
+        "word": "individual",
+        "start_offset": 118,
+        "end_offset": 128,
+        "start": 13.787,
+        "end": 14.427,
+        "score": -0.6975
+      },
+      {
+        "word": "B",
+        "start_offset": 129,
+        "end_offset": 130,
+        "start": 14.548,
+        "end": 14.568,
+        "score": -0.7035
+      },
+      {
+        "word": "in",
+        "start_offset": 131,
+        "end_offset": 133,
+        "start": 15.128,
+        "end": 15.208,
+        "score": -0.861
+      },
+      {
+        "word": "a",
+        "start_offset": 134,
+        "end_offset": 135,
+        "start": 15.248,
+        "end": 15.268,
+        "score": -0.7242
+      },
+      {
+        "word": "greater",
+        "start_offset": 136,
+        "end_offset": 143,
+        "start": 15.368,
+        "end": 15.728,
+        "score": -0.7465
+      },
+      {
+        "word": "amount?",
+        "start_offset": 144,
+        "end_offset": 151,
+        "start": 15.828,
+        "end": 16.228,
+        "score": -0.7701
+      },
+      {
+        "word": "Is",
+        "start_offset": 152,
+        "end_offset": 154,
+        "start": 17.569,
+        "end": 17.669,
+        "score": -2.0674
+      },
+      {
+        "word": "that",
+        "start_offset": 155,
+        "end_offset": 159,
+        "start": 17.689,
+        "end": 17.829,
+        "score": -1.9386
+      },
+      {
+        "word": "correct?",
+        "start_offset": 160,
+        "end_offset": 168,
+        "start": 17.869,
+        "end": 18.269,
+        "score": -0.7875
+      },
+      {
+        "word": "I",
+        "start_offset": 169,
+        "end_offset": 170,
+        "start": 22.111,
+        "end": 22.131,
+        "score": -2.2092
+      },
+      {
+        "word": "am",
+        "start_offset": 171,
+        "end_offset": 173,
+        "start": 22.792,
+        "end": 23.052,
+        "score": -3.7494
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 174,
+        "end_offset": 177,
+        "start": 23.692,
+        "end": 25.213,
+        "score": -2.0191
+      },
+      {
+        "word": "Your",
+        "start_offset": 178,
+        "end_offset": 182,
+        "start": 25.293,
+        "end": 25.593,
+        "score": -2.0516
+      },
+      {
+        "word": "query",
+        "start_offset": 183,
+        "end_offset": 188,
+        "start": 26.153,
+        "end": 26.634,
+        "score": -1.8792
+      },
+      {
+        "word": "is",
+        "start_offset": 189,
+        "end_offset": 191,
+        "start": 27.154,
+        "end": 27.434,
+        "score": -0.8129
+      },
+      {
+        "word": "incomplete.",
+        "start_offset": 192,
+        "end_offset": 203,
+        "start": 28.094,
+        "end": 29.395,
+        "score": -0.796
+      },
+      {
+        "word": "Please",
+        "start_offset": 204,
+        "end_offset": 210,
+        "start": 30.416,
+        "end": 30.956,
+        "score": -1.219
+      },
+      {
+        "word": "restate.",
+        "start_offset": 211,
+        "end_offset": 219,
+        "start": 31.696,
+        "end": 32.417,
+        "score": -0.7501
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "084-15.mp3",
+    "audio_duration": 34.0376,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

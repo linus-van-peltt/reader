@@ -1,0 +1,240 @@
+{
+  "text": "I'm going to guess that in the system of the tarot, those archetypes would roughly correspond to, for the mind, the magician, the emperor, and the chariot. Is this correct?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I'm going to guess that in the system of the tarot, those archetypes would roughly correspond to, for the mind, the magician, the emperor, and the chariot.",
+        "start_offset": 24,
+        "end_offset": 248,
+        "start": 1.92,
+        "end": 19.84
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 250,
+        "end_offset": 266,
+        "start": 20.0,
+        "end": 21.28
+      }
+    ],
+    "word": [
+      {
+        "word": "I'm",
+        "start_offset": 24,
+        "end_offset": 33,
+        "start": 1.92,
+        "end": 2.64
+      },
+      {
+        "word": "going",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 2.64,
+        "end": 2.88
+      },
+      {
+        "word": "to",
+        "start_offset": 36,
+        "end_offset": 40,
+        "start": 2.88,
+        "end": 3.2
+      },
+      {
+        "word": "guess",
+        "start_offset": 40,
+        "end_offset": 48,
+        "start": 3.2,
+        "end": 3.84
+      },
+      {
+        "word": "that",
+        "start_offset": 52,
+        "end_offset": 56,
+        "start": 4.16,
+        "end": 4.48
+      },
+      {
+        "word": "in",
+        "start_offset": 60,
+        "end_offset": 64,
+        "start": 4.8,
+        "end": 5.12
+      },
+      {
+        "word": "the",
+        "start_offset": 64,
+        "end_offset": 68,
+        "start": 5.12,
+        "end": 5.44
+      },
+      {
+        "word": "system",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 6.4,
+        "end": 6.72
+      },
+      {
+        "word": "of",
+        "start_offset": 87,
+        "end_offset": 91,
+        "start": 6.96,
+        "end": 7.28
+      },
+      {
+        "word": "the",
+        "start_offset": 91,
+        "end_offset": 95,
+        "start": 7.28,
+        "end": 7.6000000000000005
+      },
+      {
+        "word": "tarot,",
+        "start_offset": 102,
+        "end_offset": 112,
+        "start": 8.16,
+        "end": 8.96
+      },
+      {
+        "word": "those",
+        "start_offset": 124,
+        "end_offset": 130,
+        "start": 9.92,
+        "end": 10.4
+      },
+      {
+        "word": "archetypes",
+        "start_offset": 130,
+        "end_offset": 141,
+        "start": 10.4,
+        "end": 11.28
+      },
+      {
+        "word": "would",
+        "start_offset": 141,
+        "end_offset": 143,
+        "start": 11.28,
+        "end": 11.44
+      },
+      {
+        "word": "roughly",
+        "start_offset": 143,
+        "end_offset": 152,
+        "start": 11.44,
+        "end": 12.16
+      },
+      {
+        "word": "correspond",
+        "start_offset": 152,
+        "end_offset": 164,
+        "start": 12.16,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "to,",
+        "start_offset": 164,
+        "end_offset": 168,
+        "start": 13.120000000000001,
+        "end": 13.44
+      },
+      {
+        "word": "for",
+        "start_offset": 208,
+        "end_offset": 212,
+        "start": 16.64,
+        "end": 16.96
+      },
+      {
+        "word": "the",
+        "start_offset": 212,
+        "end_offset": 216,
+        "start": 16.96,
+        "end": 17.28
+      },
+      {
+        "word": "mind,",
+        "start_offset": 216,
+        "end_offset": 219,
+        "start": 17.28,
+        "end": 17.52
+      },
+      {
+        "word": "the",
+        "start_offset": 221,
+        "end_offset": 223,
+        "start": 17.68,
+        "end": 17.84
+      },
+      {
+        "word": "magician,",
+        "start_offset": 223,
+        "end_offset": 229,
+        "start": 17.84,
+        "end": 18.32
+      },
+      {
+        "word": "the",
+        "start_offset": 230,
+        "end_offset": 231,
+        "start": 18.400000000000002,
+        "end": 18.48
+      },
+      {
+        "word": "emperor,",
+        "start_offset": 231,
+        "end_offset": 236,
+        "start": 18.48,
+        "end": 18.88
+      },
+      {
+        "word": "and",
+        "start_offset": 237,
+        "end_offset": 239,
+        "start": 18.96,
+        "end": 19.12
+      },
+      {
+        "word": "the",
+        "start_offset": 239,
+        "end_offset": 241,
+        "start": 19.12,
+        "end": 19.28
+      },
+      {
+        "word": "chariot.",
+        "start_offset": 241,
+        "end_offset": 248,
+        "start": 19.28,
+        "end": 19.84
+      },
+      {
+        "word": "Is",
+        "start_offset": 250,
+        "end_offset": 253,
+        "start": 20.0,
+        "end": 20.240000000000002
+      },
+      {
+        "word": "this",
+        "start_offset": 253,
+        "end_offset": 256,
+        "start": 20.240000000000002,
+        "end": 20.48
+      },
+      {
+        "word": "correct?",
+        "start_offset": 256,
+        "end_offset": 266,
+        "start": 20.48,
+        "end": 21.28
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "079-16.mp3",
+    "audio_duration": 33.04,
+    "transcription_time": 0.1,
+    "rtfx": 331.3,
+    "timestamp": "2026-01-06T21:56:32.273224+00:00"
+  }
+}

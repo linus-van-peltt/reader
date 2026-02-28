@@ -1,0 +1,485 @@
+{
+  "text": "Can you tell me what causes that phenomenon? I am, well, a picture, if you will, a forest. A one, a tree is struck by. Lightning. It burns. Lightning does not strike elsewhere. Elsewhere does not burn. There are random occurrences which do not have to do with the entity, but with the window phenomenon of which we spoke.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me what causes that phenomenon?",
+        "start_offset": 27,
+        "end_offset": 70,
+        "start": 2.16,
+        "end": 5.6000000000000005
+      },
+      {
+        "segment": "I am, well, a picture, if you will, a forest.",
+        "start_offset": 114,
+        "end_offset": 224,
+        "start": 9.120000000000001,
+        "end": 17.92
+      },
+      {
+        "segment": "A one, a tree is struck by.",
+        "start_offset": 238,
+        "end_offset": 279,
+        "start": 19.04,
+        "end": 22.32
+      },
+      {
+        "segment": "Lightning.",
+        "start_offset": 286,
+        "end_offset": 298,
+        "start": 22.88,
+        "end": 23.84
+      },
+      {
+        "segment": "It burns.",
+        "start_offset": 312,
+        "end_offset": 331,
+        "start": 24.96,
+        "end": 26.48
+      },
+      {
+        "segment": "Lightning does not strike elsewhere.",
+        "start_offset": 339,
+        "end_offset": 394,
+        "start": 27.12,
+        "end": 31.52
+      },
+      {
+        "segment": "Elsewhere does not burn.",
+        "start_offset": 401,
+        "end_offset": 443,
+        "start": 32.08,
+        "end": 35.44
+      },
+      {
+        "segment": "There are random occurrences which do not have to do with the entity, but with the window phenomenon of which we spoke.",
+        "start_offset": 457,
+        "end_offset": 723,
+        "start": 36.56,
+        "end": 57.84
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 2.16,
+        "end": 2.48
+      },
+      {
+        "word": "you",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 2.48,
+        "end": 2.64
+      },
+      {
+        "word": "tell",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 2.64,
+        "end": 2.88
+      },
+      {
+        "word": "me",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 2.88,
+        "end": 3.12
+      },
+      {
+        "word": "what",
+        "start_offset": 39,
+        "end_offset": 43,
+        "start": 3.12,
+        "end": 3.44
+      },
+      {
+        "word": "causes",
+        "start_offset": 43,
+        "end_offset": 51,
+        "start": 3.44,
+        "end": 4.08
+      },
+      {
+        "word": "that",
+        "start_offset": 51,
+        "end_offset": 55,
+        "start": 4.08,
+        "end": 4.4
+      },
+      {
+        "word": "phenomenon?",
+        "start_offset": 57,
+        "end_offset": 70,
+        "start": 4.5600000000000005,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "I",
+        "start_offset": 114,
+        "end_offset": 118,
+        "start": 9.120000000000001,
+        "end": 9.44
+      },
+      {
+        "word": "am,",
+        "start_offset": 126,
+        "end_offset": 130,
+        "start": 10.08,
+        "end": 10.4
+      },
+      {
+        "word": "well,",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 10.88,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "a",
+        "start_offset": 160,
+        "end_offset": 164,
+        "start": 12.8,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "picture,",
+        "start_offset": 164,
+        "end_offset": 172,
+        "start": 13.120000000000001,
+        "end": 13.76
+      },
+      {
+        "word": "if",
+        "start_offset": 179,
+        "end_offset": 183,
+        "start": 14.32,
+        "end": 14.64
+      },
+      {
+        "word": "you",
+        "start_offset": 187,
+        "end_offset": 191,
+        "start": 14.96,
+        "end": 15.280000000000001
+      },
+      {
+        "word": "will,",
+        "start_offset": 191,
+        "end_offset": 195,
+        "start": 15.280000000000001,
+        "end": 15.6
+      },
+      {
+        "word": "a",
+        "start_offset": 208,
+        "end_offset": 212,
+        "start": 16.64,
+        "end": 16.96
+      },
+      {
+        "word": "forest.",
+        "start_offset": 216,
+        "end_offset": 224,
+        "start": 17.28,
+        "end": 17.92
+      },
+      {
+        "word": "A",
+        "start_offset": 238,
+        "end_offset": 241,
+        "start": 19.04,
+        "end": 19.28
+      },
+      {
+        "word": "one,",
+        "start_offset": 241,
+        "end_offset": 244,
+        "start": 19.28,
+        "end": 19.52
+      },
+      {
+        "word": "a",
+        "start_offset": 249,
+        "end_offset": 252,
+        "start": 19.92,
+        "end": 20.16
+      },
+      {
+        "word": "tree",
+        "start_offset": 252,
+        "end_offset": 256,
+        "start": 20.16,
+        "end": 20.48
+      },
+      {
+        "word": "is",
+        "start_offset": 259,
+        "end_offset": 263,
+        "start": 20.72,
+        "end": 21.04
+      },
+      {
+        "word": "struck",
+        "start_offset": 263,
+        "end_offset": 271,
+        "start": 21.04,
+        "end": 21.68
+      },
+      {
+        "word": "by.",
+        "start_offset": 275,
+        "end_offset": 279,
+        "start": 22.0,
+        "end": 22.32
+      },
+      {
+        "word": "Lightning.",
+        "start_offset": 286,
+        "end_offset": 298,
+        "start": 22.88,
+        "end": 23.84
+      },
+      {
+        "word": "It",
+        "start_offset": 312,
+        "end_offset": 316,
+        "start": 24.96,
+        "end": 25.28
+      },
+      {
+        "word": "burns.",
+        "start_offset": 319,
+        "end_offset": 331,
+        "start": 25.52,
+        "end": 26.48
+      },
+      {
+        "word": "Lightning",
+        "start_offset": 339,
+        "end_offset": 351,
+        "start": 27.12,
+        "end": 28.080000000000002
+      },
+      {
+        "word": "does",
+        "start_offset": 355,
+        "end_offset": 363,
+        "start": 28.400000000000002,
+        "end": 29.04
+      },
+      {
+        "word": "not",
+        "start_offset": 363,
+        "end_offset": 367,
+        "start": 29.04,
+        "end": 29.36
+      },
+      {
+        "word": "strike",
+        "start_offset": 367,
+        "end_offset": 379,
+        "start": 29.36,
+        "end": 30.32
+      },
+      {
+        "word": "elsewhere.",
+        "start_offset": 379,
+        "end_offset": 394,
+        "start": 30.32,
+        "end": 31.52
+      },
+      {
+        "word": "Elsewhere",
+        "start_offset": 401,
+        "end_offset": 415,
+        "start": 32.08,
+        "end": 33.2
+      },
+      {
+        "word": "does",
+        "start_offset": 415,
+        "end_offset": 423,
+        "start": 33.2,
+        "end": 33.84
+      },
+      {
+        "word": "not",
+        "start_offset": 423,
+        "end_offset": 427,
+        "start": 33.84,
+        "end": 34.160000000000004
+      },
+      {
+        "word": "burn.",
+        "start_offset": 435,
+        "end_offset": 443,
+        "start": 34.800000000000004,
+        "end": 35.44
+      },
+      {
+        "word": "There",
+        "start_offset": 457,
+        "end_offset": 465,
+        "start": 36.56,
+        "end": 37.2
+      },
+      {
+        "word": "are",
+        "start_offset": 469,
+        "end_offset": 473,
+        "start": 37.52,
+        "end": 37.84
+      },
+      {
+        "word": "random",
+        "start_offset": 485,
+        "end_offset": 496,
+        "start": 38.800000000000004,
+        "end": 39.68
+      },
+      {
+        "word": "occurrences",
+        "start_offset": 498,
+        "end_offset": 513,
+        "start": 39.84,
+        "end": 41.04
+      },
+      {
+        "word": "which",
+        "start_offset": 524,
+        "end_offset": 528,
+        "start": 41.92,
+        "end": 42.24
+      },
+      {
+        "word": "do",
+        "start_offset": 536,
+        "end_offset": 540,
+        "start": 42.88,
+        "end": 43.2
+      },
+      {
+        "word": "not",
+        "start_offset": 540,
+        "end_offset": 544,
+        "start": 43.2,
+        "end": 43.52
+      },
+      {
+        "word": "have",
+        "start_offset": 556,
+        "end_offset": 560,
+        "start": 44.480000000000004,
+        "end": 44.800000000000004
+      },
+      {
+        "word": "to",
+        "start_offset": 564,
+        "end_offset": 568,
+        "start": 45.12,
+        "end": 45.44
+      },
+      {
+        "word": "do",
+        "start_offset": 572,
+        "end_offset": 576,
+        "start": 45.76,
+        "end": 46.08
+      },
+      {
+        "word": "with",
+        "start_offset": 580,
+        "end_offset": 584,
+        "start": 46.4,
+        "end": 46.72
+      },
+      {
+        "word": "the",
+        "start_offset": 592,
+        "end_offset": 596,
+        "start": 47.36,
+        "end": 47.68
+      },
+      {
+        "word": "entity,",
+        "start_offset": 596,
+        "end_offset": 608,
+        "start": 47.68,
+        "end": 48.64
+      },
+      {
+        "word": "but",
+        "start_offset": 620,
+        "end_offset": 624,
+        "start": 49.6,
+        "end": 49.92
+      },
+      {
+        "word": "with",
+        "start_offset": 628,
+        "end_offset": 632,
+        "start": 50.24,
+        "end": 50.56
+      },
+      {
+        "word": "the",
+        "start_offset": 636,
+        "end_offset": 640,
+        "start": 50.88,
+        "end": 51.2
+      },
+      {
+        "word": "window",
+        "start_offset": 651,
+        "end_offset": 663,
+        "start": 52.08,
+        "end": 53.04
+      },
+      {
+        "word": "phenomenon",
+        "start_offset": 671,
+        "end_offset": 685,
+        "start": 53.68,
+        "end": 54.800000000000004
+      },
+      {
+        "word": "of",
+        "start_offset": 692,
+        "end_offset": 696,
+        "start": 55.36,
+        "end": 55.68
+      },
+      {
+        "word": "which",
+        "start_offset": 696,
+        "end_offset": 700,
+        "start": 55.68,
+        "end": 56.0
+      },
+      {
+        "word": "we",
+        "start_offset": 704,
+        "end_offset": 708,
+        "start": 56.32,
+        "end": 56.64
+      },
+      {
+        "word": "spoke.",
+        "start_offset": 712,
+        "end_offset": 723,
+        "start": 56.96,
+        "end": 57.84
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "017-27.mp3",
+    "audio_duration": 59.04,
+    "transcription_time": 0.12,
+    "rtfx": 474.45,
+    "timestamp": "2026-01-06T21:47:52.035238+00:00"
+  }
+}

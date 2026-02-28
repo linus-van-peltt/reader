@@ -1,0 +1,219 @@
+{
+  "text": "Thank you. Is this so-called attack offered to myself and Jim as well as the instrument? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 0,
+        "end_offset": 10,
+        "start": 2.781,
+        "end": 3.762
+      },
+      {
+        "segment": "Is this so-called attack offered to myself and Jim as well as the instrument?",
+        "start_offset": 11,
+        "end_offset": 88,
+        "start": 6.043,
+        "end": 20.149
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 89,
+        "end_offset": 97,
+        "start": 24.831,
+        "end": 26.512
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 98,
+        "end_offset": 114,
+        "start": 27.992,
+        "end": 30.253
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.781,
+        "end": 2.981,
+        "score": -5.1082
+      },
+      {
+        "word": "you.",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 3.001,
+        "end": 3.762,
+        "score": -8.4887
+      },
+      {
+        "word": "Is",
+        "start_offset": 11,
+        "end_offset": 13,
+        "start": 6.043,
+        "end": 6.183,
+        "score": -0.7295
+      },
+      {
+        "word": "this",
+        "start_offset": 14,
+        "end_offset": 18,
+        "start": 6.243,
+        "end": 6.503,
+        "score": -0.7627
+      },
+      {
+        "word": "so-called",
+        "start_offset": 19,
+        "end_offset": 28,
+        "start": 7.803,
+        "end": 8.484,
+        "score": -0.7566
+      },
+      {
+        "word": "attack",
+        "start_offset": 29,
+        "end_offset": 35,
+        "start": 8.904,
+        "end": 9.424,
+        "score": -0.9099
+      },
+      {
+        "word": "offered",
+        "start_offset": 36,
+        "end_offset": 43,
+        "start": 12.866,
+        "end": 13.226,
+        "score": -0.7767
+      },
+      {
+        "word": "to",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 13.326,
+        "end": 13.466,
+        "score": -0.7431
+      },
+      {
+        "word": "myself",
+        "start_offset": 47,
+        "end_offset": 53,
+        "start": 15.007,
+        "end": 15.607,
+        "score": -1.7761
+      },
+      {
+        "word": "and",
+        "start_offset": 54,
+        "end_offset": 57,
+        "start": 15.867,
+        "end": 16.087,
+        "score": -0.7879
+      },
+      {
+        "word": "Jim",
+        "start_offset": 58,
+        "end_offset": 61,
+        "start": 17.668,
+        "end": 17.968,
+        "score": -1.556
+      },
+      {
+        "word": "as",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 18.768,
+        "end": 18.888,
+        "score": -0.7503
+      },
+      {
+        "word": "well",
+        "start_offset": 65,
+        "end_offset": 69,
+        "start": 18.948,
+        "end": 19.168,
+        "score": -0.7503
+      },
+      {
+        "word": "as",
+        "start_offset": 70,
+        "end_offset": 72,
+        "start": 19.268,
+        "end": 19.388,
+        "score": -0.723
+      },
+      {
+        "word": "the",
+        "start_offset": 73,
+        "end_offset": 76,
+        "start": 19.428,
+        "end": 19.508,
+        "score": -0.8104
+      },
+      {
+        "word": "instrument?",
+        "start_offset": 77,
+        "end_offset": 88,
+        "start": 19.649,
+        "end": 20.149,
+        "score": -0.7121
+      },
+      {
+        "word": "I",
+        "start_offset": 89,
+        "end_offset": 90,
+        "start": 24.831,
+        "end": 24.851,
+        "score": -2.7485
+      },
+      {
+        "word": "am",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 25.531,
+        "end": 25.831,
+        "score": -3.2689
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 94,
+        "end_offset": 97,
+        "start": 26.371,
+        "end": 26.512,
+        "score": -3.9183
+      },
+      {
+        "word": "This",
+        "start_offset": 98,
+        "end_offset": 102,
+        "start": 27.992,
+        "end": 28.352,
+        "score": -1.1051
+      },
+      {
+        "word": "is",
+        "start_offset": 103,
+        "end_offset": 105,
+        "start": 28.853,
+        "end": 29.113,
+        "score": -0.8443
+      },
+      {
+        "word": "correct.",
+        "start_offset": 106,
+        "end_offset": 114,
+        "start": 29.553,
+        "end": 30.253,
+        "score": -0.8807
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "067-22.mp3",
+    "audio_duration": 31.0335,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

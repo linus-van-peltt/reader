@@ -1,0 +1,219 @@
+{
+  "text": "Thank you very much. I want over to this challenge. The instrument is balanced due to your care. However, her physical vehicle is growing stiff.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you very much.",
+        "start_offset": 31,
+        "end_offset": 46,
+        "start": 2.48,
+        "end": 3.68
+      },
+      {
+        "segment": "I want over to this challenge.",
+        "start_offset": 66,
+        "end_offset": 89,
+        "start": 5.28,
+        "end": 7.12
+      },
+      {
+        "segment": "The instrument is balanced due to your care.",
+        "start_offset": 280,
+        "end_offset": 372,
+        "start": 22.400000000000002,
+        "end": 29.76
+      },
+      {
+        "segment": "However, her physical vehicle is growing stiff.",
+        "start_offset": 387,
+        "end_offset": 497,
+        "start": 30.96,
+        "end": 39.76
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 31,
+        "end_offset": 36,
+        "start": 2.48,
+        "end": 2.88
+      },
+      {
+        "word": "you",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 2.88,
+        "end": 3.12
+      },
+      {
+        "word": "very",
+        "start_offset": 39,
+        "end_offset": 43,
+        "start": 3.12,
+        "end": 3.44
+      },
+      {
+        "word": "much.",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 3.44,
+        "end": 3.68
+      },
+      {
+        "word": "I",
+        "start_offset": 66,
+        "end_offset": 67,
+        "start": 5.28,
+        "end": 5.36
+      },
+      {
+        "word": "want",
+        "start_offset": 69,
+        "end_offset": 70,
+        "start": 5.5200000000000005,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "over",
+        "start_offset": 74,
+        "end_offset": 75,
+        "start": 5.92,
+        "end": 6.0
+      },
+      {
+        "word": "to",
+        "start_offset": 77,
+        "end_offset": 78,
+        "start": 6.16,
+        "end": 6.24
+      },
+      {
+        "word": "this",
+        "start_offset": 83,
+        "end_offset": 84,
+        "start": 6.640000000000001,
+        "end": 6.72
+      },
+      {
+        "word": "challenge.",
+        "start_offset": 85,
+        "end_offset": 89,
+        "start": 6.8,
+        "end": 7.12
+      },
+      {
+        "word": "The",
+        "start_offset": 280,
+        "end_offset": 284,
+        "start": 22.400000000000002,
+        "end": 22.72
+      },
+      {
+        "word": "instrument",
+        "start_offset": 292,
+        "end_offset": 303,
+        "start": 23.36,
+        "end": 24.240000000000002
+      },
+      {
+        "word": "is",
+        "start_offset": 307,
+        "end_offset": 311,
+        "start": 24.560000000000002,
+        "end": 24.88
+      },
+      {
+        "word": "balanced",
+        "start_offset": 316,
+        "end_offset": 328,
+        "start": 25.28,
+        "end": 26.240000000000002
+      },
+      {
+        "word": "due",
+        "start_offset": 336,
+        "end_offset": 340,
+        "start": 26.88,
+        "end": 27.2
+      },
+      {
+        "word": "to",
+        "start_offset": 344,
+        "end_offset": 348,
+        "start": 27.52,
+        "end": 27.84
+      },
+      {
+        "word": "your",
+        "start_offset": 356,
+        "end_offset": 360,
+        "start": 28.48,
+        "end": 28.8
+      },
+      {
+        "word": "care.",
+        "start_offset": 368,
+        "end_offset": 372,
+        "start": 29.44,
+        "end": 29.76
+      },
+      {
+        "word": "However,",
+        "start_offset": 387,
+        "end_offset": 399,
+        "start": 30.96,
+        "end": 31.92
+      },
+      {
+        "word": "her",
+        "start_offset": 414,
+        "end_offset": 418,
+        "start": 33.12,
+        "end": 33.44
+      },
+      {
+        "word": "physical",
+        "start_offset": 426,
+        "end_offset": 438,
+        "start": 34.08,
+        "end": 35.04
+      },
+      {
+        "word": "vehicle",
+        "start_offset": 442,
+        "end_offset": 455,
+        "start": 35.36,
+        "end": 36.4
+      },
+      {
+        "word": "is",
+        "start_offset": 459,
+        "end_offset": 463,
+        "start": 36.72,
+        "end": 37.04
+      },
+      {
+        "word": "growing",
+        "start_offset": 471,
+        "end_offset": 483,
+        "start": 37.68,
+        "end": 38.64
+      },
+      {
+        "word": "stiff.",
+        "start_offset": 489,
+        "end_offset": 497,
+        "start": 39.12,
+        "end": 39.76
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "006-27.mp3",
+    "audio_duration": 40.05,
+    "transcription_time": 0.1,
+    "rtfx": 389.53,
+    "timestamp": "2026-01-06T21:46:10.032391+00:00"
+  }
+}

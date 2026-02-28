@@ -1,0 +1,555 @@
+{
+  "text": "Then the yellow-ray body, from the very beginning, was designed as what Ra has called an athanor for the mind, a device, you might say, to accelerate the evolution of the mind. Is this correct? I am Ra. It is perhaps more accurate to note that the yellow-ray, physical vehicle is a necessity without which the mind/body/spirit complex cannot pursue evolution at any pace.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then the yellow-ray body, from the very beginning, was designed as what Ra has called an athanor for the mind, a device, you might say, to accelerate the evolution of the mind.",
+        "start_offset": 0,
+        "end_offset": 176,
+        "start": 3.2,
+        "end": 33.682
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 177,
+        "end_offset": 193,
+        "start": 34.242,
+        "end": 34.862
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 194,
+        "end_offset": 202,
+        "start": 40.583,
+        "end": 43.323
+      },
+      {
+        "segment": "It is perhaps more accurate to note that the yellow-ray, physical vehicle is a necessity without which the mind/body/spirit complex cannot pursue evolution at any pace.",
+        "start_offset": 203,
+        "end_offset": 371,
+        "start": 46.223,
+        "end": 105.848
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 3.2,
+        "end": 3.48,
+        "score": -1.0029
+      },
+      {
+        "word": "the",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 5.56,
+        "end": 5.64,
+        "score": -1.1603
+      },
+      {
+        "word": "yellow-ray",
+        "start_offset": 9,
+        "end_offset": 19,
+        "start": 5.72,
+        "end": 6.2,
+        "score": -2.1
+      },
+      {
+        "word": "body,",
+        "start_offset": 20,
+        "end_offset": 25,
+        "start": 6.3,
+        "end": 6.58,
+        "score": -3.8201
+      },
+      {
+        "word": "from",
+        "start_offset": 26,
+        "end_offset": 30,
+        "start": 6.96,
+        "end": 7.141,
+        "score": -0.8364
+      },
+      {
+        "word": "the",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 7.161,
+        "end": 7.241,
+        "score": -0.9321
+      },
+      {
+        "word": "very",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 7.281,
+        "end": 7.481,
+        "score": -0.8073
+      },
+      {
+        "word": "beginning,",
+        "start_offset": 40,
+        "end_offset": 50,
+        "start": 7.541,
+        "end": 8.001,
+        "score": -0.8348
+      },
+      {
+        "word": "was",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 9.921,
+        "end": 10.261,
+        "score": -0.777
+      },
+      {
+        "word": "designed",
+        "start_offset": 55,
+        "end_offset": 63,
+        "start": 10.361,
+        "end": 11.041,
+        "score": -0.9317
+      },
+      {
+        "word": "as",
+        "start_offset": 64,
+        "end_offset": 66,
+        "start": 11.161,
+        "end": 11.281,
+        "score": -0.8219
+      },
+      {
+        "word": "what",
+        "start_offset": 67,
+        "end_offset": 71,
+        "start": 11.321,
+        "end": 11.461,
+        "score": -0.7955
+      },
+      {
+        "word": "Ra",
+        "start_offset": 72,
+        "end_offset": 74,
+        "start": 11.541,
+        "end": 11.641,
+        "score": -1.0663
+      },
+      {
+        "word": "has",
+        "start_offset": 75,
+        "end_offset": 78,
+        "start": 11.801,
+        "end": 11.961,
+        "score": -0.7908
+      },
+      {
+        "word": "called",
+        "start_offset": 79,
+        "end_offset": 85,
+        "start": 12.041,
+        "end": 12.501,
+        "score": -0.8078
+      },
+      {
+        "word": "an",
+        "start_offset": 86,
+        "end_offset": 88,
+        "start": 12.901,
+        "end": 12.981,
+        "score": -0.8397
+      },
+      {
+        "word": "athanor",
+        "start_offset": 89,
+        "end_offset": 96,
+        "start": 13.121,
+        "end": 13.541,
+        "score": -1.2659
+      },
+      {
+        "word": "for",
+        "start_offset": 97,
+        "end_offset": 100,
+        "start": 13.601,
+        "end": 13.701,
+        "score": -1.0738
+      },
+      {
+        "word": "the",
+        "start_offset": 101,
+        "end_offset": 104,
+        "start": 13.741,
+        "end": 13.801,
+        "score": -0.8806
+      },
+      {
+        "word": "mind,",
+        "start_offset": 105,
+        "end_offset": 110,
+        "start": 13.861,
+        "end": 14.201,
+        "score": -3.0818
+      },
+      {
+        "word": "a",
+        "start_offset": 111,
+        "end_offset": 112,
+        "start": 22.042,
+        "end": 22.062,
+        "score": -0.8127
+      },
+      {
+        "word": "device,",
+        "start_offset": 113,
+        "end_offset": 120,
+        "start": 22.942,
+        "end": 23.482,
+        "score": -0.7893
+      },
+      {
+        "word": "you",
+        "start_offset": 121,
+        "end_offset": 124,
+        "start": 23.502,
+        "end": 23.582,
+        "score": -4.5664
+      },
+      {
+        "word": "might",
+        "start_offset": 125,
+        "end_offset": 130,
+        "start": 23.642,
+        "end": 23.882,
+        "score": -0.7741
+      },
+      {
+        "word": "say,",
+        "start_offset": 131,
+        "end_offset": 135,
+        "start": 23.982,
+        "end": 24.222,
+        "score": -0.7784
+      },
+      {
+        "word": "to",
+        "start_offset": 136,
+        "end_offset": 138,
+        "start": 25.822,
+        "end": 25.942,
+        "score": -0.8853
+      },
+      {
+        "word": "accelerate",
+        "start_offset": 139,
+        "end_offset": 149,
+        "start": 26.582,
+        "end": 27.502,
+        "score": -0.9918
+      },
+      {
+        "word": "the",
+        "start_offset": 150,
+        "end_offset": 153,
+        "start": 28.902,
+        "end": 29.042,
+        "score": -1.7638
+      },
+      {
+        "word": "evolution",
+        "start_offset": 154,
+        "end_offset": 163,
+        "start": 31.302,
+        "end": 31.902,
+        "score": -0.7537
+      },
+      {
+        "word": "of",
+        "start_offset": 164,
+        "end_offset": 166,
+        "start": 33.022,
+        "end": 33.102,
+        "score": -1.5639
+      },
+      {
+        "word": "the",
+        "start_offset": 167,
+        "end_offset": 170,
+        "start": 33.162,
+        "end": 33.242,
+        "score": -2.2703
+      },
+      {
+        "word": "mind.",
+        "start_offset": 171,
+        "end_offset": 176,
+        "start": 33.302,
+        "end": 33.682,
+        "score": -3.5337
+      },
+      {
+        "word": "Is",
+        "start_offset": 177,
+        "end_offset": 179,
+        "start": 34.242,
+        "end": 34.322,
+        "score": -3.5756
+      },
+      {
+        "word": "this",
+        "start_offset": 180,
+        "end_offset": 184,
+        "start": 34.342,
+        "end": 34.482,
+        "score": -3.7498
+      },
+      {
+        "word": "correct?",
+        "start_offset": 185,
+        "end_offset": 193,
+        "start": 34.522,
+        "end": 34.862,
+        "score": -3.7324
+      },
+      {
+        "word": "I",
+        "start_offset": 194,
+        "end_offset": 195,
+        "start": 40.583,
+        "end": 40.603,
+        "score": -3.2479
+      },
+      {
+        "word": "am",
+        "start_offset": 196,
+        "end_offset": 198,
+        "start": 41.583,
+        "end": 41.803,
+        "score": -3.793
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 199,
+        "end_offset": 202,
+        "start": 43.143,
+        "end": 43.323,
+        "score": -2.6961
+      },
+      {
+        "word": "It",
+        "start_offset": 203,
+        "end_offset": 205,
+        "start": 46.223,
+        "end": 46.363,
+        "score": -0.7112
+      },
+      {
+        "word": "is",
+        "start_offset": 206,
+        "end_offset": 208,
+        "start": 46.483,
+        "end": 46.743,
+        "score": -0.7094
+      },
+      {
+        "word": "perhaps",
+        "start_offset": 209,
+        "end_offset": 216,
+        "start": 47.243,
+        "end": 48.203,
+        "score": -0.7066
+      },
+      {
+        "word": "more",
+        "start_offset": 217,
+        "end_offset": 221,
+        "start": 48.723,
+        "end": 49.123,
+        "score": -0.8329
+      },
+      {
+        "word": "accurate",
+        "start_offset": 222,
+        "end_offset": 230,
+        "start": 50.664,
+        "end": 51.564,
+        "score": -1.7997
+      },
+      {
+        "word": "to",
+        "start_offset": 231,
+        "end_offset": 233,
+        "start": 52.844,
+        "end": 53.124,
+        "score": -0.8159
+      },
+      {
+        "word": "note",
+        "start_offset": 234,
+        "end_offset": 238,
+        "start": 53.744,
+        "end": 54.264,
+        "score": -0.9038
+      },
+      {
+        "word": "that",
+        "start_offset": 239,
+        "end_offset": 243,
+        "start": 56.564,
+        "end": 56.924,
+        "score": -0.7377
+      },
+      {
+        "word": "the",
+        "start_offset": 244,
+        "end_offset": 247,
+        "start": 58.964,
+        "end": 59.084,
+        "score": -1.0211
+      },
+      {
+        "word": "yellow-ray,",
+        "start_offset": 248,
+        "end_offset": 259,
+        "start": 61.524,
+        "end": 63.064,
+        "score": -1.4665
+      },
+      {
+        "word": "physical",
+        "start_offset": 260,
+        "end_offset": 268,
+        "start": 65.345,
+        "end": 66.405,
+        "score": -1.0248
+      },
+      {
+        "word": "vehicle",
+        "start_offset": 269,
+        "end_offset": 276,
+        "start": 67.465,
+        "end": 68.085,
+        "score": -1.2666
+      },
+      {
+        "word": "is",
+        "start_offset": 277,
+        "end_offset": 279,
+        "start": 71.425,
+        "end": 71.805,
+        "score": -0.9072
+      },
+      {
+        "word": "a",
+        "start_offset": 280,
+        "end_offset": 281,
+        "start": 74.585,
+        "end": 74.605,
+        "score": -0.8105
+      },
+      {
+        "word": "necessity",
+        "start_offset": 282,
+        "end_offset": 291,
+        "start": 75.205,
+        "end": 76.485,
+        "score": -0.7269
+      },
+      {
+        "word": "without",
+        "start_offset": 292,
+        "end_offset": 299,
+        "start": 78.826,
+        "end": 79.686,
+        "score": -1.0645
+      },
+      {
+        "word": "which",
+        "start_offset": 300,
+        "end_offset": 305,
+        "start": 80.826,
+        "end": 81.306,
+        "score": -2.3319
+      },
+      {
+        "word": "the",
+        "start_offset": 306,
+        "end_offset": 309,
+        "start": 83.386,
+        "end": 83.526,
+        "score": -0.9424
+      },
+      {
+        "word": "mind/body/spirit",
+        "start_offset": 310,
+        "end_offset": 326,
+        "start": 84.066,
+        "end": 87.326,
+        "score": -0.71
+      },
+      {
+        "word": "complex",
+        "start_offset": 327,
+        "end_offset": 334,
+        "start": 88.666,
+        "end": 89.546,
+        "score": -0.7169
+      },
+      {
+        "word": "cannot",
+        "start_offset": 335,
+        "end_offset": 341,
+        "start": 91.166,
+        "end": 92.367,
+        "score": -0.9718
+      },
+      {
+        "word": "pursue",
+        "start_offset": 342,
+        "end_offset": 348,
+        "start": 94.807,
+        "end": 95.927,
+        "score": -1.5967
+      },
+      {
+        "word": "evolution",
+        "start_offset": 349,
+        "end_offset": 358,
+        "start": 99.247,
+        "end": 100.627,
+        "score": -0.9561
+      },
+      {
+        "word": "at",
+        "start_offset": 359,
+        "end_offset": 361,
+        "start": 102.507,
+        "end": 102.747,
+        "score": -0.7521
+      },
+      {
+        "word": "any",
+        "start_offset": 362,
+        "end_offset": 365,
+        "start": 103.847,
+        "end": 104.107,
+        "score": -1.0562
+      },
+      {
+        "word": "pace.",
+        "start_offset": 366,
+        "end_offset": 371,
+        "start": 105.287,
+        "end": 105.848,
+        "score": -2.2149
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "105-14.mp3",
+    "audio_duration": 110.0278,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

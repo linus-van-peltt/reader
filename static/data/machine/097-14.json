@@ -1,0 +1,576 @@
+{
+  "text": "We shall pause at this time. The question I will be a patient. There are fairly serious difficulties with the instruments throughout we shall attempt to um eli orate the a situation and a suggest of the a re a walking a the a circle of a one. What is the law? The law is one. What are we here? We seek the law of one. What are we seeking the law?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "We shall pause at this time.",
+        "start_offset": 32,
+        "end_offset": 96,
+        "start": 2.56,
+        "end": 7.68
+      },
+      {
+        "segment": "The question I will be a patient.",
+        "start_offset": 163,
+        "end_offset": 260,
+        "start": 13.040000000000001,
+        "end": 20.8
+      },
+      {
+        "segment": "There are fairly serious difficulties with the instruments throughout we shall attempt to um eli orate the a situation and a suggest of the a re a walking a the a circle of a one.",
+        "start_offset": 285,
+        "end_offset": 919,
+        "start": 22.8,
+        "end": 73.52
+      },
+      {
+        "segment": "What is the law?",
+        "start_offset": 1304,
+        "end_offset": 1320,
+        "start": 104.32000000000001,
+        "end": 105.60000000000001
+      },
+      {
+        "segment": "The law is one.",
+        "start_offset": 1325,
+        "end_offset": 1340,
+        "start": 106.0,
+        "end": 107.2
+      },
+      {
+        "segment": "What are we here?",
+        "start_offset": 1348,
+        "end_offset": 1359,
+        "start": 107.84,
+        "end": 108.72
+      },
+      {
+        "segment": "We seek the law of one.",
+        "start_offset": 1365,
+        "end_offset": 1386,
+        "start": 109.2,
+        "end": 110.88
+      },
+      {
+        "segment": "What are we seeking the law?",
+        "start_offset": 1390,
+        "end_offset": 1407,
+        "start": 111.2,
+        "end": 112.56
+      }
+    ],
+    "word": [
+      {
+        "word": "We",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 2.56,
+        "end": 2.88
+      },
+      {
+        "word": "shall",
+        "start_offset": 47,
+        "end_offset": 53,
+        "start": 3.7600000000000002,
+        "end": 4.24
+      },
+      {
+        "word": "pause",
+        "start_offset": 61,
+        "end_offset": 69,
+        "start": 4.88,
+        "end": 5.5200000000000005
+      },
+      {
+        "word": "at",
+        "start_offset": 75,
+        "end_offset": 79,
+        "start": 6.0,
+        "end": 6.32
+      },
+      {
+        "word": "this",
+        "start_offset": 82,
+        "end_offset": 85,
+        "start": 6.5600000000000005,
+        "end": 6.8
+      },
+      {
+        "word": "time.",
+        "start_offset": 92,
+        "end_offset": 96,
+        "start": 7.36,
+        "end": 7.68
+      },
+      {
+        "word": "The",
+        "start_offset": 163,
+        "end_offset": 165,
+        "start": 13.040000000000001,
+        "end": 13.200000000000001
+      },
+      {
+        "word": "question",
+        "start_offset": 174,
+        "end_offset": 182,
+        "start": 13.92,
+        "end": 14.56
+      },
+      {
+        "word": "I",
+        "start_offset": 230,
+        "end_offset": 234,
+        "start": 18.400000000000002,
+        "end": 18.72
+      },
+      {
+        "word": "will",
+        "start_offset": 234,
+        "end_offset": 238,
+        "start": 18.72,
+        "end": 19.04
+      },
+      {
+        "word": "be",
+        "start_offset": 242,
+        "end_offset": 246,
+        "start": 19.36,
+        "end": 19.68
+      },
+      {
+        "word": "a",
+        "start_offset": 248,
+        "end_offset": 252,
+        "start": 19.84,
+        "end": 20.16
+      },
+      {
+        "word": "patient.",
+        "start_offset": 252,
+        "end_offset": 260,
+        "start": 20.16,
+        "end": 20.8
+      },
+      {
+        "word": "There",
+        "start_offset": 285,
+        "end_offset": 292,
+        "start": 22.8,
+        "end": 23.36
+      },
+      {
+        "word": "are",
+        "start_offset": 299,
+        "end_offset": 303,
+        "start": 23.92,
+        "end": 24.240000000000002
+      },
+      {
+        "word": "fairly",
+        "start_offset": 339,
+        "end_offset": 349,
+        "start": 27.12,
+        "end": 27.92
+      },
+      {
+        "word": "serious",
+        "start_offset": 360,
+        "end_offset": 372,
+        "start": 28.8,
+        "end": 29.76
+      },
+      {
+        "word": "difficulties",
+        "start_offset": 380,
+        "end_offset": 396,
+        "start": 30.400000000000002,
+        "end": 31.68
+      },
+      {
+        "word": "with",
+        "start_offset": 420,
+        "end_offset": 424,
+        "start": 33.6,
+        "end": 33.92
+      },
+      {
+        "word": "the",
+        "start_offset": 432,
+        "end_offset": 436,
+        "start": 34.56,
+        "end": 34.88
+      },
+      {
+        "word": "instruments",
+        "start_offset": 452,
+        "end_offset": 469,
+        "start": 36.160000000000004,
+        "end": 37.52
+      },
+      {
+        "word": "throughout",
+        "start_offset": 496,
+        "end_offset": 510,
+        "start": 39.68,
+        "end": 40.800000000000004
+      },
+      {
+        "word": "we",
+        "start_offset": 533,
+        "end_offset": 537,
+        "start": 42.64,
+        "end": 42.96
+      },
+      {
+        "word": "shall",
+        "start_offset": 560,
+        "end_offset": 568,
+        "start": 44.800000000000004,
+        "end": 45.44
+      },
+      {
+        "word": "attempt",
+        "start_offset": 600,
+        "end_offset": 609,
+        "start": 48.0,
+        "end": 48.72
+      },
+      {
+        "word": "to",
+        "start_offset": 620,
+        "end_offset": 624,
+        "start": 49.6,
+        "end": 49.92
+      },
+      {
+        "word": "um",
+        "start_offset": 636,
+        "end_offset": 638,
+        "start": 50.88,
+        "end": 51.04
+      },
+      {
+        "word": "eli",
+        "start_offset": 644,
+        "end_offset": 650,
+        "start": 51.52,
+        "end": 52.0
+      },
+      {
+        "word": "orate",
+        "start_offset": 650,
+        "end_offset": 661,
+        "start": 52.0,
+        "end": 52.88
+      },
+      {
+        "word": "the",
+        "start_offset": 683,
+        "end_offset": 686,
+        "start": 54.64,
+        "end": 54.88
+      },
+      {
+        "word": "a",
+        "start_offset": 693,
+        "end_offset": 697,
+        "start": 55.44,
+        "end": 55.76
+      },
+      {
+        "word": "situation",
+        "start_offset": 697,
+        "end_offset": 709,
+        "start": 55.76,
+        "end": 56.72
+      },
+      {
+        "word": "and",
+        "start_offset": 732,
+        "end_offset": 736,
+        "start": 58.56,
+        "end": 58.88
+      },
+      {
+        "word": "a",
+        "start_offset": 738,
+        "end_offset": 742,
+        "start": 59.04,
+        "end": 59.36
+      },
+      {
+        "word": "suggest",
+        "start_offset": 742,
+        "end_offset": 754,
+        "start": 59.36,
+        "end": 60.32
+      },
+      {
+        "word": "of",
+        "start_offset": 759,
+        "end_offset": 762,
+        "start": 60.72,
+        "end": 60.96
+      },
+      {
+        "word": "the",
+        "start_offset": 762,
+        "end_offset": 765,
+        "start": 60.96,
+        "end": 61.2
+      },
+      {
+        "word": "a",
+        "start_offset": 780,
+        "end_offset": 784,
+        "start": 62.4,
+        "end": 62.72
+      },
+      {
+        "word": "re",
+        "start_offset": 784,
+        "end_offset": 786,
+        "start": 62.72,
+        "end": 62.88
+      },
+      {
+        "word": "a",
+        "start_offset": 794,
+        "end_offset": 796,
+        "start": 63.52,
+        "end": 63.68
+      },
+      {
+        "word": "walking",
+        "start_offset": 798,
+        "end_offset": 809,
+        "start": 63.84,
+        "end": 64.72
+      },
+      {
+        "word": "a",
+        "start_offset": 812,
+        "end_offset": 815,
+        "start": 64.96000000000001,
+        "end": 65.2
+      },
+      {
+        "word": "the",
+        "start_offset": 831,
+        "end_offset": 834,
+        "start": 66.48,
+        "end": 66.72
+      },
+      {
+        "word": "a",
+        "start_offset": 845,
+        "end_offset": 849,
+        "start": 67.6,
+        "end": 67.92
+      },
+      {
+        "word": "circle",
+        "start_offset": 849,
+        "end_offset": 860,
+        "start": 67.92,
+        "end": 68.8
+      },
+      {
+        "word": "of",
+        "start_offset": 900,
+        "end_offset": 903,
+        "start": 72.0,
+        "end": 72.24
+      },
+      {
+        "word": "a",
+        "start_offset": 911,
+        "end_offset": 914,
+        "start": 72.88,
+        "end": 73.12
+      },
+      {
+        "word": "one.",
+        "start_offset": 916,
+        "end_offset": 919,
+        "start": 73.28,
+        "end": 73.52
+      },
+      {
+        "word": "What",
+        "start_offset": 1304,
+        "end_offset": 1309,
+        "start": 104.32000000000001,
+        "end": 104.72
+      },
+      {
+        "word": "is",
+        "start_offset": 1309,
+        "end_offset": 1311,
+        "start": 104.72,
+        "end": 104.88
+      },
+      {
+        "word": "the",
+        "start_offset": 1311,
+        "end_offset": 1312,
+        "start": 104.88,
+        "end": 104.96000000000001
+      },
+      {
+        "word": "law?",
+        "start_offset": 1314,
+        "end_offset": 1320,
+        "start": 105.12,
+        "end": 105.60000000000001
+      },
+      {
+        "word": "The",
+        "start_offset": 1325,
+        "end_offset": 1326,
+        "start": 106.0,
+        "end": 106.08
+      },
+      {
+        "word": "law",
+        "start_offset": 1329,
+        "end_offset": 1334,
+        "start": 106.32000000000001,
+        "end": 106.72
+      },
+      {
+        "word": "is",
+        "start_offset": 1335,
+        "end_offset": 1338,
+        "start": 106.8,
+        "end": 107.04
+      },
+      {
+        "word": "one.",
+        "start_offset": 1338,
+        "end_offset": 1340,
+        "start": 107.04,
+        "end": 107.2
+      },
+      {
+        "word": "What",
+        "start_offset": 1348,
+        "end_offset": 1351,
+        "start": 107.84,
+        "end": 108.08
+      },
+      {
+        "word": "are",
+        "start_offset": 1351,
+        "end_offset": 1353,
+        "start": 108.08,
+        "end": 108.24000000000001
+      },
+      {
+        "word": "we",
+        "start_offset": 1354,
+        "end_offset": 1355,
+        "start": 108.32000000000001,
+        "end": 108.4
+      },
+      {
+        "word": "here?",
+        "start_offset": 1357,
+        "end_offset": 1359,
+        "start": 108.56,
+        "end": 108.72
+      },
+      {
+        "word": "We",
+        "start_offset": 1365,
+        "end_offset": 1368,
+        "start": 109.2,
+        "end": 109.44
+      },
+      {
+        "word": "seek",
+        "start_offset": 1370,
+        "end_offset": 1373,
+        "start": 109.60000000000001,
+        "end": 109.84
+      },
+      {
+        "word": "the",
+        "start_offset": 1374,
+        "end_offset": 1375,
+        "start": 109.92,
+        "end": 110.0
+      },
+      {
+        "word": "law",
+        "start_offset": 1377,
+        "end_offset": 1380,
+        "start": 110.16,
+        "end": 110.4
+      },
+      {
+        "word": "of",
+        "start_offset": 1381,
+        "end_offset": 1382,
+        "start": 110.48,
+        "end": 110.56
+      },
+      {
+        "word": "one.",
+        "start_offset": 1384,
+        "end_offset": 1386,
+        "start": 110.72,
+        "end": 110.88
+      },
+      {
+        "word": "What",
+        "start_offset": 1390,
+        "end_offset": 1392,
+        "start": 111.2,
+        "end": 111.36
+      },
+      {
+        "word": "are",
+        "start_offset": 1393,
+        "end_offset": 1394,
+        "start": 111.44,
+        "end": 111.52
+      },
+      {
+        "word": "we",
+        "start_offset": 1395,
+        "end_offset": 1397,
+        "start": 111.60000000000001,
+        "end": 111.76
+      },
+      {
+        "word": "seeking",
+        "start_offset": 1399,
+        "end_offset": 1402,
+        "start": 111.92,
+        "end": 112.16
+      },
+      {
+        "word": "the",
+        "start_offset": 1403,
+        "end_offset": 1404,
+        "start": 112.24000000000001,
+        "end": 112.32000000000001
+      },
+      {
+        "word": "law?",
+        "start_offset": 1405,
+        "end_offset": 1407,
+        "start": 112.4,
+        "end": 112.56
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "097-14.mp3",
+    "audio_duration": 176.04,
+    "transcription_time": 0.23,
+    "rtfx": 770.77,
+    "timestamp": "2026-01-06T21:59:57.485282+00:00"
+  }
+}

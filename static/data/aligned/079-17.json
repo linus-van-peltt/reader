@@ -1,0 +1,475 @@
+{
+  "text": "Could you tell me what they correspond to? I am Ra. The body, the mind, and the spirit each contained and functioned under the aegis of the matrix, the potentiator, and the significator. The significator of the mind, body, and spirit is not identical to the significator of the mind, body, and spirit complexes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you tell me what they correspond to?",
+        "start_offset": 0,
+        "end_offset": 42,
+        "start": 2.12,
+        "end": 7.581
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 43,
+        "end_offset": 51,
+        "start": 7.821,
+        "end": 10.002
+      },
+      {
+        "segment": "The body, the mind, and the spirit each contained and functioned under the aegis of the matrix, the potentiator, and the significator.",
+        "start_offset": 52,
+        "end_offset": 186,
+        "start": 13.983,
+        "end": 51.669
+      },
+      {
+        "segment": "The significator of the mind, body, and spirit is not identical to the significator of the mind, body, and spirit complexes.",
+        "start_offset": 187,
+        "end_offset": 311,
+        "start": 55.15,
+        "end": 94.617
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.12,
+        "end": 2.28,
+        "score": -7.9079
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 2.3,
+        "end": 2.36,
+        "score": -8.0779
+      },
+      {
+        "word": "tell",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 2.4,
+        "end": 2.58,
+        "score": -7.7888
+      },
+      {
+        "word": "me",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 2.6,
+        "end": 2.64,
+        "score": -6.9211
+      },
+      {
+        "word": "what",
+        "start_offset": 18,
+        "end_offset": 22,
+        "start": 2.66,
+        "end": 2.76,
+        "score": -7.6111
+      },
+      {
+        "word": "they",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 2.78,
+        "end": 2.901,
+        "score": -5.3809
+      },
+      {
+        "word": "correspond",
+        "start_offset": 28,
+        "end_offset": 38,
+        "start": 2.961,
+        "end": 3.581,
+        "score": -4.7136
+      },
+      {
+        "word": "to?",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 7.321,
+        "end": 7.581,
+        "score": -5.0592
+      },
+      {
+        "word": "I",
+        "start_offset": 43,
+        "end_offset": 44,
+        "start": 7.821,
+        "end": 7.841,
+        "score": -1.5298
+      },
+      {
+        "word": "am",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 8.702,
+        "end": 8.962,
+        "score": -2.6285
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 9.882,
+        "end": 10.002,
+        "score": -1.0755
+      },
+      {
+        "word": "The",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 13.983,
+        "end": 14.103,
+        "score": -1.9549
+      },
+      {
+        "word": "body,",
+        "start_offset": 56,
+        "end_offset": 61,
+        "start": 14.743,
+        "end": 15.123,
+        "score": -2.1771
+      },
+      {
+        "word": "the",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 16.083,
+        "end": 16.203,
+        "score": -1.2922
+      },
+      {
+        "word": "mind,",
+        "start_offset": 66,
+        "end_offset": 71,
+        "start": 17.643,
+        "end": 18.183,
+        "score": -0.7771
+      },
+      {
+        "word": "and",
+        "start_offset": 72,
+        "end_offset": 75,
+        "start": 18.903,
+        "end": 19.243,
+        "score": -1.7099
+      },
+      {
+        "word": "the",
+        "start_offset": 76,
+        "end_offset": 79,
+        "start": 19.744,
+        "end": 19.864,
+        "score": -1.4731
+      },
+      {
+        "word": "spirit",
+        "start_offset": 80,
+        "end_offset": 86,
+        "start": 21.384,
+        "end": 22.044,
+        "score": -1.8602
+      },
+      {
+        "word": "each",
+        "start_offset": 87,
+        "end_offset": 91,
+        "start": 24.984,
+        "end": 25.345,
+        "score": -1.6604
+      },
+      {
+        "word": "contained",
+        "start_offset": 92,
+        "end_offset": 101,
+        "start": 26.145,
+        "end": 27.265,
+        "score": -0.9557
+      },
+      {
+        "word": "and",
+        "start_offset": 102,
+        "end_offset": 105,
+        "start": 29.025,
+        "end": 29.465,
+        "score": -1.3833
+      },
+      {
+        "word": "functioned",
+        "start_offset": 106,
+        "end_offset": 116,
+        "start": 31.966,
+        "end": 32.826,
+        "score": -0.8903
+      },
+      {
+        "word": "under",
+        "start_offset": 117,
+        "end_offset": 122,
+        "start": 34.246,
+        "end": 34.686,
+        "score": -0.7065
+      },
+      {
+        "word": "the",
+        "start_offset": 123,
+        "end_offset": 126,
+        "start": 34.866,
+        "end": 35.026,
+        "score": -0.8063
+      },
+      {
+        "word": "aegis",
+        "start_offset": 127,
+        "end_offset": 132,
+        "start": 35.126,
+        "end": 36.146,
+        "score": -2.5821
+      },
+      {
+        "word": "of",
+        "start_offset": 133,
+        "end_offset": 135,
+        "start": 37.847,
+        "end": 38.227,
+        "score": -0.8267
+      },
+      {
+        "word": "the",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 39.947,
+        "end": 40.047,
+        "score": -0.7876
+      },
+      {
+        "word": "matrix,",
+        "start_offset": 140,
+        "end_offset": 147,
+        "start": 40.187,
+        "end": 40.907,
+        "score": -0.925
+      },
+      {
+        "word": "the",
+        "start_offset": 148,
+        "end_offset": 151,
+        "start": 42.648,
+        "end": 42.768,
+        "score": -0.8165
+      },
+      {
+        "word": "potentiator,",
+        "start_offset": 152,
+        "end_offset": 164,
+        "start": 43.028,
+        "end": 44.748,
+        "score": -0.7511
+      },
+      {
+        "word": "and",
+        "start_offset": 165,
+        "end_offset": 168,
+        "start": 46.928,
+        "end": 47.328,
+        "score": -1.2111
+      },
+      {
+        "word": "the",
+        "start_offset": 169,
+        "end_offset": 172,
+        "start": 49.369,
+        "end": 49.469,
+        "score": -0.9544
+      },
+      {
+        "word": "significator.",
+        "start_offset": 173,
+        "end_offset": 186,
+        "start": 49.709,
+        "end": 51.669,
+        "score": -0.7979
+      },
+      {
+        "word": "The",
+        "start_offset": 187,
+        "end_offset": 190,
+        "start": 55.15,
+        "end": 55.29,
+        "score": -0.8846
+      },
+      {
+        "word": "significator",
+        "start_offset": 191,
+        "end_offset": 203,
+        "start": 55.89,
+        "end": 57.81,
+        "score": -0.7196
+      },
+      {
+        "word": "of",
+        "start_offset": 204,
+        "end_offset": 206,
+        "start": 59.731,
+        "end": 60.051,
+        "score": -1.0323
+      },
+      {
+        "word": "the",
+        "start_offset": 207,
+        "end_offset": 210,
+        "start": 61.811,
+        "end": 61.951,
+        "score": -1.5599
+      },
+      {
+        "word": "mind,",
+        "start_offset": 211,
+        "end_offset": 216,
+        "start": 64.912,
+        "end": 65.452,
+        "score": -0.8023
+      },
+      {
+        "word": "body,",
+        "start_offset": 217,
+        "end_offset": 222,
+        "start": 66.432,
+        "end": 66.832,
+        "score": -1.0265
+      },
+      {
+        "word": "and",
+        "start_offset": 223,
+        "end_offset": 226,
+        "start": 67.992,
+        "end": 68.272,
+        "score": -0.725
+      },
+      {
+        "word": "spirit",
+        "start_offset": 227,
+        "end_offset": 233,
+        "start": 68.532,
+        "end": 69.292,
+        "score": -0.7165
+      },
+      {
+        "word": "is",
+        "start_offset": 234,
+        "end_offset": 236,
+        "start": 71.993,
+        "end": 72.293,
+        "score": -0.7458
+      },
+      {
+        "word": "not",
+        "start_offset": 237,
+        "end_offset": 240,
+        "start": 73.313,
+        "end": 73.653,
+        "score": -0.7301
+      },
+      {
+        "word": "identical",
+        "start_offset": 241,
+        "end_offset": 250,
+        "start": 77.214,
+        "end": 78.134,
+        "score": -0.7069
+      },
+      {
+        "word": "to",
+        "start_offset": 251,
+        "end_offset": 253,
+        "start": 79.254,
+        "end": 79.414,
+        "score": -0.861
+      },
+      {
+        "word": "the",
+        "start_offset": 254,
+        "end_offset": 257,
+        "start": 81.355,
+        "end": 81.495,
+        "score": -0.8747
+      },
+      {
+        "word": "significator",
+        "start_offset": 258,
+        "end_offset": 270,
+        "start": 82.715,
+        "end": 84.355,
+        "score": -0.7046
+      },
+      {
+        "word": "of",
+        "start_offset": 271,
+        "end_offset": 273,
+        "start": 86.135,
+        "end": 86.395,
+        "score": -0.7356
+      },
+      {
+        "word": "the",
+        "start_offset": 274,
+        "end_offset": 277,
+        "start": 87.216,
+        "end": 87.336,
+        "score": -0.8153
+      },
+      {
+        "word": "mind,",
+        "start_offset": 278,
+        "end_offset": 283,
+        "start": 88.396,
+        "end": 88.856,
+        "score": -1.072
+      },
+      {
+        "word": "body,",
+        "start_offset": 284,
+        "end_offset": 289,
+        "start": 89.936,
+        "end": 90.336,
+        "score": -1.2385
+      },
+      {
+        "word": "and",
+        "start_offset": 290,
+        "end_offset": 293,
+        "start": 91.156,
+        "end": 91.336,
+        "score": -1.1477
+      },
+      {
+        "word": "spirit",
+        "start_offset": 294,
+        "end_offset": 300,
+        "start": 91.716,
+        "end": 92.417,
+        "score": -0.9018
+      },
+      {
+        "word": "complexes.",
+        "start_offset": 301,
+        "end_offset": 311,
+        "start": 93.457,
+        "end": 94.617,
+        "score": -0.7894
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "079-17.mp3",
+    "audio_duration": 98.0376,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

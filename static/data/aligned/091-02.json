@@ -1,0 +1,419 @@
+{
+  "text": "I have listed the different minds and would like to know if they are applied in this particular aspect: first, we have the cosmic mind which is, I would think, the same for all sub-Logoi like our sun. Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I have listed the different minds and would like to know if they are applied in this particular aspect: first, we have the cosmic mind which is, I would think, the same for all sub-Logoi like our sun.",
+        "start_offset": 0,
+        "end_offset": 200,
+        "start": 3.001,
+        "end": 46.136
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 201,
+        "end_offset": 217,
+        "start": 47.696,
+        "end": 48.436
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 218,
+        "end_offset": 226,
+        "start": 48.476,
+        "end": 55.319
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 227,
+        "end_offset": 243,
+        "start": 55.379,
+        "end": 57.539
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 3.001,
+        "end": 3.021,
+        "score": -1.0146
+      },
+      {
+        "word": "have",
+        "start_offset": 2,
+        "end_offset": 6,
+        "start": 3.061,
+        "end": 3.201,
+        "score": -0.8621
+      },
+      {
+        "word": "listed",
+        "start_offset": 7,
+        "end_offset": 13,
+        "start": 3.281,
+        "end": 3.661,
+        "score": -0.7061
+      },
+      {
+        "word": "the",
+        "start_offset": 14,
+        "end_offset": 17,
+        "start": 4.922,
+        "end": 5.042,
+        "score": -0.7709
+      },
+      {
+        "word": "different",
+        "start_offset": 18,
+        "end_offset": 27,
+        "start": 9.203,
+        "end": 9.603,
+        "score": -0.7287
+      },
+      {
+        "word": "minds",
+        "start_offset": 28,
+        "end_offset": 33,
+        "start": 9.723,
+        "end": 10.283,
+        "score": -2.109
+      },
+      {
+        "word": "and",
+        "start_offset": 34,
+        "end_offset": 37,
+        "start": 12.724,
+        "end": 12.984,
+        "score": -0.8528
+      },
+      {
+        "word": "would",
+        "start_offset": 38,
+        "end_offset": 43,
+        "start": 14.065,
+        "end": 14.205,
+        "score": -4.9203
+      },
+      {
+        "word": "like",
+        "start_offset": 44,
+        "end_offset": 48,
+        "start": 14.265,
+        "end": 14.525,
+        "score": -2.0092
+      },
+      {
+        "word": "to",
+        "start_offset": 49,
+        "end_offset": 51,
+        "start": 14.565,
+        "end": 14.625,
+        "score": -0.7156
+      },
+      {
+        "word": "know",
+        "start_offset": 52,
+        "end_offset": 56,
+        "start": 14.685,
+        "end": 14.885,
+        "score": -0.8806
+      },
+      {
+        "word": "if",
+        "start_offset": 57,
+        "end_offset": 59,
+        "start": 17.026,
+        "end": 17.166,
+        "score": -0.7021
+      },
+      {
+        "word": "they",
+        "start_offset": 60,
+        "end_offset": 64,
+        "start": 17.466,
+        "end": 17.706,
+        "score": -0.7805
+      },
+      {
+        "word": "are",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 19.367,
+        "end": 19.507,
+        "score": -1.6739
+      },
+      {
+        "word": "applied",
+        "start_offset": 69,
+        "end_offset": 76,
+        "start": 19.527,
+        "end": 19.967,
+        "score": -3.9811
+      },
+      {
+        "word": "in",
+        "start_offset": 77,
+        "end_offset": 79,
+        "start": 20.007,
+        "end": 20.087,
+        "score": -0.8903
+      },
+      {
+        "word": "this",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 20.127,
+        "end": 20.287,
+        "score": -0.736
+      },
+      {
+        "word": "particular",
+        "start_offset": 85,
+        "end_offset": 95,
+        "start": 20.487,
+        "end": 21.047,
+        "score": -0.6951
+      },
+      {
+        "word": "aspect:",
+        "start_offset": 96,
+        "end_offset": 103,
+        "start": 21.187,
+        "end": 21.707,
+        "score": -0.6969
+      },
+      {
+        "word": "first,",
+        "start_offset": 104,
+        "end_offset": 110,
+        "start": 26.949,
+        "end": 27.249,
+        "score": -0.9425
+      },
+      {
+        "word": "we",
+        "start_offset": 111,
+        "end_offset": 113,
+        "start": 27.309,
+        "end": 27.369,
+        "score": -3.3161
+      },
+      {
+        "word": "have",
+        "start_offset": 114,
+        "end_offset": 118,
+        "start": 27.449,
+        "end": 27.629,
+        "score": -1.1275
+      },
+      {
+        "word": "the",
+        "start_offset": 119,
+        "end_offset": 122,
+        "start": 27.669,
+        "end": 27.749,
+        "score": -0.7169
+      },
+      {
+        "word": "cosmic",
+        "start_offset": 123,
+        "end_offset": 129,
+        "start": 27.789,
+        "end": 28.25,
+        "score": -0.7779
+      },
+      {
+        "word": "mind",
+        "start_offset": 130,
+        "end_offset": 134,
+        "start": 28.31,
+        "end": 28.67,
+        "score": -4.0866
+      },
+      {
+        "word": "which",
+        "start_offset": 135,
+        "end_offset": 140,
+        "start": 30.71,
+        "end": 30.91,
+        "score": -0.7418
+      },
+      {
+        "word": "is,",
+        "start_offset": 141,
+        "end_offset": 144,
+        "start": 31.03,
+        "end": 31.231,
+        "score": -0.73
+      },
+      {
+        "word": "I",
+        "start_offset": 145,
+        "end_offset": 146,
+        "start": 34.452,
+        "end": 34.472,
+        "score": -0.7013
+      },
+      {
+        "word": "would",
+        "start_offset": 147,
+        "end_offset": 152,
+        "start": 34.492,
+        "end": 34.652,
+        "score": -0.7817
+      },
+      {
+        "word": "think,",
+        "start_offset": 153,
+        "end_offset": 159,
+        "start": 34.712,
+        "end": 35.032,
+        "score": -0.7089
+      },
+      {
+        "word": "the",
+        "start_offset": 160,
+        "end_offset": 163,
+        "start": 37.153,
+        "end": 37.253,
+        "score": -6.8455
+      },
+      {
+        "word": "same",
+        "start_offset": 164,
+        "end_offset": 168,
+        "start": 37.313,
+        "end": 37.753,
+        "score": -0.7379
+      },
+      {
+        "word": "for",
+        "start_offset": 169,
+        "end_offset": 172,
+        "start": 37.833,
+        "end": 37.993,
+        "score": -0.779
+      },
+      {
+        "word": "all",
+        "start_offset": 173,
+        "end_offset": 176,
+        "start": 38.173,
+        "end": 38.473,
+        "score": -0.8392
+      },
+      {
+        "word": "sub-Logoi",
+        "start_offset": 177,
+        "end_offset": 186,
+        "start": 40.674,
+        "end": 41.554,
+        "score": -1.7621
+      },
+      {
+        "word": "like",
+        "start_offset": 187,
+        "end_offset": 191,
+        "start": 43.895,
+        "end": 44.175,
+        "score": -0.7162
+      },
+      {
+        "word": "our",
+        "start_offset": 192,
+        "end_offset": 195,
+        "start": 45.515,
+        "end": 45.695,
+        "score": -0.6985
+      },
+      {
+        "word": "sun.",
+        "start_offset": 196,
+        "end_offset": 200,
+        "start": 45.815,
+        "end": 46.136,
+        "score": -1.1083
+      },
+      {
+        "word": "Is",
+        "start_offset": 201,
+        "end_offset": 203,
+        "start": 47.696,
+        "end": 47.796,
+        "score": -0.7336
+      },
+      {
+        "word": "this",
+        "start_offset": 204,
+        "end_offset": 208,
+        "start": 47.816,
+        "end": 47.996,
+        "score": -0.8485
+      },
+      {
+        "word": "correct?",
+        "start_offset": 209,
+        "end_offset": 217,
+        "start": 48.036,
+        "end": 48.436,
+        "score": -0.7258
+      },
+      {
+        "word": "I",
+        "start_offset": 218,
+        "end_offset": 219,
+        "start": 48.476,
+        "end": 48.496,
+        "score": -10.0691
+      },
+      {
+        "word": "am",
+        "start_offset": 220,
+        "end_offset": 222,
+        "start": 52.018,
+        "end": 55.259,
+        "score": -8.9264
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 223,
+        "end_offset": 226,
+        "start": 55.279,
+        "end": 55.319,
+        "score": -8.7281
+      },
+      {
+        "word": "This",
+        "start_offset": 227,
+        "end_offset": 231,
+        "start": 55.379,
+        "end": 55.519,
+        "score": -9.2205
+      },
+      {
+        "word": "is",
+        "start_offset": 232,
+        "end_offset": 234,
+        "start": 55.539,
+        "end": 55.579,
+        "score": -5.1789
+      },
+      {
+        "word": "correct.",
+        "start_offset": 235,
+        "end_offset": 243,
+        "start": 55.599,
+        "end": 57.539,
+        "score": -9.1386
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "091-02.mp3",
+    "audio_duration": 62.0409,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

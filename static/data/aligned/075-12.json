@@ -1,0 +1,355 @@
+{
+  "text": "I assume that if this can be fully accomplished today that exercise would result in total healing of the distortions of the instrument to such an extent that operations would be unnecessary. Is this correct? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I assume that if this can be fully accomplished today that exercise would result in total healing of the distortions of the instrument to such an extent that operations would be unnecessary.",
+        "start_offset": 0,
+        "end_offset": 190,
+        "start": 2.361,
+        "end": 18.805
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 191,
+        "end_offset": 207,
+        "start": 19.005,
+        "end": 19.786
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 208,
+        "end_offset": 216,
+        "start": 22.906,
+        "end": 27.688
+      },
+      {
+        "segment": "No.",
+        "start_offset": 217,
+        "end_offset": 220,
+        "start": 27.708,
+        "end": 27.808
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 2.361,
+        "end": 2.381,
+        "score": -0.719
+      },
+      {
+        "word": "assume",
+        "start_offset": 2,
+        "end_offset": 8,
+        "start": 2.421,
+        "end": 2.861,
+        "score": -0.7566
+      },
+      {
+        "word": "that",
+        "start_offset": 9,
+        "end_offset": 13,
+        "start": 2.901,
+        "end": 3.061,
+        "score": -1.079
+      },
+      {
+        "word": "if",
+        "start_offset": 14,
+        "end_offset": 16,
+        "start": 4.301,
+        "end": 4.401,
+        "score": -0.7799
+      },
+      {
+        "word": "this",
+        "start_offset": 17,
+        "end_offset": 21,
+        "start": 4.461,
+        "end": 4.641,
+        "score": -0.7428
+      },
+      {
+        "word": "can",
+        "start_offset": 22,
+        "end_offset": 25,
+        "start": 4.701,
+        "end": 4.861,
+        "score": -0.7149
+      },
+      {
+        "word": "be",
+        "start_offset": 26,
+        "end_offset": 28,
+        "start": 4.921,
+        "end": 5.001,
+        "score": -0.7262
+      },
+      {
+        "word": "fully",
+        "start_offset": 29,
+        "end_offset": 34,
+        "start": 5.161,
+        "end": 5.442,
+        "score": -0.6959
+      },
+      {
+        "word": "accomplished",
+        "start_offset": 35,
+        "end_offset": 47,
+        "start": 5.502,
+        "end": 6.262,
+        "score": -0.706
+      },
+      {
+        "word": "today",
+        "start_offset": 48,
+        "end_offset": 53,
+        "start": 7.962,
+        "end": 8.262,
+        "score": -1.6577
+      },
+      {
+        "word": "that",
+        "start_offset": 54,
+        "end_offset": 58,
+        "start": 8.642,
+        "end": 8.842,
+        "score": -1.1775
+      },
+      {
+        "word": "exercise",
+        "start_offset": 59,
+        "end_offset": 67,
+        "start": 8.903,
+        "end": 9.563,
+        "score": -0.7721
+      },
+      {
+        "word": "would",
+        "start_offset": 68,
+        "end_offset": 73,
+        "start": 9.583,
+        "end": 9.703,
+        "score": -4.2633
+      },
+      {
+        "word": "result",
+        "start_offset": 74,
+        "end_offset": 80,
+        "start": 9.783,
+        "end": 10.283,
+        "score": -0.705
+      },
+      {
+        "word": "in",
+        "start_offset": 81,
+        "end_offset": 83,
+        "start": 10.343,
+        "end": 10.423,
+        "score": -1.3922
+      },
+      {
+        "word": "total",
+        "start_offset": 84,
+        "end_offset": 89,
+        "start": 11.423,
+        "end": 11.783,
+        "score": -2.5383
+      },
+      {
+        "word": "healing",
+        "start_offset": 90,
+        "end_offset": 97,
+        "start": 11.803,
+        "end": 12.203,
+        "score": -1.4219
+      },
+      {
+        "word": "of",
+        "start_offset": 98,
+        "end_offset": 100,
+        "start": 13.044,
+        "end": 13.184,
+        "score": -0.7112
+      },
+      {
+        "word": "the",
+        "start_offset": 101,
+        "end_offset": 104,
+        "start": 13.304,
+        "end": 13.404,
+        "score": -0.7659
+      },
+      {
+        "word": "distortions",
+        "start_offset": 105,
+        "end_offset": 116,
+        "start": 13.504,
+        "end": 14.204,
+        "score": -0.7224
+      },
+      {
+        "word": "of",
+        "start_offset": 117,
+        "end_offset": 119,
+        "start": 14.264,
+        "end": 14.344,
+        "score": -0.6988
+      },
+      {
+        "word": "the",
+        "start_offset": 120,
+        "end_offset": 123,
+        "start": 14.384,
+        "end": 14.464,
+        "score": -0.7196
+      },
+      {
+        "word": "instrument",
+        "start_offset": 124,
+        "end_offset": 134,
+        "start": 14.524,
+        "end": 15.004,
+        "score": -0.758
+      },
+      {
+        "word": "to",
+        "start_offset": 135,
+        "end_offset": 137,
+        "start": 15.344,
+        "end": 15.424,
+        "score": -0.7015
+      },
+      {
+        "word": "such",
+        "start_offset": 138,
+        "end_offset": 142,
+        "start": 15.504,
+        "end": 15.724,
+        "score": -0.694
+      },
+      {
+        "word": "an",
+        "start_offset": 143,
+        "end_offset": 145,
+        "start": 15.764,
+        "end": 15.824,
+        "score": -0.6994
+      },
+      {
+        "word": "extent",
+        "start_offset": 146,
+        "end_offset": 152,
+        "start": 15.864,
+        "end": 16.325,
+        "score": -0.7001
+      },
+      {
+        "word": "that",
+        "start_offset": 153,
+        "end_offset": 157,
+        "start": 16.345,
+        "end": 16.465,
+        "score": -3.7138
+      },
+      {
+        "word": "operations",
+        "start_offset": 158,
+        "end_offset": 168,
+        "start": 17.025,
+        "end": 17.665,
+        "score": -0.7451
+      },
+      {
+        "word": "would",
+        "start_offset": 169,
+        "end_offset": 174,
+        "start": 17.685,
+        "end": 17.845,
+        "score": -2.1045
+      },
+      {
+        "word": "be",
+        "start_offset": 175,
+        "end_offset": 177,
+        "start": 17.865,
+        "end": 17.925,
+        "score": -0.7191
+      },
+      {
+        "word": "unnecessary.",
+        "start_offset": 178,
+        "end_offset": 190,
+        "start": 18.045,
+        "end": 18.805,
+        "score": -0.7119
+      },
+      {
+        "word": "Is",
+        "start_offset": 191,
+        "end_offset": 193,
+        "start": 19.005,
+        "end": 19.105,
+        "score": -1.5528
+      },
+      {
+        "word": "this",
+        "start_offset": 194,
+        "end_offset": 198,
+        "start": 19.145,
+        "end": 19.305,
+        "score": -0.779
+      },
+      {
+        "word": "correct?",
+        "start_offset": 199,
+        "end_offset": 207,
+        "start": 19.365,
+        "end": 19.786,
+        "score": -0.9361
+      },
+      {
+        "word": "I",
+        "start_offset": 208,
+        "end_offset": 209,
+        "start": 22.906,
+        "end": 22.926,
+        "score": -4.6482
+      },
+      {
+        "word": "am",
+        "start_offset": 210,
+        "end_offset": 212,
+        "start": 23.727,
+        "end": 23.987,
+        "score": -9.3168
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 213,
+        "end_offset": 216,
+        "start": 27.648,
+        "end": 27.688,
+        "score": -9.7818
+      },
+      {
+        "word": "No.",
+        "start_offset": 217,
+        "end_offset": 220,
+        "start": 27.708,
+        "end": 27.808,
+        "score": -4.1608
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "075-12.mp3",
+    "audio_duration": 29.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

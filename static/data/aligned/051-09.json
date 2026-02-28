@@ -1,0 +1,371 @@
+{
+  "text": "Right now I feel a feeling at the indigo center. If this center were totally activated and not blocked at all, would I then feel nothing there? I am Ra. This query, if answered, would infringe upon the Law of Confusion.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Right now I feel a feeling at the indigo center.",
+        "start_offset": 0,
+        "end_offset": 48,
+        "start": 2.34,
+        "end": 10.322
+      },
+      {
+        "segment": "If this center were totally activated and not blocked at all, would I then feel nothing there?",
+        "start_offset": 49,
+        "end_offset": 143,
+        "start": 14.162,
+        "end": 23.383
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 144,
+        "end_offset": 152,
+        "start": 29.604,
+        "end": 31.705
+      },
+      {
+        "segment": "This query, if answered, would infringe upon the Law of Confusion.",
+        "start_offset": 153,
+        "end_offset": 219,
+        "start": 33.645,
+        "end": 48.487
+      }
+    ],
+    "word": [
+      {
+        "word": "Right",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.34,
+        "end": 2.6,
+        "score": -0.7435
+      },
+      {
+        "word": "now",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 2.66,
+        "end": 2.88,
+        "score": -0.8837
+      },
+      {
+        "word": "I",
+        "start_offset": 10,
+        "end_offset": 11,
+        "start": 2.96,
+        "end": 2.98,
+        "score": -2.9806
+      },
+      {
+        "word": "feel",
+        "start_offset": 12,
+        "end_offset": 16,
+        "start": 3.14,
+        "end": 3.461,
+        "score": -1.1182
+      },
+      {
+        "word": "a",
+        "start_offset": 17,
+        "end_offset": 18,
+        "start": 6.821,
+        "end": 6.841,
+        "score": -1.3396
+      },
+      {
+        "word": "feeling",
+        "start_offset": 19,
+        "end_offset": 26,
+        "start": 7.001,
+        "end": 7.481,
+        "score": -0.9724
+      },
+      {
+        "word": "at",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 7.661,
+        "end": 7.781,
+        "score": -1.2365
+      },
+      {
+        "word": "the",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 7.901,
+        "end": 8.021,
+        "score": -1.9836
+      },
+      {
+        "word": "indigo",
+        "start_offset": 34,
+        "end_offset": 40,
+        "start": 8.981,
+        "end": 9.341,
+        "score": -1.3334
+      },
+      {
+        "word": "center.",
+        "start_offset": 41,
+        "end_offset": 48,
+        "start": 9.981,
+        "end": 10.322,
+        "score": -1.6252
+      },
+      {
+        "word": "If",
+        "start_offset": 49,
+        "end_offset": 51,
+        "start": 14.162,
+        "end": 14.282,
+        "score": -1.0885
+      },
+      {
+        "word": "this",
+        "start_offset": 52,
+        "end_offset": 56,
+        "start": 14.342,
+        "end": 14.502,
+        "score": -1.9299
+      },
+      {
+        "word": "center",
+        "start_offset": 57,
+        "end_offset": 63,
+        "start": 14.562,
+        "end": 14.882,
+        "score": -1.1262
+      },
+      {
+        "word": "were",
+        "start_offset": 64,
+        "end_offset": 68,
+        "start": 14.942,
+        "end": 15.142,
+        "score": -1.1167
+      },
+      {
+        "word": "totally",
+        "start_offset": 69,
+        "end_offset": 76,
+        "start": 16.922,
+        "end": 17.383,
+        "score": -0.8518
+      },
+      {
+        "word": "activated",
+        "start_offset": 77,
+        "end_offset": 86,
+        "start": 18.583,
+        "end": 19.243,
+        "score": -0.7046
+      },
+      {
+        "word": "and",
+        "start_offset": 87,
+        "end_offset": 90,
+        "start": 19.283,
+        "end": 19.383,
+        "score": -3.8611
+      },
+      {
+        "word": "not",
+        "start_offset": 91,
+        "end_offset": 94,
+        "start": 19.403,
+        "end": 19.603,
+        "score": -0.7299
+      },
+      {
+        "word": "blocked",
+        "start_offset": 95,
+        "end_offset": 102,
+        "start": 19.663,
+        "end": 20.043,
+        "score": -0.7701
+      },
+      {
+        "word": "at",
+        "start_offset": 103,
+        "end_offset": 105,
+        "start": 20.063,
+        "end": 20.143,
+        "score": -0.7066
+      },
+      {
+        "word": "all,",
+        "start_offset": 106,
+        "end_offset": 110,
+        "start": 20.223,
+        "end": 20.403,
+        "score": -0.7272
+      },
+      {
+        "word": "would",
+        "start_offset": 111,
+        "end_offset": 116,
+        "start": 21.003,
+        "end": 21.163,
+        "score": -5.9177
+      },
+      {
+        "word": "I",
+        "start_offset": 117,
+        "end_offset": 118,
+        "start": 21.283,
+        "end": 21.303,
+        "score": -0.7125
+      },
+      {
+        "word": "then",
+        "start_offset": 119,
+        "end_offset": 123,
+        "start": 21.383,
+        "end": 21.603,
+        "score": -0.7335
+      },
+      {
+        "word": "feel",
+        "start_offset": 124,
+        "end_offset": 128,
+        "start": 21.723,
+        "end": 22.003,
+        "score": -1.0614
+      },
+      {
+        "word": "nothing",
+        "start_offset": 129,
+        "end_offset": 136,
+        "start": 22.783,
+        "end": 23.123,
+        "score": -0.7552
+      },
+      {
+        "word": "there?",
+        "start_offset": 137,
+        "end_offset": 143,
+        "start": 23.163,
+        "end": 23.383,
+        "score": -0.8125
+      },
+      {
+        "word": "I",
+        "start_offset": 144,
+        "end_offset": 145,
+        "start": 29.604,
+        "end": 29.624,
+        "score": -0.989
+      },
+      {
+        "word": "am",
+        "start_offset": 146,
+        "end_offset": 148,
+        "start": 30.444,
+        "end": 30.745,
+        "score": -3.3092
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 149,
+        "end_offset": 152,
+        "start": 31.545,
+        "end": 31.705,
+        "score": -1.4863
+      },
+      {
+        "word": "This",
+        "start_offset": 153,
+        "end_offset": 157,
+        "start": 33.645,
+        "end": 34.105,
+        "score": -0.8188
+      },
+      {
+        "word": "query,",
+        "start_offset": 158,
+        "end_offset": 164,
+        "start": 35.365,
+        "end": 35.965,
+        "score": -0.9834
+      },
+      {
+        "word": "if",
+        "start_offset": 165,
+        "end_offset": 167,
+        "start": 37.125,
+        "end": 37.405,
+        "score": -1.6066
+      },
+      {
+        "word": "answered,",
+        "start_offset": 168,
+        "end_offset": 177,
+        "start": 38.446,
+        "end": 39.126,
+        "score": -0.8992
+      },
+      {
+        "word": "would",
+        "start_offset": 178,
+        "end_offset": 183,
+        "start": 39.886,
+        "end": 40.386,
+        "score": -3.2822
+      },
+      {
+        "word": "infringe",
+        "start_offset": 184,
+        "end_offset": 192,
+        "start": 41.646,
+        "end": 42.706,
+        "score": -0.9247
+      },
+      {
+        "word": "upon",
+        "start_offset": 193,
+        "end_offset": 197,
+        "start": 43.726,
+        "end": 44.387,
+        "score": -1.8246
+      },
+      {
+        "word": "the",
+        "start_offset": 198,
+        "end_offset": 201,
+        "start": 44.607,
+        "end": 44.727,
+        "score": -0.7607
+      },
+      {
+        "word": "Law",
+        "start_offset": 202,
+        "end_offset": 205,
+        "start": 45.087,
+        "end": 45.407,
+        "score": -0.7521
+      },
+      {
+        "word": "of",
+        "start_offset": 206,
+        "end_offset": 208,
+        "start": 46.507,
+        "end": 46.827,
+        "score": -1.5957
+      },
+      {
+        "word": "Confusion.",
+        "start_offset": 209,
+        "end_offset": 219,
+        "start": 47.287,
+        "end": 48.487,
+        "score": -0.7932
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "051-09.mp3",
+    "audio_duration": 81.0319,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

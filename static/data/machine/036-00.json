@@ -1,0 +1,100 @@
+{
+  "text": "36 March 10th, Raw 36, March 10th. We communicate now.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "36 March 10th, Raw 36, March 10th.",
+        "start_offset": 6,
+        "end_offset": 49,
+        "start": 0.48,
+        "end": 3.92
+      },
+      {
+        "segment": "We communicate now.",
+        "start_offset": 59,
+        "end_offset": 96,
+        "start": 4.72,
+        "end": 7.68
+      }
+    ],
+    "word": [
+      {
+        "word": "36",
+        "start_offset": 6,
+        "end_offset": 12,
+        "start": 0.48,
+        "end": 0.96
+      },
+      {
+        "word": "March",
+        "start_offset": 15,
+        "end_offset": 18,
+        "start": 1.2,
+        "end": 1.44
+      },
+      {
+        "word": "10th,",
+        "start_offset": 18,
+        "end_offset": 21,
+        "start": 1.44,
+        "end": 1.68
+      },
+      {
+        "word": "Raw",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 1.92,
+        "end": 2.16
+      },
+      {
+        "word": "36,",
+        "start_offset": 29,
+        "end_offset": 34,
+        "start": 2.32,
+        "end": 2.72
+      },
+      {
+        "word": "March",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 2.88,
+        "end": 3.04
+      },
+      {
+        "word": "10th.",
+        "start_offset": 40,
+        "end_offset": 49,
+        "start": 3.2,
+        "end": 3.92
+      },
+      {
+        "word": "We",
+        "start_offset": 59,
+        "end_offset": 63,
+        "start": 4.72,
+        "end": 5.04
+      },
+      {
+        "word": "communicate",
+        "start_offset": 67,
+        "end_offset": 82,
+        "start": 5.36,
+        "end": 6.5600000000000005
+      },
+      {
+        "word": "now.",
+        "start_offset": 92,
+        "end_offset": 96,
+        "start": 7.36,
+        "end": 7.68
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "036-00.mp3",
+    "audio_duration": 10.03,
+    "transcription_time": 0.08,
+    "rtfx": 118.91,
+    "timestamp": "2026-01-06T21:50:16.046794+00:00"
+  }
+}

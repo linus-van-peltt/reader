@@ -1,0 +1,163 @@
+{
+  "text": "Then this experience was a form of initiation? Is this correct? I am Ra. Yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then this experience was a form of initiation?",
+        "start_offset": 0,
+        "end_offset": 46,
+        "start": 2.702,
+        "end": 8.848
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 47,
+        "end_offset": 63,
+        "start": 12.151,
+        "end": 12.791
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 64,
+        "end_offset": 72,
+        "start": 14.493,
+        "end": 16.594
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 73,
+        "end_offset": 77,
+        "start": 18.656,
+        "end": 19.137
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.702,
+        "end": 2.963,
+        "score": -0.867
+      },
+      {
+        "word": "this",
+        "start_offset": 5,
+        "end_offset": 9,
+        "start": 4.684,
+        "end": 4.904,
+        "score": -1.0862
+      },
+      {
+        "word": "experience",
+        "start_offset": 10,
+        "end_offset": 20,
+        "start": 5.805,
+        "end": 6.426,
+        "score": -0.8305
+      },
+      {
+        "word": "was",
+        "start_offset": 21,
+        "end_offset": 24,
+        "start": 6.706,
+        "end": 6.846,
+        "score": -3.2925
+      },
+      {
+        "word": "a",
+        "start_offset": 25,
+        "end_offset": 26,
+        "start": 7.507,
+        "end": 7.527,
+        "score": -0.7707
+      },
+      {
+        "word": "form",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 7.667,
+        "end": 7.967,
+        "score": -0.7108
+      },
+      {
+        "word": "of",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 8.007,
+        "end": 8.087,
+        "score": -0.7185
+      },
+      {
+        "word": "initiation?",
+        "start_offset": 35,
+        "end_offset": 46,
+        "start": 8.127,
+        "end": 8.848,
+        "score": -0.8606
+      },
+      {
+        "word": "Is",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 12.151,
+        "end": 12.231,
+        "score": -4.9588
+      },
+      {
+        "word": "this",
+        "start_offset": 50,
+        "end_offset": 54,
+        "start": 12.251,
+        "end": 12.411,
+        "score": -4.8083
+      },
+      {
+        "word": "correct?",
+        "start_offset": 55,
+        "end_offset": 63,
+        "start": 12.491,
+        "end": 12.791,
+        "score": -4.47
+      },
+      {
+        "word": "I",
+        "start_offset": 64,
+        "end_offset": 65,
+        "start": 14.493,
+        "end": 14.513,
+        "score": -2.787
+      },
+      {
+        "word": "am",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 15.353,
+        "end": 15.654,
+        "score": -4.3278
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 16.454,
+        "end": 16.594,
+        "score": -5.1982
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 73,
+        "end_offset": 77,
+        "start": 18.656,
+        "end": 19.137,
+        "score": -3.4062
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "042-19.mp3",
+    "audio_duration": 23.04,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

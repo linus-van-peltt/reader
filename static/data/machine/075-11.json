@@ -1,0 +1,268 @@
+{
+  "text": "Was the uh exercise of fire properly done? I am well. The baton is well visualized. The conductor will learn to hear the entire school of the great music of its art.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Was the uh exercise of fire properly done?",
+        "start_offset": 28,
+        "end_offset": 82,
+        "start": 2.24,
+        "end": 6.5600000000000005
+      },
+      {
+        "segment": "I am well.",
+        "start_offset": 142,
+        "end_offset": 181,
+        "start": 11.36,
+        "end": 14.48
+      },
+      {
+        "segment": "The baton is well visualized.",
+        "start_offset": 206,
+        "end_offset": 334,
+        "start": 16.48,
+        "end": 26.72
+      },
+      {
+        "segment": "The conductor will learn to hear the entire school of the great music of its art.",
+        "start_offset": 370,
+        "end_offset": 798,
+        "start": 29.6,
+        "end": 63.84
+      }
+    ],
+    "word": [
+      {
+        "word": "Was",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 2.24,
+        "end": 2.56
+      },
+      {
+        "word": "the",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 2.88,
+        "end": 3.12
+      },
+      {
+        "word": "uh",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 3.12,
+        "end": 3.36
+      },
+      {
+        "word": "exercise",
+        "start_offset": 49,
+        "end_offset": 58,
+        "start": 3.92,
+        "end": 4.64
+      },
+      {
+        "word": "of",
+        "start_offset": 58,
+        "end_offset": 61,
+        "start": 4.64,
+        "end": 4.88
+      },
+      {
+        "word": "fire",
+        "start_offset": 61,
+        "end_offset": 67,
+        "start": 4.88,
+        "end": 5.36
+      },
+      {
+        "word": "properly",
+        "start_offset": 67,
+        "end_offset": 74,
+        "start": 5.36,
+        "end": 5.92
+      },
+      {
+        "word": "done?",
+        "start_offset": 74,
+        "end_offset": 82,
+        "start": 5.92,
+        "end": 6.5600000000000005
+      },
+      {
+        "word": "I",
+        "start_offset": 142,
+        "end_offset": 146,
+        "start": 11.36,
+        "end": 11.68
+      },
+      {
+        "word": "am",
+        "start_offset": 155,
+        "end_offset": 158,
+        "start": 12.4,
+        "end": 12.64
+      },
+      {
+        "word": "well.",
+        "start_offset": 177,
+        "end_offset": 181,
+        "start": 14.16,
+        "end": 14.48
+      },
+      {
+        "word": "The",
+        "start_offset": 206,
+        "end_offset": 210,
+        "start": 16.48,
+        "end": 16.8
+      },
+      {
+        "word": "baton",
+        "start_offset": 230,
+        "end_offset": 243,
+        "start": 18.400000000000002,
+        "end": 19.44
+      },
+      {
+        "word": "is",
+        "start_offset": 263,
+        "end_offset": 267,
+        "start": 21.04,
+        "end": 21.36
+      },
+      {
+        "word": "well",
+        "start_offset": 287,
+        "end_offset": 291,
+        "start": 22.96,
+        "end": 23.28
+      },
+      {
+        "word": "visualized.",
+        "start_offset": 311,
+        "end_offset": 334,
+        "start": 24.88,
+        "end": 26.72
+      },
+      {
+        "word": "The",
+        "start_offset": 370,
+        "end_offset": 374,
+        "start": 29.6,
+        "end": 29.92
+      },
+      {
+        "word": "conductor",
+        "start_offset": 398,
+        "end_offset": 413,
+        "start": 31.84,
+        "end": 33.04
+      },
+      {
+        "word": "will",
+        "start_offset": 433,
+        "end_offset": 437,
+        "start": 34.64,
+        "end": 34.96
+      },
+      {
+        "word": "learn",
+        "start_offset": 456,
+        "end_offset": 467,
+        "start": 36.480000000000004,
+        "end": 37.36
+      },
+      {
+        "word": "to",
+        "start_offset": 491,
+        "end_offset": 495,
+        "start": 39.28,
+        "end": 39.6
+      },
+      {
+        "word": "hear",
+        "start_offset": 510,
+        "end_offset": 518,
+        "start": 40.800000000000004,
+        "end": 41.44
+      },
+      {
+        "word": "the",
+        "start_offset": 543,
+        "end_offset": 547,
+        "start": 43.44,
+        "end": 43.76
+      },
+      {
+        "word": "entire",
+        "start_offset": 563,
+        "end_offset": 575,
+        "start": 45.04,
+        "end": 46.0
+      },
+      {
+        "word": "school",
+        "start_offset": 606,
+        "end_offset": 614,
+        "start": 48.480000000000004,
+        "end": 49.120000000000005
+      },
+      {
+        "word": "of",
+        "start_offset": 642,
+        "end_offset": 646,
+        "start": 51.36,
+        "end": 51.68
+      },
+      {
+        "word": "the",
+        "start_offset": 662,
+        "end_offset": 666,
+        "start": 52.96,
+        "end": 53.28
+      },
+      {
+        "word": "great",
+        "start_offset": 678,
+        "end_offset": 686,
+        "start": 54.24,
+        "end": 54.88
+      },
+      {
+        "word": "music",
+        "start_offset": 718,
+        "end_offset": 730,
+        "start": 57.44,
+        "end": 58.4
+      },
+      {
+        "word": "of",
+        "start_offset": 750,
+        "end_offset": 754,
+        "start": 60.0,
+        "end": 60.32
+      },
+      {
+        "word": "its",
+        "start_offset": 766,
+        "end_offset": 770,
+        "start": 61.28,
+        "end": 61.6
+      },
+      {
+        "word": "art.",
+        "start_offset": 794,
+        "end_offset": 798,
+        "start": 63.52,
+        "end": 63.84
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "075-11.mp3",
+    "audio_duration": 69.04,
+    "transcription_time": 0.13,
+    "rtfx": 544.56,
+    "timestamp": "2026-01-06T21:55:43.709116+00:00"
+  }
+}

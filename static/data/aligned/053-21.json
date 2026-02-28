@@ -1,0 +1,203 @@
+{
+  "text": "Can you tell me why name had so many silver flecks on her? I am Ra. This is infringement. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me why name had so many silver flecks on her?",
+        "start_offset": 0,
+        "end_offset": 58,
+        "start": 1.94,
+        "end": 6.161
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 59,
+        "end_offset": 67,
+        "start": 11.983,
+        "end": 14.403
+      },
+      {
+        "segment": "This is infringement.",
+        "start_offset": 68,
+        "end_offset": 89,
+        "start": 17.104,
+        "end": 22.085
+      },
+      {
+        "segment": "No.",
+        "start_offset": 90,
+        "end_offset": 93,
+        "start": 23.826,
+        "end": 23.946
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 1.94,
+        "end": 2.1,
+        "score": -1.366
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 2.14,
+        "end": 2.221,
+        "score": -3.6096
+      },
+      {
+        "word": "tell",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 2.581,
+        "end": 2.781,
+        "score": -0.7447
+      },
+      {
+        "word": "me",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 2.841,
+        "end": 2.901,
+        "score": -0.7867
+      },
+      {
+        "word": "why",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 3.061,
+        "end": 3.261,
+        "score": -1.9703
+      },
+      {
+        "word": "name",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 3.301,
+        "end": 4.361,
+        "score": -6.1722
+      },
+      {
+        "word": "had",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 4.381,
+        "end": 4.521,
+        "score": -1.0082
+      },
+      {
+        "word": "so",
+        "start_offset": 29,
+        "end_offset": 31,
+        "start": 4.581,
+        "end": 4.661,
+        "score": -0.8492
+      },
+      {
+        "word": "many",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 4.761,
+        "end": 4.941,
+        "score": -1.9845
+      },
+      {
+        "word": "silver",
+        "start_offset": 37,
+        "end_offset": 43,
+        "start": 5.041,
+        "end": 5.341,
+        "score": -3.6554
+      },
+      {
+        "word": "flecks",
+        "start_offset": 44,
+        "end_offset": 50,
+        "start": 5.481,
+        "end": 5.841,
+        "score": -2.0357
+      },
+      {
+        "word": "on",
+        "start_offset": 51,
+        "end_offset": 53,
+        "start": 5.921,
+        "end": 6.001,
+        "score": -0.8799
+      },
+      {
+        "word": "her?",
+        "start_offset": 54,
+        "end_offset": 58,
+        "start": 6.041,
+        "end": 6.161,
+        "score": -4.0877
+      },
+      {
+        "word": "I",
+        "start_offset": 59,
+        "end_offset": 60,
+        "start": 11.983,
+        "end": 12.003,
+        "score": -0.9556
+      },
+      {
+        "word": "am",
+        "start_offset": 61,
+        "end_offset": 63,
+        "start": 13.203,
+        "end": 13.483,
+        "score": -1.167
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 14.223,
+        "end": 14.403,
+        "score": -3.4818
+      },
+      {
+        "word": "This",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 17.104,
+        "end": 17.524,
+        "score": -0.821
+      },
+      {
+        "word": "is",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 18.924,
+        "end": 19.244,
+        "score": -0.7935
+      },
+      {
+        "word": "infringement.",
+        "start_offset": 76,
+        "end_offset": 89,
+        "start": 20.785,
+        "end": 22.085,
+        "score": -1.1979
+      },
+      {
+        "word": "No.",
+        "start_offset": 90,
+        "end_offset": 93,
+        "start": 23.826,
+        "end": 23.946,
+        "score": -0.8394
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "053-21.mp3",
+    "audio_duration": 24.6857,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

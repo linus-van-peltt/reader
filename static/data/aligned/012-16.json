@@ -1,0 +1,187 @@
+{
+  "text": "Are most of these crusaders fourth-density? I am Ra. There is a majority of fourth-density. That is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Are most of these crusaders fourth-density?",
+        "start_offset": 0,
+        "end_offset": 43,
+        "start": 3.201,
+        "end": 11.084
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 44,
+        "end_offset": 52,
+        "start": 11.384,
+        "end": 13.224
+      },
+      {
+        "segment": "There is a majority of fourth-density.",
+        "start_offset": 53,
+        "end_offset": 91,
+        "start": 15.405,
+        "end": 22.748
+      },
+      {
+        "segment": "That is correct.",
+        "start_offset": 92,
+        "end_offset": 108,
+        "start": 23.908,
+        "end": 26.609
+      }
+    ],
+    "word": [
+      {
+        "word": "Are",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 3.201,
+        "end": 3.501,
+        "score": -4.4767
+      },
+      {
+        "word": "most",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 3.601,
+        "end": 3.921,
+        "score": -2.2776
+      },
+      {
+        "word": "of",
+        "start_offset": 9,
+        "end_offset": 11,
+        "start": 3.961,
+        "end": 4.041,
+        "score": -3.2387
+      },
+      {
+        "word": "these",
+        "start_offset": 12,
+        "end_offset": 17,
+        "start": 4.081,
+        "end": 4.361,
+        "score": -2.8938
+      },
+      {
+        "word": "crusaders",
+        "start_offset": 18,
+        "end_offset": 27,
+        "start": 4.642,
+        "end": 5.242,
+        "score": -3.9626
+      },
+      {
+        "word": "fourth-density?",
+        "start_offset": 28,
+        "end_offset": 43,
+        "start": 5.382,
+        "end": 11.084,
+        "score": -4.1466
+      },
+      {
+        "word": "I",
+        "start_offset": 44,
+        "end_offset": 45,
+        "start": 11.384,
+        "end": 11.404,
+        "score": -0.9144
+      },
+      {
+        "word": "am",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 12.024,
+        "end": 12.204,
+        "score": -2.7162
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 13.124,
+        "end": 13.224,
+        "score": -1.4339
+      },
+      {
+        "word": "There",
+        "start_offset": 53,
+        "end_offset": 58,
+        "start": 15.405,
+        "end": 15.765,
+        "score": -2.7467
+      },
+      {
+        "word": "is",
+        "start_offset": 59,
+        "end_offset": 61,
+        "start": 16.305,
+        "end": 16.606,
+        "score": -1.0881
+      },
+      {
+        "word": "a",
+        "start_offset": 62,
+        "end_offset": 63,
+        "start": 17.406,
+        "end": 17.426,
+        "score": -1.0644
+      },
+      {
+        "word": "majority",
+        "start_offset": 64,
+        "end_offset": 72,
+        "start": 17.866,
+        "end": 18.706,
+        "score": -2.9328
+      },
+      {
+        "word": "of",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 19.867,
+        "end": 20.007,
+        "score": -2.3037
+      },
+      {
+        "word": "fourth-density.",
+        "start_offset": 76,
+        "end_offset": 91,
+        "start": 20.807,
+        "end": 22.748,
+        "score": -1.1854
+      },
+      {
+        "word": "That",
+        "start_offset": 92,
+        "end_offset": 96,
+        "start": 23.908,
+        "end": 24.228,
+        "score": -0.8398
+      },
+      {
+        "word": "is",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 25.008,
+        "end": 25.168,
+        "score": -2.4466
+      },
+      {
+        "word": "correct.",
+        "start_offset": 100,
+        "end_offset": 108,
+        "start": 26.029,
+        "end": 26.609,
+        "score": -2.6895
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "012-16.mp3",
+    "audio_duration": 28.0294,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

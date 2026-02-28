@@ -1,0 +1,212 @@
+{
+  "text": "Will you please do that? I am Ra. The entity, sound vibration Arthur, has a surname Schoen, and is of your locality.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Will you please do that?",
+        "start_offset": 0,
+        "end_offset": 24,
+        "start": 1.16,
+        "end": 8.763
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 25,
+        "end_offset": 33,
+        "start": 10.623,
+        "end": 10.903
+      },
+      {
+        "segment": "The entity, sound vibration Arthur, has a surname Schoen, and is of your locality.",
+        "start_offset": 34,
+        "end_offset": 116,
+        "start": 13.404,
+        "end": 47.875
+      }
+    ],
+    "word": [
+      {
+        "word": "Will",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 1.16,
+        "end": 6.482,
+        "score": -8.6511
+      },
+      {
+        "word": "you",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 6.542,
+        "end": 6.642,
+        "score": -8.3654
+      },
+      {
+        "word": "please",
+        "start_offset": 9,
+        "end_offset": 15,
+        "start": 6.662,
+        "end": 7.002,
+        "score": -7.1288
+      },
+      {
+        "word": "do",
+        "start_offset": 16,
+        "end_offset": 18,
+        "start": 7.062,
+        "end": 7.102,
+        "score": -6.6314
+      },
+      {
+        "word": "that?",
+        "start_offset": 19,
+        "end_offset": 24,
+        "start": 7.122,
+        "end": 8.763,
+        "score": -6.1543
+      },
+      {
+        "word": "I",
+        "start_offset": 25,
+        "end_offset": 26,
+        "start": 10.623,
+        "end": 10.643,
+        "score": -8.0705
+      },
+      {
+        "word": "am",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 10.663,
+        "end": 10.703,
+        "score": -3.7407
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 10.783,
+        "end": 10.903,
+        "score": -1.0797
+      },
+      {
+        "word": "The",
+        "start_offset": 34,
+        "end_offset": 37,
+        "start": 13.404,
+        "end": 13.544,
+        "score": -1.2666
+      },
+      {
+        "word": "entity,",
+        "start_offset": 38,
+        "end_offset": 45,
+        "start": 16.545,
+        "end": 17.345,
+        "score": -0.7577
+      },
+      {
+        "word": "sound",
+        "start_offset": 46,
+        "end_offset": 51,
+        "start": 18.486,
+        "end": 19.026,
+        "score": -1.9081
+      },
+      {
+        "word": "vibration",
+        "start_offset": 52,
+        "end_offset": 61,
+        "start": 20.506,
+        "end": 21.527,
+        "score": -0.7442
+      },
+      {
+        "word": "Arthur,",
+        "start_offset": 62,
+        "end_offset": 69,
+        "start": 25.548,
+        "end": 26.068,
+        "score": -1.3385
+      },
+      {
+        "word": "has",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 28.029,
+        "end": 28.729,
+        "score": -1.1137
+      },
+      {
+        "word": "a",
+        "start_offset": 74,
+        "end_offset": 75,
+        "start": 31.15,
+        "end": 31.17,
+        "score": -0.7861
+      },
+      {
+        "word": "surname",
+        "start_offset": 76,
+        "end_offset": 83,
+        "start": 31.41,
+        "end": 33.09,
+        "score": -0.897
+      },
+      {
+        "word": "Schoen,",
+        "start_offset": 84,
+        "end_offset": 91,
+        "start": 35.111,
+        "end": 35.871,
+        "score": -3.2791
+      },
+      {
+        "word": "and",
+        "start_offset": 92,
+        "end_offset": 95,
+        "start": 37.912,
+        "end": 38.292,
+        "score": -0.8532
+      },
+      {
+        "word": "is",
+        "start_offset": 96,
+        "end_offset": 98,
+        "start": 39.352,
+        "end": 39.732,
+        "score": -0.7407
+      },
+      {
+        "word": "of",
+        "start_offset": 99,
+        "end_offset": 101,
+        "start": 41.353,
+        "end": 41.693,
+        "score": -1.3857
+      },
+      {
+        "word": "your",
+        "start_offset": 102,
+        "end_offset": 106,
+        "start": 43.333,
+        "end": 43.833,
+        "score": -2.3859
+      },
+      {
+        "word": "locality.",
+        "start_offset": 107,
+        "end_offset": 116,
+        "start": 45.094,
+        "end": 47.875,
+        "score": -0.9579
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "102-04.mp3",
+    "audio_duration": 52.0359,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

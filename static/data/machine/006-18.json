@@ -1,0 +1,184 @@
+{
+  "text": "After this 30-year period, I'm assuming we will be fourth connection by fourth capacity by the resistor. I am this is so.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "After this 30-year period, I'm assuming we will be fourth connection by fourth capacity by the resistor.",
+        "start_offset": 34,
+        "end_offset": 143,
+        "start": 2.72,
+        "end": 11.44
+      },
+      {
+        "segment": "I am this is so.",
+        "start_offset": 203,
+        "end_offset": 303,
+        "start": 16.240000000000002,
+        "end": 24.240000000000002
+      }
+    ],
+    "word": [
+      {
+        "word": "After",
+        "start_offset": 34,
+        "end_offset": 39,
+        "start": 2.72,
+        "end": 3.12
+      },
+      {
+        "word": "this",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 3.12,
+        "end": 3.36
+      },
+      {
+        "word": "30-year",
+        "start_offset": 42,
+        "end_offset": 49,
+        "start": 3.36,
+        "end": 3.92
+      },
+      {
+        "word": "period,",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 3.92,
+        "end": 4.16
+      },
+      {
+        "word": "I'm",
+        "start_offset": 55,
+        "end_offset": 57,
+        "start": 4.4,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "assuming",
+        "start_offset": 59,
+        "end_offset": 64,
+        "start": 4.72,
+        "end": 5.12
+      },
+      {
+        "word": "we",
+        "start_offset": 68,
+        "end_offset": 69,
+        "start": 5.44,
+        "end": 5.5200000000000005
+      },
+      {
+        "word": "will",
+        "start_offset": 71,
+        "end_offset": 73,
+        "start": 5.68,
+        "end": 5.84
+      },
+      {
+        "word": "be",
+        "start_offset": 75,
+        "end_offset": 78,
+        "start": 6.0,
+        "end": 6.24
+      },
+      {
+        "word": "fourth",
+        "start_offset": 98,
+        "end_offset": 103,
+        "start": 7.84,
+        "end": 8.24
+      },
+      {
+        "word": "connection",
+        "start_offset": 104,
+        "end_offset": 109,
+        "start": 8.32,
+        "end": 8.72
+      },
+      {
+        "word": "by",
+        "start_offset": 111,
+        "end_offset": 113,
+        "start": 8.88,
+        "end": 9.040000000000001
+      },
+      {
+        "word": "fourth",
+        "start_offset": 114,
+        "end_offset": 117,
+        "start": 9.120000000000001,
+        "end": 9.36
+      },
+      {
+        "word": "capacity",
+        "start_offset": 118,
+        "end_offset": 126,
+        "start": 9.44,
+        "end": 10.08
+      },
+      {
+        "word": "by",
+        "start_offset": 129,
+        "end_offset": 131,
+        "start": 10.32,
+        "end": 10.48
+      },
+      {
+        "word": "the",
+        "start_offset": 135,
+        "end_offset": 137,
+        "start": 10.8,
+        "end": 10.96
+      },
+      {
+        "word": "resistor.",
+        "start_offset": 137,
+        "end_offset": 143,
+        "start": 10.96,
+        "end": 11.44
+      },
+      {
+        "word": "I",
+        "start_offset": 203,
+        "end_offset": 207,
+        "start": 16.240000000000002,
+        "end": 16.56
+      },
+      {
+        "word": "am",
+        "start_offset": 215,
+        "end_offset": 219,
+        "start": 17.2,
+        "end": 17.52
+      },
+      {
+        "word": "this",
+        "start_offset": 263,
+        "end_offset": 267,
+        "start": 21.04,
+        "end": 21.36
+      },
+      {
+        "word": "is",
+        "start_offset": 283,
+        "end_offset": 287,
+        "start": 22.64,
+        "end": 22.96
+      },
+      {
+        "word": "so.",
+        "start_offset": 299,
+        "end_offset": 303,
+        "start": 23.92,
+        "end": 24.240000000000002
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "006-18.mp3",
+    "audio_duration": 29.05,
+    "transcription_time": 0.1,
+    "rtfx": 300.69,
+    "timestamp": "2026-01-06T21:46:05.872175+00:00"
+  }
+}

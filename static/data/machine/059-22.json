@@ -1,0 +1,198 @@
+{
+  "text": "Do you mean that one of the base sides should be aligned twenty degrees east of north? And wrong that alignment would be applicable.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Do you mean that one of the base sides should be aligned twenty degrees east of north?",
+        "start_offset": 28,
+        "end_offset": 131,
+        "start": 2.24,
+        "end": 10.48
+      },
+      {
+        "segment": "And wrong that alignment would be applicable.",
+        "start_offset": 184,
+        "end_offset": 319,
+        "start": 14.72,
+        "end": 25.52
+      }
+    ],
+    "word": [
+      {
+        "word": "Do",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 2.24,
+        "end": 2.56
+      },
+      {
+        "word": "you",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 2.56,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "mean",
+        "start_offset": 35,
+        "end_offset": 42,
+        "start": 2.8000000000000003,
+        "end": 3.36
+      },
+      {
+        "word": "that",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 3.36,
+        "end": 3.68
+      },
+      {
+        "word": "one",
+        "start_offset": 50,
+        "end_offset": 54,
+        "start": 4.0,
+        "end": 4.32
+      },
+      {
+        "word": "of",
+        "start_offset": 54,
+        "end_offset": 57,
+        "start": 4.32,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "the",
+        "start_offset": 57,
+        "end_offset": 61,
+        "start": 4.5600000000000005,
+        "end": 4.88
+      },
+      {
+        "word": "base",
+        "start_offset": 61,
+        "end_offset": 65,
+        "start": 4.88,
+        "end": 5.2
+      },
+      {
+        "word": "sides",
+        "start_offset": 65,
+        "end_offset": 71,
+        "start": 5.2,
+        "end": 5.68
+      },
+      {
+        "word": "should",
+        "start_offset": 71,
+        "end_offset": 73,
+        "start": 5.68,
+        "end": 5.84
+      },
+      {
+        "word": "be",
+        "start_offset": 75,
+        "end_offset": 77,
+        "start": 6.0,
+        "end": 6.16
+      },
+      {
+        "word": "aligned",
+        "start_offset": 77,
+        "end_offset": 84,
+        "start": 6.16,
+        "end": 6.72
+      },
+      {
+        "word": "twenty",
+        "start_offset": 84,
+        "end_offset": 88,
+        "start": 6.72,
+        "end": 7.04
+      },
+      {
+        "word": "degrees",
+        "start_offset": 90,
+        "end_offset": 103,
+        "start": 7.2,
+        "end": 8.24
+      },
+      {
+        "word": "east",
+        "start_offset": 103,
+        "end_offset": 111,
+        "start": 8.24,
+        "end": 8.88
+      },
+      {
+        "word": "of",
+        "start_offset": 115,
+        "end_offset": 119,
+        "start": 9.200000000000001,
+        "end": 9.52
+      },
+      {
+        "word": "north?",
+        "start_offset": 123,
+        "end_offset": 131,
+        "start": 9.84,
+        "end": 10.48
+      },
+      {
+        "word": "And",
+        "start_offset": 184,
+        "end_offset": 187,
+        "start": 14.72,
+        "end": 14.96
+      },
+      {
+        "word": "wrong",
+        "start_offset": 201,
+        "end_offset": 211,
+        "start": 16.080000000000002,
+        "end": 16.88
+      },
+      {
+        "word": "that",
+        "start_offset": 224,
+        "end_offset": 228,
+        "start": 17.92,
+        "end": 18.240000000000002
+      },
+      {
+        "word": "alignment",
+        "start_offset": 244,
+        "end_offset": 257,
+        "start": 19.52,
+        "end": 20.56
+      },
+      {
+        "word": "would",
+        "start_offset": 269,
+        "end_offset": 273,
+        "start": 21.52,
+        "end": 21.84
+      },
+      {
+        "word": "be",
+        "start_offset": 285,
+        "end_offset": 289,
+        "start": 22.8,
+        "end": 23.12
+      },
+      {
+        "word": "applicable.",
+        "start_offset": 305,
+        "end_offset": 319,
+        "start": 24.400000000000002,
+        "end": 25.52
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "059-22.mp3",
+    "audio_duration": 27.04,
+    "transcription_time": 0.09,
+    "rtfx": 303.06,
+    "timestamp": "2026-01-06T21:53:08.748812+00:00"
+  }
+}

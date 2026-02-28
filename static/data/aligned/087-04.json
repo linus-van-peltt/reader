@@ -1,0 +1,355 @@
+{
+  "text": "Would a position directly between the chalice and the candle be optimum, then, for the censer? I am Ra. This is not an exact measurement since both chalice and candle are irregularly shaped. However, speaking roughly, this is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would a position directly between the chalice and the candle be optimum, then, for the censer?",
+        "start_offset": 0,
+        "end_offset": 94,
+        "start": 2.48,
+        "end": 7.761
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 95,
+        "end_offset": 103,
+        "start": 16.323,
+        "end": 18.983
+      },
+      {
+        "segment": "This is not an exact measurement since both chalice and candle are irregularly shaped.",
+        "start_offset": 104,
+        "end_offset": 190,
+        "start": 22.784,
+        "end": 45.127
+      },
+      {
+        "segment": "However, speaking roughly, this is correct.",
+        "start_offset": 191,
+        "end_offset": 234,
+        "start": 47.788,
+        "end": 57.749
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.48,
+        "end": 2.64,
+        "score": -2.5889
+      },
+      {
+        "word": "a",
+        "start_offset": 6,
+        "end_offset": 7,
+        "start": 2.68,
+        "end": 2.7,
+        "score": -0.7519
+      },
+      {
+        "word": "position",
+        "start_offset": 8,
+        "end_offset": 16,
+        "start": 2.8,
+        "end": 3.321,
+        "score": -0.7307
+      },
+      {
+        "word": "directly",
+        "start_offset": 17,
+        "end_offset": 25,
+        "start": 3.381,
+        "end": 3.861,
+        "score": -0.729
+      },
+      {
+        "word": "between",
+        "start_offset": 26,
+        "end_offset": 33,
+        "start": 3.921,
+        "end": 4.321,
+        "score": -0.7374
+      },
+      {
+        "word": "the",
+        "start_offset": 34,
+        "end_offset": 37,
+        "start": 4.361,
+        "end": 4.441,
+        "score": -0.8366
+      },
+      {
+        "word": "chalice",
+        "start_offset": 38,
+        "end_offset": 45,
+        "start": 4.501,
+        "end": 4.921,
+        "score": -2.4734
+      },
+      {
+        "word": "and",
+        "start_offset": 46,
+        "end_offset": 49,
+        "start": 4.961,
+        "end": 5.041,
+        "score": -1.04
+      },
+      {
+        "word": "the",
+        "start_offset": 50,
+        "end_offset": 53,
+        "start": 5.061,
+        "end": 5.141,
+        "score": -0.8522
+      },
+      {
+        "word": "candle",
+        "start_offset": 54,
+        "end_offset": 60,
+        "start": 5.181,
+        "end": 5.621,
+        "score": -0.8617
+      },
+      {
+        "word": "be",
+        "start_offset": 61,
+        "end_offset": 63,
+        "start": 5.681,
+        "end": 5.781,
+        "score": -0.8001
+      },
+      {
+        "word": "optimum,",
+        "start_offset": 64,
+        "end_offset": 72,
+        "start": 6.341,
+        "end": 6.781,
+        "score": -3.6046
+      },
+      {
+        "word": "then,",
+        "start_offset": 73,
+        "end_offset": 78,
+        "start": 6.841,
+        "end": 7.021,
+        "score": -3.5749
+      },
+      {
+        "word": "for",
+        "start_offset": 79,
+        "end_offset": 82,
+        "start": 7.101,
+        "end": 7.221,
+        "score": -0.8609
+      },
+      {
+        "word": "the",
+        "start_offset": 83,
+        "end_offset": 86,
+        "start": 7.261,
+        "end": 7.341,
+        "score": -0.8929
+      },
+      {
+        "word": "censer?",
+        "start_offset": 87,
+        "end_offset": 94,
+        "start": 7.401,
+        "end": 7.761,
+        "score": -1.1562
+      },
+      {
+        "word": "I",
+        "start_offset": 95,
+        "end_offset": 96,
+        "start": 16.323,
+        "end": 16.343,
+        "score": -1.3523
+      },
+      {
+        "word": "am",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 17.143,
+        "end": 17.363,
+        "score": -2.8986
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 100,
+        "end_offset": 103,
+        "start": 18.903,
+        "end": 18.983,
+        "score": -1.9558
+      },
+      {
+        "word": "This",
+        "start_offset": 104,
+        "end_offset": 108,
+        "start": 22.784,
+        "end": 23.104,
+        "score": -0.742
+      },
+      {
+        "word": "is",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 23.644,
+        "end": 23.924,
+        "score": -0.7233
+      },
+      {
+        "word": "not",
+        "start_offset": 112,
+        "end_offset": 115,
+        "start": 24.744,
+        "end": 25.064,
+        "score": -0.7055
+      },
+      {
+        "word": "an",
+        "start_offset": 116,
+        "end_offset": 118,
+        "start": 25.424,
+        "end": 25.644,
+        "score": -0.9184
+      },
+      {
+        "word": "exact",
+        "start_offset": 119,
+        "end_offset": 124,
+        "start": 27.284,
+        "end": 28.024,
+        "score": -0.822
+      },
+      {
+        "word": "measurement",
+        "start_offset": 125,
+        "end_offset": 136,
+        "start": 29.785,
+        "end": 30.785,
+        "score": -1.0636
+      },
+      {
+        "word": "since",
+        "start_offset": 137,
+        "end_offset": 142,
+        "start": 32.065,
+        "end": 32.525,
+        "score": -1.1532
+      },
+      {
+        "word": "both",
+        "start_offset": 143,
+        "end_offset": 147,
+        "start": 34.205,
+        "end": 34.585,
+        "score": -0.7258
+      },
+      {
+        "word": "chalice",
+        "start_offset": 148,
+        "end_offset": 155,
+        "start": 35.546,
+        "end": 36.306,
+        "score": -2.3132
+      },
+      {
+        "word": "and",
+        "start_offset": 156,
+        "end_offset": 159,
+        "start": 37.746,
+        "end": 38.066,
+        "score": -0.7624
+      },
+      {
+        "word": "candle",
+        "start_offset": 160,
+        "end_offset": 166,
+        "start": 39.146,
+        "end": 39.686,
+        "score": -0.9593
+      },
+      {
+        "word": "are",
+        "start_offset": 167,
+        "end_offset": 170,
+        "start": 41.086,
+        "end": 41.407,
+        "score": -1.1884
+      },
+      {
+        "word": "irregularly",
+        "start_offset": 171,
+        "end_offset": 182,
+        "start": 43.087,
+        "end": 44.387,
+        "score": -0.887
+      },
+      {
+        "word": "shaped.",
+        "start_offset": 183,
+        "end_offset": 190,
+        "start": 44.547,
+        "end": 45.127,
+        "score": -0.7384
+      },
+      {
+        "word": "However,",
+        "start_offset": 191,
+        "end_offset": 199,
+        "start": 47.788,
+        "end": 48.648,
+        "score": -0.8144
+      },
+      {
+        "word": "speaking",
+        "start_offset": 200,
+        "end_offset": 208,
+        "start": 51.008,
+        "end": 51.768,
+        "score": -0.8464
+      },
+      {
+        "word": "roughly,",
+        "start_offset": 209,
+        "end_offset": 217,
+        "start": 52.528,
+        "end": 53.068,
+        "score": -1.1437
+      },
+      {
+        "word": "this",
+        "start_offset": 218,
+        "end_offset": 222,
+        "start": 54.509,
+        "end": 54.929,
+        "score": -0.7905
+      },
+      {
+        "word": "is",
+        "start_offset": 223,
+        "end_offset": 225,
+        "start": 55.809,
+        "end": 56.049,
+        "score": -0.7674
+      },
+      {
+        "word": "correct.",
+        "start_offset": 226,
+        "end_offset": 234,
+        "start": 57.069,
+        "end": 57.749,
+        "score": -0.7308
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "087-04.mp3",
+    "audio_duration": 60.0294,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "text": "Can you describe the energy which is can you describe the energy that enters any of these energy centers? Can you describe its path from its origin, its form, and its effect. How about this as possible? Can you do that? I am wow. This is partially possible.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you describe the energy which is can you describe the energy that enters any of these energy centers?",
+        "start_offset": 24,
+        "end_offset": 615,
+        "start": 1.92,
+        "end": 49.2
+      },
+      {
+        "segment": "Can you describe its path from its origin, its form, and its effect.",
+        "start_offset": 627,
+        "end_offset": 758,
+        "start": 50.160000000000004,
+        "end": 60.64
+      },
+      {
+        "segment": "How about this as possible?",
+        "start_offset": 785,
+        "end_offset": 806,
+        "start": 62.800000000000004,
+        "end": 64.48
+      },
+      {
+        "segment": "Can you do that?",
+        "start_offset": 812,
+        "end_offset": 826,
+        "start": 64.96000000000001,
+        "end": 66.08
+      },
+      {
+        "segment": "I am wow.",
+        "start_offset": 862,
+        "end_offset": 894,
+        "start": 68.96000000000001,
+        "end": 71.52
+      },
+      {
+        "segment": "This is partially possible.",
+        "start_offset": 911,
+        "end_offset": 979,
+        "start": 72.88,
+        "end": 78.32000000000001
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 1.92,
+        "end": 2.24
+      },
+      {
+        "word": "you",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 2.56,
+        "end": 2.88
+      },
+      {
+        "word": "describe",
+        "start_offset": 60,
+        "end_offset": 72,
+        "start": 4.8,
+        "end": 5.76
+      },
+      {
+        "word": "the",
+        "start_offset": 88,
+        "end_offset": 92,
+        "start": 7.04,
+        "end": 7.36
+      },
+      {
+        "word": "energy",
+        "start_offset": 312,
+        "end_offset": 324,
+        "start": 24.96,
+        "end": 25.92
+      },
+      {
+        "word": "which",
+        "start_offset": 373,
+        "end_offset": 377,
+        "start": 29.84,
+        "end": 30.16
+      },
+      {
+        "word": "is",
+        "start_offset": 405,
+        "end_offset": 409,
+        "start": 32.4,
+        "end": 32.72
+      },
+      {
+        "word": "can",
+        "start_offset": 454,
+        "end_offset": 458,
+        "start": 36.32,
+        "end": 36.64
+      },
+      {
+        "word": "you",
+        "start_offset": 461,
+        "end_offset": 465,
+        "start": 36.88,
+        "end": 37.2
+      },
+      {
+        "word": "describe",
+        "start_offset": 465,
+        "end_offset": 477,
+        "start": 37.2,
+        "end": 38.160000000000004
+      },
+      {
+        "word": "the",
+        "start_offset": 509,
+        "end_offset": 513,
+        "start": 40.72,
+        "end": 41.04
+      },
+      {
+        "word": "energy",
+        "start_offset": 513,
+        "end_offset": 525,
+        "start": 41.04,
+        "end": 42.0
+      },
+      {
+        "word": "that",
+        "start_offset": 533,
+        "end_offset": 537,
+        "start": 42.64,
+        "end": 42.96
+      },
+      {
+        "word": "enters",
+        "start_offset": 557,
+        "end_offset": 565,
+        "start": 44.56,
+        "end": 45.2
+      },
+      {
+        "word": "any",
+        "start_offset": 581,
+        "end_offset": 585,
+        "start": 46.480000000000004,
+        "end": 46.800000000000004
+      },
+      {
+        "word": "of",
+        "start_offset": 589,
+        "end_offset": 593,
+        "start": 47.12,
+        "end": 47.44
+      },
+      {
+        "word": "these",
+        "start_offset": 593,
+        "end_offset": 597,
+        "start": 47.44,
+        "end": 47.76
+      },
+      {
+        "word": "energy",
+        "start_offset": 597,
+        "end_offset": 603,
+        "start": 47.76,
+        "end": 48.24
+      },
+      {
+        "word": "centers?",
+        "start_offset": 607,
+        "end_offset": 615,
+        "start": 48.56,
+        "end": 49.2
+      },
+      {
+        "word": "Can",
+        "start_offset": 627,
+        "end_offset": 631,
+        "start": 50.160000000000004,
+        "end": 50.480000000000004
+      },
+      {
+        "word": "you",
+        "start_offset": 631,
+        "end_offset": 635,
+        "start": 50.480000000000004,
+        "end": 50.800000000000004
+      },
+      {
+        "word": "describe",
+        "start_offset": 635,
+        "end_offset": 645,
+        "start": 50.800000000000004,
+        "end": 51.6
+      },
+      {
+        "word": "its",
+        "start_offset": 645,
+        "end_offset": 649,
+        "start": 51.6,
+        "end": 51.92
+      },
+      {
+        "word": "path",
+        "start_offset": 657,
+        "end_offset": 669,
+        "start": 52.56,
+        "end": 53.52
+      },
+      {
+        "word": "from",
+        "start_offset": 675,
+        "end_offset": 679,
+        "start": 54.0,
+        "end": 54.32
+      },
+      {
+        "word": "its",
+        "start_offset": 695,
+        "end_offset": 699,
+        "start": 55.6,
+        "end": 55.92
+      },
+      {
+        "word": "origin,",
+        "start_offset": 703,
+        "end_offset": 707,
+        "start": 56.24,
+        "end": 56.56
+      },
+      {
+        "word": "its",
+        "start_offset": 716,
+        "end_offset": 720,
+        "start": 57.28,
+        "end": 57.6
+      },
+      {
+        "word": "form,",
+        "start_offset": 720,
+        "end_offset": 724,
+        "start": 57.6,
+        "end": 57.92
+      },
+      {
+        "word": "and",
+        "start_offset": 739,
+        "end_offset": 743,
+        "start": 59.120000000000005,
+        "end": 59.44
+      },
+      {
+        "word": "its",
+        "start_offset": 743,
+        "end_offset": 747,
+        "start": 59.44,
+        "end": 59.76
+      },
+      {
+        "word": "effect.",
+        "start_offset": 750,
+        "end_offset": 758,
+        "start": 60.0,
+        "end": 60.64
+      },
+      {
+        "word": "How",
+        "start_offset": 785,
+        "end_offset": 789,
+        "start": 62.800000000000004,
+        "end": 63.120000000000005
+      },
+      {
+        "word": "about",
+        "start_offset": 789,
+        "end_offset": 791,
+        "start": 63.120000000000005,
+        "end": 63.28
+      },
+      {
+        "word": "this",
+        "start_offset": 795,
+        "end_offset": 797,
+        "start": 63.6,
+        "end": 63.76
+      },
+      {
+        "word": "as",
+        "start_offset": 797,
+        "end_offset": 799,
+        "start": 63.76,
+        "end": 63.92
+      },
+      {
+        "word": "possible?",
+        "start_offset": 801,
+        "end_offset": 806,
+        "start": 64.08,
+        "end": 64.48
+      },
+      {
+        "word": "Can",
+        "start_offset": 812,
+        "end_offset": 815,
+        "start": 64.96000000000001,
+        "end": 65.2
+      },
+      {
+        "word": "you",
+        "start_offset": 815,
+        "end_offset": 818,
+        "start": 65.2,
+        "end": 65.44
+      },
+      {
+        "word": "do",
+        "start_offset": 818,
+        "end_offset": 822,
+        "start": 65.44,
+        "end": 65.76
+      },
+      {
+        "word": "that?",
+        "start_offset": 822,
+        "end_offset": 826,
+        "start": 65.76,
+        "end": 66.08
+      },
+      {
+        "word": "I",
+        "start_offset": 862,
+        "end_offset": 866,
+        "start": 68.96000000000001,
+        "end": 69.28
+      },
+      {
+        "word": "am",
+        "start_offset": 874,
+        "end_offset": 877,
+        "start": 69.92,
+        "end": 70.16
+      },
+      {
+        "word": "wow.",
+        "start_offset": 887,
+        "end_offset": 894,
+        "start": 70.96000000000001,
+        "end": 71.52
+      },
+      {
+        "word": "This",
+        "start_offset": 911,
+        "end_offset": 915,
+        "start": 72.88,
+        "end": 73.2
+      },
+      {
+        "word": "is",
+        "start_offset": 923,
+        "end_offset": 927,
+        "start": 73.84,
+        "end": 74.16
+      },
+      {
+        "word": "partially",
+        "start_offset": 943,
+        "end_offset": 955,
+        "start": 75.44,
+        "end": 76.4
+      },
+      {
+        "word": "possible.",
+        "start_offset": 971,
+        "end_offset": 979,
+        "start": 77.68,
+        "end": 78.32000000000001
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "054-26.mp3",
+    "audio_duration": 80.04,
+    "transcription_time": 0.14,
+    "rtfx": 583.44,
+    "timestamp": "2026-01-06T21:52:28.653287+00:00"
+  }
+}

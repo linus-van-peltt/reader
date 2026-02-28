@@ -1,0 +1,483 @@
+{
+  "text": "I'm sorry to belabor this subject so much, but I was really hoping to come up with some way of helping Gandalf. I assume then that Ra has suggested that we just leave things as they are. How many applications of drops would be necessary to get some help for the eyes, roughly? Approximately 40 to 60.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I'm sorry to belabor this subject so much, but I was really hoping to come up with some way of helping Gandalf.",
+        "start_offset": 0,
+        "end_offset": 111,
+        "start": 2.741,
+        "end": 13.283
+      },
+      {
+        "segment": "I assume then that Ra has suggested that we just leave things as they are.",
+        "start_offset": 112,
+        "end_offset": 186,
+        "start": 22.385,
+        "end": 28.606
+      },
+      {
+        "segment": "How many applications of drops would be necessary to get some help for the eyes, roughly?",
+        "start_offset": 187,
+        "end_offset": 276,
+        "start": 44.229,
+        "end": 49.071
+      },
+      {
+        "segment": "Approximately to",
+        "start_offset": 277,
+        "end_offset": 296,
+        "start": 55.312,
+        "end": 60.853
+      }
+    ],
+    "word": [
+      {
+        "word": "I'm",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.741,
+        "end": 2.821,
+        "score": -5.9668
+      },
+      {
+        "word": "sorry",
+        "start_offset": 4,
+        "end_offset": 9,
+        "start": 2.881,
+        "end": 3.161,
+        "score": -1.8889
+      },
+      {
+        "word": "to",
+        "start_offset": 10,
+        "end_offset": 12,
+        "start": 3.241,
+        "end": 3.381,
+        "score": -1.7646
+      },
+      {
+        "word": "belabor",
+        "start_offset": 13,
+        "end_offset": 20,
+        "start": 4.961,
+        "end": 5.401,
+        "score": -1.3569
+      },
+      {
+        "word": "this",
+        "start_offset": 21,
+        "end_offset": 25,
+        "start": 5.481,
+        "end": 5.601,
+        "score": -2.253
+      },
+      {
+        "word": "subject",
+        "start_offset": 26,
+        "end_offset": 33,
+        "start": 5.661,
+        "end": 6.041,
+        "score": -0.7108
+      },
+      {
+        "word": "so",
+        "start_offset": 34,
+        "end_offset": 36,
+        "start": 6.101,
+        "end": 6.161,
+        "score": -0.7425
+      },
+      {
+        "word": "much,",
+        "start_offset": 37,
+        "end_offset": 42,
+        "start": 6.261,
+        "end": 6.481,
+        "score": -0.7213
+      },
+      {
+        "word": "but",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 6.741,
+        "end": 6.861,
+        "score": -2.0457
+      },
+      {
+        "word": "I",
+        "start_offset": 47,
+        "end_offset": 48,
+        "start": 6.961,
+        "end": 6.981,
+        "score": -4.9059
+      },
+      {
+        "word": "was",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 7.022,
+        "end": 7.142,
+        "score": -2.4295
+      },
+      {
+        "word": "really",
+        "start_offset": 53,
+        "end_offset": 59,
+        "start": 7.202,
+        "end": 7.402,
+        "score": -1.8448
+      },
+      {
+        "word": "hoping",
+        "start_offset": 60,
+        "end_offset": 66,
+        "start": 7.522,
+        "end": 7.822,
+        "score": -0.8424
+      },
+      {
+        "word": "to",
+        "start_offset": 67,
+        "end_offset": 69,
+        "start": 7.862,
+        "end": 7.922,
+        "score": -0.7394
+      },
+      {
+        "word": "come",
+        "start_offset": 70,
+        "end_offset": 74,
+        "start": 7.982,
+        "end": 8.142,
+        "score": -1.0003
+      },
+      {
+        "word": "up",
+        "start_offset": 75,
+        "end_offset": 77,
+        "start": 8.162,
+        "end": 8.262,
+        "score": -0.7391
+      },
+      {
+        "word": "with",
+        "start_offset": 78,
+        "end_offset": 82,
+        "start": 8.322,
+        "end": 8.462,
+        "score": -1.0439
+      },
+      {
+        "word": "some",
+        "start_offset": 83,
+        "end_offset": 87,
+        "start": 8.502,
+        "end": 8.702,
+        "score": -0.9718
+      },
+      {
+        "word": "way",
+        "start_offset": 88,
+        "end_offset": 91,
+        "start": 10.802,
+        "end": 10.962,
+        "score": -2.034
+      },
+      {
+        "word": "of",
+        "start_offset": 92,
+        "end_offset": 94,
+        "start": 11.022,
+        "end": 11.062,
+        "score": -6.1747
+      },
+      {
+        "word": "helping",
+        "start_offset": 95,
+        "end_offset": 102,
+        "start": 11.082,
+        "end": 11.462,
+        "score": -1.3804
+      },
+      {
+        "word": "Gandalf.",
+        "start_offset": 103,
+        "end_offset": 111,
+        "start": 11.482,
+        "end": 13.283,
+        "score": -4.4086
+      },
+      {
+        "word": "I",
+        "start_offset": 112,
+        "end_offset": 113,
+        "start": 22.385,
+        "end": 22.405,
+        "score": -4.3498
+      },
+      {
+        "word": "assume",
+        "start_offset": 114,
+        "end_offset": 120,
+        "start": 22.605,
+        "end": 22.985,
+        "score": -2.1521
+      },
+      {
+        "word": "then",
+        "start_offset": 121,
+        "end_offset": 125,
+        "start": 23.005,
+        "end": 23.205,
+        "score": -4.1762
+      },
+      {
+        "word": "that",
+        "start_offset": 126,
+        "end_offset": 130,
+        "start": 23.225,
+        "end": 23.365,
+        "score": -3.9873
+      },
+      {
+        "word": "Ra",
+        "start_offset": 131,
+        "end_offset": 133,
+        "start": 23.565,
+        "end": 23.665,
+        "score": -1.4899
+      },
+      {
+        "word": "has",
+        "start_offset": 134,
+        "end_offset": 137,
+        "start": 24.245,
+        "end": 24.485,
+        "score": -2.628
+      },
+      {
+        "word": "suggested",
+        "start_offset": 138,
+        "end_offset": 147,
+        "start": 25.265,
+        "end": 25.826,
+        "score": -1.0628
+      },
+      {
+        "word": "that",
+        "start_offset": 148,
+        "end_offset": 152,
+        "start": 25.846,
+        "end": 26.006,
+        "score": -2.6107
+      },
+      {
+        "word": "we",
+        "start_offset": 153,
+        "end_offset": 155,
+        "start": 26.046,
+        "end": 26.146,
+        "score": -2.2173
+      },
+      {
+        "word": "just",
+        "start_offset": 156,
+        "end_offset": 160,
+        "start": 26.166,
+        "end": 27.446,
+        "score": -4.3489
+      },
+      {
+        "word": "leave",
+        "start_offset": 161,
+        "end_offset": 166,
+        "start": 27.466,
+        "end": 27.626,
+        "score": -5.0179
+      },
+      {
+        "word": "things",
+        "start_offset": 167,
+        "end_offset": 173,
+        "start": 27.726,
+        "end": 27.966,
+        "score": -3.7078
+      },
+      {
+        "word": "as",
+        "start_offset": 174,
+        "end_offset": 176,
+        "start": 28.046,
+        "end": 28.146,
+        "score": -0.891
+      },
+      {
+        "word": "they",
+        "start_offset": 177,
+        "end_offset": 181,
+        "start": 28.186,
+        "end": 28.306,
+        "score": -1.1363
+      },
+      {
+        "word": "are.",
+        "start_offset": 182,
+        "end_offset": 186,
+        "start": 28.426,
+        "end": 28.606,
+        "score": -0.8303
+      },
+      {
+        "word": "How",
+        "start_offset": 187,
+        "end_offset": 190,
+        "start": 44.229,
+        "end": 44.329,
+        "score": -1.385
+      },
+      {
+        "word": "many",
+        "start_offset": 191,
+        "end_offset": 195,
+        "start": 44.349,
+        "end": 44.55,
+        "score": -0.7677
+      },
+      {
+        "word": "applications",
+        "start_offset": 196,
+        "end_offset": 208,
+        "start": 44.61,
+        "end": 45.27,
+        "score": -0.7131
+      },
+      {
+        "word": "of",
+        "start_offset": 209,
+        "end_offset": 211,
+        "start": 45.29,
+        "end": 45.35,
+        "score": -1.0072
+      },
+      {
+        "word": "drops",
+        "start_offset": 212,
+        "end_offset": 217,
+        "start": 45.41,
+        "end": 45.73,
+        "score": -1.6981
+      },
+      {
+        "word": "would",
+        "start_offset": 218,
+        "end_offset": 223,
+        "start": 45.77,
+        "end": 45.91,
+        "score": -0.806
+      },
+      {
+        "word": "be",
+        "start_offset": 224,
+        "end_offset": 226,
+        "start": 45.93,
+        "end": 45.99,
+        "score": -0.7125
+      },
+      {
+        "word": "necessary",
+        "start_offset": 227,
+        "end_offset": 236,
+        "start": 46.09,
+        "end": 46.71,
+        "score": -0.7326
+      },
+      {
+        "word": "to",
+        "start_offset": 237,
+        "end_offset": 239,
+        "start": 47.07,
+        "end": 47.17,
+        "score": -1.4242
+      },
+      {
+        "word": "get",
+        "start_offset": 240,
+        "end_offset": 243,
+        "start": 47.23,
+        "end": 47.43,
+        "score": -0.7188
+      },
+      {
+        "word": "some",
+        "start_offset": 244,
+        "end_offset": 248,
+        "start": 47.61,
+        "end": 47.83,
+        "score": -0.7092
+      },
+      {
+        "word": "help",
+        "start_offset": 249,
+        "end_offset": 253,
+        "start": 47.89,
+        "end": 48.09,
+        "score": -0.8205
+      },
+      {
+        "word": "for",
+        "start_offset": 254,
+        "end_offset": 257,
+        "start": 48.15,
+        "end": 48.25,
+        "score": -0.7505
+      },
+      {
+        "word": "the",
+        "start_offset": 258,
+        "end_offset": 261,
+        "start": 48.27,
+        "end": 48.37,
+        "score": -0.9681
+      },
+      {
+        "word": "eyes,",
+        "start_offset": 262,
+        "end_offset": 267,
+        "start": 48.41,
+        "end": 48.71,
+        "score": -3.9325
+      },
+      {
+        "word": "roughly?",
+        "start_offset": 268,
+        "end_offset": 276,
+        "start": 48.81,
+        "end": 49.071,
+        "score": -4.7342
+      },
+      {
+        "word": "Approximately",
+        "start_offset": 277,
+        "end_offset": 290,
+        "start": 55.312,
+        "end": 57.112,
+        "score": -4.4441
+      },
+      {
+        "word": "to",
+        "start_offset": 294,
+        "end_offset": 296,
+        "start": 59.753,
+        "end": 60.853,
+        "score": -7.0764
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "104-19.mp3",
+    "audio_duration": 63.0335,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

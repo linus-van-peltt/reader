@@ -1,0 +1,188 @@
+{
+  "text": "What was the nature of the thought-form or its affiliation? I am Ra. This thought-form was of Orion affiliation.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What was the nature of the thought-form or its affiliation?",
+        "start_offset": 0,
+        "end_offset": 59,
+        "start": 2.461,
+        "end": 9.983
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 60,
+        "end_offset": 68,
+        "start": 14.104,
+        "end": 16.025
+      },
+      {
+        "segment": "This thought-form was of Orion affiliation.",
+        "start_offset": 69,
+        "end_offset": 112,
+        "start": 18.145,
+        "end": 28.288
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.461,
+        "end": 2.641,
+        "score": -3.6771
+      },
+      {
+        "word": "was",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 2.721,
+        "end": 2.981,
+        "score": -3.6131
+      },
+      {
+        "word": "the",
+        "start_offset": 9,
+        "end_offset": 12,
+        "start": 3.081,
+        "end": 3.181,
+        "score": -4.3296
+      },
+      {
+        "word": "nature",
+        "start_offset": 13,
+        "end_offset": 19,
+        "start": 6.622,
+        "end": 7.042,
+        "score": -3.1102
+      },
+      {
+        "word": "of",
+        "start_offset": 20,
+        "end_offset": 22,
+        "start": 7.082,
+        "end": 7.182,
+        "score": -2.6243
+      },
+      {
+        "word": "the",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 7.222,
+        "end": 7.322,
+        "score": -2.635
+      },
+      {
+        "word": "thought-form",
+        "start_offset": 27,
+        "end_offset": 39,
+        "start": 7.382,
+        "end": 8.122,
+        "score": -3.2348
+      },
+      {
+        "word": "or",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 8.863,
+        "end": 8.963,
+        "score": -2.6169
+      },
+      {
+        "word": "its",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 9.043,
+        "end": 9.163,
+        "score": -2.7868
+      },
+      {
+        "word": "affiliation?",
+        "start_offset": 47,
+        "end_offset": 59,
+        "start": 9.223,
+        "end": 9.983,
+        "score": -2.5239
+      },
+      {
+        "word": "I",
+        "start_offset": 60,
+        "end_offset": 61,
+        "start": 14.104,
+        "end": 14.124,
+        "score": -2.2589
+      },
+      {
+        "word": "am",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 14.824,
+        "end": 15.164,
+        "score": -2.9376
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 15.845,
+        "end": 16.025,
+        "score": -3.0383
+      },
+      {
+        "word": "This",
+        "start_offset": 69,
+        "end_offset": 73,
+        "start": 18.145,
+        "end": 18.585,
+        "score": -0.7905
+      },
+      {
+        "word": "thought-form",
+        "start_offset": 74,
+        "end_offset": 86,
+        "start": 19.086,
+        "end": 20.346,
+        "score": -1.3292
+      },
+      {
+        "word": "was",
+        "start_offset": 87,
+        "end_offset": 90,
+        "start": 21.786,
+        "end": 22.287,
+        "score": -0.7278
+      },
+      {
+        "word": "of",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 22.907,
+        "end": 23.207,
+        "score": -0.9151
+      },
+      {
+        "word": "Orion",
+        "start_offset": 94,
+        "end_offset": 99,
+        "start": 24.107,
+        "end": 25.147,
+        "score": -1.0563
+      },
+      {
+        "word": "affiliation.",
+        "start_offset": 100,
+        "end_offset": 112,
+        "start": 26.428,
+        "end": 28.288,
+        "score": -0.9237
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "062-02.mp3",
+    "audio_duration": 35.0303,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,507 @@
+{
+  "text": "Then the effect of the— you were saying the effect of the humidity— we will try to get it as low as possible, but you are saying the effect of the humidity is a relatively minor consideration when all the other beneficial factors are taken in with respect to the address? Is this correct? I am Ra. Yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then the effect of the— you were saying the effect of the humidity— we will try to get it as low as possible, but you are saying the effect of the humidity is a relatively minor consideration when all the other beneficial factors are taken in with respect to the address?",
+        "start_offset": 0,
+        "end_offset": 271,
+        "start": 2.521,
+        "end": 20.831
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 272,
+        "end_offset": 288,
+        "start": 20.971,
+        "end": 21.471
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 289,
+        "end_offset": 297,
+        "start": 21.491,
+        "end": 21.971
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 298,
+        "end_offset": 302,
+        "start": 22.051,
+        "end": 33.097
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.521,
+        "end": 2.741,
+        "score": -3.9476
+      },
+      {
+        "word": "the",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 4.963,
+        "end": 5.043,
+        "score": -4.0898
+      },
+      {
+        "word": "effect",
+        "start_offset": 9,
+        "end_offset": 15,
+        "start": 5.083,
+        "end": 5.463,
+        "score": -1.318
+      },
+      {
+        "word": "of",
+        "start_offset": 16,
+        "end_offset": 18,
+        "start": 5.523,
+        "end": 5.583,
+        "score": -1.9788
+      },
+      {
+        "word": "the—",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 5.623,
+        "end": 5.683,
+        "score": -1.7381
+      },
+      {
+        "word": "you",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 5.763,
+        "end": 5.843,
+        "score": -3.6282
+      },
+      {
+        "word": "were",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 5.883,
+        "end": 6.023,
+        "score": -3.3946
+      },
+      {
+        "word": "saying",
+        "start_offset": 33,
+        "end_offset": 39,
+        "start": 6.063,
+        "end": 6.303,
+        "score": -1.4017
+      },
+      {
+        "word": "the",
+        "start_offset": 40,
+        "end_offset": 43,
+        "start": 6.323,
+        "end": 6.403,
+        "score": -1.4082
+      },
+      {
+        "word": "effect",
+        "start_offset": 44,
+        "end_offset": 50,
+        "start": 6.443,
+        "end": 6.804,
+        "score": -1.0688
+      },
+      {
+        "word": "of",
+        "start_offset": 51,
+        "end_offset": 53,
+        "start": 6.864,
+        "end": 6.944,
+        "score": -1.7628
+      },
+      {
+        "word": "the",
+        "start_offset": 54,
+        "end_offset": 57,
+        "start": 7.004,
+        "end": 7.104,
+        "score": -1.8509
+      },
+      {
+        "word": "humidity—",
+        "start_offset": 58,
+        "end_offset": 67,
+        "start": 7.444,
+        "end": 7.844,
+        "score": -2.6144
+      },
+      {
+        "word": "we",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 8.164,
+        "end": 8.264,
+        "score": -4.7
+      },
+      {
+        "word": "will",
+        "start_offset": 71,
+        "end_offset": 75,
+        "start": 8.344,
+        "end": 8.444,
+        "score": -4.2423
+      },
+      {
+        "word": "try",
+        "start_offset": 76,
+        "end_offset": 79,
+        "start": 8.484,
+        "end": 8.604,
+        "score": -3.0221
+      },
+      {
+        "word": "to",
+        "start_offset": 80,
+        "end_offset": 82,
+        "start": 8.684,
+        "end": 8.725,
+        "score": -4.4904
+      },
+      {
+        "word": "get",
+        "start_offset": 83,
+        "end_offset": 86,
+        "start": 8.765,
+        "end": 8.865,
+        "score": -2.7884
+      },
+      {
+        "word": "it",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 8.885,
+        "end": 8.925,
+        "score": -3.4638
+      },
+      {
+        "word": "as",
+        "start_offset": 90,
+        "end_offset": 92,
+        "start": 9.125,
+        "end": 9.225,
+        "score": -2.0514
+      },
+      {
+        "word": "low",
+        "start_offset": 93,
+        "end_offset": 96,
+        "start": 9.265,
+        "end": 9.325,
+        "score": -4.1545
+      },
+      {
+        "word": "as",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 9.345,
+        "end": 9.465,
+        "score": -1.2392
+      },
+      {
+        "word": "possible,",
+        "start_offset": 100,
+        "end_offset": 109,
+        "start": 9.525,
+        "end": 9.885,
+        "score": -3.6723
+      },
+      {
+        "word": "but",
+        "start_offset": 110,
+        "end_offset": 113,
+        "start": 9.905,
+        "end": 9.965,
+        "score": -5.3028
+      },
+      {
+        "word": "you",
+        "start_offset": 114,
+        "end_offset": 117,
+        "start": 10.045,
+        "end": 10.105,
+        "score": -7.6006
+      },
+      {
+        "word": "are",
+        "start_offset": 118,
+        "end_offset": 121,
+        "start": 10.125,
+        "end": 10.205,
+        "score": -3.1152
+      },
+      {
+        "word": "saying",
+        "start_offset": 122,
+        "end_offset": 128,
+        "start": 10.225,
+        "end": 10.445,
+        "score": -1.1466
+      },
+      {
+        "word": "the",
+        "start_offset": 129,
+        "end_offset": 132,
+        "start": 10.465,
+        "end": 10.525,
+        "score": -0.957
+      },
+      {
+        "word": "effect",
+        "start_offset": 133,
+        "end_offset": 139,
+        "start": 10.565,
+        "end": 10.886,
+        "score": -0.891
+      },
+      {
+        "word": "of",
+        "start_offset": 140,
+        "end_offset": 142,
+        "start": 10.926,
+        "end": 10.966,
+        "score": -5.3766
+      },
+      {
+        "word": "the",
+        "start_offset": 143,
+        "end_offset": 146,
+        "start": 10.986,
+        "end": 11.066,
+        "score": -4.1976
+      },
+      {
+        "word": "humidity",
+        "start_offset": 147,
+        "end_offset": 155,
+        "start": 11.286,
+        "end": 11.746,
+        "score": -2.4268
+      },
+      {
+        "word": "is",
+        "start_offset": 156,
+        "end_offset": 158,
+        "start": 13.107,
+        "end": 13.307,
+        "score": -1.0406
+      },
+      {
+        "word": "a",
+        "start_offset": 159,
+        "end_offset": 160,
+        "start": 13.487,
+        "end": 13.507,
+        "score": -2.4498
+      },
+      {
+        "word": "relatively",
+        "start_offset": 161,
+        "end_offset": 171,
+        "start": 15.048,
+        "end": 15.548,
+        "score": -0.7932
+      },
+      {
+        "word": "minor",
+        "start_offset": 172,
+        "end_offset": 177,
+        "start": 15.608,
+        "end": 15.908,
+        "score": -2.9642
+      },
+      {
+        "word": "consideration",
+        "start_offset": 178,
+        "end_offset": 191,
+        "start": 15.968,
+        "end": 16.649,
+        "score": -0.743
+      },
+      {
+        "word": "when",
+        "start_offset": 192,
+        "end_offset": 196,
+        "start": 16.689,
+        "end": 16.809,
+        "score": -2.0741
+      },
+      {
+        "word": "all",
+        "start_offset": 197,
+        "end_offset": 200,
+        "start": 16.889,
+        "end": 16.989,
+        "score": -3.8438
+      },
+      {
+        "word": "the",
+        "start_offset": 201,
+        "end_offset": 204,
+        "start": 17.009,
+        "end": 17.089,
+        "score": -0.9536
+      },
+      {
+        "word": "other",
+        "start_offset": 205,
+        "end_offset": 210,
+        "start": 17.149,
+        "end": 17.329,
+        "score": -0.8931
+      },
+      {
+        "word": "beneficial",
+        "start_offset": 211,
+        "end_offset": 221,
+        "start": 17.809,
+        "end": 18.389,
+        "score": -1.742
+      },
+      {
+        "word": "factors",
+        "start_offset": 222,
+        "end_offset": 229,
+        "start": 18.73,
+        "end": 19.17,
+        "score": -2.1345
+      },
+      {
+        "word": "are",
+        "start_offset": 230,
+        "end_offset": 233,
+        "start": 19.21,
+        "end": 19.27,
+        "score": -6.193
+      },
+      {
+        "word": "taken",
+        "start_offset": 234,
+        "end_offset": 239,
+        "start": 19.33,
+        "end": 19.63,
+        "score": -0.7389
+      },
+      {
+        "word": "in",
+        "start_offset": 240,
+        "end_offset": 242,
+        "start": 19.71,
+        "end": 19.79,
+        "score": -2.4328
+      },
+      {
+        "word": "with",
+        "start_offset": 243,
+        "end_offset": 247,
+        "start": 19.81,
+        "end": 19.95,
+        "score": -3.5769
+      },
+      {
+        "word": "respect",
+        "start_offset": 248,
+        "end_offset": 255,
+        "start": 19.97,
+        "end": 20.31,
+        "score": -1.9541
+      },
+      {
+        "word": "to",
+        "start_offset": 256,
+        "end_offset": 258,
+        "start": 20.351,
+        "end": 20.411,
+        "score": -1.5358
+      },
+      {
+        "word": "the",
+        "start_offset": 259,
+        "end_offset": 262,
+        "start": 20.431,
+        "end": 20.491,
+        "score": -1.323
+      },
+      {
+        "word": "address?",
+        "start_offset": 263,
+        "end_offset": 271,
+        "start": 20.611,
+        "end": 20.831,
+        "score": -3.4509
+      },
+      {
+        "word": "Is",
+        "start_offset": 272,
+        "end_offset": 274,
+        "start": 20.971,
+        "end": 21.011,
+        "score": -4.3641
+      },
+      {
+        "word": "this",
+        "start_offset": 275,
+        "end_offset": 279,
+        "start": 21.091,
+        "end": 21.171,
+        "score": -2.7677
+      },
+      {
+        "word": "correct?",
+        "start_offset": 280,
+        "end_offset": 288,
+        "start": 21.211,
+        "end": 21.471,
+        "score": -4.9913
+      },
+      {
+        "word": "I",
+        "start_offset": 289,
+        "end_offset": 290,
+        "start": 21.491,
+        "end": 21.511,
+        "score": -1.2682
+      },
+      {
+        "word": "am",
+        "start_offset": 291,
+        "end_offset": 293,
+        "start": 21.831,
+        "end": 21.871,
+        "score": -3.2999
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 294,
+        "end_offset": 297,
+        "start": 21.891,
+        "end": 21.971,
+        "score": -2.2266
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 298,
+        "end_offset": 302,
+        "start": 22.051,
+        "end": 33.097,
+        "score": -4.707
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "106-19.mp3",
+    "audio_duration": 34.0376,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

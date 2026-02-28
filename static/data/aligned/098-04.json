@@ -1,0 +1,196 @@
+{
+  "text": "Was the greeting as effective as it would have been if the meditation had been done? I am Ra. Yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Was the greeting as effective as it would have been if the meditation had been done?",
+        "start_offset": 0,
+        "end_offset": 84,
+        "start": 2.201,
+        "end": 9.644
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 85,
+        "end_offset": 93,
+        "start": 15.707,
+        "end": 18.508
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 94,
+        "end_offset": 98,
+        "start": 21.31,
+        "end": 21.73
+      }
+    ],
+    "word": [
+      {
+        "word": "Was",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.201,
+        "end": 2.401,
+        "score": -0.716
+      },
+      {
+        "word": "the",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 2.461,
+        "end": 2.561,
+        "score": -0.9504
+      },
+      {
+        "word": "greeting",
+        "start_offset": 8,
+        "end_offset": 16,
+        "start": 3.041,
+        "end": 3.462,
+        "score": -0.9044
+      },
+      {
+        "word": "as",
+        "start_offset": 17,
+        "end_offset": 19,
+        "start": 3.602,
+        "end": 3.722,
+        "score": -0.706
+      },
+      {
+        "word": "effective",
+        "start_offset": 20,
+        "end_offset": 29,
+        "start": 3.782,
+        "end": 4.462,
+        "score": -0.9182
+      },
+      {
+        "word": "as",
+        "start_offset": 30,
+        "end_offset": 32,
+        "start": 5.322,
+        "end": 5.462,
+        "score": -0.7026
+      },
+      {
+        "word": "it",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 5.523,
+        "end": 5.603,
+        "score": -0.7012
+      },
+      {
+        "word": "would",
+        "start_offset": 36,
+        "end_offset": 41,
+        "start": 5.643,
+        "end": 5.803,
+        "score": -0.9487
+      },
+      {
+        "word": "have",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 5.843,
+        "end": 5.983,
+        "score": -1.4741
+      },
+      {
+        "word": "been",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 6.043,
+        "end": 6.323,
+        "score": -1.0831
+      },
+      {
+        "word": "if",
+        "start_offset": 52,
+        "end_offset": 54,
+        "start": 6.903,
+        "end": 7.043,
+        "score": -0.6956
+      },
+      {
+        "word": "the",
+        "start_offset": 55,
+        "end_offset": 58,
+        "start": 8.104,
+        "end": 8.224,
+        "score": -0.7433
+      },
+      {
+        "word": "meditation",
+        "start_offset": 59,
+        "end_offset": 69,
+        "start": 8.264,
+        "end": 8.944,
+        "score": -0.6982
+      },
+      {
+        "word": "had",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 9.004,
+        "end": 9.124,
+        "score": -0.6998
+      },
+      {
+        "word": "been",
+        "start_offset": 74,
+        "end_offset": 78,
+        "start": 9.164,
+        "end": 9.324,
+        "score": -0.6998
+      },
+      {
+        "word": "done?",
+        "start_offset": 79,
+        "end_offset": 84,
+        "start": 9.364,
+        "end": 9.644,
+        "score": -0.8951
+      },
+      {
+        "word": "I",
+        "start_offset": 85,
+        "end_offset": 86,
+        "start": 15.707,
+        "end": 15.727,
+        "score": -3.9606
+      },
+      {
+        "word": "am",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 16.588,
+        "end": 16.888,
+        "score": -6.4198
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 90,
+        "end_offset": 93,
+        "start": 18.368,
+        "end": 18.508,
+        "score": -6.4571
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 94,
+        "end_offset": 98,
+        "start": 21.31,
+        "end": 21.73,
+        "score": -5.68
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "098-04.mp3",
+    "audio_duration": 25.0514,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

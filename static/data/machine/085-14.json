@@ -1,0 +1,975 @@
+{
+  "text": "I'm just interested in the problem here that we sometimes have with transmission since the word others was used three times in the transmission rather than the word self. And could you give me an idea of the problem in communication that we have there that creates that type of an anomaly, which if I didn't catch could create a rather large discrepancy in communication. Firstly, we may note the clumsiness of language and our unfamiliarity with it in our a native, shall we say, experience? Secondly, we may point out that once we have miscalled or misnumbered an event or a thing that referent is quite likely to be reused for some a transmission, a time, as you call this enmeasurement, a due to our original error having gone undetected by ourselves.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I'm just interested in the problem here that we sometimes have with transmission since the word others was used three times in the transmission rather than the word self.",
+        "start_offset": 20,
+        "end_offset": 245,
+        "start": 1.6,
+        "end": 19.6
+      },
+      {
+        "segment": "And could you give me an idea of the problem in communication that we have there that creates that type of an anomaly, which if I didn't catch could create a rather large discrepancy in communication.",
+        "start_offset": 254,
+        "end_offset": 513,
+        "start": 20.32,
+        "end": 41.04
+      },
+      {
+        "segment": "Firstly, we may note the clumsiness of language and our unfamiliarity with it in our a native, shall we say, experience?",
+        "start_offset": 652,
+        "end_offset": 1097,
+        "start": 52.160000000000004,
+        "end": 87.76
+      },
+      {
+        "segment": "Secondly, we may point out that once we have miscalled or misnumbered an event or a thing that referent is quite likely to be reused for some a transmission, a time, as you call this enmeasurement, a due to our original error having gone undetected by ourselves.",
+        "start_offset": 1133,
+        "end_offset": 2148,
+        "start": 90.64,
+        "end": 171.84
+      }
+    ],
+    "word": [
+      {
+        "word": "I'm",
+        "start_offset": 20,
+        "end_offset": 27,
+        "start": 1.6,
+        "end": 2.16
+      },
+      {
+        "word": "just",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 2.16,
+        "end": 2.48
+      },
+      {
+        "word": "interested",
+        "start_offset": 33,
+        "end_offset": 42,
+        "start": 2.64,
+        "end": 3.36
+      },
+      {
+        "word": "in",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 3.36,
+        "end": 3.68
+      },
+      {
+        "word": "the",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 3.68,
+        "end": 4.0
+      },
+      {
+        "word": "problem",
+        "start_offset": 54,
+        "end_offset": 58,
+        "start": 4.32,
+        "end": 4.64
+      },
+      {
+        "word": "here",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 4.96,
+        "end": 5.2
+      },
+      {
+        "word": "that",
+        "start_offset": 65,
+        "end_offset": 67,
+        "start": 5.2,
+        "end": 5.36
+      },
+      {
+        "word": "we",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 5.36,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "sometimes",
+        "start_offset": 70,
+        "end_offset": 78,
+        "start": 5.6000000000000005,
+        "end": 6.24
+      },
+      {
+        "word": "have",
+        "start_offset": 78,
+        "end_offset": 82,
+        "start": 6.24,
+        "end": 6.5600000000000005
+      },
+      {
+        "word": "with",
+        "start_offset": 82,
+        "end_offset": 86,
+        "start": 6.5600000000000005,
+        "end": 6.88
+      },
+      {
+        "word": "transmission",
+        "start_offset": 86,
+        "end_offset": 98,
+        "start": 6.88,
+        "end": 7.84
+      },
+      {
+        "word": "since",
+        "start_offset": 104,
+        "end_offset": 112,
+        "start": 8.32,
+        "end": 8.96
+      },
+      {
+        "word": "the",
+        "start_offset": 120,
+        "end_offset": 124,
+        "start": 9.6,
+        "end": 9.92
+      },
+      {
+        "word": "word",
+        "start_offset": 152,
+        "end_offset": 156,
+        "start": 12.16,
+        "end": 12.48
+      },
+      {
+        "word": "others",
+        "start_offset": 160,
+        "end_offset": 168,
+        "start": 12.8,
+        "end": 13.44
+      },
+      {
+        "word": "was",
+        "start_offset": 172,
+        "end_offset": 176,
+        "start": 13.76,
+        "end": 14.08
+      },
+      {
+        "word": "used",
+        "start_offset": 179,
+        "end_offset": 185,
+        "start": 14.32,
+        "end": 14.8
+      },
+      {
+        "word": "three",
+        "start_offset": 185,
+        "end_offset": 191,
+        "start": 14.8,
+        "end": 15.280000000000001
+      },
+      {
+        "word": "times",
+        "start_offset": 191,
+        "end_offset": 196,
+        "start": 15.280000000000001,
+        "end": 15.68
+      },
+      {
+        "word": "in",
+        "start_offset": 196,
+        "end_offset": 198,
+        "start": 15.68,
+        "end": 15.84
+      },
+      {
+        "word": "the",
+        "start_offset": 198,
+        "end_offset": 202,
+        "start": 15.84,
+        "end": 16.16
+      },
+      {
+        "word": "transmission",
+        "start_offset": 202,
+        "end_offset": 210,
+        "start": 16.16,
+        "end": 16.8
+      },
+      {
+        "word": "rather",
+        "start_offset": 221,
+        "end_offset": 227,
+        "start": 17.68,
+        "end": 18.16
+      },
+      {
+        "word": "than",
+        "start_offset": 227,
+        "end_offset": 229,
+        "start": 18.16,
+        "end": 18.32
+      },
+      {
+        "word": "the",
+        "start_offset": 229,
+        "end_offset": 233,
+        "start": 18.32,
+        "end": 18.64
+      },
+      {
+        "word": "word",
+        "start_offset": 233,
+        "end_offset": 237,
+        "start": 18.64,
+        "end": 18.96
+      },
+      {
+        "word": "self.",
+        "start_offset": 237,
+        "end_offset": 245,
+        "start": 18.96,
+        "end": 19.6
+      },
+      {
+        "word": "And",
+        "start_offset": 254,
+        "end_offset": 258,
+        "start": 20.32,
+        "end": 20.64
+      },
+      {
+        "word": "could",
+        "start_offset": 280,
+        "end_offset": 284,
+        "start": 22.400000000000002,
+        "end": 22.72
+      },
+      {
+        "word": "you",
+        "start_offset": 284,
+        "end_offset": 288,
+        "start": 22.72,
+        "end": 23.04
+      },
+      {
+        "word": "give",
+        "start_offset": 291,
+        "end_offset": 295,
+        "start": 23.28,
+        "end": 23.6
+      },
+      {
+        "word": "me",
+        "start_offset": 295,
+        "end_offset": 298,
+        "start": 23.6,
+        "end": 23.84
+      },
+      {
+        "word": "an",
+        "start_offset": 298,
+        "end_offset": 301,
+        "start": 23.84,
+        "end": 24.080000000000002
+      },
+      {
+        "word": "idea",
+        "start_offset": 301,
+        "end_offset": 308,
+        "start": 24.080000000000002,
+        "end": 24.64
+      },
+      {
+        "word": "of",
+        "start_offset": 308,
+        "end_offset": 312,
+        "start": 24.64,
+        "end": 24.96
+      },
+      {
+        "word": "the",
+        "start_offset": 318,
+        "end_offset": 322,
+        "start": 25.44,
+        "end": 25.76
+      },
+      {
+        "word": "problem",
+        "start_offset": 334,
+        "end_offset": 338,
+        "start": 26.72,
+        "end": 27.04
+      },
+      {
+        "word": "in",
+        "start_offset": 338,
+        "end_offset": 341,
+        "start": 27.04,
+        "end": 27.28
+      },
+      {
+        "word": "communication",
+        "start_offset": 341,
+        "end_offset": 350,
+        "start": 27.28,
+        "end": 28.0
+      },
+      {
+        "word": "that",
+        "start_offset": 350,
+        "end_offset": 352,
+        "start": 28.0,
+        "end": 28.16
+      },
+      {
+        "word": "we",
+        "start_offset": 352,
+        "end_offset": 355,
+        "start": 28.16,
+        "end": 28.400000000000002
+      },
+      {
+        "word": "have",
+        "start_offset": 355,
+        "end_offset": 358,
+        "start": 28.400000000000002,
+        "end": 28.64
+      },
+      {
+        "word": "there",
+        "start_offset": 358,
+        "end_offset": 361,
+        "start": 28.64,
+        "end": 28.88
+      },
+      {
+        "word": "that",
+        "start_offset": 361,
+        "end_offset": 365,
+        "start": 28.88,
+        "end": 29.2
+      },
+      {
+        "word": "creates",
+        "start_offset": 365,
+        "end_offset": 373,
+        "start": 29.2,
+        "end": 29.84
+      },
+      {
+        "word": "that",
+        "start_offset": 377,
+        "end_offset": 380,
+        "start": 30.16,
+        "end": 30.400000000000002
+      },
+      {
+        "word": "type",
+        "start_offset": 380,
+        "end_offset": 386,
+        "start": 30.400000000000002,
+        "end": 30.88
+      },
+      {
+        "word": "of",
+        "start_offset": 386,
+        "end_offset": 389,
+        "start": 30.88,
+        "end": 31.12
+      },
+      {
+        "word": "an",
+        "start_offset": 394,
+        "end_offset": 398,
+        "start": 31.52,
+        "end": 31.84
+      },
+      {
+        "word": "anomaly,",
+        "start_offset": 398,
+        "end_offset": 407,
+        "start": 31.84,
+        "end": 32.56
+      },
+      {
+        "word": "which",
+        "start_offset": 410,
+        "end_offset": 412,
+        "start": 32.8,
+        "end": 32.96
+      },
+      {
+        "word": "if",
+        "start_offset": 414,
+        "end_offset": 418,
+        "start": 33.12,
+        "end": 33.44
+      },
+      {
+        "word": "I",
+        "start_offset": 418,
+        "end_offset": 420,
+        "start": 33.44,
+        "end": 33.6
+      },
+      {
+        "word": "didn't",
+        "start_offset": 420,
+        "end_offset": 425,
+        "start": 33.6,
+        "end": 34.0
+      },
+      {
+        "word": "catch",
+        "start_offset": 425,
+        "end_offset": 428,
+        "start": 34.0,
+        "end": 34.24
+      },
+      {
+        "word": "could",
+        "start_offset": 431,
+        "end_offset": 435,
+        "start": 34.480000000000004,
+        "end": 34.800000000000004
+      },
+      {
+        "word": "create",
+        "start_offset": 435,
+        "end_offset": 443,
+        "start": 34.800000000000004,
+        "end": 35.44
+      },
+      {
+        "word": "a",
+        "start_offset": 447,
+        "end_offset": 451,
+        "start": 35.76,
+        "end": 36.08
+      },
+      {
+        "word": "rather",
+        "start_offset": 455,
+        "end_offset": 463,
+        "start": 36.4,
+        "end": 37.04
+      },
+      {
+        "word": "large",
+        "start_offset": 467,
+        "end_offset": 475,
+        "start": 37.36,
+        "end": 38.0
+      },
+      {
+        "word": "discrepancy",
+        "start_offset": 485,
+        "end_offset": 498,
+        "start": 38.800000000000004,
+        "end": 39.84
+      },
+      {
+        "word": "in",
+        "start_offset": 498,
+        "end_offset": 501,
+        "start": 39.84,
+        "end": 40.08
+      },
+      {
+        "word": "communication.",
+        "start_offset": 501,
+        "end_offset": 513,
+        "start": 40.08,
+        "end": 41.04
+      },
+      {
+        "word": "Firstly,",
+        "start_offset": 652,
+        "end_offset": 660,
+        "start": 52.160000000000004,
+        "end": 52.800000000000004
+      },
+      {
+        "word": "we",
+        "start_offset": 667,
+        "end_offset": 671,
+        "start": 53.36,
+        "end": 53.68
+      },
+      {
+        "word": "may",
+        "start_offset": 675,
+        "end_offset": 679,
+        "start": 54.0,
+        "end": 54.32
+      },
+      {
+        "word": "note",
+        "start_offset": 683,
+        "end_offset": 687,
+        "start": 54.64,
+        "end": 54.96
+      },
+      {
+        "word": "the",
+        "start_offset": 703,
+        "end_offset": 707,
+        "start": 56.24,
+        "end": 56.56
+      },
+      {
+        "word": "clumsiness",
+        "start_offset": 722,
+        "end_offset": 739,
+        "start": 57.76,
+        "end": 59.120000000000005
+      },
+      {
+        "word": "of",
+        "start_offset": 751,
+        "end_offset": 755,
+        "start": 60.08,
+        "end": 60.4
+      },
+      {
+        "word": "language",
+        "start_offset": 767,
+        "end_offset": 779,
+        "start": 61.36,
+        "end": 62.32
+      },
+      {
+        "word": "and",
+        "start_offset": 802,
+        "end_offset": 806,
+        "start": 64.16,
+        "end": 64.48
+      },
+      {
+        "word": "our",
+        "start_offset": 822,
+        "end_offset": 826,
+        "start": 65.76,
+        "end": 66.08
+      },
+      {
+        "word": "unfamiliarity",
+        "start_offset": 854,
+        "end_offset": 880,
+        "start": 68.32000000000001,
+        "end": 70.4
+      },
+      {
+        "word": "with",
+        "start_offset": 904,
+        "end_offset": 908,
+        "start": 72.32000000000001,
+        "end": 72.64
+      },
+      {
+        "word": "it",
+        "start_offset": 924,
+        "end_offset": 928,
+        "start": 73.92,
+        "end": 74.24
+      },
+      {
+        "word": "in",
+        "start_offset": 956,
+        "end_offset": 960,
+        "start": 76.48,
+        "end": 76.8
+      },
+      {
+        "word": "our",
+        "start_offset": 972,
+        "end_offset": 976,
+        "start": 77.76,
+        "end": 78.08
+      },
+      {
+        "word": "a",
+        "start_offset": 1004,
+        "end_offset": 1008,
+        "start": 80.32000000000001,
+        "end": 80.64
+      },
+      {
+        "word": "native,",
+        "start_offset": 1008,
+        "end_offset": 1018,
+        "start": 80.64,
+        "end": 81.44
+      },
+      {
+        "word": "shall",
+        "start_offset": 1022,
+        "end_offset": 1028,
+        "start": 81.76,
+        "end": 82.24
+      },
+      {
+        "word": "we",
+        "start_offset": 1028,
+        "end_offset": 1032,
+        "start": 82.24,
+        "end": 82.56
+      },
+      {
+        "word": "say,",
+        "start_offset": 1036,
+        "end_offset": 1040,
+        "start": 82.88,
+        "end": 83.2
+      },
+      {
+        "word": "experience?",
+        "start_offset": 1081,
+        "end_offset": 1097,
+        "start": 86.48,
+        "end": 87.76
+      },
+      {
+        "word": "Secondly,",
+        "start_offset": 1133,
+        "end_offset": 1146,
+        "start": 90.64,
+        "end": 91.68
+      },
+      {
+        "word": "we",
+        "start_offset": 1173,
+        "end_offset": 1177,
+        "start": 93.84,
+        "end": 94.16
+      },
+      {
+        "word": "may",
+        "start_offset": 1181,
+        "end_offset": 1185,
+        "start": 94.48,
+        "end": 94.8
+      },
+      {
+        "word": "point",
+        "start_offset": 1224,
+        "end_offset": 1228,
+        "start": 97.92,
+        "end": 98.24000000000001
+      },
+      {
+        "word": "out",
+        "start_offset": 1232,
+        "end_offset": 1236,
+        "start": 98.56,
+        "end": 98.88
+      },
+      {
+        "word": "that",
+        "start_offset": 1240,
+        "end_offset": 1244,
+        "start": 99.2,
+        "end": 99.52
+      },
+      {
+        "word": "once",
+        "start_offset": 1259,
+        "end_offset": 1267,
+        "start": 100.72,
+        "end": 101.36
+      },
+      {
+        "word": "we",
+        "start_offset": 1271,
+        "end_offset": 1275,
+        "start": 101.68,
+        "end": 102.0
+      },
+      {
+        "word": "have",
+        "start_offset": 1279,
+        "end_offset": 1283,
+        "start": 102.32000000000001,
+        "end": 102.64
+      },
+      {
+        "word": "miscalled",
+        "start_offset": 1299,
+        "end_offset": 1320,
+        "start": 103.92,
+        "end": 105.60000000000001
+      },
+      {
+        "word": "or",
+        "start_offset": 1336,
+        "end_offset": 1340,
+        "start": 106.88,
+        "end": 107.2
+      },
+      {
+        "word": "misnumbered",
+        "start_offset": 1348,
+        "end_offset": 1375,
+        "start": 107.84,
+        "end": 110.0
+      },
+      {
+        "word": "an",
+        "start_offset": 1411,
+        "end_offset": 1415,
+        "start": 112.88,
+        "end": 113.2
+      },
+      {
+        "word": "event",
+        "start_offset": 1431,
+        "end_offset": 1439,
+        "start": 114.48,
+        "end": 115.12
+      },
+      {
+        "word": "or",
+        "start_offset": 1462,
+        "end_offset": 1466,
+        "start": 116.96000000000001,
+        "end": 117.28
+      },
+      {
+        "word": "a",
+        "start_offset": 1498,
+        "end_offset": 1502,
+        "start": 119.84,
+        "end": 120.16
+      },
+      {
+        "word": "thing",
+        "start_offset": 1506,
+        "end_offset": 1514,
+        "start": 120.48,
+        "end": 121.12
+      },
+      {
+        "word": "that",
+        "start_offset": 1536,
+        "end_offset": 1540,
+        "start": 122.88,
+        "end": 123.2
+      },
+      {
+        "word": "referent",
+        "start_offset": 1552,
+        "end_offset": 1564,
+        "start": 124.16,
+        "end": 125.12
+      },
+      {
+        "word": "is",
+        "start_offset": 1600,
+        "end_offset": 1604,
+        "start": 128.0,
+        "end": 128.32
+      },
+      {
+        "word": "quite",
+        "start_offset": 1616,
+        "end_offset": 1624,
+        "start": 129.28,
+        "end": 129.92000000000002
+      },
+      {
+        "word": "likely",
+        "start_offset": 1628,
+        "end_offset": 1640,
+        "start": 130.24,
+        "end": 131.2
+      },
+      {
+        "word": "to",
+        "start_offset": 1652,
+        "end_offset": 1656,
+        "start": 132.16,
+        "end": 132.48
+      },
+      {
+        "word": "be",
+        "start_offset": 1664,
+        "end_offset": 1668,
+        "start": 133.12,
+        "end": 133.44
+      },
+      {
+        "word": "reused",
+        "start_offset": 1684,
+        "end_offset": 1696,
+        "start": 134.72,
+        "end": 135.68
+      },
+      {
+        "word": "for",
+        "start_offset": 1728,
+        "end_offset": 1732,
+        "start": 138.24,
+        "end": 138.56
+      },
+      {
+        "word": "some",
+        "start_offset": 1744,
+        "end_offset": 1748,
+        "start": 139.52,
+        "end": 139.84
+      },
+      {
+        "word": "a",
+        "start_offset": 1768,
+        "end_offset": 1772,
+        "start": 141.44,
+        "end": 141.76
+      },
+      {
+        "word": "transmission,",
+        "start_offset": 1772,
+        "end_offset": 1784,
+        "start": 141.76,
+        "end": 142.72
+      },
+      {
+        "word": "a",
+        "start_offset": 1808,
+        "end_offset": 1812,
+        "start": 144.64000000000001,
+        "end": 144.96
+      },
+      {
+        "word": "time,",
+        "start_offset": 1812,
+        "end_offset": 1816,
+        "start": 144.96,
+        "end": 145.28
+      },
+      {
+        "word": "as",
+        "start_offset": 1830,
+        "end_offset": 1834,
+        "start": 146.4,
+        "end": 146.72
+      },
+      {
+        "word": "you",
+        "start_offset": 1838,
+        "end_offset": 1842,
+        "start": 147.04,
+        "end": 147.36
+      },
+      {
+        "word": "call",
+        "start_offset": 1846,
+        "end_offset": 1854,
+        "start": 147.68,
+        "end": 148.32
+      },
+      {
+        "word": "this",
+        "start_offset": 1862,
+        "end_offset": 1866,
+        "start": 148.96,
+        "end": 149.28
+      },
+      {
+        "word": "enmeasurement,",
+        "start_offset": 1878,
+        "end_offset": 1895,
+        "start": 150.24,
+        "end": 151.6
+      },
+      {
+        "word": "a",
+        "start_offset": 1913,
+        "end_offset": 1915,
+        "start": 153.04,
+        "end": 153.20000000000002
+      },
+      {
+        "word": "due",
+        "start_offset": 1918,
+        "end_offset": 1921,
+        "start": 153.44,
+        "end": 153.68
+      },
+      {
+        "word": "to",
+        "start_offset": 1931,
+        "end_offset": 1935,
+        "start": 154.48,
+        "end": 154.8
+      },
+      {
+        "word": "our",
+        "start_offset": 1947,
+        "end_offset": 1951,
+        "start": 155.76,
+        "end": 156.08
+      },
+      {
+        "word": "original",
+        "start_offset": 1995,
+        "end_offset": 2011,
+        "start": 159.6,
+        "end": 160.88
+      },
+      {
+        "word": "error",
+        "start_offset": 2019,
+        "end_offset": 2027,
+        "start": 161.52,
+        "end": 162.16
+      },
+      {
+        "word": "having",
+        "start_offset": 2043,
+        "end_offset": 2051,
+        "start": 163.44,
+        "end": 164.08
+      },
+      {
+        "word": "gone",
+        "start_offset": 2058,
+        "end_offset": 2066,
+        "start": 164.64000000000001,
+        "end": 165.28
+      },
+      {
+        "word": "undetected",
+        "start_offset": 2078,
+        "end_offset": 2100,
+        "start": 166.24,
+        "end": 168.0
+      },
+      {
+        "word": "by",
+        "start_offset": 2116,
+        "end_offset": 2120,
+        "start": 169.28,
+        "end": 169.6
+      },
+      {
+        "word": "ourselves.",
+        "start_offset": 2132,
+        "end_offset": 2148,
+        "start": 170.56,
+        "end": 171.84
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "085-14.mp3",
+    "audio_duration": 178.05,
+    "transcription_time": 0.25,
+    "rtfx": 716.6,
+    "timestamp": "2026-01-06T21:57:38.577973+00:00"
+  }
+}

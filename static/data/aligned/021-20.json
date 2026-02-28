@@ -1,0 +1,624 @@
+{
+  "text": "Since it was not perceived it was not necessary to balance this. Is that correct? I am Ra. This is correct. What is necessary to balance is opportunity. When there is ignorance, there is no opportunity. When there exists a potential, then each opportunity shall be balanced, this balancing caused by not only the positive and negative orientations of those offering aid but also the orientation of those requesting aid.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Since it was not perceived it was not necessary to balance this.",
+        "start_offset": 0,
+        "end_offset": 64,
+        "start": 2.96,
+        "end": 6.521
+      },
+      {
+        "segment": "Is that correct?",
+        "start_offset": 65,
+        "end_offset": 81,
+        "start": 6.581,
+        "end": 7.301
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 82,
+        "end_offset": 90,
+        "start": 10.381,
+        "end": 12.222
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 91,
+        "end_offset": 107,
+        "start": 14.642,
+        "end": 17.743
+      },
+      {
+        "segment": "What is necessary to balance is opportunity.",
+        "start_offset": 108,
+        "end_offset": 152,
+        "start": 19.163,
+        "end": 28.704
+      },
+      {
+        "segment": "When there is ignorance, there is no opportunity.",
+        "start_offset": 153,
+        "end_offset": 202,
+        "start": 30.724,
+        "end": 39.846
+      },
+      {
+        "segment": "When there exists a potential, then each opportunity shall be balanced, this balancing caused by not only the positive and negative orientations of those offering aid but also the orientation of those requesting aid.",
+        "start_offset": 203,
+        "end_offset": 419,
+        "start": 41.846,
+        "end": 87.693
+      }
+    ],
+    "word": [
+      {
+        "word": "Since",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.96,
+        "end": 3.18,
+        "score": -5.6382
+      },
+      {
+        "word": "it",
+        "start_offset": 6,
+        "end_offset": 8,
+        "start": 3.2,
+        "end": 3.26,
+        "score": -4.9922
+      },
+      {
+        "word": "was",
+        "start_offset": 9,
+        "end_offset": 12,
+        "start": 3.28,
+        "end": 3.4,
+        "score": -4.1135
+      },
+      {
+        "word": "not",
+        "start_offset": 13,
+        "end_offset": 16,
+        "start": 3.481,
+        "end": 3.701,
+        "score": -4.8461
+      },
+      {
+        "word": "perceived",
+        "start_offset": 17,
+        "end_offset": 26,
+        "start": 3.781,
+        "end": 4.401,
+        "score": -6.2753
+      },
+      {
+        "word": "it",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 4.441,
+        "end": 4.521,
+        "score": -7.7608
+      },
+      {
+        "word": "was",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 4.541,
+        "end": 4.661,
+        "score": -6.4076
+      },
+      {
+        "word": "not",
+        "start_offset": 34,
+        "end_offset": 37,
+        "start": 4.741,
+        "end": 4.941,
+        "score": -7.7401
+      },
+      {
+        "word": "necessary",
+        "start_offset": 38,
+        "end_offset": 47,
+        "start": 5.001,
+        "end": 5.541,
+        "score": -7.3721
+      },
+      {
+        "word": "to",
+        "start_offset": 48,
+        "end_offset": 50,
+        "start": 5.621,
+        "end": 5.681,
+        "score": -9.2416
+      },
+      {
+        "word": "balance",
+        "start_offset": 51,
+        "end_offset": 58,
+        "start": 5.801,
+        "end": 6.281,
+        "score": -8.8183
+      },
+      {
+        "word": "this.",
+        "start_offset": 59,
+        "end_offset": 64,
+        "start": 6.301,
+        "end": 6.521,
+        "score": -9.3305
+      },
+      {
+        "word": "Is",
+        "start_offset": 65,
+        "end_offset": 67,
+        "start": 6.581,
+        "end": 6.661,
+        "score": -9.0885
+      },
+      {
+        "word": "that",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 6.681,
+        "end": 6.861,
+        "score": -9.2573
+      },
+      {
+        "word": "correct?",
+        "start_offset": 73,
+        "end_offset": 81,
+        "start": 6.921,
+        "end": 7.301,
+        "score": -6.469
+      },
+      {
+        "word": "I",
+        "start_offset": 82,
+        "end_offset": 83,
+        "start": 10.381,
+        "end": 10.401,
+        "score": -1.0962
+      },
+      {
+        "word": "am",
+        "start_offset": 84,
+        "end_offset": 86,
+        "start": 11.082,
+        "end": 11.402,
+        "score": -2.9298
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 87,
+        "end_offset": 90,
+        "start": 12.082,
+        "end": 12.222,
+        "score": -1.9873
+      },
+      {
+        "word": "This",
+        "start_offset": 91,
+        "end_offset": 95,
+        "start": 14.642,
+        "end": 15.062,
+        "score": -0.8882
+      },
+      {
+        "word": "is",
+        "start_offset": 96,
+        "end_offset": 98,
+        "start": 16.042,
+        "end": 16.322,
+        "score": -0.7074
+      },
+      {
+        "word": "correct.",
+        "start_offset": 99,
+        "end_offset": 107,
+        "start": 16.842,
+        "end": 17.743,
+        "score": -0.6991
+      },
+      {
+        "word": "What",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 19.163,
+        "end": 19.483,
+        "score": -0.7344
+      },
+      {
+        "word": "is",
+        "start_offset": 113,
+        "end_offset": 115,
+        "start": 19.863,
+        "end": 20.183,
+        "score": -0.7038
+      },
+      {
+        "word": "necessary",
+        "start_offset": 116,
+        "end_offset": 125,
+        "start": 20.783,
+        "end": 22.023,
+        "score": -0.6975
+      },
+      {
+        "word": "to",
+        "start_offset": 126,
+        "end_offset": 128,
+        "start": 23.063,
+        "end": 23.243,
+        "score": -0.6994
+      },
+      {
+        "word": "balance",
+        "start_offset": 129,
+        "end_offset": 136,
+        "start": 23.703,
+        "end": 24.584,
+        "score": -0.7188
+      },
+      {
+        "word": "is",
+        "start_offset": 137,
+        "end_offset": 139,
+        "start": 26.204,
+        "end": 26.544,
+        "score": -0.887
+      },
+      {
+        "word": "opportunity.",
+        "start_offset": 140,
+        "end_offset": 152,
+        "start": 27.284,
+        "end": 28.704,
+        "score": -1.3908
+      },
+      {
+        "word": "When",
+        "start_offset": 153,
+        "end_offset": 157,
+        "start": 30.724,
+        "end": 31.064,
+        "score": -3.2935
+      },
+      {
+        "word": "there",
+        "start_offset": 158,
+        "end_offset": 163,
+        "start": 31.425,
+        "end": 31.845,
+        "score": -3.8795
+      },
+      {
+        "word": "is",
+        "start_offset": 164,
+        "end_offset": 166,
+        "start": 32.245,
+        "end": 32.625,
+        "score": -1.649
+      },
+      {
+        "word": "ignorance,",
+        "start_offset": 167,
+        "end_offset": 177,
+        "start": 33.445,
+        "end": 34.525,
+        "score": -0.8622
+      },
+      {
+        "word": "there",
+        "start_offset": 178,
+        "end_offset": 183,
+        "start": 36.285,
+        "end": 36.645,
+        "score": -1.1768
+      },
+      {
+        "word": "is",
+        "start_offset": 184,
+        "end_offset": 186,
+        "start": 36.925,
+        "end": 37.225,
+        "score": -0.7711
+      },
+      {
+        "word": "no",
+        "start_offset": 187,
+        "end_offset": 189,
+        "start": 37.665,
+        "end": 37.825,
+        "score": -0.7127
+      },
+      {
+        "word": "opportunity.",
+        "start_offset": 190,
+        "end_offset": 202,
+        "start": 38.606,
+        "end": 39.846,
+        "score": -0.7802
+      },
+      {
+        "word": "When",
+        "start_offset": 203,
+        "end_offset": 207,
+        "start": 41.846,
+        "end": 42.166,
+        "score": -0.7124
+      },
+      {
+        "word": "there",
+        "start_offset": 208,
+        "end_offset": 213,
+        "start": 42.466,
+        "end": 42.846,
+        "score": -0.7139
+      },
+      {
+        "word": "exists",
+        "start_offset": 214,
+        "end_offset": 220,
+        "start": 43.126,
+        "end": 44.046,
+        "score": -0.6984
+      },
+      {
+        "word": "a",
+        "start_offset": 221,
+        "end_offset": 222,
+        "start": 44.386,
+        "end": 44.406,
+        "score": -0.7031
+      },
+      {
+        "word": "potential,",
+        "start_offset": 223,
+        "end_offset": 233,
+        "start": 44.746,
+        "end": 45.807,
+        "score": -0.7035
+      },
+      {
+        "word": "then",
+        "start_offset": 234,
+        "end_offset": 238,
+        "start": 48.447,
+        "end": 48.807,
+        "score": -0.719
+      },
+      {
+        "word": "each",
+        "start_offset": 239,
+        "end_offset": 243,
+        "start": 49.647,
+        "end": 49.967,
+        "score": -0.7003
+      },
+      {
+        "word": "opportunity",
+        "start_offset": 244,
+        "end_offset": 255,
+        "start": 50.527,
+        "end": 51.747,
+        "score": -1.7293
+      },
+      {
+        "word": "shall",
+        "start_offset": 256,
+        "end_offset": 261,
+        "start": 52.888,
+        "end": 53.308,
+        "score": -0.7169
+      },
+      {
+        "word": "be",
+        "start_offset": 262,
+        "end_offset": 264,
+        "start": 53.648,
+        "end": 53.748,
+        "score": -0.6945
+      },
+      {
+        "word": "balanced,",
+        "start_offset": 265,
+        "end_offset": 274,
+        "start": 54.208,
+        "end": 55.088,
+        "score": -0.7186
+      },
+      {
+        "word": "this",
+        "start_offset": 275,
+        "end_offset": 279,
+        "start": 56.308,
+        "end": 56.648,
+        "score": -0.7496
+      },
+      {
+        "word": "balancing",
+        "start_offset": 280,
+        "end_offset": 289,
+        "start": 57.028,
+        "end": 58.068,
+        "score": -0.7185
+      },
+      {
+        "word": "caused",
+        "start_offset": 290,
+        "end_offset": 296,
+        "start": 59.929,
+        "end": 60.629,
+        "score": -0.7026
+      },
+      {
+        "word": "by",
+        "start_offset": 297,
+        "end_offset": 299,
+        "start": 60.829,
+        "end": 61.349,
+        "score": -0.7677
+      },
+      {
+        "word": "not",
+        "start_offset": 300,
+        "end_offset": 303,
+        "start": 62.329,
+        "end": 62.649,
+        "score": -0.6991
+      },
+      {
+        "word": "only",
+        "start_offset": 304,
+        "end_offset": 308,
+        "start": 62.929,
+        "end": 63.369,
+        "score": -3.7477
+      },
+      {
+        "word": "the",
+        "start_offset": 309,
+        "end_offset": 312,
+        "start": 64.529,
+        "end": 64.669,
+        "score": -0.7902
+      },
+      {
+        "word": "positive",
+        "start_offset": 313,
+        "end_offset": 321,
+        "start": 65.109,
+        "end": 66.23,
+        "score": -0.6962
+      },
+      {
+        "word": "and",
+        "start_offset": 322,
+        "end_offset": 325,
+        "start": 66.91,
+        "end": 67.17,
+        "score": -3.5653
+      },
+      {
+        "word": "negative",
+        "start_offset": 326,
+        "end_offset": 334,
+        "start": 67.41,
+        "end": 68.43,
+        "score": -0.7091
+      },
+      {
+        "word": "orientations",
+        "start_offset": 335,
+        "end_offset": 347,
+        "start": 69.31,
+        "end": 71.07,
+        "score": -0.7116
+      },
+      {
+        "word": "of",
+        "start_offset": 348,
+        "end_offset": 350,
+        "start": 71.85,
+        "end": 72.07,
+        "score": -5.7991
+      },
+      {
+        "word": "those",
+        "start_offset": 351,
+        "end_offset": 356,
+        "start": 72.35,
+        "end": 72.971,
+        "score": -0.7063
+      },
+      {
+        "word": "offering",
+        "start_offset": 357,
+        "end_offset": 365,
+        "start": 74.011,
+        "end": 74.851,
+        "score": -0.7023
+      },
+      {
+        "word": "aid",
+        "start_offset": 366,
+        "end_offset": 369,
+        "start": 75.791,
+        "end": 76.231,
+        "score": -1.0561
+      },
+      {
+        "word": "but",
+        "start_offset": 370,
+        "end_offset": 373,
+        "start": 77.351,
+        "end": 77.691,
+        "score": -0.6966
+      },
+      {
+        "word": "also",
+        "start_offset": 374,
+        "end_offset": 378,
+        "start": 78.191,
+        "end": 78.711,
+        "score": -3.4466
+      },
+      {
+        "word": "the",
+        "start_offset": 379,
+        "end_offset": 382,
+        "start": 80.112,
+        "end": 80.252,
+        "score": -0.7445
+      },
+      {
+        "word": "orientation",
+        "start_offset": 383,
+        "end_offset": 394,
+        "start": 80.692,
+        "end": 82.192,
+        "score": -0.7306
+      },
+      {
+        "word": "of",
+        "start_offset": 395,
+        "end_offset": 397,
+        "start": 83.432,
+        "end": 83.632,
+        "score": -6.4627
+      },
+      {
+        "word": "those",
+        "start_offset": 398,
+        "end_offset": 403,
+        "start": 83.932,
+        "end": 84.532,
+        "score": -0.7084
+      },
+      {
+        "word": "requesting",
+        "start_offset": 404,
+        "end_offset": 414,
+        "start": 85.332,
+        "end": 86.572,
+        "score": -0.7181
+      },
+      {
+        "word": "aid.",
+        "start_offset": 415,
+        "end_offset": 419,
+        "start": 87.313,
+        "end": 87.693,
+        "score": -1.1254
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "021-20.mp3",
+    "audio_duration": 88.0327,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

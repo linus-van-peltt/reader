@@ -1,0 +1,116 @@
+{
+  "text": "Is it also used for healing? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is it also used for healing?",
+        "start_offset": 0,
+        "end_offset": 28,
+        "start": 1.621,
+        "end": 2.981
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 29,
+        "end_offset": 37,
+        "start": 6.862,
+        "end": 9.203
+      },
+      {
+        "segment": "No.",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 12.064,
+        "end": 12.184
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 1.621,
+        "end": 1.681,
+        "score": -1.941
+      },
+      {
+        "word": "it",
+        "start_offset": 3,
+        "end_offset": 5,
+        "start": 1.721,
+        "end": 1.801,
+        "score": -1.0196
+      },
+      {
+        "word": "also",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 1.881,
+        "end": 2.081,
+        "score": -0.7586
+      },
+      {
+        "word": "used",
+        "start_offset": 11,
+        "end_offset": 15,
+        "start": 2.261,
+        "end": 2.421,
+        "score": -0.7144
+      },
+      {
+        "word": "for",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 2.461,
+        "end": 2.561,
+        "score": -0.8413
+      },
+      {
+        "word": "healing?",
+        "start_offset": 20,
+        "end_offset": 28,
+        "start": 2.621,
+        "end": 2.981,
+        "score": -2.0753
+      },
+      {
+        "word": "I",
+        "start_offset": 29,
+        "end_offset": 30,
+        "start": 6.862,
+        "end": 6.882,
+        "score": -1.172
+      },
+      {
+        "word": "am",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 7.943,
+        "end": 8.183,
+        "score": -1.5905
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 34,
+        "end_offset": 37,
+        "start": 9.103,
+        "end": 9.203,
+        "score": -2.0858
+      },
+      {
+        "word": "No.",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 12.064,
+        "end": 12.184,
+        "score": -1.7419
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "058-22.mp3",
+    "audio_duration": 28.0294,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "text": "Are all of these men black men uh used by the Orion Crusaders? I him wow. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Are all of these men black men uh used by the Orion Crusaders?",
+        "start_offset": 16,
+        "end_offset": 88,
+        "start": 1.28,
+        "end": 7.04
+      },
+      {
+        "segment": "I him wow.",
+        "start_offset": 147,
+        "end_offset": 179,
+        "start": 11.76,
+        "end": 14.32
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 194,
+        "end_offset": 228,
+        "start": 15.52,
+        "end": 18.240000000000002
+      }
+    ],
+    "word": [
+      {
+        "word": "Are",
+        "start_offset": 16,
+        "end_offset": 22,
+        "start": 1.28,
+        "end": 1.76
+      },
+      {
+        "word": "all",
+        "start_offset": 22,
+        "end_offset": 24,
+        "start": 1.76,
+        "end": 1.92
+      },
+      {
+        "word": "of",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 1.92,
+        "end": 2.08
+      },
+      {
+        "word": "these",
+        "start_offset": 26,
+        "end_offset": 29,
+        "start": 2.08,
+        "end": 2.32
+      },
+      {
+        "word": "men",
+        "start_offset": 29,
+        "end_offset": 32,
+        "start": 2.32,
+        "end": 2.56
+      },
+      {
+        "word": "black",
+        "start_offset": 34,
+        "end_offset": 42,
+        "start": 2.72,
+        "end": 3.36
+      },
+      {
+        "word": "men",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 3.36,
+        "end": 3.68
+      },
+      {
+        "word": "uh",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 4.08,
+        "end": 4.32
+      },
+      {
+        "word": "used",
+        "start_offset": 58,
+        "end_offset": 63,
+        "start": 4.64,
+        "end": 5.04
+      },
+      {
+        "word": "by",
+        "start_offset": 63,
+        "end_offset": 64,
+        "start": 5.04,
+        "end": 5.12
+      },
+      {
+        "word": "the",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 5.2,
+        "end": 5.44
+      },
+      {
+        "word": "Orion",
+        "start_offset": 68,
+        "end_offset": 77,
+        "start": 5.44,
+        "end": 6.16
+      },
+      {
+        "word": "Crusaders?",
+        "start_offset": 77,
+        "end_offset": 88,
+        "start": 6.16,
+        "end": 7.04
+      },
+      {
+        "word": "I",
+        "start_offset": 147,
+        "end_offset": 150,
+        "start": 11.76,
+        "end": 12.0
+      },
+      {
+        "word": "him",
+        "start_offset": 160,
+        "end_offset": 163,
+        "start": 12.8,
+        "end": 13.040000000000001
+      },
+      {
+        "word": "wow.",
+        "start_offset": 170,
+        "end_offset": 179,
+        "start": 13.6,
+        "end": 14.32
+      },
+      {
+        "word": "This",
+        "start_offset": 194,
+        "end_offset": 198,
+        "start": 15.52,
+        "end": 15.84
+      },
+      {
+        "word": "is",
+        "start_offset": 206,
+        "end_offset": 210,
+        "start": 16.48,
+        "end": 16.8
+      },
+      {
+        "word": "correct.",
+        "start_offset": 218,
+        "end_offset": 228,
+        "start": 17.44,
+        "end": 18.240000000000002
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "012-22.mp3",
+    "audio_duration": 19.04,
+    "transcription_time": 0.08,
+    "rtfx": 229.5,
+    "timestamp": "2026-01-06T21:46:58.744339+00:00"
+  }
+}

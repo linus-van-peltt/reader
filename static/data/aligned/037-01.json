@@ -1,0 +1,228 @@
+{
+  "text": "Is Ra familiar with the results of our efforts today to publish the first book that we did? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is Ra familiar with the results of our efforts today to publish the first book that we did?",
+        "start_offset": 0,
+        "end_offset": 91,
+        "start": 2.081,
+        "end": 10.843
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 92,
+        "end_offset": 100,
+        "start": 23.726,
+        "end": 25.387
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 101,
+        "end_offset": 117,
+        "start": 28.668,
+        "end": 31.268
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.081,
+        "end": 2.321,
+        "score": -0.8131
+      },
+      {
+        "word": "Ra",
+        "start_offset": 3,
+        "end_offset": 5,
+        "start": 2.601,
+        "end": 2.741,
+        "score": -0.7691
+      },
+      {
+        "word": "familiar",
+        "start_offset": 6,
+        "end_offset": 14,
+        "start": 2.901,
+        "end": 3.441,
+        "score": -0.7527
+      },
+      {
+        "word": "with",
+        "start_offset": 15,
+        "end_offset": 19,
+        "start": 3.501,
+        "end": 3.801,
+        "score": -0.8286
+      },
+      {
+        "word": "the",
+        "start_offset": 20,
+        "end_offset": 23,
+        "start": 5.161,
+        "end": 5.281,
+        "score": -0.7696
+      },
+      {
+        "word": "results",
+        "start_offset": 24,
+        "end_offset": 31,
+        "start": 5.341,
+        "end": 6.002,
+        "score": -0.7084
+      },
+      {
+        "word": "of",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 6.702,
+        "end": 6.782,
+        "score": -0.7112
+      },
+      {
+        "word": "our",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 6.842,
+        "end": 6.962,
+        "score": -0.8422
+      },
+      {
+        "word": "efforts",
+        "start_offset": 39,
+        "end_offset": 46,
+        "start": 7.062,
+        "end": 7.402,
+        "score": -0.8056
+      },
+      {
+        "word": "today",
+        "start_offset": 47,
+        "end_offset": 52,
+        "start": 7.482,
+        "end": 7.822,
+        "score": -0.7003
+      },
+      {
+        "word": "to",
+        "start_offset": 53,
+        "end_offset": 55,
+        "start": 7.882,
+        "end": 7.962,
+        "score": -0.7008
+      },
+      {
+        "word": "publish",
+        "start_offset": 56,
+        "end_offset": 63,
+        "start": 8.042,
+        "end": 8.462,
+        "score": -0.7236
+      },
+      {
+        "word": "the",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 8.542,
+        "end": 8.642,
+        "score": -0.793
+      },
+      {
+        "word": "first",
+        "start_offset": 68,
+        "end_offset": 73,
+        "start": 8.702,
+        "end": 9.022,
+        "score": -0.7026
+      },
+      {
+        "word": "book",
+        "start_offset": 74,
+        "end_offset": 78,
+        "start": 9.903,
+        "end": 10.123,
+        "score": -0.7694
+      },
+      {
+        "word": "that",
+        "start_offset": 79,
+        "end_offset": 83,
+        "start": 10.183,
+        "end": 10.323,
+        "score": -0.8721
+      },
+      {
+        "word": "we",
+        "start_offset": 84,
+        "end_offset": 86,
+        "start": 10.383,
+        "end": 10.463,
+        "score": -0.7218
+      },
+      {
+        "word": "did?",
+        "start_offset": 87,
+        "end_offset": 91,
+        "start": 10.563,
+        "end": 10.843,
+        "score": -0.699
+      },
+      {
+        "word": "I",
+        "start_offset": 92,
+        "end_offset": 93,
+        "start": 23.726,
+        "end": 23.746,
+        "score": -1.2424
+      },
+      {
+        "word": "am",
+        "start_offset": 94,
+        "end_offset": 96,
+        "start": 24.306,
+        "end": 24.627,
+        "score": -4.2879
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 97,
+        "end_offset": 100,
+        "start": 25.247,
+        "end": 25.387,
+        "score": -1.5385
+      },
+      {
+        "word": "This",
+        "start_offset": 101,
+        "end_offset": 105,
+        "start": 28.668,
+        "end": 29.008,
+        "score": -1.2061
+      },
+      {
+        "word": "is",
+        "start_offset": 106,
+        "end_offset": 108,
+        "start": 29.828,
+        "end": 30.088,
+        "score": -0.8511
+      },
+      {
+        "word": "correct.",
+        "start_offset": 109,
+        "end_offset": 117,
+        "start": 30.648,
+        "end": 31.268,
+        "score": -0.8664
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "037-01.mp3",
+    "audio_duration": 32.5486,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

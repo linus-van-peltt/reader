@@ -1,0 +1,149 @@
+{
+  "text": "Rock number ninety-six, September ninth, nineteen eighty-two. Light of the one infinite creator. We communicate now.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Rock number ninety-six, September ninth, nineteen eighty-two.",
+        "start_offset": 115,
+        "end_offset": 166,
+        "start": 9.200000000000001,
+        "end": 13.280000000000001
+      },
+      {
+        "segment": "Light of the one infinite creator.",
+        "start_offset": 180,
+        "end_offset": 286,
+        "start": 14.4,
+        "end": 22.88
+      },
+      {
+        "segment": "We communicate now.",
+        "start_offset": 318,
+        "end_offset": 350,
+        "start": 25.44,
+        "end": 28.0
+      }
+    ],
+    "word": [
+      {
+        "word": "Rock",
+        "start_offset": 115,
+        "end_offset": 121,
+        "start": 9.200000000000001,
+        "end": 9.68
+      },
+      {
+        "word": "number",
+        "start_offset": 124,
+        "end_offset": 126,
+        "start": 9.92,
+        "end": 10.08
+      },
+      {
+        "word": "ninety-six,",
+        "start_offset": 128,
+        "end_offset": 137,
+        "start": 10.24,
+        "end": 10.96
+      },
+      {
+        "word": "September",
+        "start_offset": 139,
+        "end_offset": 146,
+        "start": 11.120000000000001,
+        "end": 11.68
+      },
+      {
+        "word": "ninth,",
+        "start_offset": 146,
+        "end_offset": 153,
+        "start": 11.68,
+        "end": 12.24
+      },
+      {
+        "word": "nineteen",
+        "start_offset": 154,
+        "end_offset": 160,
+        "start": 12.32,
+        "end": 12.8
+      },
+      {
+        "word": "eighty-two.",
+        "start_offset": 160,
+        "end_offset": 166,
+        "start": 12.8,
+        "end": 13.280000000000001
+      },
+      {
+        "word": "Light",
+        "start_offset": 180,
+        "end_offset": 187,
+        "start": 14.4,
+        "end": 14.96
+      },
+      {
+        "word": "of",
+        "start_offset": 219,
+        "end_offset": 223,
+        "start": 17.52,
+        "end": 17.84
+      },
+      {
+        "word": "the",
+        "start_offset": 231,
+        "end_offset": 235,
+        "start": 18.48,
+        "end": 18.8
+      },
+      {
+        "word": "one",
+        "start_offset": 243,
+        "end_offset": 247,
+        "start": 19.44,
+        "end": 19.76
+      },
+      {
+        "word": "infinite",
+        "start_offset": 258,
+        "end_offset": 270,
+        "start": 20.64,
+        "end": 21.6
+      },
+      {
+        "word": "creator.",
+        "start_offset": 274,
+        "end_offset": 286,
+        "start": 21.92,
+        "end": 22.88
+      },
+      {
+        "word": "We",
+        "start_offset": 318,
+        "end_offset": 322,
+        "start": 25.44,
+        "end": 25.76
+      },
+      {
+        "word": "communicate",
+        "start_offset": 326,
+        "end_offset": 344,
+        "start": 26.080000000000002,
+        "end": 27.52
+      },
+      {
+        "word": "now.",
+        "start_offset": 347,
+        "end_offset": 350,
+        "start": 27.76,
+        "end": 28.0
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "096-00.mp3",
+    "audio_duration": 32.03,
+    "transcription_time": 0.1,
+    "rtfx": 313.25,
+    "timestamp": "2026-01-06T21:59:42.624914+00:00"
+  }
+}

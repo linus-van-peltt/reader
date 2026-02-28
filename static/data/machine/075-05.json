@@ -1,0 +1,408 @@
+{
+  "text": "I see the way to do this as a visualization of the operating room and a visualization of the three of us performing the vanishing ritual in the room as we perform it in another location. Is this the correct procedure? I am this is one correct method of achieving your desired configuration.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I see the way to do this as a visualization of the operating room and a visualization of the three of us performing the vanishing ritual in the room as we perform it in another location.",
+        "start_offset": 27,
+        "end_offset": 388,
+        "start": 2.16,
+        "end": 31.04
+      },
+      {
+        "segment": "Is this the correct procedure?",
+        "start_offset": 407,
+        "end_offset": 434,
+        "start": 32.56,
+        "end": 34.72
+      },
+      {
+        "segment": "I am this is one correct method of achieving your desired configuration.",
+        "start_offset": 463,
+        "end_offset": 783,
+        "start": 37.04,
+        "end": 62.64
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 2.16,
+        "end": 2.48
+      },
+      {
+        "word": "see",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 2.48,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "the",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 2.8000000000000003,
+        "end": 3.12
+      },
+      {
+        "word": "way",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 3.12,
+        "end": 3.36
+      },
+      {
+        "word": "to",
+        "start_offset": 42,
+        "end_offset": 44,
+        "start": 3.36,
+        "end": 3.52
+      },
+      {
+        "word": "do",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 3.84,
+        "end": 4.16
+      },
+      {
+        "word": "this",
+        "start_offset": 52,
+        "end_offset": 56,
+        "start": 4.16,
+        "end": 4.48
+      },
+      {
+        "word": "as",
+        "start_offset": 64,
+        "end_offset": 68,
+        "start": 5.12,
+        "end": 5.44
+      },
+      {
+        "word": "a",
+        "start_offset": 92,
+        "end_offset": 96,
+        "start": 7.36,
+        "end": 7.68
+      },
+      {
+        "word": "visualization",
+        "start_offset": 100,
+        "end_offset": 116,
+        "start": 8.0,
+        "end": 9.28
+      },
+      {
+        "word": "of",
+        "start_offset": 116,
+        "end_offset": 120,
+        "start": 9.28,
+        "end": 9.6
+      },
+      {
+        "word": "the",
+        "start_offset": 120,
+        "end_offset": 124,
+        "start": 9.6,
+        "end": 9.92
+      },
+      {
+        "word": "operating",
+        "start_offset": 140,
+        "end_offset": 154,
+        "start": 11.200000000000001,
+        "end": 12.32
+      },
+      {
+        "word": "room",
+        "start_offset": 154,
+        "end_offset": 161,
+        "start": 12.32,
+        "end": 12.88
+      },
+      {
+        "word": "and",
+        "start_offset": 165,
+        "end_offset": 169,
+        "start": 13.200000000000001,
+        "end": 13.52
+      },
+      {
+        "word": "a",
+        "start_offset": 189,
+        "end_offset": 193,
+        "start": 15.120000000000001,
+        "end": 15.44
+      },
+      {
+        "word": "visualization",
+        "start_offset": 196,
+        "end_offset": 212,
+        "start": 15.68,
+        "end": 16.96
+      },
+      {
+        "word": "of",
+        "start_offset": 232,
+        "end_offset": 236,
+        "start": 18.56,
+        "end": 18.88
+      },
+      {
+        "word": "the",
+        "start_offset": 256,
+        "end_offset": 260,
+        "start": 20.48,
+        "end": 20.8
+      },
+      {
+        "word": "three",
+        "start_offset": 280,
+        "end_offset": 288,
+        "start": 22.400000000000002,
+        "end": 23.04
+      },
+      {
+        "word": "of",
+        "start_offset": 288,
+        "end_offset": 292,
+        "start": 23.04,
+        "end": 23.36
+      },
+      {
+        "word": "us",
+        "start_offset": 292,
+        "end_offset": 296,
+        "start": 23.36,
+        "end": 23.68
+      },
+      {
+        "word": "performing",
+        "start_offset": 300,
+        "end_offset": 312,
+        "start": 24.0,
+        "end": 24.96
+      },
+      {
+        "word": "the",
+        "start_offset": 312,
+        "end_offset": 316,
+        "start": 24.96,
+        "end": 25.28
+      },
+      {
+        "word": "vanishing",
+        "start_offset": 316,
+        "end_offset": 325,
+        "start": 25.28,
+        "end": 26.0
+      },
+      {
+        "word": "ritual",
+        "start_offset": 325,
+        "end_offset": 333,
+        "start": 26.0,
+        "end": 26.64
+      },
+      {
+        "word": "in",
+        "start_offset": 333,
+        "end_offset": 336,
+        "start": 26.64,
+        "end": 26.88
+      },
+      {
+        "word": "the",
+        "start_offset": 336,
+        "end_offset": 339,
+        "start": 26.88,
+        "end": 27.12
+      },
+      {
+        "word": "room",
+        "start_offset": 339,
+        "end_offset": 347,
+        "start": 27.12,
+        "end": 27.76
+      },
+      {
+        "word": "as",
+        "start_offset": 347,
+        "end_offset": 350,
+        "start": 27.76,
+        "end": 28.0
+      },
+      {
+        "word": "we",
+        "start_offset": 350,
+        "end_offset": 353,
+        "start": 28.0,
+        "end": 28.240000000000002
+      },
+      {
+        "word": "perform",
+        "start_offset": 353,
+        "end_offset": 359,
+        "start": 28.240000000000002,
+        "end": 28.72
+      },
+      {
+        "word": "it",
+        "start_offset": 359,
+        "end_offset": 362,
+        "start": 28.72,
+        "end": 28.96
+      },
+      {
+        "word": "in",
+        "start_offset": 362,
+        "end_offset": 365,
+        "start": 28.96,
+        "end": 29.2
+      },
+      {
+        "word": "another",
+        "start_offset": 365,
+        "end_offset": 376,
+        "start": 29.2,
+        "end": 30.080000000000002
+      },
+      {
+        "word": "location.",
+        "start_offset": 376,
+        "end_offset": 388,
+        "start": 30.080000000000002,
+        "end": 31.04
+      },
+      {
+        "word": "Is",
+        "start_offset": 407,
+        "end_offset": 411,
+        "start": 32.56,
+        "end": 32.88
+      },
+      {
+        "word": "this",
+        "start_offset": 411,
+        "end_offset": 415,
+        "start": 32.88,
+        "end": 33.2
+      },
+      {
+        "word": "the",
+        "start_offset": 415,
+        "end_offset": 417,
+        "start": 33.2,
+        "end": 33.36
+      },
+      {
+        "word": "correct",
+        "start_offset": 417,
+        "end_offset": 423,
+        "start": 33.36,
+        "end": 33.84
+      },
+      {
+        "word": "procedure?",
+        "start_offset": 423,
+        "end_offset": 434,
+        "start": 33.84,
+        "end": 34.72
+      },
+      {
+        "word": "I",
+        "start_offset": 463,
+        "end_offset": 467,
+        "start": 37.04,
+        "end": 37.36
+      },
+      {
+        "word": "am",
+        "start_offset": 476,
+        "end_offset": 479,
+        "start": 38.08,
+        "end": 38.32
+      },
+      {
+        "word": "this",
+        "start_offset": 528,
+        "end_offset": 532,
+        "start": 42.24,
+        "end": 42.56
+      },
+      {
+        "word": "is",
+        "start_offset": 560,
+        "end_offset": 564,
+        "start": 44.800000000000004,
+        "end": 45.12
+      },
+      {
+        "word": "one",
+        "start_offset": 588,
+        "end_offset": 592,
+        "start": 47.04,
+        "end": 47.36
+      },
+      {
+        "word": "correct",
+        "start_offset": 609,
+        "end_offset": 620,
+        "start": 48.72,
+        "end": 49.6
+      },
+      {
+        "word": "method",
+        "start_offset": 640,
+        "end_offset": 648,
+        "start": 51.2,
+        "end": 51.84
+      },
+      {
+        "word": "of",
+        "start_offset": 672,
+        "end_offset": 676,
+        "start": 53.76,
+        "end": 54.08
+      },
+      {
+        "word": "achieving",
+        "start_offset": 680,
+        "end_offset": 695,
+        "start": 54.4,
+        "end": 55.6
+      },
+      {
+        "word": "your",
+        "start_offset": 711,
+        "end_offset": 715,
+        "start": 56.88,
+        "end": 57.2
+      },
+      {
+        "word": "desired",
+        "start_offset": 731,
+        "end_offset": 743,
+        "start": 58.480000000000004,
+        "end": 59.44
+      },
+      {
+        "word": "configuration.",
+        "start_offset": 763,
+        "end_offset": 783,
+        "start": 61.04,
+        "end": 62.64
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "075-05.mp3",
+    "audio_duration": 64.03,
+    "transcription_time": 0.13,
+    "rtfx": 506.11,
+    "timestamp": "2026-01-06T21:55:42.052721+00:00"
+  }
+}

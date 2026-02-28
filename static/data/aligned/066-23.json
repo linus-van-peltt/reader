@@ -1,0 +1,540 @@
+{
+  "text": "Is there a best material or optimal size for the small pyramid to go beneath the head? I am Ra. Given that the proportions are such as to develop the spirals in the Giza pyramid, the most appropriate size for use beneath the head is an overall height small enough to make placing it under the cushion of the head a comfortable thing.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there a best material or optimal size for the small pyramid to go beneath the head?",
+        "start_offset": 0,
+        "end_offset": 86,
+        "start": 2.421,
+        "end": 18.725
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 87,
+        "end_offset": 95,
+        "start": 19.185,
+        "end": 19.385
+      },
+      {
+        "segment": "Given that the proportions are such as to develop the spirals in the Giza pyramid, the most appropriate size for use beneath the head is an overall height small enough to make placing it under the cushion of the head a comfortable thing.",
+        "start_offset": 96,
+        "end_offset": 333,
+        "start": 21.705,
+        "end": 67.717
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.421,
+        "end": 2.521,
+        "score": -5.0718
+      },
+      {
+        "word": "there",
+        "start_offset": 3,
+        "end_offset": 8,
+        "start": 2.601,
+        "end": 2.821,
+        "score": -4.8734
+      },
+      {
+        "word": "a",
+        "start_offset": 9,
+        "end_offset": 10,
+        "start": 2.941,
+        "end": 2.961,
+        "score": -6.5473
+      },
+      {
+        "word": "best",
+        "start_offset": 11,
+        "end_offset": 15,
+        "start": 5.021,
+        "end": 5.401,
+        "score": -6.0327
+      },
+      {
+        "word": "material",
+        "start_offset": 16,
+        "end_offset": 24,
+        "start": 5.741,
+        "end": 6.382,
+        "score": -4.9037
+      },
+      {
+        "word": "or",
+        "start_offset": 25,
+        "end_offset": 27,
+        "start": 6.762,
+        "end": 6.902,
+        "score": -4.8573
+      },
+      {
+        "word": "optimal",
+        "start_offset": 28,
+        "end_offset": 35,
+        "start": 7.622,
+        "end": 9.002,
+        "score": -5.1682
+      },
+      {
+        "word": "size",
+        "start_offset": 36,
+        "end_offset": 40,
+        "start": 9.422,
+        "end": 9.882,
+        "score": -7.2453
+      },
+      {
+        "word": "for",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 9.943,
+        "end": 10.063,
+        "score": -5.2855
+      },
+      {
+        "word": "the",
+        "start_offset": 45,
+        "end_offset": 48,
+        "start": 10.103,
+        "end": 10.163,
+        "score": -4.4066
+      },
+      {
+        "word": "small",
+        "start_offset": 49,
+        "end_offset": 54,
+        "start": 10.263,
+        "end": 10.563,
+        "score": -5.3347
+      },
+      {
+        "word": "pyramid",
+        "start_offset": 55,
+        "end_offset": 62,
+        "start": 10.683,
+        "end": 11.163,
+        "score": -6.0182
+      },
+      {
+        "word": "to",
+        "start_offset": 63,
+        "end_offset": 65,
+        "start": 12.283,
+        "end": 12.343,
+        "score": -8.5111
+      },
+      {
+        "word": "go",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 12.423,
+        "end": 12.523,
+        "score": -8.2155
+      },
+      {
+        "word": "beneath",
+        "start_offset": 69,
+        "end_offset": 76,
+        "start": 12.663,
+        "end": 12.983,
+        "score": -6.7664
+      },
+      {
+        "word": "the",
+        "start_offset": 77,
+        "end_offset": 80,
+        "start": 17.524,
+        "end": 17.644,
+        "score": -4.7404
+      },
+      {
+        "word": "head?",
+        "start_offset": 81,
+        "end_offset": 86,
+        "start": 18.345,
+        "end": 18.725,
+        "score": -4.9054
+      },
+      {
+        "word": "I",
+        "start_offset": 87,
+        "end_offset": 88,
+        "start": 19.185,
+        "end": 19.205,
+        "score": -6.9891
+      },
+      {
+        "word": "am",
+        "start_offset": 89,
+        "end_offset": 91,
+        "start": 19.225,
+        "end": 19.265,
+        "score": -3.7682
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 92,
+        "end_offset": 95,
+        "start": 19.305,
+        "end": 19.385,
+        "score": -2.1229
+      },
+      {
+        "word": "Given",
+        "start_offset": 96,
+        "end_offset": 101,
+        "start": 21.705,
+        "end": 22.066,
+        "score": -0.6963
+      },
+      {
+        "word": "that",
+        "start_offset": 102,
+        "end_offset": 106,
+        "start": 22.506,
+        "end": 22.866,
+        "score": -0.7054
+      },
+      {
+        "word": "the",
+        "start_offset": 107,
+        "end_offset": 110,
+        "start": 23.186,
+        "end": 23.326,
+        "score": -0.8095
+      },
+      {
+        "word": "proportions",
+        "start_offset": 111,
+        "end_offset": 122,
+        "start": 23.906,
+        "end": 24.886,
+        "score": -0.7441
+      },
+      {
+        "word": "are",
+        "start_offset": 123,
+        "end_offset": 126,
+        "start": 25.987,
+        "end": 26.227,
+        "score": -0.7162
+      },
+      {
+        "word": "such",
+        "start_offset": 127,
+        "end_offset": 131,
+        "start": 26.467,
+        "end": 26.827,
+        "score": -0.6941
+      },
+      {
+        "word": "as",
+        "start_offset": 132,
+        "end_offset": 134,
+        "start": 27.087,
+        "end": 27.387,
+        "score": -0.7001
+      },
+      {
+        "word": "to",
+        "start_offset": 135,
+        "end_offset": 137,
+        "start": 27.547,
+        "end": 27.687,
+        "score": -0.7001
+      },
+      {
+        "word": "develop",
+        "start_offset": 138,
+        "end_offset": 145,
+        "start": 28.447,
+        "end": 29.027,
+        "score": -0.6998
+      },
+      {
+        "word": "the",
+        "start_offset": 146,
+        "end_offset": 149,
+        "start": 30.008,
+        "end": 30.128,
+        "score": -0.7576
+      },
+      {
+        "word": "spirals",
+        "start_offset": 150,
+        "end_offset": 157,
+        "start": 30.588,
+        "end": 31.388,
+        "score": -0.8415
+      },
+      {
+        "word": "in",
+        "start_offset": 158,
+        "end_offset": 160,
+        "start": 32.528,
+        "end": 32.728,
+        "score": -0.7054
+      },
+      {
+        "word": "the",
+        "start_offset": 161,
+        "end_offset": 164,
+        "start": 33.148,
+        "end": 33.268,
+        "score": -0.8067
+      },
+      {
+        "word": "Giza",
+        "start_offset": 165,
+        "end_offset": 169,
+        "start": 34.329,
+        "end": 34.769,
+        "score": -1.5926
+      },
+      {
+        "word": "pyramid,",
+        "start_offset": 170,
+        "end_offset": 178,
+        "start": 35.509,
+        "end": 36.189,
+        "score": -0.7209
+      },
+      {
+        "word": "the",
+        "start_offset": 179,
+        "end_offset": 182,
+        "start": 37.389,
+        "end": 37.509,
+        "score": -0.7394
+      },
+      {
+        "word": "most",
+        "start_offset": 183,
+        "end_offset": 187,
+        "start": 38.11,
+        "end": 38.57,
+        "score": -0.6987
+      },
+      {
+        "word": "appropriate",
+        "start_offset": 188,
+        "end_offset": 199,
+        "start": 39.39,
+        "end": 40.39,
+        "score": -0.7675
+      },
+      {
+        "word": "size",
+        "start_offset": 200,
+        "end_offset": 204,
+        "start": 41.11,
+        "end": 41.63,
+        "score": -1.2328
+      },
+      {
+        "word": "for",
+        "start_offset": 205,
+        "end_offset": 208,
+        "start": 41.851,
+        "end": 42.211,
+        "score": -0.7027
+      },
+      {
+        "word": "use",
+        "start_offset": 209,
+        "end_offset": 212,
+        "start": 42.631,
+        "end": 42.951,
+        "score": -0.747
+      },
+      {
+        "word": "beneath",
+        "start_offset": 213,
+        "end_offset": 220,
+        "start": 44.231,
+        "end": 44.771,
+        "score": -0.7219
+      },
+      {
+        "word": "the",
+        "start_offset": 221,
+        "end_offset": 224,
+        "start": 45.031,
+        "end": 45.151,
+        "score": -0.8162
+      },
+      {
+        "word": "head",
+        "start_offset": 225,
+        "end_offset": 229,
+        "start": 45.331,
+        "end": 45.691,
+        "score": -0.7527
+      },
+      {
+        "word": "is",
+        "start_offset": 230,
+        "end_offset": 232,
+        "start": 46.992,
+        "end": 47.272,
+        "score": -0.7653
+      },
+      {
+        "word": "an",
+        "start_offset": 233,
+        "end_offset": 235,
+        "start": 47.692,
+        "end": 47.912,
+        "score": -0.9923
+      },
+      {
+        "word": "overall",
+        "start_offset": 236,
+        "end_offset": 243,
+        "start": 49.452,
+        "end": 50.073,
+        "score": -0.7777
+      },
+      {
+        "word": "height",
+        "start_offset": 244,
+        "end_offset": 250,
+        "start": 50.713,
+        "end": 51.133,
+        "score": -0.9841
+      },
+      {
+        "word": "small",
+        "start_offset": 251,
+        "end_offset": 256,
+        "start": 52.273,
+        "end": 52.733,
+        "score": -0.7133
+      },
+      {
+        "word": "enough",
+        "start_offset": 257,
+        "end_offset": 263,
+        "start": 52.953,
+        "end": 53.393,
+        "score": -1.2633
+      },
+      {
+        "word": "to",
+        "start_offset": 264,
+        "end_offset": 266,
+        "start": 53.734,
+        "end": 53.874,
+        "score": -0.6984
+      },
+      {
+        "word": "make",
+        "start_offset": 267,
+        "end_offset": 271,
+        "start": 54.774,
+        "end": 55.154,
+        "score": -0.6968
+      },
+      {
+        "word": "placing",
+        "start_offset": 272,
+        "end_offset": 279,
+        "start": 55.794,
+        "end": 56.354,
+        "score": -0.7107
+      },
+      {
+        "word": "it",
+        "start_offset": 280,
+        "end_offset": 282,
+        "start": 56.634,
+        "end": 56.854,
+        "score": -0.7057
+      },
+      {
+        "word": "under",
+        "start_offset": 283,
+        "end_offset": 288,
+        "start": 57.655,
+        "end": 57.995,
+        "score": -0.7018
+      },
+      {
+        "word": "the",
+        "start_offset": 289,
+        "end_offset": 292,
+        "start": 58.435,
+        "end": 58.555,
+        "score": -0.8324
+      },
+      {
+        "word": "cushion",
+        "start_offset": 293,
+        "end_offset": 300,
+        "start": 60.795,
+        "end": 61.215,
+        "score": -1.725
+      },
+      {
+        "word": "of",
+        "start_offset": 301,
+        "end_offset": 303,
+        "start": 61.776,
+        "end": 62.016,
+        "score": -0.7303
+      },
+      {
+        "word": "the",
+        "start_offset": 304,
+        "end_offset": 307,
+        "start": 62.256,
+        "end": 62.396,
+        "score": -0.7526
+      },
+      {
+        "word": "head",
+        "start_offset": 308,
+        "end_offset": 312,
+        "start": 63.016,
+        "end": 63.376,
+        "score": -0.772
+      },
+      {
+        "word": "a",
+        "start_offset": 313,
+        "end_offset": 314,
+        "start": 65.556,
+        "end": 65.576,
+        "score": -0.7804
+      },
+      {
+        "word": "comfortable",
+        "start_offset": 315,
+        "end_offset": 326,
+        "start": 65.657,
+        "end": 66.597,
+        "score": -0.7242
+      },
+      {
+        "word": "thing.",
+        "start_offset": 327,
+        "end_offset": 333,
+        "start": 67.377,
+        "end": 67.717,
+        "score": -1.4594
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "066-23.mp3",
+    "audio_duration": 73.0384,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

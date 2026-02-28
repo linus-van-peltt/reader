@@ -1,0 +1,339 @@
+{
+  "text": "I will ask you if you are familiar with the motion picture called The Ninth Configuration. Are you familiar with this? I am Ra. We scan your mind complex and see this configuration called The Ninth Configuration.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I will ask you if you are familiar with the motion picture called The Ninth Configuration.",
+        "start_offset": 0,
+        "end_offset": 90,
+        "start": 2.001,
+        "end": 10.625
+      },
+      {
+        "segment": "Are you familiar with this?",
+        "start_offset": 91,
+        "end_offset": 118,
+        "start": 11.725,
+        "end": 12.686
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 119,
+        "end_offset": 127,
+        "start": 18.268,
+        "end": 20.269
+      },
+      {
+        "segment": "We scan your mind complex and see this configuration called The Ninth Configuration.",
+        "start_offset": 128,
+        "end_offset": 212,
+        "start": 22.65,
+        "end": 40.498
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 2.001,
+        "end": 2.021,
+        "score": -3.8833
+      },
+      {
+        "word": "will",
+        "start_offset": 2,
+        "end_offset": 6,
+        "start": 2.041,
+        "end": 3.141,
+        "score": -5.9079
+      },
+      {
+        "word": "ask",
+        "start_offset": 7,
+        "end_offset": 10,
+        "start": 3.422,
+        "end": 3.662,
+        "score": -0.7344
+      },
+      {
+        "word": "you",
+        "start_offset": 11,
+        "end_offset": 14,
+        "start": 3.722,
+        "end": 3.802,
+        "score": -0.7498
+      },
+      {
+        "word": "if",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 3.902,
+        "end": 4.022,
+        "score": -0.7152
+      },
+      {
+        "word": "you",
+        "start_offset": 18,
+        "end_offset": 21,
+        "start": 4.082,
+        "end": 4.182,
+        "score": -0.7379
+      },
+      {
+        "word": "are",
+        "start_offset": 22,
+        "end_offset": 25,
+        "start": 4.242,
+        "end": 4.342,
+        "score": -0.7184
+      },
+      {
+        "word": "familiar",
+        "start_offset": 26,
+        "end_offset": 34,
+        "start": 4.362,
+        "end": 4.942,
+        "score": -1.0938
+      },
+      {
+        "word": "with",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 5.723,
+        "end": 5.923,
+        "score": -1.2613
+      },
+      {
+        "word": "the",
+        "start_offset": 40,
+        "end_offset": 43,
+        "start": 6.003,
+        "end": 6.123,
+        "score": -1.7137
+      },
+      {
+        "word": "motion",
+        "start_offset": 44,
+        "end_offset": 50,
+        "start": 7.263,
+        "end": 7.623,
+        "score": -1.6405
+      },
+      {
+        "word": "picture",
+        "start_offset": 51,
+        "end_offset": 58,
+        "start": 8.224,
+        "end": 8.624,
+        "score": -0.8933
+      },
+      {
+        "word": "called",
+        "start_offset": 59,
+        "end_offset": 65,
+        "start": 8.684,
+        "end": 8.984,
+        "score": -0.9492
+      },
+      {
+        "word": "The",
+        "start_offset": 66,
+        "end_offset": 69,
+        "start": 9.004,
+        "end": 9.084,
+        "score": -2.282
+      },
+      {
+        "word": "Ninth",
+        "start_offset": 70,
+        "end_offset": 75,
+        "start": 9.184,
+        "end": 9.524,
+        "score": -1.5271
+      },
+      {
+        "word": "Configuration.",
+        "start_offset": 76,
+        "end_offset": 90,
+        "start": 9.664,
+        "end": 10.625,
+        "score": -1.5811
+      },
+      {
+        "word": "Are",
+        "start_offset": 91,
+        "end_offset": 94,
+        "start": 11.725,
+        "end": 11.785,
+        "score": -5.0913
+      },
+      {
+        "word": "you",
+        "start_offset": 95,
+        "end_offset": 98,
+        "start": 11.805,
+        "end": 11.865,
+        "score": -3.0008
+      },
+      {
+        "word": "familiar",
+        "start_offset": 99,
+        "end_offset": 107,
+        "start": 11.905,
+        "end": 12.265,
+        "score": -1.3091
+      },
+      {
+        "word": "with",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 12.286,
+        "end": 12.426,
+        "score": -1.6805
+      },
+      {
+        "word": "this?",
+        "start_offset": 113,
+        "end_offset": 118,
+        "start": 12.466,
+        "end": 12.686,
+        "score": -2.2664
+      },
+      {
+        "word": "I",
+        "start_offset": 119,
+        "end_offset": 120,
+        "start": 18.268,
+        "end": 18.288,
+        "score": -0.8329
+      },
+      {
+        "word": "am",
+        "start_offset": 121,
+        "end_offset": 123,
+        "start": 19.129,
+        "end": 19.369,
+        "score": -1.6803
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 124,
+        "end_offset": 127,
+        "start": 20.109,
+        "end": 20.269,
+        "score": -0.7973
+      },
+      {
+        "word": "We",
+        "start_offset": 128,
+        "end_offset": 130,
+        "start": 22.65,
+        "end": 22.77,
+        "score": -0.7785
+      },
+      {
+        "word": "scan",
+        "start_offset": 131,
+        "end_offset": 135,
+        "start": 23.13,
+        "end": 23.671,
+        "score": -0.7728
+      },
+      {
+        "word": "your",
+        "start_offset": 136,
+        "end_offset": 140,
+        "start": 24.831,
+        "end": 25.171,
+        "score": -1.3348
+      },
+      {
+        "word": "mind",
+        "start_offset": 141,
+        "end_offset": 145,
+        "start": 27.472,
+        "end": 27.953,
+        "score": -0.7605
+      },
+      {
+        "word": "complex",
+        "start_offset": 146,
+        "end_offset": 153,
+        "start": 28.613,
+        "end": 29.373,
+        "score": -0.7141
+      },
+      {
+        "word": "and",
+        "start_offset": 154,
+        "end_offset": 157,
+        "start": 30.414,
+        "end": 30.714,
+        "score": -0.8278
+      },
+      {
+        "word": "see",
+        "start_offset": 158,
+        "end_offset": 161,
+        "start": 31.694,
+        "end": 31.954,
+        "score": -0.7956
+      },
+      {
+        "word": "this",
+        "start_offset": 162,
+        "end_offset": 166,
+        "start": 32.475,
+        "end": 32.875,
+        "score": -0.7771
+      },
+      {
+        "word": "configuration",
+        "start_offset": 167,
+        "end_offset": 180,
+        "start": 33.415,
+        "end": 34.876,
+        "score": -0.7794
+      },
+      {
+        "word": "called",
+        "start_offset": 181,
+        "end_offset": 187,
+        "start": 36.216,
+        "end": 36.696,
+        "score": -1.0007
+      },
+      {
+        "word": "The",
+        "start_offset": 188,
+        "end_offset": 191,
+        "start": 37.337,
+        "end": 37.477,
+        "score": -0.8997
+      },
+      {
+        "word": "Ninth",
+        "start_offset": 192,
+        "end_offset": 197,
+        "start": 37.897,
+        "end": 38.317,
+        "score": -1.1303
+      },
+      {
+        "word": "Configuration.",
+        "start_offset": 198,
+        "end_offset": 212,
+        "start": 38.957,
+        "end": 40.498,
+        "score": -0.8456
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "033-10.mp3",
+    "audio_duration": 41.0384,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

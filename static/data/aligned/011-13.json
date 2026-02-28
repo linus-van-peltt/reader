@@ -1,0 +1,156 @@
+{
+  "text": "Who went to the Orion group? I am Ra. The one known as Genghis Khan.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Who went to the Orion group?",
+        "start_offset": 0,
+        "end_offset": 28,
+        "start": 0.941,
+        "end": 2.283
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 29,
+        "end_offset": 37,
+        "start": 6.428,
+        "end": 8.731
+      },
+      {
+        "segment": "The one known as Genghis Khan.",
+        "start_offset": 38,
+        "end_offset": 68,
+        "start": 10.513,
+        "end": 18.683
+      }
+    ],
+    "word": [
+      {
+        "word": "Who",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 0.941,
+        "end": 1.041,
+        "score": -0.7729
+      },
+      {
+        "word": "went",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 1.121,
+        "end": 1.322,
+        "score": -0.7042
+      },
+      {
+        "word": "to",
+        "start_offset": 9,
+        "end_offset": 11,
+        "start": 1.362,
+        "end": 1.422,
+        "score": -0.7341
+      },
+      {
+        "word": "the",
+        "start_offset": 12,
+        "end_offset": 15,
+        "start": 1.462,
+        "end": 1.542,
+        "score": -0.8347
+      },
+      {
+        "word": "Orion",
+        "start_offset": 16,
+        "end_offset": 21,
+        "start": 1.622,
+        "end": 2.043,
+        "score": -4.1077
+      },
+      {
+        "word": "group?",
+        "start_offset": 22,
+        "end_offset": 28,
+        "start": 2.143,
+        "end": 2.283,
+        "score": -7.1095
+      },
+      {
+        "word": "I",
+        "start_offset": 29,
+        "end_offset": 30,
+        "start": 6.428,
+        "end": 6.448,
+        "score": -0.8163
+      },
+      {
+        "word": "am",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 7.289,
+        "end": 7.549,
+        "score": -0.9735
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 34,
+        "end_offset": 37,
+        "start": 8.611,
+        "end": 8.731,
+        "score": -1.0872
+      },
+      {
+        "word": "The",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 10.513,
+        "end": 10.653,
+        "score": -0.7971
+      },
+      {
+        "word": "one",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 11.634,
+        "end": 11.895,
+        "score": -0.766
+      },
+      {
+        "word": "known",
+        "start_offset": 46,
+        "end_offset": 51,
+        "start": 12.876,
+        "end": 13.336,
+        "score": -0.7709
+      },
+      {
+        "word": "as",
+        "start_offset": 52,
+        "end_offset": 54,
+        "start": 14.718,
+        "end": 15.098,
+        "score": -0.7016
+      },
+      {
+        "word": "Genghis",
+        "start_offset": 55,
+        "end_offset": 62,
+        "start": 16.3,
+        "end": 17.101,
+        "score": -1.9932
+      },
+      {
+        "word": "Khan.",
+        "start_offset": 63,
+        "end_offset": 68,
+        "start": 18.142,
+        "end": 18.683,
+        "score": -1.8459
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "011-13.mp3",
+    "audio_duration": 19.0433,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

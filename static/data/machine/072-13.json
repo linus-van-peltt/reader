@@ -1,0 +1,79 @@
+{
+  "text": "In congruency with this sound a vibration complex.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "In congruency with this sound a vibration complex.",
+        "start_offset": 32,
+        "end_offset": 196,
+        "start": 2.56,
+        "end": 15.68
+      }
+    ],
+    "word": [
+      {
+        "word": "In",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 2.56,
+        "end": 2.88
+      },
+      {
+        "word": "congruency",
+        "start_offset": 56,
+        "end_offset": 75,
+        "start": 4.48,
+        "end": 6.0
+      },
+      {
+        "word": "with",
+        "start_offset": 95,
+        "end_offset": 99,
+        "start": 7.6000000000000005,
+        "end": 7.92
+      },
+      {
+        "word": "this",
+        "start_offset": 111,
+        "end_offset": 115,
+        "start": 8.88,
+        "end": 9.200000000000001
+      },
+      {
+        "word": "sound",
+        "start_offset": 131,
+        "end_offset": 139,
+        "start": 10.48,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "a",
+        "start_offset": 149,
+        "end_offset": 153,
+        "start": 11.92,
+        "end": 12.24
+      },
+      {
+        "word": "vibration",
+        "start_offset": 153,
+        "end_offset": 168,
+        "start": 12.24,
+        "end": 13.44
+      },
+      {
+        "word": "complex.",
+        "start_offset": 184,
+        "end_offset": 196,
+        "start": 14.72,
+        "end": 15.68
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "072-13.mp3",
+    "audio_duration": 24.53,
+    "transcription_time": 0.09,
+    "rtfx": 279.99,
+    "timestamp": "2026-01-06T21:55:17.231881+00:00"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "text": "Can you like the asteroid call, please?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you like the asteroid call, please?",
+        "start_offset": 26,
+        "end_offset": 56,
+        "start": 2.08,
+        "end": 4.48
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 26,
+        "end_offset": 29,
+        "start": 2.08,
+        "end": 2.32
+      },
+      {
+        "word": "you",
+        "start_offset": 29,
+        "end_offset": 30,
+        "start": 2.32,
+        "end": 2.4
+      },
+      {
+        "word": "like",
+        "start_offset": 34,
+        "end_offset": 36,
+        "start": 2.72,
+        "end": 2.88
+      },
+      {
+        "word": "the",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 2.96,
+        "end": 3.12
+      },
+      {
+        "word": "asteroid",
+        "start_offset": 39,
+        "end_offset": 44,
+        "start": 3.12,
+        "end": 3.52
+      },
+      {
+        "word": "call,",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 3.6,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "please?",
+        "start_offset": 51,
+        "end_offset": 56,
+        "start": 4.08,
+        "end": 4.48
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "026-35.mp3",
+    "audio_duration": 7.03,
+    "transcription_time": 0.08,
+    "rtfx": 85.54,
+    "timestamp": "2026-01-06T21:49:08.859530+00:00"
+  }
+}

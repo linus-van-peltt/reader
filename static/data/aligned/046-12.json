@@ -1,0 +1,787 @@
+{
+  "text": "A repression of what? I am Ra. Any mind complex distortion which you may call emotional which is of itself disorganized, needs, in order to be useful to the negatively oriented entity, to be repressed and then brought to the surface in an organized use. Thus you may find for instance, negatively polarized entities controlling and repressing such basic bodily complex needs as the sexual desire in order that in the practice thereof the will may be used to enforce itself upon the other-self with greater efficiency when the sexual behavior is allowed.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "A repression of what?",
+        "start_offset": 0,
+        "end_offset": 21,
+        "start": 1.46,
+        "end": 9.681
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 22,
+        "end_offset": 30,
+        "start": 9.701,
+        "end": 10.101
+      },
+      {
+        "segment": "Any mind complex distortion which you may call emotional which is of itself disorganized, needs, in order to be useful to the negatively oriented entity, to be repressed and then brought to the surface in an organized use.",
+        "start_offset": 31,
+        "end_offset": 253,
+        "start": 12.421,
+        "end": 68.746
+      },
+      {
+        "segment": "Thus you may find for instance, negatively polarized entities controlling and repressing such basic bodily complex needs as the sexual desire in order that in the practice thereof the will may be used to enforce itself upon the other-self with greater efficiency when the sexual behavior is allowed.",
+        "start_offset": 254,
+        "end_offset": 553,
+        "start": 70.426,
+        "end": 149.393
+      }
+    ],
+    "word": [
+      {
+        "word": "A",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 1.46,
+        "end": 1.48,
+        "score": -7.0101
+      },
+      {
+        "word": "repression",
+        "start_offset": 2,
+        "end_offset": 12,
+        "start": 1.56,
+        "end": 8.781,
+        "score": -6.8486
+      },
+      {
+        "word": "of",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 8.801,
+        "end": 9.581,
+        "score": -8.9196
+      },
+      {
+        "word": "what?",
+        "start_offset": 16,
+        "end_offset": 21,
+        "start": 9.601,
+        "end": 9.681,
+        "score": -7.0356
+      },
+      {
+        "word": "I",
+        "start_offset": 22,
+        "end_offset": 23,
+        "start": 9.701,
+        "end": 9.721,
+        "score": -8.4615
+      },
+      {
+        "word": "am",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 9.801,
+        "end": 9.941,
+        "score": -6.0442
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 9.961,
+        "end": 10.101,
+        "score": -7.1587
+      },
+      {
+        "word": "Any",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 12.421,
+        "end": 12.781,
+        "score": -0.7063
+      },
+      {
+        "word": "mind",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 15.361,
+        "end": 16.021,
+        "score": -0.6962
+      },
+      {
+        "word": "complex",
+        "start_offset": 40,
+        "end_offset": 47,
+        "start": 17.381,
+        "end": 18.242,
+        "score": -0.6953
+      },
+      {
+        "word": "distortion",
+        "start_offset": 48,
+        "end_offset": 58,
+        "start": 18.842,
+        "end": 19.842,
+        "score": -0.7656
+      },
+      {
+        "word": "which",
+        "start_offset": 59,
+        "end_offset": 64,
+        "start": 21.062,
+        "end": 21.462,
+        "score": -0.7073
+      },
+      {
+        "word": "you",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 21.942,
+        "end": 22.082,
+        "score": -0.7159
+      },
+      {
+        "word": "may",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 22.662,
+        "end": 22.942,
+        "score": -0.6977
+      },
+      {
+        "word": "call",
+        "start_offset": 73,
+        "end_offset": 77,
+        "start": 23.422,
+        "end": 23.902,
+        "score": -0.842
+      },
+      {
+        "word": "emotional",
+        "start_offset": 78,
+        "end_offset": 87,
+        "start": 25.302,
+        "end": 26.602,
+        "score": -0.741
+      },
+      {
+        "word": "which",
+        "start_offset": 88,
+        "end_offset": 93,
+        "start": 28.242,
+        "end": 28.722,
+        "score": -0.7117
+      },
+      {
+        "word": "is",
+        "start_offset": 94,
+        "end_offset": 96,
+        "start": 29.783,
+        "end": 30.143,
+        "score": -0.6985
+      },
+      {
+        "word": "of",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 30.483,
+        "end": 30.763,
+        "score": -0.7065
+      },
+      {
+        "word": "itself",
+        "start_offset": 100,
+        "end_offset": 106,
+        "start": 31.083,
+        "end": 32.103,
+        "score": -0.7012
+      },
+      {
+        "word": "disorganized,",
+        "start_offset": 107,
+        "end_offset": 120,
+        "start": 33.403,
+        "end": 35.423,
+        "score": -0.8534
+      },
+      {
+        "word": "needs,",
+        "start_offset": 121,
+        "end_offset": 127,
+        "start": 37.563,
+        "end": 38.123,
+        "score": -0.7168
+      },
+      {
+        "word": "in",
+        "start_offset": 128,
+        "end_offset": 130,
+        "start": 39.223,
+        "end": 39.483,
+        "score": -0.7075
+      },
+      {
+        "word": "order",
+        "start_offset": 131,
+        "end_offset": 136,
+        "start": 39.843,
+        "end": 40.263,
+        "score": -0.701
+      },
+      {
+        "word": "to",
+        "start_offset": 137,
+        "end_offset": 139,
+        "start": 41.324,
+        "end": 41.524,
+        "score": -0.7036
+      },
+      {
+        "word": "be",
+        "start_offset": 140,
+        "end_offset": 142,
+        "start": 42.264,
+        "end": 42.404,
+        "score": -0.6994
+      },
+      {
+        "word": "useful",
+        "start_offset": 143,
+        "end_offset": 149,
+        "start": 43.204,
+        "end": 43.884,
+        "score": -0.7015
+      },
+      {
+        "word": "to",
+        "start_offset": 150,
+        "end_offset": 152,
+        "start": 44.904,
+        "end": 45.084,
+        "score": -0.7
+      },
+      {
+        "word": "the",
+        "start_offset": 153,
+        "end_offset": 156,
+        "start": 45.684,
+        "end": 45.824,
+        "score": -0.7742
+      },
+      {
+        "word": "negatively",
+        "start_offset": 157,
+        "end_offset": 167,
+        "start": 46.244,
+        "end": 47.504,
+        "score": -0.6998
+      },
+      {
+        "word": "oriented",
+        "start_offset": 168,
+        "end_offset": 176,
+        "start": 48.564,
+        "end": 49.564,
+        "score": -0.7171
+      },
+      {
+        "word": "entity,",
+        "start_offset": 177,
+        "end_offset": 184,
+        "start": 50.564,
+        "end": 51.204,
+        "score": -1.2668
+      },
+      {
+        "word": "to",
+        "start_offset": 185,
+        "end_offset": 187,
+        "start": 52.444,
+        "end": 52.664,
+        "score": -0.7313
+      },
+      {
+        "word": "be",
+        "start_offset": 188,
+        "end_offset": 190,
+        "start": 53.545,
+        "end": 53.685,
+        "score": -0.7066
+      },
+      {
+        "word": "repressed",
+        "start_offset": 191,
+        "end_offset": 200,
+        "start": 54.745,
+        "end": 55.865,
+        "score": -0.7243
+      },
+      {
+        "word": "and",
+        "start_offset": 201,
+        "end_offset": 204,
+        "start": 57.185,
+        "end": 57.645,
+        "score": -0.7336
+      },
+      {
+        "word": "then",
+        "start_offset": 205,
+        "end_offset": 209,
+        "start": 58.425,
+        "end": 58.845,
+        "score": -1.3591
+      },
+      {
+        "word": "brought",
+        "start_offset": 210,
+        "end_offset": 217,
+        "start": 59.785,
+        "end": 60.245,
+        "score": -0.7922
+      },
+      {
+        "word": "to",
+        "start_offset": 218,
+        "end_offset": 220,
+        "start": 60.505,
+        "end": 60.665,
+        "score": -0.7
+      },
+      {
+        "word": "the",
+        "start_offset": 221,
+        "end_offset": 224,
+        "start": 60.905,
+        "end": 61.065,
+        "score": -0.7219
+      },
+      {
+        "word": "surface",
+        "start_offset": 225,
+        "end_offset": 232,
+        "start": 61.365,
+        "end": 62.245,
+        "score": -0.8108
+      },
+      {
+        "word": "in",
+        "start_offset": 233,
+        "end_offset": 235,
+        "start": 63.405,
+        "end": 63.725,
+        "score": -0.7278
+      },
+      {
+        "word": "an",
+        "start_offset": 236,
+        "end_offset": 238,
+        "start": 64.425,
+        "end": 64.765,
+        "score": -0.7307
+      },
+      {
+        "word": "organized",
+        "start_offset": 239,
+        "end_offset": 248,
+        "start": 65.526,
+        "end": 66.906,
+        "score": -0.7254
+      },
+      {
+        "word": "use.",
+        "start_offset": 249,
+        "end_offset": 253,
+        "start": 68.326,
+        "end": 68.746,
+        "score": -0.8622
+      },
+      {
+        "word": "Thus",
+        "start_offset": 254,
+        "end_offset": 258,
+        "start": 70.426,
+        "end": 70.906,
+        "score": -0.755
+      },
+      {
+        "word": "you",
+        "start_offset": 259,
+        "end_offset": 262,
+        "start": 71.786,
+        "end": 71.926,
+        "score": -0.7107
+      },
+      {
+        "word": "may",
+        "start_offset": 263,
+        "end_offset": 266,
+        "start": 72.446,
+        "end": 72.726,
+        "score": -0.6977
+      },
+      {
+        "word": "find",
+        "start_offset": 267,
+        "end_offset": 271,
+        "start": 73.146,
+        "end": 73.846,
+        "score": -0.6966
+      },
+      {
+        "word": "for",
+        "start_offset": 272,
+        "end_offset": 275,
+        "start": 74.906,
+        "end": 75.306,
+        "score": -0.6995
+      },
+      {
+        "word": "instance,",
+        "start_offset": 276,
+        "end_offset": 285,
+        "start": 75.826,
+        "end": 76.807,
+        "score": -0.7128
+      },
+      {
+        "word": "negatively",
+        "start_offset": 286,
+        "end_offset": 296,
+        "start": 78.347,
+        "end": 79.647,
+        "score": -0.7248
+      },
+      {
+        "word": "polarized",
+        "start_offset": 297,
+        "end_offset": 306,
+        "start": 80.647,
+        "end": 82.227,
+        "score": -0.8043
+      },
+      {
+        "word": "entities",
+        "start_offset": 307,
+        "end_offset": 315,
+        "start": 83.347,
+        "end": 84.507,
+        "score": -1.5847
+      },
+      {
+        "word": "controlling",
+        "start_offset": 316,
+        "end_offset": 327,
+        "start": 86.287,
+        "end": 87.727,
+        "score": -0.881
+      },
+      {
+        "word": "and",
+        "start_offset": 328,
+        "end_offset": 331,
+        "start": 88.648,
+        "end": 88.948,
+        "score": -3.9112
+      },
+      {
+        "word": "repressing",
+        "start_offset": 332,
+        "end_offset": 342,
+        "start": 89.348,
+        "end": 90.548,
+        "score": -0.6987
+      },
+      {
+        "word": "such",
+        "start_offset": 343,
+        "end_offset": 347,
+        "start": 91.708,
+        "end": 92.208,
+        "score": -0.8829
+      },
+      {
+        "word": "basic",
+        "start_offset": 348,
+        "end_offset": 353,
+        "start": 92.928,
+        "end": 93.748,
+        "score": -0.7
+      },
+      {
+        "word": "bodily",
+        "start_offset": 354,
+        "end_offset": 360,
+        "start": 94.728,
+        "end": 95.488,
+        "score": -0.7902
+      },
+      {
+        "word": "complex",
+        "start_offset": 361,
+        "end_offset": 368,
+        "start": 96.588,
+        "end": 97.548,
+        "score": -0.8457
+      },
+      {
+        "word": "needs",
+        "start_offset": 369,
+        "end_offset": 374,
+        "start": 98.868,
+        "end": 99.488,
+        "score": -0.786
+      },
+      {
+        "word": "as",
+        "start_offset": 375,
+        "end_offset": 377,
+        "start": 100.849,
+        "end": 101.309,
+        "score": -0.7185
+      },
+      {
+        "word": "the",
+        "start_offset": 378,
+        "end_offset": 381,
+        "start": 102.629,
+        "end": 102.749,
+        "score": -0.7628
+      },
+      {
+        "word": "sexual",
+        "start_offset": 382,
+        "end_offset": 388,
+        "start": 103.169,
+        "end": 104.309,
+        "score": -1.102
+      },
+      {
+        "word": "desire",
+        "start_offset": 389,
+        "end_offset": 395,
+        "start": 105.269,
+        "end": 106.229,
+        "score": -0.7745
+      },
+      {
+        "word": "in",
+        "start_offset": 396,
+        "end_offset": 398,
+        "start": 107.509,
+        "end": 107.769,
+        "score": -0.7023
+      },
+      {
+        "word": "order",
+        "start_offset": 399,
+        "end_offset": 404,
+        "start": 108.069,
+        "end": 108.489,
+        "score": -0.6973
+      },
+      {
+        "word": "that",
+        "start_offset": 405,
+        "end_offset": 409,
+        "start": 108.869,
+        "end": 109.369,
+        "score": -0.7088
+      },
+      {
+        "word": "in",
+        "start_offset": 410,
+        "end_offset": 412,
+        "start": 110.569,
+        "end": 110.849,
+        "score": -0.7072
+      },
+      {
+        "word": "the",
+        "start_offset": 413,
+        "end_offset": 416,
+        "start": 111.229,
+        "end": 111.349,
+        "score": -0.7394
+      },
+      {
+        "word": "practice",
+        "start_offset": 417,
+        "end_offset": 425,
+        "start": 111.729,
+        "end": 112.87,
+        "score": -0.7727
+      },
+      {
+        "word": "thereof",
+        "start_offset": 426,
+        "end_offset": 433,
+        "start": 113.75,
+        "end": 114.75,
+        "score": -2.0317
+      },
+      {
+        "word": "the",
+        "start_offset": 434,
+        "end_offset": 437,
+        "start": 116.57,
+        "end": 116.73,
+        "score": -0.7651
+      },
+      {
+        "word": "will",
+        "start_offset": 438,
+        "end_offset": 442,
+        "start": 118.21,
+        "end": 118.57,
+        "score": -0.7952
+      },
+      {
+        "word": "may",
+        "start_offset": 443,
+        "end_offset": 446,
+        "start": 119.81,
+        "end": 120.11,
+        "score": -4.4999
+      },
+      {
+        "word": "be",
+        "start_offset": 447,
+        "end_offset": 449,
+        "start": 120.53,
+        "end": 120.63,
+        "score": -6.0627
+      },
+      {
+        "word": "used",
+        "start_offset": 450,
+        "end_offset": 454,
+        "start": 121.27,
+        "end": 121.79,
+        "score": -2.4819
+      },
+      {
+        "word": "to",
+        "start_offset": 455,
+        "end_offset": 457,
+        "start": 123.19,
+        "end": 123.41,
+        "score": -0.9061
+      },
+      {
+        "word": "enforce",
+        "start_offset": 458,
+        "end_offset": 465,
+        "start": 125.711,
+        "end": 126.631,
+        "score": -1.1594
+      },
+      {
+        "word": "itself",
+        "start_offset": 466,
+        "end_offset": 472,
+        "start": 126.811,
+        "end": 127.871,
+        "score": -0.7014
+      },
+      {
+        "word": "upon",
+        "start_offset": 473,
+        "end_offset": 477,
+        "start": 129.131,
+        "end": 129.891,
+        "score": -2.5653
+      },
+      {
+        "word": "the",
+        "start_offset": 478,
+        "end_offset": 481,
+        "start": 130.451,
+        "end": 130.591,
+        "score": -0.7958
+      },
+      {
+        "word": "other-self",
+        "start_offset": 482,
+        "end_offset": 492,
+        "start": 131.111,
+        "end": 132.931,
+        "score": -1.9394
+      },
+      {
+        "word": "with",
+        "start_offset": 493,
+        "end_offset": 497,
+        "start": 134.131,
+        "end": 134.551,
+        "score": -0.7059
+      },
+      {
+        "word": "greater",
+        "start_offset": 498,
+        "end_offset": 505,
+        "start": 135.311,
+        "end": 136.052,
+        "score": -0.7456
+      },
+      {
+        "word": "efficiency",
+        "start_offset": 506,
+        "end_offset": 516,
+        "start": 137.252,
+        "end": 138.572,
+        "score": -1.5276
+      },
+      {
+        "word": "when",
+        "start_offset": 517,
+        "end_offset": 521,
+        "start": 139.952,
+        "end": 140.372,
+        "score": -0.7856
+      },
+      {
+        "word": "the",
+        "start_offset": 522,
+        "end_offset": 525,
+        "start": 141.592,
+        "end": 141.732,
+        "score": -0.8198
+      },
+      {
+        "word": "sexual",
+        "start_offset": 526,
+        "end_offset": 532,
+        "start": 142.572,
+        "end": 143.792,
+        "score": -1.1888
+      },
+      {
+        "word": "behavior",
+        "start_offset": 533,
+        "end_offset": 541,
+        "start": 144.752,
+        "end": 145.832,
+        "score": -2.3532
+      },
+      {
+        "word": "is",
+        "start_offset": 542,
+        "end_offset": 544,
+        "start": 146.952,
+        "end": 147.393,
+        "score": -6.2638
+      },
+      {
+        "word": "allowed.",
+        "start_offset": 545,
+        "end_offset": 553,
+        "start": 148.413,
+        "end": 149.393,
+        "score": -2.3345
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "046-12.mp3",
+    "audio_duration": 159.0335,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

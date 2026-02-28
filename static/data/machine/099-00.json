@@ -1,0 +1,86 @@
+{
+  "text": "Raw number ninety nine, November eighteenth, nineteen eighty two.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Raw number ninety nine, November eighteenth, nineteen eighty two.",
+        "start_offset": 127,
+        "end_offset": 185,
+        "start": 10.16,
+        "end": 14.8
+      }
+    ],
+    "word": [
+      {
+        "word": "Raw",
+        "start_offset": 127,
+        "end_offset": 134,
+        "start": 10.16,
+        "end": 10.72
+      },
+      {
+        "word": "number",
+        "start_offset": 137,
+        "end_offset": 142,
+        "start": 10.96,
+        "end": 11.36
+      },
+      {
+        "word": "ninety",
+        "start_offset": 142,
+        "end_offset": 145,
+        "start": 11.36,
+        "end": 11.6
+      },
+      {
+        "word": "nine,",
+        "start_offset": 147,
+        "end_offset": 153,
+        "start": 11.76,
+        "end": 12.24
+      },
+      {
+        "word": "November",
+        "start_offset": 156,
+        "end_offset": 164,
+        "start": 12.48,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "eighteenth,",
+        "start_offset": 164,
+        "end_offset": 173,
+        "start": 13.120000000000001,
+        "end": 13.84
+      },
+      {
+        "word": "nineteen",
+        "start_offset": 175,
+        "end_offset": 181,
+        "start": 14.0,
+        "end": 14.48
+      },
+      {
+        "word": "eighty",
+        "start_offset": 181,
+        "end_offset": 183,
+        "start": 14.48,
+        "end": 14.64
+      },
+      {
+        "word": "two.",
+        "start_offset": 184,
+        "end_offset": 185,
+        "start": 14.72,
+        "end": 14.8
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "099-00.mp3",
+    "audio_duration": 15.15,
+    "transcription_time": 0.09,
+    "rtfx": 176.09,
+    "timestamp": "2026-01-06T22:00:08.150135+00:00"
+  }
+}

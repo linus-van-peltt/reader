@@ -1,0 +1,220 @@
+{
+  "text": "Is there a reason that I am open to these signals of a negative nature? I am Ra. Are you not all things?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there a reason that I am open to these signals of a negative nature?",
+        "start_offset": 0,
+        "end_offset": 71,
+        "start": 4.421,
+        "end": 9.483
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 72,
+        "end_offset": 80,
+        "start": 16.205,
+        "end": 18.545
+      },
+      {
+        "segment": "Are you not all things?",
+        "start_offset": 81,
+        "end_offset": 104,
+        "start": 21.546,
+        "end": 27.048
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 4.421,
+        "end": 4.521,
+        "score": -1.7626
+      },
+      {
+        "word": "there",
+        "start_offset": 3,
+        "end_offset": 8,
+        "start": 4.561,
+        "end": 4.741,
+        "score": -2.4428
+      },
+      {
+        "word": "a",
+        "start_offset": 9,
+        "end_offset": 10,
+        "start": 4.761,
+        "end": 4.781,
+        "score": -1.7411
+      },
+      {
+        "word": "reason",
+        "start_offset": 11,
+        "end_offset": 17,
+        "start": 4.861,
+        "end": 5.261,
+        "score": -0.7773
+      },
+      {
+        "word": "that",
+        "start_offset": 18,
+        "end_offset": 22,
+        "start": 5.321,
+        "end": 5.522,
+        "score": -1.2315
+      },
+      {
+        "word": "I",
+        "start_offset": 23,
+        "end_offset": 24,
+        "start": 6.642,
+        "end": 6.662,
+        "score": -0.7586
+      },
+      {
+        "word": "am",
+        "start_offset": 25,
+        "end_offset": 27,
+        "start": 6.702,
+        "end": 6.782,
+        "score": -0.7167
+      },
+      {
+        "word": "open",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 6.862,
+        "end": 7.102,
+        "score": -0.7016
+      },
+      {
+        "word": "to",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 7.162,
+        "end": 7.222,
+        "score": -0.7063
+      },
+      {
+        "word": "these",
+        "start_offset": 36,
+        "end_offset": 41,
+        "start": 7.262,
+        "end": 7.482,
+        "score": -0.7574
+      },
+      {
+        "word": "signals",
+        "start_offset": 42,
+        "end_offset": 49,
+        "start": 7.542,
+        "end": 8.102,
+        "score": -0.6984
+      },
+      {
+        "word": "of",
+        "start_offset": 50,
+        "end_offset": 52,
+        "start": 8.422,
+        "end": 8.502,
+        "score": -0.7227
+      },
+      {
+        "word": "a",
+        "start_offset": 53,
+        "end_offset": 54,
+        "start": 8.522,
+        "end": 8.542,
+        "score": -0.7247
+      },
+      {
+        "word": "negative",
+        "start_offset": 55,
+        "end_offset": 63,
+        "start": 8.602,
+        "end": 9.023,
+        "score": -0.7219
+      },
+      {
+        "word": "nature?",
+        "start_offset": 64,
+        "end_offset": 71,
+        "start": 9.083,
+        "end": 9.483,
+        "score": -0.7194
+      },
+      {
+        "word": "I",
+        "start_offset": 72,
+        "end_offset": 73,
+        "start": 16.205,
+        "end": 16.225,
+        "score": -1.1113
+      },
+      {
+        "word": "am",
+        "start_offset": 74,
+        "end_offset": 76,
+        "start": 17.165,
+        "end": 17.505,
+        "score": -1.3781
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 77,
+        "end_offset": 80,
+        "start": 18.425,
+        "end": 18.545,
+        "score": -0.9658
+      },
+      {
+        "word": "Are",
+        "start_offset": 81,
+        "end_offset": 84,
+        "start": 21.546,
+        "end": 21.866,
+        "score": -1.5828
+      },
+      {
+        "word": "you",
+        "start_offset": 85,
+        "end_offset": 88,
+        "start": 23.107,
+        "end": 23.247,
+        "score": -1.021
+      },
+      {
+        "word": "not",
+        "start_offset": 89,
+        "end_offset": 92,
+        "start": 24.167,
+        "end": 24.587,
+        "score": -0.6981
+      },
+      {
+        "word": "all",
+        "start_offset": 93,
+        "end_offset": 96,
+        "start": 25.527,
+        "end": 25.807,
+        "score": -0.7138
+      },
+      {
+        "word": "things?",
+        "start_offset": 97,
+        "end_offset": 104,
+        "start": 26.467,
+        "end": 27.048,
+        "score": -0.7754
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "044-06.mp3",
+    "audio_duration": 29.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

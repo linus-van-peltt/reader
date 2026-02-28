@@ -1,0 +1,555 @@
+{
+  "text": "Is there anything that we can do to make the instrument more comfortable or improve the contact? I am raw is well for some a small portion of your future. The instrument would be well advised to wear upon the hands of those aids to comfort, which it has neglected to use. There has been some a trauma to both hands and arms, and therefore we have had to somewhat abbreviate this working.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there anything that we can do to make the instrument more comfortable or improve the contact?",
+        "start_offset": 20,
+        "end_offset": 76,
+        "start": 1.6,
+        "end": 6.08
+      },
+      {
+        "segment": "I am raw is well for some a small portion of your future.",
+        "start_offset": 100,
+        "end_offset": 327,
+        "start": 8.0,
+        "end": 26.16
+      },
+      {
+        "segment": "The instrument would be well advised to wear upon the hands of those aids to comfort, which it has neglected to use.",
+        "start_offset": 350,
+        "end_offset": 771,
+        "start": 28.0,
+        "end": 61.68
+      },
+      {
+        "segment": "There has been some a trauma to both hands and arms, and therefore we have had to somewhat abbreviate this working.",
+        "start_offset": 792,
+        "end_offset": 1180,
+        "start": 63.36,
+        "end": 94.4
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 20,
+        "end_offset": 22,
+        "start": 1.6,
+        "end": 1.76
+      },
+      {
+        "word": "there",
+        "start_offset": 22,
+        "end_offset": 24,
+        "start": 1.76,
+        "end": 1.92
+      },
+      {
+        "word": "anything",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 1.92,
+        "end": 2.16
+      },
+      {
+        "word": "that",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 2.16,
+        "end": 2.32
+      },
+      {
+        "word": "we",
+        "start_offset": 29,
+        "end_offset": 30,
+        "start": 2.32,
+        "end": 2.4
+      },
+      {
+        "word": "can",
+        "start_offset": 30,
+        "end_offset": 32,
+        "start": 2.4,
+        "end": 2.56
+      },
+      {
+        "word": "do",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 2.56,
+        "end": 2.72
+      },
+      {
+        "word": "to",
+        "start_offset": 34,
+        "end_offset": 35,
+        "start": 2.72,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "make",
+        "start_offset": 35,
+        "end_offset": 37,
+        "start": 2.8000000000000003,
+        "end": 2.96
+      },
+      {
+        "word": "the",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 2.96,
+        "end": 3.12
+      },
+      {
+        "word": "instrument",
+        "start_offset": 39,
+        "end_offset": 45,
+        "start": 3.12,
+        "end": 3.6
+      },
+      {
+        "word": "more",
+        "start_offset": 46,
+        "end_offset": 49,
+        "start": 3.68,
+        "end": 3.92
+      },
+      {
+        "word": "comfortable",
+        "start_offset": 49,
+        "end_offset": 55,
+        "start": 3.92,
+        "end": 4.4
+      },
+      {
+        "word": "or",
+        "start_offset": 55,
+        "end_offset": 57,
+        "start": 4.4,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "improve",
+        "start_offset": 57,
+        "end_offset": 62,
+        "start": 4.5600000000000005,
+        "end": 4.96
+      },
+      {
+        "word": "the",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 4.96,
+        "end": 5.12
+      },
+      {
+        "word": "contact?",
+        "start_offset": 64,
+        "end_offset": 76,
+        "start": 5.12,
+        "end": 6.08
+      },
+      {
+        "word": "I",
+        "start_offset": 100,
+        "end_offset": 104,
+        "start": 8.0,
+        "end": 8.32
+      },
+      {
+        "word": "am",
+        "start_offset": 112,
+        "end_offset": 115,
+        "start": 8.96,
+        "end": 9.200000000000001
+      },
+      {
+        "word": "raw",
+        "start_offset": 127,
+        "end_offset": 158,
+        "start": 10.16,
+        "end": 12.64
+      },
+      {
+        "word": "is",
+        "start_offset": 162,
+        "end_offset": 166,
+        "start": 12.96,
+        "end": 13.280000000000001
+      },
+      {
+        "word": "well",
+        "start_offset": 178,
+        "end_offset": 182,
+        "start": 14.24,
+        "end": 14.56
+      },
+      {
+        "word": "for",
+        "start_offset": 230,
+        "end_offset": 234,
+        "start": 18.400000000000002,
+        "end": 18.72
+      },
+      {
+        "word": "some",
+        "start_offset": 245,
+        "end_offset": 249,
+        "start": 19.6,
+        "end": 19.92
+      },
+      {
+        "word": "a",
+        "start_offset": 257,
+        "end_offset": 261,
+        "start": 20.56,
+        "end": 20.88
+      },
+      {
+        "word": "small",
+        "start_offset": 261,
+        "end_offset": 269,
+        "start": 20.88,
+        "end": 21.52
+      },
+      {
+        "word": "portion",
+        "start_offset": 291,
+        "end_offset": 299,
+        "start": 23.28,
+        "end": 23.92
+      },
+      {
+        "word": "of",
+        "start_offset": 303,
+        "end_offset": 307,
+        "start": 24.240000000000002,
+        "end": 24.560000000000002
+      },
+      {
+        "word": "your",
+        "start_offset": 311,
+        "end_offset": 315,
+        "start": 24.88,
+        "end": 25.2
+      },
+      {
+        "word": "future.",
+        "start_offset": 319,
+        "end_offset": 327,
+        "start": 25.52,
+        "end": 26.16
+      },
+      {
+        "word": "The",
+        "start_offset": 350,
+        "end_offset": 354,
+        "start": 28.0,
+        "end": 28.32
+      },
+      {
+        "word": "instrument",
+        "start_offset": 366,
+        "end_offset": 378,
+        "start": 29.28,
+        "end": 30.240000000000002
+      },
+      {
+        "word": "would",
+        "start_offset": 394,
+        "end_offset": 398,
+        "start": 31.52,
+        "end": 31.84
+      },
+      {
+        "word": "be",
+        "start_offset": 410,
+        "end_offset": 414,
+        "start": 32.8,
+        "end": 33.12
+      },
+      {
+        "word": "well",
+        "start_offset": 418,
+        "end_offset": 422,
+        "start": 33.44,
+        "end": 33.76
+      },
+      {
+        "word": "advised",
+        "start_offset": 441,
+        "end_offset": 453,
+        "start": 35.28,
+        "end": 36.24
+      },
+      {
+        "word": "to",
+        "start_offset": 473,
+        "end_offset": 477,
+        "start": 37.84,
+        "end": 38.160000000000004
+      },
+      {
+        "word": "wear",
+        "start_offset": 497,
+        "end_offset": 505,
+        "start": 39.76,
+        "end": 40.4
+      },
+      {
+        "word": "upon",
+        "start_offset": 513,
+        "end_offset": 524,
+        "start": 41.04,
+        "end": 41.92
+      },
+      {
+        "word": "the",
+        "start_offset": 536,
+        "end_offset": 540,
+        "start": 42.88,
+        "end": 43.2
+      },
+      {
+        "word": "hands",
+        "start_offset": 544,
+        "end_offset": 552,
+        "start": 43.52,
+        "end": 44.160000000000004
+      },
+      {
+        "word": "of",
+        "start_offset": 566,
+        "end_offset": 570,
+        "start": 45.28,
+        "end": 45.6
+      },
+      {
+        "word": "those",
+        "start_offset": 570,
+        "end_offset": 578,
+        "start": 45.6,
+        "end": 46.24
+      },
+      {
+        "word": "aids",
+        "start_offset": 606,
+        "end_offset": 614,
+        "start": 48.480000000000004,
+        "end": 49.120000000000005
+      },
+      {
+        "word": "to",
+        "start_offset": 622,
+        "end_offset": 626,
+        "start": 49.76,
+        "end": 50.08
+      },
+      {
+        "word": "comfort,",
+        "start_offset": 634,
+        "end_offset": 646,
+        "start": 50.72,
+        "end": 51.68
+      },
+      {
+        "word": "which",
+        "start_offset": 664,
+        "end_offset": 668,
+        "start": 53.120000000000005,
+        "end": 53.44
+      },
+      {
+        "word": "it",
+        "start_offset": 687,
+        "end_offset": 691,
+        "start": 54.96,
+        "end": 55.28
+      },
+      {
+        "word": "has",
+        "start_offset": 711,
+        "end_offset": 715,
+        "start": 56.88,
+        "end": 57.2
+      },
+      {
+        "word": "neglected",
+        "start_offset": 727,
+        "end_offset": 743,
+        "start": 58.160000000000004,
+        "end": 59.44
+      },
+      {
+        "word": "to",
+        "start_offset": 751,
+        "end_offset": 755,
+        "start": 60.08,
+        "end": 60.4
+      },
+      {
+        "word": "use.",
+        "start_offset": 767,
+        "end_offset": 771,
+        "start": 61.36,
+        "end": 61.68
+      },
+      {
+        "word": "There",
+        "start_offset": 792,
+        "end_offset": 800,
+        "start": 63.36,
+        "end": 64.0
+      },
+      {
+        "word": "has",
+        "start_offset": 808,
+        "end_offset": 812,
+        "start": 64.64,
+        "end": 64.96000000000001
+      },
+      {
+        "word": "been",
+        "start_offset": 816,
+        "end_offset": 820,
+        "start": 65.28,
+        "end": 65.6
+      },
+      {
+        "word": "some",
+        "start_offset": 836,
+        "end_offset": 840,
+        "start": 66.88,
+        "end": 67.2
+      },
+      {
+        "word": "a",
+        "start_offset": 848,
+        "end_offset": 852,
+        "start": 67.84,
+        "end": 68.16
+      },
+      {
+        "word": "trauma",
+        "start_offset": 852,
+        "end_offset": 860,
+        "start": 68.16,
+        "end": 68.8
+      },
+      {
+        "word": "to",
+        "start_offset": 876,
+        "end_offset": 880,
+        "start": 70.08,
+        "end": 70.4
+      },
+      {
+        "word": "both",
+        "start_offset": 901,
+        "end_offset": 909,
+        "start": 72.08,
+        "end": 72.72
+      },
+      {
+        "word": "hands",
+        "start_offset": 933,
+        "end_offset": 941,
+        "start": 74.64,
+        "end": 75.28
+      },
+      {
+        "word": "and",
+        "start_offset": 945,
+        "end_offset": 949,
+        "start": 75.60000000000001,
+        "end": 75.92
+      },
+      {
+        "word": "arms,",
+        "start_offset": 957,
+        "end_offset": 965,
+        "start": 76.56,
+        "end": 77.2
+      },
+      {
+        "word": "and",
+        "start_offset": 987,
+        "end_offset": 991,
+        "start": 78.96000000000001,
+        "end": 79.28
+      },
+      {
+        "word": "therefore",
+        "start_offset": 1015,
+        "end_offset": 1031,
+        "start": 81.2,
+        "end": 82.48
+      },
+      {
+        "word": "we",
+        "start_offset": 1043,
+        "end_offset": 1047,
+        "start": 83.44,
+        "end": 83.76
+      },
+      {
+        "word": "have",
+        "start_offset": 1051,
+        "end_offset": 1055,
+        "start": 84.08,
+        "end": 84.4
+      },
+      {
+        "word": "had",
+        "start_offset": 1059,
+        "end_offset": 1063,
+        "start": 84.72,
+        "end": 85.04
+      },
+      {
+        "word": "to",
+        "start_offset": 1075,
+        "end_offset": 1079,
+        "start": 86.0,
+        "end": 86.32000000000001
+      },
+      {
+        "word": "somewhat",
+        "start_offset": 1095,
+        "end_offset": 1107,
+        "start": 87.60000000000001,
+        "end": 88.56
+      },
+      {
+        "word": "abbreviate",
+        "start_offset": 1127,
+        "end_offset": 1144,
+        "start": 90.16,
+        "end": 91.52
+      },
+      {
+        "word": "this",
+        "start_offset": 1156,
+        "end_offset": 1160,
+        "start": 92.48,
+        "end": 92.8
+      },
+      {
+        "word": "working.",
+        "start_offset": 1172,
+        "end_offset": 1180,
+        "start": 93.76,
+        "end": 94.4
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "079-43.mp3",
+    "audio_duration": 98.04,
+    "transcription_time": 0.16,
+    "rtfx": 616.29,
+    "timestamp": "2026-01-06T21:56:39.995874+00:00"
+  }
+}

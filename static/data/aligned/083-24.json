@@ -1,0 +1,498 @@
+{
+  "text": "Then let's say that an entity at that time burned its hand due to carelessness. It would immediately remove its hand from the burning object and then, in order to not feel the pain any more, would mentally cut the pain off until healing had taken place. Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then let's say that an entity at that time burned its hand due to carelessness.",
+        "start_offset": 0,
+        "end_offset": 79,
+        "start": 3.021,
+        "end": 15.864
+      },
+      {
+        "segment": "It would immediately remove its hand from the burning object and then, in order to not feel the pain any more, would mentally cut the pain off until healing had taken place.",
+        "start_offset": 80,
+        "end_offset": 253,
+        "start": 16.764,
+        "end": 33.269
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 254,
+        "end_offset": 270,
+        "start": 33.309,
+        "end": 33.989
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 271,
+        "end_offset": 279,
+        "start": 36.35,
+        "end": 37.65
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 280,
+        "end_offset": 296,
+        "start": 38.87,
+        "end": 41.591
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 3.021,
+        "end": 3.181,
+        "score": -1.3428
+      },
+      {
+        "word": "let's",
+        "start_offset": 5,
+        "end_offset": 10,
+        "start": 3.661,
+        "end": 3.861,
+        "score": -3.3444
+      },
+      {
+        "word": "say",
+        "start_offset": 11,
+        "end_offset": 14,
+        "start": 3.941,
+        "end": 4.141,
+        "score": -1.8311
+      },
+      {
+        "word": "that",
+        "start_offset": 15,
+        "end_offset": 19,
+        "start": 4.201,
+        "end": 4.341,
+        "score": -4.5646
+      },
+      {
+        "word": "an",
+        "start_offset": 20,
+        "end_offset": 22,
+        "start": 5.782,
+        "end": 5.842,
+        "score": -1.1291
+      },
+      {
+        "word": "entity",
+        "start_offset": 23,
+        "end_offset": 29,
+        "start": 5.902,
+        "end": 6.162,
+        "score": -0.9497
+      },
+      {
+        "word": "at",
+        "start_offset": 30,
+        "end_offset": 32,
+        "start": 6.242,
+        "end": 6.302,
+        "score": -0.7766
+      },
+      {
+        "word": "that",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 6.322,
+        "end": 6.522,
+        "score": -0.8361
+      },
+      {
+        "word": "time",
+        "start_offset": 38,
+        "end_offset": 42,
+        "start": 6.622,
+        "end": 7.002,
+        "score": -0.7879
+      },
+      {
+        "word": "burned",
+        "start_offset": 43,
+        "end_offset": 49,
+        "start": 10.043,
+        "end": 10.503,
+        "score": -0.9161
+      },
+      {
+        "word": "its",
+        "start_offset": 50,
+        "end_offset": 53,
+        "start": 12.083,
+        "end": 12.283,
+        "score": -1.1294
+      },
+      {
+        "word": "hand",
+        "start_offset": 54,
+        "end_offset": 58,
+        "start": 12.943,
+        "end": 13.324,
+        "score": -0.9027
+      },
+      {
+        "word": "due",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 14.984,
+        "end": 15.104,
+        "score": -1.6315
+      },
+      {
+        "word": "to",
+        "start_offset": 63,
+        "end_offset": 65,
+        "start": 15.124,
+        "end": 15.184,
+        "score": -0.9102
+      },
+      {
+        "word": "carelessness.",
+        "start_offset": 66,
+        "end_offset": 79,
+        "start": 15.244,
+        "end": 15.864,
+        "score": -0.8163
+      },
+      {
+        "word": "It",
+        "start_offset": 80,
+        "end_offset": 82,
+        "start": 16.764,
+        "end": 16.824,
+        "score": -0.7363
+      },
+      {
+        "word": "would",
+        "start_offset": 83,
+        "end_offset": 88,
+        "start": 16.844,
+        "end": 16.964,
+        "score": -1.0331
+      },
+      {
+        "word": "immediately",
+        "start_offset": 89,
+        "end_offset": 100,
+        "start": 16.984,
+        "end": 17.365,
+        "score": -1.5856
+      },
+      {
+        "word": "remove",
+        "start_offset": 101,
+        "end_offset": 107,
+        "start": 17.405,
+        "end": 17.665,
+        "score": -0.6972
+      },
+      {
+        "word": "its",
+        "start_offset": 108,
+        "end_offset": 111,
+        "start": 17.685,
+        "end": 17.785,
+        "score": -0.7084
+      },
+      {
+        "word": "hand",
+        "start_offset": 112,
+        "end_offset": 116,
+        "start": 17.825,
+        "end": 18.065,
+        "score": -0.7116
+      },
+      {
+        "word": "from",
+        "start_offset": 117,
+        "end_offset": 121,
+        "start": 18.105,
+        "end": 18.265,
+        "score": -0.7122
+      },
+      {
+        "word": "the",
+        "start_offset": 122,
+        "end_offset": 125,
+        "start": 18.325,
+        "end": 18.425,
+        "score": -0.816
+      },
+      {
+        "word": "burning",
+        "start_offset": 126,
+        "end_offset": 133,
+        "start": 19.645,
+        "end": 20.025,
+        "score": -0.7741
+      },
+      {
+        "word": "object",
+        "start_offset": 134,
+        "end_offset": 140,
+        "start": 20.385,
+        "end": 20.765,
+        "score": -0.7251
+      },
+      {
+        "word": "and",
+        "start_offset": 141,
+        "end_offset": 144,
+        "start": 22.786,
+        "end": 23.006,
+        "score": -1.0972
+      },
+      {
+        "word": "then,",
+        "start_offset": 145,
+        "end_offset": 150,
+        "start": 23.206,
+        "end": 23.486,
+        "score": -0.7798
+      },
+      {
+        "word": "in",
+        "start_offset": 151,
+        "end_offset": 153,
+        "start": 23.566,
+        "end": 23.646,
+        "score": -0.8627
+      },
+      {
+        "word": "order",
+        "start_offset": 154,
+        "end_offset": 159,
+        "start": 23.746,
+        "end": 23.986,
+        "score": -0.7291
+      },
+      {
+        "word": "to",
+        "start_offset": 160,
+        "end_offset": 162,
+        "start": 24.106,
+        "end": 24.206,
+        "score": -0.9241
+      },
+      {
+        "word": "not",
+        "start_offset": 163,
+        "end_offset": 166,
+        "start": 25.767,
+        "end": 26.047,
+        "score": -1.0696
+      },
+      {
+        "word": "feel",
+        "start_offset": 167,
+        "end_offset": 171,
+        "start": 28.007,
+        "end": 28.227,
+        "score": -0.7475
+      },
+      {
+        "word": "the",
+        "start_offset": 172,
+        "end_offset": 175,
+        "start": 28.247,
+        "end": 28.307,
+        "score": -3.7445
+      },
+      {
+        "word": "pain",
+        "start_offset": 176,
+        "end_offset": 180,
+        "start": 28.367,
+        "end": 28.588,
+        "score": -0.7247
+      },
+      {
+        "word": "any",
+        "start_offset": 181,
+        "end_offset": 184,
+        "start": 28.628,
+        "end": 28.748,
+        "score": -0.8848
+      },
+      {
+        "word": "more,",
+        "start_offset": 185,
+        "end_offset": 190,
+        "start": 28.808,
+        "end": 28.968,
+        "score": -0.7051
+      },
+      {
+        "word": "would",
+        "start_offset": 191,
+        "end_offset": 196,
+        "start": 28.988,
+        "end": 29.128,
+        "score": -0.8335
+      },
+      {
+        "word": "mentally",
+        "start_offset": 197,
+        "end_offset": 205,
+        "start": 29.168,
+        "end": 29.508,
+        "score": -2.0863
+      },
+      {
+        "word": "cut",
+        "start_offset": 206,
+        "end_offset": 209,
+        "start": 29.588,
+        "end": 29.808,
+        "score": -0.6991
+      },
+      {
+        "word": "the",
+        "start_offset": 210,
+        "end_offset": 213,
+        "start": 29.928,
+        "end": 30.008,
+        "score": -5.5869
+      },
+      {
+        "word": "pain",
+        "start_offset": 214,
+        "end_offset": 218,
+        "start": 30.068,
+        "end": 30.328,
+        "score": -0.7427
+      },
+      {
+        "word": "off",
+        "start_offset": 219,
+        "end_offset": 222,
+        "start": 30.508,
+        "end": 30.728,
+        "score": -0.7314
+      },
+      {
+        "word": "until",
+        "start_offset": 223,
+        "end_offset": 228,
+        "start": 31.608,
+        "end": 31.948,
+        "score": -0.6976
+      },
+      {
+        "word": "healing",
+        "start_offset": 229,
+        "end_offset": 236,
+        "start": 32.088,
+        "end": 32.429,
+        "score": -0.715
+      },
+      {
+        "word": "had",
+        "start_offset": 237,
+        "end_offset": 240,
+        "start": 32.449,
+        "end": 32.549,
+        "score": -1.2213
+      },
+      {
+        "word": "taken",
+        "start_offset": 241,
+        "end_offset": 246,
+        "start": 32.609,
+        "end": 32.869,
+        "score": -0.7044
+      },
+      {
+        "word": "place.",
+        "start_offset": 247,
+        "end_offset": 253,
+        "start": 32.909,
+        "end": 33.269,
+        "score": -0.6974
+      },
+      {
+        "word": "Is",
+        "start_offset": 254,
+        "end_offset": 256,
+        "start": 33.309,
+        "end": 33.389,
+        "score": -1.0137
+      },
+      {
+        "word": "this",
+        "start_offset": 257,
+        "end_offset": 261,
+        "start": 33.429,
+        "end": 33.549,
+        "score": -0.7304
+      },
+      {
+        "word": "correct?",
+        "start_offset": 262,
+        "end_offset": 270,
+        "start": 33.609,
+        "end": 33.989,
+        "score": -0.7181
+      },
+      {
+        "word": "I",
+        "start_offset": 271,
+        "end_offset": 272,
+        "start": 36.35,
+        "end": 36.37,
+        "score": -2.904
+      },
+      {
+        "word": "am",
+        "start_offset": 273,
+        "end_offset": 275,
+        "start": 36.81,
+        "end": 37.09,
+        "score": -4.793
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 276,
+        "end_offset": 279,
+        "start": 37.53,
+        "end": 37.65,
+        "score": -8.0512
+      },
+      {
+        "word": "This",
+        "start_offset": 280,
+        "end_offset": 284,
+        "start": 38.87,
+        "end": 39.23,
+        "score": -3.5718
+      },
+      {
+        "word": "is",
+        "start_offset": 285,
+        "end_offset": 287,
+        "start": 39.911,
+        "end": 40.211,
+        "score": -3.1235
+      },
+      {
+        "word": "correct.",
+        "start_offset": 288,
+        "end_offset": 296,
+        "start": 40.891,
+        "end": 41.591,
+        "score": -2.854
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "083-24.mp3",
+    "audio_duration": 42.0311,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

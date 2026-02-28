@@ -1,0 +1,93 @@
+{
+  "text": "Raw, session number one o six, march fifteenth, nineteen eighty-four.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Raw, session number one o six, march fifteenth, nineteen eighty-four.",
+        "start_offset": 9,
+        "end_offset": 97,
+        "start": 0.72,
+        "end": 7.76
+      }
+    ],
+    "word": [
+      {
+        "word": "Raw,",
+        "start_offset": 9,
+        "end_offset": 16,
+        "start": 0.72,
+        "end": 1.28
+      },
+      {
+        "word": "session",
+        "start_offset": 20,
+        "end_offset": 27,
+        "start": 1.6,
+        "end": 2.16
+      },
+      {
+        "word": "number",
+        "start_offset": 27,
+        "end_offset": 32,
+        "start": 2.16,
+        "end": 2.56
+      },
+      {
+        "word": "one",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 2.56,
+        "end": 2.72
+      },
+      {
+        "word": "o",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 2.88,
+        "end": 3.04
+      },
+      {
+        "word": "six,",
+        "start_offset": 40,
+        "end_offset": 47,
+        "start": 3.2,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "march",
+        "start_offset": 52,
+        "end_offset": 60,
+        "start": 4.16,
+        "end": 4.8
+      },
+      {
+        "word": "fifteenth,",
+        "start_offset": 60,
+        "end_offset": 73,
+        "start": 4.8,
+        "end": 5.84
+      },
+      {
+        "word": "nineteen",
+        "start_offset": 77,
+        "end_offset": 85,
+        "start": 6.16,
+        "end": 6.8
+      },
+      {
+        "word": "eighty-four.",
+        "start_offset": 85,
+        "end_offset": 97,
+        "start": 6.8,
+        "end": 7.76
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "106-00.mp3",
+    "audio_duration": 12.04,
+    "transcription_time": 0.08,
+    "rtfx": 144.86,
+    "timestamp": "2026-01-06T22:01:06.207765+00:00"
+  }
+}

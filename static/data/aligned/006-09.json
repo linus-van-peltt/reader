@@ -1,0 +1,269 @@
+{
+  "text": "Are there any people such as you find on Earth on any of the other planets in this solar system? Do you request space/time present information or space/time continuum information?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Are there any people such as you find on Earth on any of the other planets in this solar system?",
+        "start_offset": 0,
+        "end_offset": 96,
+        "start": 2.901,
+        "end": 11.586
+      },
+      {
+        "segment": "Do you request space/time present information or space/time continuum information?",
+        "start_offset": 97,
+        "end_offset": 179,
+        "start": 19.73,
+        "end": 33.597
+      }
+    ],
+    "word": [
+      {
+        "word": "Are",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.901,
+        "end": 3.002,
+        "score": -9.0429
+      },
+      {
+        "word": "there",
+        "start_offset": 4,
+        "end_offset": 9,
+        "start": 3.022,
+        "end": 3.162,
+        "score": -7.7747
+      },
+      {
+        "word": "any",
+        "start_offset": 10,
+        "end_offset": 13,
+        "start": 3.182,
+        "end": 3.242,
+        "score": -4.3362
+      },
+      {
+        "word": "people",
+        "start_offset": 14,
+        "end_offset": 20,
+        "start": 3.262,
+        "end": 3.382,
+        "score": -5.9254
+      },
+      {
+        "word": "such",
+        "start_offset": 21,
+        "end_offset": 25,
+        "start": 3.402,
+        "end": 3.482,
+        "score": -7.5735
+      },
+      {
+        "word": "as",
+        "start_offset": 26,
+        "end_offset": 28,
+        "start": 3.502,
+        "end": 3.542,
+        "score": -5.167
+      },
+      {
+        "word": "you",
+        "start_offset": 29,
+        "end_offset": 32,
+        "start": 3.562,
+        "end": 3.622,
+        "score": -6.3056
+      },
+      {
+        "word": "find",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 3.642,
+        "end": 3.722,
+        "score": -6.1454
+      },
+      {
+        "word": "on",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 3.742,
+        "end": 3.782,
+        "score": -5.3476
+      },
+      {
+        "word": "Earth",
+        "start_offset": 41,
+        "end_offset": 46,
+        "start": 3.802,
+        "end": 3.902,
+        "score": -7.2817
+      },
+      {
+        "word": "on",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 3.922,
+        "end": 6.603,
+        "score": -7.5128
+      },
+      {
+        "word": "any",
+        "start_offset": 50,
+        "end_offset": 53,
+        "start": 6.623,
+        "end": 6.703,
+        "score": -7.2569
+      },
+      {
+        "word": "of",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 6.723,
+        "end": 6.763,
+        "score": -9.1589
+      },
+      {
+        "word": "the",
+        "start_offset": 57,
+        "end_offset": 60,
+        "start": 6.784,
+        "end": 6.844,
+        "score": -7.3892
+      },
+      {
+        "word": "other",
+        "start_offset": 61,
+        "end_offset": 66,
+        "start": 6.864,
+        "end": 8.064,
+        "score": -5.7689
+      },
+      {
+        "word": "planets",
+        "start_offset": 67,
+        "end_offset": 74,
+        "start": 8.084,
+        "end": 8.464,
+        "score": -6.7886
+      },
+      {
+        "word": "in",
+        "start_offset": 75,
+        "end_offset": 77,
+        "start": 8.604,
+        "end": 9.285,
+        "score": -7.5451
+      },
+      {
+        "word": "this",
+        "start_offset": 78,
+        "end_offset": 82,
+        "start": 9.345,
+        "end": 9.545,
+        "score": -7.7497
+      },
+      {
+        "word": "solar",
+        "start_offset": 83,
+        "end_offset": 88,
+        "start": 9.565,
+        "end": 10.045,
+        "score": -7.5066
+      },
+      {
+        "word": "system?",
+        "start_offset": 89,
+        "end_offset": 96,
+        "start": 10.666,
+        "end": 11.586,
+        "score": -7.8169
+      },
+      {
+        "word": "Do",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 19.73,
+        "end": 19.83,
+        "score": -0.8187
+      },
+      {
+        "word": "you",
+        "start_offset": 100,
+        "end_offset": 103,
+        "start": 21.431,
+        "end": 21.571,
+        "score": -0.8496
+      },
+      {
+        "word": "request",
+        "start_offset": 104,
+        "end_offset": 111,
+        "start": 23.112,
+        "end": 23.832,
+        "score": -0.7188
+      },
+      {
+        "word": "space/time",
+        "start_offset": 112,
+        "end_offset": 122,
+        "start": 25.253,
+        "end": 26.153,
+        "score": -0.7681
+      },
+      {
+        "word": "present",
+        "start_offset": 123,
+        "end_offset": 130,
+        "start": 26.434,
+        "end": 26.934,
+        "score": -0.7131
+      },
+      {
+        "word": "information",
+        "start_offset": 131,
+        "end_offset": 142,
+        "start": 27.314,
+        "end": 28.175,
+        "score": -0.8044
+      },
+      {
+        "word": "or",
+        "start_offset": 143,
+        "end_offset": 145,
+        "start": 29.335,
+        "end": 29.455,
+        "score": -0.8131
+      },
+      {
+        "word": "space/time",
+        "start_offset": 146,
+        "end_offset": 156,
+        "start": 30.256,
+        "end": 31.076,
+        "score": -0.7343
+      },
+      {
+        "word": "continuum",
+        "start_offset": 157,
+        "end_offset": 166,
+        "start": 31.276,
+        "end": 32.077,
+        "score": -1.6203
+      },
+      {
+        "word": "information?",
+        "start_offset": 167,
+        "end_offset": 179,
+        "start": 32.817,
+        "end": 33.597,
+        "score": -0.721
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "006-09.mp3",
+    "audio_duration": 34.0376,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

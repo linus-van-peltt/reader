@@ -1,0 +1,292 @@
+{
+  "text": "By striving toward light, what do you mean? I am Ra. A very simplistic example of second-density growth striving towards light is that of the leaf striving towards the source of light.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "By striving toward light, what do you mean?",
+        "start_offset": 0,
+        "end_offset": 43,
+        "start": 2.781,
+        "end": 15.464
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 44,
+        "end_offset": 52,
+        "start": 15.484,
+        "end": 16.944
+      },
+      {
+        "segment": "A very simplistic example of second-density growth striving towards light is that of the leaf striving towards the source of light.",
+        "start_offset": 53,
+        "end_offset": 184,
+        "start": 17.044,
+        "end": 48.092
+      }
+    ],
+    "word": [
+      {
+        "word": "By",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.781,
+        "end": 3.621,
+        "score": -9.7179
+      },
+      {
+        "word": "striving",
+        "start_offset": 3,
+        "end_offset": 11,
+        "start": 3.641,
+        "end": 10.322,
+        "score": -6.5339
+      },
+      {
+        "word": "toward",
+        "start_offset": 12,
+        "end_offset": 18,
+        "start": 11.143,
+        "end": 11.443,
+        "score": -6.1999
+      },
+      {
+        "word": "light,",
+        "start_offset": 19,
+        "end_offset": 25,
+        "start": 11.463,
+        "end": 11.563,
+        "score": -7.037
+      },
+      {
+        "word": "what",
+        "start_offset": 26,
+        "end_offset": 30,
+        "start": 11.603,
+        "end": 11.683,
+        "score": -6.6402
+      },
+      {
+        "word": "do",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 11.703,
+        "end": 11.743,
+        "score": -7.3404
+      },
+      {
+        "word": "you",
+        "start_offset": 34,
+        "end_offset": 37,
+        "start": 11.763,
+        "end": 11.823,
+        "score": -9.2942
+      },
+      {
+        "word": "mean?",
+        "start_offset": 38,
+        "end_offset": 43,
+        "start": 15.304,
+        "end": 15.464,
+        "score": -6.3019
+      },
+      {
+        "word": "I",
+        "start_offset": 44,
+        "end_offset": 45,
+        "start": 15.484,
+        "end": 15.504,
+        "score": -5.1869
+      },
+      {
+        "word": "am",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 15.524,
+        "end": 16.884,
+        "score": -7.0941
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 16.904,
+        "end": 16.944,
+        "score": -5.3066
+      },
+      {
+        "word": "A",
+        "start_offset": 53,
+        "end_offset": 54,
+        "start": 17.044,
+        "end": 17.064,
+        "score": -7.8471
+      },
+      {
+        "word": "very",
+        "start_offset": 55,
+        "end_offset": 59,
+        "start": 17.084,
+        "end": 17.504,
+        "score": -0.7529
+      },
+      {
+        "word": "simplistic",
+        "start_offset": 60,
+        "end_offset": 70,
+        "start": 18.384,
+        "end": 19.605,
+        "score": -0.8076
+      },
+      {
+        "word": "example",
+        "start_offset": 71,
+        "end_offset": 78,
+        "start": 20.685,
+        "end": 21.625,
+        "score": -0.7269
+      },
+      {
+        "word": "of",
+        "start_offset": 79,
+        "end_offset": 81,
+        "start": 22.806,
+        "end": 23.066,
+        "score": -0.7146
+      },
+      {
+        "word": "second-density",
+        "start_offset": 82,
+        "end_offset": 96,
+        "start": 23.866,
+        "end": 25.986,
+        "score": -0.7351
+      },
+      {
+        "word": "growth",
+        "start_offset": 97,
+        "end_offset": 103,
+        "start": 27.327,
+        "end": 27.867,
+        "score": -1.8728
+      },
+      {
+        "word": "striving",
+        "start_offset": 104,
+        "end_offset": 112,
+        "start": 28.607,
+        "end": 29.407,
+        "score": -0.7066
+      },
+      {
+        "word": "towards",
+        "start_offset": 113,
+        "end_offset": 120,
+        "start": 30.107,
+        "end": 30.827,
+        "score": -0.7574
+      },
+      {
+        "word": "light",
+        "start_offset": 121,
+        "end_offset": 126,
+        "start": 31.588,
+        "end": 31.988,
+        "score": -0.8575
+      },
+      {
+        "word": "is",
+        "start_offset": 127,
+        "end_offset": 129,
+        "start": 33.088,
+        "end": 33.388,
+        "score": -0.7062
+      },
+      {
+        "word": "that",
+        "start_offset": 130,
+        "end_offset": 134,
+        "start": 34.048,
+        "end": 34.488,
+        "score": -0.7127
+      },
+      {
+        "word": "of",
+        "start_offset": 135,
+        "end_offset": 137,
+        "start": 35.389,
+        "end": 35.609,
+        "score": -0.7308
+      },
+      {
+        "word": "the",
+        "start_offset": 138,
+        "end_offset": 141,
+        "start": 36.329,
+        "end": 36.469,
+        "score": -0.9512
+      },
+      {
+        "word": "leaf",
+        "start_offset": 142,
+        "end_offset": 146,
+        "start": 37.709,
+        "end": 38.169,
+        "score": -1.4664
+      },
+      {
+        "word": "striving",
+        "start_offset": 147,
+        "end_offset": 155,
+        "start": 40.11,
+        "end": 41.01,
+        "score": -0.7379
+      },
+      {
+        "word": "towards",
+        "start_offset": 156,
+        "end_offset": 163,
+        "start": 42.05,
+        "end": 42.99,
+        "score": -0.7617
+      },
+      {
+        "word": "the",
+        "start_offset": 164,
+        "end_offset": 167,
+        "start": 44.311,
+        "end": 44.431,
+        "score": -0.8835
+      },
+      {
+        "word": "source",
+        "start_offset": 168,
+        "end_offset": 174,
+        "start": 45.251,
+        "end": 45.851,
+        "score": -1.0308
+      },
+      {
+        "word": "of",
+        "start_offset": 175,
+        "end_offset": 177,
+        "start": 46.691,
+        "end": 46.911,
+        "score": -0.8094
+      },
+      {
+        "word": "light.",
+        "start_offset": 178,
+        "end_offset": 184,
+        "start": 47.632,
+        "end": 48.092,
+        "score": -1.1668
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "013-19.mp3",
+    "audio_duration": 49.0319,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "text": "Could you de-roughen it, elucidate a bit on that? I am Ra. There is intervening material before we may do so.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you de-roughen it, elucidate a bit on that?",
+        "start_offset": 0,
+        "end_offset": 49,
+        "start": 2.742,
+        "end": 5.804
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 50,
+        "end_offset": 58,
+        "start": 8.505,
+        "end": 10.627
+      },
+      {
+        "segment": "There is intervening material before we may do so.",
+        "start_offset": 59,
+        "end_offset": 109,
+        "start": 14.549,
+        "end": 26.156
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.742,
+        "end": 2.922,
+        "score": -1.5839
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 2.962,
+        "end": 3.042,
+        "score": -1.6843
+      },
+      {
+        "word": "de-roughen",
+        "start_offset": 10,
+        "end_offset": 20,
+        "start": 3.122,
+        "end": 3.742,
+        "score": -2.4746
+      },
+      {
+        "word": "it,",
+        "start_offset": 21,
+        "end_offset": 24,
+        "start": 3.802,
+        "end": 3.882,
+        "score": -2.0736
+      },
+      {
+        "word": "elucidate",
+        "start_offset": 25,
+        "end_offset": 34,
+        "start": 4.263,
+        "end": 5.103,
+        "score": -3.8694
+      },
+      {
+        "word": "a",
+        "start_offset": 35,
+        "end_offset": 36,
+        "start": 5.203,
+        "end": 5.223,
+        "score": -2.1655
+      },
+      {
+        "word": "bit",
+        "start_offset": 37,
+        "end_offset": 40,
+        "start": 5.283,
+        "end": 5.423,
+        "score": -2.6546
+      },
+      {
+        "word": "on",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 5.483,
+        "end": 5.583,
+        "score": -2.647
+      },
+      {
+        "word": "that?",
+        "start_offset": 44,
+        "end_offset": 49,
+        "start": 5.603,
+        "end": 5.804,
+        "score": -2.7324
+      },
+      {
+        "word": "I",
+        "start_offset": 50,
+        "end_offset": 51,
+        "start": 8.505,
+        "end": 8.525,
+        "score": -1.7117
+      },
+      {
+        "word": "am",
+        "start_offset": 52,
+        "end_offset": 54,
+        "start": 9.386,
+        "end": 9.646,
+        "score": -3.5186
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 55,
+        "end_offset": 58,
+        "start": 10.486,
+        "end": 10.627,
+        "score": -1.807
+      },
+      {
+        "word": "There",
+        "start_offset": 59,
+        "end_offset": 64,
+        "start": 14.549,
+        "end": 14.889,
+        "score": -0.808
+      },
+      {
+        "word": "is",
+        "start_offset": 65,
+        "end_offset": 67,
+        "start": 15.71,
+        "end": 16.05,
+        "score": -0.7415
+      },
+      {
+        "word": "intervening",
+        "start_offset": 68,
+        "end_offset": 79,
+        "start": 17.211,
+        "end": 18.652,
+        "score": -0.7328
+      },
+      {
+        "word": "material",
+        "start_offset": 80,
+        "end_offset": 88,
+        "start": 19.912,
+        "end": 20.973,
+        "score": -0.7102
+      },
+      {
+        "word": "before",
+        "start_offset": 89,
+        "end_offset": 95,
+        "start": 22.414,
+        "end": 23.074,
+        "score": -0.7491
+      },
+      {
+        "word": "we",
+        "start_offset": 96,
+        "end_offset": 98,
+        "start": 23.735,
+        "end": 23.875,
+        "score": -0.7129
+      },
+      {
+        "word": "may",
+        "start_offset": 99,
+        "end_offset": 102,
+        "start": 24.395,
+        "end": 24.635,
+        "score": -0.7155
+      },
+      {
+        "word": "do",
+        "start_offset": 103,
+        "end_offset": 105,
+        "start": 25.456,
+        "end": 25.556,
+        "score": -0.7037
+      },
+      {
+        "word": "so.",
+        "start_offset": 106,
+        "end_offset": 109,
+        "start": 26.016,
+        "end": 26.156,
+        "score": -0.7007
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "079-25.mp3",
+    "audio_duration": 27.0368,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

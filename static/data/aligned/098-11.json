@@ -1,0 +1,593 @@
+{
+  "text": "Can we alleviate those and, if so, how and where are they? I am Ra. None can be alleviated at this space/time nexus. One is located within the juncture of the right hip. Another which is very small is near the organ you call the liver. There are also small cell distortions under the, we may call it, arm, to distinguish the upper appendages, on both sides.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can we alleviate those and, if so, how and where are they?",
+        "start_offset": 0,
+        "end_offset": 58,
+        "start": 2.96,
+        "end": 16.521
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 59,
+        "end_offset": 67,
+        "start": 16.541,
+        "end": 18.882
+      },
+      {
+        "segment": "None can be alleviated at this space/time nexus.",
+        "start_offset": 68,
+        "end_offset": 116,
+        "start": 18.902,
+        "end": 32.423
+      },
+      {
+        "segment": "One is located within the juncture of the right hip.",
+        "start_offset": 117,
+        "end_offset": 169,
+        "start": 34.883,
+        "end": 49.904
+      },
+      {
+        "segment": "Another which is very small is near the organ you call the liver.",
+        "start_offset": 170,
+        "end_offset": 235,
+        "start": 52.924,
+        "end": 79.126
+      },
+      {
+        "segment": "There are also small cell distortions under the, we may call it, arm, to distinguish the upper appendages, on both sides.",
+        "start_offset": 236,
+        "end_offset": 357,
+        "start": 83.567,
+        "end": 133.251
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.96,
+        "end": 3.16,
+        "score": -5.3586
+      },
+      {
+        "word": "we",
+        "start_offset": 4,
+        "end_offset": 6,
+        "start": 3.24,
+        "end": 3.36,
+        "score": -2.655
+      },
+      {
+        "word": "alleviate",
+        "start_offset": 7,
+        "end_offset": 16,
+        "start": 3.68,
+        "end": 8.481,
+        "score": -5.7191
+      },
+      {
+        "word": "those",
+        "start_offset": 17,
+        "end_offset": 22,
+        "start": 8.661,
+        "end": 8.761,
+        "score": -6.8616
+      },
+      {
+        "word": "and,",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 8.781,
+        "end": 8.881,
+        "score": -6.567
+      },
+      {
+        "word": "if",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 8.961,
+        "end": 12.721,
+        "score": -5.8689
+      },
+      {
+        "word": "so,",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 12.741,
+        "end": 12.881,
+        "score": -6.5228
+      },
+      {
+        "word": "how",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 13.101,
+        "end": 14.081,
+        "score": -6.82
+      },
+      {
+        "word": "and",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 14.161,
+        "end": 14.461,
+        "score": -3.0127
+      },
+      {
+        "word": "where",
+        "start_offset": 43,
+        "end_offset": 48,
+        "start": 16.101,
+        "end": 16.221,
+        "score": -4.5726
+      },
+      {
+        "word": "are",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 16.301,
+        "end": 16.421,
+        "score": -4.7243
+      },
+      {
+        "word": "they?",
+        "start_offset": 53,
+        "end_offset": 58,
+        "start": 16.441,
+        "end": 16.521,
+        "score": -5.5076
+      },
+      {
+        "word": "I",
+        "start_offset": 59,
+        "end_offset": 60,
+        "start": 16.541,
+        "end": 16.561,
+        "score": -8.0733
+      },
+      {
+        "word": "am",
+        "start_offset": 61,
+        "end_offset": 63,
+        "start": 16.581,
+        "end": 16.621,
+        "score": -7.6359
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 16.641,
+        "end": 18.882,
+        "score": -7.4344
+      },
+      {
+        "word": "None",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 18.902,
+        "end": 19.262,
+        "score": -2.4868
+      },
+      {
+        "word": "can",
+        "start_offset": 73,
+        "end_offset": 76,
+        "start": 20.242,
+        "end": 20.762,
+        "score": -0.7096
+      },
+      {
+        "word": "be",
+        "start_offset": 77,
+        "end_offset": 79,
+        "start": 21.362,
+        "end": 21.442,
+        "score": -0.7801
+      },
+      {
+        "word": "alleviated",
+        "start_offset": 80,
+        "end_offset": 90,
+        "start": 21.902,
+        "end": 23.282,
+        "score": -1.6681
+      },
+      {
+        "word": "at",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 24.782,
+        "end": 25.042,
+        "score": -2.0457
+      },
+      {
+        "word": "this",
+        "start_offset": 94,
+        "end_offset": 98,
+        "start": 27.622,
+        "end": 27.962,
+        "score": -0.7501
+      },
+      {
+        "word": "space/time",
+        "start_offset": 99,
+        "end_offset": 109,
+        "start": 28.842,
+        "end": 30.382,
+        "score": -1.3834
+      },
+      {
+        "word": "nexus.",
+        "start_offset": 110,
+        "end_offset": 116,
+        "start": 31.723,
+        "end": 32.423,
+        "score": -1.2831
+      },
+      {
+        "word": "One",
+        "start_offset": 117,
+        "end_offset": 120,
+        "start": 34.883,
+        "end": 35.163,
+        "score": -1.0312
+      },
+      {
+        "word": "is",
+        "start_offset": 121,
+        "end_offset": 123,
+        "start": 36.283,
+        "end": 36.603,
+        "score": -0.8452
+      },
+      {
+        "word": "located",
+        "start_offset": 124,
+        "end_offset": 131,
+        "start": 38.443,
+        "end": 39.383,
+        "score": -0.703
+      },
+      {
+        "word": "within",
+        "start_offset": 132,
+        "end_offset": 138,
+        "start": 40.483,
+        "end": 41.023,
+        "score": -0.7913
+      },
+      {
+        "word": "the",
+        "start_offset": 139,
+        "end_offset": 142,
+        "start": 42.463,
+        "end": 42.603,
+        "score": -0.8687
+      },
+      {
+        "word": "juncture",
+        "start_offset": 143,
+        "end_offset": 151,
+        "start": 43.063,
+        "end": 43.824,
+        "score": -0.751
+      },
+      {
+        "word": "of",
+        "start_offset": 152,
+        "end_offset": 154,
+        "start": 44.784,
+        "end": 45.084,
+        "score": -1.6784
+      },
+      {
+        "word": "the",
+        "start_offset": 155,
+        "end_offset": 158,
+        "start": 45.404,
+        "end": 45.524,
+        "score": -1.6929
+      },
+      {
+        "word": "right",
+        "start_offset": 159,
+        "end_offset": 164,
+        "start": 47.484,
+        "end": 47.844,
+        "score": -0.8768
+      },
+      {
+        "word": "hip.",
+        "start_offset": 165,
+        "end_offset": 169,
+        "start": 49.644,
+        "end": 49.904,
+        "score": -1.0947
+      },
+      {
+        "word": "Another",
+        "start_offset": 170,
+        "end_offset": 177,
+        "start": 52.924,
+        "end": 53.504,
+        "score": -0.753
+      },
+      {
+        "word": "which",
+        "start_offset": 178,
+        "end_offset": 183,
+        "start": 55.864,
+        "end": 56.205,
+        "score": -0.7782
+      },
+      {
+        "word": "is",
+        "start_offset": 184,
+        "end_offset": 186,
+        "start": 58.285,
+        "end": 58.525,
+        "score": -0.9429
+      },
+      {
+        "word": "very",
+        "start_offset": 187,
+        "end_offset": 191,
+        "start": 60.405,
+        "end": 60.765,
+        "score": -1.246
+      },
+      {
+        "word": "small",
+        "start_offset": 192,
+        "end_offset": 197,
+        "start": 62.625,
+        "end": 63.105,
+        "score": -1.2063
+      },
+      {
+        "word": "is",
+        "start_offset": 198,
+        "end_offset": 200,
+        "start": 65.005,
+        "end": 65.285,
+        "score": -0.934
+      },
+      {
+        "word": "near",
+        "start_offset": 201,
+        "end_offset": 205,
+        "start": 67.645,
+        "end": 67.985,
+        "score": -1.4777
+      },
+      {
+        "word": "the",
+        "start_offset": 206,
+        "end_offset": 209,
+        "start": 69.146,
+        "end": 69.286,
+        "score": -1.4259
+      },
+      {
+        "word": "organ",
+        "start_offset": 210,
+        "end_offset": 215,
+        "start": 73.186,
+        "end": 73.586,
+        "score": -0.7243
+      },
+      {
+        "word": "you",
+        "start_offset": 216,
+        "end_offset": 219,
+        "start": 74.406,
+        "end": 74.546,
+        "score": -1.2351
+      },
+      {
+        "word": "call",
+        "start_offset": 220,
+        "end_offset": 224,
+        "start": 75.466,
+        "end": 75.886,
+        "score": -0.905
+      },
+      {
+        "word": "the",
+        "start_offset": 225,
+        "end_offset": 228,
+        "start": 76.466,
+        "end": 76.626,
+        "score": -1.7691
+      },
+      {
+        "word": "liver.",
+        "start_offset": 229,
+        "end_offset": 235,
+        "start": 78.746,
+        "end": 79.126,
+        "score": -0.7956
+      },
+      {
+        "word": "There",
+        "start_offset": 236,
+        "end_offset": 241,
+        "start": 83.567,
+        "end": 83.867,
+        "score": -1.2324
+      },
+      {
+        "word": "are",
+        "start_offset": 242,
+        "end_offset": 245,
+        "start": 85.327,
+        "end": 85.587,
+        "score": -2.0328
+      },
+      {
+        "word": "also",
+        "start_offset": 246,
+        "end_offset": 250,
+        "start": 86.807,
+        "end": 87.287,
+        "score": -0.7507
+      },
+      {
+        "word": "small",
+        "start_offset": 251,
+        "end_offset": 256,
+        "start": 88.847,
+        "end": 89.387,
+        "score": -0.7628
+      },
+      {
+        "word": "cell",
+        "start_offset": 257,
+        "end_offset": 261,
+        "start": 93.608,
+        "end": 94.008,
+        "score": -1.3522
+      },
+      {
+        "word": "distortions",
+        "start_offset": 262,
+        "end_offset": 273,
+        "start": 94.488,
+        "end": 95.488,
+        "score": -0.7593
+      },
+      {
+        "word": "under",
+        "start_offset": 274,
+        "end_offset": 279,
+        "start": 99.168,
+        "end": 99.568,
+        "score": -0.7272
+      },
+      {
+        "word": "the,",
+        "start_offset": 280,
+        "end_offset": 284,
+        "start": 100.828,
+        "end": 100.948,
+        "score": -2.0347
+      },
+      {
+        "word": "we",
+        "start_offset": 285,
+        "end_offset": 287,
+        "start": 112.589,
+        "end": 112.709,
+        "score": -1.2019
+      },
+      {
+        "word": "may",
+        "start_offset": 288,
+        "end_offset": 291,
+        "start": 114.109,
+        "end": 114.289,
+        "score": -1.0939
+      },
+      {
+        "word": "call",
+        "start_offset": 292,
+        "end_offset": 296,
+        "start": 114.409,
+        "end": 114.749,
+        "score": -0.9901
+      },
+      {
+        "word": "it,",
+        "start_offset": 297,
+        "end_offset": 300,
+        "start": 114.989,
+        "end": 115.129,
+        "score": -0.72
+      },
+      {
+        "word": "arm,",
+        "start_offset": 301,
+        "end_offset": 305,
+        "start": 115.849,
+        "end": 116.009,
+        "score": -3.0807
+      },
+      {
+        "word": "to",
+        "start_offset": 306,
+        "end_offset": 308,
+        "start": 119.57,
+        "end": 119.71,
+        "score": -1.4392
+      },
+      {
+        "word": "distinguish",
+        "start_offset": 309,
+        "end_offset": 320,
+        "start": 120.17,
+        "end": 121.35,
+        "score": -0.7699
+      },
+      {
+        "word": "the",
+        "start_offset": 321,
+        "end_offset": 324,
+        "start": 122.65,
+        "end": 122.79,
+        "score": -1.0754
+      },
+      {
+        "word": "upper",
+        "start_offset": 325,
+        "end_offset": 330,
+        "start": 123.75,
+        "end": 124.11,
+        "score": -1.0139
+      },
+      {
+        "word": "appendages,",
+        "start_offset": 331,
+        "end_offset": 342,
+        "start": 125.65,
+        "end": 126.79,
+        "score": -1.0855
+      },
+      {
+        "word": "on",
+        "start_offset": 343,
+        "end_offset": 345,
+        "start": 129.93,
+        "end": 130.17,
+        "score": -0.7672
+      },
+      {
+        "word": "both",
+        "start_offset": 346,
+        "end_offset": 350,
+        "start": 131.111,
+        "end": 131.551,
+        "score": -0.8188
+      },
+      {
+        "word": "sides.",
+        "start_offset": 351,
+        "end_offset": 357,
+        "start": 132.571,
+        "end": 133.251,
+        "score": -1.5834
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "098-11.mp3",
+    "audio_duration": 138.0311,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

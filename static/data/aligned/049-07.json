@@ -1,0 +1,124 @@
+{
+  "text": "Will you recommend a technique of meditation? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Will you recommend a technique of meditation?",
+        "start_offset": 0,
+        "end_offset": 45,
+        "start": 5.362,
+        "end": 10.005
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 46,
+        "end_offset": 54,
+        "start": 18.909,
+        "end": 20.83
+      },
+      {
+        "segment": "No.",
+        "start_offset": 55,
+        "end_offset": 58,
+        "start": 22.85,
+        "end": 22.97
+      }
+    ],
+    "word": [
+      {
+        "word": "Will",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 5.362,
+        "end": 5.523,
+        "score": -5.7703
+      },
+      {
+        "word": "you",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 5.563,
+        "end": 5.643,
+        "score": -1.8526
+      },
+      {
+        "word": "recommend",
+        "start_offset": 9,
+        "end_offset": 18,
+        "start": 5.703,
+        "end": 6.323,
+        "score": -1.4018
+      },
+      {
+        "word": "a",
+        "start_offset": 19,
+        "end_offset": 20,
+        "start": 8.084,
+        "end": 8.104,
+        "score": -1.6982
+      },
+      {
+        "word": "technique",
+        "start_offset": 21,
+        "end_offset": 30,
+        "start": 8.244,
+        "end": 8.904,
+        "score": -1.2528
+      },
+      {
+        "word": "of",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 9.124,
+        "end": 9.224,
+        "score": -1.7804
+      },
+      {
+        "word": "meditation?",
+        "start_offset": 34,
+        "end_offset": 45,
+        "start": 9.284,
+        "end": 10.005,
+        "score": -0.7898
+      },
+      {
+        "word": "I",
+        "start_offset": 46,
+        "end_offset": 47,
+        "start": 18.909,
+        "end": 18.929,
+        "score": -1.7538
+      },
+      {
+        "word": "am",
+        "start_offset": 48,
+        "end_offset": 50,
+        "start": 19.709,
+        "end": 19.989,
+        "score": -2.9025
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 20.749,
+        "end": 20.83,
+        "score": -3.3403
+      },
+      {
+        "word": "No.",
+        "start_offset": 55,
+        "end_offset": 58,
+        "start": 22.85,
+        "end": 22.97,
+        "score": -2.1988
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "049-07.mp3",
+    "audio_duration": 25.0514,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

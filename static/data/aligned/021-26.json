@@ -1,0 +1,196 @@
+{
+  "text": "Did you mean to say master or major cycle? I am Ra. The appropriate sound vibration complex is major cycle.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Did you mean to say master or major cycle?",
+        "start_offset": 0,
+        "end_offset": 42,
+        "start": 2.681,
+        "end": 8.845
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 43,
+        "end_offset": 51,
+        "start": 9.045,
+        "end": 10.706
+      },
+      {
+        "segment": "The appropriate sound vibration complex is major cycle.",
+        "start_offset": 52,
+        "end_offset": 107,
+        "start": 13.207,
+        "end": 23.332
+      }
+    ],
+    "word": [
+      {
+        "word": "Did",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.681,
+        "end": 2.882,
+        "score": -5.9336
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 2.922,
+        "end": 3.002,
+        "score": -5.6974
+      },
+      {
+        "word": "mean",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 3.122,
+        "end": 3.322,
+        "score": -4.2043
+      },
+      {
+        "word": "to",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 3.362,
+        "end": 3.402,
+        "score": -3.9834
+      },
+      {
+        "word": "say",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 3.502,
+        "end": 3.682,
+        "score": -4.8051
+      },
+      {
+        "word": "master",
+        "start_offset": 20,
+        "end_offset": 26,
+        "start": 3.862,
+        "end": 4.322,
+        "score": -5.1805
+      },
+      {
+        "word": "or",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 4.442,
+        "end": 4.542,
+        "score": -7.7155
+      },
+      {
+        "word": "major",
+        "start_offset": 30,
+        "end_offset": 35,
+        "start": 4.622,
+        "end": 4.943,
+        "score": -4.1829
+      },
+      {
+        "word": "cycle?",
+        "start_offset": 36,
+        "end_offset": 42,
+        "start": 5.103,
+        "end": 8.845,
+        "score": -8.3695
+      },
+      {
+        "word": "I",
+        "start_offset": 43,
+        "end_offset": 44,
+        "start": 9.045,
+        "end": 9.065,
+        "score": -1.0817
+      },
+      {
+        "word": "am",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 9.645,
+        "end": 9.905,
+        "score": -3.0593
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 10.566,
+        "end": 10.706,
+        "score": -1.1332
+      },
+      {
+        "word": "The",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 13.207,
+        "end": 13.347,
+        "score": -0.7191
+      },
+      {
+        "word": "appropriate",
+        "start_offset": 56,
+        "end_offset": 67,
+        "start": 14.107,
+        "end": 15.328,
+        "score": -0.9225
+      },
+      {
+        "word": "sound",
+        "start_offset": 68,
+        "end_offset": 73,
+        "start": 15.748,
+        "end": 16.249,
+        "score": -0.7149
+      },
+      {
+        "word": "vibration",
+        "start_offset": 74,
+        "end_offset": 83,
+        "start": 16.649,
+        "end": 17.529,
+        "score": -0.7005
+      },
+      {
+        "word": "complex",
+        "start_offset": 84,
+        "end_offset": 91,
+        "start": 18.11,
+        "end": 19.01,
+        "score": -0.6955
+      },
+      {
+        "word": "is",
+        "start_offset": 92,
+        "end_offset": 94,
+        "start": 20.391,
+        "end": 20.711,
+        "score": -0.7006
+      },
+      {
+        "word": "major",
+        "start_offset": 95,
+        "end_offset": 100,
+        "start": 21.151,
+        "end": 21.751,
+        "score": -0.6991
+      },
+      {
+        "word": "cycle.",
+        "start_offset": 101,
+        "end_offset": 107,
+        "start": 22.692,
+        "end": 23.332,
+        "score": -1.0336
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "021-26.mp3",
+    "audio_duration": 24.0327,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

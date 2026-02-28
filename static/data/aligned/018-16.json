@@ -1,0 +1,235 @@
+{
+  "text": "Can you tell me specifically what they did in this case? I am Ra. We have answered this question. Please restate for further information.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me specifically what they did in this case?",
+        "start_offset": 0,
+        "end_offset": 56,
+        "start": 2.241,
+        "end": 6.464
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 57,
+        "end_offset": 65,
+        "start": 10.286,
+        "end": 11.787
+      },
+      {
+        "segment": "We have answered this question.",
+        "start_offset": 66,
+        "end_offset": 97,
+        "start": 14.649,
+        "end": 19.112
+      },
+      {
+        "segment": "Please restate for further information.",
+        "start_offset": 98,
+        "end_offset": 137,
+        "start": 20.453,
+        "end": 26.677
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.241,
+        "end": 2.381,
+        "score": -4.2802
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 2.422,
+        "end": 2.502,
+        "score": -0.758
+      },
+      {
+        "word": "tell",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 2.562,
+        "end": 2.742,
+        "score": -0.7686
+      },
+      {
+        "word": "me",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 2.782,
+        "end": 2.842,
+        "score": -0.7023
+      },
+      {
+        "word": "specifically",
+        "start_offset": 16,
+        "end_offset": 28,
+        "start": 3.162,
+        "end": 3.982,
+        "score": -0.7309
+      },
+      {
+        "word": "what",
+        "start_offset": 29,
+        "end_offset": 33,
+        "start": 4.083,
+        "end": 4.243,
+        "score": -0.7499
+      },
+      {
+        "word": "they",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 4.303,
+        "end": 4.483,
+        "score": -0.7572
+      },
+      {
+        "word": "did",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 5.103,
+        "end": 5.363,
+        "score": -0.701
+      },
+      {
+        "word": "in",
+        "start_offset": 43,
+        "end_offset": 45,
+        "start": 5.844,
+        "end": 5.904,
+        "score": -0.7091
+      },
+      {
+        "word": "this",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 5.924,
+        "end": 6.084,
+        "score": -0.7621
+      },
+      {
+        "word": "case?",
+        "start_offset": 51,
+        "end_offset": 56,
+        "start": 6.144,
+        "end": 6.464,
+        "score": -0.705
+      },
+      {
+        "word": "I",
+        "start_offset": 57,
+        "end_offset": 58,
+        "start": 10.286,
+        "end": 10.306,
+        "score": -0.7442
+      },
+      {
+        "word": "am",
+        "start_offset": 59,
+        "end_offset": 61,
+        "start": 10.847,
+        "end": 11.087,
+        "score": -0.74
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 11.627,
+        "end": 11.787,
+        "score": -0.9205
+      },
+      {
+        "word": "We",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 14.649,
+        "end": 14.769,
+        "score": -0.7012
+      },
+      {
+        "word": "have",
+        "start_offset": 69,
+        "end_offset": 73,
+        "start": 15.37,
+        "end": 15.73,
+        "score": -0.7012
+      },
+      {
+        "word": "answered",
+        "start_offset": 74,
+        "end_offset": 82,
+        "start": 16.53,
+        "end": 17.051,
+        "score": -0.7203
+      },
+      {
+        "word": "this",
+        "start_offset": 83,
+        "end_offset": 87,
+        "start": 17.511,
+        "end": 17.851,
+        "score": -0.8212
+      },
+      {
+        "word": "question.",
+        "start_offset": 88,
+        "end_offset": 97,
+        "start": 18.471,
+        "end": 19.112,
+        "score": -0.7351
+      },
+      {
+        "word": "Please",
+        "start_offset": 98,
+        "end_offset": 104,
+        "start": 20.453,
+        "end": 20.973,
+        "score": -0.8355
+      },
+      {
+        "word": "restate",
+        "start_offset": 105,
+        "end_offset": 112,
+        "start": 21.413,
+        "end": 22.414,
+        "score": -0.7068
+      },
+      {
+        "word": "for",
+        "start_offset": 113,
+        "end_offset": 116,
+        "start": 23.054,
+        "end": 23.354,
+        "score": -0.7
+      },
+      {
+        "word": "further",
+        "start_offset": 117,
+        "end_offset": 124,
+        "start": 23.735,
+        "end": 24.275,
+        "score": -0.7134
+      },
+      {
+        "word": "information.",
+        "start_offset": 125,
+        "end_offset": 137,
+        "start": 25.256,
+        "end": 26.677,
+        "score": -0.703
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "018-16.mp3",
+    "audio_duration": 27.0368,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

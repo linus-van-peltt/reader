@@ -1,0 +1,641 @@
+{
+  "text": "You stated in a previous session that Ra searched for some time to find a group such as this one. I would assume that this search was for the purpose of communicating the Law of One. Is this correct? I am Ra. This is partially correct. We also, as we have said, wished to attempt to make reparation for distortions of this law set in motion by our naïve actions of your past.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "You stated in a previous session that Ra searched for some time to find a group such as this one.",
+        "start_offset": 0,
+        "end_offset": 97,
+        "start": 3.32,
+        "end": 14.721
+      },
+      {
+        "segment": "I would assume that this search was for the purpose of communicating the Law of One.",
+        "start_offset": 98,
+        "end_offset": 182,
+        "start": 16.662,
+        "end": 25.523
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 183,
+        "end_offset": 199,
+        "start": 25.623,
+        "end": 26.283
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 200,
+        "end_offset": 208,
+        "start": 26.323,
+        "end": 30.783
+      },
+      {
+        "segment": "This is partially correct.",
+        "start_offset": 209,
+        "end_offset": 235,
+        "start": 32.883,
+        "end": 37.644
+      },
+      {
+        "segment": "We also, as we have said, wished to attempt to make reparation for distortions of this law set in motion by our naïve actions of your past.",
+        "start_offset": 236,
+        "end_offset": 375,
+        "start": 39.464,
+        "end": 76.488
+      }
+    ],
+    "word": [
+      {
+        "word": "You",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 3.32,
+        "end": 3.38,
+        "score": -5.0748
+      },
+      {
+        "word": "stated",
+        "start_offset": 4,
+        "end_offset": 10,
+        "start": 3.48,
+        "end": 3.88,
+        "score": -3.0868
+      },
+      {
+        "word": "in",
+        "start_offset": 11,
+        "end_offset": 13,
+        "start": 4.22,
+        "end": 4.3,
+        "score": -5.9312
+      },
+      {
+        "word": "a",
+        "start_offset": 14,
+        "end_offset": 15,
+        "start": 4.32,
+        "end": 4.34,
+        "score": -8.1459
+      },
+      {
+        "word": "previous",
+        "start_offset": 16,
+        "end_offset": 24,
+        "start": 5.201,
+        "end": 5.601,
+        "score": -7.1156
+      },
+      {
+        "word": "session",
+        "start_offset": 25,
+        "end_offset": 32,
+        "start": 5.661,
+        "end": 6.081,
+        "score": -5.7863
+      },
+      {
+        "word": "that",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 6.141,
+        "end": 6.341,
+        "score": -5.0355
+      },
+      {
+        "word": "Ra",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 7.441,
+        "end": 7.581,
+        "score": -2.5042
+      },
+      {
+        "word": "searched",
+        "start_offset": 41,
+        "end_offset": 49,
+        "start": 7.861,
+        "end": 8.341,
+        "score": -3.2562
+      },
+      {
+        "word": "for",
+        "start_offset": 50,
+        "end_offset": 53,
+        "start": 8.781,
+        "end": 8.941,
+        "score": -3.2555
+      },
+      {
+        "word": "some",
+        "start_offset": 54,
+        "end_offset": 58,
+        "start": 9.001,
+        "end": 9.221,
+        "score": -2.7742
+      },
+      {
+        "word": "time",
+        "start_offset": 59,
+        "end_offset": 63,
+        "start": 9.281,
+        "end": 9.661,
+        "score": -3.8908
+      },
+      {
+        "word": "to",
+        "start_offset": 64,
+        "end_offset": 66,
+        "start": 9.681,
+        "end": 9.781,
+        "score": -6.4807
+      },
+      {
+        "word": "find",
+        "start_offset": 67,
+        "end_offset": 71,
+        "start": 11.001,
+        "end": 11.401,
+        "score": -3.8851
+      },
+      {
+        "word": "a",
+        "start_offset": 72,
+        "end_offset": 73,
+        "start": 12.381,
+        "end": 12.401,
+        "score": -5.4436
+      },
+      {
+        "word": "group",
+        "start_offset": 74,
+        "end_offset": 79,
+        "start": 13.181,
+        "end": 13.441,
+        "score": -4.6832
+      },
+      {
+        "word": "such",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 13.881,
+        "end": 14.121,
+        "score": -6.0393
+      },
+      {
+        "word": "as",
+        "start_offset": 85,
+        "end_offset": 87,
+        "start": 14.161,
+        "end": 14.241,
+        "score": -7.3183
+      },
+      {
+        "word": "this",
+        "start_offset": 88,
+        "end_offset": 92,
+        "start": 14.281,
+        "end": 14.421,
+        "score": -5.2859
+      },
+      {
+        "word": "one.",
+        "start_offset": 93,
+        "end_offset": 97,
+        "start": 14.561,
+        "end": 14.721,
+        "score": -5.6523
+      },
+      {
+        "word": "I",
+        "start_offset": 98,
+        "end_offset": 99,
+        "start": 16.662,
+        "end": 16.682,
+        "score": -8.0007
+      },
+      {
+        "word": "would",
+        "start_offset": 100,
+        "end_offset": 105,
+        "start": 16.702,
+        "end": 17.282,
+        "score": -5.146
+      },
+      {
+        "word": "assume",
+        "start_offset": 106,
+        "end_offset": 112,
+        "start": 17.322,
+        "end": 17.722,
+        "score": -2.7301
+      },
+      {
+        "word": "that",
+        "start_offset": 113,
+        "end_offset": 117,
+        "start": 17.742,
+        "end": 17.862,
+        "score": -4.6732
+      },
+      {
+        "word": "this",
+        "start_offset": 118,
+        "end_offset": 122,
+        "start": 17.902,
+        "end": 18.042,
+        "score": -2.6583
+      },
+      {
+        "word": "search",
+        "start_offset": 123,
+        "end_offset": 129,
+        "start": 18.082,
+        "end": 18.362,
+        "score": -2.7306
+      },
+      {
+        "word": "was",
+        "start_offset": 130,
+        "end_offset": 133,
+        "start": 18.422,
+        "end": 18.602,
+        "score": -2.8107
+      },
+      {
+        "word": "for",
+        "start_offset": 134,
+        "end_offset": 137,
+        "start": 18.682,
+        "end": 18.882,
+        "score": -2.7789
+      },
+      {
+        "word": "the",
+        "start_offset": 138,
+        "end_offset": 141,
+        "start": 20.702,
+        "end": 20.762,
+        "score": -5.5514
+      },
+      {
+        "word": "purpose",
+        "start_offset": 142,
+        "end_offset": 149,
+        "start": 20.782,
+        "end": 21.222,
+        "score": -2.7779
+      },
+      {
+        "word": "of",
+        "start_offset": 150,
+        "end_offset": 152,
+        "start": 21.282,
+        "end": 21.382,
+        "score": -2.7773
+      },
+      {
+        "word": "communicating",
+        "start_offset": 153,
+        "end_offset": 166,
+        "start": 22.822,
+        "end": 23.742,
+        "score": -2.9316
+      },
+      {
+        "word": "the",
+        "start_offset": 167,
+        "end_offset": 170,
+        "start": 24.622,
+        "end": 24.702,
+        "score": -5.0072
+      },
+      {
+        "word": "Law",
+        "start_offset": 171,
+        "end_offset": 174,
+        "start": 24.782,
+        "end": 24.983,
+        "score": -4.413
+      },
+      {
+        "word": "of",
+        "start_offset": 175,
+        "end_offset": 177,
+        "start": 25.043,
+        "end": 25.123,
+        "score": -4.1073
+      },
+      {
+        "word": "One.",
+        "start_offset": 178,
+        "end_offset": 182,
+        "start": 25.343,
+        "end": 25.523,
+        "score": -4.9401
+      },
+      {
+        "word": "Is",
+        "start_offset": 183,
+        "end_offset": 185,
+        "start": 25.623,
+        "end": 25.723,
+        "score": -4.7128
+      },
+      {
+        "word": "this",
+        "start_offset": 186,
+        "end_offset": 190,
+        "start": 25.743,
+        "end": 25.883,
+        "score": -4.4789
+      },
+      {
+        "word": "correct?",
+        "start_offset": 191,
+        "end_offset": 199,
+        "start": 25.983,
+        "end": 26.283,
+        "score": -6.2095
+      },
+      {
+        "word": "I",
+        "start_offset": 200,
+        "end_offset": 201,
+        "start": 26.323,
+        "end": 26.343,
+        "score": -7.4868
+      },
+      {
+        "word": "am",
+        "start_offset": 202,
+        "end_offset": 204,
+        "start": 28.803,
+        "end": 30.683,
+        "score": -4.0819
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 205,
+        "end_offset": 208,
+        "start": 30.703,
+        "end": 30.783,
+        "score": -7.3701
+      },
+      {
+        "word": "This",
+        "start_offset": 209,
+        "end_offset": 213,
+        "start": 32.883,
+        "end": 33.263,
+        "score": -1.1029
+      },
+      {
+        "word": "is",
+        "start_offset": 214,
+        "end_offset": 216,
+        "start": 33.883,
+        "end": 34.203,
+        "score": -0.7469
+      },
+      {
+        "word": "partially",
+        "start_offset": 217,
+        "end_offset": 226,
+        "start": 34.803,
+        "end": 35.744,
+        "score": -0.75
+      },
+      {
+        "word": "correct.",
+        "start_offset": 227,
+        "end_offset": 235,
+        "start": 36.824,
+        "end": 37.644,
+        "score": -0.7148
+      },
+      {
+        "word": "We",
+        "start_offset": 236,
+        "end_offset": 238,
+        "start": 39.464,
+        "end": 39.604,
+        "score": -0.7227
+      },
+      {
+        "word": "also,",
+        "start_offset": 239,
+        "end_offset": 244,
+        "start": 40.664,
+        "end": 41.124,
+        "score": -0.7039
+      },
+      {
+        "word": "as",
+        "start_offset": 245,
+        "end_offset": 247,
+        "start": 42.424,
+        "end": 42.764,
+        "score": -0.7154
+      },
+      {
+        "word": "we",
+        "start_offset": 248,
+        "end_offset": 250,
+        "start": 43.104,
+        "end": 43.244,
+        "score": -0.7174
+      },
+      {
+        "word": "have",
+        "start_offset": 251,
+        "end_offset": 255,
+        "start": 43.584,
+        "end": 44.004,
+        "score": -0.7537
+      },
+      {
+        "word": "said,",
+        "start_offset": 256,
+        "end_offset": 261,
+        "start": 44.244,
+        "end": 44.684,
+        "score": -0.7949
+      },
+      {
+        "word": "wished",
+        "start_offset": 262,
+        "end_offset": 268,
+        "start": 45.825,
+        "end": 46.325,
+        "score": -1.0066
+      },
+      {
+        "word": "to",
+        "start_offset": 269,
+        "end_offset": 271,
+        "start": 46.885,
+        "end": 47.005,
+        "score": -0.7164
+      },
+      {
+        "word": "attempt",
+        "start_offset": 272,
+        "end_offset": 279,
+        "start": 48.225,
+        "end": 48.985,
+        "score": -0.8954
+      },
+      {
+        "word": "to",
+        "start_offset": 280,
+        "end_offset": 282,
+        "start": 50.025,
+        "end": 50.185,
+        "score": -0.7094
+      },
+      {
+        "word": "make",
+        "start_offset": 283,
+        "end_offset": 287,
+        "start": 51.205,
+        "end": 51.645,
+        "score": -0.6996
+      },
+      {
+        "word": "reparation",
+        "start_offset": 288,
+        "end_offset": 298,
+        "start": 52.485,
+        "end": 54.045,
+        "score": -0.71
+      },
+      {
+        "word": "for",
+        "start_offset": 299,
+        "end_offset": 302,
+        "start": 55.386,
+        "end": 55.746,
+        "score": -1.0467
+      },
+      {
+        "word": "distortions",
+        "start_offset": 303,
+        "end_offset": 314,
+        "start": 56.546,
+        "end": 58.066,
+        "score": -0.7363
+      },
+      {
+        "word": "of",
+        "start_offset": 315,
+        "end_offset": 317,
+        "start": 58.986,
+        "end": 59.286,
+        "score": -0.7291
+      },
+      {
+        "word": "this",
+        "start_offset": 318,
+        "end_offset": 322,
+        "start": 59.666,
+        "end": 60.066,
+        "score": -0.7323
+      },
+      {
+        "word": "law",
+        "start_offset": 323,
+        "end_offset": 326,
+        "start": 60.486,
+        "end": 60.766,
+        "score": -0.8005
+      },
+      {
+        "word": "set",
+        "start_offset": 327,
+        "end_offset": 330,
+        "start": 62.166,
+        "end": 62.526,
+        "score": -0.7176
+      },
+      {
+        "word": "in",
+        "start_offset": 331,
+        "end_offset": 333,
+        "start": 63.086,
+        "end": 63.306,
+        "score": -0.8028
+      },
+      {
+        "word": "motion",
+        "start_offset": 334,
+        "end_offset": 340,
+        "start": 63.726,
+        "end": 64.366,
+        "score": -0.7077
+      },
+      {
+        "word": "by",
+        "start_offset": 341,
+        "end_offset": 343,
+        "start": 65.367,
+        "end": 65.747,
+        "score": -0.9657
+      },
+      {
+        "word": "our",
+        "start_offset": 344,
+        "end_offset": 347,
+        "start": 66.807,
+        "end": 67.187,
+        "score": -0.954
+      },
+      {
+        "word": "naïve",
+        "start_offset": 348,
+        "end_offset": 353,
+        "start": 67.987,
+        "end": 69.127,
+        "score": -3.7531
+      },
+      {
+        "word": "actions",
+        "start_offset": 354,
+        "end_offset": 361,
+        "start": 70.487,
+        "end": 71.447,
+        "score": -0.7244
+      },
+      {
+        "word": "of",
+        "start_offset": 362,
+        "end_offset": 364,
+        "start": 73.467,
+        "end": 73.827,
+        "score": -0.792
+      },
+      {
+        "word": "your",
+        "start_offset": 365,
+        "end_offset": 369,
+        "start": 74.747,
+        "end": 75.068,
+        "score": -1.28
+      },
+      {
+        "word": "past.",
+        "start_offset": 370,
+        "end_offset": 375,
+        "start": 75.828,
+        "end": 76.488,
+        "score": -0.7935
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "071-19.mp3",
+    "audio_duration": 78.0278,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

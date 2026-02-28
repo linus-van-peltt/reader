@@ -1,0 +1,330 @@
+{
+  "text": "Thank you. I was wondering if qualification for contact with Ra might include— of the type we're doing now— might include penetrating this forgetting process? Is this correct? I am Ra. This is quite correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 0,
+        "end_offset": 10,
+        "start": 0.92,
+        "end": 1.28
+      },
+      {
+        "segment": "I was wondering if qualification for contact with Ra might include— of the type we're doing now— might include penetrating this forgetting process?",
+        "start_offset": 11,
+        "end_offset": 158,
+        "start": 2.521,
+        "end": 18.065
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 159,
+        "end_offset": 175,
+        "start": 18.846,
+        "end": 19.626
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 176,
+        "end_offset": 184,
+        "start": 25.347,
+        "end": 27.188
+      },
+      {
+        "segment": "This is quite correct.",
+        "start_offset": 185,
+        "end_offset": 207,
+        "start": 29.269,
+        "end": 33.99
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 0.92,
+        "end": 1.14,
+        "score": -2.8358
+      },
+      {
+        "word": "you.",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 1.16,
+        "end": 1.28,
+        "score": -6.1699
+      },
+      {
+        "word": "I",
+        "start_offset": 11,
+        "end_offset": 12,
+        "start": 2.521,
+        "end": 2.541,
+        "score": -4.0589
+      },
+      {
+        "word": "was",
+        "start_offset": 13,
+        "end_offset": 16,
+        "start": 2.561,
+        "end": 2.721,
+        "score": -0.7253
+      },
+      {
+        "word": "wondering",
+        "start_offset": 17,
+        "end_offset": 26,
+        "start": 2.801,
+        "end": 3.221,
+        "score": -0.7169
+      },
+      {
+        "word": "if",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 4.521,
+        "end": 4.661,
+        "score": -0.7141
+      },
+      {
+        "word": "qualification",
+        "start_offset": 30,
+        "end_offset": 43,
+        "start": 5.662,
+        "end": 6.602,
+        "score": -0.697
+      },
+      {
+        "word": "for",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 6.702,
+        "end": 6.802,
+        "score": -0.7046
+      },
+      {
+        "word": "contact",
+        "start_offset": 48,
+        "end_offset": 55,
+        "start": 6.882,
+        "end": 7.502,
+        "score": -0.6951
+      },
+      {
+        "word": "with",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 7.602,
+        "end": 7.762,
+        "score": -0.7127
+      },
+      {
+        "word": "Ra",
+        "start_offset": 61,
+        "end_offset": 63,
+        "start": 7.922,
+        "end": 8.082,
+        "score": -0.7748
+      },
+      {
+        "word": "might",
+        "start_offset": 64,
+        "end_offset": 69,
+        "start": 10.183,
+        "end": 10.463,
+        "score": -0.811
+      },
+      {
+        "word": "include—",
+        "start_offset": 70,
+        "end_offset": 78,
+        "start": 10.563,
+        "end": 11.203,
+        "score": -0.8618
+      },
+      {
+        "word": "of",
+        "start_offset": 79,
+        "end_offset": 81,
+        "start": 11.783,
+        "end": 11.923,
+        "score": -3.8906
+      },
+      {
+        "word": "the",
+        "start_offset": 82,
+        "end_offset": 85,
+        "start": 12.044,
+        "end": 12.124,
+        "score": -0.9165
+      },
+      {
+        "word": "type",
+        "start_offset": 86,
+        "end_offset": 90,
+        "start": 12.184,
+        "end": 12.424,
+        "score": -1.3177
+      },
+      {
+        "word": "we're",
+        "start_offset": 91,
+        "end_offset": 96,
+        "start": 12.444,
+        "end": 12.544,
+        "score": -5.5465
+      },
+      {
+        "word": "doing",
+        "start_offset": 97,
+        "end_offset": 102,
+        "start": 12.564,
+        "end": 12.864,
+        "score": -0.8235
+      },
+      {
+        "word": "now—",
+        "start_offset": 103,
+        "end_offset": 107,
+        "start": 12.904,
+        "end": 13.184,
+        "score": -1.0359
+      },
+      {
+        "word": "might",
+        "start_offset": 108,
+        "end_offset": 113,
+        "start": 13.304,
+        "end": 13.544,
+        "score": -0.7503
+      },
+      {
+        "word": "include",
+        "start_offset": 114,
+        "end_offset": 121,
+        "start": 13.604,
+        "end": 14.184,
+        "score": -0.81
+      },
+      {
+        "word": "penetrating",
+        "start_offset": 122,
+        "end_offset": 133,
+        "start": 15.925,
+        "end": 16.545,
+        "score": -0.7023
+      },
+      {
+        "word": "this",
+        "start_offset": 134,
+        "end_offset": 138,
+        "start": 16.565,
+        "end": 16.705,
+        "score": -1.0297
+      },
+      {
+        "word": "forgetting",
+        "start_offset": 139,
+        "end_offset": 149,
+        "start": 16.765,
+        "end": 17.285,
+        "score": -0.7509
+      },
+      {
+        "word": "process?",
+        "start_offset": 150,
+        "end_offset": 158,
+        "start": 17.365,
+        "end": 18.065,
+        "score": -0.731
+      },
+      {
+        "word": "Is",
+        "start_offset": 159,
+        "end_offset": 161,
+        "start": 18.846,
+        "end": 18.946,
+        "score": -0.8517
+      },
+      {
+        "word": "this",
+        "start_offset": 162,
+        "end_offset": 166,
+        "start": 19.006,
+        "end": 19.166,
+        "score": -1.0895
+      },
+      {
+        "word": "correct?",
+        "start_offset": 167,
+        "end_offset": 175,
+        "start": 19.206,
+        "end": 19.626,
+        "score": -0.7566
+      },
+      {
+        "word": "I",
+        "start_offset": 176,
+        "end_offset": 177,
+        "start": 25.347,
+        "end": 25.367,
+        "score": -3.5863
+      },
+      {
+        "word": "am",
+        "start_offset": 178,
+        "end_offset": 180,
+        "start": 26.048,
+        "end": 26.308,
+        "score": -5.4595
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 181,
+        "end_offset": 184,
+        "start": 27.048,
+        "end": 27.188,
+        "score": -3.2893
+      },
+      {
+        "word": "This",
+        "start_offset": 185,
+        "end_offset": 189,
+        "start": 29.269,
+        "end": 29.629,
+        "score": -2.9642
+      },
+      {
+        "word": "is",
+        "start_offset": 190,
+        "end_offset": 192,
+        "start": 30.669,
+        "end": 30.969,
+        "score": -2.5846
+      },
+      {
+        "word": "quite",
+        "start_offset": 193,
+        "end_offset": 198,
+        "start": 31.989,
+        "end": 32.53,
+        "score": -4.1472
+      },
+      {
+        "word": "correct.",
+        "start_offset": 199,
+        "end_offset": 207,
+        "start": 33.23,
+        "end": 33.99,
+        "score": -1.4199
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "036-19.mp3",
+    "audio_duration": 35.0303,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

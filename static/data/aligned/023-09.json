@@ -1,0 +1,180 @@
+{
+  "text": "What name did they give this deity? I am Ra. This deity had the sound vibration complex, \"Imhotep. \"",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What name did they give this deity?",
+        "start_offset": 0,
+        "end_offset": 35,
+        "start": 2.922,
+        "end": 5.324
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 36,
+        "end_offset": 44,
+        "start": 9.887,
+        "end": 11.888
+      },
+      {
+        "segment": "This deity had the sound vibration complex, \"Imhotep.",
+        "start_offset": 45,
+        "end_offset": 98,
+        "start": 13.71,
+        "end": 28.42
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.922,
+        "end": 3.122,
+        "score": -2.2928
+      },
+      {
+        "word": "name",
+        "start_offset": 5,
+        "end_offset": 9,
+        "start": 3.462,
+        "end": 3.763,
+        "score": -2.0183
+      },
+      {
+        "word": "did",
+        "start_offset": 10,
+        "end_offset": 13,
+        "start": 3.783,
+        "end": 3.883,
+        "score": -6.0581
+      },
+      {
+        "word": "they",
+        "start_offset": 14,
+        "end_offset": 18,
+        "start": 3.903,
+        "end": 4.043,
+        "score": -2.1267
+      },
+      {
+        "word": "give",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 4.103,
+        "end": 4.303,
+        "score": -1.9269
+      },
+      {
+        "word": "this",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 4.323,
+        "end": 4.543,
+        "score": -2.2261
+      },
+      {
+        "word": "deity?",
+        "start_offset": 29,
+        "end_offset": 35,
+        "start": 4.963,
+        "end": 5.324,
+        "score": -2.8033
+      },
+      {
+        "word": "I",
+        "start_offset": 36,
+        "end_offset": 37,
+        "start": 9.887,
+        "end": 9.907,
+        "score": -0.8007
+      },
+      {
+        "word": "am",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 10.667,
+        "end": 10.928,
+        "score": -2.2932
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 11.748,
+        "end": 11.888,
+        "score": -0.9276
+      },
+      {
+        "word": "This",
+        "start_offset": 45,
+        "end_offset": 49,
+        "start": 13.71,
+        "end": 14.13,
+        "score": -0.7463
+      },
+      {
+        "word": "deity",
+        "start_offset": 50,
+        "end_offset": 55,
+        "start": 14.87,
+        "end": 15.451,
+        "score": -0.8639
+      },
+      {
+        "word": "had",
+        "start_offset": 56,
+        "end_offset": 59,
+        "start": 17.232,
+        "end": 17.492,
+        "score": -0.7179
+      },
+      {
+        "word": "the",
+        "start_offset": 60,
+        "end_offset": 63,
+        "start": 17.772,
+        "end": 17.912,
+        "score": -0.7787
+      },
+      {
+        "word": "sound",
+        "start_offset": 64,
+        "end_offset": 69,
+        "start": 19.494,
+        "end": 20.014,
+        "score": -0.6987
+      },
+      {
+        "word": "vibration",
+        "start_offset": 70,
+        "end_offset": 79,
+        "start": 20.434,
+        "end": 21.415,
+        "score": -0.7083
+      },
+      {
+        "word": "complex,",
+        "start_offset": 80,
+        "end_offset": 88,
+        "start": 22.356,
+        "end": 23.236,
+        "score": -0.7065
+      },
+      {
+        "word": "\"Imhotep.",
+        "start_offset": 89,
+        "end_offset": 98,
+        "start": 24.777,
+        "end": 28.42,
+        "score": -1.2305
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "023-09.mp3",
+    "audio_duration": 30.0409,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

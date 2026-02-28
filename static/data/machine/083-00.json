@@ -1,0 +1,219 @@
+{
+  "text": "Law number eighty three, April fifth, nineteen eighty two. I greet you in the love and in the light of the one infinite creator. I communicate.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Law number eighty three, April fifth, nineteen eighty two.",
+        "start_offset": 75,
+        "end_offset": 123,
+        "start": 6.0,
+        "end": 9.84
+      },
+      {
+        "segment": "I greet you in the love and in the light of the one infinite creator.",
+        "start_offset": 201,
+        "end_offset": 385,
+        "start": 16.080000000000002,
+        "end": 30.8
+      },
+      {
+        "segment": "I communicate.",
+        "start_offset": 447,
+        "end_offset": 479,
+        "start": 35.76,
+        "end": 38.32
+      }
+    ],
+    "word": [
+      {
+        "word": "Law",
+        "start_offset": 75,
+        "end_offset": 82,
+        "start": 6.0,
+        "end": 6.5600000000000005
+      },
+      {
+        "word": "number",
+        "start_offset": 84,
+        "end_offset": 88,
+        "start": 6.72,
+        "end": 7.04
+      },
+      {
+        "word": "eighty",
+        "start_offset": 88,
+        "end_offset": 91,
+        "start": 7.04,
+        "end": 7.28
+      },
+      {
+        "word": "three,",
+        "start_offset": 92,
+        "end_offset": 96,
+        "start": 7.36,
+        "end": 7.68
+      },
+      {
+        "word": "April",
+        "start_offset": 98,
+        "end_offset": 104,
+        "start": 7.84,
+        "end": 8.32
+      },
+      {
+        "word": "fifth,",
+        "start_offset": 104,
+        "end_offset": 110,
+        "start": 8.32,
+        "end": 8.8
+      },
+      {
+        "word": "nineteen",
+        "start_offset": 111,
+        "end_offset": 117,
+        "start": 8.88,
+        "end": 9.36
+      },
+      {
+        "word": "eighty",
+        "start_offset": 117,
+        "end_offset": 119,
+        "start": 9.36,
+        "end": 9.52
+      },
+      {
+        "word": "two.",
+        "start_offset": 120,
+        "end_offset": 123,
+        "start": 9.6,
+        "end": 9.84
+      },
+      {
+        "word": "I",
+        "start_offset": 201,
+        "end_offset": 205,
+        "start": 16.080000000000002,
+        "end": 16.4
+      },
+      {
+        "word": "greet",
+        "start_offset": 213,
+        "end_offset": 221,
+        "start": 17.04,
+        "end": 17.68
+      },
+      {
+        "word": "you",
+        "start_offset": 221,
+        "end_offset": 225,
+        "start": 17.68,
+        "end": 18.0
+      },
+      {
+        "word": "in",
+        "start_offset": 237,
+        "end_offset": 241,
+        "start": 18.96,
+        "end": 19.28
+      },
+      {
+        "word": "the",
+        "start_offset": 245,
+        "end_offset": 249,
+        "start": 19.6,
+        "end": 19.92
+      },
+      {
+        "word": "love",
+        "start_offset": 257,
+        "end_offset": 261,
+        "start": 20.56,
+        "end": 20.88
+      },
+      {
+        "word": "and",
+        "start_offset": 285,
+        "end_offset": 289,
+        "start": 22.8,
+        "end": 23.12
+      },
+      {
+        "word": "in",
+        "start_offset": 297,
+        "end_offset": 301,
+        "start": 23.76,
+        "end": 24.080000000000002
+      },
+      {
+        "word": "the",
+        "start_offset": 301,
+        "end_offset": 305,
+        "start": 24.080000000000002,
+        "end": 24.400000000000002
+      },
+      {
+        "word": "light",
+        "start_offset": 309,
+        "end_offset": 321,
+        "start": 24.72,
+        "end": 25.68
+      },
+      {
+        "word": "of",
+        "start_offset": 337,
+        "end_offset": 341,
+        "start": 26.96,
+        "end": 27.28
+      },
+      {
+        "word": "the",
+        "start_offset": 345,
+        "end_offset": 349,
+        "start": 27.6,
+        "end": 27.92
+      },
+      {
+        "word": "one",
+        "start_offset": 349,
+        "end_offset": 353,
+        "start": 27.92,
+        "end": 28.240000000000002
+      },
+      {
+        "word": "infinite",
+        "start_offset": 361,
+        "end_offset": 373,
+        "start": 28.88,
+        "end": 29.84
+      },
+      {
+        "word": "creator.",
+        "start_offset": 377,
+        "end_offset": 385,
+        "start": 30.16,
+        "end": 30.8
+      },
+      {
+        "word": "I",
+        "start_offset": 447,
+        "end_offset": 451,
+        "start": 35.76,
+        "end": 36.08
+      },
+      {
+        "word": "communicate.",
+        "start_offset": 455,
+        "end_offset": 479,
+        "start": 36.4,
+        "end": 38.32
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "083-00.mp3",
+    "audio_duration": 41.04,
+    "transcription_time": 0.11,
+    "rtfx": 382.15,
+    "timestamp": "2026-01-06T21:57:12.376436+00:00"
+  }
+}

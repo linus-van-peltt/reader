@@ -1,0 +1,3036 @@
+{
+  "mind": {
+    "arcana": [
+      {
+        "number": 1,
+        "id": "1.1",
+        "name": "matrix of the mind",
+        "complex": "mind",
+        "stage": "matrix",
+        "imagepath": "images/1-matrix-of-the-mind.jpg",
+        "references": [
+          {
+            "session": 74,
+            "question": "4"
+          },
+          {
+            "session": 78,
+            "question": "11"
+          },
+          {
+            "session": 78,
+            "question": "33"
+          },
+          {
+            "session": 79,
+            "question": "20"
+          },
+          {
+            "session": 89,
+            "question": "21"
+          },
+          {
+            "session": 90,
+            "question": "30"
+          },
+          {
+            "session": 91,
+            "question": "18"
+          },
+          {
+            "session": 92,
+            "question": "9"
+          }
+        ],
+        "aliases": [
+          "matrix of the mind",
+          "magician"
+        ]
+      },
+      {
+        "number": 2,
+        "id": "1.2",
+        "name": "potentiator of the mind",
+        "complex": "mind",
+        "stage": "potentiator",
+        "imagepath": "images/2-potentiator-of-the-mind.jpg",
+        "references": [
+          {
+            "session": 74,
+            "question": "4"
+          },
+          {
+            "session": 78,
+            "question": "11"
+          },
+          {
+            "session": 78,
+            "question": "34"
+          },
+          {
+            "session": 79,
+            "question": "20"
+          },
+          {
+            "session": 86,
+            "question": "6"
+          },
+          {
+            "session": 92,
+            "question": "11"
+          },
+          {
+            "session": 92,
+            "question": "12"
+          },
+          {
+            "session": 92,
+            "question": "18"
+          },
+          {
+            "session": 92,
+            "question": "19"
+          },
+          {
+            "session": 92,
+            "question": "21"
+          },
+          {
+            "session": 92,
+            "question": "22"
+          },
+          {
+            "session": 92,
+            "question": "23"
+          },
+          {
+            "session": 92,
+            "question": "24"
+          },
+          {
+            "session": 92,
+            "question": "25"
+          },
+          {
+            "session": 92,
+            "question": "26"
+          },
+          {
+            "session": 92,
+            "question": "27"
+          },
+          {
+            "session": 92,
+            "question": "28"
+          },
+          {
+            "session": 92,
+            "question": "29"
+          },
+          {
+            "session": 92,
+            "question": "30"
+          },
+          {
+            "session": 92,
+            "question": "31"
+          },
+          {
+            "session": 92,
+            "question": "32"
+          },
+          {
+            "session": 92,
+            "question": "33"
+          },
+          {
+            "session": 96,
+            "question": "16"
+          },
+          {
+            "session": 96,
+            "question": "17"
+          },
+          {
+            "session": 96,
+            "question": "18"
+          }
+        ],
+        "aliases": [
+          "potentiator of the mind",
+          "high priestess"
+        ]
+      },
+      {
+        "number": 3,
+        "id": "1.3",
+        "name": "catalyst of the mind",
+        "complex": "mind",
+        "stage": "catalyst",
+        "imagepath": "images/3-catalyst-of-the-mind.jpg",
+        "references": [
+          {
+            "session": 78,
+            "question": "35"
+          },
+          {
+            "session": 78,
+            "question": "36"
+          },
+          {
+            "session": 79,
+            "question": "35"
+          },
+          {
+            "session": 93,
+            "question": "7"
+          },
+          {
+            "session": 93,
+            "question": "8"
+          },
+          {
+            "session": 93,
+            "question": "9"
+          },
+          {
+            "session": 93,
+            "question": "10"
+          },
+          {
+            "session": 93,
+            "question": "11"
+          },
+          {
+            "session": 93,
+            "question": "12"
+          },
+          {
+            "session": 93,
+            "question": "13"
+          },
+          {
+            "session": 93,
+            "question": "18"
+          },
+          {
+            "session": 93,
+            "question": "19"
+          },
+          {
+            "session": 93,
+            "question": "20"
+          },
+          {
+            "session": 94,
+            "question": "11"
+          },
+          {
+            "session": 96,
+            "question": "20"
+          }
+        ],
+        "aliases": [
+          "catalyst of the mind",
+          "empress"
+        ]
+      },
+      {
+        "number": 4,
+        "id": "1.4",
+        "name": "experience of the mind",
+        "complex": "mind",
+        "stage": "experience",
+        "imagepath": "images/4-experience-of-the-mind.jpg",
+        "references": [
+          {
+            "session": 78,
+            "question": "37"
+          },
+          {
+            "session": 79,
+            "question": "35"
+          },
+          {
+            "session": 94,
+            "question": "12"
+          },
+          {
+            "session": 94,
+            "question": "13"
+          },
+          {
+            "session": 94,
+            "question": "14"
+          },
+          {
+            "session": 94,
+            "question": "15"
+          },
+          {
+            "session": 94,
+            "question": "16"
+          },
+          {
+            "session": 94,
+            "question": "18"
+          },
+          {
+            "session": 94,
+            "question": "19"
+          },
+          {
+            "session": 94,
+            "question": "20"
+          },
+          {
+            "session": 94,
+            "question": "21"
+          },
+          {
+            "session": 94,
+            "question": "23"
+          },
+          {
+            "session": 94,
+            "question": "24"
+          },
+          {
+            "session": 94,
+            "question": "25"
+          },
+          {
+            "session": 94,
+            "question": "26"
+          },
+          {
+            "session": 94,
+            "question": "27"
+          },
+          {
+            "session": 94,
+            "question": "28"
+          },
+          {
+            "session": 94,
+            "question": "29"
+          },
+          {
+            "session": 95,
+            "question": "20"
+          },
+          {
+            "session": 95,
+            "question": "21"
+          },
+          {
+            "session": 95,
+            "question": "22"
+          },
+          {
+            "session": 95,
+            "question": "23"
+          },
+          {
+            "session": 95,
+            "question": "24"
+          },
+          {
+            "session": 95,
+            "question": "26"
+          },
+          {
+            "session": 95,
+            "question": "27"
+          },
+          {
+            "session": 96,
+            "question": "21"
+          }
+        ],
+        "aliases": [
+          "experience of the mind",
+          "emperor"
+        ]
+      },
+      {
+        "number": 5,
+        "id": "1.5",
+        "name": "significator of the mind",
+        "complex": "mind",
+        "stage": "significator",
+        "imagepath": "images/5-significator-of-the-mind.jpg",
+        "references": [
+          {
+            "session": 78,
+            "question": "19"
+          },
+          {
+            "session": 78,
+            "question": "20"
+          },
+          {
+            "session": 79,
+            "question": "18"
+          },
+          {
+            "session": 79,
+            "question": "19"
+          },
+          {
+            "session": 79,
+            "question": "20"
+          },
+          {
+            "session": 79,
+            "question": "36"
+          },
+          {
+            "session": 79,
+            "question": "37"
+          },
+          {
+            "session": 79,
+            "question": "38"
+          },
+          {
+            "session": 79,
+            "question": "42"
+          },
+          {
+            "session": 83,
+            "question": "19"
+          },
+          {
+            "session": 92,
+            "question": "14"
+          },
+          {
+            "session": 92,
+            "question": "15"
+          },
+          {
+            "session": 92,
+            "question": "18"
+          },
+          {
+            "session": 92,
+            "question": "34"
+          },
+          {
+            "session": 97,
+            "question": "10"
+          },
+          {
+            "session": 97,
+            "question": "11"
+          },
+          {
+            "session": 97,
+            "question": "12"
+          },
+          {
+            "session": 97,
+            "question": "13"
+          },
+          {
+            "session": 97,
+            "question": "16"
+          },
+          {
+            "session": 97,
+            "question": "17"
+          },
+          {
+            "session": 97,
+            "question": "18"
+          },
+          {
+            "session": 99,
+            "question": "7"
+          },
+          {
+            "session": 103,
+            "question": "11"
+          }
+        ],
+        "aliases": [
+          "significator of the mind",
+          "hierophant"
+        ]
+      },
+      {
+        "number": 6,
+        "id": "1.6",
+        "name": "transformation of the mind",
+        "complex": "mind",
+        "stage": "transformation",
+        "imagepath": "images/6-transformation-of-the-mind.jpg",
+        "references": [
+          {
+            "session": 79,
+            "question": "39"
+          },
+          {
+            "session": 79,
+            "question": "40"
+          },
+          {
+            "session": 99,
+            "question": "8"
+          },
+          {
+            "session": 99,
+            "question": "10"
+          },
+          {
+            "session": 100,
+            "question": "6"
+          }
+        ],
+        "aliases": [
+          "transformation of the mind",
+          "lovers"
+        ]
+      },
+      {
+        "number": 7,
+        "id": "1.7",
+        "name": "great way of the mind",
+        "complex": "mind",
+        "stage": "great way",
+        "imagepath": "images/7-great way-of-the-mind.jpg",
+        "references": [
+          {
+            "session": 79,
+            "question": "41"
+          },
+          {
+            "session": 92,
+            "question": "17"
+          },
+          {
+            "session": 100,
+            "question": "7"
+          },
+          {
+            "session": 100,
+            "question": "8"
+          },
+          {
+            "session": 100,
+            "question": "9"
+          },
+          {
+            "session": 100,
+            "question": "10"
+          },
+          {
+            "session": 100,
+            "question": "11"
+          },
+          {
+            "session": 100,
+            "question": "13"
+          },
+          {
+            "session": 103,
+            "question": "10"
+          },
+          {
+            "session": 103,
+            "question": "11"
+          },
+          {
+            "session": 103,
+            "question": "12"
+          },
+          {
+            "session": 103,
+            "question": "13"
+          },
+          {
+            "session": 103,
+            "question": "14"
+          },
+          {
+            "session": 103,
+            "question": "15"
+          }
+        ],
+        "aliases": [
+          "great way of the mind",
+          "chariot"
+        ]
+      }
+    ]
+  },
+  "body": {
+    "arcana": [
+      {
+        "number": 8,
+        "id": "2.1",
+        "name": "matrix of the body",
+        "complex": "body",
+        "stage": "matrix",
+        "imagepath": "images/8-matrix-of-the-body.jpg",
+        "references": [
+          {
+            "session": 78,
+            "question": "11"
+          },
+          {
+            "session": 79,
+            "question": "20"
+          },
+          {
+            "session": 92,
+            "question": "18"
+          }
+        ],
+        "aliases": [
+          "matrix of the body",
+          "justice"
+        ]
+      },
+      {
+        "number": 9,
+        "id": "2.2",
+        "name": "potentiator of the body",
+        "complex": "body",
+        "stage": "potentiator",
+        "imagepath": "images/9-potentiator-of-the-body.jpg",
+        "references": [
+          {
+            "session": 78,
+            "question": "11"
+          },
+          {
+            "session": 79,
+            "question": "20"
+          },
+          {
+            "session": 92,
+            "question": "18"
+          }
+        ],
+        "aliases": [
+          "potentiator of the body",
+          "hermit"
+        ]
+      },
+      {
+        "number": 10,
+        "id": "2.3",
+        "name": "catalyst of the body",
+        "complex": "body",
+        "stage": "catalyst",
+        "imagepath": "images/10-catalyst-of-the-body.jpg",
+        "references": [
+          {
+            "session": 81,
+            "question": "11"
+          },
+          {
+            "session": 93,
+            "question": "11"
+          },
+          {
+            "session": 93,
+            "question": "12"
+          }
+        ],
+        "aliases": [
+          "catalyst of the body",
+          "wheel of fortune"
+        ]
+      },
+      {
+        "number": 11,
+        "id": "2.4",
+        "name": "experience of the body",
+        "complex": "body",
+        "stage": "experience",
+        "imagepath": "images/11-experience-of-the-body.jpg",
+        "references": [
+          {
+            "session": 81,
+            "question": "12"
+          }
+        ],
+        "aliases": [
+          "experience of the body",
+          "strength"
+        ]
+      },
+      {
+        "number": 12,
+        "id": "2.5",
+        "name": "significator of the body",
+        "complex": "body",
+        "stage": "significator",
+        "imagepath": "images/12-significator-of-the-body.jpg",
+        "references": [
+          {
+            "session": 78,
+            "question": "19"
+          },
+          {
+            "session": 78,
+            "question": "20"
+          },
+          {
+            "session": 79,
+            "question": "19"
+          },
+          {
+            "session": 79,
+            "question": "20"
+          },
+          {
+            "session": 83,
+            "question": "19"
+          },
+          {
+            "session": 92,
+            "question": "18"
+          }
+        ],
+        "aliases": [
+          "significator of the body",
+          "hanged man"
+        ]
+      },
+      {
+        "number": 13,
+        "id": "2.6",
+        "name": "transformation of the body",
+        "complex": "body",
+        "stage": "transformation",
+        "imagepath": "images/13-transformation-of-the-body.jpg",
+        "references": [
+          {
+            "session": 81,
+            "question": "13"
+          }
+        ],
+        "aliases": [
+          "transformation of the body",
+          "death"
+        ]
+      },
+      {
+        "number": 14,
+        "id": "2.7",
+        "name": "great way of the body",
+        "complex": "body",
+        "stage": "great way",
+        "imagepath": "images/14-great way-of-the-body.jpg",
+        "references": [
+          {
+            "session": 81,
+            "question": "14"
+          },
+          {
+            "session": 103,
+            "question": "11"
+          }
+        ],
+        "aliases": [
+          "great way of the body",
+          "temperance"
+        ]
+      }
+    ]
+  },
+  "spirit": {
+    "arcana": [
+      {
+        "number": 15,
+        "id": "3.1",
+        "name": "matrix of the spirit",
+        "complex": "spirit",
+        "stage": "matrix",
+        "imagepath": "images/15-matrix-of-the-spirit.jpg",
+        "references": [
+          {
+            "session": 78,
+            "question": "11"
+          },
+          {
+            "session": 79,
+            "question": "20"
+          },
+          {
+            "session": 80,
+            "question": "8"
+          },
+          {
+            "session": 80,
+            "question": "10"
+          }
+        ],
+        "aliases": [
+          "matrix of the spirit",
+          "devil",
+          "typhon"
+        ]
+      },
+      {
+        "number": 16,
+        "id": "3.2",
+        "name": "potentiator of the spirit",
+        "complex": "spirit",
+        "stage": "potentiator",
+        "imagepath": "images/16-potentiator-of-the-spirit.jpg",
+        "references": [
+          {
+            "session": 78,
+            "question": "11"
+          },
+          {
+            "session": 79,
+            "question": "20"
+          },
+          {
+            "session": 80,
+            "question": "13"
+          }
+        ],
+        "aliases": [
+          "potentiator of the spirit",
+          "tower",
+          "lightning",
+          "lightning struck tower"
+        ]
+      },
+      {
+        "number": 17,
+        "id": "3.3",
+        "name": "catalyst of the spirit",
+        "complex": "spirit",
+        "stage": "catalyst",
+        "imagepath": "images/17-catalyst-of-the-spirit.jpg",
+        "references": [
+          {
+            "session": 80,
+            "question": "10"
+          },
+          {
+            "session": 80,
+            "question": "13"
+          },
+          {
+            "session": 80,
+            "question": "15"
+          }
+        ],
+        "aliases": [
+          "catalyst of the spirit",
+          "star"
+        ]
+      },
+      {
+        "number": 18,
+        "id": "3.4",
+        "name": "experience of the spirit",
+        "complex": "spirit",
+        "stage": "experience",
+        "imagepath": "images/18-experience-of-the-spirit.jpg",
+        "references": [
+          {
+            "session": 80,
+            "question": "8"
+          },
+          {
+            "session": 80,
+            "question": "10"
+          },
+          {
+            "session": 80,
+            "question": "15"
+          }
+        ],
+        "aliases": [
+          "experience of the spirit",
+          "moon"
+        ]
+      },
+      {
+        "number": 19,
+        "id": "3.5",
+        "name": "significator of the spirit",
+        "complex": "spirit",
+        "stage": "significator",
+        "imagepath": "images/19-significator-of-the-spirit.jpg",
+        "references": [
+          {
+            "session": 78,
+            "question": "19"
+          },
+          {
+            "session": 78,
+            "question": "20"
+          },
+          {
+            "session": 79,
+            "question": "19"
+          },
+          {
+            "session": 80,
+            "question": "15"
+          },
+          {
+            "session": 80,
+            "question": "16"
+          },
+          {
+            "session": 80,
+            "question": "17"
+          },
+          {
+            "session": 80,
+            "question": "18"
+          },
+          {
+            "session": 83,
+            "question": "19"
+          }
+        ],
+        "aliases": [
+          "significator of the spirit",
+          "sun"
+        ]
+      },
+      {
+        "number": 20,
+        "id": "3.6",
+        "name": "transformation of the spirit",
+        "complex": "spirit",
+        "stage": "transformation",
+        "imagepath": "images/20-transformation-of-the-spirit.jpg",
+        "references": [
+          {
+            "session": 80,
+            "question": "19"
+          },
+          {
+            "session": 80,
+            "question": "20"
+          }
+        ],
+        "aliases": [
+          "transformation of the spirit",
+          "judgment",
+          "resurrection"
+        ]
+      },
+      {
+        "number": 21,
+        "id": "3.7",
+        "name": "great way of the spirit",
+        "complex": "spirit",
+        "stage": "great way",
+        "imagepath": "images/21-great way-of-the-spirit.jpg",
+        "references": [
+          {
+            "session": 80,
+            "question": "21"
+          },
+          {
+            "session": 80,
+            "question": "22"
+          },
+          {
+            "session": 103,
+            "question": "11"
+          }
+        ],
+        "aliases": [
+          "great way of the spirit",
+          "world"
+        ]
+      }
+    ]
+  },
+  "thechoice": {
+    "number": 22,
+    "id": "22",
+    "name": "the choice",
+    "imagepath": "images/22-the-choice.jpg",
+    "references": [
+      {
+        "session": 67,
+        "question": "30"
+      },
+      {
+        "session": 77,
+        "question": "12"
+      },
+      {
+        "session": 77,
+        "question": "13"
+      },
+      {
+        "session": 77,
+        "question": "16"
+      },
+      {
+        "session": 88,
+        "question": "16"
+      },
+      {
+        "session": 89,
+        "question": "26"
+      }
+    ],
+    "aliases": [
+      "the choice",
+      "fool",
+      "choice"
+    ]
+  },
+  "primarystudy": [
+    [
+      {
+        "number": 1,
+        "id": "1.1",
+        "name": "matrix of the mind",
+        "complex": "mind",
+        "stage": "matrix",
+        "imagepath": "images/1-matrix-of-the-mind.jpg",
+        "references": [
+          {
+            "session": 74,
+            "question": "4"
+          },
+          {
+            "session": 78,
+            "question": "11"
+          },
+          {
+            "session": 78,
+            "question": "33"
+          },
+          {
+            "session": 79,
+            "question": "20"
+          },
+          {
+            "session": 89,
+            "question": "21"
+          },
+          {
+            "session": 90,
+            "question": "30"
+          },
+          {
+            "session": 91,
+            "question": "18"
+          },
+          {
+            "session": 92,
+            "question": "9"
+          }
+        ],
+        "aliases": [
+          "matrix of the mind",
+          "magician"
+        ]
+      },
+      {
+        "number": 8,
+        "id": "2.1",
+        "name": "matrix of the body",
+        "complex": "body",
+        "stage": "matrix",
+        "imagepath": "images/8-matrix-of-the-body.jpg",
+        "references": [
+          {
+            "session": 78,
+            "question": "11"
+          },
+          {
+            "session": 79,
+            "question": "20"
+          },
+          {
+            "session": 92,
+            "question": "18"
+          }
+        ],
+        "aliases": [
+          "matrix of the body",
+          "justice"
+        ]
+      },
+      {
+        "number": 15,
+        "id": "3.1",
+        "name": "matrix of the spirit",
+        "complex": "spirit",
+        "stage": "matrix",
+        "imagepath": "images/15-matrix-of-the-spirit.jpg",
+        "references": [
+          {
+            "session": 78,
+            "question": "11"
+          },
+          {
+            "session": 79,
+            "question": "20"
+          },
+          {
+            "session": 80,
+            "question": "8"
+          },
+          {
+            "session": 80,
+            "question": "10"
+          }
+        ],
+        "aliases": [
+          "matrix of the spirit",
+          "devil",
+          "typhon"
+        ]
+      }
+    ],
+    [
+      {
+        "number": 2,
+        "id": "1.2",
+        "name": "potentiator of the mind",
+        "complex": "mind",
+        "stage": "potentiator",
+        "imagepath": "images/2-potentiator-of-the-mind.jpg",
+        "references": [
+          {
+            "session": 74,
+            "question": "4"
+          },
+          {
+            "session": 78,
+            "question": "11"
+          },
+          {
+            "session": 78,
+            "question": "34"
+          },
+          {
+            "session": 79,
+            "question": "20"
+          },
+          {
+            "session": 86,
+            "question": "6"
+          },
+          {
+            "session": 92,
+            "question": "11"
+          },
+          {
+            "session": 92,
+            "question": "12"
+          },
+          {
+            "session": 92,
+            "question": "18"
+          },
+          {
+            "session": 92,
+            "question": "19"
+          },
+          {
+            "session": 92,
+            "question": "21"
+          },
+          {
+            "session": 92,
+            "question": "22"
+          },
+          {
+            "session": 92,
+            "question": "23"
+          },
+          {
+            "session": 92,
+            "question": "24"
+          },
+          {
+            "session": 92,
+            "question": "25"
+          },
+          {
+            "session": 92,
+            "question": "26"
+          },
+          {
+            "session": 92,
+            "question": "27"
+          },
+          {
+            "session": 92,
+            "question": "28"
+          },
+          {
+            "session": 92,
+            "question": "29"
+          },
+          {
+            "session": 92,
+            "question": "30"
+          },
+          {
+            "session": 92,
+            "question": "31"
+          },
+          {
+            "session": 92,
+            "question": "32"
+          },
+          {
+            "session": 92,
+            "question": "33"
+          },
+          {
+            "session": 96,
+            "question": "16"
+          },
+          {
+            "session": 96,
+            "question": "17"
+          },
+          {
+            "session": 96,
+            "question": "18"
+          }
+        ],
+        "aliases": [
+          "potentiator of the mind",
+          "high priestess"
+        ]
+      },
+      {
+        "number": 9,
+        "id": "2.2",
+        "name": "potentiator of the body",
+        "complex": "body",
+        "stage": "potentiator",
+        "imagepath": "images/9-potentiator-of-the-body.jpg",
+        "references": [
+          {
+            "session": 78,
+            "question": "11"
+          },
+          {
+            "session": 79,
+            "question": "20"
+          },
+          {
+            "session": 92,
+            "question": "18"
+          }
+        ],
+        "aliases": [
+          "potentiator of the body",
+          "hermit"
+        ]
+      },
+      {
+        "number": 16,
+        "id": "3.2",
+        "name": "potentiator of the spirit",
+        "complex": "spirit",
+        "stage": "potentiator",
+        "imagepath": "images/16-potentiator-of-the-spirit.jpg",
+        "references": [
+          {
+            "session": 78,
+            "question": "11"
+          },
+          {
+            "session": 79,
+            "question": "20"
+          },
+          {
+            "session": 80,
+            "question": "13"
+          }
+        ],
+        "aliases": [
+          "potentiator of the spirit",
+          "tower",
+          "lightning",
+          "lightning struck tower"
+        ]
+      }
+    ],
+    [
+      {
+        "number": 3,
+        "id": "1.3",
+        "name": "catalyst of the mind",
+        "complex": "mind",
+        "stage": "catalyst",
+        "imagepath": "images/3-catalyst-of-the-mind.jpg",
+        "references": [
+          {
+            "session": 78,
+            "question": "35"
+          },
+          {
+            "session": 78,
+            "question": "36"
+          },
+          {
+            "session": 79,
+            "question": "35"
+          },
+          {
+            "session": 93,
+            "question": "7"
+          },
+          {
+            "session": 93,
+            "question": "8"
+          },
+          {
+            "session": 93,
+            "question": "9"
+          },
+          {
+            "session": 93,
+            "question": "10"
+          },
+          {
+            "session": 93,
+            "question": "11"
+          },
+          {
+            "session": 93,
+            "question": "12"
+          },
+          {
+            "session": 93,
+            "question": "13"
+          },
+          {
+            "session": 93,
+            "question": "18"
+          },
+          {
+            "session": 93,
+            "question": "19"
+          },
+          {
+            "session": 93,
+            "question": "20"
+          },
+          {
+            "session": 94,
+            "question": "11"
+          },
+          {
+            "session": 96,
+            "question": "20"
+          }
+        ],
+        "aliases": [
+          "catalyst of the mind",
+          "empress"
+        ]
+      },
+      {
+        "number": 10,
+        "id": "2.3",
+        "name": "catalyst of the body",
+        "complex": "body",
+        "stage": "catalyst",
+        "imagepath": "images/10-catalyst-of-the-body.jpg",
+        "references": [
+          {
+            "session": 81,
+            "question": "11"
+          },
+          {
+            "session": 93,
+            "question": "11"
+          },
+          {
+            "session": 93,
+            "question": "12"
+          }
+        ],
+        "aliases": [
+          "catalyst of the body",
+          "wheel of fortune"
+        ]
+      },
+      {
+        "number": 17,
+        "id": "3.3",
+        "name": "catalyst of the spirit",
+        "complex": "spirit",
+        "stage": "catalyst",
+        "imagepath": "images/17-catalyst-of-the-spirit.jpg",
+        "references": [
+          {
+            "session": 80,
+            "question": "10"
+          },
+          {
+            "session": 80,
+            "question": "13"
+          },
+          {
+            "session": 80,
+            "question": "15"
+          }
+        ],
+        "aliases": [
+          "catalyst of the spirit",
+          "star"
+        ]
+      }
+    ],
+    [
+      {
+        "number": 4,
+        "id": "1.4",
+        "name": "experience of the mind",
+        "complex": "mind",
+        "stage": "experience",
+        "imagepath": "images/4-experience-of-the-mind.jpg",
+        "references": [
+          {
+            "session": 78,
+            "question": "37"
+          },
+          {
+            "session": 79,
+            "question": "35"
+          },
+          {
+            "session": 94,
+            "question": "12"
+          },
+          {
+            "session": 94,
+            "question": "13"
+          },
+          {
+            "session": 94,
+            "question": "14"
+          },
+          {
+            "session": 94,
+            "question": "15"
+          },
+          {
+            "session": 94,
+            "question": "16"
+          },
+          {
+            "session": 94,
+            "question": "18"
+          },
+          {
+            "session": 94,
+            "question": "19"
+          },
+          {
+            "session": 94,
+            "question": "20"
+          },
+          {
+            "session": 94,
+            "question": "21"
+          },
+          {
+            "session": 94,
+            "question": "23"
+          },
+          {
+            "session": 94,
+            "question": "24"
+          },
+          {
+            "session": 94,
+            "question": "25"
+          },
+          {
+            "session": 94,
+            "question": "26"
+          },
+          {
+            "session": 94,
+            "question": "27"
+          },
+          {
+            "session": 94,
+            "question": "28"
+          },
+          {
+            "session": 94,
+            "question": "29"
+          },
+          {
+            "session": 95,
+            "question": "20"
+          },
+          {
+            "session": 95,
+            "question": "21"
+          },
+          {
+            "session": 95,
+            "question": "22"
+          },
+          {
+            "session": 95,
+            "question": "23"
+          },
+          {
+            "session": 95,
+            "question": "24"
+          },
+          {
+            "session": 95,
+            "question": "26"
+          },
+          {
+            "session": 95,
+            "question": "27"
+          },
+          {
+            "session": 96,
+            "question": "21"
+          }
+        ],
+        "aliases": [
+          "experience of the mind",
+          "emperor"
+        ]
+      },
+      {
+        "number": 11,
+        "id": "2.4",
+        "name": "experience of the body",
+        "complex": "body",
+        "stage": "experience",
+        "imagepath": "images/11-experience-of-the-body.jpg",
+        "references": [
+          {
+            "session": 81,
+            "question": "12"
+          }
+        ],
+        "aliases": [
+          "experience of the body",
+          "strength"
+        ]
+      },
+      {
+        "number": 18,
+        "id": "3.4",
+        "name": "experience of the spirit",
+        "complex": "spirit",
+        "stage": "experience",
+        "imagepath": "images/18-experience-of-the-spirit.jpg",
+        "references": [
+          {
+            "session": 80,
+            "question": "8"
+          },
+          {
+            "session": 80,
+            "question": "10"
+          },
+          {
+            "session": 80,
+            "question": "15"
+          }
+        ],
+        "aliases": [
+          "experience of the spirit",
+          "moon"
+        ]
+      }
+    ],
+    [
+      {
+        "number": 5,
+        "id": "1.5",
+        "name": "significator of the mind",
+        "complex": "mind",
+        "stage": "significator",
+        "imagepath": "images/5-significator-of-the-mind.jpg",
+        "references": [
+          {
+            "session": 78,
+            "question": "19"
+          },
+          {
+            "session": 78,
+            "question": "20"
+          },
+          {
+            "session": 79,
+            "question": "18"
+          },
+          {
+            "session": 79,
+            "question": "19"
+          },
+          {
+            "session": 79,
+            "question": "20"
+          },
+          {
+            "session": 79,
+            "question": "36"
+          },
+          {
+            "session": 79,
+            "question": "37"
+          },
+          {
+            "session": 79,
+            "question": "38"
+          },
+          {
+            "session": 79,
+            "question": "42"
+          },
+          {
+            "session": 83,
+            "question": "19"
+          },
+          {
+            "session": 92,
+            "question": "14"
+          },
+          {
+            "session": 92,
+            "question": "15"
+          },
+          {
+            "session": 92,
+            "question": "18"
+          },
+          {
+            "session": 92,
+            "question": "34"
+          },
+          {
+            "session": 97,
+            "question": "10"
+          },
+          {
+            "session": 97,
+            "question": "11"
+          },
+          {
+            "session": 97,
+            "question": "12"
+          },
+          {
+            "session": 97,
+            "question": "13"
+          },
+          {
+            "session": 97,
+            "question": "16"
+          },
+          {
+            "session": 97,
+            "question": "17"
+          },
+          {
+            "session": 97,
+            "question": "18"
+          },
+          {
+            "session": 99,
+            "question": "7"
+          },
+          {
+            "session": 103,
+            "question": "11"
+          }
+        ],
+        "aliases": [
+          "significator of the mind",
+          "hierophant"
+        ]
+      },
+      {
+        "number": 12,
+        "id": "2.5",
+        "name": "significator of the body",
+        "complex": "body",
+        "stage": "significator",
+        "imagepath": "images/12-significator-of-the-body.jpg",
+        "references": [
+          {
+            "session": 78,
+            "question": "19"
+          },
+          {
+            "session": 78,
+            "question": "20"
+          },
+          {
+            "session": 79,
+            "question": "19"
+          },
+          {
+            "session": 79,
+            "question": "20"
+          },
+          {
+            "session": 83,
+            "question": "19"
+          },
+          {
+            "session": 92,
+            "question": "18"
+          }
+        ],
+        "aliases": [
+          "significator of the body",
+          "hanged man"
+        ]
+      },
+      {
+        "number": 19,
+        "id": "3.5",
+        "name": "significator of the spirit",
+        "complex": "spirit",
+        "stage": "significator",
+        "imagepath": "images/19-significator-of-the-spirit.jpg",
+        "references": [
+          {
+            "session": 78,
+            "question": "19"
+          },
+          {
+            "session": 78,
+            "question": "20"
+          },
+          {
+            "session": 79,
+            "question": "19"
+          },
+          {
+            "session": 80,
+            "question": "15"
+          },
+          {
+            "session": 80,
+            "question": "16"
+          },
+          {
+            "session": 80,
+            "question": "17"
+          },
+          {
+            "session": 80,
+            "question": "18"
+          },
+          {
+            "session": 83,
+            "question": "19"
+          }
+        ],
+        "aliases": [
+          "significator of the spirit",
+          "sun"
+        ]
+      }
+    ],
+    [
+      {
+        "number": 6,
+        "id": "1.6",
+        "name": "transformation of the mind",
+        "complex": "mind",
+        "stage": "transformation",
+        "imagepath": "images/6-transformation-of-the-mind.jpg",
+        "references": [
+          {
+            "session": 79,
+            "question": "39"
+          },
+          {
+            "session": 79,
+            "question": "40"
+          },
+          {
+            "session": 99,
+            "question": "8"
+          },
+          {
+            "session": 99,
+            "question": "10"
+          },
+          {
+            "session": 100,
+            "question": "6"
+          }
+        ],
+        "aliases": [
+          "transformation of the mind",
+          "lovers"
+        ]
+      },
+      {
+        "number": 13,
+        "id": "2.6",
+        "name": "transformation of the body",
+        "complex": "body",
+        "stage": "transformation",
+        "imagepath": "images/13-transformation-of-the-body.jpg",
+        "references": [
+          {
+            "session": 81,
+            "question": "13"
+          }
+        ],
+        "aliases": [
+          "transformation of the body",
+          "death"
+        ]
+      },
+      {
+        "number": 20,
+        "id": "3.6",
+        "name": "transformation of the spirit",
+        "complex": "spirit",
+        "stage": "transformation",
+        "imagepath": "images/20-transformation-of-the-spirit.jpg",
+        "references": [
+          {
+            "session": 80,
+            "question": "19"
+          },
+          {
+            "session": 80,
+            "question": "20"
+          }
+        ],
+        "aliases": [
+          "transformation of the spirit",
+          "judgment",
+          "resurrection"
+        ]
+      }
+    ],
+    [
+      {
+        "number": 7,
+        "id": "1.7",
+        "name": "great way of the mind",
+        "complex": "mind",
+        "stage": "great way",
+        "imagepath": "images/7-great way-of-the-mind.jpg",
+        "references": [
+          {
+            "session": 79,
+            "question": "41"
+          },
+          {
+            "session": 92,
+            "question": "17"
+          },
+          {
+            "session": 100,
+            "question": "7"
+          },
+          {
+            "session": 100,
+            "question": "8"
+          },
+          {
+            "session": 100,
+            "question": "9"
+          },
+          {
+            "session": 100,
+            "question": "10"
+          },
+          {
+            "session": 100,
+            "question": "11"
+          },
+          {
+            "session": 100,
+            "question": "13"
+          },
+          {
+            "session": 103,
+            "question": "10"
+          },
+          {
+            "session": 103,
+            "question": "11"
+          },
+          {
+            "session": 103,
+            "question": "12"
+          },
+          {
+            "session": 103,
+            "question": "13"
+          },
+          {
+            "session": 103,
+            "question": "14"
+          },
+          {
+            "session": 103,
+            "question": "15"
+          }
+        ],
+        "aliases": [
+          "great way of the mind",
+          "chariot"
+        ]
+      },
+      {
+        "number": 14,
+        "id": "2.7",
+        "name": "great way of the body",
+        "complex": "body",
+        "stage": "great way",
+        "imagepath": "images/14-great way-of-the-body.jpg",
+        "references": [
+          {
+            "session": 81,
+            "question": "14"
+          },
+          {
+            "session": 103,
+            "question": "11"
+          }
+        ],
+        "aliases": [
+          "great way of the body",
+          "temperance"
+        ]
+      },
+      {
+        "number": 21,
+        "id": "3.7",
+        "name": "great way of the spirit",
+        "complex": "spirit",
+        "stage": "great way",
+        "imagepath": "images/21-great way-of-the-spirit.jpg",
+        "references": [
+          {
+            "session": 80,
+            "question": "21"
+          },
+          {
+            "session": 80,
+            "question": "22"
+          },
+          {
+            "session": 103,
+            "question": "11"
+          }
+        ],
+        "aliases": [
+          "great way of the spirit",
+          "world"
+        ]
+      }
+    ]
+  ],
+  "secondarystudy": {
+    "mindpairs": [
+      {
+        "arcanum1": {
+          "number": 1,
+          "id": "1.1",
+          "name": "matrix of the mind",
+          "complex": "mind",
+          "stage": "matrix",
+          "imagepath": "images/1-matrix-of-the-mind.jpg",
+          "references": [
+            {
+              "session": 74,
+              "question": "4"
+            },
+            {
+              "session": 78,
+              "question": "11"
+            },
+            {
+              "session": 78,
+              "question": "33"
+            },
+            {
+              "session": 79,
+              "question": "20"
+            },
+            {
+              "session": 89,
+              "question": "21"
+            },
+            {
+              "session": 90,
+              "question": "30"
+            },
+            {
+              "session": 91,
+              "question": "18"
+            },
+            {
+              "session": 92,
+              "question": "9"
+            }
+          ],
+          "aliases": [
+            "matrix of the mind",
+            "magician"
+          ]
+        },
+        "arcanum2": {
+          "number": 2,
+          "id": "1.2",
+          "name": "potentiator of the mind",
+          "complex": "mind",
+          "stage": "potentiator",
+          "imagepath": "images/2-potentiator-of-the-mind.jpg",
+          "references": [
+            {
+              "session": 74,
+              "question": "4"
+            },
+            {
+              "session": 78,
+              "question": "11"
+            },
+            {
+              "session": 78,
+              "question": "34"
+            },
+            {
+              "session": 79,
+              "question": "20"
+            },
+            {
+              "session": 86,
+              "question": "6"
+            },
+            {
+              "session": 92,
+              "question": "11"
+            },
+            {
+              "session": 92,
+              "question": "12"
+            },
+            {
+              "session": 92,
+              "question": "18"
+            },
+            {
+              "session": 92,
+              "question": "19"
+            },
+            {
+              "session": 92,
+              "question": "21"
+            },
+            {
+              "session": 92,
+              "question": "22"
+            },
+            {
+              "session": 92,
+              "question": "23"
+            },
+            {
+              "session": 92,
+              "question": "24"
+            },
+            {
+              "session": 92,
+              "question": "25"
+            },
+            {
+              "session": 92,
+              "question": "26"
+            },
+            {
+              "session": 92,
+              "question": "27"
+            },
+            {
+              "session": 92,
+              "question": "28"
+            },
+            {
+              "session": 92,
+              "question": "29"
+            },
+            {
+              "session": 92,
+              "question": "30"
+            },
+            {
+              "session": 92,
+              "question": "31"
+            },
+            {
+              "session": 92,
+              "question": "32"
+            },
+            {
+              "session": 92,
+              "question": "33"
+            },
+            {
+              "session": 96,
+              "question": "16"
+            },
+            {
+              "session": 96,
+              "question": "17"
+            },
+            {
+              "session": 96,
+              "question": "18"
+            }
+          ],
+          "aliases": [
+            "potentiator of the mind",
+            "high priestess"
+          ]
+        }
+      },
+      {
+        "arcanum1": {
+          "number": 3,
+          "id": "1.3",
+          "name": "catalyst of the mind",
+          "complex": "mind",
+          "stage": "catalyst",
+          "imagepath": "images/3-catalyst-of-the-mind.jpg",
+          "references": [
+            {
+              "session": 78,
+              "question": "35"
+            },
+            {
+              "session": 78,
+              "question": "36"
+            },
+            {
+              "session": 79,
+              "question": "35"
+            },
+            {
+              "session": 93,
+              "question": "7"
+            },
+            {
+              "session": 93,
+              "question": "8"
+            },
+            {
+              "session": 93,
+              "question": "9"
+            },
+            {
+              "session": 93,
+              "question": "10"
+            },
+            {
+              "session": 93,
+              "question": "11"
+            },
+            {
+              "session": 93,
+              "question": "12"
+            },
+            {
+              "session": 93,
+              "question": "13"
+            },
+            {
+              "session": 93,
+              "question": "18"
+            },
+            {
+              "session": 93,
+              "question": "19"
+            },
+            {
+              "session": 93,
+              "question": "20"
+            },
+            {
+              "session": 94,
+              "question": "11"
+            },
+            {
+              "session": 96,
+              "question": "20"
+            }
+          ],
+          "aliases": [
+            "catalyst of the mind",
+            "empress"
+          ]
+        },
+        "arcanum2": {
+          "number": 4,
+          "id": "1.4",
+          "name": "experience of the mind",
+          "complex": "mind",
+          "stage": "experience",
+          "imagepath": "images/4-experience-of-the-mind.jpg",
+          "references": [
+            {
+              "session": 78,
+              "question": "37"
+            },
+            {
+              "session": 79,
+              "question": "35"
+            },
+            {
+              "session": 94,
+              "question": "12"
+            },
+            {
+              "session": 94,
+              "question": "13"
+            },
+            {
+              "session": 94,
+              "question": "14"
+            },
+            {
+              "session": 94,
+              "question": "15"
+            },
+            {
+              "session": 94,
+              "question": "16"
+            },
+            {
+              "session": 94,
+              "question": "18"
+            },
+            {
+              "session": 94,
+              "question": "19"
+            },
+            {
+              "session": 94,
+              "question": "20"
+            },
+            {
+              "session": 94,
+              "question": "21"
+            },
+            {
+              "session": 94,
+              "question": "23"
+            },
+            {
+              "session": 94,
+              "question": "24"
+            },
+            {
+              "session": 94,
+              "question": "25"
+            },
+            {
+              "session": 94,
+              "question": "26"
+            },
+            {
+              "session": 94,
+              "question": "27"
+            },
+            {
+              "session": 94,
+              "question": "28"
+            },
+            {
+              "session": 94,
+              "question": "29"
+            },
+            {
+              "session": 95,
+              "question": "20"
+            },
+            {
+              "session": 95,
+              "question": "21"
+            },
+            {
+              "session": 95,
+              "question": "22"
+            },
+            {
+              "session": 95,
+              "question": "23"
+            },
+            {
+              "session": 95,
+              "question": "24"
+            },
+            {
+              "session": 95,
+              "question": "26"
+            },
+            {
+              "session": 95,
+              "question": "27"
+            },
+            {
+              "session": 96,
+              "question": "21"
+            }
+          ],
+          "aliases": [
+            "experience of the mind",
+            "emperor"
+          ]
+        }
+      },
+      {
+        "arcanum1": {
+          "number": 5,
+          "id": "1.5",
+          "name": "significator of the mind",
+          "complex": "mind",
+          "stage": "significator",
+          "imagepath": "images/5-significator-of-the-mind.jpg",
+          "references": [
+            {
+              "session": 78,
+              "question": "19"
+            },
+            {
+              "session": 78,
+              "question": "20"
+            },
+            {
+              "session": 79,
+              "question": "18"
+            },
+            {
+              "session": 79,
+              "question": "19"
+            },
+            {
+              "session": 79,
+              "question": "20"
+            },
+            {
+              "session": 79,
+              "question": "36"
+            },
+            {
+              "session": 79,
+              "question": "37"
+            },
+            {
+              "session": 79,
+              "question": "38"
+            },
+            {
+              "session": 79,
+              "question": "42"
+            },
+            {
+              "session": 83,
+              "question": "19"
+            },
+            {
+              "session": 92,
+              "question": "14"
+            },
+            {
+              "session": 92,
+              "question": "15"
+            },
+            {
+              "session": 92,
+              "question": "18"
+            },
+            {
+              "session": 92,
+              "question": "34"
+            },
+            {
+              "session": 97,
+              "question": "10"
+            },
+            {
+              "session": 97,
+              "question": "11"
+            },
+            {
+              "session": 97,
+              "question": "12"
+            },
+            {
+              "session": 97,
+              "question": "13"
+            },
+            {
+              "session": 97,
+              "question": "16"
+            },
+            {
+              "session": 97,
+              "question": "17"
+            },
+            {
+              "session": 97,
+              "question": "18"
+            },
+            {
+              "session": 99,
+              "question": "7"
+            },
+            {
+              "session": 103,
+              "question": "11"
+            }
+          ],
+          "aliases": [
+            "significator of the mind",
+            "hierophant"
+          ]
+        },
+        "arcanum2": {
+          "number": 22,
+          "id": "22",
+          "name": "the choice",
+          "imagepath": "images/22-the-choice.jpg",
+          "references": [
+            {
+              "session": 67,
+              "question": "30"
+            },
+            {
+              "session": 77,
+              "question": "12"
+            },
+            {
+              "session": 77,
+              "question": "13"
+            },
+            {
+              "session": 77,
+              "question": "16"
+            },
+            {
+              "session": 88,
+              "question": "16"
+            },
+            {
+              "session": 89,
+              "question": "26"
+            }
+          ],
+          "aliases": [
+            "the choice",
+            "fool",
+            "choice"
+          ]
+        }
+      },
+      {
+        "arcanum1": {
+          "number": 6,
+          "id": "1.6",
+          "name": "transformation of the mind",
+          "complex": "mind",
+          "stage": "transformation",
+          "imagepath": "images/6-transformation-of-the-mind.jpg",
+          "references": [
+            {
+              "session": 79,
+              "question": "39"
+            },
+            {
+              "session": 79,
+              "question": "40"
+            },
+            {
+              "session": 99,
+              "question": "8"
+            },
+            {
+              "session": 99,
+              "question": "10"
+            },
+            {
+              "session": 100,
+              "question": "6"
+            }
+          ],
+          "aliases": [
+            "transformation of the mind",
+            "lovers"
+          ]
+        },
+        "arcanum2": {
+          "number": 7,
+          "id": "1.7",
+          "name": "great way of the mind",
+          "complex": "mind",
+          "stage": "great way",
+          "imagepath": "images/7-great way-of-the-mind.jpg",
+          "references": [
+            {
+              "session": 79,
+              "question": "41"
+            },
+            {
+              "session": 92,
+              "question": "17"
+            },
+            {
+              "session": 100,
+              "question": "7"
+            },
+            {
+              "session": 100,
+              "question": "8"
+            },
+            {
+              "session": 100,
+              "question": "9"
+            },
+            {
+              "session": 100,
+              "question": "10"
+            },
+            {
+              "session": 100,
+              "question": "11"
+            },
+            {
+              "session": 100,
+              "question": "13"
+            },
+            {
+              "session": 103,
+              "question": "10"
+            },
+            {
+              "session": 103,
+              "question": "11"
+            },
+            {
+              "session": 103,
+              "question": "12"
+            },
+            {
+              "session": 103,
+              "question": "13"
+            },
+            {
+              "session": 103,
+              "question": "14"
+            },
+            {
+              "session": 103,
+              "question": "15"
+            }
+          ],
+          "aliases": [
+            "great way of the mind",
+            "chariot"
+          ]
+        }
+      }
+    ],
+    "bodypairs": [
+      {
+        "arcanum1": {
+          "number": 8,
+          "id": "2.1",
+          "name": "matrix of the body",
+          "complex": "body",
+          "stage": "matrix",
+          "imagepath": "images/8-matrix-of-the-body.jpg",
+          "references": [
+            {
+              "session": 78,
+              "question": "11"
+            },
+            {
+              "session": 79,
+              "question": "20"
+            },
+            {
+              "session": 92,
+              "question": "18"
+            }
+          ],
+          "aliases": [
+            "matrix of the body",
+            "justice"
+          ]
+        },
+        "arcanum2": {
+          "number": 9,
+          "id": "2.2",
+          "name": "potentiator of the body",
+          "complex": "body",
+          "stage": "potentiator",
+          "imagepath": "images/9-potentiator-of-the-body.jpg",
+          "references": [
+            {
+              "session": 78,
+              "question": "11"
+            },
+            {
+              "session": 79,
+              "question": "20"
+            },
+            {
+              "session": 92,
+              "question": "18"
+            }
+          ],
+          "aliases": [
+            "potentiator of the body",
+            "hermit"
+          ]
+        }
+      },
+      {
+        "arcanum1": {
+          "number": 10,
+          "id": "2.3",
+          "name": "catalyst of the body",
+          "complex": "body",
+          "stage": "catalyst",
+          "imagepath": "images/10-catalyst-of-the-body.jpg",
+          "references": [
+            {
+              "session": 81,
+              "question": "11"
+            },
+            {
+              "session": 93,
+              "question": "11"
+            },
+            {
+              "session": 93,
+              "question": "12"
+            }
+          ],
+          "aliases": [
+            "catalyst of the body",
+            "wheel of fortune"
+          ]
+        },
+        "arcanum2": {
+          "number": 11,
+          "id": "2.4",
+          "name": "experience of the body",
+          "complex": "body",
+          "stage": "experience",
+          "imagepath": "images/11-experience-of-the-body.jpg",
+          "references": [
+            {
+              "session": 81,
+              "question": "12"
+            }
+          ],
+          "aliases": [
+            "experience of the body",
+            "strength"
+          ]
+        }
+      },
+      {
+        "arcanum1": {
+          "number": 12,
+          "id": "2.5",
+          "name": "significator of the body",
+          "complex": "body",
+          "stage": "significator",
+          "imagepath": "images/12-significator-of-the-body.jpg",
+          "references": [
+            {
+              "session": 78,
+              "question": "19"
+            },
+            {
+              "session": 78,
+              "question": "20"
+            },
+            {
+              "session": 79,
+              "question": "19"
+            },
+            {
+              "session": 79,
+              "question": "20"
+            },
+            {
+              "session": 83,
+              "question": "19"
+            },
+            {
+              "session": 92,
+              "question": "18"
+            }
+          ],
+          "aliases": [
+            "significator of the body",
+            "hanged man"
+          ]
+        },
+        "arcanum2": {
+          "number": 22,
+          "id": "22",
+          "name": "the choice",
+          "imagepath": "images/22-the-choice.jpg",
+          "references": [
+            {
+              "session": 67,
+              "question": "30"
+            },
+            {
+              "session": 77,
+              "question": "12"
+            },
+            {
+              "session": 77,
+              "question": "13"
+            },
+            {
+              "session": 77,
+              "question": "16"
+            },
+            {
+              "session": 88,
+              "question": "16"
+            },
+            {
+              "session": 89,
+              "question": "26"
+            }
+          ],
+          "aliases": [
+            "the choice",
+            "fool",
+            "choice"
+          ]
+        }
+      },
+      {
+        "arcanum1": {
+          "number": 13,
+          "id": "2.6",
+          "name": "transformation of the body",
+          "complex": "body",
+          "stage": "transformation",
+          "imagepath": "images/13-transformation-of-the-body.jpg",
+          "references": [
+            {
+              "session": 81,
+              "question": "13"
+            }
+          ],
+          "aliases": [
+            "transformation of the body",
+            "death"
+          ]
+        },
+        "arcanum2": {
+          "number": 14,
+          "id": "2.7",
+          "name": "great way of the body",
+          "complex": "body",
+          "stage": "great way",
+          "imagepath": "images/14-great way-of-the-body.jpg",
+          "references": [
+            {
+              "session": 81,
+              "question": "14"
+            },
+            {
+              "session": 103,
+              "question": "11"
+            }
+          ],
+          "aliases": [
+            "great way of the body",
+            "temperance"
+          ]
+        }
+      }
+    ],
+    "spiritpairs": [
+      {
+        "arcanum1": {
+          "number": 15,
+          "id": "3.1",
+          "name": "matrix of the spirit",
+          "complex": "spirit",
+          "stage": "matrix",
+          "imagepath": "images/15-matrix-of-the-spirit.jpg",
+          "references": [
+            {
+              "session": 78,
+              "question": "11"
+            },
+            {
+              "session": 79,
+              "question": "20"
+            },
+            {
+              "session": 80,
+              "question": "8"
+            },
+            {
+              "session": 80,
+              "question": "10"
+            }
+          ],
+          "aliases": [
+            "matrix of the spirit",
+            "devil",
+            "typhon"
+          ]
+        },
+        "arcanum2": {
+          "number": 16,
+          "id": "3.2",
+          "name": "potentiator of the spirit",
+          "complex": "spirit",
+          "stage": "potentiator",
+          "imagepath": "images/16-potentiator-of-the-spirit.jpg",
+          "references": [
+            {
+              "session": 78,
+              "question": "11"
+            },
+            {
+              "session": 79,
+              "question": "20"
+            },
+            {
+              "session": 80,
+              "question": "13"
+            }
+          ],
+          "aliases": [
+            "potentiator of the spirit",
+            "tower",
+            "lightning",
+            "lightning struck tower"
+          ]
+        }
+      },
+      {
+        "arcanum1": {
+          "number": 17,
+          "id": "3.3",
+          "name": "catalyst of the spirit",
+          "complex": "spirit",
+          "stage": "catalyst",
+          "imagepath": "images/17-catalyst-of-the-spirit.jpg",
+          "references": [
+            {
+              "session": 80,
+              "question": "10"
+            },
+            {
+              "session": 80,
+              "question": "13"
+            },
+            {
+              "session": 80,
+              "question": "15"
+            }
+          ],
+          "aliases": [
+            "catalyst of the spirit",
+            "star"
+          ]
+        },
+        "arcanum2": {
+          "number": 18,
+          "id": "3.4",
+          "name": "experience of the spirit",
+          "complex": "spirit",
+          "stage": "experience",
+          "imagepath": "images/18-experience-of-the-spirit.jpg",
+          "references": [
+            {
+              "session": 80,
+              "question": "8"
+            },
+            {
+              "session": 80,
+              "question": "10"
+            },
+            {
+              "session": 80,
+              "question": "15"
+            }
+          ],
+          "aliases": [
+            "experience of the spirit",
+            "moon"
+          ]
+        }
+      },
+      {
+        "arcanum1": {
+          "number": 19,
+          "id": "3.5",
+          "name": "significator of the spirit",
+          "complex": "spirit",
+          "stage": "significator",
+          "imagepath": "images/19-significator-of-the-spirit.jpg",
+          "references": [
+            {
+              "session": 78,
+              "question": "19"
+            },
+            {
+              "session": 78,
+              "question": "20"
+            },
+            {
+              "session": 79,
+              "question": "19"
+            },
+            {
+              "session": 80,
+              "question": "15"
+            },
+            {
+              "session": 80,
+              "question": "16"
+            },
+            {
+              "session": 80,
+              "question": "17"
+            },
+            {
+              "session": 80,
+              "question": "18"
+            },
+            {
+              "session": 83,
+              "question": "19"
+            }
+          ],
+          "aliases": [
+            "significator of the spirit",
+            "sun"
+          ]
+        },
+        "arcanum2": {
+          "number": 22,
+          "id": "22",
+          "name": "the choice",
+          "imagepath": "images/22-the-choice.jpg",
+          "references": [
+            {
+              "session": 67,
+              "question": "30"
+            },
+            {
+              "session": 77,
+              "question": "12"
+            },
+            {
+              "session": 77,
+              "question": "13"
+            },
+            {
+              "session": 77,
+              "question": "16"
+            },
+            {
+              "session": 88,
+              "question": "16"
+            },
+            {
+              "session": 89,
+              "question": "26"
+            }
+          ],
+          "aliases": [
+            "the choice",
+            "fool",
+            "choice"
+          ]
+        }
+      },
+      {
+        "arcanum1": {
+          "number": 20,
+          "id": "3.6",
+          "name": "transformation of the spirit",
+          "complex": "spirit",
+          "stage": "transformation",
+          "imagepath": "images/20-transformation-of-the-spirit.jpg",
+          "references": [
+            {
+              "session": 80,
+              "question": "19"
+            },
+            {
+              "session": 80,
+              "question": "20"
+            }
+          ],
+          "aliases": [
+            "transformation of the spirit",
+            "judgment",
+            "resurrection"
+          ]
+        },
+        "arcanum2": {
+          "number": 21,
+          "id": "3.7",
+          "name": "great way of the spirit",
+          "complex": "spirit",
+          "stage": "great way",
+          "imagepath": "images/21-great way-of-the-spirit.jpg",
+          "references": [
+            {
+              "session": 80,
+              "question": "21"
+            },
+            {
+              "session": 80,
+              "question": "22"
+            },
+            {
+              "session": 103,
+              "question": "11"
+            }
+          ],
+          "aliases": [
+            "great way of the spirit",
+            "world"
+          ]
+        }
+      }
+    ]
+  }
+}

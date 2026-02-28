@@ -1,0 +1,458 @@
+{
+  "text": "By manipulation, do you mean she should go for a walk or we should rub her back? I am Ra. We meant the latter. The understanding must be added that this manipulation be done by one in harmony with the entity. Are there any short queries before we leave this instrument?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "By manipulation, do you mean she should go for a walk or we should rub her back?",
+        "start_offset": 0,
+        "end_offset": 80,
+        "start": 1.3,
+        "end": 11.782
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 81,
+        "end_offset": 89,
+        "start": 11.882,
+        "end": 13.542
+      },
+      {
+        "segment": "We meant the latter.",
+        "start_offset": 90,
+        "end_offset": 110,
+        "start": 15.862,
+        "end": 19.983
+      },
+      {
+        "segment": "The understanding must be added that this manipulation be done by one in harmony with the entity.",
+        "start_offset": 111,
+        "end_offset": 208,
+        "start": 23.244,
+        "end": 44.887
+      },
+      {
+        "segment": "Are there any short queries before we leave this instrument?",
+        "start_offset": 209,
+        "end_offset": 269,
+        "start": 48.768,
+        "end": 59.109
+      }
+    ],
+    "word": [
+      {
+        "word": "By",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 1.3,
+        "end": 1.34,
+        "score": -6.1504
+      },
+      {
+        "word": "manipulation,",
+        "start_offset": 3,
+        "end_offset": 16,
+        "start": 1.36,
+        "end": 1.68,
+        "score": -6.9652
+      },
+      {
+        "word": "do",
+        "start_offset": 17,
+        "end_offset": 19,
+        "start": 1.76,
+        "end": 1.8,
+        "score": -7.0104
+      },
+      {
+        "word": "you",
+        "start_offset": 20,
+        "end_offset": 23,
+        "start": 1.82,
+        "end": 1.88,
+        "score": -6.6529
+      },
+      {
+        "word": "mean",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 1.9,
+        "end": 1.98,
+        "score": -7.5884
+      },
+      {
+        "word": "she",
+        "start_offset": 29,
+        "end_offset": 32,
+        "start": 2.0,
+        "end": 2.1,
+        "score": -5.509
+      },
+      {
+        "word": "should",
+        "start_offset": 33,
+        "end_offset": 39,
+        "start": 4.501,
+        "end": 4.821,
+        "score": -6.338
+      },
+      {
+        "word": "go",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 4.861,
+        "end": 4.961,
+        "score": -6.0499
+      },
+      {
+        "word": "for",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 6.921,
+        "end": 7.121,
+        "score": -5.3298
+      },
+      {
+        "word": "a",
+        "start_offset": 47,
+        "end_offset": 48,
+        "start": 7.141,
+        "end": 7.161,
+        "score": -6.6846
+      },
+      {
+        "word": "walk",
+        "start_offset": 49,
+        "end_offset": 53,
+        "start": 7.321,
+        "end": 7.541,
+        "score": -5.5019
+      },
+      {
+        "word": "or",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 7.561,
+        "end": 7.601,
+        "score": -5.6497
+      },
+      {
+        "word": "we",
+        "start_offset": 57,
+        "end_offset": 59,
+        "start": 7.621,
+        "end": 7.661,
+        "score": -5.9768
+      },
+      {
+        "word": "should",
+        "start_offset": 60,
+        "end_offset": 66,
+        "start": 7.681,
+        "end": 7.841,
+        "score": -6.3459
+      },
+      {
+        "word": "rub",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 7.881,
+        "end": 8.001,
+        "score": -6.6948
+      },
+      {
+        "word": "her",
+        "start_offset": 71,
+        "end_offset": 74,
+        "start": 8.021,
+        "end": 8.141,
+        "score": -4.5184
+      },
+      {
+        "word": "back?",
+        "start_offset": 75,
+        "end_offset": 80,
+        "start": 11.642,
+        "end": 11.782,
+        "score": -7.9063
+      },
+      {
+        "word": "I",
+        "start_offset": 81,
+        "end_offset": 82,
+        "start": 11.882,
+        "end": 11.902,
+        "score": -4.5414
+      },
+      {
+        "word": "am",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 12.542,
+        "end": 12.722,
+        "score": -2.5972
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 86,
+        "end_offset": 89,
+        "start": 13.402,
+        "end": 13.542,
+        "score": -1.8567
+      },
+      {
+        "word": "We",
+        "start_offset": 90,
+        "end_offset": 92,
+        "start": 15.862,
+        "end": 15.983,
+        "score": -1.2672
+      },
+      {
+        "word": "meant",
+        "start_offset": 93,
+        "end_offset": 98,
+        "start": 17.103,
+        "end": 17.443,
+        "score": -2.1819
+      },
+      {
+        "word": "the",
+        "start_offset": 99,
+        "end_offset": 102,
+        "start": 18.163,
+        "end": 18.303,
+        "score": -1.6984
+      },
+      {
+        "word": "latter.",
+        "start_offset": 103,
+        "end_offset": 110,
+        "start": 19.443,
+        "end": 19.983,
+        "score": -0.8448
+      },
+      {
+        "word": "The",
+        "start_offset": 111,
+        "end_offset": 114,
+        "start": 23.244,
+        "end": 23.364,
+        "score": -1.6794
+      },
+      {
+        "word": "understanding",
+        "start_offset": 115,
+        "end_offset": 128,
+        "start": 25.144,
+        "end": 26.384,
+        "score": -0.8951
+      },
+      {
+        "word": "must",
+        "start_offset": 129,
+        "end_offset": 133,
+        "start": 27.804,
+        "end": 28.224,
+        "score": -0.8554
+      },
+      {
+        "word": "be",
+        "start_offset": 134,
+        "end_offset": 136,
+        "start": 28.584,
+        "end": 28.685,
+        "score": -0.8714
+      },
+      {
+        "word": "added",
+        "start_offset": 137,
+        "end_offset": 142,
+        "start": 29.445,
+        "end": 29.925,
+        "score": -2.1118
+      },
+      {
+        "word": "that",
+        "start_offset": 143,
+        "end_offset": 147,
+        "start": 30.745,
+        "end": 31.045,
+        "score": -0.8137
+      },
+      {
+        "word": "this",
+        "start_offset": 148,
+        "end_offset": 152,
+        "start": 31.945,
+        "end": 32.265,
+        "score": -0.9264
+      },
+      {
+        "word": "manipulation",
+        "start_offset": 153,
+        "end_offset": 165,
+        "start": 32.805,
+        "end": 34.585,
+        "score": -0.9452
+      },
+      {
+        "word": "be",
+        "start_offset": 166,
+        "end_offset": 168,
+        "start": 35.886,
+        "end": 36.006,
+        "score": -1.0906
+      },
+      {
+        "word": "done",
+        "start_offset": 169,
+        "end_offset": 173,
+        "start": 36.706,
+        "end": 37.146,
+        "score": -2.4732
+      },
+      {
+        "word": "by",
+        "start_offset": 174,
+        "end_offset": 176,
+        "start": 37.766,
+        "end": 38.126,
+        "score": -1.887
+      },
+      {
+        "word": "one",
+        "start_offset": 177,
+        "end_offset": 180,
+        "start": 38.706,
+        "end": 38.926,
+        "score": -3.9153
+      },
+      {
+        "word": "in",
+        "start_offset": 181,
+        "end_offset": 183,
+        "start": 39.686,
+        "end": 39.826,
+        "score": -1.2179
+      },
+      {
+        "word": "harmony",
+        "start_offset": 184,
+        "end_offset": 191,
+        "start": 40.506,
+        "end": 41.467,
+        "score": -2.4096
+      },
+      {
+        "word": "with",
+        "start_offset": 192,
+        "end_offset": 196,
+        "start": 42.047,
+        "end": 42.347,
+        "score": -1.1878
+      },
+      {
+        "word": "the",
+        "start_offset": 197,
+        "end_offset": 200,
+        "start": 42.987,
+        "end": 43.127,
+        "score": -1.1693
+      },
+      {
+        "word": "entity.",
+        "start_offset": 201,
+        "end_offset": 208,
+        "start": 44.207,
+        "end": 44.887,
+        "score": -1.882
+      },
+      {
+        "word": "Are",
+        "start_offset": 209,
+        "end_offset": 212,
+        "start": 48.768,
+        "end": 49.008,
+        "score": -1.924
+      },
+      {
+        "word": "there",
+        "start_offset": 213,
+        "end_offset": 218,
+        "start": 49.448,
+        "end": 49.788,
+        "score": -1.1463
+      },
+      {
+        "word": "any",
+        "start_offset": 219,
+        "end_offset": 222,
+        "start": 50.448,
+        "end": 50.708,
+        "score": -0.8831
+      },
+      {
+        "word": "short",
+        "start_offset": 223,
+        "end_offset": 228,
+        "start": 51.468,
+        "end": 51.848,
+        "score": -0.8857
+      },
+      {
+        "word": "queries",
+        "start_offset": 229,
+        "end_offset": 236,
+        "start": 52.488,
+        "end": 53.268,
+        "score": -2.5665
+      },
+      {
+        "word": "before",
+        "start_offset": 237,
+        "end_offset": 243,
+        "start": 53.768,
+        "end": 54.389,
+        "score": -1.9298
+      },
+      {
+        "word": "we",
+        "start_offset": 244,
+        "end_offset": 246,
+        "start": 55.169,
+        "end": 55.289,
+        "score": -1.2706
+      },
+      {
+        "word": "leave",
+        "start_offset": 247,
+        "end_offset": 252,
+        "start": 56.009,
+        "end": 56.449,
+        "score": -3.6058
+      },
+      {
+        "word": "this",
+        "start_offset": 253,
+        "end_offset": 257,
+        "start": 57.049,
+        "end": 57.309,
+        "score": -3.6539
+      },
+      {
+        "word": "instrument?",
+        "start_offset": 258,
+        "end_offset": 269,
+        "start": 58.169,
+        "end": 59.109,
+        "score": -0.884
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "015-24.mp3",
+    "audio_duration": 60.0294,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

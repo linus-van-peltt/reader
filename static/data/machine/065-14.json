@@ -1,0 +1,212 @@
+{
+  "text": "Can you tell me why there is no almost no opportunity in that case? The ability to apolarize positively requires a certain degree of self determination.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me why there is no almost no opportunity in that case?",
+        "start_offset": 28,
+        "end_offset": 88,
+        "start": 2.24,
+        "end": 7.04
+      },
+      {
+        "segment": "The ability to apolarize positively requires a certain degree of self determination.",
+        "start_offset": 144,
+        "end_offset": 424,
+        "start": 11.52,
+        "end": 33.92
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 2.24,
+        "end": 2.56
+      },
+      {
+        "word": "you",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 2.56,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "tell",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 2.8000000000000003,
+        "end": 3.04
+      },
+      {
+        "word": "me",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 3.04,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "why",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 3.2800000000000002,
+        "end": 3.52
+      },
+      {
+        "word": "there",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 3.52,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "is",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 3.7600000000000002,
+        "end": 3.92
+      },
+      {
+        "word": "no",
+        "start_offset": 49,
+        "end_offset": 53,
+        "start": 3.92,
+        "end": 4.24
+      },
+      {
+        "word": "almost",
+        "start_offset": 56,
+        "end_offset": 62,
+        "start": 4.48,
+        "end": 4.96
+      },
+      {
+        "word": "no",
+        "start_offset": 62,
+        "end_offset": 66,
+        "start": 4.96,
+        "end": 5.28
+      },
+      {
+        "word": "opportunity",
+        "start_offset": 66,
+        "end_offset": 75,
+        "start": 5.28,
+        "end": 6.0
+      },
+      {
+        "word": "in",
+        "start_offset": 75,
+        "end_offset": 78,
+        "start": 6.0,
+        "end": 6.24
+      },
+      {
+        "word": "that",
+        "start_offset": 78,
+        "end_offset": 81,
+        "start": 6.24,
+        "end": 6.48
+      },
+      {
+        "word": "case?",
+        "start_offset": 81,
+        "end_offset": 88,
+        "start": 6.48,
+        "end": 7.04
+      },
+      {
+        "word": "The",
+        "start_offset": 144,
+        "end_offset": 148,
+        "start": 11.52,
+        "end": 11.84
+      },
+      {
+        "word": "ability",
+        "start_offset": 187,
+        "end_offset": 199,
+        "start": 14.96,
+        "end": 15.92
+      },
+      {
+        "word": "to",
+        "start_offset": 207,
+        "end_offset": 211,
+        "start": 16.56,
+        "end": 16.88
+      },
+      {
+        "word": "apolarize",
+        "start_offset": 223,
+        "end_offset": 242,
+        "start": 17.84,
+        "end": 19.36
+      },
+      {
+        "word": "positively",
+        "start_offset": 253,
+        "end_offset": 265,
+        "start": 20.240000000000002,
+        "end": 21.2
+      },
+      {
+        "word": "requires",
+        "start_offset": 291,
+        "end_offset": 306,
+        "start": 23.28,
+        "end": 24.48
+      },
+      {
+        "word": "a",
+        "start_offset": 322,
+        "end_offset": 326,
+        "start": 25.76,
+        "end": 26.080000000000002
+      },
+      {
+        "word": "certain",
+        "start_offset": 336,
+        "end_offset": 344,
+        "start": 26.88,
+        "end": 27.52
+      },
+      {
+        "word": "degree",
+        "start_offset": 360,
+        "end_offset": 372,
+        "start": 28.8,
+        "end": 29.76
+      },
+      {
+        "word": "of",
+        "start_offset": 380,
+        "end_offset": 384,
+        "start": 30.400000000000002,
+        "end": 30.72
+      },
+      {
+        "word": "self",
+        "start_offset": 396,
+        "end_offset": 404,
+        "start": 31.68,
+        "end": 32.32
+      },
+      {
+        "word": "determination.",
+        "start_offset": 410,
+        "end_offset": 424,
+        "start": 32.8,
+        "end": 33.92
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "065-14.mp3",
+    "audio_duration": 53.03,
+    "transcription_time": 0.12,
+    "rtfx": 456.59,
+    "timestamp": "2026-01-06T21:54:06.371556+00:00"
+  }
+}

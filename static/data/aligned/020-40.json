@@ -1,0 +1,260 @@
+{
+  "text": "Since this can only be seen from an altitude, of what benefit was this? I am Ra. The formations were of benefit because charged with energy of power.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Since this can only be seen from an altitude, of what benefit was this?",
+        "start_offset": 0,
+        "end_offset": 71,
+        "start": 1.52,
+        "end": 6.381
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 72,
+        "end_offset": 80,
+        "start": 12.222,
+        "end": 14.163
+      },
+      {
+        "segment": "The formations were of benefit because charged with energy of power.",
+        "start_offset": 81,
+        "end_offset": 149,
+        "start": 16.883,
+        "end": 30.526
+      }
+    ],
+    "word": [
+      {
+        "word": "Since",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 1.52,
+        "end": 1.84,
+        "score": -2.3416
+      },
+      {
+        "word": "this",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 2.02,
+        "end": 2.18,
+        "score": -1.6344
+      },
+      {
+        "word": "can",
+        "start_offset": 11,
+        "end_offset": 14,
+        "start": 2.24,
+        "end": 2.36,
+        "score": -1.4719
+      },
+      {
+        "word": "only",
+        "start_offset": 15,
+        "end_offset": 19,
+        "start": 2.44,
+        "end": 2.58,
+        "score": -1.5095
+      },
+      {
+        "word": "be",
+        "start_offset": 20,
+        "end_offset": 22,
+        "start": 2.641,
+        "end": 2.701,
+        "score": -1.2635
+      },
+      {
+        "word": "seen",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 2.861,
+        "end": 3.081,
+        "score": -1.2208
+      },
+      {
+        "word": "from",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 3.161,
+        "end": 3.301,
+        "score": -1.2105
+      },
+      {
+        "word": "an",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 4.201,
+        "end": 4.261,
+        "score": -3.9782
+      },
+      {
+        "word": "altitude,",
+        "start_offset": 36,
+        "end_offset": 45,
+        "start": 4.441,
+        "end": 5.001,
+        "score": -2.2823
+      },
+      {
+        "word": "of",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 5.081,
+        "end": 5.161,
+        "score": -4.257
+      },
+      {
+        "word": "what",
+        "start_offset": 49,
+        "end_offset": 53,
+        "start": 5.201,
+        "end": 5.321,
+        "score": -2.5199
+      },
+      {
+        "word": "benefit",
+        "start_offset": 54,
+        "end_offset": 61,
+        "start": 5.401,
+        "end": 5.821,
+        "score": -1.2103
+      },
+      {
+        "word": "was",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 5.901,
+        "end": 6.081,
+        "score": -2.1013
+      },
+      {
+        "word": "this?",
+        "start_offset": 66,
+        "end_offset": 71,
+        "start": 6.141,
+        "end": 6.381,
+        "score": -1.7409
+      },
+      {
+        "word": "I",
+        "start_offset": 72,
+        "end_offset": 73,
+        "start": 12.222,
+        "end": 12.242,
+        "score": -0.8516
+      },
+      {
+        "word": "am",
+        "start_offset": 74,
+        "end_offset": 76,
+        "start": 13.002,
+        "end": 13.323,
+        "score": -3.4445
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 77,
+        "end_offset": 80,
+        "start": 14.003,
+        "end": 14.163,
+        "score": -0.9487
+      },
+      {
+        "word": "The",
+        "start_offset": 81,
+        "end_offset": 84,
+        "start": 16.883,
+        "end": 17.023,
+        "score": -1.8096
+      },
+      {
+        "word": "formations",
+        "start_offset": 85,
+        "end_offset": 95,
+        "start": 17.963,
+        "end": 19.424,
+        "score": -0.7059
+      },
+      {
+        "word": "were",
+        "start_offset": 96,
+        "end_offset": 100,
+        "start": 20.124,
+        "end": 20.464,
+        "score": -0.7226
+      },
+      {
+        "word": "of",
+        "start_offset": 101,
+        "end_offset": 103,
+        "start": 20.724,
+        "end": 20.944,
+        "score": -0.7411
+      },
+      {
+        "word": "benefit",
+        "start_offset": 104,
+        "end_offset": 111,
+        "start": 21.184,
+        "end": 22.144,
+        "score": -0.7027
+      },
+      {
+        "word": "because",
+        "start_offset": 112,
+        "end_offset": 119,
+        "start": 23.565,
+        "end": 24.465,
+        "score": -0.7003
+      },
+      {
+        "word": "charged",
+        "start_offset": 120,
+        "end_offset": 127,
+        "start": 24.745,
+        "end": 25.645,
+        "score": -0.7133
+      },
+      {
+        "word": "with",
+        "start_offset": 128,
+        "end_offset": 132,
+        "start": 26.725,
+        "end": 27.065,
+        "score": -0.7109
+      },
+      {
+        "word": "energy",
+        "start_offset": 133,
+        "end_offset": 139,
+        "start": 27.745,
+        "end": 28.385,
+        "score": -0.8269
+      },
+      {
+        "word": "of",
+        "start_offset": 140,
+        "end_offset": 142,
+        "start": 29.326,
+        "end": 29.546,
+        "score": -0.7892
+      },
+      {
+        "word": "power.",
+        "start_offset": 143,
+        "end_offset": 149,
+        "start": 29.846,
+        "end": 30.526,
+        "score": -0.8103
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "020-40.mp3",
+    "audio_duration": 32.0261,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

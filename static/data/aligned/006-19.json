@@ -1,0 +1,229 @@
+{
+  "text": "Is it possible to estimate what percentage of the present population will inhabit the fourth-density planet? The harvesting is not yet, thus, estimation is meaningless.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is it possible to estimate what percentage of the present population will inhabit the fourth-density planet?",
+        "start_offset": 0,
+        "end_offset": 108,
+        "start": 3.302,
+        "end": 30.636
+      },
+      {
+        "segment": "The harvesting is not yet, thus, estimation is meaningless.",
+        "start_offset": 109,
+        "end_offset": 168,
+        "start": 30.676,
+        "end": 36.619
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 3.302,
+        "end": 3.662,
+        "score": -5.949
+      },
+      {
+        "word": "it",
+        "start_offset": 3,
+        "end_offset": 5,
+        "start": 3.862,
+        "end": 4.062,
+        "score": -7.9647
+      },
+      {
+        "word": "possible",
+        "start_offset": 6,
+        "end_offset": 14,
+        "start": 4.262,
+        "end": 7.184,
+        "score": -7.5962
+      },
+      {
+        "word": "to",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 7.224,
+        "end": 7.264,
+        "score": -9.8953
+      },
+      {
+        "word": "estimate",
+        "start_offset": 18,
+        "end_offset": 26,
+        "start": 7.284,
+        "end": 23.292,
+        "score": -7.6642
+      },
+      {
+        "word": "what",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 23.312,
+        "end": 23.392,
+        "score": -8.1582
+      },
+      {
+        "word": "percentage",
+        "start_offset": 32,
+        "end_offset": 42,
+        "start": 23.412,
+        "end": 23.712,
+        "score": -5.7041
+      },
+      {
+        "word": "of",
+        "start_offset": 43,
+        "end_offset": 45,
+        "start": 23.732,
+        "end": 23.792,
+        "score": -7.9977
+      },
+      {
+        "word": "the",
+        "start_offset": 46,
+        "end_offset": 49,
+        "start": 24.853,
+        "end": 24.993,
+        "score": -4.5827
+      },
+      {
+        "word": "present",
+        "start_offset": 50,
+        "end_offset": 57,
+        "start": 25.113,
+        "end": 25.393,
+        "score": -3.873
+      },
+      {
+        "word": "population",
+        "start_offset": 58,
+        "end_offset": 68,
+        "start": 25.413,
+        "end": 25.613,
+        "score": -7.3325
+      },
+      {
+        "word": "will",
+        "start_offset": 69,
+        "end_offset": 73,
+        "start": 25.673,
+        "end": 26.874,
+        "score": -6.1366
+      },
+      {
+        "word": "inhabit",
+        "start_offset": 74,
+        "end_offset": 81,
+        "start": 26.894,
+        "end": 27.214,
+        "score": -6.944
+      },
+      {
+        "word": "the",
+        "start_offset": 82,
+        "end_offset": 85,
+        "start": 27.294,
+        "end": 27.394,
+        "score": -5.8732
+      },
+      {
+        "word": "fourth-density",
+        "start_offset": 86,
+        "end_offset": 100,
+        "start": 28.455,
+        "end": 28.935,
+        "score": -7.2984
+      },
+      {
+        "word": "planet?",
+        "start_offset": 101,
+        "end_offset": 108,
+        "start": 30.496,
+        "end": 30.636,
+        "score": -6.8057
+      },
+      {
+        "word": "The",
+        "start_offset": 109,
+        "end_offset": 112,
+        "start": 30.676,
+        "end": 30.736,
+        "score": -6.6735
+      },
+      {
+        "word": "harvesting",
+        "start_offset": 113,
+        "end_offset": 123,
+        "start": 30.756,
+        "end": 31.156,
+        "score": -6.2057
+      },
+      {
+        "word": "is",
+        "start_offset": 124,
+        "end_offset": 126,
+        "start": 31.176,
+        "end": 31.216,
+        "score": -8.4843
+      },
+      {
+        "word": "not",
+        "start_offset": 127,
+        "end_offset": 130,
+        "start": 31.236,
+        "end": 32.617,
+        "score": -9.2183
+      },
+      {
+        "word": "yet,",
+        "start_offset": 131,
+        "end_offset": 135,
+        "start": 32.637,
+        "end": 32.697,
+        "score": -6.5787
+      },
+      {
+        "word": "thus,",
+        "start_offset": 136,
+        "end_offset": 141,
+        "start": 32.717,
+        "end": 32.797,
+        "score": -6.9939
+      },
+      {
+        "word": "estimation",
+        "start_offset": 142,
+        "end_offset": 152,
+        "start": 32.817,
+        "end": 33.497,
+        "score": -2.15
+      },
+      {
+        "word": "is",
+        "start_offset": 153,
+        "end_offset": 155,
+        "start": 34.618,
+        "end": 34.878,
+        "score": -0.858
+      },
+      {
+        "word": "meaningless.",
+        "start_offset": 156,
+        "end_offset": 168,
+        "start": 35.958,
+        "end": 36.619,
+        "score": -3.3899
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "006-19.mp3",
+    "audio_duration": 44.0425,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

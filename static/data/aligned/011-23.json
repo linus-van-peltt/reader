@@ -1,0 +1,576 @@
+{
+  "text": "Is this how we learned of nuclear energy? Was it mixed, both positive and negative orientation? I am Ra. This is correct. The entities responsible for the gathering of the scientists were of a mixed orientation. The scientists were overwhelmingly positive in their orientation. The scientists who followed their work were of mixed orientation including one extremely negative entity, as you would term it.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is this how we learned of nuclear energy?",
+        "start_offset": 0,
+        "end_offset": 41,
+        "start": 0.64,
+        "end": 2.54
+      },
+      {
+        "segment": "Was it mixed, both positive and negative orientation?",
+        "start_offset": 42,
+        "end_offset": 95,
+        "start": 2.64,
+        "end": 13.281
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 96,
+        "end_offset": 104,
+        "start": 13.301,
+        "end": 13.541
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 105,
+        "end_offset": 121,
+        "start": 16.241,
+        "end": 19.702
+      },
+      {
+        "segment": "The entities responsible for the gathering of the scientists were of a mixed orientation.",
+        "start_offset": 122,
+        "end_offset": 211,
+        "start": 21.222,
+        "end": 48.304
+      },
+      {
+        "segment": "The scientists were overwhelmingly positive in their orientation.",
+        "start_offset": 212,
+        "end_offset": 277,
+        "start": 49.984,
+        "end": 64.846
+      },
+      {
+        "segment": "The scientists who followed their work were of mixed orientation including one extremely negative entity, as you would term it.",
+        "start_offset": 278,
+        "end_offset": 405,
+        "start": 67.246,
+        "end": 98.829
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 0.64,
+        "end": 0.74,
+        "score": -5.1572
+      },
+      {
+        "word": "this",
+        "start_offset": 3,
+        "end_offset": 7,
+        "start": 0.8,
+        "end": 0.98,
+        "score": -5.7473
+      },
+      {
+        "word": "how",
+        "start_offset": 8,
+        "end_offset": 11,
+        "start": 1.04,
+        "end": 1.14,
+        "score": -4.1241
+      },
+      {
+        "word": "we",
+        "start_offset": 12,
+        "end_offset": 14,
+        "start": 1.18,
+        "end": 1.26,
+        "score": -3.3826
+      },
+      {
+        "word": "learned",
+        "start_offset": 15,
+        "end_offset": 22,
+        "start": 1.34,
+        "end": 1.58,
+        "score": -2.2671
+      },
+      {
+        "word": "of",
+        "start_offset": 23,
+        "end_offset": 25,
+        "start": 1.62,
+        "end": 1.7,
+        "score": -3.8646
+      },
+      {
+        "word": "nuclear",
+        "start_offset": 26,
+        "end_offset": 33,
+        "start": 1.74,
+        "end": 2.16,
+        "score": -3.4474
+      },
+      {
+        "word": "energy?",
+        "start_offset": 34,
+        "end_offset": 41,
+        "start": 2.24,
+        "end": 2.54,
+        "score": -3.7824
+      },
+      {
+        "word": "Was",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 2.64,
+        "end": 2.76,
+        "score": -4.9201
+      },
+      {
+        "word": "it",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 2.8,
+        "end": 2.88,
+        "score": -7.8617
+      },
+      {
+        "word": "mixed,",
+        "start_offset": 49,
+        "end_offset": 55,
+        "start": 2.96,
+        "end": 3.32,
+        "score": -7.9787
+      },
+      {
+        "word": "both",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 3.68,
+        "end": 3.88,
+        "score": -8.6471
+      },
+      {
+        "word": "positive",
+        "start_offset": 61,
+        "end_offset": 69,
+        "start": 3.96,
+        "end": 9.721,
+        "score": -6.3744
+      },
+      {
+        "word": "and",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 11.361,
+        "end": 11.641,
+        "score": -1.7775
+      },
+      {
+        "word": "negative",
+        "start_offset": 74,
+        "end_offset": 82,
+        "start": 11.661,
+        "end": 12.921,
+        "score": -8.3295
+      },
+      {
+        "word": "orientation?",
+        "start_offset": 83,
+        "end_offset": 95,
+        "start": 12.941,
+        "end": 13.281,
+        "score": -7.6477
+      },
+      {
+        "word": "I",
+        "start_offset": 96,
+        "end_offset": 97,
+        "start": 13.301,
+        "end": 13.321,
+        "score": -8.8202
+      },
+      {
+        "word": "am",
+        "start_offset": 98,
+        "end_offset": 100,
+        "start": 13.341,
+        "end": 13.401,
+        "score": -9.2396
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 101,
+        "end_offset": 104,
+        "start": 13.441,
+        "end": 13.541,
+        "score": -9.435
+      },
+      {
+        "word": "This",
+        "start_offset": 105,
+        "end_offset": 109,
+        "start": 16.241,
+        "end": 16.621,
+        "score": -0.7107
+      },
+      {
+        "word": "is",
+        "start_offset": 110,
+        "end_offset": 112,
+        "start": 17.542,
+        "end": 17.842,
+        "score": -0.7034
+      },
+      {
+        "word": "correct.",
+        "start_offset": 113,
+        "end_offset": 121,
+        "start": 18.762,
+        "end": 19.702,
+        "score": -0.7166
+      },
+      {
+        "word": "The",
+        "start_offset": 122,
+        "end_offset": 125,
+        "start": 21.222,
+        "end": 21.362,
+        "score": -0.7653
+      },
+      {
+        "word": "entities",
+        "start_offset": 126,
+        "end_offset": 134,
+        "start": 22.802,
+        "end": 23.942,
+        "score": -0.772
+      },
+      {
+        "word": "responsible",
+        "start_offset": 135,
+        "end_offset": 146,
+        "start": 25.342,
+        "end": 26.862,
+        "score": -0.7027
+      },
+      {
+        "word": "for",
+        "start_offset": 147,
+        "end_offset": 150,
+        "start": 28.263,
+        "end": 28.683,
+        "score": -0.7201
+      },
+      {
+        "word": "the",
+        "start_offset": 151,
+        "end_offset": 154,
+        "start": 29.483,
+        "end": 29.623,
+        "score": -0.7813
+      },
+      {
+        "word": "gathering",
+        "start_offset": 155,
+        "end_offset": 164,
+        "start": 31.103,
+        "end": 32.143,
+        "score": -0.7082
+      },
+      {
+        "word": "of",
+        "start_offset": 165,
+        "end_offset": 167,
+        "start": 33.243,
+        "end": 33.543,
+        "score": -0.7245
+      },
+      {
+        "word": "the",
+        "start_offset": 168,
+        "end_offset": 171,
+        "start": 34.643,
+        "end": 34.803,
+        "score": -0.8152
+      },
+      {
+        "word": "scientists",
+        "start_offset": 172,
+        "end_offset": 182,
+        "start": 36.383,
+        "end": 38.083,
+        "score": -1.005
+      },
+      {
+        "word": "were",
+        "start_offset": 183,
+        "end_offset": 187,
+        "start": 40.324,
+        "end": 40.684,
+        "score": -0.8521
+      },
+      {
+        "word": "of",
+        "start_offset": 188,
+        "end_offset": 190,
+        "start": 41.884,
+        "end": 42.184,
+        "score": -0.7154
+      },
+      {
+        "word": "a",
+        "start_offset": 191,
+        "end_offset": 192,
+        "start": 43.144,
+        "end": 43.164,
+        "score": -0.7214
+      },
+      {
+        "word": "mixed",
+        "start_offset": 193,
+        "end_offset": 198,
+        "start": 44.484,
+        "end": 45.164,
+        "score": -0.96
+      },
+      {
+        "word": "orientation.",
+        "start_offset": 199,
+        "end_offset": 211,
+        "start": 46.864,
+        "end": 48.304,
+        "score": -0.7181
+      },
+      {
+        "word": "The",
+        "start_offset": 212,
+        "end_offset": 215,
+        "start": 49.984,
+        "end": 50.125,
+        "score": -0.7811
+      },
+      {
+        "word": "scientists",
+        "start_offset": 216,
+        "end_offset": 226,
+        "start": 52.105,
+        "end": 53.425,
+        "score": -0.8979
+      },
+      {
+        "word": "were",
+        "start_offset": 227,
+        "end_offset": 231,
+        "start": 54.465,
+        "end": 54.785,
+        "score": -0.7275
+      },
+      {
+        "word": "overwhelmingly",
+        "start_offset": 232,
+        "end_offset": 246,
+        "start": 55.905,
+        "end": 57.605,
+        "score": -0.7174
+      },
+      {
+        "word": "positive",
+        "start_offset": 247,
+        "end_offset": 255,
+        "start": 58.785,
+        "end": 59.965,
+        "score": -0.7085
+      },
+      {
+        "word": "in",
+        "start_offset": 256,
+        "end_offset": 258,
+        "start": 61.025,
+        "end": 61.246,
+        "score": -0.7058
+      },
+      {
+        "word": "their",
+        "start_offset": 259,
+        "end_offset": 264,
+        "start": 62.046,
+        "end": 62.386,
+        "score": -0.7786
+      },
+      {
+        "word": "orientation.",
+        "start_offset": 265,
+        "end_offset": 277,
+        "start": 63.366,
+        "end": 64.846,
+        "score": -0.7462
+      },
+      {
+        "word": "The",
+        "start_offset": 278,
+        "end_offset": 281,
+        "start": 67.246,
+        "end": 67.386,
+        "score": -0.8759
+      },
+      {
+        "word": "scientists",
+        "start_offset": 282,
+        "end_offset": 292,
+        "start": 69.446,
+        "end": 70.886,
+        "score": -0.7841
+      },
+      {
+        "word": "who",
+        "start_offset": 293,
+        "end_offset": 296,
+        "start": 71.926,
+        "end": 72.086,
+        "score": -0.8901
+      },
+      {
+        "word": "followed",
+        "start_offset": 297,
+        "end_offset": 305,
+        "start": 73.347,
+        "end": 73.987,
+        "score": -0.7314
+      },
+      {
+        "word": "their",
+        "start_offset": 306,
+        "end_offset": 311,
+        "start": 74.947,
+        "end": 75.307,
+        "score": -0.8528
+      },
+      {
+        "word": "work",
+        "start_offset": 312,
+        "end_offset": 316,
+        "start": 76.347,
+        "end": 76.787,
+        "score": -0.7556
+      },
+      {
+        "word": "were",
+        "start_offset": 317,
+        "end_offset": 321,
+        "start": 77.927,
+        "end": 78.267,
+        "score": -0.899
+      },
+      {
+        "word": "of",
+        "start_offset": 322,
+        "end_offset": 324,
+        "start": 79.267,
+        "end": 79.567,
+        "score": -0.7813
+      },
+      {
+        "word": "mixed",
+        "start_offset": 325,
+        "end_offset": 330,
+        "start": 80.467,
+        "end": 81.067,
+        "score": -1.5271
+      },
+      {
+        "word": "orientation",
+        "start_offset": 331,
+        "end_offset": 342,
+        "start": 81.867,
+        "end": 83.488,
+        "score": -0.8061
+      },
+      {
+        "word": "including",
+        "start_offset": 343,
+        "end_offset": 352,
+        "start": 84.568,
+        "end": 85.828,
+        "score": -0.6993
+      },
+      {
+        "word": "one",
+        "start_offset": 353,
+        "end_offset": 356,
+        "start": 86.988,
+        "end": 87.268,
+        "score": -0.72
+      },
+      {
+        "word": "extremely",
+        "start_offset": 357,
+        "end_offset": 366,
+        "start": 88.328,
+        "end": 89.808,
+        "score": -1.9177
+      },
+      {
+        "word": "negative",
+        "start_offset": 367,
+        "end_offset": 375,
+        "start": 90.908,
+        "end": 91.968,
+        "score": -0.7606
+      },
+      {
+        "word": "entity,",
+        "start_offset": 376,
+        "end_offset": 383,
+        "start": 93.188,
+        "end": 93.868,
+        "score": -0.7084
+      },
+      {
+        "word": "as",
+        "start_offset": 384,
+        "end_offset": 386,
+        "start": 94.949,
+        "end": 95.289,
+        "score": -4.9021
+      },
+      {
+        "word": "you",
+        "start_offset": 387,
+        "end_offset": 390,
+        "start": 96.089,
+        "end": 96.249,
+        "score": -0.7286
+      },
+      {
+        "word": "would",
+        "start_offset": 391,
+        "end_offset": 396,
+        "start": 96.829,
+        "end": 97.129,
+        "score": -0.7819
+      },
+      {
+        "word": "term",
+        "start_offset": 397,
+        "end_offset": 401,
+        "start": 97.729,
+        "end": 98.189,
+        "score": -0.7354
+      },
+      {
+        "word": "it.",
+        "start_offset": 402,
+        "end_offset": 405,
+        "start": 98.609,
+        "end": 98.829,
+        "score": -0.7024
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "011-23.mp3",
+    "audio_duration": 100.049,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

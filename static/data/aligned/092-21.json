@@ -1,0 +1,577 @@
+{
+  "text": "Card #2, the Potentiator of the Mind: we see a female sitting on a rectangular block. She is veiled and between two pillars which seem to be identically covered with drawings but one much darker than the other. I am assuming that the veil represents the veil between the conscious and subconscious or Matrix and Potentiator. Is this correct? I am Ra. This is quite correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Card the Potentiator of the Mind: we see a female sitting on a rectangular block.",
+        "start_offset": 0,
+        "end_offset": 85,
+        "start": 2.68,
+        "end": 24.302
+      },
+      {
+        "segment": "She is veiled and between two pillars which seem to be identically covered with drawings but one much darker than the other.",
+        "start_offset": 86,
+        "end_offset": 210,
+        "start": 35.063,
+        "end": 46.144
+      },
+      {
+        "segment": "I am assuming that the veil represents the veil between the conscious and subconscious or Matrix and Potentiator.",
+        "start_offset": 211,
+        "end_offset": 324,
+        "start": 48.424,
+        "end": 61.145
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 325,
+        "end_offset": 341,
+        "start": 61.405,
+        "end": 62.105
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 342,
+        "end_offset": 350,
+        "start": 65.005,
+        "end": 66.425
+      },
+      {
+        "segment": "This is quite correct.",
+        "start_offset": 351,
+        "end_offset": 373,
+        "start": 67.865,
+        "end": 70.946
+      }
+    ],
+    "word": [
+      {
+        "word": "Card",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.68,
+        "end": 2.92,
+        "score": -0.7459
+      },
+      {
+        "word": "the",
+        "start_offset": 9,
+        "end_offset": 12,
+        "start": 3.06,
+        "end": 3.18,
+        "score": -6.7946
+      },
+      {
+        "word": "Potentiator",
+        "start_offset": 13,
+        "end_offset": 24,
+        "start": 5.94,
+        "end": 6.621,
+        "score": -0.9294
+      },
+      {
+        "word": "of",
+        "start_offset": 25,
+        "end_offset": 27,
+        "start": 6.641,
+        "end": 6.681,
+        "score": -2.8987
+      },
+      {
+        "word": "the",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 6.721,
+        "end": 6.801,
+        "score": -1.0203
+      },
+      {
+        "word": "Mind:",
+        "start_offset": 32,
+        "end_offset": 37,
+        "start": 6.861,
+        "end": 7.261,
+        "score": -3.1248
+      },
+      {
+        "word": "we",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 11.881,
+        "end": 11.961,
+        "score": -0.7306
+      },
+      {
+        "word": "see",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 12.141,
+        "end": 12.361,
+        "score": -0.7217
+      },
+      {
+        "word": "a",
+        "start_offset": 45,
+        "end_offset": 46,
+        "start": 13.541,
+        "end": 13.561,
+        "score": -5.9613
+      },
+      {
+        "word": "female",
+        "start_offset": 47,
+        "end_offset": 53,
+        "start": 13.661,
+        "end": 14.181,
+        "score": -0.8375
+      },
+      {
+        "word": "sitting",
+        "start_offset": 54,
+        "end_offset": 61,
+        "start": 16.761,
+        "end": 17.081,
+        "score": -0.7239
+      },
+      {
+        "word": "on",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 17.301,
+        "end": 17.501,
+        "score": -0.7554
+      },
+      {
+        "word": "a",
+        "start_offset": 65,
+        "end_offset": 66,
+        "start": 20.182,
+        "end": 20.202,
+        "score": -0.7724
+      },
+      {
+        "word": "rectangular",
+        "start_offset": 67,
+        "end_offset": 78,
+        "start": 20.322,
+        "end": 21.242,
+        "score": -0.7373
+      },
+      {
+        "word": "block.",
+        "start_offset": 79,
+        "end_offset": 85,
+        "start": 23.882,
+        "end": 24.302,
+        "score": -0.9197
+      },
+      {
+        "word": "She",
+        "start_offset": 86,
+        "end_offset": 89,
+        "start": 35.063,
+        "end": 35.183,
+        "score": -0.9496
+      },
+      {
+        "word": "is",
+        "start_offset": 90,
+        "end_offset": 92,
+        "start": 35.323,
+        "end": 35.483,
+        "score": -0.8275
+      },
+      {
+        "word": "veiled",
+        "start_offset": 93,
+        "end_offset": 99,
+        "start": 36.203,
+        "end": 36.703,
+        "score": -1.5363
+      },
+      {
+        "word": "and",
+        "start_offset": 100,
+        "end_offset": 103,
+        "start": 38.363,
+        "end": 38.463,
+        "score": -0.7842
+      },
+      {
+        "word": "between",
+        "start_offset": 104,
+        "end_offset": 111,
+        "start": 38.503,
+        "end": 38.963,
+        "score": -0.7907
+      },
+      {
+        "word": "two",
+        "start_offset": 112,
+        "end_offset": 115,
+        "start": 39.483,
+        "end": 39.643,
+        "score": -0.7584
+      },
+      {
+        "word": "pillars",
+        "start_offset": 116,
+        "end_offset": 123,
+        "start": 39.703,
+        "end": 40.123,
+        "score": -1.1056
+      },
+      {
+        "word": "which",
+        "start_offset": 124,
+        "end_offset": 129,
+        "start": 40.763,
+        "end": 40.923,
+        "score": -0.7502
+      },
+      {
+        "word": "seem",
+        "start_offset": 130,
+        "end_offset": 134,
+        "start": 41.003,
+        "end": 41.203,
+        "score": -0.699
+      },
+      {
+        "word": "to",
+        "start_offset": 135,
+        "end_offset": 137,
+        "start": 41.263,
+        "end": 41.323,
+        "score": -0.7019
+      },
+      {
+        "word": "be",
+        "start_offset": 138,
+        "end_offset": 140,
+        "start": 41.343,
+        "end": 41.423,
+        "score": -0.7084
+      },
+      {
+        "word": "identically",
+        "start_offset": 141,
+        "end_offset": 152,
+        "start": 41.663,
+        "end": 42.203,
+        "score": -1.6022
+      },
+      {
+        "word": "covered",
+        "start_offset": 153,
+        "end_offset": 160,
+        "start": 42.263,
+        "end": 42.623,
+        "score": -0.7018
+      },
+      {
+        "word": "with",
+        "start_offset": 161,
+        "end_offset": 165,
+        "start": 43.403,
+        "end": 43.563,
+        "score": -0.7008
+      },
+      {
+        "word": "drawings",
+        "start_offset": 166,
+        "end_offset": 174,
+        "start": 43.623,
+        "end": 44.164,
+        "score": -0.7205
+      },
+      {
+        "word": "but",
+        "start_offset": 175,
+        "end_offset": 178,
+        "start": 44.464,
+        "end": 44.604,
+        "score": -0.7147
+      },
+      {
+        "word": "one",
+        "start_offset": 179,
+        "end_offset": 182,
+        "start": 44.764,
+        "end": 44.884,
+        "score": -0.704
+      },
+      {
+        "word": "much",
+        "start_offset": 183,
+        "end_offset": 187,
+        "start": 44.924,
+        "end": 45.124,
+        "score": -0.6954
+      },
+      {
+        "word": "darker",
+        "start_offset": 188,
+        "end_offset": 194,
+        "start": 45.224,
+        "end": 45.584,
+        "score": -0.6975
+      },
+      {
+        "word": "than",
+        "start_offset": 195,
+        "end_offset": 199,
+        "start": 45.644,
+        "end": 45.744,
+        "score": -0.7009
+      },
+      {
+        "word": "the",
+        "start_offset": 200,
+        "end_offset": 203,
+        "start": 45.784,
+        "end": 45.864,
+        "score": -0.8093
+      },
+      {
+        "word": "other.",
+        "start_offset": 204,
+        "end_offset": 210,
+        "start": 45.944,
+        "end": 46.144,
+        "score": -0.7084
+      },
+      {
+        "word": "I",
+        "start_offset": 211,
+        "end_offset": 212,
+        "start": 48.424,
+        "end": 48.444,
+        "score": -0.8621
+      },
+      {
+        "word": "am",
+        "start_offset": 213,
+        "end_offset": 215,
+        "start": 48.464,
+        "end": 48.524,
+        "score": -0.8314
+      },
+      {
+        "word": "assuming",
+        "start_offset": 216,
+        "end_offset": 224,
+        "start": 48.564,
+        "end": 49.044,
+        "score": -0.6991
+      },
+      {
+        "word": "that",
+        "start_offset": 225,
+        "end_offset": 229,
+        "start": 49.584,
+        "end": 49.724,
+        "score": -0.7991
+      },
+      {
+        "word": "the",
+        "start_offset": 230,
+        "end_offset": 233,
+        "start": 49.744,
+        "end": 49.824,
+        "score": -0.7515
+      },
+      {
+        "word": "veil",
+        "start_offset": 234,
+        "end_offset": 238,
+        "start": 49.884,
+        "end": 50.164,
+        "score": -1.7484
+      },
+      {
+        "word": "represents",
+        "start_offset": 239,
+        "end_offset": 249,
+        "start": 50.264,
+        "end": 50.984,
+        "score": -0.7312
+      },
+      {
+        "word": "the",
+        "start_offset": 250,
+        "end_offset": 253,
+        "start": 52.604,
+        "end": 52.744,
+        "score": -0.777
+      },
+      {
+        "word": "veil",
+        "start_offset": 254,
+        "end_offset": 258,
+        "start": 52.964,
+        "end": 53.304,
+        "score": -1.8566
+      },
+      {
+        "word": "between",
+        "start_offset": 259,
+        "end_offset": 266,
+        "start": 53.384,
+        "end": 53.864,
+        "score": -0.7411
+      },
+      {
+        "word": "the",
+        "start_offset": 267,
+        "end_offset": 270,
+        "start": 57.045,
+        "end": 57.125,
+        "score": -1.9315
+      },
+      {
+        "word": "conscious",
+        "start_offset": 271,
+        "end_offset": 280,
+        "start": 57.205,
+        "end": 57.645,
+        "score": -1.0428
+      },
+      {
+        "word": "and",
+        "start_offset": 281,
+        "end_offset": 284,
+        "start": 57.745,
+        "end": 57.845,
+        "score": -0.7302
+      },
+      {
+        "word": "subconscious",
+        "start_offset": 285,
+        "end_offset": 297,
+        "start": 57.905,
+        "end": 58.685,
+        "score": -1.0943
+      },
+      {
+        "word": "or",
+        "start_offset": 298,
+        "end_offset": 300,
+        "start": 59.025,
+        "end": 59.125,
+        "score": -0.7989
+      },
+      {
+        "word": "Matrix",
+        "start_offset": 301,
+        "end_offset": 307,
+        "start": 59.165,
+        "end": 59.605,
+        "score": -1.4261
+      },
+      {
+        "word": "and",
+        "start_offset": 308,
+        "end_offset": 311,
+        "start": 60.165,
+        "end": 60.265,
+        "score": -0.7359
+      },
+      {
+        "word": "Potentiator.",
+        "start_offset": 312,
+        "end_offset": 324,
+        "start": 60.305,
+        "end": 61.145,
+        "score": -0.8459
+      },
+      {
+        "word": "Is",
+        "start_offset": 325,
+        "end_offset": 327,
+        "start": 61.405,
+        "end": 61.485,
+        "score": -0.7787
+      },
+      {
+        "word": "this",
+        "start_offset": 328,
+        "end_offset": 332,
+        "start": 61.505,
+        "end": 61.645,
+        "score": -0.9172
+      },
+      {
+        "word": "correct?",
+        "start_offset": 333,
+        "end_offset": 341,
+        "start": 61.685,
+        "end": 62.105,
+        "score": -0.7029
+      },
+      {
+        "word": "I",
+        "start_offset": 342,
+        "end_offset": 343,
+        "start": 65.005,
+        "end": 65.025,
+        "score": -5.5415
+      },
+      {
+        "word": "am",
+        "start_offset": 344,
+        "end_offset": 346,
+        "start": 65.465,
+        "end": 65.705,
+        "score": -4.8448
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 347,
+        "end_offset": 350,
+        "start": 66.285,
+        "end": 66.425,
+        "score": -6.4365
+      },
+      {
+        "word": "This",
+        "start_offset": 351,
+        "end_offset": 355,
+        "start": 67.865,
+        "end": 68.185,
+        "score": -1.4246
+      },
+      {
+        "word": "is",
+        "start_offset": 356,
+        "end_offset": 358,
+        "start": 68.865,
+        "end": 69.126,
+        "score": -1.3787
+      },
+      {
+        "word": "quite",
+        "start_offset": 359,
+        "end_offset": 364,
+        "start": 69.626,
+        "end": 70.046,
+        "score": -1.4257
+      },
+      {
+        "word": "correct.",
+        "start_offset": 365,
+        "end_offset": 373,
+        "start": 70.346,
+        "end": 70.946,
+        "score": -1.1031
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "092-21.mp3",
+    "audio_duration": 72.0457,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

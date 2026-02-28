@@ -1,0 +1,184 @@
+{
+  "text": "What was the original image? I M R the original image had the a checkering as the a suggestion of a polarity.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What was the original image?",
+        "start_offset": 35,
+        "end_offset": 59,
+        "start": 2.8000000000000003,
+        "end": 4.72
+      },
+      {
+        "segment": "I M R the original image had the a checkering as the a suggestion of a polarity.",
+        "start_offset": 140,
+        "end_offset": 422,
+        "start": 11.200000000000001,
+        "end": 33.76
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 35,
+        "end_offset": 41,
+        "start": 2.8000000000000003,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "was",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 3.2800000000000002,
+        "end": 3.44
+      },
+      {
+        "word": "the",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 3.52,
+        "end": 3.68
+      },
+      {
+        "word": "original",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 3.68,
+        "end": 4.0
+      },
+      {
+        "word": "image?",
+        "start_offset": 53,
+        "end_offset": 59,
+        "start": 4.24,
+        "end": 4.72
+      },
+      {
+        "word": "I",
+        "start_offset": 140,
+        "end_offset": 144,
+        "start": 11.200000000000001,
+        "end": 11.52
+      },
+      {
+        "word": "M",
+        "start_offset": 154,
+        "end_offset": 156,
+        "start": 12.32,
+        "end": 12.48
+      },
+      {
+        "word": "R",
+        "start_offset": 171,
+        "end_offset": 173,
+        "start": 13.68,
+        "end": 13.84
+      },
+      {
+        "word": "the",
+        "start_offset": 204,
+        "end_offset": 208,
+        "start": 16.32,
+        "end": 16.64
+      },
+      {
+        "word": "original",
+        "start_offset": 216,
+        "end_offset": 232,
+        "start": 17.28,
+        "end": 18.56
+      },
+      {
+        "word": "image",
+        "start_offset": 244,
+        "end_offset": 252,
+        "start": 19.52,
+        "end": 20.16
+      },
+      {
+        "word": "had",
+        "start_offset": 276,
+        "end_offset": 280,
+        "start": 22.080000000000002,
+        "end": 22.400000000000002
+      },
+      {
+        "word": "the",
+        "start_offset": 295,
+        "end_offset": 299,
+        "start": 23.6,
+        "end": 23.92
+      },
+      {
+        "word": "a",
+        "start_offset": 313,
+        "end_offset": 317,
+        "start": 25.04,
+        "end": 25.36
+      },
+      {
+        "word": "checkering",
+        "start_offset": 317,
+        "end_offset": 327,
+        "start": 25.36,
+        "end": 26.16
+      },
+      {
+        "word": "as",
+        "start_offset": 335,
+        "end_offset": 339,
+        "start": 26.8,
+        "end": 27.12
+      },
+      {
+        "word": "the",
+        "start_offset": 347,
+        "end_offset": 351,
+        "start": 27.76,
+        "end": 28.080000000000002
+      },
+      {
+        "word": "a",
+        "start_offset": 362,
+        "end_offset": 366,
+        "start": 28.96,
+        "end": 29.28
+      },
+      {
+        "word": "suggestion",
+        "start_offset": 366,
+        "end_offset": 384,
+        "start": 29.28,
+        "end": 30.72
+      },
+      {
+        "word": "of",
+        "start_offset": 392,
+        "end_offset": 396,
+        "start": 31.36,
+        "end": 31.68
+      },
+      {
+        "word": "a",
+        "start_offset": 404,
+        "end_offset": 408,
+        "start": 32.32,
+        "end": 32.64
+      },
+      {
+        "word": "polarity.",
+        "start_offset": 408,
+        "end_offset": 422,
+        "start": 32.64,
+        "end": 33.76
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "091-29.mp3",
+    "audio_duration": 37.04,
+    "transcription_time": 0.1,
+    "rtfx": 372.68,
+    "timestamp": "2026-01-06T21:58:51.900912+00:00"
+  }
+}

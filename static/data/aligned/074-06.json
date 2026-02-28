@@ -1,0 +1,442 @@
+{
+  "text": "Would you please correct me? I am Ra. The indigo center is indeed most important for the work of the adept. However, it cannot, no matter how crystallized, correct to any extent whatsoever imbalances or blockages in other energy centers. They must needs be cleared seriatim from red upwards.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would you please correct me?",
+        "start_offset": 0,
+        "end_offset": 28,
+        "start": 2.28,
+        "end": 7.121
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 29,
+        "end_offset": 37,
+        "start": 7.381,
+        "end": 9.421
+      },
+      {
+        "segment": "The indigo center is indeed most important for the work of the adept.",
+        "start_offset": 38,
+        "end_offset": 107,
+        "start": 12.422,
+        "end": 33.425
+      },
+      {
+        "segment": "However, it cannot, no matter how crystallized, correct to any extent whatsoever imbalances or blockages in other energy centers.",
+        "start_offset": 108,
+        "end_offset": 237,
+        "start": 35.425,
+        "end": 82.491
+      },
+      {
+        "segment": "They must needs be cleared seriatim from red upwards.",
+        "start_offset": 238,
+        "end_offset": 291,
+        "start": 84.392,
+        "end": 102.814
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.28,
+        "end": 2.48,
+        "score": -4.7608
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 2.52,
+        "end": 2.6,
+        "score": -4.3627
+      },
+      {
+        "word": "please",
+        "start_offset": 10,
+        "end_offset": 16,
+        "start": 3.08,
+        "end": 3.38,
+        "score": -2.6752
+      },
+      {
+        "word": "correct",
+        "start_offset": 17,
+        "end_offset": 24,
+        "start": 3.42,
+        "end": 3.781,
+        "score": -1.5598
+      },
+      {
+        "word": "me?",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 3.861,
+        "end": 7.121,
+        "score": -5.9368
+      },
+      {
+        "word": "I",
+        "start_offset": 29,
+        "end_offset": 30,
+        "start": 7.381,
+        "end": 7.401,
+        "score": -0.8984
+      },
+      {
+        "word": "am",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 7.961,
+        "end": 8.361,
+        "score": -2.0158
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 34,
+        "end_offset": 37,
+        "start": 9.281,
+        "end": 9.421,
+        "score": -0.902
+      },
+      {
+        "word": "The",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 12.422,
+        "end": 12.562,
+        "score": -0.751
+      },
+      {
+        "word": "indigo",
+        "start_offset": 42,
+        "end_offset": 48,
+        "start": 13.982,
+        "end": 14.702,
+        "score": -0.8765
+      },
+      {
+        "word": "center",
+        "start_offset": 49,
+        "end_offset": 55,
+        "start": 15.662,
+        "end": 16.182,
+        "score": -0.796
+      },
+      {
+        "word": "is",
+        "start_offset": 56,
+        "end_offset": 58,
+        "start": 18.203,
+        "end": 18.543,
+        "score": -0.7295
+      },
+      {
+        "word": "indeed",
+        "start_offset": 59,
+        "end_offset": 65,
+        "start": 19.583,
+        "end": 20.443,
+        "score": -0.7398
+      },
+      {
+        "word": "most",
+        "start_offset": 66,
+        "end_offset": 70,
+        "start": 22.423,
+        "end": 22.943,
+        "score": -0.7391
+      },
+      {
+        "word": "important",
+        "start_offset": 71,
+        "end_offset": 80,
+        "start": 24.943,
+        "end": 26.084,
+        "score": -0.7092
+      },
+      {
+        "word": "for",
+        "start_offset": 81,
+        "end_offset": 84,
+        "start": 26.984,
+        "end": 27.464,
+        "score": -0.7091
+      },
+      {
+        "word": "the",
+        "start_offset": 85,
+        "end_offset": 88,
+        "start": 28.124,
+        "end": 28.264,
+        "score": -0.7732
+      },
+      {
+        "word": "work",
+        "start_offset": 89,
+        "end_offset": 93,
+        "start": 28.884,
+        "end": 29.304,
+        "score": -0.7364
+      },
+      {
+        "word": "of",
+        "start_offset": 94,
+        "end_offset": 96,
+        "start": 30.384,
+        "end": 30.664,
+        "score": -0.7513
+      },
+      {
+        "word": "the",
+        "start_offset": 97,
+        "end_offset": 100,
+        "start": 31.224,
+        "end": 31.364,
+        "score": -0.7358
+      },
+      {
+        "word": "adept.",
+        "start_offset": 101,
+        "end_offset": 107,
+        "start": 32.645,
+        "end": 33.425,
+        "score": -1.411
+      },
+      {
+        "word": "However,",
+        "start_offset": 108,
+        "end_offset": 116,
+        "start": 35.425,
+        "end": 36.885,
+        "score": -0.7596
+      },
+      {
+        "word": "it",
+        "start_offset": 117,
+        "end_offset": 119,
+        "start": 38.525,
+        "end": 38.805,
+        "score": -0.6982
+      },
+      {
+        "word": "cannot,",
+        "start_offset": 120,
+        "end_offset": 127,
+        "start": 40.146,
+        "end": 41.086,
+        "score": -0.6976
+      },
+      {
+        "word": "no",
+        "start_offset": 128,
+        "end_offset": 130,
+        "start": 42.526,
+        "end": 42.666,
+        "score": -0.7128
+      },
+      {
+        "word": "matter",
+        "start_offset": 131,
+        "end_offset": 137,
+        "start": 44.046,
+        "end": 44.566,
+        "score": -0.9765
+      },
+      {
+        "word": "how",
+        "start_offset": 138,
+        "end_offset": 141,
+        "start": 45.746,
+        "end": 46.226,
+        "score": -0.813
+      },
+      {
+        "word": "crystallized,",
+        "start_offset": 142,
+        "end_offset": 155,
+        "start": 47.587,
+        "end": 49.147,
+        "score": -1.2221
+      },
+      {
+        "word": "correct",
+        "start_offset": 156,
+        "end_offset": 163,
+        "start": 52.587,
+        "end": 53.587,
+        "score": -0.7243
+      },
+      {
+        "word": "to",
+        "start_offset": 164,
+        "end_offset": 166,
+        "start": 55.808,
+        "end": 56.008,
+        "score": -0.8046
+      },
+      {
+        "word": "any",
+        "start_offset": 167,
+        "end_offset": 170,
+        "start": 58.048,
+        "end": 58.308,
+        "score": -0.7055
+      },
+      {
+        "word": "extent",
+        "start_offset": 171,
+        "end_offset": 177,
+        "start": 59.988,
+        "end": 60.848,
+        "score": -0.77
+      },
+      {
+        "word": "whatsoever",
+        "start_offset": 178,
+        "end_offset": 188,
+        "start": 62.029,
+        "end": 63.529,
+        "score": -0.7041
+      },
+      {
+        "word": "imbalances",
+        "start_offset": 189,
+        "end_offset": 199,
+        "start": 65.869,
+        "end": 67.929,
+        "score": -0.7322
+      },
+      {
+        "word": "or",
+        "start_offset": 200,
+        "end_offset": 202,
+        "start": 69.31,
+        "end": 69.65,
+        "score": -0.724
+      },
+      {
+        "word": "blockages",
+        "start_offset": 203,
+        "end_offset": 212,
+        "start": 70.71,
+        "end": 72.27,
+        "score": -0.7959
+      },
+      {
+        "word": "in",
+        "start_offset": 213,
+        "end_offset": 215,
+        "start": 73.79,
+        "end": 74.11,
+        "score": -0.7231
+      },
+      {
+        "word": "other",
+        "start_offset": 216,
+        "end_offset": 221,
+        "start": 77.171,
+        "end": 77.611,
+        "score": -0.7187
+      },
+      {
+        "word": "energy",
+        "start_offset": 222,
+        "end_offset": 228,
+        "start": 79.231,
+        "end": 79.931,
+        "score": -0.7004
+      },
+      {
+        "word": "centers.",
+        "start_offset": 229,
+        "end_offset": 237,
+        "start": 81.571,
+        "end": 82.491,
+        "score": -0.7925
+      },
+      {
+        "word": "They",
+        "start_offset": 238,
+        "end_offset": 242,
+        "start": 84.392,
+        "end": 84.812,
+        "score": -0.8116
+      },
+      {
+        "word": "must",
+        "start_offset": 243,
+        "end_offset": 247,
+        "start": 86.732,
+        "end": 87.232,
+        "score": -0.7035
+      },
+      {
+        "word": "needs",
+        "start_offset": 248,
+        "end_offset": 253,
+        "start": 88.152,
+        "end": 88.712,
+        "score": -0.7384
+      },
+      {
+        "word": "be",
+        "start_offset": 254,
+        "end_offset": 256,
+        "start": 89.832,
+        "end": 89.972,
+        "score": -0.7003
+      },
+      {
+        "word": "cleared",
+        "start_offset": 257,
+        "end_offset": 264,
+        "start": 91.733,
+        "end": 92.433,
+        "score": -0.8828
+      },
+      {
+        "word": "seriatim",
+        "start_offset": 265,
+        "end_offset": 273,
+        "start": 94.453,
+        "end": 96.153,
+        "score": -1.1856
+      },
+      {
+        "word": "from",
+        "start_offset": 274,
+        "end_offset": 278,
+        "start": 97.734,
+        "end": 98.194,
+        "score": -0.7051
+      },
+      {
+        "word": "red",
+        "start_offset": 279,
+        "end_offset": 282,
+        "start": 99.734,
+        "end": 100.154,
+        "score": -0.705
+      },
+      {
+        "word": "upwards.",
+        "start_offset": 283,
+        "end_offset": 291,
+        "start": 102.034,
+        "end": 102.814,
+        "score": -0.7261
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "074-06.mp3",
+    "audio_duration": 109.0351,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

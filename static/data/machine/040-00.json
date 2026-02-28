@@ -1,0 +1,107 @@
+{
+  "text": "Raw 40, March 18th. The Infinite Creator. We communicate now.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Raw 40, March 18th.",
+        "start_offset": 11,
+        "end_offset": 35,
+        "start": 0.88,
+        "end": 2.8000000000000003
+      },
+      {
+        "segment": "The Infinite Creator.",
+        "start_offset": 41,
+        "end_offset": 92,
+        "start": 3.2800000000000002,
+        "end": 7.36
+      },
+      {
+        "segment": "We communicate now.",
+        "start_offset": 139,
+        "end_offset": 182,
+        "start": 11.120000000000001,
+        "end": 14.56
+      }
+    ],
+    "word": [
+      {
+        "word": "Raw",
+        "start_offset": 11,
+        "end_offset": 14,
+        "start": 0.88,
+        "end": 1.12
+      },
+      {
+        "word": "40,",
+        "start_offset": 17,
+        "end_offset": 21,
+        "start": 1.36,
+        "end": 1.68
+      },
+      {
+        "word": "March",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 1.84,
+        "end": 2.16
+      },
+      {
+        "word": "18th.",
+        "start_offset": 27,
+        "end_offset": 35,
+        "start": 2.16,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "The",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 3.2800000000000002,
+        "end": 3.52
+      },
+      {
+        "word": "Infinite",
+        "start_offset": 56,
+        "end_offset": 68,
+        "start": 4.48,
+        "end": 5.44
+      },
+      {
+        "word": "Creator.",
+        "start_offset": 84,
+        "end_offset": 92,
+        "start": 6.72,
+        "end": 7.36
+      },
+      {
+        "word": "We",
+        "start_offset": 139,
+        "end_offset": 143,
+        "start": 11.120000000000001,
+        "end": 11.44
+      },
+      {
+        "word": "communicate",
+        "start_offset": 151,
+        "end_offset": 167,
+        "start": 12.08,
+        "end": 13.36
+      },
+      {
+        "word": "now.",
+        "start_offset": 179,
+        "end_offset": 182,
+        "start": 14.32,
+        "end": 14.56
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "040-00.mp3",
+    "audio_duration": 16.04,
+    "transcription_time": 0.08,
+    "rtfx": 190.21,
+    "timestamp": "2026-01-06T21:50:41.770689+00:00"
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "text": "What does he presently do there? What is his job or occupation? What does he do? I am Ra. This entity serves the Creator in its own way.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What does he presently do there?",
+        "start_offset": 0,
+        "end_offset": 32,
+        "start": 1.401,
+        "end": 3.461
+      },
+      {
+        "segment": "What is his job or occupation?",
+        "start_offset": 33,
+        "end_offset": 63,
+        "start": 3.821,
+        "end": 6.482
+      },
+      {
+        "segment": "What does he do?",
+        "start_offset": 64,
+        "end_offset": 80,
+        "start": 6.983,
+        "end": 7.763
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 81,
+        "end_offset": 89,
+        "start": 13.985,
+        "end": 16.806
+      },
+      {
+        "segment": "This entity serves the Creator in its own way.",
+        "start_offset": 90,
+        "end_offset": 136,
+        "start": 19.667,
+        "end": 33.593
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 1.401,
+        "end": 1.561,
+        "score": -0.7195
+      },
+      {
+        "word": "does",
+        "start_offset": 5,
+        "end_offset": 9,
+        "start": 1.841,
+        "end": 2.041,
+        "score": -1.24
+      },
+      {
+        "word": "he",
+        "start_offset": 10,
+        "end_offset": 12,
+        "start": 2.101,
+        "end": 2.141,
+        "score": -0.8371
+      },
+      {
+        "word": "presently",
+        "start_offset": 13,
+        "end_offset": 22,
+        "start": 2.261,
+        "end": 2.801,
+        "score": -0.7019
+      },
+      {
+        "word": "do",
+        "start_offset": 23,
+        "end_offset": 25,
+        "start": 2.921,
+        "end": 3.041,
+        "score": -0.7026
+      },
+      {
+        "word": "there?",
+        "start_offset": 26,
+        "end_offset": 32,
+        "start": 3.201,
+        "end": 3.461,
+        "score": -0.7897
+      },
+      {
+        "word": "What",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 3.821,
+        "end": 3.961,
+        "score": -2.3182
+      },
+      {
+        "word": "is",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 4.042,
+        "end": 4.142,
+        "score": -1.137
+      },
+      {
+        "word": "his",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 5.142,
+        "end": 5.262,
+        "score": -1.2396
+      },
+      {
+        "word": "job",
+        "start_offset": 45,
+        "end_offset": 48,
+        "start": 5.322,
+        "end": 5.642,
+        "score": -0.8261
+      },
+      {
+        "word": "or",
+        "start_offset": 49,
+        "end_offset": 51,
+        "start": 5.722,
+        "end": 5.762,
+        "score": -1.6786
+      },
+      {
+        "word": "occupation?",
+        "start_offset": 52,
+        "end_offset": 63,
+        "start": 5.842,
+        "end": 6.482,
+        "score": -0.7636
+      },
+      {
+        "word": "What",
+        "start_offset": 64,
+        "end_offset": 68,
+        "start": 6.983,
+        "end": 7.143,
+        "score": -2.6277
+      },
+      {
+        "word": "does",
+        "start_offset": 69,
+        "end_offset": 73,
+        "start": 7.163,
+        "end": 7.343,
+        "score": -2.6418
+      },
+      {
+        "word": "he",
+        "start_offset": 74,
+        "end_offset": 76,
+        "start": 7.383,
+        "end": 7.423,
+        "score": -3.6944
+      },
+      {
+        "word": "do?",
+        "start_offset": 77,
+        "end_offset": 80,
+        "start": 7.683,
+        "end": 7.763,
+        "score": -4.6713
+      },
+      {
+        "word": "I",
+        "start_offset": 81,
+        "end_offset": 82,
+        "start": 13.985,
+        "end": 14.005,
+        "score": -1.0618
+      },
+      {
+        "word": "am",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 15.246,
+        "end": 15.486,
+        "score": -2.2339
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 86,
+        "end_offset": 89,
+        "start": 16.646,
+        "end": 16.806,
+        "score": -1.2271
+      },
+      {
+        "word": "This",
+        "start_offset": 90,
+        "end_offset": 94,
+        "start": 19.667,
+        "end": 20.028,
+        "score": -0.8969
+      },
+      {
+        "word": "entity",
+        "start_offset": 95,
+        "end_offset": 101,
+        "start": 20.948,
+        "end": 21.568,
+        "score": -0.6969
+      },
+      {
+        "word": "serves",
+        "start_offset": 102,
+        "end_offset": 108,
+        "start": 22.989,
+        "end": 23.789,
+        "score": -0.7381
+      },
+      {
+        "word": "the",
+        "start_offset": 109,
+        "end_offset": 112,
+        "start": 24.709,
+        "end": 24.869,
+        "score": -0.7555
+      },
+      {
+        "word": "Creator",
+        "start_offset": 113,
+        "end_offset": 120,
+        "start": 25.93,
+        "end": 26.97,
+        "score": -0.7981
+      },
+      {
+        "word": "in",
+        "start_offset": 121,
+        "end_offset": 123,
+        "start": 28.171,
+        "end": 28.351,
+        "score": -0.7825
+      },
+      {
+        "word": "its",
+        "start_offset": 124,
+        "end_offset": 127,
+        "start": 30.011,
+        "end": 30.331,
+        "score": -0.78
+      },
+      {
+        "word": "own",
+        "start_offset": 128,
+        "end_offset": 131,
+        "start": 31.852,
+        "end": 32.132,
+        "score": -0.8449
+      },
+      {
+        "word": "way.",
+        "start_offset": 132,
+        "end_offset": 136,
+        "start": 33.273,
+        "end": 33.593,
+        "score": -0.9921
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "011-14.mp3",
+    "audio_duration": 38.0343,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "text": "Thank you. The instrument asks if there is some problem with the swirling waters since she feels very dizzy after each application. Could Ra comment on that, please? I am Ra. Yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 0,
+        "end_offset": 10,
+        "start": 2.942,
+        "end": 3.462
+      },
+      {
+        "segment": "The instrument asks if there is some problem with the swirling waters since she feels very dizzy after each application.",
+        "start_offset": 11,
+        "end_offset": 131,
+        "start": 5.204,
+        "end": 13.79
+      },
+      {
+        "segment": "Could Ra comment on that, please?",
+        "start_offset": 132,
+        "end_offset": 165,
+        "start": 15.131,
+        "end": 16.772
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 166,
+        "end_offset": 174,
+        "start": 22.155,
+        "end": 24.257
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 175,
+        "end_offset": 179,
+        "start": 27.479,
+        "end": 27.879
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.942,
+        "end": 3.202,
+        "score": -3.2786
+      },
+      {
+        "word": "you.",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 3.242,
+        "end": 3.462,
+        "score": -8.0199
+      },
+      {
+        "word": "The",
+        "start_offset": 11,
+        "end_offset": 14,
+        "start": 5.204,
+        "end": 5.284,
+        "score": -0.8907
+      },
+      {
+        "word": "instrument",
+        "start_offset": 15,
+        "end_offset": 25,
+        "start": 5.384,
+        "end": 5.804,
+        "score": -0.9488
+      },
+      {
+        "word": "asks",
+        "start_offset": 26,
+        "end_offset": 30,
+        "start": 5.904,
+        "end": 6.284,
+        "score": -0.7057
+      },
+      {
+        "word": "if",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 7.926,
+        "end": 8.026,
+        "score": -0.7335
+      },
+      {
+        "word": "there",
+        "start_offset": 34,
+        "end_offset": 39,
+        "start": 8.086,
+        "end": 8.226,
+        "score": -0.7432
+      },
+      {
+        "word": "is",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 8.266,
+        "end": 8.346,
+        "score": -0.7224
+      },
+      {
+        "word": "some",
+        "start_offset": 43,
+        "end_offset": 47,
+        "start": 8.386,
+        "end": 8.586,
+        "score": -0.7033
+      },
+      {
+        "word": "problem",
+        "start_offset": 48,
+        "end_offset": 55,
+        "start": 8.646,
+        "end": 9.046,
+        "score": -0.7021
+      },
+      {
+        "word": "with",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 9.086,
+        "end": 9.206,
+        "score": -0.7243
+      },
+      {
+        "word": "the",
+        "start_offset": 61,
+        "end_offset": 64,
+        "start": 9.226,
+        "end": 9.306,
+        "score": -1.1183
+      },
+      {
+        "word": "swirling",
+        "start_offset": 65,
+        "end_offset": 73,
+        "start": 9.427,
+        "end": 9.887,
+        "score": -0.8978
+      },
+      {
+        "word": "waters",
+        "start_offset": 74,
+        "end_offset": 80,
+        "start": 9.967,
+        "end": 10.407,
+        "score": -0.7023
+      },
+      {
+        "word": "since",
+        "start_offset": 81,
+        "end_offset": 86,
+        "start": 10.928,
+        "end": 11.168,
+        "score": -0.9597
+      },
+      {
+        "word": "she",
+        "start_offset": 87,
+        "end_offset": 90,
+        "start": 11.208,
+        "end": 11.288,
+        "score": -0.9239
+      },
+      {
+        "word": "feels",
+        "start_offset": 91,
+        "end_offset": 96,
+        "start": 11.388,
+        "end": 11.668,
+        "score": -0.697
+      },
+      {
+        "word": "very",
+        "start_offset": 97,
+        "end_offset": 101,
+        "start": 11.708,
+        "end": 11.888,
+        "score": -0.6958
+      },
+      {
+        "word": "dizzy",
+        "start_offset": 102,
+        "end_offset": 107,
+        "start": 12.008,
+        "end": 12.289,
+        "score": -2.0127
+      },
+      {
+        "word": "after",
+        "start_offset": 108,
+        "end_offset": 113,
+        "start": 12.429,
+        "end": 12.689,
+        "score": -0.7175
+      },
+      {
+        "word": "each",
+        "start_offset": 114,
+        "end_offset": 118,
+        "start": 12.789,
+        "end": 12.949,
+        "score": -0.6945
+      },
+      {
+        "word": "application.",
+        "start_offset": 119,
+        "end_offset": 131,
+        "start": 13.049,
+        "end": 13.79,
+        "score": -0.7225
+      },
+      {
+        "word": "Could",
+        "start_offset": 132,
+        "end_offset": 137,
+        "start": 15.131,
+        "end": 15.311,
+        "score": -6.1421
+      },
+      {
+        "word": "Ra",
+        "start_offset": 138,
+        "end_offset": 140,
+        "start": 15.331,
+        "end": 15.431,
+        "score": -1.3822
+      },
+      {
+        "word": "comment",
+        "start_offset": 141,
+        "end_offset": 148,
+        "start": 15.591,
+        "end": 15.931,
+        "score": -1.8404
+      },
+      {
+        "word": "on",
+        "start_offset": 149,
+        "end_offset": 151,
+        "start": 15.971,
+        "end": 16.031,
+        "score": -0.7165
+      },
+      {
+        "word": "that,",
+        "start_offset": 152,
+        "end_offset": 157,
+        "start": 16.071,
+        "end": 16.251,
+        "score": -0.782
+      },
+      {
+        "word": "please?",
+        "start_offset": 158,
+        "end_offset": 165,
+        "start": 16.431,
+        "end": 16.772,
+        "score": -3.8263
+      },
+      {
+        "word": "I",
+        "start_offset": 166,
+        "end_offset": 167,
+        "start": 22.155,
+        "end": 22.175,
+        "score": -6.7107
+      },
+      {
+        "word": "am",
+        "start_offset": 168,
+        "end_offset": 170,
+        "start": 24.137,
+        "end": 24.197,
+        "score": -9.8616
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 171,
+        "end_offset": 174,
+        "start": 24.217,
+        "end": 24.257,
+        "score": -11.1538
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 175,
+        "end_offset": 179,
+        "start": 27.479,
+        "end": 27.879,
+        "score": -9.497
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "100-02.mp3",
+    "audio_duration": 30.0409,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

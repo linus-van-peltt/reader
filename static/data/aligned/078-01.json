@@ -1,0 +1,315 @@
+{
+  "text": "Was there some problem with the ritual performed that it was necessary to perform it twice? I am Ra. There was a misstep which created a momentary lapse of concentration. This was not well.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Was there some problem with the ritual performed that it was necessary to perform it twice?",
+        "start_offset": 0,
+        "end_offset": 91,
+        "start": 2.621,
+        "end": 10.804
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 92,
+        "end_offset": 100,
+        "start": 21.728,
+        "end": 23.889
+      },
+      {
+        "segment": "There was a misstep which created a momentary lapse of concentration.",
+        "start_offset": 101,
+        "end_offset": 170,
+        "start": 26.41,
+        "end": 52.36
+      },
+      {
+        "segment": "This was not well.",
+        "start_offset": 171,
+        "end_offset": 189,
+        "start": 55.641,
+        "end": 62.884
+      }
+    ],
+    "word": [
+      {
+        "word": "Was",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.621,
+        "end": 2.781,
+        "score": -0.8263
+      },
+      {
+        "word": "there",
+        "start_offset": 4,
+        "end_offset": 9,
+        "start": 2.801,
+        "end": 2.961,
+        "score": -0.772
+      },
+      {
+        "word": "some",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 3.021,
+        "end": 3.221,
+        "score": -0.7209
+      },
+      {
+        "word": "problem",
+        "start_offset": 15,
+        "end_offset": 22,
+        "start": 3.261,
+        "end": 3.681,
+        "score": -0.7192
+      },
+      {
+        "word": "with",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 3.781,
+        "end": 3.942,
+        "score": -0.8597
+      },
+      {
+        "word": "the",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 4.022,
+        "end": 4.122,
+        "score": -1.033
+      },
+      {
+        "word": "ritual",
+        "start_offset": 32,
+        "end_offset": 38,
+        "start": 5.602,
+        "end": 6.022,
+        "score": -0.9417
+      },
+      {
+        "word": "performed",
+        "start_offset": 39,
+        "end_offset": 48,
+        "start": 6.102,
+        "end": 6.683,
+        "score": -1.0957
+      },
+      {
+        "word": "that",
+        "start_offset": 49,
+        "end_offset": 53,
+        "start": 7.563,
+        "end": 7.743,
+        "score": -2.2483
+      },
+      {
+        "word": "it",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 8.763,
+        "end": 8.823,
+        "score": -1.4229
+      },
+      {
+        "word": "was",
+        "start_offset": 57,
+        "end_offset": 60,
+        "start": 8.843,
+        "end": 8.943,
+        "score": -1.0956
+      },
+      {
+        "word": "necessary",
+        "start_offset": 61,
+        "end_offset": 70,
+        "start": 8.983,
+        "end": 9.464,
+        "score": -0.8405
+      },
+      {
+        "word": "to",
+        "start_offset": 71,
+        "end_offset": 73,
+        "start": 9.484,
+        "end": 9.544,
+        "score": -1.0443
+      },
+      {
+        "word": "perform",
+        "start_offset": 74,
+        "end_offset": 81,
+        "start": 9.584,
+        "end": 9.944,
+        "score": -0.8432
+      },
+      {
+        "word": "it",
+        "start_offset": 82,
+        "end_offset": 84,
+        "start": 9.964,
+        "end": 10.044,
+        "score": -3.3966
+      },
+      {
+        "word": "twice?",
+        "start_offset": 85,
+        "end_offset": 91,
+        "start": 10.404,
+        "end": 10.804,
+        "score": -3.3584
+      },
+      {
+        "word": "I",
+        "start_offset": 92,
+        "end_offset": 93,
+        "start": 21.728,
+        "end": 21.748,
+        "score": -1.6246
+      },
+      {
+        "word": "am",
+        "start_offset": 94,
+        "end_offset": 96,
+        "start": 22.589,
+        "end": 23.729,
+        "score": -2.6077
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 97,
+        "end_offset": 100,
+        "start": 23.809,
+        "end": 23.889,
+        "score": -3.0592
+      },
+      {
+        "word": "There",
+        "start_offset": 101,
+        "end_offset": 106,
+        "start": 26.41,
+        "end": 26.79,
+        "score": -1.9823
+      },
+      {
+        "word": "was",
+        "start_offset": 107,
+        "end_offset": 110,
+        "start": 28.411,
+        "end": 28.851,
+        "score": -1.5824
+      },
+      {
+        "word": "a",
+        "start_offset": 111,
+        "end_offset": 112,
+        "start": 30.992,
+        "end": 31.012,
+        "score": -1.8254
+      },
+      {
+        "word": "misstep",
+        "start_offset": 113,
+        "end_offset": 120,
+        "start": 32.853,
+        "end": 35.514,
+        "score": -0.769
+      },
+      {
+        "word": "which",
+        "start_offset": 121,
+        "end_offset": 126,
+        "start": 37.074,
+        "end": 37.414,
+        "score": -0.7757
+      },
+      {
+        "word": "created",
+        "start_offset": 127,
+        "end_offset": 134,
+        "start": 39.395,
+        "end": 40.636,
+        "score": -0.7159
+      },
+      {
+        "word": "a",
+        "start_offset": 135,
+        "end_offset": 136,
+        "start": 44.637,
+        "end": 44.657,
+        "score": -0.9296
+      },
+      {
+        "word": "momentary",
+        "start_offset": 137,
+        "end_offset": 146,
+        "start": 44.797,
+        "end": 46.298,
+        "score": -1.104
+      },
+      {
+        "word": "lapse",
+        "start_offset": 147,
+        "end_offset": 152,
+        "start": 47.858,
+        "end": 48.499,
+        "score": -1.5881
+      },
+      {
+        "word": "of",
+        "start_offset": 153,
+        "end_offset": 155,
+        "start": 49.299,
+        "end": 49.599,
+        "score": -0.7156
+      },
+      {
+        "word": "concentration.",
+        "start_offset": 156,
+        "end_offset": 170,
+        "start": 50.739,
+        "end": 52.36,
+        "score": -0.7088
+      },
+      {
+        "word": "This",
+        "start_offset": 171,
+        "end_offset": 175,
+        "start": 55.641,
+        "end": 56.041,
+        "score": -0.8597
+      },
+      {
+        "word": "was",
+        "start_offset": 176,
+        "end_offset": 179,
+        "start": 58.342,
+        "end": 58.783,
+        "score": -1.1414
+      },
+      {
+        "word": "not",
+        "start_offset": 180,
+        "end_offset": 183,
+        "start": 61.364,
+        "end": 61.704,
+        "score": -0.742
+      },
+      {
+        "word": "well.",
+        "start_offset": 184,
+        "end_offset": 189,
+        "start": 62.604,
+        "end": 62.884,
+        "score": -0.8275
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "078-01.mp3",
+    "audio_duration": 65.0449,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

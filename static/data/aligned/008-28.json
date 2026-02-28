@@ -1,0 +1,180 @@
+{
+  "text": "How are they controlled? I am Ra. They are controlled by computer from a remote source of data.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "How are they controlled?",
+        "start_offset": 0,
+        "end_offset": 24,
+        "start": 1.761,
+        "end": 6.443
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 25,
+        "end_offset": 33,
+        "start": 6.663,
+        "end": 8.884
+      },
+      {
+        "segment": "They are controlled by computer from a remote source of data.",
+        "start_offset": 34,
+        "end_offset": 95,
+        "start": 10.625,
+        "end": 29.493
+      }
+    ],
+    "word": [
+      {
+        "word": "How",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 1.761,
+        "end": 1.841,
+        "score": -4.859
+      },
+      {
+        "word": "are",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 1.861,
+        "end": 1.941,
+        "score": -4.3807
+      },
+      {
+        "word": "they",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 1.981,
+        "end": 2.081,
+        "score": -5.2741
+      },
+      {
+        "word": "controlled?",
+        "start_offset": 13,
+        "end_offset": 24,
+        "start": 2.401,
+        "end": 6.443,
+        "score": -7.205
+      },
+      {
+        "word": "I",
+        "start_offset": 25,
+        "end_offset": 26,
+        "start": 6.663,
+        "end": 6.683,
+        "score": -0.9664
+      },
+      {
+        "word": "am",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 7.543,
+        "end": 7.783,
+        "score": -2.3463
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 8.744,
+        "end": 8.884,
+        "score": -4.7401
+      },
+      {
+        "word": "They",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 10.625,
+        "end": 10.905,
+        "score": -1.1434
+      },
+      {
+        "word": "are",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 11.625,
+        "end": 11.885,
+        "score": -1.1245
+      },
+      {
+        "word": "controlled",
+        "start_offset": 43,
+        "end_offset": 53,
+        "start": 12.986,
+        "end": 14.046,
+        "score": -0.8982
+      },
+      {
+        "word": "by",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 15.167,
+        "end": 15.527,
+        "score": -0.8039
+      },
+      {
+        "word": "computer",
+        "start_offset": 57,
+        "end_offset": 65,
+        "start": 16.847,
+        "end": 17.848,
+        "score": -0.7295
+      },
+      {
+        "word": "from",
+        "start_offset": 66,
+        "end_offset": 70,
+        "start": 19.488,
+        "end": 19.909,
+        "score": -0.7087
+      },
+      {
+        "word": "a",
+        "start_offset": 71,
+        "end_offset": 72,
+        "start": 22.37,
+        "end": 22.39,
+        "score": -0.7591
+      },
+      {
+        "word": "remote",
+        "start_offset": 73,
+        "end_offset": 79,
+        "start": 23.09,
+        "end": 23.85,
+        "score": -1.0226
+      },
+      {
+        "word": "source",
+        "start_offset": 80,
+        "end_offset": 86,
+        "start": 25.511,
+        "end": 26.071,
+        "score": -0.9577
+      },
+      {
+        "word": "of",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 27.272,
+        "end": 27.552,
+        "score": -0.8246
+      },
+      {
+        "word": "data.",
+        "start_offset": 90,
+        "end_offset": 95,
+        "start": 29.053,
+        "end": 29.493,
+        "score": -0.7129
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "008-28.mp3",
+    "audio_duration": 31.0335,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

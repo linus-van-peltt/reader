@@ -1,0 +1,291 @@
+{
+  "text": "It would be unlike an entity fully aware of the knowledge of the Law of One to ever say \"Thou shalt not. \" Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "It would be unlike an entity fully aware of the knowledge of the Law of One to ever say \"Thou shalt not.",
+        "start_offset": 0,
+        "end_offset": 104,
+        "start": 3.541,
+        "end": 13.944
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 107,
+        "end_offset": 123,
+        "start": 14.544,
+        "end": 15.184
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 124,
+        "end_offset": 132,
+        "start": 18.105,
+        "end": 19.365
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 133,
+        "end_offset": 149,
+        "start": 20.626,
+        "end": 23.187
+      }
+    ],
+    "word": [
+      {
+        "word": "It",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 3.541,
+        "end": 3.621,
+        "score": -0.7816
+      },
+      {
+        "word": "would",
+        "start_offset": 3,
+        "end_offset": 8,
+        "start": 3.661,
+        "end": 3.821,
+        "score": -1.0673
+      },
+      {
+        "word": "be",
+        "start_offset": 9,
+        "end_offset": 11,
+        "start": 3.881,
+        "end": 3.981,
+        "score": -1.0573
+      },
+      {
+        "word": "unlike",
+        "start_offset": 12,
+        "end_offset": 18,
+        "start": 6.402,
+        "end": 6.962,
+        "score": -1.1054
+      },
+      {
+        "word": "an",
+        "start_offset": 19,
+        "end_offset": 21,
+        "start": 7.102,
+        "end": 7.162,
+        "score": -2.3437
+      },
+      {
+        "word": "entity",
+        "start_offset": 22,
+        "end_offset": 28,
+        "start": 7.282,
+        "end": 7.602,
+        "score": -2.1348
+      },
+      {
+        "word": "fully",
+        "start_offset": 29,
+        "end_offset": 34,
+        "start": 8.062,
+        "end": 8.302,
+        "score": -2.0531
+      },
+      {
+        "word": "aware",
+        "start_offset": 35,
+        "end_offset": 40,
+        "start": 8.402,
+        "end": 8.762,
+        "score": -0.861
+      },
+      {
+        "word": "of",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 8.923,
+        "end": 9.023,
+        "score": -2.0074
+      },
+      {
+        "word": "the",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 9.843,
+        "end": 9.923,
+        "score": -2.4754
+      },
+      {
+        "word": "knowledge",
+        "start_offset": 48,
+        "end_offset": 57,
+        "start": 10.023,
+        "end": 10.443,
+        "score": -1.581
+      },
+      {
+        "word": "of",
+        "start_offset": 58,
+        "end_offset": 60,
+        "start": 10.463,
+        "end": 10.523,
+        "score": -2.1378
+      },
+      {
+        "word": "the",
+        "start_offset": 61,
+        "end_offset": 64,
+        "start": 10.543,
+        "end": 10.623,
+        "score": -3.1608
+      },
+      {
+        "word": "Law",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 10.663,
+        "end": 10.843,
+        "score": -1.4099
+      },
+      {
+        "word": "of",
+        "start_offset": 69,
+        "end_offset": 71,
+        "start": 10.863,
+        "end": 10.943,
+        "score": -2.2028
+      },
+      {
+        "word": "One",
+        "start_offset": 72,
+        "end_offset": 75,
+        "start": 11.083,
+        "end": 11.243,
+        "score": -1.2229
+      },
+      {
+        "word": "to",
+        "start_offset": 76,
+        "end_offset": 78,
+        "start": 11.283,
+        "end": 11.343,
+        "score": -3.9393
+      },
+      {
+        "word": "ever",
+        "start_offset": 79,
+        "end_offset": 83,
+        "start": 11.503,
+        "end": 11.683,
+        "score": -0.8008
+      },
+      {
+        "word": "say",
+        "start_offset": 84,
+        "end_offset": 87,
+        "start": 11.783,
+        "end": 12.003,
+        "score": -0.782
+      },
+      {
+        "word": "\"Thou",
+        "start_offset": 88,
+        "end_offset": 93,
+        "start": 12.644,
+        "end": 12.904,
+        "score": -1.342
+      },
+      {
+        "word": "shalt",
+        "start_offset": 94,
+        "end_offset": 99,
+        "start": 13.064,
+        "end": 13.444,
+        "score": -2.0979
+      },
+      {
+        "word": "not.",
+        "start_offset": 100,
+        "end_offset": 104,
+        "start": 13.544,
+        "end": 13.944,
+        "score": -4.405
+      },
+      {
+        "word": "Is",
+        "start_offset": 107,
+        "end_offset": 109,
+        "start": 14.544,
+        "end": 14.624,
+        "score": -1.7299
+      },
+      {
+        "word": "this",
+        "start_offset": 110,
+        "end_offset": 114,
+        "start": 14.644,
+        "end": 14.844,
+        "score": -3.4204
+      },
+      {
+        "word": "correct?",
+        "start_offset": 115,
+        "end_offset": 123,
+        "start": 14.864,
+        "end": 15.184,
+        "score": -6.8868
+      },
+      {
+        "word": "I",
+        "start_offset": 124,
+        "end_offset": 125,
+        "start": 18.105,
+        "end": 18.125,
+        "score": -1.1888
+      },
+      {
+        "word": "am",
+        "start_offset": 126,
+        "end_offset": 128,
+        "start": 18.545,
+        "end": 18.685,
+        "score": -1.6643
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 129,
+        "end_offset": 132,
+        "start": 19.245,
+        "end": 19.365,
+        "score": -3.261
+      },
+      {
+        "word": "This",
+        "start_offset": 133,
+        "end_offset": 137,
+        "start": 20.626,
+        "end": 20.946,
+        "score": -0.8491
+      },
+      {
+        "word": "is",
+        "start_offset": 138,
+        "end_offset": 140,
+        "start": 21.546,
+        "end": 21.806,
+        "score": -0.7312
+      },
+      {
+        "word": "correct.",
+        "start_offset": 141,
+        "end_offset": 149,
+        "start": 22.386,
+        "end": 23.187,
+        "score": -0.7356
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-20.mp3",
+    "audio_duration": 29.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "text": "Was the exercise of fire properly done? I am Ra. The baton is well visualized. The conductor will learn to hear the entire score of the great music of its art.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Was the exercise of fire properly done?",
+        "start_offset": 0,
+        "end_offset": 39,
+        "start": 2.421,
+        "end": 11.464
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 40,
+        "end_offset": 48,
+        "start": 11.684,
+        "end": 14.405
+      },
+      {
+        "segment": "The baton is well visualized.",
+        "start_offset": 49,
+        "end_offset": 78,
+        "start": 16.585,
+        "end": 26.708
+      },
+      {
+        "segment": "The conductor will learn to hear the entire score of the great music of its art.",
+        "start_offset": 79,
+        "end_offset": 159,
+        "start": 29.629,
+        "end": 63.88
+      }
+    ],
+    "word": [
+      {
+        "word": "Was",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.421,
+        "end": 2.701,
+        "score": -4.9898
+      },
+      {
+        "word": "the",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 2.781,
+        "end": 2.861,
+        "score": -5.3766
+      },
+      {
+        "word": "exercise",
+        "start_offset": 8,
+        "end_offset": 16,
+        "start": 4.281,
+        "end": 4.761,
+        "score": -6.0946
+      },
+      {
+        "word": "of",
+        "start_offset": 17,
+        "end_offset": 19,
+        "start": 4.782,
+        "end": 4.862,
+        "score": -6.7919
+      },
+      {
+        "word": "fire",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 4.902,
+        "end": 5.162,
+        "score": -4.9062
+      },
+      {
+        "word": "properly",
+        "start_offset": 25,
+        "end_offset": 33,
+        "start": 5.202,
+        "end": 5.662,
+        "score": -3.0797
+      },
+      {
+        "word": "done?",
+        "start_offset": 34,
+        "end_offset": 39,
+        "start": 5.742,
+        "end": 11.464,
+        "score": -4.4552
+      },
+      {
+        "word": "I",
+        "start_offset": 40,
+        "end_offset": 41,
+        "start": 11.684,
+        "end": 11.704,
+        "score": -0.7674
+      },
+      {
+        "word": "am",
+        "start_offset": 42,
+        "end_offset": 44,
+        "start": 12.624,
+        "end": 12.904,
+        "score": -3.0511
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 45,
+        "end_offset": 48,
+        "start": 14.244,
+        "end": 14.405,
+        "score": -1.1206
+      },
+      {
+        "word": "The",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 16.585,
+        "end": 16.725,
+        "score": -0.7823
+      },
+      {
+        "word": "baton",
+        "start_offset": 53,
+        "end_offset": 58,
+        "start": 18.486,
+        "end": 19.186,
+        "score": -0.7712
+      },
+      {
+        "word": "is",
+        "start_offset": 59,
+        "end_offset": 61,
+        "start": 20.987,
+        "end": 21.347,
+        "score": -0.7396
+      },
+      {
+        "word": "well",
+        "start_offset": 62,
+        "end_offset": 66,
+        "start": 22.827,
+        "end": 23.207,
+        "score": -0.9195
+      },
+      {
+        "word": "visualized.",
+        "start_offset": 67,
+        "end_offset": 78,
+        "start": 24.908,
+        "end": 26.708,
+        "score": -0.8272
+      },
+      {
+        "word": "The",
+        "start_offset": 79,
+        "end_offset": 82,
+        "start": 29.629,
+        "end": 29.769,
+        "score": -0.769
+      },
+      {
+        "word": "conductor",
+        "start_offset": 83,
+        "end_offset": 92,
+        "start": 31.85,
+        "end": 33.23,
+        "score": -0.7214
+      },
+      {
+        "word": "will",
+        "start_offset": 93,
+        "end_offset": 97,
+        "start": 34.791,
+        "end": 35.171,
+        "score": -1.4042
+      },
+      {
+        "word": "learn",
+        "start_offset": 98,
+        "end_offset": 103,
+        "start": 36.511,
+        "end": 36.992,
+        "score": -0.821
+      },
+      {
+        "word": "to",
+        "start_offset": 104,
+        "end_offset": 106,
+        "start": 39.172,
+        "end": 39.392,
+        "score": -0.7318
+      },
+      {
+        "word": "hear",
+        "start_offset": 107,
+        "end_offset": 111,
+        "start": 40.813,
+        "end": 41.193,
+        "score": -1.102
+      },
+      {
+        "word": "the",
+        "start_offset": 112,
+        "end_offset": 115,
+        "start": 43.414,
+        "end": 43.554,
+        "score": -0.7815
+      },
+      {
+        "word": "entire",
+        "start_offset": 116,
+        "end_offset": 122,
+        "start": 45.094,
+        "end": 46.235,
+        "score": -0.7668
+      },
+      {
+        "word": "score",
+        "start_offset": 123,
+        "end_offset": 128,
+        "start": 48.415,
+        "end": 49.175,
+        "score": -1.4805
+      },
+      {
+        "word": "of",
+        "start_offset": 129,
+        "end_offset": 131,
+        "start": 51.436,
+        "end": 51.856,
+        "score": -1.0295
+      },
+      {
+        "word": "the",
+        "start_offset": 132,
+        "end_offset": 135,
+        "start": 52.877,
+        "end": 53.037,
+        "score": -0.7606
+      },
+      {
+        "word": "great",
+        "start_offset": 136,
+        "end_offset": 141,
+        "start": 54.297,
+        "end": 54.877,
+        "score": -0.7462
+      },
+      {
+        "word": "music",
+        "start_offset": 142,
+        "end_offset": 147,
+        "start": 57.478,
+        "end": 58.178,
+        "score": -0.7078
+      },
+      {
+        "word": "of",
+        "start_offset": 148,
+        "end_offset": 150,
+        "start": 60.079,
+        "end": 60.379,
+        "score": -0.7255
+      },
+      {
+        "word": "its",
+        "start_offset": 151,
+        "end_offset": 154,
+        "start": 61.399,
+        "end": 61.739,
+        "score": -0.7282
+      },
+      {
+        "word": "art.",
+        "start_offset": 155,
+        "end_offset": 159,
+        "start": 63.56,
+        "end": 63.88,
+        "score": -0.7386
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "075-11.mp3",
+    "audio_duration": 69.0417,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

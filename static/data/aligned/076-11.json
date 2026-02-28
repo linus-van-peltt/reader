@@ -1,0 +1,275 @@
+{
+  "text": "Then, since Ra evolved initially on Venus, Ra is of the same archetypical origin as that which we experience here. Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then, since Ra evolved initially on Venus, Ra is of the same archetypical origin as that which we experience here.",
+        "start_offset": 0,
+        "end_offset": 114,
+        "start": 2.8,
+        "end": 25.024
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 115,
+        "end_offset": 131,
+        "start": 25.504,
+        "end": 26.164
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 132,
+        "end_offset": 140,
+        "start": 28.564,
+        "end": 30.424
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 141,
+        "end_offset": 157,
+        "start": 31.665,
+        "end": 35.185
+      }
+    ],
+    "word": [
+      {
+        "word": "Then,",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.8,
+        "end": 3.1,
+        "score": -1.309
+      },
+      {
+        "word": "since",
+        "start_offset": 6,
+        "end_offset": 11,
+        "start": 3.701,
+        "end": 3.961,
+        "score": -0.7216
+      },
+      {
+        "word": "Ra",
+        "start_offset": 12,
+        "end_offset": 14,
+        "start": 4.041,
+        "end": 4.201,
+        "score": -1.0073
+      },
+      {
+        "word": "evolved",
+        "start_offset": 15,
+        "end_offset": 22,
+        "start": 4.361,
+        "end": 4.981,
+        "score": -0.9763
+      },
+      {
+        "word": "initially",
+        "start_offset": 23,
+        "end_offset": 32,
+        "start": 7.801,
+        "end": 8.401,
+        "score": -1.1417
+      },
+      {
+        "word": "on",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 10.121,
+        "end": 10.261,
+        "score": -0.817
+      },
+      {
+        "word": "Venus,",
+        "start_offset": 36,
+        "end_offset": 42,
+        "start": 10.341,
+        "end": 10.762,
+        "score": -1.5203
+      },
+      {
+        "word": "Ra",
+        "start_offset": 43,
+        "end_offset": 45,
+        "start": 13.182,
+        "end": 13.322,
+        "score": -1.0159
+      },
+      {
+        "word": "is",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 15.282,
+        "end": 15.542,
+        "score": -0.762
+      },
+      {
+        "word": "of",
+        "start_offset": 49,
+        "end_offset": 51,
+        "start": 17.423,
+        "end": 17.543,
+        "score": -0.7035
+      },
+      {
+        "word": "the",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 17.623,
+        "end": 17.703,
+        "score": -0.799
+      },
+      {
+        "word": "same",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 17.803,
+        "end": 18.143,
+        "score": -0.6974
+      },
+      {
+        "word": "archetypical",
+        "start_offset": 61,
+        "end_offset": 73,
+        "start": 18.443,
+        "end": 19.283,
+        "score": -0.9434
+      },
+      {
+        "word": "origin",
+        "start_offset": 74,
+        "end_offset": 80,
+        "start": 20.663,
+        "end": 21.103,
+        "score": -0.7002
+      },
+      {
+        "word": "as",
+        "start_offset": 81,
+        "end_offset": 83,
+        "start": 21.623,
+        "end": 21.903,
+        "score": -0.7297
+      },
+      {
+        "word": "that",
+        "start_offset": 84,
+        "end_offset": 88,
+        "start": 23.483,
+        "end": 23.703,
+        "score": -0.7599
+      },
+      {
+        "word": "which",
+        "start_offset": 89,
+        "end_offset": 94,
+        "start": 23.743,
+        "end": 23.903,
+        "score": -0.7184
+      },
+      {
+        "word": "we",
+        "start_offset": 95,
+        "end_offset": 97,
+        "start": 23.943,
+        "end": 24.023,
+        "score": -0.736
+      },
+      {
+        "word": "experience",
+        "start_offset": 98,
+        "end_offset": 108,
+        "start": 24.083,
+        "end": 24.684,
+        "score": -0.7642
+      },
+      {
+        "word": "here.",
+        "start_offset": 109,
+        "end_offset": 114,
+        "start": 24.744,
+        "end": 25.024,
+        "score": -0.977
+      },
+      {
+        "word": "Is",
+        "start_offset": 115,
+        "end_offset": 117,
+        "start": 25.504,
+        "end": 25.544,
+        "score": -8.3905
+      },
+      {
+        "word": "this",
+        "start_offset": 118,
+        "end_offset": 122,
+        "start": 25.564,
+        "end": 25.724,
+        "score": -3.1793
+      },
+      {
+        "word": "correct?",
+        "start_offset": 123,
+        "end_offset": 131,
+        "start": 25.784,
+        "end": 26.164,
+        "score": -0.7135
+      },
+      {
+        "word": "I",
+        "start_offset": 132,
+        "end_offset": 133,
+        "start": 28.564,
+        "end": 28.584,
+        "score": -1.0102
+      },
+      {
+        "word": "am",
+        "start_offset": 134,
+        "end_offset": 136,
+        "start": 29.264,
+        "end": 29.544,
+        "score": -4.4979
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 137,
+        "end_offset": 140,
+        "start": 30.284,
+        "end": 30.424,
+        "score": -2.0666
+      },
+      {
+        "word": "This",
+        "start_offset": 141,
+        "end_offset": 145,
+        "start": 31.665,
+        "end": 32.085,
+        "score": -1.368
+      },
+      {
+        "word": "is",
+        "start_offset": 146,
+        "end_offset": 148,
+        "start": 33.285,
+        "end": 33.625,
+        "score": -1.0255
+      },
+      {
+        "word": "correct.",
+        "start_offset": 149,
+        "end_offset": 157,
+        "start": 34.445,
+        "end": 35.185,
+        "score": -0.7506
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "076-11.mp3",
+    "audio_duration": 40.0457,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

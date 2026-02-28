@@ -1,0 +1,198 @@
+{
+  "text": "Is there anything we can do about the instrument stomach problem or concentration? Healing words are which each is capable of already in first.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there anything we can do about the instrument stomach problem or concentration?",
+        "start_offset": 27,
+        "end_offset": 111,
+        "start": 2.16,
+        "end": 8.88
+      },
+      {
+        "segment": "Healing words are which each is capable of already in first.",
+        "start_offset": 287,
+        "end_offset": 517,
+        "start": 22.96,
+        "end": 41.36
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 2.16,
+        "end": 2.4
+      },
+      {
+        "word": "there",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 2.4,
+        "end": 2.64
+      },
+      {
+        "word": "anything",
+        "start_offset": 34,
+        "end_offset": 39,
+        "start": 2.72,
+        "end": 3.12
+      },
+      {
+        "word": "we",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 3.12,
+        "end": 3.36
+      },
+      {
+        "word": "can",
+        "start_offset": 42,
+        "end_offset": 44,
+        "start": 3.36,
+        "end": 3.52
+      },
+      {
+        "word": "do",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 3.52,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "about",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 3.7600000000000002,
+        "end": 4.08
+      },
+      {
+        "word": "the",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 4.08,
+        "end": 4.32
+      },
+      {
+        "word": "instrument",
+        "start_offset": 68,
+        "end_offset": 74,
+        "start": 5.44,
+        "end": 5.92
+      },
+      {
+        "word": "stomach",
+        "start_offset": 84,
+        "end_offset": 91,
+        "start": 6.72,
+        "end": 7.28
+      },
+      {
+        "word": "problem",
+        "start_offset": 93,
+        "end_offset": 97,
+        "start": 7.44,
+        "end": 7.76
+      },
+      {
+        "word": "or",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 7.76,
+        "end": 7.92
+      },
+      {
+        "word": "concentration?",
+        "start_offset": 101,
+        "end_offset": 111,
+        "start": 8.08,
+        "end": 8.88
+      },
+      {
+        "word": "Healing",
+        "start_offset": 287,
+        "end_offset": 297,
+        "start": 22.96,
+        "end": 23.76
+      },
+      {
+        "word": "words",
+        "start_offset": 320,
+        "end_offset": 327,
+        "start": 25.6,
+        "end": 26.16
+      },
+      {
+        "word": "are",
+        "start_offset": 333,
+        "end_offset": 337,
+        "start": 26.64,
+        "end": 26.96
+      },
+      {
+        "word": "which",
+        "start_offset": 344,
+        "end_offset": 348,
+        "start": 27.52,
+        "end": 27.84
+      },
+      {
+        "word": "each",
+        "start_offset": 364,
+        "end_offset": 372,
+        "start": 29.12,
+        "end": 29.76
+      },
+      {
+        "word": "is",
+        "start_offset": 376,
+        "end_offset": 380,
+        "start": 30.080000000000002,
+        "end": 30.400000000000002
+      },
+      {
+        "word": "capable",
+        "start_offset": 400,
+        "end_offset": 412,
+        "start": 32.0,
+        "end": 32.96
+      },
+      {
+        "word": "of",
+        "start_offset": 444,
+        "end_offset": 448,
+        "start": 35.52,
+        "end": 35.84
+      },
+      {
+        "word": "already",
+        "start_offset": 464,
+        "end_offset": 476,
+        "start": 37.12,
+        "end": 38.08
+      },
+      {
+        "word": "in",
+        "start_offset": 496,
+        "end_offset": 499,
+        "start": 39.68,
+        "end": 39.92
+      },
+      {
+        "word": "first.",
+        "start_offset": 514,
+        "end_offset": 517,
+        "start": 41.12,
+        "end": 41.36
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "092-06.mp3",
+    "audio_duration": 44.04,
+    "transcription_time": 0.11,
+    "rtfx": 408.98,
+    "timestamp": "2026-01-06T21:58:56.713059+00:00"
+  }
+}

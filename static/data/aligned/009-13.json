@@ -1,0 +1,594 @@
+{
+  "text": "Were there any entities of this form that I am now— two arms, two legs— on this planet before this transfer occurred? I am Ra. There have been visitors to your sphere at various times for the last four million of your years, speaking approximately. These visitors do not effect the cycling of the planetary sphere. It was not third-density in its environment until the time previously mentioned.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Were there any entities of this form that I am now— two arms, two legs— on this planet before this transfer occurred?",
+        "start_offset": 0,
+        "end_offset": 117,
+        "start": 2.18,
+        "end": 24.502
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 118,
+        "end_offset": 126,
+        "start": 24.522,
+        "end": 24.662
+      },
+      {
+        "segment": "There have been visitors to your sphere at various times for the last four million of your years, speaking approximately.",
+        "start_offset": 127,
+        "end_offset": 248,
+        "start": 26.903,
+        "end": 64.926
+      },
+      {
+        "segment": "These visitors do not effect the cycling of the planetary sphere.",
+        "start_offset": 249,
+        "end_offset": 314,
+        "start": 67.546,
+        "end": 87.928
+      },
+      {
+        "segment": "It was not third-density in its environment until the time previously mentioned.",
+        "start_offset": 315,
+        "end_offset": 395,
+        "start": 90.088,
+        "end": 113.651
+      }
+    ],
+    "word": [
+      {
+        "word": "Were",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.18,
+        "end": 2.36,
+        "score": -6.2221
+      },
+      {
+        "word": "there",
+        "start_offset": 5,
+        "end_offset": 10,
+        "start": 2.42,
+        "end": 2.68,
+        "score": -5.3759
+      },
+      {
+        "word": "any",
+        "start_offset": 11,
+        "end_offset": 14,
+        "start": 3.16,
+        "end": 3.38,
+        "score": -5.5825
+      },
+      {
+        "word": "entities",
+        "start_offset": 15,
+        "end_offset": 23,
+        "start": 6.501,
+        "end": 7.041,
+        "score": -5.8391
+      },
+      {
+        "word": "of",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 7.281,
+        "end": 7.501,
+        "score": -6.5402
+      },
+      {
+        "word": "this",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 8.581,
+        "end": 8.781,
+        "score": -6.0863
+      },
+      {
+        "word": "form",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 8.881,
+        "end": 9.341,
+        "score": -4.4711
+      },
+      {
+        "word": "that",
+        "start_offset": 37,
+        "end_offset": 41,
+        "start": 9.361,
+        "end": 9.461,
+        "score": -7.5429
+      },
+      {
+        "word": "I",
+        "start_offset": 42,
+        "end_offset": 43,
+        "start": 9.481,
+        "end": 9.501,
+        "score": -7.309
+      },
+      {
+        "word": "am",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 9.521,
+        "end": 9.561,
+        "score": -7.5737
+      },
+      {
+        "word": "now—",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 9.581,
+        "end": 9.681,
+        "score": -8.1972
+      },
+      {
+        "word": "two",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 10.401,
+        "end": 11.181,
+        "score": -8.057
+      },
+      {
+        "word": "arms,",
+        "start_offset": 56,
+        "end_offset": 61,
+        "start": 11.201,
+        "end": 11.381,
+        "score": -7.497
+      },
+      {
+        "word": "two",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 11.421,
+        "end": 11.501,
+        "score": -7.15
+      },
+      {
+        "word": "legs—",
+        "start_offset": 66,
+        "end_offset": 71,
+        "start": 11.521,
+        "end": 12.361,
+        "score": -7.6954
+      },
+      {
+        "word": "on",
+        "start_offset": 72,
+        "end_offset": 74,
+        "start": 13.881,
+        "end": 14.121,
+        "score": -8.5768
+      },
+      {
+        "word": "this",
+        "start_offset": 75,
+        "end_offset": 79,
+        "start": 16.342,
+        "end": 16.902,
+        "score": -7.0975
+      },
+      {
+        "word": "planet",
+        "start_offset": 80,
+        "end_offset": 86,
+        "start": 16.922,
+        "end": 17.182,
+        "score": -8.8259
+      },
+      {
+        "word": "before",
+        "start_offset": 87,
+        "end_offset": 93,
+        "start": 17.262,
+        "end": 17.722,
+        "score": -8.3759
+      },
+      {
+        "word": "this",
+        "start_offset": 94,
+        "end_offset": 98,
+        "start": 21.542,
+        "end": 22.802,
+        "score": -6.723
+      },
+      {
+        "word": "transfer",
+        "start_offset": 99,
+        "end_offset": 107,
+        "start": 22.822,
+        "end": 24.102,
+        "score": -5.7141
+      },
+      {
+        "word": "occurred?",
+        "start_offset": 108,
+        "end_offset": 117,
+        "start": 24.202,
+        "end": 24.502,
+        "score": -6.2284
+      },
+      {
+        "word": "I",
+        "start_offset": 118,
+        "end_offset": 119,
+        "start": 24.522,
+        "end": 24.542,
+        "score": -9.2411
+      },
+      {
+        "word": "am",
+        "start_offset": 120,
+        "end_offset": 122,
+        "start": 24.562,
+        "end": 24.602,
+        "score": -7.4454
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 123,
+        "end_offset": 126,
+        "start": 24.622,
+        "end": 24.662,
+        "score": -8.2443
+      },
+      {
+        "word": "There",
+        "start_offset": 127,
+        "end_offset": 132,
+        "start": 26.903,
+        "end": 27.263,
+        "score": -0.8674
+      },
+      {
+        "word": "have",
+        "start_offset": 133,
+        "end_offset": 137,
+        "start": 28.363,
+        "end": 28.863,
+        "score": -1.5172
+      },
+      {
+        "word": "been",
+        "start_offset": 138,
+        "end_offset": 142,
+        "start": 29.943,
+        "end": 30.363,
+        "score": -0.754
+      },
+      {
+        "word": "visitors",
+        "start_offset": 143,
+        "end_offset": 151,
+        "start": 31.983,
+        "end": 33.443,
+        "score": -2.0174
+      },
+      {
+        "word": "to",
+        "start_offset": 152,
+        "end_offset": 154,
+        "start": 34.423,
+        "end": 34.623,
+        "score": -0.8129
+      },
+      {
+        "word": "your",
+        "start_offset": 155,
+        "end_offset": 159,
+        "start": 35.603,
+        "end": 35.983,
+        "score": -2.0728
+      },
+      {
+        "word": "sphere",
+        "start_offset": 160,
+        "end_offset": 166,
+        "start": 37.163,
+        "end": 37.844,
+        "score": -1.1113
+      },
+      {
+        "word": "at",
+        "start_offset": 167,
+        "end_offset": 169,
+        "start": 39.104,
+        "end": 39.384,
+        "score": -0.7264
+      },
+      {
+        "word": "various",
+        "start_offset": 170,
+        "end_offset": 177,
+        "start": 40.644,
+        "end": 41.544,
+        "score": -1.0755
+      },
+      {
+        "word": "times",
+        "start_offset": 178,
+        "end_offset": 183,
+        "start": 42.464,
+        "end": 43.524,
+        "score": -0.8287
+      },
+      {
+        "word": "for",
+        "start_offset": 184,
+        "end_offset": 187,
+        "start": 44.704,
+        "end": 45.084,
+        "score": -1.0418
+      },
+      {
+        "word": "the",
+        "start_offset": 188,
+        "end_offset": 191,
+        "start": 45.744,
+        "end": 45.884,
+        "score": -0.8031
+      },
+      {
+        "word": "last",
+        "start_offset": 192,
+        "end_offset": 196,
+        "start": 47.164,
+        "end": 47.824,
+        "score": -0.7086
+      },
+      {
+        "word": "four",
+        "start_offset": 197,
+        "end_offset": 201,
+        "start": 51.405,
+        "end": 52.005,
+        "score": -2.0028
+      },
+      {
+        "word": "million",
+        "start_offset": 202,
+        "end_offset": 209,
+        "start": 53.985,
+        "end": 54.725,
+        "score": -0.9598
+      },
+      {
+        "word": "of",
+        "start_offset": 210,
+        "end_offset": 212,
+        "start": 56.205,
+        "end": 56.485,
+        "score": -0.7357
+      },
+      {
+        "word": "your",
+        "start_offset": 213,
+        "end_offset": 217,
+        "start": 57.285,
+        "end": 57.645,
+        "score": -1.0993
+      },
+      {
+        "word": "years,",
+        "start_offset": 218,
+        "end_offset": 224,
+        "start": 58.665,
+        "end": 59.426,
+        "score": -0.985
+      },
+      {
+        "word": "speaking",
+        "start_offset": 225,
+        "end_offset": 233,
+        "start": 60.686,
+        "end": 62.026,
+        "score": -0.7581
+      },
+      {
+        "word": "approximately.",
+        "start_offset": 234,
+        "end_offset": 248,
+        "start": 63.166,
+        "end": 64.926,
+        "score": -1.0462
+      },
+      {
+        "word": "These",
+        "start_offset": 249,
+        "end_offset": 254,
+        "start": 67.546,
+        "end": 68.146,
+        "score": -0.9046
+      },
+      {
+        "word": "visitors",
+        "start_offset": 255,
+        "end_offset": 263,
+        "start": 69.246,
+        "end": 70.587,
+        "score": -0.7885
+      },
+      {
+        "word": "do",
+        "start_offset": 264,
+        "end_offset": 266,
+        "start": 72.087,
+        "end": 72.207,
+        "score": -0.734
+      },
+      {
+        "word": "not",
+        "start_offset": 267,
+        "end_offset": 270,
+        "start": 73.447,
+        "end": 73.867,
+        "score": -0.7009
+      },
+      {
+        "word": "effect",
+        "start_offset": 271,
+        "end_offset": 277,
+        "start": 75.347,
+        "end": 76.327,
+        "score": -0.7418
+      },
+      {
+        "word": "the",
+        "start_offset": 278,
+        "end_offset": 281,
+        "start": 77.807,
+        "end": 77.947,
+        "score": -0.8095
+      },
+      {
+        "word": "cycling",
+        "start_offset": 282,
+        "end_offset": 289,
+        "start": 79.727,
+        "end": 80.648,
+        "score": -0.9088
+      },
+      {
+        "word": "of",
+        "start_offset": 290,
+        "end_offset": 292,
+        "start": 81.968,
+        "end": 82.268,
+        "score": -0.7143
+      },
+      {
+        "word": "the",
+        "start_offset": 293,
+        "end_offset": 296,
+        "start": 83.028,
+        "end": 83.188,
+        "score": -0.77
+      },
+      {
+        "word": "planetary",
+        "start_offset": 297,
+        "end_offset": 306,
+        "start": 84.728,
+        "end": 86.048,
+        "score": -0.741
+      },
+      {
+        "word": "sphere.",
+        "start_offset": 307,
+        "end_offset": 314,
+        "start": 87.268,
+        "end": 87.928,
+        "score": -1.4423
+      },
+      {
+        "word": "It",
+        "start_offset": 315,
+        "end_offset": 317,
+        "start": 90.088,
+        "end": 90.328,
+        "score": -0.7045
+      },
+      {
+        "word": "was",
+        "start_offset": 318,
+        "end_offset": 321,
+        "start": 91.068,
+        "end": 91.569,
+        "score": -0.701
+      },
+      {
+        "word": "not",
+        "start_offset": 322,
+        "end_offset": 325,
+        "start": 92.469,
+        "end": 92.869,
+        "score": -0.7131
+      },
+      {
+        "word": "third-density",
+        "start_offset": 326,
+        "end_offset": 339,
+        "start": 94.189,
+        "end": 96.789,
+        "score": -0.7974
+      },
+      {
+        "word": "in",
+        "start_offset": 340,
+        "end_offset": 342,
+        "start": 98.669,
+        "end": 98.869,
+        "score": -0.7395
+      },
+      {
+        "word": "its",
+        "start_offset": 343,
+        "end_offset": 346,
+        "start": 100.209,
+        "end": 100.549,
+        "score": -0.7593
+      },
+      {
+        "word": "environment",
+        "start_offset": 347,
+        "end_offset": 358,
+        "start": 101.409,
+        "end": 103.29,
+        "score": -1.4191
+      },
+      {
+        "word": "until",
+        "start_offset": 359,
+        "end_offset": 364,
+        "start": 104.55,
+        "end": 105.17,
+        "score": -2.1293
+      },
+      {
+        "word": "the",
+        "start_offset": 365,
+        "end_offset": 368,
+        "start": 106.85,
+        "end": 106.99,
+        "score": -0.9203
+      },
+      {
+        "word": "time",
+        "start_offset": 369,
+        "end_offset": 373,
+        "start": 108.21,
+        "end": 108.81,
+        "score": -0.7594
+      },
+      {
+        "word": "previously",
+        "start_offset": 374,
+        "end_offset": 384,
+        "start": 109.89,
+        "end": 111.51,
+        "score": -1.768
+      },
+      {
+        "word": "mentioned.",
+        "start_offset": 385,
+        "end_offset": 395,
+        "start": 112.711,
+        "end": 113.651,
+        "score": -0.9331
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "009-13.mp3",
+    "audio_duration": 114.0506,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

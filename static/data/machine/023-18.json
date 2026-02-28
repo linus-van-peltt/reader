@@ -1,0 +1,65 @@
+{
+  "text": "Is there any other brief question?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there any other brief question?",
+        "start_offset": 48,
+        "end_offset": 115,
+        "start": 3.84,
+        "end": 9.200000000000001
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 3.84,
+        "end": 4.16
+      },
+      {
+        "word": "there",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 4.48,
+        "end": 4.8
+      },
+      {
+        "word": "any",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 5.44,
+        "end": 5.76
+      },
+      {
+        "word": "other",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 6.4,
+        "end": 6.72
+      },
+      {
+        "word": "brief",
+        "start_offset": 88,
+        "end_offset": 99,
+        "start": 7.04,
+        "end": 7.92
+      },
+      {
+        "word": "question?",
+        "start_offset": 103,
+        "end_offset": 115,
+        "start": 8.24,
+        "end": 9.200000000000001
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "023-18.mp3",
+    "audio_duration": 11.05,
+    "transcription_time": 0.08,
+    "rtfx": 133.22,
+    "timestamp": "2026-01-06T21:48:47.122468+00:00"
+  }
+}

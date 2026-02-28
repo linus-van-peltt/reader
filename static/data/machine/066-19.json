@@ -1,0 +1,184 @@
+{
+  "text": "Is a vertical positioning of the spine useful or helpful in the meditative procedure? I and Ma. It is somewhat helpful.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is a vertical positioning of the spine useful or helpful in the meditative procedure?",
+        "start_offset": 24,
+        "end_offset": 176,
+        "start": 1.92,
+        "end": 14.08
+      },
+      {
+        "segment": "I and Ma.",
+        "start_offset": 234,
+        "end_offset": 265,
+        "start": 18.72,
+        "end": 21.2
+      },
+      {
+        "segment": "It is somewhat helpful.",
+        "start_offset": 289,
+        "end_offset": 341,
+        "start": 23.12,
+        "end": 27.28
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 1.92,
+        "end": 2.24
+      },
+      {
+        "word": "a",
+        "start_offset": 44,
+        "end_offset": 48,
+        "start": 3.52,
+        "end": 3.84
+      },
+      {
+        "word": "vertical",
+        "start_offset": 48,
+        "end_offset": 60,
+        "start": 3.84,
+        "end": 4.8
+      },
+      {
+        "word": "positioning",
+        "start_offset": 76,
+        "end_offset": 90,
+        "start": 6.08,
+        "end": 7.2
+      },
+      {
+        "word": "of",
+        "start_offset": 90,
+        "end_offset": 93,
+        "start": 7.2,
+        "end": 7.44
+      },
+      {
+        "word": "the",
+        "start_offset": 93,
+        "end_offset": 97,
+        "start": 7.44,
+        "end": 7.76
+      },
+      {
+        "word": "spine",
+        "start_offset": 97,
+        "end_offset": 105,
+        "start": 7.76,
+        "end": 8.4
+      },
+      {
+        "word": "useful",
+        "start_offset": 121,
+        "end_offset": 129,
+        "start": 9.68,
+        "end": 10.32
+      },
+      {
+        "word": "or",
+        "start_offset": 129,
+        "end_offset": 133,
+        "start": 10.32,
+        "end": 10.64
+      },
+      {
+        "word": "helpful",
+        "start_offset": 133,
+        "end_offset": 143,
+        "start": 10.64,
+        "end": 11.44
+      },
+      {
+        "word": "in",
+        "start_offset": 143,
+        "end_offset": 147,
+        "start": 11.44,
+        "end": 11.76
+      },
+      {
+        "word": "the",
+        "start_offset": 147,
+        "end_offset": 150,
+        "start": 11.76,
+        "end": 12.0
+      },
+      {
+        "word": "meditative",
+        "start_offset": 150,
+        "end_offset": 161,
+        "start": 12.0,
+        "end": 12.88
+      },
+      {
+        "word": "procedure?",
+        "start_offset": 164,
+        "end_offset": 176,
+        "start": 13.120000000000001,
+        "end": 14.08
+      },
+      {
+        "word": "I",
+        "start_offset": 234,
+        "end_offset": 237,
+        "start": 18.72,
+        "end": 18.96
+      },
+      {
+        "word": "and",
+        "start_offset": 247,
+        "end_offset": 249,
+        "start": 19.76,
+        "end": 19.92
+      },
+      {
+        "word": "Ma.",
+        "start_offset": 261,
+        "end_offset": 265,
+        "start": 20.88,
+        "end": 21.2
+      },
+      {
+        "word": "It",
+        "start_offset": 289,
+        "end_offset": 293,
+        "start": 23.12,
+        "end": 23.44
+      },
+      {
+        "word": "is",
+        "start_offset": 297,
+        "end_offset": 301,
+        "start": 23.76,
+        "end": 24.080000000000002
+      },
+      {
+        "word": "somewhat",
+        "start_offset": 312,
+        "end_offset": 324,
+        "start": 24.96,
+        "end": 25.92
+      },
+      {
+        "word": "helpful.",
+        "start_offset": 328,
+        "end_offset": 341,
+        "start": 26.240000000000002,
+        "end": 27.28
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "066-19.mp3",
+    "audio_duration": 37.04,
+    "transcription_time": 0.1,
+    "rtfx": 371.89,
+    "timestamp": "2026-01-06T21:54:18.789463+00:00"
+  }
+}

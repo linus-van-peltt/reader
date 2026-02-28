@@ -1,0 +1,276 @@
+{
+  "text": "Is there anything that we can do, staying within the first distortion, to seek aid from the Confederation in order to alleviate the instrument's physical problems? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there anything that we can do, staying within the first distortion, to seek aid from the Confederation in order to alleviate the instrument's physical problems?",
+        "start_offset": 0,
+        "end_offset": 163,
+        "start": 2.621,
+        "end": 22.688
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 164,
+        "end_offset": 172,
+        "start": 27.57,
+        "end": 28.89
+      },
+      {
+        "segment": "No.",
+        "start_offset": 173,
+        "end_offset": 176,
+        "start": 29.131,
+        "end": 33.612
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.621,
+        "end": 2.721,
+        "score": -1.1563
+      },
+      {
+        "word": "there",
+        "start_offset": 3,
+        "end_offset": 8,
+        "start": 2.761,
+        "end": 2.941,
+        "score": -0.9105
+      },
+      {
+        "word": "anything",
+        "start_offset": 9,
+        "end_offset": 17,
+        "start": 3.021,
+        "end": 3.421,
+        "score": -0.7846
+      },
+      {
+        "word": "that",
+        "start_offset": 18,
+        "end_offset": 22,
+        "start": 3.461,
+        "end": 3.581,
+        "score": -0.7649
+      },
+      {
+        "word": "we",
+        "start_offset": 23,
+        "end_offset": 25,
+        "start": 3.621,
+        "end": 3.721,
+        "score": -0.7497
+      },
+      {
+        "word": "can",
+        "start_offset": 26,
+        "end_offset": 29,
+        "start": 3.801,
+        "end": 3.961,
+        "score": -0.7051
+      },
+      {
+        "word": "do,",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 4.021,
+        "end": 4.142,
+        "score": -0.722
+      },
+      {
+        "word": "staying",
+        "start_offset": 34,
+        "end_offset": 41,
+        "start": 7.723,
+        "end": 8.103,
+        "score": -0.7183
+      },
+      {
+        "word": "within",
+        "start_offset": 42,
+        "end_offset": 48,
+        "start": 8.123,
+        "end": 8.383,
+        "score": -0.7714
+      },
+      {
+        "word": "the",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 8.443,
+        "end": 8.523,
+        "score": -0.7622
+      },
+      {
+        "word": "first",
+        "start_offset": 53,
+        "end_offset": 58,
+        "start": 8.563,
+        "end": 8.843,
+        "score": -0.7507
+      },
+      {
+        "word": "distortion,",
+        "start_offset": 59,
+        "end_offset": 70,
+        "start": 8.883,
+        "end": 9.523,
+        "score": -0.8302
+      },
+      {
+        "word": "to",
+        "start_offset": 71,
+        "end_offset": 73,
+        "start": 10.164,
+        "end": 10.284,
+        "score": -0.7248
+      },
+      {
+        "word": "seek",
+        "start_offset": 74,
+        "end_offset": 78,
+        "start": 11.384,
+        "end": 11.664,
+        "score": -0.8613
+      },
+      {
+        "word": "aid",
+        "start_offset": 79,
+        "end_offset": 82,
+        "start": 11.904,
+        "end": 12.164,
+        "score": -1.0316
+      },
+      {
+        "word": "from",
+        "start_offset": 83,
+        "end_offset": 87,
+        "start": 14.865,
+        "end": 15.025,
+        "score": -0.7654
+      },
+      {
+        "word": "the",
+        "start_offset": 88,
+        "end_offset": 91,
+        "start": 15.065,
+        "end": 15.146,
+        "score": -0.8342
+      },
+      {
+        "word": "Confederation",
+        "start_offset": 92,
+        "end_offset": 105,
+        "start": 15.186,
+        "end": 16.106,
+        "score": -0.7556
+      },
+      {
+        "word": "in",
+        "start_offset": 106,
+        "end_offset": 108,
+        "start": 16.366,
+        "end": 16.466,
+        "score": -0.7035
+      },
+      {
+        "word": "order",
+        "start_offset": 109,
+        "end_offset": 114,
+        "start": 16.586,
+        "end": 16.806,
+        "score": -0.7791
+      },
+      {
+        "word": "to",
+        "start_offset": 115,
+        "end_offset": 117,
+        "start": 16.906,
+        "end": 17.006,
+        "score": -0.7254
+      },
+      {
+        "word": "alleviate",
+        "start_offset": 118,
+        "end_offset": 127,
+        "start": 18.567,
+        "end": 19.247,
+        "score": -2.602
+      },
+      {
+        "word": "the",
+        "start_offset": 128,
+        "end_offset": 131,
+        "start": 19.907,
+        "end": 20.027,
+        "score": -0.8213
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 132,
+        "end_offset": 144,
+        "start": 20.127,
+        "end": 20.768,
+        "score": -1.218
+      },
+      {
+        "word": "physical",
+        "start_offset": 145,
+        "end_offset": 153,
+        "start": 21.588,
+        "end": 22.008,
+        "score": -1.044
+      },
+      {
+        "word": "problems?",
+        "start_offset": 154,
+        "end_offset": 163,
+        "start": 22.088,
+        "end": 22.688,
+        "score": -0.7751
+      },
+      {
+        "word": "I",
+        "start_offset": 164,
+        "end_offset": 165,
+        "start": 27.57,
+        "end": 27.59,
+        "score": -9.2096
+      },
+      {
+        "word": "am",
+        "start_offset": 166,
+        "end_offset": 168,
+        "start": 28.73,
+        "end": 28.79,
+        "score": -7.355
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 169,
+        "end_offset": 172,
+        "start": 28.81,
+        "end": 28.89,
+        "score": -5.7269
+      },
+      {
+        "word": "No.",
+        "start_offset": 173,
+        "end_offset": 176,
+        "start": 29.131,
+        "end": 33.612,
+        "score": -8.5566
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "066-02.mp3",
+    "audio_duration": 55.04,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

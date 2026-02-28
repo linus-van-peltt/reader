@@ -1,0 +1,611 @@
+{
+  "text": "Can you tell me anything of the nature of this crisis? I am Ra. The polarity of your companion is approaching the critical point at which the entity shall choose either to retreat for the nonce and leave any greetings to fourth-density minions or lose polarity. The only other potential is that in some way this group might lose polarity in which case your companion could continue its form of greeting.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me anything of the nature of this crisis?",
+        "start_offset": 0,
+        "end_offset": 54,
+        "start": 0.0,
+        "end": 12.761
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 55,
+        "end_offset": 63,
+        "start": 13.421,
+        "end": 14.501
+      },
+      {
+        "segment": "The polarity of your companion is approaching the critical point at which the entity shall choose either to retreat for the nonce and leave any greetings to fourth-density minions or lose polarity.",
+        "start_offset": 64,
+        "end_offset": 261,
+        "start": 20.421,
+        "end": 86.324
+      },
+      {
+        "segment": "The only other potential is that in some way this group might lose polarity in which case your companion could continue its form of greeting.",
+        "start_offset": 262,
+        "end_offset": 403,
+        "start": 90.905,
+        "end": 125.526
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 0.0,
+        "end": 2.06,
+        "score": -9.6007
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 2.08,
+        "end": 2.16,
+        "score": -9.1473
+      },
+      {
+        "word": "tell",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 2.18,
+        "end": 2.36,
+        "score": -8.082
+      },
+      {
+        "word": "me",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 2.38,
+        "end": 2.42,
+        "score": -8.6854
+      },
+      {
+        "word": "anything",
+        "start_offset": 16,
+        "end_offset": 24,
+        "start": 2.46,
+        "end": 2.74,
+        "score": -8.5312
+      },
+      {
+        "word": "of",
+        "start_offset": 25,
+        "end_offset": 27,
+        "start": 2.76,
+        "end": 2.8,
+        "score": -11.3648
+      },
+      {
+        "word": "the",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 2.82,
+        "end": 2.88,
+        "score": -7.0913
+      },
+      {
+        "word": "nature",
+        "start_offset": 32,
+        "end_offset": 38,
+        "start": 2.92,
+        "end": 3.24,
+        "score": -6.2186
+      },
+      {
+        "word": "of",
+        "start_offset": 39,
+        "end_offset": 41,
+        "start": 3.26,
+        "end": 3.32,
+        "score": -7.8218
+      },
+      {
+        "word": "this",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 3.34,
+        "end": 3.48,
+        "score": -5.7339
+      },
+      {
+        "word": "crisis?",
+        "start_offset": 47,
+        "end_offset": 54,
+        "start": 3.54,
+        "end": 12.761,
+        "score": -6.0929
+      },
+      {
+        "word": "I",
+        "start_offset": 55,
+        "end_offset": 56,
+        "start": 13.421,
+        "end": 13.441,
+        "score": -0.8453
+      },
+      {
+        "word": "am",
+        "start_offset": 57,
+        "end_offset": 59,
+        "start": 14.261,
+        "end": 14.301,
+        "score": -3.8981
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 60,
+        "end_offset": 63,
+        "start": 14.381,
+        "end": 14.501,
+        "score": -3.448
+      },
+      {
+        "word": "The",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 20.421,
+        "end": 20.541,
+        "score": -0.9991
+      },
+      {
+        "word": "polarity",
+        "start_offset": 68,
+        "end_offset": 76,
+        "start": 22.261,
+        "end": 23.581,
+        "score": -0.7607
+      },
+      {
+        "word": "of",
+        "start_offset": 77,
+        "end_offset": 79,
+        "start": 25.681,
+        "end": 26.001,
+        "score": -3.585
+      },
+      {
+        "word": "your",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 27.241,
+        "end": 27.581,
+        "score": -1.6287
+      },
+      {
+        "word": "companion",
+        "start_offset": 85,
+        "end_offset": 94,
+        "start": 27.741,
+        "end": 29.121,
+        "score": -0.9613
+      },
+      {
+        "word": "is",
+        "start_offset": 95,
+        "end_offset": 97,
+        "start": 31.882,
+        "end": 32.442,
+        "score": -1.0234
+      },
+      {
+        "word": "approaching",
+        "start_offset": 98,
+        "end_offset": 109,
+        "start": 36.122,
+        "end": 37.282,
+        "score": -1.4308
+      },
+      {
+        "word": "the",
+        "start_offset": 110,
+        "end_offset": 113,
+        "start": 39.562,
+        "end": 39.702,
+        "score": -1.0003
+      },
+      {
+        "word": "critical",
+        "start_offset": 114,
+        "end_offset": 122,
+        "start": 43.062,
+        "end": 43.902,
+        "score": -0.922
+      },
+      {
+        "word": "point",
+        "start_offset": 123,
+        "end_offset": 128,
+        "start": 44.942,
+        "end": 45.502,
+        "score": -0.7192
+      },
+      {
+        "word": "at",
+        "start_offset": 129,
+        "end_offset": 131,
+        "start": 45.762,
+        "end": 46.022,
+        "score": -0.7309
+      },
+      {
+        "word": "which",
+        "start_offset": 132,
+        "end_offset": 137,
+        "start": 46.222,
+        "end": 46.642,
+        "score": -0.8242
+      },
+      {
+        "word": "the",
+        "start_offset": 138,
+        "end_offset": 141,
+        "start": 48.622,
+        "end": 48.743,
+        "score": -0.7893
+      },
+      {
+        "word": "entity",
+        "start_offset": 142,
+        "end_offset": 148,
+        "start": 49.603,
+        "end": 50.263,
+        "score": -0.8865
+      },
+      {
+        "word": "shall",
+        "start_offset": 149,
+        "end_offset": 154,
+        "start": 51.783,
+        "end": 52.263,
+        "score": -1.3478
+      },
+      {
+        "word": "choose",
+        "start_offset": 155,
+        "end_offset": 161,
+        "start": 53.143,
+        "end": 53.763,
+        "score": -2.6703
+      },
+      {
+        "word": "either",
+        "start_offset": 162,
+        "end_offset": 168,
+        "start": 54.563,
+        "end": 55.023,
+        "score": -1.2633
+      },
+      {
+        "word": "to",
+        "start_offset": 169,
+        "end_offset": 171,
+        "start": 55.743,
+        "end": 55.943,
+        "score": -0.8489
+      },
+      {
+        "word": "retreat",
+        "start_offset": 172,
+        "end_offset": 179,
+        "start": 57.763,
+        "end": 58.703,
+        "score": -2.3606
+      },
+      {
+        "word": "for",
+        "start_offset": 180,
+        "end_offset": 183,
+        "start": 59.183,
+        "end": 59.603,
+        "score": -1.3696
+      },
+      {
+        "word": "the",
+        "start_offset": 184,
+        "end_offset": 187,
+        "start": 60.063,
+        "end": 60.203,
+        "score": -1.0755
+      },
+      {
+        "word": "nonce",
+        "start_offset": 188,
+        "end_offset": 193,
+        "start": 62.083,
+        "end": 62.763,
+        "score": -2.6004
+      },
+      {
+        "word": "and",
+        "start_offset": 194,
+        "end_offset": 197,
+        "start": 64.583,
+        "end": 64.963,
+        "score": -0.8617
+      },
+      {
+        "word": "leave",
+        "start_offset": 198,
+        "end_offset": 203,
+        "start": 66.943,
+        "end": 67.443,
+        "score": -1.4859
+      },
+      {
+        "word": "any",
+        "start_offset": 204,
+        "end_offset": 207,
+        "start": 68.924,
+        "end": 69.204,
+        "score": -0.9466
+      },
+      {
+        "word": "greetings",
+        "start_offset": 208,
+        "end_offset": 217,
+        "start": 70.204,
+        "end": 71.144,
+        "score": -1.1896
+      },
+      {
+        "word": "to",
+        "start_offset": 218,
+        "end_offset": 220,
+        "start": 72.524,
+        "end": 72.684,
+        "score": -0.8114
+      },
+      {
+        "word": "fourth-density",
+        "start_offset": 221,
+        "end_offset": 235,
+        "start": 74.424,
+        "end": 76.684,
+        "score": -0.9815
+      },
+      {
+        "word": "minions",
+        "start_offset": 236,
+        "end_offset": 243,
+        "start": 78.024,
+        "end": 78.804,
+        "score": -1.3877
+      },
+      {
+        "word": "or",
+        "start_offset": 244,
+        "end_offset": 246,
+        "start": 81.284,
+        "end": 81.524,
+        "score": -0.8043
+      },
+      {
+        "word": "lose",
+        "start_offset": 247,
+        "end_offset": 251,
+        "start": 83.684,
+        "end": 84.244,
+        "score": -1.3311
+      },
+      {
+        "word": "polarity.",
+        "start_offset": 252,
+        "end_offset": 261,
+        "start": 85.284,
+        "end": 86.324,
+        "score": -0.7372
+      },
+      {
+        "word": "The",
+        "start_offset": 262,
+        "end_offset": 265,
+        "start": 90.905,
+        "end": 91.045,
+        "score": -0.9544
+      },
+      {
+        "word": "only",
+        "start_offset": 266,
+        "end_offset": 270,
+        "start": 92.265,
+        "end": 92.765,
+        "score": -1.8073
+      },
+      {
+        "word": "other",
+        "start_offset": 271,
+        "end_offset": 276,
+        "start": 94.645,
+        "end": 95.005,
+        "score": -0.796
+      },
+      {
+        "word": "potential",
+        "start_offset": 277,
+        "end_offset": 286,
+        "start": 96.585,
+        "end": 97.525,
+        "score": -0.7496
+      },
+      {
+        "word": "is",
+        "start_offset": 287,
+        "end_offset": 289,
+        "start": 98.265,
+        "end": 98.605,
+        "score": -0.7284
+      },
+      {
+        "word": "that",
+        "start_offset": 290,
+        "end_offset": 294,
+        "start": 98.925,
+        "end": 99.245,
+        "score": -0.8139
+      },
+      {
+        "word": "in",
+        "start_offset": 295,
+        "end_offset": 297,
+        "start": 101.405,
+        "end": 101.625,
+        "score": -1.8555
+      },
+      {
+        "word": "some",
+        "start_offset": 298,
+        "end_offset": 302,
+        "start": 102.005,
+        "end": 102.385,
+        "score": -1.1872
+      },
+      {
+        "word": "way",
+        "start_offset": 303,
+        "end_offset": 306,
+        "start": 102.625,
+        "end": 103.005,
+        "score": -1.6318
+      },
+      {
+        "word": "this",
+        "start_offset": 307,
+        "end_offset": 311,
+        "start": 103.185,
+        "end": 103.545,
+        "score": -1.4838
+      },
+      {
+        "word": "group",
+        "start_offset": 312,
+        "end_offset": 317,
+        "start": 103.845,
+        "end": 104.245,
+        "score": -0.8063
+      },
+      {
+        "word": "might",
+        "start_offset": 318,
+        "end_offset": 323,
+        "start": 104.505,
+        "end": 104.965,
+        "score": -3.9683
+      },
+      {
+        "word": "lose",
+        "start_offset": 324,
+        "end_offset": 328,
+        "start": 106.505,
+        "end": 107.066,
+        "score": -1.2534
+      },
+      {
+        "word": "polarity",
+        "start_offset": 329,
+        "end_offset": 337,
+        "start": 108.066,
+        "end": 109.186,
+        "score": -0.7674
+      },
+      {
+        "word": "in",
+        "start_offset": 338,
+        "end_offset": 340,
+        "start": 110.906,
+        "end": 111.126,
+        "score": -0.8256
+      },
+      {
+        "word": "which",
+        "start_offset": 341,
+        "end_offset": 346,
+        "start": 112.166,
+        "end": 112.486,
+        "score": -0.7213
+      },
+      {
+        "word": "case",
+        "start_offset": 347,
+        "end_offset": 351,
+        "start": 112.686,
+        "end": 113.226,
+        "score": -0.7793
+      },
+      {
+        "word": "your",
+        "start_offset": 352,
+        "end_offset": 356,
+        "start": 114.766,
+        "end": 115.046,
+        "score": -1.3359
+      },
+      {
+        "word": "companion",
+        "start_offset": 357,
+        "end_offset": 366,
+        "start": 115.326,
+        "end": 116.446,
+        "score": -0.917
+      },
+      {
+        "word": "could",
+        "start_offset": 367,
+        "end_offset": 372,
+        "start": 117.806,
+        "end": 118.186,
+        "score": -3.5112
+      },
+      {
+        "word": "continue",
+        "start_offset": 373,
+        "end_offset": 381,
+        "start": 118.346,
+        "end": 119.506,
+        "score": -1.3547
+      },
+      {
+        "word": "its",
+        "start_offset": 382,
+        "end_offset": 385,
+        "start": 121.186,
+        "end": 121.546,
+        "score": -1.0112
+      },
+      {
+        "word": "form",
+        "start_offset": 386,
+        "end_offset": 390,
+        "start": 122.306,
+        "end": 122.666,
+        "score": -2.1949
+      },
+      {
+        "word": "of",
+        "start_offset": 391,
+        "end_offset": 393,
+        "start": 123.966,
+        "end": 124.206,
+        "score": -3.1376
+      },
+      {
+        "word": "greeting.",
+        "start_offset": 394,
+        "end_offset": 403,
+        "start": 124.806,
+        "end": 125.526,
+        "score": -0.9702
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "086-05.mp3",
+    "audio_duration": 135.0269,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

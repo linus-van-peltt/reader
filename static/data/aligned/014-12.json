@@ -1,0 +1,363 @@
+{
+  "text": "George Van Tassel built a machine in our western desert called an \"Integratron. \" Will this machine work for that purpose, of increasing the life span? I am Ra. The machine is incomplete and will not function for the above-mentioned purpose.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "George Van Tassel built a machine in our western desert called an \"Integratron.",
+        "start_offset": 0,
+        "end_offset": 79,
+        "start": 3.301,
+        "end": 10.542
+      },
+      {
+        "segment": "Will this machine work for that purpose, of increasing the life span?",
+        "start_offset": 82,
+        "end_offset": 151,
+        "start": 13.402,
+        "end": 25.224
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 152,
+        "end_offset": 160,
+        "start": 26.404,
+        "end": 26.604
+      },
+      {
+        "segment": "The machine is incomplete and will not function for the above-mentioned purpose.",
+        "start_offset": 161,
+        "end_offset": 241,
+        "start": 29.125,
+        "end": 48.688
+      }
+    ],
+    "word": [
+      {
+        "word": "George",
+        "start_offset": 0,
+        "end_offset": 6,
+        "start": 3.301,
+        "end": 3.601,
+        "score": -6.3321
+      },
+      {
+        "word": "Van",
+        "start_offset": 7,
+        "end_offset": 10,
+        "start": 3.621,
+        "end": 3.781,
+        "score": -6.5804
+      },
+      {
+        "word": "Tassel",
+        "start_offset": 11,
+        "end_offset": 17,
+        "start": 3.861,
+        "end": 4.921,
+        "score": -6.0181
+      },
+      {
+        "word": "built",
+        "start_offset": 18,
+        "end_offset": 23,
+        "start": 4.941,
+        "end": 5.081,
+        "score": -7.9059
+      },
+      {
+        "word": "a",
+        "start_offset": 24,
+        "end_offset": 25,
+        "start": 5.101,
+        "end": 5.121,
+        "score": -6.6018
+      },
+      {
+        "word": "machine",
+        "start_offset": 26,
+        "end_offset": 33,
+        "start": 5.141,
+        "end": 5.561,
+        "score": -6.9763
+      },
+      {
+        "word": "in",
+        "start_offset": 34,
+        "end_offset": 36,
+        "start": 6.681,
+        "end": 7.821,
+        "score": -8.9378
+      },
+      {
+        "word": "our",
+        "start_offset": 37,
+        "end_offset": 40,
+        "start": 7.841,
+        "end": 7.901,
+        "score": -9.2188
+      },
+      {
+        "word": "western",
+        "start_offset": 41,
+        "end_offset": 48,
+        "start": 7.921,
+        "end": 8.261,
+        "score": -7.8092
+      },
+      {
+        "word": "desert",
+        "start_offset": 49,
+        "end_offset": 55,
+        "start": 8.321,
+        "end": 8.681,
+        "score": -7.7127
+      },
+      {
+        "word": "called",
+        "start_offset": 56,
+        "end_offset": 62,
+        "start": 8.701,
+        "end": 9.822,
+        "score": -8.1394
+      },
+      {
+        "word": "an",
+        "start_offset": 63,
+        "end_offset": 65,
+        "start": 9.862,
+        "end": 9.902,
+        "score": -7.2592
+      },
+      {
+        "word": "\"Integratron.",
+        "start_offset": 66,
+        "end_offset": 79,
+        "start": 9.922,
+        "end": 10.542,
+        "score": -7.0593
+      },
+      {
+        "word": "Will",
+        "start_offset": 82,
+        "end_offset": 86,
+        "start": 13.402,
+        "end": 13.542,
+        "score": -8.3271
+      },
+      {
+        "word": "this",
+        "start_offset": 87,
+        "end_offset": 91,
+        "start": 13.562,
+        "end": 13.702,
+        "score": -5.9999
+      },
+      {
+        "word": "machine",
+        "start_offset": 92,
+        "end_offset": 99,
+        "start": 13.782,
+        "end": 14.122,
+        "score": -6.7344
+      },
+      {
+        "word": "work",
+        "start_offset": 100,
+        "end_offset": 104,
+        "start": 14.242,
+        "end": 15.102,
+        "score": -8.7155
+      },
+      {
+        "word": "for",
+        "start_offset": 105,
+        "end_offset": 108,
+        "start": 15.122,
+        "end": 15.202,
+        "score": -9.4858
+      },
+      {
+        "word": "that",
+        "start_offset": 109,
+        "end_offset": 113,
+        "start": 15.222,
+        "end": 15.483,
+        "score": -7.13
+      },
+      {
+        "word": "purpose,",
+        "start_offset": 114,
+        "end_offset": 122,
+        "start": 15.503,
+        "end": 15.923,
+        "score": -7.232
+      },
+      {
+        "word": "of",
+        "start_offset": 123,
+        "end_offset": 125,
+        "start": 15.943,
+        "end": 17.383,
+        "score": -9.353
+      },
+      {
+        "word": "increasing",
+        "start_offset": 126,
+        "end_offset": 136,
+        "start": 17.463,
+        "end": 23.544,
+        "score": -7.0753
+      },
+      {
+        "word": "the",
+        "start_offset": 137,
+        "end_offset": 140,
+        "start": 23.564,
+        "end": 23.664,
+        "score": -5.9056
+      },
+      {
+        "word": "life",
+        "start_offset": 141,
+        "end_offset": 145,
+        "start": 23.684,
+        "end": 23.984,
+        "score": -6.143
+      },
+      {
+        "word": "span?",
+        "start_offset": 146,
+        "end_offset": 151,
+        "start": 24.924,
+        "end": 25.224,
+        "score": -4.9872
+      },
+      {
+        "word": "I",
+        "start_offset": 152,
+        "end_offset": 153,
+        "start": 26.404,
+        "end": 26.424,
+        "score": -8.3708
+      },
+      {
+        "word": "am",
+        "start_offset": 154,
+        "end_offset": 156,
+        "start": 26.444,
+        "end": 26.484,
+        "score": -5.3527
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 157,
+        "end_offset": 160,
+        "start": 26.504,
+        "end": 26.604,
+        "score": -3.2668
+      },
+      {
+        "word": "The",
+        "start_offset": 161,
+        "end_offset": 164,
+        "start": 29.125,
+        "end": 29.285,
+        "score": -0.8883
+      },
+      {
+        "word": "machine",
+        "start_offset": 165,
+        "end_offset": 172,
+        "start": 30.465,
+        "end": 31.305,
+        "score": -1.8306
+      },
+      {
+        "word": "is",
+        "start_offset": 173,
+        "end_offset": 175,
+        "start": 32.805,
+        "end": 33.105,
+        "score": -0.7263
+      },
+      {
+        "word": "incomplete",
+        "start_offset": 176,
+        "end_offset": 186,
+        "start": 34.106,
+        "end": 35.946,
+        "score": -2.1506
+      },
+      {
+        "word": "and",
+        "start_offset": 187,
+        "end_offset": 190,
+        "start": 37.066,
+        "end": 37.346,
+        "score": -0.7343
+      },
+      {
+        "word": "will",
+        "start_offset": 191,
+        "end_offset": 195,
+        "start": 38.506,
+        "end": 38.786,
+        "score": -1.4855
+      },
+      {
+        "word": "not",
+        "start_offset": 196,
+        "end_offset": 199,
+        "start": 39.686,
+        "end": 40.027,
+        "score": -0.7632
+      },
+      {
+        "word": "function",
+        "start_offset": 200,
+        "end_offset": 208,
+        "start": 40.907,
+        "end": 41.507,
+        "score": -0.7528
+      },
+      {
+        "word": "for",
+        "start_offset": 209,
+        "end_offset": 212,
+        "start": 42.407,
+        "end": 42.707,
+        "score": -0.8663
+      },
+      {
+        "word": "the",
+        "start_offset": 213,
+        "end_offset": 216,
+        "start": 43.747,
+        "end": 43.867,
+        "score": -1.2622
+      },
+      {
+        "word": "above-mentioned",
+        "start_offset": 217,
+        "end_offset": 232,
+        "start": 45.207,
+        "end": 47.088,
+        "score": -1.0727
+      },
+      {
+        "word": "purpose.",
+        "start_offset": 233,
+        "end_offset": 241,
+        "start": 47.948,
+        "end": 48.688,
+        "score": -2.88
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "014-12.mp3",
+    "audio_duration": 53.0286,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

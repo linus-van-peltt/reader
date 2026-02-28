@@ -1,0 +1,61 @@
+{
+  "text": "75 million? That is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "million?",
+        "start_offset": 3,
+        "end_offset": 11,
+        "start": 1.14,
+        "end": 1.821
+      },
+      {
+        "segment": "That is correct.",
+        "start_offset": 12,
+        "end_offset": 28,
+        "start": 7.983,
+        "end": 10.925
+      }
+    ],
+    "word": [
+      {
+        "word": "million?",
+        "start_offset": 3,
+        "end_offset": 11,
+        "start": 1.14,
+        "end": 1.821,
+        "score": -4.1307
+      },
+      {
+        "word": "That",
+        "start_offset": 12,
+        "end_offset": 16,
+        "start": 7.983,
+        "end": 8.304,
+        "score": -2.6503
+      },
+      {
+        "word": "is",
+        "start_offset": 17,
+        "end_offset": 19,
+        "start": 9.144,
+        "end": 9.444,
+        "score": -1.671
+      },
+      {
+        "word": "correct.",
+        "start_offset": 20,
+        "end_offset": 28,
+        "start": 9.984,
+        "end": 10.925,
+        "score": -3.1934
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "014-22.mp3",
+    "audio_duration": 15.0466,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

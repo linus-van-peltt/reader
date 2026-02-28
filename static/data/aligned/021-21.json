@@ -1,0 +1,441 @@
+{
+  "text": "I see. I want to clear up a point here, then. When was the first contact by the Orion group? In years? I am Ra. As we have said, the Orion group attempted contact approximately six zero thousand 60, 000 of your years in the past, as you measure time.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I see.",
+        "start_offset": 0,
+        "end_offset": 6,
+        "start": 2.44,
+        "end": 2.78
+      },
+      {
+        "segment": "I want to clear up a point here, then.",
+        "start_offset": 7,
+        "end_offset": 45,
+        "start": 2.8,
+        "end": 7.841
+      },
+      {
+        "segment": "When was the first contact by the Orion group?",
+        "start_offset": 46,
+        "end_offset": 92,
+        "start": 8.001,
+        "end": 12.342
+      },
+      {
+        "segment": "In years?",
+        "start_offset": 93,
+        "end_offset": 102,
+        "start": 12.362,
+        "end": 15.362
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 103,
+        "end_offset": 111,
+        "start": 21.623,
+        "end": 23.203
+      },
+      {
+        "segment": "As we have said, the Orion group attempted contact approximately six zero thousand of your years in the past, as you measure time.",
+        "start_offset": 112,
+        "end_offset": 250,
+        "start": 24.883,
+        "end": 53.687
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 2.44,
+        "end": 2.46,
+        "score": -9.177
+      },
+      {
+        "word": "see.",
+        "start_offset": 2,
+        "end_offset": 6,
+        "start": 2.62,
+        "end": 2.78,
+        "score": -8.893
+      },
+      {
+        "word": "I",
+        "start_offset": 7,
+        "end_offset": 8,
+        "start": 2.8,
+        "end": 2.82,
+        "score": -10.2765
+      },
+      {
+        "word": "want",
+        "start_offset": 9,
+        "end_offset": 13,
+        "start": 6.181,
+        "end": 6.321,
+        "score": -7.5293
+      },
+      {
+        "word": "to",
+        "start_offset": 14,
+        "end_offset": 16,
+        "start": 6.341,
+        "end": 6.381,
+        "score": -8.8162
+      },
+      {
+        "word": "clear",
+        "start_offset": 17,
+        "end_offset": 22,
+        "start": 6.561,
+        "end": 6.741,
+        "score": -6.9696
+      },
+      {
+        "word": "up",
+        "start_offset": 23,
+        "end_offset": 25,
+        "start": 6.761,
+        "end": 6.841,
+        "score": -7.6296
+      },
+      {
+        "word": "a",
+        "start_offset": 26,
+        "end_offset": 27,
+        "start": 6.881,
+        "end": 6.901,
+        "score": -6.0138
+      },
+      {
+        "word": "point",
+        "start_offset": 28,
+        "end_offset": 33,
+        "start": 6.981,
+        "end": 7.261,
+        "score": -6.2753
+      },
+      {
+        "word": "here,",
+        "start_offset": 34,
+        "end_offset": 39,
+        "start": 7.281,
+        "end": 7.421,
+        "score": -8.863
+      },
+      {
+        "word": "then.",
+        "start_offset": 40,
+        "end_offset": 45,
+        "start": 7.441,
+        "end": 7.841,
+        "score": -7.9568
+      },
+      {
+        "word": "When",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 8.001,
+        "end": 8.161,
+        "score": -6.8741
+      },
+      {
+        "word": "was",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 8.241,
+        "end": 8.421,
+        "score": -4.9346
+      },
+      {
+        "word": "the",
+        "start_offset": 55,
+        "end_offset": 58,
+        "start": 8.481,
+        "end": 8.581,
+        "score": -4.8058
+      },
+      {
+        "word": "first",
+        "start_offset": 59,
+        "end_offset": 64,
+        "start": 8.761,
+        "end": 9.161,
+        "score": -6.4336
+      },
+      {
+        "word": "contact",
+        "start_offset": 65,
+        "end_offset": 72,
+        "start": 10.581,
+        "end": 11.222,
+        "score": -5.5303
+      },
+      {
+        "word": "by",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 11.302,
+        "end": 11.462,
+        "score": -5.4049
+      },
+      {
+        "word": "the",
+        "start_offset": 76,
+        "end_offset": 79,
+        "start": 11.522,
+        "end": 11.602,
+        "score": -3.7566
+      },
+      {
+        "word": "Orion",
+        "start_offset": 80,
+        "end_offset": 85,
+        "start": 11.662,
+        "end": 12.042,
+        "score": -4.2716
+      },
+      {
+        "word": "group?",
+        "start_offset": 86,
+        "end_offset": 92,
+        "start": 12.062,
+        "end": 12.342,
+        "score": -7.4374
+      },
+      {
+        "word": "In",
+        "start_offset": 93,
+        "end_offset": 95,
+        "start": 12.362,
+        "end": 15.002,
+        "score": -9.2177
+      },
+      {
+        "word": "years?",
+        "start_offset": 96,
+        "end_offset": 102,
+        "start": 15.062,
+        "end": 15.362,
+        "score": -9.5498
+      },
+      {
+        "word": "I",
+        "start_offset": 103,
+        "end_offset": 104,
+        "start": 21.623,
+        "end": 21.643,
+        "score": -0.7074
+      },
+      {
+        "word": "am",
+        "start_offset": 105,
+        "end_offset": 107,
+        "start": 22.223,
+        "end": 22.523,
+        "score": -0.7174
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 108,
+        "end_offset": 111,
+        "start": 23.043,
+        "end": 23.203,
+        "score": -0.8593
+      },
+      {
+        "word": "As",
+        "start_offset": 112,
+        "end_offset": 114,
+        "start": 24.883,
+        "end": 25.203,
+        "score": -0.7017
+      },
+      {
+        "word": "we",
+        "start_offset": 115,
+        "end_offset": 117,
+        "start": 25.643,
+        "end": 25.784,
+        "score": -0.7008
+      },
+      {
+        "word": "have",
+        "start_offset": 118,
+        "end_offset": 122,
+        "start": 26.324,
+        "end": 26.704,
+        "score": -0.7098
+      },
+      {
+        "word": "said,",
+        "start_offset": 123,
+        "end_offset": 128,
+        "start": 27.024,
+        "end": 27.444,
+        "score": -0.7027
+      },
+      {
+        "word": "the",
+        "start_offset": 129,
+        "end_offset": 132,
+        "start": 28.804,
+        "end": 28.944,
+        "score": -0.7818
+      },
+      {
+        "word": "Orion",
+        "start_offset": 133,
+        "end_offset": 138,
+        "start": 29.544,
+        "end": 30.504,
+        "score": -1.192
+      },
+      {
+        "word": "group",
+        "start_offset": 139,
+        "end_offset": 144,
+        "start": 30.984,
+        "end": 31.484,
+        "score": -0.7722
+      },
+      {
+        "word": "attempted",
+        "start_offset": 145,
+        "end_offset": 154,
+        "start": 32.664,
+        "end": 33.745,
+        "score": -0.7362
+      },
+      {
+        "word": "contact",
+        "start_offset": 155,
+        "end_offset": 162,
+        "start": 34.065,
+        "end": 35.125,
+        "score": -0.7254
+      },
+      {
+        "word": "approximately",
+        "start_offset": 163,
+        "end_offset": 176,
+        "start": 37.005,
+        "end": 38.505,
+        "score": -0.7415
+      },
+      {
+        "word": "six",
+        "start_offset": 177,
+        "end_offset": 180,
+        "start": 39.365,
+        "end": 39.705,
+        "score": -1.3867
+      },
+      {
+        "word": "zero",
+        "start_offset": 181,
+        "end_offset": 185,
+        "start": 40.526,
+        "end": 41.006,
+        "score": -3.0329
+      },
+      {
+        "word": "thousand",
+        "start_offset": 186,
+        "end_offset": 194,
+        "start": 42.126,
+        "end": 43.046,
+        "score": -3.0203
+      },
+      {
+        "word": "of",
+        "start_offset": 203,
+        "end_offset": 205,
+        "start": 43.986,
+        "end": 44.246,
+        "score": -0.7214
+      },
+      {
+        "word": "your",
+        "start_offset": 206,
+        "end_offset": 210,
+        "start": 44.606,
+        "end": 45.026,
+        "score": -0.9834
+      },
+      {
+        "word": "years",
+        "start_offset": 211,
+        "end_offset": 216,
+        "start": 45.906,
+        "end": 46.526,
+        "score": -0.7153
+      },
+      {
+        "word": "in",
+        "start_offset": 217,
+        "end_offset": 219,
+        "start": 47.526,
+        "end": 47.707,
+        "score": -6.3973
+      },
+      {
+        "word": "the",
+        "start_offset": 220,
+        "end_offset": 223,
+        "start": 48.007,
+        "end": 48.127,
+        "score": -0.7238
+      },
+      {
+        "word": "past,",
+        "start_offset": 224,
+        "end_offset": 229,
+        "start": 48.467,
+        "end": 49.227,
+        "score": -0.7031
+      },
+      {
+        "word": "as",
+        "start_offset": 230,
+        "end_offset": 232,
+        "start": 50.367,
+        "end": 50.667,
+        "score": -3.231
+      },
+      {
+        "word": "you",
+        "start_offset": 233,
+        "end_offset": 236,
+        "start": 50.947,
+        "end": 51.107,
+        "score": -0.8179
+      },
+      {
+        "word": "measure",
+        "start_offset": 237,
+        "end_offset": 244,
+        "start": 51.867,
+        "end": 52.567,
+        "score": -1.2064
+      },
+      {
+        "word": "time.",
+        "start_offset": 245,
+        "end_offset": 250,
+        "start": 53.067,
+        "end": 53.687,
+        "score": -0.7527
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "021-21.mp3",
+    "audio_duration": 54.0474,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

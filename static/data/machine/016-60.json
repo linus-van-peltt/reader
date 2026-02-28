@@ -1,0 +1,135 @@
+{
+  "text": "Priority targets shall be setting over the right. I am wrong. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Priority targets shall be setting over the right.",
+        "start_offset": 120,
+        "end_offset": 156,
+        "start": 9.6,
+        "end": 12.48
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 198,
+        "end_offset": 228,
+        "start": 15.84,
+        "end": 18.240000000000002
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 241,
+        "end_offset": 285,
+        "start": 19.28,
+        "end": 22.8
+      }
+    ],
+    "word": [
+      {
+        "word": "Priority",
+        "start_offset": 120,
+        "end_offset": 127,
+        "start": 9.6,
+        "end": 10.16
+      },
+      {
+        "word": "targets",
+        "start_offset": 129,
+        "end_offset": 135,
+        "start": 10.32,
+        "end": 10.8
+      },
+      {
+        "word": "shall",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 10.88,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "be",
+        "start_offset": 139,
+        "end_offset": 140,
+        "start": 11.120000000000001,
+        "end": 11.200000000000001
+      },
+      {
+        "word": "setting",
+        "start_offset": 141,
+        "end_offset": 146,
+        "start": 11.28,
+        "end": 11.68
+      },
+      {
+        "word": "over",
+        "start_offset": 147,
+        "end_offset": 148,
+        "start": 11.76,
+        "end": 11.84
+      },
+      {
+        "word": "the",
+        "start_offset": 151,
+        "end_offset": 152,
+        "start": 12.08,
+        "end": 12.16
+      },
+      {
+        "word": "right.",
+        "start_offset": 154,
+        "end_offset": 156,
+        "start": 12.32,
+        "end": 12.48
+      },
+      {
+        "word": "I",
+        "start_offset": 198,
+        "end_offset": 200,
+        "start": 15.84,
+        "end": 16.0
+      },
+      {
+        "word": "am",
+        "start_offset": 210,
+        "end_offset": 213,
+        "start": 16.8,
+        "end": 17.04
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 220,
+        "end_offset": 228,
+        "start": 17.6,
+        "end": 18.240000000000002
+      },
+      {
+        "word": "This",
+        "start_offset": 241,
+        "end_offset": 245,
+        "start": 19.28,
+        "end": 19.6
+      },
+      {
+        "word": "is",
+        "start_offset": 257,
+        "end_offset": 261,
+        "start": 20.56,
+        "end": 20.88
+      },
+      {
+        "word": "correct.",
+        "start_offset": 273,
+        "end_offset": 285,
+        "start": 21.84,
+        "end": 22.8
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-60.mp3",
+    "audio_duration": 23.04,
+    "transcription_time": 0.09,
+    "rtfx": 267.92,
+    "timestamp": "2026-01-06T21:47:42.522258+00:00"
+  }
+}

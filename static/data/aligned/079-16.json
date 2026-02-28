@@ -1,0 +1,339 @@
+{
+  "text": "I am going to guess that in the system of the tarot those archetypes would roughly correspond to, for the mind, the Magician, the Emperor, and the Chariot. Is this correct? I am Ra. This is incorrect.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I am going to guess that in the system of the tarot those archetypes would roughly correspond to, for the mind, the Magician, the Emperor, and the Chariot.",
+        "start_offset": 0,
+        "end_offset": 155,
+        "start": 2.322,
+        "end": 19.755
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 156,
+        "end_offset": 172,
+        "start": 20.015,
+        "end": 20.756
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 173,
+        "end_offset": 181,
+        "start": 24.559,
+        "end": 26.52
+      },
+      {
+        "segment": "This is incorrect.",
+        "start_offset": 182,
+        "end_offset": 200,
+        "start": 28.141,
+        "end": 32.064
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 2.322,
+        "end": 2.342,
+        "score": -2.8384
+      },
+      {
+        "word": "am",
+        "start_offset": 2,
+        "end_offset": 4,
+        "start": 2.362,
+        "end": 2.442,
+        "score": -3.0907
+      },
+      {
+        "word": "going",
+        "start_offset": 5,
+        "end_offset": 10,
+        "start": 2.522,
+        "end": 2.762,
+        "score": -0.8217
+      },
+      {
+        "word": "to",
+        "start_offset": 11,
+        "end_offset": 13,
+        "start": 2.802,
+        "end": 2.862,
+        "score": -0.8419
+      },
+      {
+        "word": "guess",
+        "start_offset": 14,
+        "end_offset": 19,
+        "start": 2.962,
+        "end": 3.302,
+        "score": -2.2787
+      },
+      {
+        "word": "that",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 4.343,
+        "end": 4.543,
+        "score": -0.8857
+      },
+      {
+        "word": "in",
+        "start_offset": 25,
+        "end_offset": 27,
+        "start": 4.724,
+        "end": 4.844,
+        "score": -0.7343
+      },
+      {
+        "word": "the",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 4.904,
+        "end": 5.024,
+        "score": -0.8846
+      },
+      {
+        "word": "system",
+        "start_offset": 32,
+        "end_offset": 38,
+        "start": 6.405,
+        "end": 6.805,
+        "score": -0.7031
+      },
+      {
+        "word": "of",
+        "start_offset": 39,
+        "end_offset": 41,
+        "start": 6.925,
+        "end": 7.025,
+        "score": -0.7241
+      },
+      {
+        "word": "the",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 7.105,
+        "end": 7.205,
+        "score": -0.7562
+      },
+      {
+        "word": "tarot",
+        "start_offset": 46,
+        "end_offset": 51,
+        "start": 8.266,
+        "end": 8.787,
+        "score": -2.3349
+      },
+      {
+        "word": "those",
+        "start_offset": 52,
+        "end_offset": 57,
+        "start": 10.168,
+        "end": 10.388,
+        "score": -0.9133
+      },
+      {
+        "word": "archetypes",
+        "start_offset": 58,
+        "end_offset": 68,
+        "start": 10.448,
+        "end": 11.188,
+        "score": -1.2251
+      },
+      {
+        "word": "would",
+        "start_offset": 69,
+        "end_offset": 74,
+        "start": 11.228,
+        "end": 11.389,
+        "score": -0.7157
+      },
+      {
+        "word": "roughly",
+        "start_offset": 75,
+        "end_offset": 82,
+        "start": 11.449,
+        "end": 11.869,
+        "score": -1.1924
+      },
+      {
+        "word": "correspond",
+        "start_offset": 83,
+        "end_offset": 93,
+        "start": 12.049,
+        "end": 12.81,
+        "score": -0.8476
+      },
+      {
+        "word": "to,",
+        "start_offset": 94,
+        "end_offset": 97,
+        "start": 12.89,
+        "end": 13.01,
+        "score": -1.1165
+      },
+      {
+        "word": "for",
+        "start_offset": 98,
+        "end_offset": 101,
+        "start": 16.793,
+        "end": 16.973,
+        "score": -0.7666
+      },
+      {
+        "word": "the",
+        "start_offset": 102,
+        "end_offset": 105,
+        "start": 17.033,
+        "end": 17.113,
+        "score": -0.745
+      },
+      {
+        "word": "mind,",
+        "start_offset": 106,
+        "end_offset": 111,
+        "start": 17.193,
+        "end": 17.613,
+        "score": -0.7384
+      },
+      {
+        "word": "the",
+        "start_offset": 112,
+        "end_offset": 115,
+        "start": 17.693,
+        "end": 17.773,
+        "score": -6.4487
+      },
+      {
+        "word": "Magician,",
+        "start_offset": 116,
+        "end_offset": 125,
+        "start": 17.793,
+        "end": 18.334,
+        "score": -0.9626
+      },
+      {
+        "word": "the",
+        "start_offset": 126,
+        "end_offset": 129,
+        "start": 18.374,
+        "end": 18.454,
+        "score": -0.8304
+      },
+      {
+        "word": "Emperor,",
+        "start_offset": 130,
+        "end_offset": 138,
+        "start": 18.554,
+        "end": 18.914,
+        "score": -1.0553
+      },
+      {
+        "word": "and",
+        "start_offset": 139,
+        "end_offset": 142,
+        "start": 18.974,
+        "end": 19.074,
+        "score": -4.0811
+      },
+      {
+        "word": "the",
+        "start_offset": 143,
+        "end_offset": 146,
+        "start": 19.094,
+        "end": 19.174,
+        "score": -3.1008
+      },
+      {
+        "word": "Chariot.",
+        "start_offset": 147,
+        "end_offset": 155,
+        "start": 19.255,
+        "end": 19.755,
+        "score": -0.7901
+      },
+      {
+        "word": "Is",
+        "start_offset": 156,
+        "end_offset": 158,
+        "start": 20.015,
+        "end": 20.095,
+        "score": -0.7875
+      },
+      {
+        "word": "this",
+        "start_offset": 159,
+        "end_offset": 163,
+        "start": 20.135,
+        "end": 20.275,
+        "score": -0.773
+      },
+      {
+        "word": "correct?",
+        "start_offset": 164,
+        "end_offset": 172,
+        "start": 20.335,
+        "end": 20.756,
+        "score": -0.7221
+      },
+      {
+        "word": "I",
+        "start_offset": 173,
+        "end_offset": 174,
+        "start": 24.559,
+        "end": 24.579,
+        "score": -6.5898
+      },
+      {
+        "word": "am",
+        "start_offset": 175,
+        "end_offset": 177,
+        "start": 25.359,
+        "end": 26.42,
+        "score": -8.1557
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 178,
+        "end_offset": 181,
+        "start": 26.46,
+        "end": 26.52,
+        "score": -8.8427
+      },
+      {
+        "word": "This",
+        "start_offset": 182,
+        "end_offset": 186,
+        "start": 28.141,
+        "end": 28.522,
+        "score": -4.7193
+      },
+      {
+        "word": "is",
+        "start_offset": 187,
+        "end_offset": 189,
+        "start": 29.282,
+        "end": 29.622,
+        "score": -3.0434
+      },
+      {
+        "word": "incorrect.",
+        "start_offset": 190,
+        "end_offset": 200,
+        "start": 30.823,
+        "end": 32.064,
+        "score": -1.7967
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "079-16.mp3",
+    "audio_duration": 33.0449,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

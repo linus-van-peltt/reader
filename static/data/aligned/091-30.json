@@ -1,0 +1,236 @@
+{
+  "text": "Then was this a representation of the waiting polarity to be tasted by the Matrix of the Mind? I am Ra. This is exquisitely perceptive.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then was this a representation of the waiting polarity to be tasted by the Matrix of the Mind?",
+        "start_offset": 0,
+        "end_offset": 94,
+        "start": 2.621,
+        "end": 15.967
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 95,
+        "end_offset": 103,
+        "start": 15.987,
+        "end": 16.487
+      },
+      {
+        "segment": "This is exquisitely perceptive.",
+        "start_offset": 104,
+        "end_offset": 135,
+        "start": 25.491,
+        "end": 31.754
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.621,
+        "end": 2.861,
+        "score": -0.8023
+      },
+      {
+        "word": "was",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 2.941,
+        "end": 3.121,
+        "score": -0.7246
+      },
+      {
+        "word": "this",
+        "start_offset": 9,
+        "end_offset": 13,
+        "start": 3.181,
+        "end": 3.482,
+        "score": -0.8046
+      },
+      {
+        "word": "a",
+        "start_offset": 14,
+        "end_offset": 15,
+        "start": 5.623,
+        "end": 5.643,
+        "score": -1.0153
+      },
+      {
+        "word": "representation",
+        "start_offset": 16,
+        "end_offset": 30,
+        "start": 5.783,
+        "end": 6.843,
+        "score": -0.7089
+      },
+      {
+        "word": "of",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 7.023,
+        "end": 7.183,
+        "score": -0.7141
+      },
+      {
+        "word": "the",
+        "start_offset": 34,
+        "end_offset": 37,
+        "start": 8.604,
+        "end": 8.744,
+        "score": -0.8518
+      },
+      {
+        "word": "waiting",
+        "start_offset": 38,
+        "end_offset": 45,
+        "start": 10.645,
+        "end": 11.025,
+        "score": -1.0278
+      },
+      {
+        "word": "polarity",
+        "start_offset": 46,
+        "end_offset": 54,
+        "start": 11.425,
+        "end": 12.145,
+        "score": -0.726
+      },
+      {
+        "word": "to",
+        "start_offset": 55,
+        "end_offset": 57,
+        "start": 12.265,
+        "end": 12.346,
+        "score": -0.7315
+      },
+      {
+        "word": "be",
+        "start_offset": 58,
+        "end_offset": 60,
+        "start": 12.406,
+        "end": 12.486,
+        "score": -0.7515
+      },
+      {
+        "word": "tasted",
+        "start_offset": 61,
+        "end_offset": 67,
+        "start": 13.626,
+        "end": 14.126,
+        "score": -0.7052
+      },
+      {
+        "word": "by",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 14.226,
+        "end": 14.506,
+        "score": -0.7053
+      },
+      {
+        "word": "the",
+        "start_offset": 71,
+        "end_offset": 74,
+        "start": 14.687,
+        "end": 14.767,
+        "score": -1.2819
+      },
+      {
+        "word": "Matrix",
+        "start_offset": 75,
+        "end_offset": 81,
+        "start": 14.807,
+        "end": 15.207,
+        "score": -1.303
+      },
+      {
+        "word": "of",
+        "start_offset": 82,
+        "end_offset": 84,
+        "start": 15.347,
+        "end": 15.447,
+        "score": -0.9468
+      },
+      {
+        "word": "the",
+        "start_offset": 85,
+        "end_offset": 88,
+        "start": 15.467,
+        "end": 15.527,
+        "score": -1.9853
+      },
+      {
+        "word": "Mind?",
+        "start_offset": 89,
+        "end_offset": 94,
+        "start": 15.587,
+        "end": 15.967,
+        "score": -0.8014
+      },
+      {
+        "word": "I",
+        "start_offset": 95,
+        "end_offset": 96,
+        "start": 15.987,
+        "end": 16.007,
+        "score": -10.3063
+      },
+      {
+        "word": "am",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 16.027,
+        "end": 16.067,
+        "score": -8.9484
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 100,
+        "end_offset": 103,
+        "start": 16.087,
+        "end": 16.487,
+        "score": -9.5976
+      },
+      {
+        "word": "This",
+        "start_offset": 104,
+        "end_offset": 108,
+        "start": 25.491,
+        "end": 25.832,
+        "score": -1.757
+      },
+      {
+        "word": "is",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 27.452,
+        "end": 27.752,
+        "score": -1.6729
+      },
+      {
+        "word": "exquisitely",
+        "start_offset": 112,
+        "end_offset": 123,
+        "start": 28.993,
+        "end": 29.913,
+        "score": -1.5594
+      },
+      {
+        "word": "perceptive.",
+        "start_offset": 124,
+        "end_offset": 135,
+        "start": 30.954,
+        "end": 31.754,
+        "score": -1.2767
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "091-30.mp3",
+    "audio_duration": 41.0384,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

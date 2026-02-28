@@ -1,0 +1,149 @@
+{
+  "text": "I assume then that they came in late. Is this correct? Hi and rah. Yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I assume then that they came in late.",
+        "start_offset": 32,
+        "end_offset": 66,
+        "start": 2.56,
+        "end": 5.28
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 195,
+        "end_offset": 214,
+        "start": 15.6,
+        "end": 17.12
+      },
+      {
+        "segment": "Hi and rah.",
+        "start_offset": 233,
+        "end_offset": 261,
+        "start": 18.64,
+        "end": 20.88
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 281,
+        "end_offset": 289,
+        "start": 22.48,
+        "end": 23.12
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 2.56,
+        "end": 2.88
+      },
+      {
+        "word": "assume",
+        "start_offset": 36,
+        "end_offset": 41,
+        "start": 2.88,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "then",
+        "start_offset": 43,
+        "end_offset": 45,
+        "start": 3.44,
+        "end": 3.6
+      },
+      {
+        "word": "that",
+        "start_offset": 45,
+        "end_offset": 48,
+        "start": 3.6,
+        "end": 3.84
+      },
+      {
+        "word": "they",
+        "start_offset": 48,
+        "end_offset": 50,
+        "start": 3.84,
+        "end": 4.0
+      },
+      {
+        "word": "came",
+        "start_offset": 50,
+        "end_offset": 54,
+        "start": 4.0,
+        "end": 4.32
+      },
+      {
+        "word": "in",
+        "start_offset": 54,
+        "end_offset": 58,
+        "start": 4.32,
+        "end": 4.64
+      },
+      {
+        "word": "late.",
+        "start_offset": 58,
+        "end_offset": 66,
+        "start": 4.64,
+        "end": 5.28
+      },
+      {
+        "word": "Is",
+        "start_offset": 195,
+        "end_offset": 199,
+        "start": 15.6,
+        "end": 15.92
+      },
+      {
+        "word": "this",
+        "start_offset": 199,
+        "end_offset": 203,
+        "start": 15.92,
+        "end": 16.240000000000002
+      },
+      {
+        "word": "correct?",
+        "start_offset": 203,
+        "end_offset": 214,
+        "start": 16.240000000000002,
+        "end": 17.12
+      },
+      {
+        "word": "Hi",
+        "start_offset": 233,
+        "end_offset": 237,
+        "start": 18.64,
+        "end": 18.96
+      },
+      {
+        "word": "and",
+        "start_offset": 246,
+        "end_offset": 250,
+        "start": 19.68,
+        "end": 20.0
+      },
+      {
+        "word": "rah.",
+        "start_offset": 258,
+        "end_offset": 261,
+        "start": 20.64,
+        "end": 20.88
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 281,
+        "end_offset": 289,
+        "start": 22.48,
+        "end": 23.12
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "089-43.mp3",
+    "audio_duration": 24.03,
+    "transcription_time": 0.09,
+    "rtfx": 278.07,
+    "timestamp": "2026-01-06T21:58:29.210387+00:00"
+  }
+}

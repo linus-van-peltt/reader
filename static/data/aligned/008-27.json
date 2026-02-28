@@ -1,0 +1,171 @@
+{
+  "text": "There are no occupants then? No pilot, shall I say? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "There are no occupants then?",
+        "start_offset": 0,
+        "end_offset": 28,
+        "start": 3.222,
+        "end": 6.443
+      },
+      {
+        "segment": "No pilot, shall I say?",
+        "start_offset": 29,
+        "end_offset": 51,
+        "start": 12.206,
+        "end": 13.467
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 52,
+        "end_offset": 60,
+        "start": 16.068,
+        "end": 18.31
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 61,
+        "end_offset": 77,
+        "start": 19.77,
+        "end": 23.132
+      }
+    ],
+    "word": [
+      {
+        "word": "There",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 3.222,
+        "end": 3.462,
+        "score": -2.227
+      },
+      {
+        "word": "are",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 3.502,
+        "end": 3.622,
+        "score": -2.4663
+      },
+      {
+        "word": "no",
+        "start_offset": 10,
+        "end_offset": 12,
+        "start": 3.702,
+        "end": 3.842,
+        "score": -2.8091
+      },
+      {
+        "word": "occupants",
+        "start_offset": 13,
+        "end_offset": 22,
+        "start": 5.643,
+        "end": 6.183,
+        "score": -4.1527
+      },
+      {
+        "word": "then?",
+        "start_offset": 23,
+        "end_offset": 28,
+        "start": 6.203,
+        "end": 6.443,
+        "score": -4.3024
+      },
+      {
+        "word": "No",
+        "start_offset": 29,
+        "end_offset": 31,
+        "start": 12.206,
+        "end": 12.286,
+        "score": -4.1044
+      },
+      {
+        "word": "pilot,",
+        "start_offset": 32,
+        "end_offset": 38,
+        "start": 12.447,
+        "end": 12.827,
+        "score": -5.0984
+      },
+      {
+        "word": "shall",
+        "start_offset": 39,
+        "end_offset": 44,
+        "start": 12.987,
+        "end": 13.167,
+        "score": -5.3446
+      },
+      {
+        "word": "I",
+        "start_offset": 45,
+        "end_offset": 46,
+        "start": 13.207,
+        "end": 13.227,
+        "score": -4.4727
+      },
+      {
+        "word": "say?",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 13.347,
+        "end": 13.467,
+        "score": -5.0233
+      },
+      {
+        "word": "I",
+        "start_offset": 52,
+        "end_offset": 53,
+        "start": 16.068,
+        "end": 16.088,
+        "score": -1.2413
+      },
+      {
+        "word": "am",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 17.069,
+        "end": 17.309,
+        "score": -2.4371
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 57,
+        "end_offset": 60,
+        "start": 18.19,
+        "end": 18.31,
+        "score": -1.0655
+      },
+      {
+        "word": "This",
+        "start_offset": 61,
+        "end_offset": 65,
+        "start": 19.77,
+        "end": 20.171,
+        "score": -1.2981
+      },
+      {
+        "word": "is",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 21.191,
+        "end": 21.491,
+        "score": -1.6385
+      },
+      {
+        "word": "correct.",
+        "start_offset": 69,
+        "end_offset": 77,
+        "start": 22.332,
+        "end": 23.132,
+        "score": -0.8383
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "008-27.mp3",
+    "audio_duration": 24.0327,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

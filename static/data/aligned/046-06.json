@@ -1,0 +1,450 @@
+{
+  "text": "At this time I would ask if we should end the session because of the instrument's low vitality, or whether this is irrelevant because of the dedication to this session already. I am Ra. The latter is correct. You may proceed. We shall monitor the vital energy of this instrument.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "At this time I would ask if we should end the session because of the instrument's low vitality, or whether this is irrelevant because of the dedication to this session already.",
+        "start_offset": 0,
+        "end_offset": 176,
+        "start": 1.48,
+        "end": 15.403
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 177,
+        "end_offset": 185,
+        "start": 21.605,
+        "end": 24.105
+      },
+      {
+        "segment": "The latter is correct.",
+        "start_offset": 186,
+        "end_offset": 208,
+        "start": 26.126,
+        "end": 31.827
+      },
+      {
+        "segment": "You may proceed.",
+        "start_offset": 209,
+        "end_offset": 225,
+        "start": 34.008,
+        "end": 37.428
+      },
+      {
+        "segment": "We shall monitor the vital energy of this instrument.",
+        "start_offset": 226,
+        "end_offset": 279,
+        "start": 39.009,
+        "end": 54.012
+      }
+    ],
+    "word": [
+      {
+        "word": "At",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 1.48,
+        "end": 1.6,
+        "score": -3.6341
+      },
+      {
+        "word": "this",
+        "start_offset": 3,
+        "end_offset": 7,
+        "start": 2.601,
+        "end": 2.761,
+        "score": -2.7856
+      },
+      {
+        "word": "time",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 2.801,
+        "end": 3.061,
+        "score": -2.4937
+      },
+      {
+        "word": "I",
+        "start_offset": 13,
+        "end_offset": 14,
+        "start": 3.081,
+        "end": 3.101,
+        "score": -6.6642
+      },
+      {
+        "word": "would",
+        "start_offset": 15,
+        "end_offset": 20,
+        "start": 3.161,
+        "end": 3.361,
+        "score": -3.6653
+      },
+      {
+        "word": "ask",
+        "start_offset": 21,
+        "end_offset": 24,
+        "start": 4.001,
+        "end": 4.241,
+        "score": -1.6986
+      },
+      {
+        "word": "if",
+        "start_offset": 25,
+        "end_offset": 27,
+        "start": 4.301,
+        "end": 4.461,
+        "score": -2.5198
+      },
+      {
+        "word": "we",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 5.901,
+        "end": 5.961,
+        "score": -3.2058
+      },
+      {
+        "word": "should",
+        "start_offset": 31,
+        "end_offset": 37,
+        "start": 6.061,
+        "end": 6.241,
+        "score": -2.7974
+      },
+      {
+        "word": "end",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 6.642,
+        "end": 6.782,
+        "score": -2.5977
+      },
+      {
+        "word": "the",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 6.802,
+        "end": 6.882,
+        "score": -1.5385
+      },
+      {
+        "word": "session",
+        "start_offset": 46,
+        "end_offset": 53,
+        "start": 6.962,
+        "end": 7.302,
+        "score": -0.8791
+      },
+      {
+        "word": "because",
+        "start_offset": 54,
+        "end_offset": 61,
+        "start": 7.362,
+        "end": 7.702,
+        "score": -0.8663
+      },
+      {
+        "word": "of",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 7.722,
+        "end": 7.782,
+        "score": -0.7679
+      },
+      {
+        "word": "the",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 7.802,
+        "end": 7.862,
+        "score": -0.8482
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 69,
+        "end_offset": 81,
+        "start": 7.942,
+        "end": 8.342,
+        "score": -1.4713
+      },
+      {
+        "word": "low",
+        "start_offset": 82,
+        "end_offset": 85,
+        "start": 8.382,
+        "end": 8.502,
+        "score": -3.4297
+      },
+      {
+        "word": "vitality,",
+        "start_offset": 86,
+        "end_offset": 95,
+        "start": 8.542,
+        "end": 9.242,
+        "score": -3.812
+      },
+      {
+        "word": "or",
+        "start_offset": 96,
+        "end_offset": 98,
+        "start": 9.362,
+        "end": 9.482,
+        "score": -1.8625
+      },
+      {
+        "word": "whether",
+        "start_offset": 99,
+        "end_offset": 106,
+        "start": 10.162,
+        "end": 10.462,
+        "score": -1.6134
+      },
+      {
+        "word": "this",
+        "start_offset": 107,
+        "end_offset": 111,
+        "start": 11.543,
+        "end": 11.743,
+        "score": -1.3488
+      },
+      {
+        "word": "is",
+        "start_offset": 112,
+        "end_offset": 114,
+        "start": 11.843,
+        "end": 12.003,
+        "score": -1.3198
+      },
+      {
+        "word": "irrelevant",
+        "start_offset": 115,
+        "end_offset": 125,
+        "start": 12.443,
+        "end": 12.983,
+        "score": -3.0252
+      },
+      {
+        "word": "because",
+        "start_offset": 126,
+        "end_offset": 133,
+        "start": 13.023,
+        "end": 13.423,
+        "score": -1.1721
+      },
+      {
+        "word": "of",
+        "start_offset": 134,
+        "end_offset": 136,
+        "start": 13.443,
+        "end": 13.503,
+        "score": -2.4478
+      },
+      {
+        "word": "the",
+        "start_offset": 137,
+        "end_offset": 140,
+        "start": 13.643,
+        "end": 13.723,
+        "score": -2.6208
+      },
+      {
+        "word": "dedication",
+        "start_offset": 141,
+        "end_offset": 151,
+        "start": 13.743,
+        "end": 14.283,
+        "score": -1.5707
+      },
+      {
+        "word": "to",
+        "start_offset": 152,
+        "end_offset": 154,
+        "start": 14.343,
+        "end": 14.403,
+        "score": -1.3622
+      },
+      {
+        "word": "this",
+        "start_offset": 155,
+        "end_offset": 159,
+        "start": 14.463,
+        "end": 14.583,
+        "score": -2.326
+      },
+      {
+        "word": "session",
+        "start_offset": 160,
+        "end_offset": 167,
+        "start": 14.643,
+        "end": 14.983,
+        "score": -1.0481
+      },
+      {
+        "word": "already.",
+        "start_offset": 168,
+        "end_offset": 176,
+        "start": 15.083,
+        "end": 15.403,
+        "score": -0.7605
+      },
+      {
+        "word": "I",
+        "start_offset": 177,
+        "end_offset": 178,
+        "start": 21.605,
+        "end": 21.625,
+        "score": -1.1959
+      },
+      {
+        "word": "am",
+        "start_offset": 179,
+        "end_offset": 181,
+        "start": 22.725,
+        "end": 23.025,
+        "score": -1.9265
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 182,
+        "end_offset": 185,
+        "start": 24.005,
+        "end": 24.105,
+        "score": -1.3308
+      },
+      {
+        "word": "The",
+        "start_offset": 186,
+        "end_offset": 189,
+        "start": 26.126,
+        "end": 26.246,
+        "score": -0.7975
+      },
+      {
+        "word": "latter",
+        "start_offset": 190,
+        "end_offset": 196,
+        "start": 27.646,
+        "end": 28.206,
+        "score": -0.7611
+      },
+      {
+        "word": "is",
+        "start_offset": 197,
+        "end_offset": 199,
+        "start": 29.387,
+        "end": 29.707,
+        "score": -0.7128
+      },
+      {
+        "word": "correct.",
+        "start_offset": 200,
+        "end_offset": 208,
+        "start": 30.907,
+        "end": 31.827,
+        "score": -0.7052
+      },
+      {
+        "word": "You",
+        "start_offset": 209,
+        "end_offset": 212,
+        "start": 34.008,
+        "end": 34.168,
+        "score": -0.7705
+      },
+      {
+        "word": "may",
+        "start_offset": 213,
+        "end_offset": 216,
+        "start": 35.128,
+        "end": 35.408,
+        "score": -0.7007
+      },
+      {
+        "word": "proceed.",
+        "start_offset": 217,
+        "end_offset": 225,
+        "start": 36.388,
+        "end": 37.428,
+        "score": -0.7342
+      },
+      {
+        "word": "We",
+        "start_offset": 226,
+        "end_offset": 228,
+        "start": 39.009,
+        "end": 39.149,
+        "score": -0.707
+      },
+      {
+        "word": "shall",
+        "start_offset": 229,
+        "end_offset": 234,
+        "start": 40.289,
+        "end": 40.829,
+        "score": -0.8465
+      },
+      {
+        "word": "monitor",
+        "start_offset": 235,
+        "end_offset": 242,
+        "start": 42.25,
+        "end": 43.25,
+        "score": -0.8711
+      },
+      {
+        "word": "the",
+        "start_offset": 243,
+        "end_offset": 246,
+        "start": 44.53,
+        "end": 44.65,
+        "score": -0.7846
+      },
+      {
+        "word": "vital",
+        "start_offset": 247,
+        "end_offset": 252,
+        "start": 46.19,
+        "end": 46.751,
+        "score": -0.7353
+      },
+      {
+        "word": "energy",
+        "start_offset": 253,
+        "end_offset": 259,
+        "start": 48.051,
+        "end": 48.731,
+        "score": -0.7237
+      },
+      {
+        "word": "of",
+        "start_offset": 260,
+        "end_offset": 262,
+        "start": 50.191,
+        "end": 50.471,
+        "score": -0.7301
+      },
+      {
+        "word": "this",
+        "start_offset": 263,
+        "end_offset": 267,
+        "start": 51.092,
+        "end": 51.532,
+        "score": -0.7481
+      },
+      {
+        "word": "instrument.",
+        "start_offset": 268,
+        "end_offset": 279,
+        "start": 52.852,
+        "end": 54.012,
+        "score": -0.7337
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "046-06.mp3",
+    "audio_duration": 56.0327,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

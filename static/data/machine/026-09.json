@@ -1,0 +1,93 @@
+{
+  "text": "Thank you. Could you please make the instrument call?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 15,
+        "end_offset": 23,
+        "start": 1.2,
+        "end": 1.84
+      },
+      {
+        "segment": "Could you please make the instrument call?",
+        "start_offset": 25,
+        "end_offset": 50,
+        "start": 2.0,
+        "end": 4.0
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 15,
+        "end_offset": 21,
+        "start": 1.2,
+        "end": 1.68
+      },
+      {
+        "word": "you.",
+        "start_offset": 21,
+        "end_offset": 23,
+        "start": 1.68,
+        "end": 1.84
+      },
+      {
+        "word": "Could",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 2.0,
+        "end": 2.24
+      },
+      {
+        "word": "you",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 2.24,
+        "end": 2.4
+      },
+      {
+        "word": "please",
+        "start_offset": 30,
+        "end_offset": 34,
+        "start": 2.4,
+        "end": 2.72
+      },
+      {
+        "word": "make",
+        "start_offset": 34,
+        "end_offset": 36,
+        "start": 2.72,
+        "end": 2.88
+      },
+      {
+        "word": "the",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 2.88,
+        "end": 3.04
+      },
+      {
+        "word": "instrument",
+        "start_offset": 38,
+        "end_offset": 43,
+        "start": 3.04,
+        "end": 3.44
+      },
+      {
+        "word": "call?",
+        "start_offset": 45,
+        "end_offset": 50,
+        "start": 3.6,
+        "end": 4.0
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "026-09.mp3",
+    "audio_duration": 7.03,
+    "transcription_time": 0.08,
+    "rtfx": 85.18,
+    "timestamp": "2026-01-06T21:49:01.905431+00:00"
+  }
+}

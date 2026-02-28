@@ -1,0 +1,188 @@
+{
+  "text": "Would this be an exercise of meditation and contemplation upon the alleviation of these problems? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would this be an exercise of meditation and contemplation upon the alleviation of these problems?",
+        "start_offset": 0,
+        "end_offset": 97,
+        "start": 2.021,
+        "end": 11.684
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 98,
+        "end_offset": 106,
+        "start": 14.925,
+        "end": 16.646
+      },
+      {
+        "segment": "No.",
+        "start_offset": 107,
+        "end_offset": 110,
+        "start": 18.426,
+        "end": 18.546
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.021,
+        "end": 2.201,
+        "score": -0.7406
+      },
+      {
+        "word": "this",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 2.261,
+        "end": 2.461,
+        "score": -0.7303
+      },
+      {
+        "word": "be",
+        "start_offset": 11,
+        "end_offset": 13,
+        "start": 2.581,
+        "end": 2.701,
+        "score": -0.7066
+      },
+      {
+        "word": "an",
+        "start_offset": 14,
+        "end_offset": 16,
+        "start": 4.602,
+        "end": 4.682,
+        "score": -0.7117
+      },
+      {
+        "word": "exercise",
+        "start_offset": 17,
+        "end_offset": 25,
+        "start": 4.782,
+        "end": 5.422,
+        "score": -0.7624
+      },
+      {
+        "word": "of",
+        "start_offset": 26,
+        "end_offset": 28,
+        "start": 5.462,
+        "end": 5.542,
+        "score": -0.752
+      },
+      {
+        "word": "meditation",
+        "start_offset": 29,
+        "end_offset": 39,
+        "start": 5.582,
+        "end": 6.282,
+        "score": -0.6984
+      },
+      {
+        "word": "and",
+        "start_offset": 40,
+        "end_offset": 43,
+        "start": 6.362,
+        "end": 6.462,
+        "score": -0.7203
+      },
+      {
+        "word": "contemplation",
+        "start_offset": 44,
+        "end_offset": 57,
+        "start": 6.502,
+        "end": 7.342,
+        "score": -0.7157
+      },
+      {
+        "word": "upon",
+        "start_offset": 58,
+        "end_offset": 62,
+        "start": 7.442,
+        "end": 7.803,
+        "score": -3.5883
+      },
+      {
+        "word": "the",
+        "start_offset": 63,
+        "end_offset": 66,
+        "start": 7.923,
+        "end": 8.023,
+        "score": -3.4579
+      },
+      {
+        "word": "alleviation",
+        "start_offset": 67,
+        "end_offset": 78,
+        "start": 10.183,
+        "end": 10.824,
+        "score": -1.405
+      },
+      {
+        "word": "of",
+        "start_offset": 79,
+        "end_offset": 81,
+        "start": 10.884,
+        "end": 10.944,
+        "score": -0.7417
+      },
+      {
+        "word": "these",
+        "start_offset": 82,
+        "end_offset": 87,
+        "start": 10.984,
+        "end": 11.164,
+        "score": -0.711
+      },
+      {
+        "word": "problems?",
+        "start_offset": 88,
+        "end_offset": 97,
+        "start": 11.184,
+        "end": 11.684,
+        "score": -0.6981
+      },
+      {
+        "word": "I",
+        "start_offset": 98,
+        "end_offset": 99,
+        "start": 14.925,
+        "end": 14.945,
+        "score": -2.3949
+      },
+      {
+        "word": "am",
+        "start_offset": 100,
+        "end_offset": 102,
+        "start": 15.565,
+        "end": 15.825,
+        "score": -4.4628
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 103,
+        "end_offset": 106,
+        "start": 16.606,
+        "end": 16.646,
+        "score": -5.5713
+      },
+      {
+        "word": "No.",
+        "start_offset": 107,
+        "end_offset": 110,
+        "start": 18.426,
+        "end": 18.546,
+        "score": -2.6966
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "060-07.mp3",
+    "audio_duration": 22.0474,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

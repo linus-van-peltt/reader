@@ -1,0 +1,259 @@
+{
+  "text": "Could you tell me just a small amount of the history of what you call the Elder Race? I am Ra. The question is unclear. Please restate.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you tell me just a small amount of the history of what you call the Elder Race?",
+        "start_offset": 0,
+        "end_offset": 85,
+        "start": 2.582,
+        "end": 8.386
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 86,
+        "end_offset": 94,
+        "start": 17.112,
+        "end": 18.813
+      },
+      {
+        "segment": "The question is unclear.",
+        "start_offset": 95,
+        "end_offset": 119,
+        "start": 20.434,
+        "end": 25.278
+      },
+      {
+        "segment": "Please restate.",
+        "start_offset": 120,
+        "end_offset": 135,
+        "start": 26.438,
+        "end": 28.98
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.582,
+        "end": 2.742,
+        "score": -7.9336
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 2.782,
+        "end": 2.862,
+        "score": -6.7869
+      },
+      {
+        "word": "tell",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 2.902,
+        "end": 3.102,
+        "score": -5.3691
+      },
+      {
+        "word": "me",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 3.142,
+        "end": 3.222,
+        "score": -5.0998
+      },
+      {
+        "word": "just",
+        "start_offset": 18,
+        "end_offset": 22,
+        "start": 5.304,
+        "end": 5.524,
+        "score": -4.0859
+      },
+      {
+        "word": "a",
+        "start_offset": 23,
+        "end_offset": 24,
+        "start": 5.564,
+        "end": 5.584,
+        "score": -4.132
+      },
+      {
+        "word": "small",
+        "start_offset": 25,
+        "end_offset": 30,
+        "start": 5.664,
+        "end": 5.944,
+        "score": -5.1454
+      },
+      {
+        "word": "amount",
+        "start_offset": 31,
+        "end_offset": 37,
+        "start": 5.964,
+        "end": 6.184,
+        "score": -4.8859
+      },
+      {
+        "word": "of",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 6.204,
+        "end": 6.284,
+        "score": -5.3452
+      },
+      {
+        "word": "the",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 6.304,
+        "end": 6.404,
+        "score": -3.9308
+      },
+      {
+        "word": "history",
+        "start_offset": 45,
+        "end_offset": 52,
+        "start": 6.485,
+        "end": 6.805,
+        "score": -3.582
+      },
+      {
+        "word": "of",
+        "start_offset": 53,
+        "end_offset": 55,
+        "start": 6.825,
+        "end": 6.885,
+        "score": -9.1055
+      },
+      {
+        "word": "what",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 6.925,
+        "end": 7.005,
+        "score": -6.9425
+      },
+      {
+        "word": "you",
+        "start_offset": 61,
+        "end_offset": 64,
+        "start": 7.025,
+        "end": 7.285,
+        "score": -5.3565
+      },
+      {
+        "word": "call",
+        "start_offset": 65,
+        "end_offset": 69,
+        "start": 7.325,
+        "end": 7.485,
+        "score": -5.5326
+      },
+      {
+        "word": "the",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 7.545,
+        "end": 7.645,
+        "score": -4.2642
+      },
+      {
+        "word": "Elder",
+        "start_offset": 74,
+        "end_offset": 79,
+        "start": 7.745,
+        "end": 7.966,
+        "score": -4.2889
+      },
+      {
+        "word": "Race?",
+        "start_offset": 80,
+        "end_offset": 85,
+        "start": 8.026,
+        "end": 8.386,
+        "score": -4.1077
+      },
+      {
+        "word": "I",
+        "start_offset": 86,
+        "end_offset": 87,
+        "start": 17.112,
+        "end": 17.132,
+        "score": -0.9414
+      },
+      {
+        "word": "am",
+        "start_offset": 88,
+        "end_offset": 90,
+        "start": 17.772,
+        "end": 18.033,
+        "score": -2.4288
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 91,
+        "end_offset": 94,
+        "start": 18.673,
+        "end": 18.813,
+        "score": -1.0496
+      },
+      {
+        "word": "The",
+        "start_offset": 95,
+        "end_offset": 98,
+        "start": 20.434,
+        "end": 20.574,
+        "score": -0.8005
+      },
+      {
+        "word": "question",
+        "start_offset": 99,
+        "end_offset": 107,
+        "start": 21.315,
+        "end": 22.095,
+        "score": -0.7515
+      },
+      {
+        "word": "is",
+        "start_offset": 108,
+        "end_offset": 110,
+        "start": 23.096,
+        "end": 23.376,
+        "score": -0.7072
+      },
+      {
+        "word": "unclear.",
+        "start_offset": 111,
+        "end_offset": 119,
+        "start": 24.057,
+        "end": 25.278,
+        "score": -0.7179
+      },
+      {
+        "word": "Please",
+        "start_offset": 120,
+        "end_offset": 126,
+        "start": 26.438,
+        "end": 27.059,
+        "score": -1.0648
+      },
+      {
+        "word": "restate.",
+        "start_offset": 127,
+        "end_offset": 135,
+        "start": 27.579,
+        "end": 28.98,
+        "score": -0.7635
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "015-17.mp3",
+    "audio_duration": 30.0409,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

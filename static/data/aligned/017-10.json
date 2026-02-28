@@ -1,0 +1,378 @@
+{
+  "text": "Thank you. Can you tell me who, before incarnation into this density, was the one known as Jesus of Nazareth? I am Ra. I have difficulty with this question as it is phrased. Can you discover another form for this query?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 0,
+        "end_offset": 10,
+        "start": 3.101,
+        "end": 4.861
+      },
+      {
+        "segment": "Can you tell me who, before incarnation into this density, was the one known as Jesus of Nazareth?",
+        "start_offset": 11,
+        "end_offset": 109,
+        "start": 4.901,
+        "end": 25.244
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 110,
+        "end_offset": 118,
+        "start": 25.264,
+        "end": 31.085
+      },
+      {
+        "segment": "I have difficulty with this question as it is phrased.",
+        "start_offset": 119,
+        "end_offset": 173,
+        "start": 31.225,
+        "end": 38.767
+      },
+      {
+        "segment": "Can you discover another form for this query?",
+        "start_offset": 174,
+        "end_offset": 219,
+        "start": 39.727,
+        "end": 45.808
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 3.101,
+        "end": 4.681,
+        "score": -7.6008
+      },
+      {
+        "word": "you.",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 4.701,
+        "end": 4.861,
+        "score": -7.6021
+      },
+      {
+        "word": "Can",
+        "start_offset": 11,
+        "end_offset": 14,
+        "start": 4.901,
+        "end": 5.061,
+        "score": -8.3699
+      },
+      {
+        "word": "you",
+        "start_offset": 15,
+        "end_offset": 18,
+        "start": 11.242,
+        "end": 11.302,
+        "score": -7.4533
+      },
+      {
+        "word": "tell",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 11.322,
+        "end": 11.422,
+        "score": -8.5636
+      },
+      {
+        "word": "me",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 11.442,
+        "end": 11.482,
+        "score": -7.7748
+      },
+      {
+        "word": "who,",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 11.502,
+        "end": 11.562,
+        "score": -8.1263
+      },
+      {
+        "word": "before",
+        "start_offset": 32,
+        "end_offset": 38,
+        "start": 11.582,
+        "end": 11.742,
+        "score": -6.6583
+      },
+      {
+        "word": "incarnation",
+        "start_offset": 39,
+        "end_offset": 50,
+        "start": 11.762,
+        "end": 12.142,
+        "score": -5.5563
+      },
+      {
+        "word": "into",
+        "start_offset": 51,
+        "end_offset": 55,
+        "start": 12.182,
+        "end": 12.322,
+        "score": -7.1855
+      },
+      {
+        "word": "this",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 12.542,
+        "end": 12.742,
+        "score": -4.037
+      },
+      {
+        "word": "density,",
+        "start_offset": 61,
+        "end_offset": 69,
+        "start": 12.902,
+        "end": 13.302,
+        "score": -6.3415
+      },
+      {
+        "word": "was",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 13.422,
+        "end": 13.662,
+        "score": -2.8455
+      },
+      {
+        "word": "the",
+        "start_offset": 74,
+        "end_offset": 77,
+        "start": 13.782,
+        "end": 13.862,
+        "score": -6.0618
+      },
+      {
+        "word": "one",
+        "start_offset": 78,
+        "end_offset": 81,
+        "start": 13.962,
+        "end": 14.042,
+        "score": -6.1973
+      },
+      {
+        "word": "known",
+        "start_offset": 82,
+        "end_offset": 87,
+        "start": 14.062,
+        "end": 14.202,
+        "score": -6.3477
+      },
+      {
+        "word": "as",
+        "start_offset": 88,
+        "end_offset": 90,
+        "start": 14.242,
+        "end": 14.282,
+        "score": -6.6754
+      },
+      {
+        "word": "Jesus",
+        "start_offset": 91,
+        "end_offset": 96,
+        "start": 14.302,
+        "end": 15.363,
+        "score": -5.8788
+      },
+      {
+        "word": "of",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 23.344,
+        "end": 23.584,
+        "score": -8.1763
+      },
+      {
+        "word": "Nazareth?",
+        "start_offset": 100,
+        "end_offset": 109,
+        "start": 24.344,
+        "end": 25.244,
+        "score": -5.5047
+      },
+      {
+        "word": "I",
+        "start_offset": 110,
+        "end_offset": 111,
+        "start": 25.264,
+        "end": 25.284,
+        "score": -7.9089
+      },
+      {
+        "word": "am",
+        "start_offset": 112,
+        "end_offset": 114,
+        "start": 25.304,
+        "end": 25.364,
+        "score": -5.2073
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 115,
+        "end_offset": 118,
+        "start": 25.464,
+        "end": 31.085,
+        "score": -5.2187
+      },
+      {
+        "word": "I",
+        "start_offset": 119,
+        "end_offset": 120,
+        "start": 31.225,
+        "end": 31.245,
+        "score": -0.8983
+      },
+      {
+        "word": "have",
+        "start_offset": 121,
+        "end_offset": 125,
+        "start": 32.045,
+        "end": 32.345,
+        "score": -0.9818
+      },
+      {
+        "word": "difficulty",
+        "start_offset": 126,
+        "end_offset": 136,
+        "start": 32.726,
+        "end": 33.586,
+        "score": -0.725
+      },
+      {
+        "word": "with",
+        "start_offset": 137,
+        "end_offset": 141,
+        "start": 34.166,
+        "end": 34.406,
+        "score": -0.8243
+      },
+      {
+        "word": "this",
+        "start_offset": 142,
+        "end_offset": 146,
+        "start": 34.746,
+        "end": 35.046,
+        "score": -0.814
+      },
+      {
+        "word": "question",
+        "start_offset": 147,
+        "end_offset": 155,
+        "start": 35.406,
+        "end": 35.946,
+        "score": -0.716
+      },
+      {
+        "word": "as",
+        "start_offset": 156,
+        "end_offset": 158,
+        "start": 36.306,
+        "end": 36.486,
+        "score": -0.7271
+      },
+      {
+        "word": "it",
+        "start_offset": 159,
+        "end_offset": 161,
+        "start": 36.666,
+        "end": 36.786,
+        "score": -1.0478
+      },
+      {
+        "word": "is",
+        "start_offset": 162,
+        "end_offset": 164,
+        "start": 37.186,
+        "end": 37.366,
+        "score": -0.7602
+      },
+      {
+        "word": "phrased.",
+        "start_offset": 165,
+        "end_offset": 173,
+        "start": 38.186,
+        "end": 38.767,
+        "score": -1.5754
+      },
+      {
+        "word": "Can",
+        "start_offset": 174,
+        "end_offset": 177,
+        "start": 39.727,
+        "end": 40.027,
+        "score": -0.7213
+      },
+      {
+        "word": "you",
+        "start_offset": 178,
+        "end_offset": 181,
+        "start": 40.327,
+        "end": 40.447,
+        "score": -0.7234
+      },
+      {
+        "word": "discover",
+        "start_offset": 182,
+        "end_offset": 190,
+        "start": 40.827,
+        "end": 41.507,
+        "score": -0.7259
+      },
+      {
+        "word": "another",
+        "start_offset": 191,
+        "end_offset": 198,
+        "start": 42.547,
+        "end": 43.047,
+        "score": -0.8828
+      },
+      {
+        "word": "form",
+        "start_offset": 199,
+        "end_offset": 203,
+        "start": 43.547,
+        "end": 43.907,
+        "score": -1.2493
+      },
+      {
+        "word": "for",
+        "start_offset": 204,
+        "end_offset": 207,
+        "start": 44.248,
+        "end": 44.468,
+        "score": -3.0757
+      },
+      {
+        "word": "this",
+        "start_offset": 208,
+        "end_offset": 212,
+        "start": 44.808,
+        "end": 45.108,
+        "score": -1.2027
+      },
+      {
+        "word": "query?",
+        "start_offset": 213,
+        "end_offset": 219,
+        "start": 45.408,
+        "end": 45.808,
+        "score": -2.9749
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "017-10.mp3",
+    "audio_duration": 46.0278,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

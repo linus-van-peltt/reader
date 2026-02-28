@@ -1,0 +1,409 @@
+{
+  "text": "Thank you very much. We do not want to overtire the instrument. It's now considerably over the normal working time. Could you tell me the condition of the instrument? The instrument is balanced due to your care. However, her physical vehicle is growing stiff.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you very much.",
+        "start_offset": 0,
+        "end_offset": 20,
+        "start": 5.421,
+        "end": 5.981
+      },
+      {
+        "segment": "We do not want to overtire the instrument.",
+        "start_offset": 21,
+        "end_offset": 63,
+        "start": 6.001,
+        "end": 24.023
+      },
+      {
+        "segment": "It's now considerably over the normal working time.",
+        "start_offset": 64,
+        "end_offset": 115,
+        "start": 24.043,
+        "end": 25.864
+      },
+      {
+        "segment": "Could you tell me the condition of the instrument?",
+        "start_offset": 116,
+        "end_offset": 166,
+        "start": 25.904,
+        "end": 27.364
+      },
+      {
+        "segment": "The instrument is balanced due to your care.",
+        "start_offset": 167,
+        "end_offset": 211,
+        "start": 27.384,
+        "end": 30.004
+      },
+      {
+        "segment": "However, her physical vehicle is growing stiff.",
+        "start_offset": 212,
+        "end_offset": 259,
+        "start": 30.984,
+        "end": 39.626
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 5.421,
+        "end": 5.541,
+        "score": -8.5478
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 5.581,
+        "end": 5.661,
+        "score": -8.375
+      },
+      {
+        "word": "very",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 5.681,
+        "end": 5.881,
+        "score": -11.3536
+      },
+      {
+        "word": "much.",
+        "start_offset": 15,
+        "end_offset": 20,
+        "start": 5.901,
+        "end": 5.981,
+        "score": -11.4348
+      },
+      {
+        "word": "We",
+        "start_offset": 21,
+        "end_offset": 23,
+        "start": 6.001,
+        "end": 6.041,
+        "score": -9.3576
+      },
+      {
+        "word": "do",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 6.061,
+        "end": 6.101,
+        "score": -10.2157
+      },
+      {
+        "word": "not",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 6.141,
+        "end": 6.201,
+        "score": -10.2224
+      },
+      {
+        "word": "want",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 6.221,
+        "end": 6.461,
+        "score": -10.2553
+      },
+      {
+        "word": "to",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 10.121,
+        "end": 11.282,
+        "score": -10.5123
+      },
+      {
+        "word": "overtire",
+        "start_offset": 39,
+        "end_offset": 47,
+        "start": 11.322,
+        "end": 22.363,
+        "score": -11.2316
+      },
+      {
+        "word": "the",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 22.383,
+        "end": 22.503,
+        "score": -0.7454
+      },
+      {
+        "word": "instrument.",
+        "start_offset": 52,
+        "end_offset": 63,
+        "start": 23.323,
+        "end": 24.023,
+        "score": -0.7015
+      },
+      {
+        "word": "It's",
+        "start_offset": 64,
+        "end_offset": 68,
+        "start": 24.043,
+        "end": 24.123,
+        "score": -10.6356
+      },
+      {
+        "word": "now",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 24.143,
+        "end": 24.203,
+        "score": -12.3628
+      },
+      {
+        "word": "considerably",
+        "start_offset": 73,
+        "end_offset": 85,
+        "start": 24.524,
+        "end": 24.884,
+        "score": -10.2813
+      },
+      {
+        "word": "over",
+        "start_offset": 86,
+        "end_offset": 90,
+        "start": 24.904,
+        "end": 24.984,
+        "score": -11.8735
+      },
+      {
+        "word": "the",
+        "start_offset": 91,
+        "end_offset": 94,
+        "start": 25.004,
+        "end": 25.064,
+        "score": -9.2883
+      },
+      {
+        "word": "normal",
+        "start_offset": 95,
+        "end_offset": 101,
+        "start": 25.104,
+        "end": 25.484,
+        "score": -5.5119
+      },
+      {
+        "word": "working",
+        "start_offset": 102,
+        "end_offset": 109,
+        "start": 25.524,
+        "end": 25.704,
+        "score": -9.7735
+      },
+      {
+        "word": "time.",
+        "start_offset": 110,
+        "end_offset": 115,
+        "start": 25.764,
+        "end": 25.864,
+        "score": -8.8012
+      },
+      {
+        "word": "Could",
+        "start_offset": 116,
+        "end_offset": 121,
+        "start": 25.904,
+        "end": 26.024,
+        "score": -11.1344
+      },
+      {
+        "word": "you",
+        "start_offset": 122,
+        "end_offset": 125,
+        "start": 26.044,
+        "end": 26.144,
+        "score": -11.7647
+      },
+      {
+        "word": "tell",
+        "start_offset": 126,
+        "end_offset": 130,
+        "start": 26.244,
+        "end": 26.384,
+        "score": -11.7513
+      },
+      {
+        "word": "me",
+        "start_offset": 131,
+        "end_offset": 133,
+        "start": 26.404,
+        "end": 26.464,
+        "score": -11.3598
+      },
+      {
+        "word": "the",
+        "start_offset": 134,
+        "end_offset": 137,
+        "start": 26.724,
+        "end": 26.784,
+        "score": -11.0617
+      },
+      {
+        "word": "condition",
+        "start_offset": 138,
+        "end_offset": 147,
+        "start": 26.804,
+        "end": 26.984,
+        "score": -7.93
+      },
+      {
+        "word": "of",
+        "start_offset": 148,
+        "end_offset": 150,
+        "start": 27.024,
+        "end": 27.064,
+        "score": -9.5932
+      },
+      {
+        "word": "the",
+        "start_offset": 151,
+        "end_offset": 154,
+        "start": 27.084,
+        "end": 27.144,
+        "score": -4.281
+      },
+      {
+        "word": "instrument?",
+        "start_offset": 155,
+        "end_offset": 166,
+        "start": 27.164,
+        "end": 27.364,
+        "score": -9.7675
+      },
+      {
+        "word": "The",
+        "start_offset": 167,
+        "end_offset": 170,
+        "start": 27.384,
+        "end": 27.444,
+        "score": -10.697
+      },
+      {
+        "word": "instrument",
+        "start_offset": 171,
+        "end_offset": 181,
+        "start": 27.464,
+        "end": 27.664,
+        "score": -9.3176
+      },
+      {
+        "word": "is",
+        "start_offset": 182,
+        "end_offset": 184,
+        "start": 27.764,
+        "end": 27.804,
+        "score": -7.4123
+      },
+      {
+        "word": "balanced",
+        "start_offset": 185,
+        "end_offset": 193,
+        "start": 27.824,
+        "end": 27.984,
+        "score": -9.3364
+      },
+      {
+        "word": "due",
+        "start_offset": 194,
+        "end_offset": 197,
+        "start": 28.004,
+        "end": 28.624,
+        "score": -10.3427
+      },
+      {
+        "word": "to",
+        "start_offset": 198,
+        "end_offset": 200,
+        "start": 28.644,
+        "end": 28.684,
+        "score": -9.0335
+      },
+      {
+        "word": "your",
+        "start_offset": 201,
+        "end_offset": 205,
+        "start": 28.704,
+        "end": 28.964,
+        "score": -0.9148
+      },
+      {
+        "word": "care.",
+        "start_offset": 206,
+        "end_offset": 211,
+        "start": 29.504,
+        "end": 30.004,
+        "score": -1.0612
+      },
+      {
+        "word": "However,",
+        "start_offset": 212,
+        "end_offset": 220,
+        "start": 30.984,
+        "end": 32.185,
+        "score": -0.7024
+      },
+      {
+        "word": "her",
+        "start_offset": 221,
+        "end_offset": 224,
+        "start": 33.105,
+        "end": 33.345,
+        "score": -0.7169
+      },
+      {
+        "word": "physical",
+        "start_offset": 225,
+        "end_offset": 233,
+        "start": 34.145,
+        "end": 34.725,
+        "score": -0.7132
+      },
+      {
+        "word": "vehicle",
+        "start_offset": 234,
+        "end_offset": 241,
+        "start": 35.405,
+        "end": 36.025,
+        "score": -0.7061
+      },
+      {
+        "word": "is",
+        "start_offset": 242,
+        "end_offset": 244,
+        "start": 36.785,
+        "end": 37.025,
+        "score": -0.7108
+      },
+      {
+        "word": "growing",
+        "start_offset": 245,
+        "end_offset": 252,
+        "start": 37.865,
+        "end": 38.426,
+        "score": -0.7232
+      },
+      {
+        "word": "stiff.",
+        "start_offset": 253,
+        "end_offset": 259,
+        "start": 39.226,
+        "end": 39.626,
+        "score": -0.7637
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "006-27.mp3",
+    "audio_duration": 40.0457,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "text": "I understand how positively oriented entity would program catalysts such as that would result in physical pain if it I'm assuming that an entity could program something that would uh give it the experience of physical pain if it did not follow the path that it had selected. Is this correct? I am wrong. Please restate query.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I understand how positively oriented entity would program catalysts such as that would result in physical pain if it I'm assuming that an entity could program something that would uh give it the experience of physical pain if it did not follow the path that it had selected.",
+        "start_offset": 32,
+        "end_offset": 476,
+        "start": 2.56,
+        "end": 38.08
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 477,
+        "end_offset": 493,
+        "start": 38.160000000000004,
+        "end": 39.44
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 564,
+        "end_offset": 605,
+        "start": 45.12,
+        "end": 48.4
+      },
+      {
+        "segment": "Please restate query.",
+        "start_offset": 618,
+        "end_offset": 676,
+        "start": 49.44,
+        "end": 54.08
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 2.56,
+        "end": 2.88
+      },
+      {
+        "word": "understand",
+        "start_offset": 36,
+        "end_offset": 44,
+        "start": 2.88,
+        "end": 3.52
+      },
+      {
+        "word": "how",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 3.52,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "positively",
+        "start_offset": 72,
+        "end_offset": 83,
+        "start": 5.76,
+        "end": 6.640000000000001
+      },
+      {
+        "word": "oriented",
+        "start_offset": 84,
+        "end_offset": 94,
+        "start": 6.72,
+        "end": 7.5200000000000005
+      },
+      {
+        "word": "entity",
+        "start_offset": 98,
+        "end_offset": 104,
+        "start": 7.84,
+        "end": 8.32
+      },
+      {
+        "word": "would",
+        "start_offset": 107,
+        "end_offset": 111,
+        "start": 8.56,
+        "end": 8.88
+      },
+      {
+        "word": "program",
+        "start_offset": 114,
+        "end_offset": 118,
+        "start": 9.120000000000001,
+        "end": 9.44
+      },
+      {
+        "word": "catalysts",
+        "start_offset": 128,
+        "end_offset": 139,
+        "start": 10.24,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "such",
+        "start_offset": 140,
+        "end_offset": 146,
+        "start": 11.200000000000001,
+        "end": 11.68
+      },
+      {
+        "word": "as",
+        "start_offset": 146,
+        "end_offset": 150,
+        "start": 11.68,
+        "end": 12.0
+      },
+      {
+        "word": "that",
+        "start_offset": 157,
+        "end_offset": 161,
+        "start": 12.56,
+        "end": 12.88
+      },
+      {
+        "word": "would",
+        "start_offset": 161,
+        "end_offset": 165,
+        "start": 12.88,
+        "end": 13.200000000000001
+      },
+      {
+        "word": "result",
+        "start_offset": 165,
+        "end_offset": 169,
+        "start": 13.200000000000001,
+        "end": 13.52
+      },
+      {
+        "word": "in",
+        "start_offset": 173,
+        "end_offset": 176,
+        "start": 13.84,
+        "end": 14.08
+      },
+      {
+        "word": "physical",
+        "start_offset": 209,
+        "end_offset": 220,
+        "start": 16.72,
+        "end": 17.6
+      },
+      {
+        "word": "pain",
+        "start_offset": 220,
+        "end_offset": 228,
+        "start": 17.6,
+        "end": 18.240000000000002
+      },
+      {
+        "word": "if",
+        "start_offset": 237,
+        "end_offset": 241,
+        "start": 18.96,
+        "end": 19.28
+      },
+      {
+        "word": "it",
+        "start_offset": 241,
+        "end_offset": 245,
+        "start": 19.28,
+        "end": 19.6
+      },
+      {
+        "word": "I'm",
+        "start_offset": 254,
+        "end_offset": 260,
+        "start": 20.32,
+        "end": 20.8
+      },
+      {
+        "word": "assuming",
+        "start_offset": 260,
+        "end_offset": 268,
+        "start": 20.8,
+        "end": 21.44
+      },
+      {
+        "word": "that",
+        "start_offset": 268,
+        "end_offset": 272,
+        "start": 21.44,
+        "end": 21.76
+      },
+      {
+        "word": "an",
+        "start_offset": 291,
+        "end_offset": 295,
+        "start": 23.28,
+        "end": 23.6
+      },
+      {
+        "word": "entity",
+        "start_offset": 295,
+        "end_offset": 302,
+        "start": 23.6,
+        "end": 24.16
+      },
+      {
+        "word": "could",
+        "start_offset": 302,
+        "end_offset": 306,
+        "start": 24.16,
+        "end": 24.48
+      },
+      {
+        "word": "program",
+        "start_offset": 306,
+        "end_offset": 310,
+        "start": 24.48,
+        "end": 24.8
+      },
+      {
+        "word": "something",
+        "start_offset": 312,
+        "end_offset": 319,
+        "start": 24.96,
+        "end": 25.52
+      },
+      {
+        "word": "that",
+        "start_offset": 319,
+        "end_offset": 323,
+        "start": 25.52,
+        "end": 25.84
+      },
+      {
+        "word": "would",
+        "start_offset": 323,
+        "end_offset": 327,
+        "start": 25.84,
+        "end": 26.16
+      },
+      {
+        "word": "uh",
+        "start_offset": 327,
+        "end_offset": 331,
+        "start": 26.16,
+        "end": 26.48
+      },
+      {
+        "word": "give",
+        "start_offset": 343,
+        "end_offset": 351,
+        "start": 27.44,
+        "end": 28.080000000000002
+      },
+      {
+        "word": "it",
+        "start_offset": 351,
+        "end_offset": 355,
+        "start": 28.080000000000002,
+        "end": 28.400000000000002
+      },
+      {
+        "word": "the",
+        "start_offset": 363,
+        "end_offset": 367,
+        "start": 29.04,
+        "end": 29.36
+      },
+      {
+        "word": "experience",
+        "start_offset": 367,
+        "end_offset": 377,
+        "start": 29.36,
+        "end": 30.16
+      },
+      {
+        "word": "of",
+        "start_offset": 377,
+        "end_offset": 380,
+        "start": 30.16,
+        "end": 30.400000000000002
+      },
+      {
+        "word": "physical",
+        "start_offset": 380,
+        "end_offset": 387,
+        "start": 30.400000000000002,
+        "end": 30.96
+      },
+      {
+        "word": "pain",
+        "start_offset": 387,
+        "end_offset": 392,
+        "start": 30.96,
+        "end": 31.36
+      },
+      {
+        "word": "if",
+        "start_offset": 392,
+        "end_offset": 396,
+        "start": 31.36,
+        "end": 31.68
+      },
+      {
+        "word": "it",
+        "start_offset": 396,
+        "end_offset": 400,
+        "start": 31.68,
+        "end": 32.0
+      },
+      {
+        "word": "did",
+        "start_offset": 404,
+        "end_offset": 408,
+        "start": 32.32,
+        "end": 32.64
+      },
+      {
+        "word": "not",
+        "start_offset": 412,
+        "end_offset": 416,
+        "start": 32.96,
+        "end": 33.28
+      },
+      {
+        "word": "follow",
+        "start_offset": 428,
+        "end_offset": 439,
+        "start": 34.24,
+        "end": 35.12
+      },
+      {
+        "word": "the",
+        "start_offset": 439,
+        "end_offset": 443,
+        "start": 35.12,
+        "end": 35.44
+      },
+      {
+        "word": "path",
+        "start_offset": 455,
+        "end_offset": 462,
+        "start": 36.4,
+        "end": 36.96
+      },
+      {
+        "word": "that",
+        "start_offset": 462,
+        "end_offset": 464,
+        "start": 36.96,
+        "end": 37.12
+      },
+      {
+        "word": "it",
+        "start_offset": 464,
+        "end_offset": 467,
+        "start": 37.12,
+        "end": 37.36
+      },
+      {
+        "word": "had",
+        "start_offset": 467,
+        "end_offset": 470,
+        "start": 37.36,
+        "end": 37.6
+      },
+      {
+        "word": "selected.",
+        "start_offset": 470,
+        "end_offset": 476,
+        "start": 37.6,
+        "end": 38.08
+      },
+      {
+        "word": "Is",
+        "start_offset": 477,
+        "end_offset": 479,
+        "start": 38.160000000000004,
+        "end": 38.32
+      },
+      {
+        "word": "this",
+        "start_offset": 479,
+        "end_offset": 482,
+        "start": 38.32,
+        "end": 38.56
+      },
+      {
+        "word": "correct?",
+        "start_offset": 482,
+        "end_offset": 493,
+        "start": 38.56,
+        "end": 39.44
+      },
+      {
+        "word": "I",
+        "start_offset": 564,
+        "end_offset": 568,
+        "start": 45.12,
+        "end": 45.44
+      },
+      {
+        "word": "am",
+        "start_offset": 580,
+        "end_offset": 584,
+        "start": 46.4,
+        "end": 46.72
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 595,
+        "end_offset": 605,
+        "start": 47.6,
+        "end": 48.4
+      },
+      {
+        "word": "Please",
+        "start_offset": 618,
+        "end_offset": 630,
+        "start": 49.44,
+        "end": 50.4
+      },
+      {
+        "word": "restate",
+        "start_offset": 638,
+        "end_offset": 653,
+        "start": 51.04,
+        "end": 52.24
+      },
+      {
+        "word": "query.",
+        "start_offset": 668,
+        "end_offset": 676,
+        "start": 53.44,
+        "end": 54.08
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "054-20.mp3",
+    "audio_duration": 55.04,
+    "transcription_time": 0.12,
+    "rtfx": 459.33,
+    "timestamp": "2026-01-06T21:52:26.476163+00:00"
+  }
+}

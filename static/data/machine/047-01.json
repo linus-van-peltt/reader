@@ -1,0 +1,184 @@
+{
+  "text": "Could you first give us an indication of the condition of the instrument? I am right. It is as previously stated.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you first give us an indication of the condition of the instrument?",
+        "start_offset": 7,
+        "end_offset": 70,
+        "start": 0.56,
+        "end": 5.6000000000000005
+      },
+      {
+        "segment": "I am right.",
+        "start_offset": 163,
+        "end_offset": 198,
+        "start": 13.040000000000001,
+        "end": 15.84
+      },
+      {
+        "segment": "It is as previously stated.",
+        "start_offset": 222,
+        "end_offset": 308,
+        "start": 17.76,
+        "end": 24.64
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 7,
+        "end_offset": 15,
+        "start": 0.56,
+        "end": 1.2
+      },
+      {
+        "word": "you",
+        "start_offset": 15,
+        "end_offset": 19,
+        "start": 1.2,
+        "end": 1.52
+      },
+      {
+        "word": "first",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 1.52,
+        "end": 1.84
+      },
+      {
+        "word": "give",
+        "start_offset": 23,
+        "end_offset": 29,
+        "start": 1.84,
+        "end": 2.32
+      },
+      {
+        "word": "us",
+        "start_offset": 29,
+        "end_offset": 32,
+        "start": 2.32,
+        "end": 2.56
+      },
+      {
+        "word": "an",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 2.56,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "indication",
+        "start_offset": 35,
+        "end_offset": 44,
+        "start": 2.8000000000000003,
+        "end": 3.52
+      },
+      {
+        "word": "of",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 3.52,
+        "end": 3.68
+      },
+      {
+        "word": "the",
+        "start_offset": 46,
+        "end_offset": 49,
+        "start": 3.68,
+        "end": 3.92
+      },
+      {
+        "word": "condition",
+        "start_offset": 49,
+        "end_offset": 54,
+        "start": 3.92,
+        "end": 4.32
+      },
+      {
+        "word": "of",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 4.32,
+        "end": 4.48
+      },
+      {
+        "word": "the",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 4.48,
+        "end": 4.8
+      },
+      {
+        "word": "instrument?",
+        "start_offset": 60,
+        "end_offset": 70,
+        "start": 4.8,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "I",
+        "start_offset": 163,
+        "end_offset": 167,
+        "start": 13.040000000000001,
+        "end": 13.36
+      },
+      {
+        "word": "am",
+        "start_offset": 179,
+        "end_offset": 183,
+        "start": 14.32,
+        "end": 14.64
+      },
+      {
+        "word": "right.",
+        "start_offset": 194,
+        "end_offset": 198,
+        "start": 15.52,
+        "end": 15.84
+      },
+      {
+        "word": "It",
+        "start_offset": 222,
+        "end_offset": 226,
+        "start": 17.76,
+        "end": 18.080000000000002
+      },
+      {
+        "word": "is",
+        "start_offset": 230,
+        "end_offset": 234,
+        "start": 18.400000000000002,
+        "end": 18.72
+      },
+      {
+        "word": "as",
+        "start_offset": 250,
+        "end_offset": 254,
+        "start": 20.0,
+        "end": 20.32
+      },
+      {
+        "word": "previously",
+        "start_offset": 270,
+        "end_offset": 288,
+        "start": 21.6,
+        "end": 23.04
+      },
+      {
+        "word": "stated.",
+        "start_offset": 296,
+        "end_offset": 308,
+        "start": 23.68,
+        "end": 24.64
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "047-01.mp3",
+    "audio_duration": 30.04,
+    "transcription_time": 0.09,
+    "rtfx": 327.89,
+    "timestamp": "2026-01-06T21:51:31.111728+00:00"
+  }
+}

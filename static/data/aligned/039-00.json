@@ -1,0 +1,196 @@
+{
+  "text": "I am Ra. I greet you in the love and in the light of the Infinite Creator. I communicate now.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I am Ra.",
+        "start_offset": 0,
+        "end_offset": 8,
+        "start": 1.301,
+        "end": 1.461
+      },
+      {
+        "segment": "I greet you in the love and in the light of the Infinite Creator.",
+        "start_offset": 9,
+        "end_offset": 74,
+        "start": 1.601,
+        "end": 13.546
+      },
+      {
+        "segment": "I communicate now.",
+        "start_offset": 75,
+        "end_offset": 93,
+        "start": 20.369,
+        "end": 23.471
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 1.301,
+        "end": 1.321,
+        "score": -6.9106
+      },
+      {
+        "word": "am",
+        "start_offset": 2,
+        "end_offset": 4,
+        "start": 1.341,
+        "end": 1.401,
+        "score": -7.3619
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 1.421,
+        "end": 1.461,
+        "score": -6.5453
+      },
+      {
+        "word": "I",
+        "start_offset": 9,
+        "end_offset": 10,
+        "start": 1.601,
+        "end": 1.621,
+        "score": -5.623
+      },
+      {
+        "word": "greet",
+        "start_offset": 11,
+        "end_offset": 16,
+        "start": 1.641,
+        "end": 1.781,
+        "score": -5.8431
+      },
+      {
+        "word": "you",
+        "start_offset": 17,
+        "end_offset": 20,
+        "start": 1.801,
+        "end": 1.861,
+        "score": -5.0726
+      },
+      {
+        "word": "in",
+        "start_offset": 21,
+        "end_offset": 23,
+        "start": 2.041,
+        "end": 2.161,
+        "score": -2.1829
+      },
+      {
+        "word": "the",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 2.221,
+        "end": 2.321,
+        "score": -3.5192
+      },
+      {
+        "word": "love",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 2.541,
+        "end": 2.761,
+        "score": -5.6435
+      },
+      {
+        "word": "and",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 3.181,
+        "end": 3.362,
+        "score": -5.0751
+      },
+      {
+        "word": "in",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 3.762,
+        "end": 4.162,
+        "score": -3.7181
+      },
+      {
+        "word": "the",
+        "start_offset": 40,
+        "end_offset": 43,
+        "start": 4.962,
+        "end": 5.082,
+        "score": -0.8736
+      },
+      {
+        "word": "light",
+        "start_offset": 44,
+        "end_offset": 49,
+        "start": 5.743,
+        "end": 6.183,
+        "score": -1.9572
+      },
+      {
+        "word": "of",
+        "start_offset": 50,
+        "end_offset": 52,
+        "start": 8.104,
+        "end": 8.384,
+        "score": -0.9042
+      },
+      {
+        "word": "the",
+        "start_offset": 53,
+        "end_offset": 56,
+        "start": 8.964,
+        "end": 9.104,
+        "score": -0.7919
+      },
+      {
+        "word": "Infinite",
+        "start_offset": 57,
+        "end_offset": 65,
+        "start": 10.525,
+        "end": 11.525,
+        "score": -0.9627
+      },
+      {
+        "word": "Creator.",
+        "start_offset": 66,
+        "end_offset": 74,
+        "start": 12.746,
+        "end": 13.546,
+        "score": -0.8443
+      },
+      {
+        "word": "I",
+        "start_offset": 75,
+        "end_offset": 76,
+        "start": 20.369,
+        "end": 20.389,
+        "score": -0.7358
+      },
+      {
+        "word": "communicate",
+        "start_offset": 77,
+        "end_offset": 88,
+        "start": 20.509,
+        "end": 21.85,
+        "score": -0.7508
+      },
+      {
+        "word": "now.",
+        "start_offset": 89,
+        "end_offset": 93,
+        "start": 23.171,
+        "end": 23.471,
+        "score": -4.9415
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "039-00.mp3",
+    "audio_duration": 25.0514,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

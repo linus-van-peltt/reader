@@ -1,0 +1,289 @@
+{
+  "text": "Thank you. I was wondering if qualification for contact with RAW might include, the type we're doing now might include penetrating this forgetting process. Is this correct? I am wrong. This is quite correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 8,
+        "end_offset": 20,
+        "start": 0.64,
+        "end": 1.6
+      },
+      {
+        "segment": "I was wondering if qualification for contact with RAW might include, the type we're doing now might include penetrating this forgetting process.",
+        "start_offset": 28,
+        "end_offset": 229,
+        "start": 2.24,
+        "end": 18.32
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 234,
+        "end_offset": 252,
+        "start": 18.72,
+        "end": 20.16
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 312,
+        "end_offset": 343,
+        "start": 24.96,
+        "end": 27.44
+      },
+      {
+        "segment": "This is quite correct.",
+        "start_offset": 366,
+        "end_offset": 424,
+        "start": 29.28,
+        "end": 33.92
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 8,
+        "end_offset": 16,
+        "start": 0.64,
+        "end": 1.28
+      },
+      {
+        "word": "you.",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 1.28,
+        "end": 1.6
+      },
+      {
+        "word": "I",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 2.24,
+        "end": 2.48
+      },
+      {
+        "word": "was",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 2.48,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "wondering",
+        "start_offset": 35,
+        "end_offset": 47,
+        "start": 2.8000000000000003,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "if",
+        "start_offset": 55,
+        "end_offset": 59,
+        "start": 4.4,
+        "end": 4.72
+      },
+      {
+        "word": "qualification",
+        "start_offset": 70,
+        "end_offset": 84,
+        "start": 5.6000000000000005,
+        "end": 6.72
+      },
+      {
+        "word": "for",
+        "start_offset": 84,
+        "end_offset": 87,
+        "start": 6.72,
+        "end": 6.96
+      },
+      {
+        "word": "contact",
+        "start_offset": 87,
+        "end_offset": 95,
+        "start": 6.96,
+        "end": 7.6000000000000005
+      },
+      {
+        "word": "with",
+        "start_offset": 95,
+        "end_offset": 99,
+        "start": 7.6000000000000005,
+        "end": 7.92
+      },
+      {
+        "word": "RAW",
+        "start_offset": 99,
+        "end_offset": 110,
+        "start": 7.92,
+        "end": 8.8
+      },
+      {
+        "word": "might",
+        "start_offset": 126,
+        "end_offset": 132,
+        "start": 10.08,
+        "end": 10.56
+      },
+      {
+        "word": "include,",
+        "start_offset": 132,
+        "end_offset": 140,
+        "start": 10.56,
+        "end": 11.200000000000001
+      },
+      {
+        "word": "the",
+        "start_offset": 150,
+        "end_offset": 152,
+        "start": 12.0,
+        "end": 12.16
+      },
+      {
+        "word": "type",
+        "start_offset": 152,
+        "end_offset": 156,
+        "start": 12.16,
+        "end": 12.48
+      },
+      {
+        "word": "we're",
+        "start_offset": 156,
+        "end_offset": 159,
+        "start": 12.48,
+        "end": 12.72
+      },
+      {
+        "word": "doing",
+        "start_offset": 159,
+        "end_offset": 163,
+        "start": 12.72,
+        "end": 13.040000000000001
+      },
+      {
+        "word": "now",
+        "start_offset": 163,
+        "end_offset": 165,
+        "start": 13.040000000000001,
+        "end": 13.200000000000001
+      },
+      {
+        "word": "might",
+        "start_offset": 168,
+        "end_offset": 173,
+        "start": 13.44,
+        "end": 13.84
+      },
+      {
+        "word": "include",
+        "start_offset": 173,
+        "end_offset": 181,
+        "start": 13.84,
+        "end": 14.48
+      },
+      {
+        "word": "penetrating",
+        "start_offset": 197,
+        "end_offset": 207,
+        "start": 15.76,
+        "end": 16.56
+      },
+      {
+        "word": "this",
+        "start_offset": 207,
+        "end_offset": 210,
+        "start": 16.56,
+        "end": 16.8
+      },
+      {
+        "word": "forgetting",
+        "start_offset": 210,
+        "end_offset": 221,
+        "start": 16.8,
+        "end": 17.68
+      },
+      {
+        "word": "process.",
+        "start_offset": 221,
+        "end_offset": 229,
+        "start": 17.68,
+        "end": 18.32
+      },
+      {
+        "word": "Is",
+        "start_offset": 234,
+        "end_offset": 238,
+        "start": 18.72,
+        "end": 19.04
+      },
+      {
+        "word": "this",
+        "start_offset": 238,
+        "end_offset": 241,
+        "start": 19.04,
+        "end": 19.28
+      },
+      {
+        "word": "correct?",
+        "start_offset": 241,
+        "end_offset": 252,
+        "start": 19.28,
+        "end": 20.16
+      },
+      {
+        "word": "I",
+        "start_offset": 312,
+        "end_offset": 316,
+        "start": 24.96,
+        "end": 25.28
+      },
+      {
+        "word": "am",
+        "start_offset": 324,
+        "end_offset": 328,
+        "start": 25.92,
+        "end": 26.240000000000002
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 336,
+        "end_offset": 343,
+        "start": 26.88,
+        "end": 27.44
+      },
+      {
+        "word": "This",
+        "start_offset": 366,
+        "end_offset": 370,
+        "start": 29.28,
+        "end": 29.6
+      },
+      {
+        "word": "is",
+        "start_offset": 382,
+        "end_offset": 386,
+        "start": 30.560000000000002,
+        "end": 30.88
+      },
+      {
+        "word": "quite",
+        "start_offset": 398,
+        "end_offset": 405,
+        "start": 31.84,
+        "end": 32.4
+      },
+      {
+        "word": "correct.",
+        "start_offset": 415,
+        "end_offset": 424,
+        "start": 33.2,
+        "end": 33.92
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "036-19.mp3",
+    "audio_duration": 35.03,
+    "transcription_time": 0.1,
+    "rtfx": 343.85,
+    "timestamp": "2026-01-06T21:50:23.293957+00:00"
+  }
+}

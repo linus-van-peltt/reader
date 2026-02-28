@@ -1,0 +1,387 @@
+{
+  "text": "A very small number. Then has the next cycle started? Are these the entities then that stayed to work on the planet? I am wrong. These entities were visited by the Confederation and became desirous of remaining in order to aid the planetary consciousness. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "A very small number.",
+        "start_offset": 6,
+        "end_offset": 28,
+        "start": 0.48,
+        "end": 2.24
+      },
+      {
+        "segment": "Then has the next cycle started?",
+        "start_offset": 36,
+        "end_offset": 97,
+        "start": 2.88,
+        "end": 7.76
+      },
+      {
+        "segment": "Are these the entities then that stayed to work on the planet?",
+        "start_offset": 108,
+        "end_offset": 238,
+        "start": 8.64,
+        "end": 19.04
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 292,
+        "end_offset": 325,
+        "start": 23.36,
+        "end": 26.0
+      },
+      {
+        "segment": "These entities were visited by the Confederation and became desirous of remaining in order to aid the planetary consciousness.",
+        "start_offset": 344,
+        "end_offset": 728,
+        "start": 27.52,
+        "end": 58.24
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 744,
+        "end_offset": 788,
+        "start": 59.52,
+        "end": 63.04
+      }
+    ],
+    "word": [
+      {
+        "word": "A",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 0.48,
+        "end": 0.72
+      },
+      {
+        "word": "very",
+        "start_offset": 9,
+        "end_offset": 13,
+        "start": 0.72,
+        "end": 1.04
+      },
+      {
+        "word": "small",
+        "start_offset": 13,
+        "end_offset": 20,
+        "start": 1.04,
+        "end": 1.6
+      },
+      {
+        "word": "number.",
+        "start_offset": 20,
+        "end_offset": 28,
+        "start": 1.6,
+        "end": 2.24
+      },
+      {
+        "word": "Then",
+        "start_offset": 36,
+        "end_offset": 44,
+        "start": 2.88,
+        "end": 3.52
+      },
+      {
+        "word": "has",
+        "start_offset": 60,
+        "end_offset": 64,
+        "start": 4.8,
+        "end": 5.12
+      },
+      {
+        "word": "the",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 5.44,
+        "end": 5.76
+      },
+      {
+        "word": "next",
+        "start_offset": 72,
+        "end_offset": 79,
+        "start": 5.76,
+        "end": 6.32
+      },
+      {
+        "word": "cycle",
+        "start_offset": 79,
+        "end_offset": 89,
+        "start": 6.32,
+        "end": 7.12
+      },
+      {
+        "word": "started?",
+        "start_offset": 89,
+        "end_offset": 97,
+        "start": 7.12,
+        "end": 7.76
+      },
+      {
+        "word": "Are",
+        "start_offset": 108,
+        "end_offset": 113,
+        "start": 8.64,
+        "end": 9.040000000000001
+      },
+      {
+        "word": "these",
+        "start_offset": 113,
+        "end_offset": 116,
+        "start": 9.040000000000001,
+        "end": 9.28
+      },
+      {
+        "word": "the",
+        "start_offset": 116,
+        "end_offset": 118,
+        "start": 9.28,
+        "end": 9.44
+      },
+      {
+        "word": "entities",
+        "start_offset": 118,
+        "end_offset": 124,
+        "start": 9.44,
+        "end": 9.92
+      },
+      {
+        "word": "then",
+        "start_offset": 124,
+        "end_offset": 127,
+        "start": 9.92,
+        "end": 10.16
+      },
+      {
+        "word": "that",
+        "start_offset": 127,
+        "end_offset": 131,
+        "start": 10.16,
+        "end": 10.48
+      },
+      {
+        "word": "stayed",
+        "start_offset": 131,
+        "end_offset": 142,
+        "start": 10.48,
+        "end": 11.36
+      },
+      {
+        "word": "to",
+        "start_offset": 174,
+        "end_offset": 178,
+        "start": 13.92,
+        "end": 14.24
+      },
+      {
+        "word": "work",
+        "start_offset": 194,
+        "end_offset": 198,
+        "start": 15.52,
+        "end": 15.84
+      },
+      {
+        "word": "on",
+        "start_offset": 222,
+        "end_offset": 226,
+        "start": 17.76,
+        "end": 18.080000000000002
+      },
+      {
+        "word": "the",
+        "start_offset": 226,
+        "end_offset": 230,
+        "start": 18.080000000000002,
+        "end": 18.400000000000002
+      },
+      {
+        "word": "planet?",
+        "start_offset": 230,
+        "end_offset": 238,
+        "start": 18.400000000000002,
+        "end": 19.04
+      },
+      {
+        "word": "I",
+        "start_offset": 292,
+        "end_offset": 296,
+        "start": 23.36,
+        "end": 23.68
+      },
+      {
+        "word": "am",
+        "start_offset": 304,
+        "end_offset": 308,
+        "start": 24.32,
+        "end": 24.64
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 316,
+        "end_offset": 325,
+        "start": 25.28,
+        "end": 26.0
+      },
+      {
+        "word": "These",
+        "start_offset": 344,
+        "end_offset": 352,
+        "start": 27.52,
+        "end": 28.16
+      },
+      {
+        "word": "entities",
+        "start_offset": 360,
+        "end_offset": 376,
+        "start": 28.8,
+        "end": 30.080000000000002
+      },
+      {
+        "word": "were",
+        "start_offset": 396,
+        "end_offset": 400,
+        "start": 31.68,
+        "end": 32.0
+      },
+      {
+        "word": "visited",
+        "start_offset": 415,
+        "end_offset": 427,
+        "start": 33.2,
+        "end": 34.160000000000004
+      },
+      {
+        "word": "by",
+        "start_offset": 443,
+        "end_offset": 447,
+        "start": 35.44,
+        "end": 35.76
+      },
+      {
+        "word": "the",
+        "start_offset": 455,
+        "end_offset": 459,
+        "start": 36.4,
+        "end": 36.72
+      },
+      {
+        "word": "Confederation",
+        "start_offset": 463,
+        "end_offset": 486,
+        "start": 37.04,
+        "end": 38.88
+      },
+      {
+        "word": "and",
+        "start_offset": 513,
+        "end_offset": 517,
+        "start": 41.04,
+        "end": 41.36
+      },
+      {
+        "word": "became",
+        "start_offset": 521,
+        "end_offset": 533,
+        "start": 41.68,
+        "end": 42.64
+      },
+      {
+        "word": "desirous",
+        "start_offset": 549,
+        "end_offset": 565,
+        "start": 43.92,
+        "end": 45.2
+      },
+      {
+        "word": "of",
+        "start_offset": 581,
+        "end_offset": 585,
+        "start": 46.480000000000004,
+        "end": 46.800000000000004
+      },
+      {
+        "word": "remaining",
+        "start_offset": 589,
+        "end_offset": 605,
+        "start": 47.12,
+        "end": 48.4
+      },
+      {
+        "word": "in",
+        "start_offset": 621,
+        "end_offset": 625,
+        "start": 49.68,
+        "end": 50.0
+      },
+      {
+        "word": "order",
+        "start_offset": 629,
+        "end_offset": 637,
+        "start": 50.32,
+        "end": 50.96
+      },
+      {
+        "word": "to",
+        "start_offset": 645,
+        "end_offset": 649,
+        "start": 51.6,
+        "end": 51.92
+      },
+      {
+        "word": "aid",
+        "start_offset": 657,
+        "end_offset": 665,
+        "start": 52.56,
+        "end": 53.2
+      },
+      {
+        "word": "the",
+        "start_offset": 673,
+        "end_offset": 677,
+        "start": 53.84,
+        "end": 54.160000000000004
+      },
+      {
+        "word": "planetary",
+        "start_offset": 681,
+        "end_offset": 696,
+        "start": 54.480000000000004,
+        "end": 55.68
+      },
+      {
+        "word": "consciousness.",
+        "start_offset": 712,
+        "end_offset": 728,
+        "start": 56.96,
+        "end": 58.24
+      },
+      {
+        "word": "This",
+        "start_offset": 744,
+        "end_offset": 748,
+        "start": 59.52,
+        "end": 59.84
+      },
+      {
+        "word": "is",
+        "start_offset": 760,
+        "end_offset": 764,
+        "start": 60.800000000000004,
+        "end": 61.120000000000005
+      },
+      {
+        "word": "correct.",
+        "start_offset": 776,
+        "end_offset": 788,
+        "start": 62.08,
+        "end": 63.04
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "022-11.mp3",
+    "audio_duration": 64.03,
+    "transcription_time": 0.13,
+    "rtfx": 501.75,
+    "timestamp": "2026-01-06T21:48:35.118169+00:00"
+  }
+}

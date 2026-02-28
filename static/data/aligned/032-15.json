@@ -1,0 +1,148 @@
+{
+  "text": "Thank you. I am Ra. Do you have any brief queries before we close?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 0,
+        "end_offset": 10,
+        "start": 2.141,
+        "end": 15.544
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 11,
+        "end_offset": 19,
+        "start": 15.744,
+        "end": 17.264
+      },
+      {
+        "segment": "Do you have any brief queries before we close?",
+        "start_offset": 20,
+        "end_offset": 66,
+        "start": 18.665,
+        "end": 28.027
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.141,
+        "end": 2.361,
+        "score": -6.6823
+      },
+      {
+        "word": "you.",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 2.381,
+        "end": 15.544,
+        "score": -9.9153
+      },
+      {
+        "word": "I",
+        "start_offset": 11,
+        "end_offset": 12,
+        "start": 15.744,
+        "end": 15.764,
+        "score": -0.8122
+      },
+      {
+        "word": "am",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 16.304,
+        "end": 16.644,
+        "score": -0.8117
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 17.144,
+        "end": 17.264,
+        "score": -0.8373
+      },
+      {
+        "word": "Do",
+        "start_offset": 20,
+        "end_offset": 22,
+        "start": 18.665,
+        "end": 18.765,
+        "score": -0.7437
+      },
+      {
+        "word": "you",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 19.125,
+        "end": 19.265,
+        "score": -0.7589
+      },
+      {
+        "word": "have",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 19.845,
+        "end": 20.445,
+        "score": -1.0283
+      },
+      {
+        "word": "any",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 21.885,
+        "end": 22.146,
+        "score": -0.7685
+      },
+      {
+        "word": "brief",
+        "start_offset": 36,
+        "end_offset": 41,
+        "start": 22.946,
+        "end": 23.406,
+        "score": -0.7124
+      },
+      {
+        "word": "queries",
+        "start_offset": 42,
+        "end_offset": 49,
+        "start": 23.866,
+        "end": 24.686,
+        "score": -2.3603
+      },
+      {
+        "word": "before",
+        "start_offset": 50,
+        "end_offset": 56,
+        "start": 25.606,
+        "end": 26.267,
+        "score": -0.7864
+      },
+      {
+        "word": "we",
+        "start_offset": 57,
+        "end_offset": 59,
+        "start": 26.627,
+        "end": 26.767,
+        "score": -0.8108
+      },
+      {
+        "word": "close?",
+        "start_offset": 60,
+        "end_offset": 66,
+        "start": 27.367,
+        "end": 28.027,
+        "score": -1.0016
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "032-15.mp3",
+    "audio_duration": 36.049,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

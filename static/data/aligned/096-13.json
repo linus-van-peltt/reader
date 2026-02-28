@@ -1,0 +1,666 @@
+{
+  "text": "I was afraid that you would say that. Am I correct in assuming that this is the same type of communication as depicted in Card Number Three in the Catalyst of the Mind? I am Ra. We may not comment due to the Law of Confusion. There is an acceptable degree of confirmation of items known, but when the recognized subjective sigil is waived and the message not clear, then it is that we must remain silent.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I was afraid that you would say that.",
+        "start_offset": 0,
+        "end_offset": 37,
+        "start": 1.36,
+        "end": 4.56
+      },
+      {
+        "segment": "Am I correct in assuming that this is the same type of communication as depicted in Card Number Three in the Catalyst of the Mind?",
+        "start_offset": 38,
+        "end_offset": 168,
+        "start": 4.58,
+        "end": 21.202
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 169,
+        "end_offset": 177,
+        "start": 31.263,
+        "end": 33.503
+      },
+      {
+        "segment": "We may not comment due to the Law of Confusion.",
+        "start_offset": 178,
+        "end_offset": 225,
+        "start": 36.783,
+        "end": 51.464
+      },
+      {
+        "segment": "There is an acceptable degree of confirmation of items known, but when the recognized subjective sigil is waived and the message not clear, then it is that we must remain silent.",
+        "start_offset": 226,
+        "end_offset": 404,
+        "start": 55.045,
+        "end": 122.97
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 1.36,
+        "end": 1.38,
+        "score": -9.3243
+      },
+      {
+        "word": "was",
+        "start_offset": 2,
+        "end_offset": 5,
+        "start": 1.42,
+        "end": 1.5,
+        "score": -8.3145
+      },
+      {
+        "word": "afraid",
+        "start_offset": 6,
+        "end_offset": 12,
+        "start": 1.54,
+        "end": 1.72,
+        "score": -7.9897
+      },
+      {
+        "word": "that",
+        "start_offset": 13,
+        "end_offset": 17,
+        "start": 1.74,
+        "end": 1.92,
+        "score": -7.2842
+      },
+      {
+        "word": "you",
+        "start_offset": 18,
+        "end_offset": 21,
+        "start": 1.94,
+        "end": 2.0,
+        "score": -8.0594
+      },
+      {
+        "word": "would",
+        "start_offset": 22,
+        "end_offset": 27,
+        "start": 2.02,
+        "end": 2.12,
+        "score": -8.7082
+      },
+      {
+        "word": "say",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 2.14,
+        "end": 2.28,
+        "score": -8.2797
+      },
+      {
+        "word": "that.",
+        "start_offset": 32,
+        "end_offset": 37,
+        "start": 4.44,
+        "end": 4.56,
+        "score": -4.8901
+      },
+      {
+        "word": "Am",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 4.58,
+        "end": 4.62,
+        "score": -5.1729
+      },
+      {
+        "word": "I",
+        "start_offset": 41,
+        "end_offset": 42,
+        "start": 4.72,
+        "end": 4.74,
+        "score": -3.5003
+      },
+      {
+        "word": "correct",
+        "start_offset": 43,
+        "end_offset": 50,
+        "start": 4.94,
+        "end": 5.32,
+        "score": -1.5666
+      },
+      {
+        "word": "in",
+        "start_offset": 51,
+        "end_offset": 53,
+        "start": 5.36,
+        "end": 5.42,
+        "score": -1.9866
+      },
+      {
+        "word": "assuming",
+        "start_offset": 54,
+        "end_offset": 62,
+        "start": 5.48,
+        "end": 5.9,
+        "score": -1.349
+      },
+      {
+        "word": "that",
+        "start_offset": 63,
+        "end_offset": 67,
+        "start": 5.94,
+        "end": 6.08,
+        "score": -2.7967
+      },
+      {
+        "word": "this",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 6.981,
+        "end": 7.241,
+        "score": -2.0833
+      },
+      {
+        "word": "is",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 7.521,
+        "end": 7.741,
+        "score": -2.4754
+      },
+      {
+        "word": "the",
+        "start_offset": 76,
+        "end_offset": 79,
+        "start": 10.941,
+        "end": 11.021,
+        "score": -1.8043
+      },
+      {
+        "word": "same",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 11.121,
+        "end": 11.401,
+        "score": -1.4212
+      },
+      {
+        "word": "type",
+        "start_offset": 85,
+        "end_offset": 89,
+        "start": 11.481,
+        "end": 11.801,
+        "score": -1.6716
+      },
+      {
+        "word": "of",
+        "start_offset": 90,
+        "end_offset": 92,
+        "start": 11.921,
+        "end": 12.081,
+        "score": -1.9982
+      },
+      {
+        "word": "communication",
+        "start_offset": 93,
+        "end_offset": 106,
+        "start": 15.501,
+        "end": 16.381,
+        "score": -2.0765
+      },
+      {
+        "word": "as",
+        "start_offset": 107,
+        "end_offset": 109,
+        "start": 16.561,
+        "end": 16.841,
+        "score": -1.8441
+      },
+      {
+        "word": "depicted",
+        "start_offset": 110,
+        "end_offset": 118,
+        "start": 18.041,
+        "end": 18.582,
+        "score": -1.7521
+      },
+      {
+        "word": "in",
+        "start_offset": 119,
+        "end_offset": 121,
+        "start": 18.642,
+        "end": 18.722,
+        "score": -1.5514
+      },
+      {
+        "word": "Card",
+        "start_offset": 122,
+        "end_offset": 126,
+        "start": 18.822,
+        "end": 19.102,
+        "score": -1.5205
+      },
+      {
+        "word": "Number",
+        "start_offset": 127,
+        "end_offset": 133,
+        "start": 19.162,
+        "end": 19.422,
+        "score": -2.3877
+      },
+      {
+        "word": "Three",
+        "start_offset": 134,
+        "end_offset": 139,
+        "start": 19.522,
+        "end": 19.862,
+        "score": -5.6064
+      },
+      {
+        "word": "in",
+        "start_offset": 140,
+        "end_offset": 142,
+        "start": 20.082,
+        "end": 20.142,
+        "score": -1.6518
+      },
+      {
+        "word": "the",
+        "start_offset": 143,
+        "end_offset": 146,
+        "start": 20.162,
+        "end": 20.242,
+        "score": -2.1432
+      },
+      {
+        "word": "Catalyst",
+        "start_offset": 147,
+        "end_offset": 155,
+        "start": 20.282,
+        "end": 20.722,
+        "score": -3.3375
+      },
+      {
+        "word": "of",
+        "start_offset": 156,
+        "end_offset": 158,
+        "start": 20.742,
+        "end": 20.782,
+        "score": -5.9383
+      },
+      {
+        "word": "the",
+        "start_offset": 159,
+        "end_offset": 162,
+        "start": 20.802,
+        "end": 20.862,
+        "score": -2.8104
+      },
+      {
+        "word": "Mind?",
+        "start_offset": 163,
+        "end_offset": 168,
+        "start": 20.922,
+        "end": 21.202,
+        "score": -3.6871
+      },
+      {
+        "word": "I",
+        "start_offset": 169,
+        "end_offset": 170,
+        "start": 31.263,
+        "end": 31.283,
+        "score": -1.2969
+      },
+      {
+        "word": "am",
+        "start_offset": 171,
+        "end_offset": 173,
+        "start": 31.903,
+        "end": 33.363,
+        "score": -2.7618
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 174,
+        "end_offset": 177,
+        "start": 33.423,
+        "end": 33.503,
+        "score": -3.4889
+      },
+      {
+        "word": "We",
+        "start_offset": 178,
+        "end_offset": 180,
+        "start": 36.783,
+        "end": 36.903,
+        "score": -2.4474
+      },
+      {
+        "word": "may",
+        "start_offset": 181,
+        "end_offset": 184,
+        "start": 38.103,
+        "end": 38.403,
+        "score": -0.7376
+      },
+      {
+        "word": "not",
+        "start_offset": 185,
+        "end_offset": 188,
+        "start": 39.203,
+        "end": 39.543,
+        "score": -0.901
+      },
+      {
+        "word": "comment",
+        "start_offset": 189,
+        "end_offset": 196,
+        "start": 43.364,
+        "end": 44.024,
+        "score": -1.5347
+      },
+      {
+        "word": "due",
+        "start_offset": 197,
+        "end_offset": 200,
+        "start": 44.784,
+        "end": 45.084,
+        "score": -1.3624
+      },
+      {
+        "word": "to",
+        "start_offset": 201,
+        "end_offset": 203,
+        "start": 45.544,
+        "end": 45.704,
+        "score": -0.746
+      },
+      {
+        "word": "the",
+        "start_offset": 204,
+        "end_offset": 207,
+        "start": 46.424,
+        "end": 46.564,
+        "score": -0.8049
+      },
+      {
+        "word": "Law",
+        "start_offset": 208,
+        "end_offset": 211,
+        "start": 47.844,
+        "end": 48.124,
+        "score": -0.8344
+      },
+      {
+        "word": "of",
+        "start_offset": 212,
+        "end_offset": 214,
+        "start": 49.324,
+        "end": 49.544,
+        "score": -0.766
+      },
+      {
+        "word": "Confusion.",
+        "start_offset": 215,
+        "end_offset": 225,
+        "start": 50.584,
+        "end": 51.464,
+        "score": -0.7337
+      },
+      {
+        "word": "There",
+        "start_offset": 226,
+        "end_offset": 231,
+        "start": 55.045,
+        "end": 55.365,
+        "score": -0.8812
+      },
+      {
+        "word": "is",
+        "start_offset": 232,
+        "end_offset": 234,
+        "start": 57.085,
+        "end": 57.385,
+        "score": -0.9018
+      },
+      {
+        "word": "an",
+        "start_offset": 235,
+        "end_offset": 237,
+        "start": 58.705,
+        "end": 58.945,
+        "score": -1.0205
+      },
+      {
+        "word": "acceptable",
+        "start_offset": 238,
+        "end_offset": 248,
+        "start": 59.785,
+        "end": 61.025,
+        "score": -0.7305
+      },
+      {
+        "word": "degree",
+        "start_offset": 249,
+        "end_offset": 255,
+        "start": 62.965,
+        "end": 63.605,
+        "score": -0.7436
+      },
+      {
+        "word": "of",
+        "start_offset": 256,
+        "end_offset": 258,
+        "start": 64.925,
+        "end": 65.205,
+        "score": -1.0911
+      },
+      {
+        "word": "confirmation",
+        "start_offset": 259,
+        "end_offset": 271,
+        "start": 66.365,
+        "end": 67.946,
+        "score": -0.7396
+      },
+      {
+        "word": "of",
+        "start_offset": 272,
+        "end_offset": 274,
+        "start": 68.326,
+        "end": 68.546,
+        "score": -0.8071
+      },
+      {
+        "word": "items",
+        "start_offset": 275,
+        "end_offset": 280,
+        "start": 72.386,
+        "end": 72.866,
+        "score": -0.7707
+      },
+      {
+        "word": "known,",
+        "start_offset": 281,
+        "end_offset": 287,
+        "start": 75.926,
+        "end": 76.286,
+        "score": -0.8878
+      },
+      {
+        "word": "but",
+        "start_offset": 288,
+        "end_offset": 291,
+        "start": 77.526,
+        "end": 77.846,
+        "score": -2.1117
+      },
+      {
+        "word": "when",
+        "start_offset": 292,
+        "end_offset": 296,
+        "start": 79.747,
+        "end": 80.127,
+        "score": -1.291
+      },
+      {
+        "word": "the",
+        "start_offset": 297,
+        "end_offset": 300,
+        "start": 82.367,
+        "end": 82.507,
+        "score": -0.8311
+      },
+      {
+        "word": "recognized",
+        "start_offset": 301,
+        "end_offset": 311,
+        "start": 84.087,
+        "end": 85.527,
+        "score": -0.7293
+      },
+      {
+        "word": "subjective",
+        "start_offset": 312,
+        "end_offset": 322,
+        "start": 85.607,
+        "end": 86.967,
+        "score": -0.7755
+      },
+      {
+        "word": "sigil",
+        "start_offset": 323,
+        "end_offset": 328,
+        "start": 90.487,
+        "end": 90.967,
+        "score": -1.1203
+      },
+      {
+        "word": "is",
+        "start_offset": 329,
+        "end_offset": 331,
+        "start": 92.008,
+        "end": 92.248,
+        "score": -0.9773
+      },
+      {
+        "word": "waived",
+        "start_offset": 332,
+        "end_offset": 338,
+        "start": 94.488,
+        "end": 94.968,
+        "score": -1.1464
+      },
+      {
+        "word": "and",
+        "start_offset": 339,
+        "end_offset": 342,
+        "start": 97.488,
+        "end": 97.748,
+        "score": -0.7892
+      },
+      {
+        "word": "the",
+        "start_offset": 343,
+        "end_offset": 346,
+        "start": 98.508,
+        "end": 98.648,
+        "score": -0.9474
+      },
+      {
+        "word": "message",
+        "start_offset": 347,
+        "end_offset": 354,
+        "start": 100.648,
+        "end": 101.608,
+        "score": -1.052
+      },
+      {
+        "word": "not",
+        "start_offset": 355,
+        "end_offset": 358,
+        "start": 106.769,
+        "end": 107.069,
+        "score": -0.7469
+      },
+      {
+        "word": "clear,",
+        "start_offset": 359,
+        "end_offset": 365,
+        "start": 108.429,
+        "end": 108.829,
+        "score": -0.7322
+      },
+      {
+        "word": "then",
+        "start_offset": 366,
+        "end_offset": 370,
+        "start": 112.329,
+        "end": 112.649,
+        "score": -0.8176
+      },
+      {
+        "word": "it",
+        "start_offset": 371,
+        "end_offset": 373,
+        "start": 114.029,
+        "end": 114.149,
+        "score": -6.5014
+      },
+      {
+        "word": "is",
+        "start_offset": 374,
+        "end_offset": 376,
+        "start": 114.349,
+        "end": 114.609,
+        "score": -5.7915
+      },
+      {
+        "word": "that",
+        "start_offset": 377,
+        "end_offset": 381,
+        "start": 114.969,
+        "end": 115.249,
+        "score": -0.815
+      },
+      {
+        "word": "we",
+        "start_offset": 382,
+        "end_offset": 384,
+        "start": 116.13,
+        "end": 116.29,
+        "score": -2.8356
+      },
+      {
+        "word": "must",
+        "start_offset": 385,
+        "end_offset": 389,
+        "start": 117.93,
+        "end": 118.37,
+        "score": -1.1563
+      },
+      {
+        "word": "remain",
+        "start_offset": 390,
+        "end_offset": 396,
+        "start": 119.37,
+        "end": 119.93,
+        "score": -0.7138
+      },
+      {
+        "word": "silent.",
+        "start_offset": 397,
+        "end_offset": 404,
+        "start": 122.33,
+        "end": 122.97,
+        "score": -0.8193
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "096-13.mp3",
+    "audio_duration": 145.0319,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

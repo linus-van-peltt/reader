@@ -1,0 +1,78 @@
+{
+  "text": "Is there another query at this time?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there another query at this time?",
+        "start_offset": 0,
+        "end_offset": 36,
+        "start": 8.631,
+        "end": 14.378
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 8.631,
+        "end": 8.791,
+        "score": -2.1233
+      },
+      {
+        "word": "there",
+        "start_offset": 3,
+        "end_offset": 8,
+        "start": 8.871,
+        "end": 9.151,
+        "score": -3.1619
+      },
+      {
+        "word": "another",
+        "start_offset": 9,
+        "end_offset": 16,
+        "start": 10.813,
+        "end": 11.254,
+        "score": -3.7264
+      },
+      {
+        "word": "query",
+        "start_offset": 17,
+        "end_offset": 22,
+        "start": 12.035,
+        "end": 12.215,
+        "score": -3.4746
+      },
+      {
+        "word": "at",
+        "start_offset": 23,
+        "end_offset": 25,
+        "start": 13.737,
+        "end": 13.837,
+        "score": -3.4184
+      },
+      {
+        "word": "this",
+        "start_offset": 26,
+        "end_offset": 30,
+        "start": 13.877,
+        "end": 14.057,
+        "score": -2.7235
+      },
+      {
+        "word": "time?",
+        "start_offset": 31,
+        "end_offset": 36,
+        "start": 14.117,
+        "end": 14.378,
+        "score": -3.6948
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "001-08.mp3",
+    "audio_duration": 19.0433,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

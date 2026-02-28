@@ -1,0 +1,252 @@
+{
+  "text": "Could you please give me an indication of the condition of the instrument? I am Ra. We are gratified to say that it is as previously stated.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you please give me an indication of the condition of the instrument?",
+        "start_offset": 0,
+        "end_offset": 74,
+        "start": 1.781,
+        "end": 6.324
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 75,
+        "end_offset": 83,
+        "start": 12.347,
+        "end": 14.949
+      },
+      {
+        "segment": "We are gratified to say that it is as previously stated.",
+        "start_offset": 84,
+        "end_offset": 140,
+        "start": 16.95,
+        "end": 34.02
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 1.781,
+        "end": 1.981,
+        "score": -7.3123
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 2.001,
+        "end": 2.081,
+        "score": -8.0001
+      },
+      {
+        "word": "please",
+        "start_offset": 10,
+        "end_offset": 16,
+        "start": 2.321,
+        "end": 2.481,
+        "score": -6.3852
+      },
+      {
+        "word": "give",
+        "start_offset": 17,
+        "end_offset": 21,
+        "start": 2.582,
+        "end": 2.682,
+        "score": -7.5504
+      },
+      {
+        "word": "me",
+        "start_offset": 22,
+        "end_offset": 24,
+        "start": 2.802,
+        "end": 2.902,
+        "score": -4.925
+      },
+      {
+        "word": "an",
+        "start_offset": 25,
+        "end_offset": 27,
+        "start": 3.482,
+        "end": 3.522,
+        "score": -6.9812
+      },
+      {
+        "word": "indication",
+        "start_offset": 28,
+        "end_offset": 38,
+        "start": 3.562,
+        "end": 4.182,
+        "score": -6.4188
+      },
+      {
+        "word": "of",
+        "start_offset": 39,
+        "end_offset": 41,
+        "start": 4.202,
+        "end": 4.242,
+        "score": -10.8915
+      },
+      {
+        "word": "the",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 4.262,
+        "end": 4.343,
+        "score": -7.2495
+      },
+      {
+        "word": "condition",
+        "start_offset": 46,
+        "end_offset": 55,
+        "start": 5.143,
+        "end": 5.563,
+        "score": -5.196
+      },
+      {
+        "word": "of",
+        "start_offset": 56,
+        "end_offset": 58,
+        "start": 5.603,
+        "end": 5.703,
+        "score": -8.5605
+      },
+      {
+        "word": "the",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 5.723,
+        "end": 5.783,
+        "score": -6.1599
+      },
+      {
+        "word": "instrument?",
+        "start_offset": 63,
+        "end_offset": 74,
+        "start": 5.863,
+        "end": 6.324,
+        "score": -4.109
+      },
+      {
+        "word": "I",
+        "start_offset": 75,
+        "end_offset": 76,
+        "start": 12.347,
+        "end": 12.367,
+        "score": -2.5973
+      },
+      {
+        "word": "am",
+        "start_offset": 77,
+        "end_offset": 79,
+        "start": 13.308,
+        "end": 13.668,
+        "score": -3.0948
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 80,
+        "end_offset": 83,
+        "start": 14.869,
+        "end": 14.949,
+        "score": -6.1849
+      },
+      {
+        "word": "We",
+        "start_offset": 84,
+        "end_offset": 86,
+        "start": 16.95,
+        "end": 17.11,
+        "score": -0.9716
+      },
+      {
+        "word": "are",
+        "start_offset": 87,
+        "end_offset": 90,
+        "start": 18.271,
+        "end": 18.571,
+        "score": -1.4095
+      },
+      {
+        "word": "gratified",
+        "start_offset": 91,
+        "end_offset": 100,
+        "start": 20.392,
+        "end": 21.773,
+        "score": -0.9153
+      },
+      {
+        "word": "to",
+        "start_offset": 101,
+        "end_offset": 103,
+        "start": 23.234,
+        "end": 23.534,
+        "score": -1.2748
+      },
+      {
+        "word": "say",
+        "start_offset": 104,
+        "end_offset": 107,
+        "start": 23.994,
+        "end": 24.354,
+        "score": -1.5391
+      },
+      {
+        "word": "that",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 24.734,
+        "end": 25.215,
+        "score": -2.0734
+      },
+      {
+        "word": "it",
+        "start_offset": 113,
+        "end_offset": 115,
+        "start": 26.776,
+        "end": 26.996,
+        "score": -0.7637
+      },
+      {
+        "word": "is",
+        "start_offset": 116,
+        "end_offset": 118,
+        "start": 27.636,
+        "end": 28.016,
+        "score": -0.7441
+      },
+      {
+        "word": "as",
+        "start_offset": 119,
+        "end_offset": 121,
+        "start": 29.497,
+        "end": 29.857,
+        "score": -0.7348
+      },
+      {
+        "word": "previously",
+        "start_offset": 122,
+        "end_offset": 132,
+        "start": 30.738,
+        "end": 31.939,
+        "score": -1.4981
+      },
+      {
+        "word": "stated.",
+        "start_offset": 133,
+        "end_offset": 140,
+        "start": 33.32,
+        "end": 34.02,
+        "score": -1.3191
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "070-01.mp3",
+    "audio_duration": 37.0417,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

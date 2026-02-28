@@ -1,0 +1,442 @@
+{
+  "text": "Is there anything we can do to make the instrument more comfortable? I am Ra. There are small adjustments you may make. However, we are now able to use this instrument with minimal distortion and without depleting the instrument to any significant extent. Do you wish to ask further?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there anything we can do to make the instrument more comfortable?",
+        "start_offset": 0,
+        "end_offset": 68,
+        "start": 2.181,
+        "end": 16.384
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 69,
+        "end_offset": 77,
+        "start": 16.404,
+        "end": 16.584
+      },
+      {
+        "segment": "There are small adjustments you may make.",
+        "start_offset": 78,
+        "end_offset": 119,
+        "start": 18.564,
+        "end": 30.387
+      },
+      {
+        "segment": "However, we are now able to use this instrument with minimal distortion and without depleting the instrument to any significant extent.",
+        "start_offset": 120,
+        "end_offset": 255,
+        "start": 31.588,
+        "end": 69.117
+      },
+      {
+        "segment": "Do you wish to ask further?",
+        "start_offset": 256,
+        "end_offset": 283,
+        "start": 72.657,
+        "end": 79.239
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.181,
+        "end": 2.661,
+        "score": -10.4163
+      },
+      {
+        "word": "there",
+        "start_offset": 3,
+        "end_offset": 8,
+        "start": 2.681,
+        "end": 2.861,
+        "score": -10.1122
+      },
+      {
+        "word": "anything",
+        "start_offset": 9,
+        "end_offset": 17,
+        "start": 2.881,
+        "end": 3.241,
+        "score": -9.2374
+      },
+      {
+        "word": "we",
+        "start_offset": 18,
+        "end_offset": 20,
+        "start": 3.261,
+        "end": 3.321,
+        "score": -8.252
+      },
+      {
+        "word": "can",
+        "start_offset": 21,
+        "end_offset": 24,
+        "start": 3.381,
+        "end": 3.501,
+        "score": -8.7017
+      },
+      {
+        "word": "do",
+        "start_offset": 25,
+        "end_offset": 27,
+        "start": 3.541,
+        "end": 3.721,
+        "score": -9.3836
+      },
+      {
+        "word": "to",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 4.281,
+        "end": 4.361,
+        "score": -9.3245
+      },
+      {
+        "word": "make",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 4.561,
+        "end": 5.101,
+        "score": -7.8917
+      },
+      {
+        "word": "the",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 5.181,
+        "end": 13.083,
+        "score": -7.44
+      },
+      {
+        "word": "instrument",
+        "start_offset": 40,
+        "end_offset": 50,
+        "start": 13.283,
+        "end": 14.784,
+        "score": -7.0328
+      },
+      {
+        "word": "more",
+        "start_offset": 51,
+        "end_offset": 55,
+        "start": 15.844,
+        "end": 16.004,
+        "score": -5.8616
+      },
+      {
+        "word": "comfortable?",
+        "start_offset": 56,
+        "end_offset": 68,
+        "start": 16.044,
+        "end": 16.384,
+        "score": -7.6935
+      },
+      {
+        "word": "I",
+        "start_offset": 69,
+        "end_offset": 70,
+        "start": 16.404,
+        "end": 16.424,
+        "score": -9.0233
+      },
+      {
+        "word": "am",
+        "start_offset": 71,
+        "end_offset": 73,
+        "start": 16.444,
+        "end": 16.484,
+        "score": -9.2744
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 74,
+        "end_offset": 77,
+        "start": 16.544,
+        "end": 16.584,
+        "score": -8.6356
+      },
+      {
+        "word": "There",
+        "start_offset": 78,
+        "end_offset": 83,
+        "start": 18.564,
+        "end": 18.945,
+        "score": -0.7602
+      },
+      {
+        "word": "are",
+        "start_offset": 84,
+        "end_offset": 87,
+        "start": 19.925,
+        "end": 20.185,
+        "score": -0.8598
+      },
+      {
+        "word": "small",
+        "start_offset": 88,
+        "end_offset": 93,
+        "start": 22.045,
+        "end": 22.525,
+        "score": -0.7476
+      },
+      {
+        "word": "adjustments",
+        "start_offset": 94,
+        "end_offset": 105,
+        "start": 23.826,
+        "end": 25.626,
+        "score": -2.0896
+      },
+      {
+        "word": "you",
+        "start_offset": 106,
+        "end_offset": 109,
+        "start": 27.547,
+        "end": 27.687,
+        "score": -0.7515
+      },
+      {
+        "word": "may",
+        "start_offset": 110,
+        "end_offset": 113,
+        "start": 28.607,
+        "end": 28.867,
+        "score": -1.1082
+      },
+      {
+        "word": "make.",
+        "start_offset": 114,
+        "end_offset": 119,
+        "start": 29.927,
+        "end": 30.387,
+        "score": -0.7982
+      },
+      {
+        "word": "However,",
+        "start_offset": 120,
+        "end_offset": 128,
+        "start": 31.588,
+        "end": 33.228,
+        "score": -0.7044
+      },
+      {
+        "word": "we",
+        "start_offset": 129,
+        "end_offset": 131,
+        "start": 34.468,
+        "end": 34.608,
+        "score": -0.7137
+      },
+      {
+        "word": "are",
+        "start_offset": 132,
+        "end_offset": 135,
+        "start": 35.709,
+        "end": 35.969,
+        "score": -0.9501
+      },
+      {
+        "word": "now",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 36.829,
+        "end": 37.249,
+        "score": -0.7206
+      },
+      {
+        "word": "able",
+        "start_offset": 140,
+        "end_offset": 144,
+        "start": 38.289,
+        "end": 38.709,
+        "score": -0.9054
+      },
+      {
+        "word": "to",
+        "start_offset": 145,
+        "end_offset": 147,
+        "start": 39.67,
+        "end": 39.85,
+        "score": -0.7113
+      },
+      {
+        "word": "use",
+        "start_offset": 148,
+        "end_offset": 151,
+        "start": 41.07,
+        "end": 41.51,
+        "score": -0.7334
+      },
+      {
+        "word": "this",
+        "start_offset": 152,
+        "end_offset": 156,
+        "start": 42.23,
+        "end": 42.63,
+        "score": -0.7349
+      },
+      {
+        "word": "instrument",
+        "start_offset": 157,
+        "end_offset": 167,
+        "start": 43.811,
+        "end": 44.851,
+        "score": -0.7024
+      },
+      {
+        "word": "with",
+        "start_offset": 168,
+        "end_offset": 172,
+        "start": 45.951,
+        "end": 46.271,
+        "score": -0.7618
+      },
+      {
+        "word": "minimal",
+        "start_offset": 173,
+        "end_offset": 180,
+        "start": 47.411,
+        "end": 49.132,
+        "score": -1.9796
+      },
+      {
+        "word": "distortion",
+        "start_offset": 181,
+        "end_offset": 191,
+        "start": 50.752,
+        "end": 52.092,
+        "score": -1.4654
+      },
+      {
+        "word": "and",
+        "start_offset": 192,
+        "end_offset": 195,
+        "start": 53.373,
+        "end": 53.633,
+        "score": -0.7441
+      },
+      {
+        "word": "without",
+        "start_offset": 196,
+        "end_offset": 203,
+        "start": 54.593,
+        "end": 55.613,
+        "score": -0.7518
+      },
+      {
+        "word": "depleting",
+        "start_offset": 204,
+        "end_offset": 213,
+        "start": 57.334,
+        "end": 58.394,
+        "score": -1.0361
+      },
+      {
+        "word": "the",
+        "start_offset": 214,
+        "end_offset": 217,
+        "start": 59.054,
+        "end": 59.194,
+        "score": -0.9587
+      },
+      {
+        "word": "instrument",
+        "start_offset": 218,
+        "end_offset": 228,
+        "start": 60.314,
+        "end": 61.375,
+        "score": -0.7029
+      },
+      {
+        "word": "to",
+        "start_offset": 229,
+        "end_offset": 231,
+        "start": 62.895,
+        "end": 63.055,
+        "score": -0.7461
+      },
+      {
+        "word": "any",
+        "start_offset": 232,
+        "end_offset": 235,
+        "start": 63.995,
+        "end": 64.215,
+        "score": -0.6983
+      },
+      {
+        "word": "significant",
+        "start_offset": 236,
+        "end_offset": 247,
+        "start": 65.156,
+        "end": 67.096,
+        "score": -0.7514
+      },
+      {
+        "word": "extent.",
+        "start_offset": 248,
+        "end_offset": 255,
+        "start": 67.936,
+        "end": 69.117,
+        "score": -0.8566
+      },
+      {
+        "word": "Do",
+        "start_offset": 256,
+        "end_offset": 258,
+        "start": 72.657,
+        "end": 72.777,
+        "score": -0.7112
+      },
+      {
+        "word": "you",
+        "start_offset": 259,
+        "end_offset": 262,
+        "start": 73.658,
+        "end": 73.798,
+        "score": -0.835
+      },
+      {
+        "word": "wish",
+        "start_offset": 263,
+        "end_offset": 267,
+        "start": 74.838,
+        "end": 75.278,
+        "score": -0.7124
+      },
+      {
+        "word": "to",
+        "start_offset": 268,
+        "end_offset": 270,
+        "start": 76.058,
+        "end": 76.258,
+        "score": -0.7213
+      },
+      {
+        "word": "ask",
+        "start_offset": 271,
+        "end_offset": 274,
+        "start": 77.439,
+        "end": 77.839,
+        "score": -0.754
+      },
+      {
+        "word": "further?",
+        "start_offset": 275,
+        "end_offset": 283,
+        "start": 78.739,
+        "end": 79.239,
+        "score": -3.3573
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "007-18.mp3",
+    "audio_duration": 80.0392,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

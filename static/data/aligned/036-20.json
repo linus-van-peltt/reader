@@ -1,0 +1,148 @@
+{
+  "text": "Otherwise the Law of Confusion would prohibit this? Is this correct? This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Otherwise the Law of Confusion would prohibit this?",
+        "start_offset": 0,
+        "end_offset": 51,
+        "start": 1.041,
+        "end": 4.025
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 52,
+        "end_offset": 68,
+        "start": 4.926,
+        "end": 5.546
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 69,
+        "end_offset": 85,
+        "start": 8.55,
+        "end": 12.134
+      }
+    ],
+    "word": [
+      {
+        "word": "Otherwise",
+        "start_offset": 0,
+        "end_offset": 9,
+        "start": 1.041,
+        "end": 1.522,
+        "score": -1.5836
+      },
+      {
+        "word": "the",
+        "start_offset": 10,
+        "end_offset": 13,
+        "start": 1.542,
+        "end": 1.622,
+        "score": -0.766
+      },
+      {
+        "word": "Law",
+        "start_offset": 14,
+        "end_offset": 17,
+        "start": 1.662,
+        "end": 1.862,
+        "score": -0.9255
+      },
+      {
+        "word": "of",
+        "start_offset": 18,
+        "end_offset": 20,
+        "start": 1.902,
+        "end": 1.942,
+        "score": -1.0032
+      },
+      {
+        "word": "Confusion",
+        "start_offset": 21,
+        "end_offset": 30,
+        "start": 2.002,
+        "end": 2.623,
+        "score": -0.7215
+      },
+      {
+        "word": "would",
+        "start_offset": 31,
+        "end_offset": 36,
+        "start": 2.723,
+        "end": 2.883,
+        "score": -6.4791
+      },
+      {
+        "word": "prohibit",
+        "start_offset": 37,
+        "end_offset": 45,
+        "start": 3.184,
+        "end": 3.664,
+        "score": -1.2087
+      },
+      {
+        "word": "this?",
+        "start_offset": 46,
+        "end_offset": 51,
+        "start": 3.704,
+        "end": 4.025,
+        "score": -2.1747
+      },
+      {
+        "word": "Is",
+        "start_offset": 52,
+        "end_offset": 54,
+        "start": 4.926,
+        "end": 5.026,
+        "score": -2.2698
+      },
+      {
+        "word": "this",
+        "start_offset": 55,
+        "end_offset": 59,
+        "start": 5.046,
+        "end": 5.186,
+        "score": -2.5814
+      },
+      {
+        "word": "correct?",
+        "start_offset": 60,
+        "end_offset": 68,
+        "start": 5.226,
+        "end": 5.546,
+        "score": -2.8001
+      },
+      {
+        "word": "This",
+        "start_offset": 69,
+        "end_offset": 73,
+        "start": 8.55,
+        "end": 8.97,
+        "score": -3.0354
+      },
+      {
+        "word": "is",
+        "start_offset": 74,
+        "end_offset": 76,
+        "start": 10.012,
+        "end": 10.352,
+        "score": -2.5368
+      },
+      {
+        "word": "correct.",
+        "start_offset": 77,
+        "end_offset": 85,
+        "start": 11.373,
+        "end": 12.134,
+        "score": -1.4385
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "036-20.mp3",
+    "audio_duration": 13.0351,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "text": "And law thinks that the benefit derived from the drops would not be worth catching especially probably probably. Is there any is there any way that the cat could be given anesthetic and drops putting the anesthesia? So that the cat was not aware of getting the drops. The stillness a carooing therefrom, which would allow administration of medicaments.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "And law thinks that the benefit derived from the drops would not be worth catching especially probably probably.",
+        "start_offset": 36,
+        "end_offset": 257,
+        "start": 2.88,
+        "end": 20.56
+      },
+      {
+        "segment": "Is there any is there any way that the cat could be given anesthetic and drops putting the anesthesia?",
+        "start_offset": 369,
+        "end_offset": 438,
+        "start": 29.52,
+        "end": 35.04
+      },
+      {
+        "segment": "So that the cat was not aware of getting the drops.",
+        "start_offset": 443,
+        "end_offset": 488,
+        "start": 35.44,
+        "end": 39.04
+      },
+      {
+        "segment": "The stillness a carooing therefrom, which would allow administration of medicaments.",
+        "start_offset": 1118,
+        "end_offset": 1397,
+        "start": 89.44,
+        "end": 111.76
+      }
+    ],
+    "word": [
+      {
+        "word": "And",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 2.88,
+        "end": 3.04
+      },
+      {
+        "word": "law",
+        "start_offset": 40,
+        "end_offset": 44,
+        "start": 3.2,
+        "end": 3.52
+      },
+      {
+        "word": "thinks",
+        "start_offset": 46,
+        "end_offset": 51,
+        "start": 3.68,
+        "end": 4.08
+      },
+      {
+        "word": "that",
+        "start_offset": 51,
+        "end_offset": 55,
+        "start": 4.08,
+        "end": 4.4
+      },
+      {
+        "word": "the",
+        "start_offset": 98,
+        "end_offset": 101,
+        "start": 7.84,
+        "end": 8.08
+      },
+      {
+        "word": "benefit",
+        "start_offset": 101,
+        "end_offset": 108,
+        "start": 8.08,
+        "end": 8.64
+      },
+      {
+        "word": "derived",
+        "start_offset": 108,
+        "end_offset": 115,
+        "start": 8.64,
+        "end": 9.200000000000001
+      },
+      {
+        "word": "from",
+        "start_offset": 115,
+        "end_offset": 118,
+        "start": 9.200000000000001,
+        "end": 9.44
+      },
+      {
+        "word": "the",
+        "start_offset": 118,
+        "end_offset": 121,
+        "start": 9.44,
+        "end": 9.68
+      },
+      {
+        "word": "drops",
+        "start_offset": 121,
+        "end_offset": 127,
+        "start": 9.68,
+        "end": 10.16
+      },
+      {
+        "word": "would",
+        "start_offset": 130,
+        "end_offset": 132,
+        "start": 10.4,
+        "end": 10.56
+      },
+      {
+        "word": "not",
+        "start_offset": 132,
+        "end_offset": 135,
+        "start": 10.56,
+        "end": 10.8
+      },
+      {
+        "word": "be",
+        "start_offset": 135,
+        "end_offset": 138,
+        "start": 10.8,
+        "end": 11.040000000000001
+      },
+      {
+        "word": "worth",
+        "start_offset": 138,
+        "end_offset": 146,
+        "start": 11.040000000000001,
+        "end": 11.68
+      },
+      {
+        "word": "catching",
+        "start_offset": 178,
+        "end_offset": 202,
+        "start": 14.24,
+        "end": 16.16
+      },
+      {
+        "word": "especially",
+        "start_offset": 203,
+        "end_offset": 208,
+        "start": 16.240000000000002,
+        "end": 16.64
+      },
+      {
+        "word": "probably",
+        "start_offset": 211,
+        "end_offset": 217,
+        "start": 16.88,
+        "end": 17.36
+      },
+      {
+        "word": "probably.",
+        "start_offset": 251,
+        "end_offset": 257,
+        "start": 20.080000000000002,
+        "end": 20.56
+      },
+      {
+        "word": "Is",
+        "start_offset": 369,
+        "end_offset": 373,
+        "start": 29.52,
+        "end": 29.84
+      },
+      {
+        "word": "there",
+        "start_offset": 373,
+        "end_offset": 376,
+        "start": 29.84,
+        "end": 30.080000000000002
+      },
+      {
+        "word": "any",
+        "start_offset": 376,
+        "end_offset": 378,
+        "start": 30.080000000000002,
+        "end": 30.240000000000002
+      },
+      {
+        "word": "is",
+        "start_offset": 382,
+        "end_offset": 385,
+        "start": 30.560000000000002,
+        "end": 30.8
+      },
+      {
+        "word": "there",
+        "start_offset": 385,
+        "end_offset": 387,
+        "start": 30.8,
+        "end": 30.96
+      },
+      {
+        "word": "any",
+        "start_offset": 387,
+        "end_offset": 390,
+        "start": 30.96,
+        "end": 31.2
+      },
+      {
+        "word": "way",
+        "start_offset": 390,
+        "end_offset": 392,
+        "start": 31.2,
+        "end": 31.36
+      },
+      {
+        "word": "that",
+        "start_offset": 392,
+        "end_offset": 394,
+        "start": 31.36,
+        "end": 31.52
+      },
+      {
+        "word": "the",
+        "start_offset": 394,
+        "end_offset": 395,
+        "start": 31.52,
+        "end": 31.6
+      },
+      {
+        "word": "cat",
+        "start_offset": 395,
+        "end_offset": 397,
+        "start": 31.6,
+        "end": 31.76
+      },
+      {
+        "word": "could",
+        "start_offset": 397,
+        "end_offset": 399,
+        "start": 31.76,
+        "end": 31.92
+      },
+      {
+        "word": "be",
+        "start_offset": 399,
+        "end_offset": 401,
+        "start": 31.92,
+        "end": 32.08
+      },
+      {
+        "word": "given",
+        "start_offset": 401,
+        "end_offset": 404,
+        "start": 32.08,
+        "end": 32.32
+      },
+      {
+        "word": "anesthetic",
+        "start_offset": 405,
+        "end_offset": 414,
+        "start": 32.4,
+        "end": 33.12
+      },
+      {
+        "word": "and",
+        "start_offset": 414,
+        "end_offset": 416,
+        "start": 33.12,
+        "end": 33.28
+      },
+      {
+        "word": "drops",
+        "start_offset": 416,
+        "end_offset": 419,
+        "start": 33.28,
+        "end": 33.52
+      },
+      {
+        "word": "putting",
+        "start_offset": 421,
+        "end_offset": 424,
+        "start": 33.68,
+        "end": 33.92
+      },
+      {
+        "word": "the",
+        "start_offset": 425,
+        "end_offset": 426,
+        "start": 34.0,
+        "end": 34.08
+      },
+      {
+        "word": "anesthesia?",
+        "start_offset": 428,
+        "end_offset": 438,
+        "start": 34.24,
+        "end": 35.04
+      },
+      {
+        "word": "So",
+        "start_offset": 443,
+        "end_offset": 447,
+        "start": 35.44,
+        "end": 35.76
+      },
+      {
+        "word": "that",
+        "start_offset": 447,
+        "end_offset": 451,
+        "start": 35.76,
+        "end": 36.08
+      },
+      {
+        "word": "the",
+        "start_offset": 451,
+        "end_offset": 454,
+        "start": 36.08,
+        "end": 36.32
+      },
+      {
+        "word": "cat",
+        "start_offset": 454,
+        "end_offset": 458,
+        "start": 36.32,
+        "end": 36.64
+      },
+      {
+        "word": "was",
+        "start_offset": 458,
+        "end_offset": 460,
+        "start": 36.64,
+        "end": 36.800000000000004
+      },
+      {
+        "word": "not",
+        "start_offset": 460,
+        "end_offset": 462,
+        "start": 36.800000000000004,
+        "end": 36.96
+      },
+      {
+        "word": "aware",
+        "start_offset": 462,
+        "end_offset": 468,
+        "start": 36.96,
+        "end": 37.44
+      },
+      {
+        "word": "of",
+        "start_offset": 470,
+        "end_offset": 472,
+        "start": 37.6,
+        "end": 37.76
+      },
+      {
+        "word": "getting",
+        "start_offset": 476,
+        "end_offset": 480,
+        "start": 38.08,
+        "end": 38.4
+      },
+      {
+        "word": "the",
+        "start_offset": 480,
+        "end_offset": 481,
+        "start": 38.4,
+        "end": 38.480000000000004
+      },
+      {
+        "word": "drops.",
+        "start_offset": 483,
+        "end_offset": 488,
+        "start": 38.64,
+        "end": 39.04
+      },
+      {
+        "word": "The",
+        "start_offset": 1118,
+        "end_offset": 1122,
+        "start": 89.44,
+        "end": 89.76
+      },
+      {
+        "word": "stillness",
+        "start_offset": 1138,
+        "end_offset": 1150,
+        "start": 91.04,
+        "end": 92.0
+      },
+      {
+        "word": "a",
+        "start_offset": 1181,
+        "end_offset": 1183,
+        "start": 94.48,
+        "end": 94.64
+      },
+      {
+        "word": "carooing",
+        "start_offset": 1187,
+        "end_offset": 1201,
+        "start": 94.96000000000001,
+        "end": 96.08
+      },
+      {
+        "word": "therefrom,",
+        "start_offset": 1205,
+        "end_offset": 1219,
+        "start": 96.4,
+        "end": 97.52
+      },
+      {
+        "word": "which",
+        "start_offset": 1243,
+        "end_offset": 1247,
+        "start": 99.44,
+        "end": 99.76
+      },
+      {
+        "word": "would",
+        "start_offset": 1255,
+        "end_offset": 1259,
+        "start": 100.4,
+        "end": 100.72
+      },
+      {
+        "word": "allow",
+        "start_offset": 1275,
+        "end_offset": 1286,
+        "start": 102.0,
+        "end": 102.88
+      },
+      {
+        "word": "administration",
+        "start_offset": 1326,
+        "end_offset": 1350,
+        "start": 106.08,
+        "end": 108.0
+      },
+      {
+        "word": "of",
+        "start_offset": 1370,
+        "end_offset": 1374,
+        "start": 109.60000000000001,
+        "end": 109.92
+      },
+      {
+        "word": "medicaments.",
+        "start_offset": 1378,
+        "end_offset": 1397,
+        "start": 110.24000000000001,
+        "end": 111.76
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "104-18.mp3",
+    "audio_duration": 113.03,
+    "transcription_time": 0.17,
+    "rtfx": 649.33,
+    "timestamp": "2026-01-06T22:00:53.093286+00:00"
+  }
+}

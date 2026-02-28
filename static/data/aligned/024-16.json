@@ -1,0 +1,403 @@
+{
+  "text": "…could you tell me if you're saying the Orion group was successful in polluting, shall we say, some of the positively oriented prophets with messages of doom? I am Ra. This is correct. Your next query shall be the last full query for this session.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "…could you tell me if you're saying the Orion group was successful in polluting, shall we say, some of the positively oriented prophets with messages of doom?",
+        "start_offset": 0,
+        "end_offset": 158,
+        "start": 0.1,
+        "end": 12.143
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 159,
+        "end_offset": 167,
+        "start": 15.704,
+        "end": 17.724
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 168,
+        "end_offset": 184,
+        "start": 19.445,
+        "end": 23.066
+      },
+      {
+        "segment": "Your next query shall be the last full query for this session.",
+        "start_offset": 185,
+        "end_offset": 247,
+        "start": 25.066,
+        "end": 38.649
+      }
+    ],
+    "word": [
+      {
+        "word": "…could",
+        "start_offset": 0,
+        "end_offset": 6,
+        "start": 0.1,
+        "end": 0.26,
+        "score": -2.8755
+      },
+      {
+        "word": "you",
+        "start_offset": 7,
+        "end_offset": 10,
+        "start": 0.3,
+        "end": 0.38,
+        "score": -0.9792
+      },
+      {
+        "word": "tell",
+        "start_offset": 11,
+        "end_offset": 15,
+        "start": 0.46,
+        "end": 0.66,
+        "score": -0.7914
+      },
+      {
+        "word": "me",
+        "start_offset": 16,
+        "end_offset": 18,
+        "start": 0.72,
+        "end": 0.8,
+        "score": -0.7617
+      },
+      {
+        "word": "if",
+        "start_offset": 19,
+        "end_offset": 21,
+        "start": 0.96,
+        "end": 1.08,
+        "score": -0.8635
+      },
+      {
+        "word": "you're",
+        "start_offset": 22,
+        "end_offset": 28,
+        "start": 1.88,
+        "end": 2.06,
+        "score": -1.4569
+      },
+      {
+        "word": "saying",
+        "start_offset": 29,
+        "end_offset": 35,
+        "start": 2.101,
+        "end": 2.381,
+        "score": -0.7034
+      },
+      {
+        "word": "the",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 2.401,
+        "end": 2.481,
+        "score": -0.8855
+      },
+      {
+        "word": "Orion",
+        "start_offset": 40,
+        "end_offset": 45,
+        "start": 2.541,
+        "end": 2.961,
+        "score": -3.1313
+      },
+      {
+        "word": "group",
+        "start_offset": 46,
+        "end_offset": 51,
+        "start": 3.041,
+        "end": 3.281,
+        "score": -0.7861
+      },
+      {
+        "word": "was",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 3.341,
+        "end": 3.481,
+        "score": -0.8074
+      },
+      {
+        "word": "successful",
+        "start_offset": 56,
+        "end_offset": 66,
+        "start": 3.541,
+        "end": 4.221,
+        "score": -0.7058
+      },
+      {
+        "word": "in",
+        "start_offset": 67,
+        "end_offset": 69,
+        "start": 4.421,
+        "end": 4.541,
+        "score": -0.791
+      },
+      {
+        "word": "polluting,",
+        "start_offset": 70,
+        "end_offset": 80,
+        "start": 6.041,
+        "end": 6.522,
+        "score": -1.1155
+      },
+      {
+        "word": "shall",
+        "start_offset": 81,
+        "end_offset": 86,
+        "start": 6.602,
+        "end": 6.802,
+        "score": -0.9445
+      },
+      {
+        "word": "we",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 6.842,
+        "end": 6.922,
+        "score": -0.7319
+      },
+      {
+        "word": "say,",
+        "start_offset": 90,
+        "end_offset": 94,
+        "start": 7.042,
+        "end": 7.262,
+        "score": -0.6988
+      },
+      {
+        "word": "some",
+        "start_offset": 95,
+        "end_offset": 99,
+        "start": 7.422,
+        "end": 7.642,
+        "score": -0.6975
+      },
+      {
+        "word": "of",
+        "start_offset": 100,
+        "end_offset": 102,
+        "start": 7.702,
+        "end": 7.782,
+        "score": -0.6996
+      },
+      {
+        "word": "the",
+        "start_offset": 103,
+        "end_offset": 106,
+        "start": 7.862,
+        "end": 7.982,
+        "score": -0.7126
+      },
+      {
+        "word": "positively",
+        "start_offset": 107,
+        "end_offset": 117,
+        "start": 8.122,
+        "end": 8.742,
+        "score": -0.6958
+      },
+      {
+        "word": "oriented",
+        "start_offset": 118,
+        "end_offset": 126,
+        "start": 8.882,
+        "end": 9.322,
+        "score": -0.7132
+      },
+      {
+        "word": "prophets",
+        "start_offset": 127,
+        "end_offset": 135,
+        "start": 9.382,
+        "end": 9.882,
+        "score": -0.9927
+      },
+      {
+        "word": "with",
+        "start_offset": 136,
+        "end_offset": 140,
+        "start": 9.962,
+        "end": 10.142,
+        "score": -0.7944
+      },
+      {
+        "word": "messages",
+        "start_offset": 141,
+        "end_offset": 149,
+        "start": 11.183,
+        "end": 11.683,
+        "score": -0.7103
+      },
+      {
+        "word": "of",
+        "start_offset": 150,
+        "end_offset": 152,
+        "start": 11.723,
+        "end": 11.803,
+        "score": -0.8451
+      },
+      {
+        "word": "doom?",
+        "start_offset": 153,
+        "end_offset": 158,
+        "start": 11.883,
+        "end": 12.143,
+        "score": -1.3298
+      },
+      {
+        "word": "I",
+        "start_offset": 159,
+        "end_offset": 160,
+        "start": 15.704,
+        "end": 15.724,
+        "score": -1.2743
+      },
+      {
+        "word": "am",
+        "start_offset": 161,
+        "end_offset": 163,
+        "start": 16.524,
+        "end": 16.864,
+        "score": -3.1381
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 164,
+        "end_offset": 167,
+        "start": 17.544,
+        "end": 17.724,
+        "score": -1.0429
+      },
+      {
+        "word": "This",
+        "start_offset": 168,
+        "end_offset": 172,
+        "start": 19.445,
+        "end": 19.905,
+        "score": -1.6325
+      },
+      {
+        "word": "is",
+        "start_offset": 173,
+        "end_offset": 175,
+        "start": 20.885,
+        "end": 21.265,
+        "score": -0.9459
+      },
+      {
+        "word": "correct.",
+        "start_offset": 176,
+        "end_offset": 184,
+        "start": 22.125,
+        "end": 23.066,
+        "score": -0.7343
+      },
+      {
+        "word": "Your",
+        "start_offset": 185,
+        "end_offset": 189,
+        "start": 25.066,
+        "end": 25.466,
+        "score": -0.9208
+      },
+      {
+        "word": "next",
+        "start_offset": 190,
+        "end_offset": 194,
+        "start": 26.266,
+        "end": 26.806,
+        "score": -0.7121
+      },
+      {
+        "word": "query",
+        "start_offset": 195,
+        "end_offset": 200,
+        "start": 27.126,
+        "end": 27.767,
+        "score": -1.6797
+      },
+      {
+        "word": "shall",
+        "start_offset": 201,
+        "end_offset": 206,
+        "start": 28.927,
+        "end": 29.407,
+        "score": -0.8379
+      },
+      {
+        "word": "be",
+        "start_offset": 207,
+        "end_offset": 209,
+        "start": 29.887,
+        "end": 30.027,
+        "score": -0.8187
+      },
+      {
+        "word": "the",
+        "start_offset": 210,
+        "end_offset": 213,
+        "start": 31.548,
+        "end": 31.708,
+        "score": -0.7552
+      },
+      {
+        "word": "last",
+        "start_offset": 214,
+        "end_offset": 218,
+        "start": 32.168,
+        "end": 32.768,
+        "score": -0.7208
+      },
+      {
+        "word": "full",
+        "start_offset": 219,
+        "end_offset": 223,
+        "start": 33.768,
+        "end": 34.188,
+        "score": -1.4358
+      },
+      {
+        "word": "query",
+        "start_offset": 224,
+        "end_offset": 229,
+        "start": 34.768,
+        "end": 35.308,
+        "score": -0.8078
+      },
+      {
+        "word": "for",
+        "start_offset": 230,
+        "end_offset": 233,
+        "start": 36.309,
+        "end": 36.709,
+        "score": -0.707
+      },
+      {
+        "word": "this",
+        "start_offset": 234,
+        "end_offset": 238,
+        "start": 37.149,
+        "end": 37.509,
+        "score": -0.7332
+      },
+      {
+        "word": "session.",
+        "start_offset": 239,
+        "end_offset": 247,
+        "start": 38.069,
+        "end": 38.649,
+        "score": -0.7497
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "024-16.mp3",
+    "audio_duration": 39.5494,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

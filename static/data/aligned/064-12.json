@@ -1,0 +1,668 @@
+{
+  "text": "Now, am I correct in assuming that whatever magic the adept would perform would be more successful or, shall we say, more to his design than that performed at less opportune times in the cycle? I am Ra. This cycle is an helpful tool to the adept but as we said, as the adept becomes more balanced the workings designed will be dependent less and less upon these cycles of opportunity and more and more even in their efficacy.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Now, am I correct in assuming that whatever magic the adept would perform would be more successful or, shall we say, more to his design than that performed at less opportune times in the cycle?",
+        "start_offset": 0,
+        "end_offset": 193,
+        "start": 3.301,
+        "end": 31.607
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 194,
+        "end_offset": 202,
+        "start": 35.927,
+        "end": 37.868
+      },
+      {
+        "segment": "This cycle is an helpful tool to the adept but as we said, as the adept becomes more balanced the workings designed will be dependent less and less upon these cycles of opportunity and more and more even in their efficacy.",
+        "start_offset": 203,
+        "end_offset": 425,
+        "start": 40.028,
+        "end": 104.222
+      }
+    ],
+    "word": [
+      {
+        "word": "Now,",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 3.301,
+        "end": 4.621,
+        "score": -7.5239
+      },
+      {
+        "word": "am",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 4.661,
+        "end": 4.741,
+        "score": -5.1082
+      },
+      {
+        "word": "I",
+        "start_offset": 8,
+        "end_offset": 9,
+        "start": 4.921,
+        "end": 4.941,
+        "score": -6.4065
+      },
+      {
+        "word": "correct",
+        "start_offset": 10,
+        "end_offset": 17,
+        "start": 5.541,
+        "end": 5.961,
+        "score": -2.2693
+      },
+      {
+        "word": "in",
+        "start_offset": 18,
+        "end_offset": 20,
+        "start": 6.001,
+        "end": 6.081,
+        "score": -2.4861
+      },
+      {
+        "word": "assuming",
+        "start_offset": 21,
+        "end_offset": 29,
+        "start": 6.121,
+        "end": 6.661,
+        "score": -2.4955
+      },
+      {
+        "word": "that",
+        "start_offset": 30,
+        "end_offset": 34,
+        "start": 6.721,
+        "end": 6.941,
+        "score": -3.2088
+      },
+      {
+        "word": "whatever",
+        "start_offset": 35,
+        "end_offset": 43,
+        "start": 8.822,
+        "end": 9.362,
+        "score": -2.3218
+      },
+      {
+        "word": "magic",
+        "start_offset": 44,
+        "end_offset": 49,
+        "start": 9.462,
+        "end": 9.902,
+        "score": -1.9002
+      },
+      {
+        "word": "the",
+        "start_offset": 50,
+        "end_offset": 53,
+        "start": 10.082,
+        "end": 10.202,
+        "score": -3.4829
+      },
+      {
+        "word": "adept",
+        "start_offset": 54,
+        "end_offset": 59,
+        "start": 10.802,
+        "end": 11.222,
+        "score": -2.8919
+      },
+      {
+        "word": "would",
+        "start_offset": 60,
+        "end_offset": 65,
+        "start": 12.643,
+        "end": 12.803,
+        "score": -4.1173
+      },
+      {
+        "word": "perform",
+        "start_offset": 66,
+        "end_offset": 73,
+        "start": 12.903,
+        "end": 13.503,
+        "score": -3.7249
+      },
+      {
+        "word": "would",
+        "start_offset": 74,
+        "end_offset": 79,
+        "start": 15.143,
+        "end": 15.343,
+        "score": -4.5418
+      },
+      {
+        "word": "be",
+        "start_offset": 80,
+        "end_offset": 82,
+        "start": 15.423,
+        "end": 15.543,
+        "score": -4.7724
+      },
+      {
+        "word": "more",
+        "start_offset": 83,
+        "end_offset": 87,
+        "start": 17.164,
+        "end": 17.364,
+        "score": -3.9462
+      },
+      {
+        "word": "successful",
+        "start_offset": 88,
+        "end_offset": 98,
+        "start": 17.424,
+        "end": 18.244,
+        "score": -3.1229
+      },
+      {
+        "word": "or,",
+        "start_offset": 99,
+        "end_offset": 102,
+        "start": 18.564,
+        "end": 18.724,
+        "score": -3.4173
+      },
+      {
+        "word": "shall",
+        "start_offset": 103,
+        "end_offset": 108,
+        "start": 19.244,
+        "end": 19.464,
+        "score": -7.0765
+      },
+      {
+        "word": "we",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 19.484,
+        "end": 19.584,
+        "score": -4.716
+      },
+      {
+        "word": "say,",
+        "start_offset": 112,
+        "end_offset": 116,
+        "start": 19.684,
+        "end": 19.964,
+        "score": -4.2073
+      },
+      {
+        "word": "more",
+        "start_offset": 117,
+        "end_offset": 121,
+        "start": 21.945,
+        "end": 22.205,
+        "score": -4.7204
+      },
+      {
+        "word": "to",
+        "start_offset": 122,
+        "end_offset": 124,
+        "start": 22.305,
+        "end": 22.405,
+        "score": -5.1612
+      },
+      {
+        "word": "his",
+        "start_offset": 125,
+        "end_offset": 128,
+        "start": 24.445,
+        "end": 24.605,
+        "score": -4.0418
+      },
+      {
+        "word": "design",
+        "start_offset": 129,
+        "end_offset": 135,
+        "start": 24.705,
+        "end": 25.285,
+        "score": -3.8497
+      },
+      {
+        "word": "than",
+        "start_offset": 136,
+        "end_offset": 140,
+        "start": 26.065,
+        "end": 26.365,
+        "score": -4.7903
+      },
+      {
+        "word": "that",
+        "start_offset": 141,
+        "end_offset": 145,
+        "start": 27.846,
+        "end": 28.046,
+        "score": -4.6006
+      },
+      {
+        "word": "performed",
+        "start_offset": 146,
+        "end_offset": 155,
+        "start": 28.126,
+        "end": 28.706,
+        "score": -4.6886
+      },
+      {
+        "word": "at",
+        "start_offset": 156,
+        "end_offset": 158,
+        "start": 28.746,
+        "end": 28.906,
+        "score": -6.8583
+      },
+      {
+        "word": "less",
+        "start_offset": 159,
+        "end_offset": 163,
+        "start": 29.586,
+        "end": 29.846,
+        "score": -7.4198
+      },
+      {
+        "word": "opportune",
+        "start_offset": 164,
+        "end_offset": 173,
+        "start": 30.046,
+        "end": 30.546,
+        "score": -6.0246
+      },
+      {
+        "word": "times",
+        "start_offset": 174,
+        "end_offset": 179,
+        "start": 30.606,
+        "end": 30.966,
+        "score": -6.3329
+      },
+      {
+        "word": "in",
+        "start_offset": 180,
+        "end_offset": 182,
+        "start": 31.006,
+        "end": 31.066,
+        "score": -7.09
+      },
+      {
+        "word": "the",
+        "start_offset": 183,
+        "end_offset": 186,
+        "start": 31.086,
+        "end": 31.146,
+        "score": -5.6048
+      },
+      {
+        "word": "cycle?",
+        "start_offset": 187,
+        "end_offset": 193,
+        "start": 31.247,
+        "end": 31.607,
+        "score": -5.4223
+      },
+      {
+        "word": "I",
+        "start_offset": 194,
+        "end_offset": 195,
+        "start": 35.927,
+        "end": 35.947,
+        "score": -2.0385
+      },
+      {
+        "word": "am",
+        "start_offset": 196,
+        "end_offset": 198,
+        "start": 36.668,
+        "end": 37.728,
+        "score": -4.298
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 199,
+        "end_offset": 202,
+        "start": 37.768,
+        "end": 37.868,
+        "score": -5.1312
+      },
+      {
+        "word": "This",
+        "start_offset": 203,
+        "end_offset": 207,
+        "start": 40.028,
+        "end": 40.408,
+        "score": -0.9248
+      },
+      {
+        "word": "cycle",
+        "start_offset": 208,
+        "end_offset": 213,
+        "start": 41.109,
+        "end": 41.789,
+        "score": -1.2681
+      },
+      {
+        "word": "is",
+        "start_offset": 214,
+        "end_offset": 216,
+        "start": 43.589,
+        "end": 43.949,
+        "score": -0.923
+      },
+      {
+        "word": "an",
+        "start_offset": 217,
+        "end_offset": 219,
+        "start": 44.529,
+        "end": 44.829,
+        "score": -0.8843
+      },
+      {
+        "word": "helpful",
+        "start_offset": 220,
+        "end_offset": 227,
+        "start": 45.449,
+        "end": 46.13,
+        "score": -0.7353
+      },
+      {
+        "word": "tool",
+        "start_offset": 228,
+        "end_offset": 232,
+        "start": 46.93,
+        "end": 47.29,
+        "score": -2.5166
+      },
+      {
+        "word": "to",
+        "start_offset": 233,
+        "end_offset": 235,
+        "start": 48.47,
+        "end": 48.63,
+        "score": -0.947
+      },
+      {
+        "word": "the",
+        "start_offset": 236,
+        "end_offset": 239,
+        "start": 49.15,
+        "end": 49.27,
+        "score": -1.7588
+      },
+      {
+        "word": "adept",
+        "start_offset": 240,
+        "end_offset": 245,
+        "start": 50.17,
+        "end": 50.851,
+        "score": -1.0613
+      },
+      {
+        "word": "but",
+        "start_offset": 246,
+        "end_offset": 249,
+        "start": 52.611,
+        "end": 52.951,
+        "score": -0.9773
+      },
+      {
+        "word": "as",
+        "start_offset": 250,
+        "end_offset": 252,
+        "start": 53.551,
+        "end": 53.951,
+        "score": -1.1309
+      },
+      {
+        "word": "we",
+        "start_offset": 253,
+        "end_offset": 255,
+        "start": 54.231,
+        "end": 54.391,
+        "score": -1.0646
+      },
+      {
+        "word": "said,",
+        "start_offset": 256,
+        "end_offset": 261,
+        "start": 54.951,
+        "end": 55.432,
+        "score": -0.8784
+      },
+      {
+        "word": "as",
+        "start_offset": 262,
+        "end_offset": 264,
+        "start": 57.532,
+        "end": 57.992,
+        "score": -1.431
+      },
+      {
+        "word": "the",
+        "start_offset": 265,
+        "end_offset": 268,
+        "start": 58.892,
+        "end": 59.032,
+        "score": -1.5182
+      },
+      {
+        "word": "adept",
+        "start_offset": 269,
+        "end_offset": 274,
+        "start": 60.193,
+        "end": 60.853,
+        "score": -2.095
+      },
+      {
+        "word": "becomes",
+        "start_offset": 275,
+        "end_offset": 282,
+        "start": 62.233,
+        "end": 63.153,
+        "score": -1.4004
+      },
+      {
+        "word": "more",
+        "start_offset": 283,
+        "end_offset": 287,
+        "start": 64.333,
+        "end": 64.693,
+        "score": -0.9451
+      },
+      {
+        "word": "balanced",
+        "start_offset": 288,
+        "end_offset": 296,
+        "start": 65.434,
+        "end": 66.354,
+        "score": -0.8323
+      },
+      {
+        "word": "the",
+        "start_offset": 297,
+        "end_offset": 300,
+        "start": 67.994,
+        "end": 68.134,
+        "score": -1.1013
+      },
+      {
+        "word": "workings",
+        "start_offset": 301,
+        "end_offset": 309,
+        "start": 69.454,
+        "end": 70.295,
+        "score": -0.7982
+      },
+      {
+        "word": "designed",
+        "start_offset": 310,
+        "end_offset": 318,
+        "start": 71.395,
+        "end": 72.355,
+        "score": -0.8746
+      },
+      {
+        "word": "will",
+        "start_offset": 319,
+        "end_offset": 323,
+        "start": 74.496,
+        "end": 74.796,
+        "score": -1.333
+      },
+      {
+        "word": "be",
+        "start_offset": 324,
+        "end_offset": 326,
+        "start": 75.116,
+        "end": 75.256,
+        "score": -1.2305
+      },
+      {
+        "word": "dependent",
+        "start_offset": 327,
+        "end_offset": 336,
+        "start": 76.276,
+        "end": 77.516,
+        "score": -0.8079
+      },
+      {
+        "word": "less",
+        "start_offset": 337,
+        "end_offset": 341,
+        "start": 78.576,
+        "end": 79.016,
+        "score": -0.9991
+      },
+      {
+        "word": "and",
+        "start_offset": 342,
+        "end_offset": 345,
+        "start": 79.877,
+        "end": 80.197,
+        "score": -0.9364
+      },
+      {
+        "word": "less",
+        "start_offset": 346,
+        "end_offset": 350,
+        "start": 80.817,
+        "end": 81.277,
+        "score": -0.8411
+      },
+      {
+        "word": "upon",
+        "start_offset": 351,
+        "end_offset": 355,
+        "start": 82.397,
+        "end": 83.157,
+        "score": -1.7477
+      },
+      {
+        "word": "these",
+        "start_offset": 356,
+        "end_offset": 361,
+        "start": 84.598,
+        "end": 85.298,
+        "score": -1.6864
+      },
+      {
+        "word": "cycles",
+        "start_offset": 362,
+        "end_offset": 368,
+        "start": 86.198,
+        "end": 87.218,
+        "score": -1.3451
+      },
+      {
+        "word": "of",
+        "start_offset": 369,
+        "end_offset": 371,
+        "start": 88.498,
+        "end": 88.879,
+        "score": -0.8324
+      },
+      {
+        "word": "opportunity",
+        "start_offset": 372,
+        "end_offset": 383,
+        "start": 90.199,
+        "end": 91.959,
+        "score": -0.9493
+      },
+      {
+        "word": "and",
+        "start_offset": 384,
+        "end_offset": 387,
+        "start": 93.599,
+        "end": 94.0,
+        "score": -1.3494
+      },
+      {
+        "word": "more",
+        "start_offset": 388,
+        "end_offset": 392,
+        "start": 94.5,
+        "end": 94.94,
+        "score": -1.0782
+      },
+      {
+        "word": "and",
+        "start_offset": 393,
+        "end_offset": 396,
+        "start": 95.66,
+        "end": 95.98,
+        "score": -1.3048
+      },
+      {
+        "word": "more",
+        "start_offset": 397,
+        "end_offset": 401,
+        "start": 96.56,
+        "end": 96.94,
+        "score": -1.0387
+      },
+      {
+        "word": "even",
+        "start_offset": 402,
+        "end_offset": 406,
+        "start": 98.4,
+        "end": 98.861,
+        "score": -0.8029
+      },
+      {
+        "word": "in",
+        "start_offset": 407,
+        "end_offset": 409,
+        "start": 100.341,
+        "end": 100.581,
+        "score": -0.7439
+      },
+      {
+        "word": "their",
+        "start_offset": 410,
+        "end_offset": 415,
+        "start": 101.621,
+        "end": 101.981,
+        "score": -1.1489
+      },
+      {
+        "word": "efficacy.",
+        "start_offset": 416,
+        "end_offset": 425,
+        "start": 102.981,
+        "end": 104.222,
+        "score": -1.987
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "064-12.mp3",
+    "audio_duration": 108.0425,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

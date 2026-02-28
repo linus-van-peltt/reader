@@ -1,0 +1,275 @@
+{
+  "text": "Is this loss of acite, um, what is the metaphysical reason for the loss of the act uh brought it about. I am this case the metaphysical component is tiny. This is the condyne.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is this loss of acite, um, what is the metaphysical reason for the loss of the act uh brought it about.",
+        "start_offset": 36,
+        "end_offset": 170,
+        "start": 2.88,
+        "end": 13.6
+      },
+      {
+        "segment": "I am this case the metaphysical component is tiny.",
+        "start_offset": 209,
+        "end_offset": 465,
+        "start": 16.72,
+        "end": 37.2
+      },
+      {
+        "segment": "This is the condyne.",
+        "start_offset": 493,
+        "end_offset": 590,
+        "start": 39.44,
+        "end": 47.2
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 36,
+        "end_offset": 40,
+        "start": 2.88,
+        "end": 3.2
+      },
+      {
+        "word": "this",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 3.36,
+        "end": 3.68
+      },
+      {
+        "word": "loss",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 3.68,
+        "end": 4.0
+      },
+      {
+        "word": "of",
+        "start_offset": 50,
+        "end_offset": 53,
+        "start": 4.0,
+        "end": 4.24
+      },
+      {
+        "word": "acite,",
+        "start_offset": 53,
+        "end_offset": 61,
+        "start": 4.24,
+        "end": 4.88
+      },
+      {
+        "word": "um,",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 4.96,
+        "end": 5.2
+      },
+      {
+        "word": "what",
+        "start_offset": 69,
+        "end_offset": 73,
+        "start": 5.5200000000000005,
+        "end": 5.84
+      },
+      {
+        "word": "is",
+        "start_offset": 73,
+        "end_offset": 77,
+        "start": 5.84,
+        "end": 6.16
+      },
+      {
+        "word": "the",
+        "start_offset": 77,
+        "end_offset": 81,
+        "start": 6.16,
+        "end": 6.48
+      },
+      {
+        "word": "metaphysical",
+        "start_offset": 81,
+        "end_offset": 96,
+        "start": 6.48,
+        "end": 7.68
+      },
+      {
+        "word": "reason",
+        "start_offset": 118,
+        "end_offset": 125,
+        "start": 9.44,
+        "end": 10.0
+      },
+      {
+        "word": "for",
+        "start_offset": 125,
+        "end_offset": 127,
+        "start": 10.0,
+        "end": 10.16
+      },
+      {
+        "word": "the",
+        "start_offset": 127,
+        "end_offset": 129,
+        "start": 10.16,
+        "end": 10.32
+      },
+      {
+        "word": "loss",
+        "start_offset": 129,
+        "end_offset": 134,
+        "start": 10.32,
+        "end": 10.72
+      },
+      {
+        "word": "of",
+        "start_offset": 134,
+        "end_offset": 135,
+        "start": 10.72,
+        "end": 10.8
+      },
+      {
+        "word": "the",
+        "start_offset": 135,
+        "end_offset": 139,
+        "start": 10.8,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "act",
+        "start_offset": 139,
+        "end_offset": 146,
+        "start": 11.120000000000001,
+        "end": 11.68
+      },
+      {
+        "word": "uh",
+        "start_offset": 151,
+        "end_offset": 154,
+        "start": 12.08,
+        "end": 12.32
+      },
+      {
+        "word": "brought",
+        "start_offset": 157,
+        "end_offset": 163,
+        "start": 12.56,
+        "end": 13.040000000000001
+      },
+      {
+        "word": "it",
+        "start_offset": 163,
+        "end_offset": 166,
+        "start": 13.040000000000001,
+        "end": 13.280000000000001
+      },
+      {
+        "word": "about.",
+        "start_offset": 166,
+        "end_offset": 170,
+        "start": 13.280000000000001,
+        "end": 13.6
+      },
+      {
+        "word": "I",
+        "start_offset": 209,
+        "end_offset": 213,
+        "start": 16.72,
+        "end": 17.04
+      },
+      {
+        "word": "am",
+        "start_offset": 225,
+        "end_offset": 228,
+        "start": 18.0,
+        "end": 18.240000000000002
+      },
+      {
+        "word": "this",
+        "start_offset": 318,
+        "end_offset": 322,
+        "start": 25.44,
+        "end": 25.76
+      },
+      {
+        "word": "case",
+        "start_offset": 326,
+        "end_offset": 338,
+        "start": 26.080000000000002,
+        "end": 27.04
+      },
+      {
+        "word": "the",
+        "start_offset": 364,
+        "end_offset": 368,
+        "start": 29.12,
+        "end": 29.44
+      },
+      {
+        "word": "metaphysical",
+        "start_offset": 372,
+        "end_offset": 393,
+        "start": 29.76,
+        "end": 31.44
+      },
+      {
+        "word": "component",
+        "start_offset": 405,
+        "end_offset": 421,
+        "start": 32.4,
+        "end": 33.68
+      },
+      {
+        "word": "is",
+        "start_offset": 441,
+        "end_offset": 445,
+        "start": 35.28,
+        "end": 35.6
+      },
+      {
+        "word": "tiny.",
+        "start_offset": 457,
+        "end_offset": 465,
+        "start": 36.56,
+        "end": 37.2
+      },
+      {
+        "word": "This",
+        "start_offset": 493,
+        "end_offset": 497,
+        "start": 39.44,
+        "end": 39.76
+      },
+      {
+        "word": "is",
+        "start_offset": 505,
+        "end_offset": 509,
+        "start": 40.4,
+        "end": 40.72
+      },
+      {
+        "word": "the",
+        "start_offset": 517,
+        "end_offset": 521,
+        "start": 41.36,
+        "end": 41.68
+      },
+      {
+        "word": "condyne.",
+        "start_offset": 577,
+        "end_offset": 590,
+        "start": 46.160000000000004,
+        "end": 47.2
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "104-16.mp3",
+    "audio_duration": 48.04,
+    "transcription_time": 0.11,
+    "rtfx": 435.05,
+    "timestamp": "2026-01-06T22:00:52.429693+00:00"
+  }
+}

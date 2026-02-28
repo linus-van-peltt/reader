@@ -1,0 +1,226 @@
+{
+  "text": "I just need to know if there's anything you can do to make the instrument more comfortable or improve the contact. I am raw. My brother's warrior.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I just need to know if there's anything you can do to make the instrument more comfortable or improve the contact.",
+        "start_offset": 16,
+        "end_offset": 103,
+        "start": 1.28,
+        "end": 8.24
+      },
+      {
+        "segment": "I am raw.",
+        "start_offset": 139,
+        "end_offset": 177,
+        "start": 11.120000000000001,
+        "end": 14.16
+      },
+      {
+        "segment": "My brother's warrior.",
+        "start_offset": 236,
+        "end_offset": 278,
+        "start": 18.88,
+        "end": 22.240000000000002
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 1.28,
+        "end": 1.52
+      },
+      {
+        "word": "just",
+        "start_offset": 25,
+        "end_offset": 29,
+        "start": 2.0,
+        "end": 2.32
+      },
+      {
+        "word": "need",
+        "start_offset": 29,
+        "end_offset": 31,
+        "start": 2.32,
+        "end": 2.48
+      },
+      {
+        "word": "to",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 2.48,
+        "end": 2.64
+      },
+      {
+        "word": "know",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 2.64,
+        "end": 2.88
+      },
+      {
+        "word": "if",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 2.88,
+        "end": 3.04
+      },
+      {
+        "word": "there's",
+        "start_offset": 41,
+        "end_offset": 45,
+        "start": 3.2800000000000002,
+        "end": 3.6
+      },
+      {
+        "word": "anything",
+        "start_offset": 45,
+        "end_offset": 50,
+        "start": 3.6,
+        "end": 4.0
+      },
+      {
+        "word": "you",
+        "start_offset": 50,
+        "end_offset": 52,
+        "start": 4.0,
+        "end": 4.16
+      },
+      {
+        "word": "can",
+        "start_offset": 52,
+        "end_offset": 54,
+        "start": 4.16,
+        "end": 4.32
+      },
+      {
+        "word": "do",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 4.32,
+        "end": 4.48
+      },
+      {
+        "word": "to",
+        "start_offset": 56,
+        "end_offset": 58,
+        "start": 4.48,
+        "end": 4.64
+      },
+      {
+        "word": "make",
+        "start_offset": 58,
+        "end_offset": 60,
+        "start": 4.64,
+        "end": 4.8
+      },
+      {
+        "word": "the",
+        "start_offset": 60,
+        "end_offset": 63,
+        "start": 4.8,
+        "end": 5.04
+      },
+      {
+        "word": "instrument",
+        "start_offset": 63,
+        "end_offset": 69,
+        "start": 5.04,
+        "end": 5.5200000000000005
+      },
+      {
+        "word": "more",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 5.5200000000000005,
+        "end": 5.76
+      },
+      {
+        "word": "comfortable",
+        "start_offset": 72,
+        "end_offset": 79,
+        "start": 5.76,
+        "end": 6.32
+      },
+      {
+        "word": "or",
+        "start_offset": 79,
+        "end_offset": 82,
+        "start": 6.32,
+        "end": 6.5600000000000005
+      },
+      {
+        "word": "improve",
+        "start_offset": 82,
+        "end_offset": 88,
+        "start": 6.5600000000000005,
+        "end": 7.04
+      },
+      {
+        "word": "the",
+        "start_offset": 88,
+        "end_offset": 91,
+        "start": 7.04,
+        "end": 7.28
+      },
+      {
+        "word": "contact.",
+        "start_offset": 91,
+        "end_offset": 103,
+        "start": 7.28,
+        "end": 8.24
+      },
+      {
+        "word": "I",
+        "start_offset": 139,
+        "end_offset": 143,
+        "start": 11.120000000000001,
+        "end": 11.44
+      },
+      {
+        "word": "am",
+        "start_offset": 151,
+        "end_offset": 155,
+        "start": 12.08,
+        "end": 12.4
+      },
+      {
+        "word": "raw.",
+        "start_offset": 170,
+        "end_offset": 177,
+        "start": 13.6,
+        "end": 14.16
+      },
+      {
+        "word": "My",
+        "start_offset": 236,
+        "end_offset": 240,
+        "start": 18.88,
+        "end": 19.2
+      },
+      {
+        "word": "brother's",
+        "start_offset": 244,
+        "end_offset": 254,
+        "start": 19.52,
+        "end": 20.32
+      },
+      {
+        "word": "warrior.",
+        "start_offset": 272,
+        "end_offset": 278,
+        "start": 21.76,
+        "end": 22.240000000000002
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "045-12.mp3",
+    "audio_duration": 23.04,
+    "transcription_time": 0.09,
+    "rtfx": 257.94,
+    "timestamp": "2026-01-06T21:51:24.788245+00:00"
+  }
+}

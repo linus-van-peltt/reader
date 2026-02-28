@@ -1,0 +1,496 @@
+{
+  "text": "OK. I misunderstood. I thought you were speaking of someone else in the singing group who had been the one you were speaking of regarding the identification with the singing. The entire time we were speaking then we were speaking only of the instrument— Carla? Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "OK.",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.32,
+        "end": 2.48
+      },
+      {
+        "segment": "I misunderstood.",
+        "start_offset": 4,
+        "end_offset": 20,
+        "start": 2.54,
+        "end": 3.781
+      },
+      {
+        "segment": "I thought you were speaking of someone else in the singing group who had been the one you were speaking of regarding the identification with the singing.",
+        "start_offset": 21,
+        "end_offset": 174,
+        "start": 5.721,
+        "end": 26.584
+      },
+      {
+        "segment": "The entire time we were speaking then we were speaking only of the instrument— Carla?",
+        "start_offset": 175,
+        "end_offset": 260,
+        "start": 28.084,
+        "end": 36.745
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 261,
+        "end_offset": 277,
+        "start": 36.845,
+        "end": 37.525
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 278,
+        "end_offset": 286,
+        "start": 37.545,
+        "end": 38.285
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 287,
+        "end_offset": 303,
+        "start": 43.906,
+        "end": 46.306
+      }
+    ],
+    "word": [
+      {
+        "word": "OK.",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.32,
+        "end": 2.48,
+        "score": -4.4565
+      },
+      {
+        "word": "I",
+        "start_offset": 4,
+        "end_offset": 5,
+        "start": 2.54,
+        "end": 2.56,
+        "score": -2.9849
+      },
+      {
+        "word": "misunderstood.",
+        "start_offset": 6,
+        "end_offset": 20,
+        "start": 2.94,
+        "end": 3.781,
+        "score": -1.3258
+      },
+      {
+        "word": "I",
+        "start_offset": 21,
+        "end_offset": 22,
+        "start": 5.721,
+        "end": 5.741,
+        "score": -4.8648
+      },
+      {
+        "word": "thought",
+        "start_offset": 23,
+        "end_offset": 30,
+        "start": 5.821,
+        "end": 6.081,
+        "score": -3.772
+      },
+      {
+        "word": "you",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 6.121,
+        "end": 6.181,
+        "score": -7.0653
+      },
+      {
+        "word": "were",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 6.221,
+        "end": 6.341,
+        "score": -0.8165
+      },
+      {
+        "word": "speaking",
+        "start_offset": 40,
+        "end_offset": 48,
+        "start": 6.381,
+        "end": 6.841,
+        "score": -0.7105
+      },
+      {
+        "word": "of",
+        "start_offset": 49,
+        "end_offset": 51,
+        "start": 6.921,
+        "end": 7.041,
+        "score": -0.7654
+      },
+      {
+        "word": "someone",
+        "start_offset": 52,
+        "end_offset": 59,
+        "start": 7.361,
+        "end": 7.781,
+        "score": -1.1358
+      },
+      {
+        "word": "else",
+        "start_offset": 60,
+        "end_offset": 64,
+        "start": 7.961,
+        "end": 8.281,
+        "score": -0.7413
+      },
+      {
+        "word": "in",
+        "start_offset": 65,
+        "end_offset": 67,
+        "start": 9.001,
+        "end": 9.101,
+        "score": -0.7438
+      },
+      {
+        "word": "the",
+        "start_offset": 68,
+        "end_offset": 71,
+        "start": 9.161,
+        "end": 9.281,
+        "score": -0.9738
+      },
+      {
+        "word": "singing",
+        "start_offset": 72,
+        "end_offset": 79,
+        "start": 11.502,
+        "end": 11.882,
+        "score": -0.7559
+      },
+      {
+        "word": "group",
+        "start_offset": 80,
+        "end_offset": 85,
+        "start": 11.942,
+        "end": 12.202,
+        "score": -0.7084
+      },
+      {
+        "word": "who",
+        "start_offset": 86,
+        "end_offset": 89,
+        "start": 12.562,
+        "end": 12.682,
+        "score": -0.858
+      },
+      {
+        "word": "had",
+        "start_offset": 90,
+        "end_offset": 93,
+        "start": 12.822,
+        "end": 13.062,
+        "score": -0.8181
+      },
+      {
+        "word": "been",
+        "start_offset": 94,
+        "end_offset": 98,
+        "start": 15.682,
+        "end": 16.042,
+        "score": -2.8592
+      },
+      {
+        "word": "the",
+        "start_offset": 99,
+        "end_offset": 102,
+        "start": 16.402,
+        "end": 16.502,
+        "score": -2.4707
+      },
+      {
+        "word": "one",
+        "start_offset": 103,
+        "end_offset": 106,
+        "start": 16.762,
+        "end": 16.842,
+        "score": -3.2776
+      },
+      {
+        "word": "you",
+        "start_offset": 107,
+        "end_offset": 110,
+        "start": 16.862,
+        "end": 16.962,
+        "score": -4.4119
+      },
+      {
+        "word": "were",
+        "start_offset": 111,
+        "end_offset": 115,
+        "start": 17.002,
+        "end": 17.142,
+        "score": -0.7769
+      },
+      {
+        "word": "speaking",
+        "start_offset": 116,
+        "end_offset": 124,
+        "start": 17.202,
+        "end": 17.882,
+        "score": -0.791
+      },
+      {
+        "word": "of",
+        "start_offset": 125,
+        "end_offset": 127,
+        "start": 17.963,
+        "end": 18.063,
+        "score": -0.7401
+      },
+      {
+        "word": "regarding",
+        "start_offset": 128,
+        "end_offset": 137,
+        "start": 18.163,
+        "end": 18.363,
+        "score": -7.6958
+      },
+      {
+        "word": "the",
+        "start_offset": 138,
+        "end_offset": 141,
+        "start": 18.383,
+        "end": 18.443,
+        "score": -4.73
+      },
+      {
+        "word": "identification",
+        "start_offset": 142,
+        "end_offset": 156,
+        "start": 18.463,
+        "end": 19.443,
+        "score": -1.0139
+      },
+      {
+        "word": "with",
+        "start_offset": 157,
+        "end_offset": 161,
+        "start": 20.103,
+        "end": 20.403,
+        "score": -0.8409
+      },
+      {
+        "word": "the",
+        "start_offset": 162,
+        "end_offset": 165,
+        "start": 22.343,
+        "end": 22.483,
+        "score": -1.1618
+      },
+      {
+        "word": "singing.",
+        "start_offset": 166,
+        "end_offset": 174,
+        "start": 26.164,
+        "end": 26.584,
+        "score": -1.2431
+      },
+      {
+        "word": "The",
+        "start_offset": 175,
+        "end_offset": 178,
+        "start": 28.084,
+        "end": 28.184,
+        "score": -0.9691
+      },
+      {
+        "word": "entire",
+        "start_offset": 179,
+        "end_offset": 185,
+        "start": 28.284,
+        "end": 28.784,
+        "score": -1.1629
+      },
+      {
+        "word": "time",
+        "start_offset": 186,
+        "end_offset": 190,
+        "start": 30.284,
+        "end": 30.624,
+        "score": -2.0271
+      },
+      {
+        "word": "we",
+        "start_offset": 191,
+        "end_offset": 193,
+        "start": 30.844,
+        "end": 30.964,
+        "score": -0.8281
+      },
+      {
+        "word": "were",
+        "start_offset": 194,
+        "end_offset": 198,
+        "start": 31.044,
+        "end": 31.224,
+        "score": -0.8192
+      },
+      {
+        "word": "speaking",
+        "start_offset": 199,
+        "end_offset": 207,
+        "start": 32.865,
+        "end": 33.345,
+        "score": -0.7865
+      },
+      {
+        "word": "then",
+        "start_offset": 208,
+        "end_offset": 212,
+        "start": 33.385,
+        "end": 33.545,
+        "score": -1.7873
+      },
+      {
+        "word": "we",
+        "start_offset": 213,
+        "end_offset": 215,
+        "start": 33.585,
+        "end": 33.645,
+        "score": -0.8847
+      },
+      {
+        "word": "were",
+        "start_offset": 216,
+        "end_offset": 220,
+        "start": 33.705,
+        "end": 33.845,
+        "score": -0.7139
+      },
+      {
+        "word": "speaking",
+        "start_offset": 221,
+        "end_offset": 229,
+        "start": 33.865,
+        "end": 34.225,
+        "score": -0.7018
+      },
+      {
+        "word": "only",
+        "start_offset": 230,
+        "end_offset": 234,
+        "start": 34.325,
+        "end": 34.525,
+        "score": -0.7222
+      },
+      {
+        "word": "of",
+        "start_offset": 235,
+        "end_offset": 237,
+        "start": 34.665,
+        "end": 34.785,
+        "score": -0.8835
+      },
+      {
+        "word": "the",
+        "start_offset": 238,
+        "end_offset": 241,
+        "start": 35.645,
+        "end": 35.765,
+        "score": -0.8296
+      },
+      {
+        "word": "instrument—",
+        "start_offset": 242,
+        "end_offset": 253,
+        "start": 35.845,
+        "end": 36.325,
+        "score": -0.7176
+      },
+      {
+        "word": "Carla?",
+        "start_offset": 254,
+        "end_offset": 260,
+        "start": 36.385,
+        "end": 36.745,
+        "score": -0.9014
+      },
+      {
+        "word": "Is",
+        "start_offset": 261,
+        "end_offset": 263,
+        "start": 36.845,
+        "end": 36.945,
+        "score": -2.5713
+      },
+      {
+        "word": "this",
+        "start_offset": 264,
+        "end_offset": 268,
+        "start": 36.965,
+        "end": 37.105,
+        "score": -1.1499
+      },
+      {
+        "word": "correct?",
+        "start_offset": 269,
+        "end_offset": 277,
+        "start": 37.165,
+        "end": 37.525,
+        "score": -1.7727
+      },
+      {
+        "word": "I",
+        "start_offset": 278,
+        "end_offset": 279,
+        "start": 37.545,
+        "end": 37.565,
+        "score": -8.6471
+      },
+      {
+        "word": "am",
+        "start_offset": 280,
+        "end_offset": 282,
+        "start": 37.585,
+        "end": 37.625,
+        "score": -8.6983
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 283,
+        "end_offset": 286,
+        "start": 38.085,
+        "end": 38.285,
+        "score": -9.513
+      },
+      {
+        "word": "This",
+        "start_offset": 287,
+        "end_offset": 291,
+        "start": 43.906,
+        "end": 44.226,
+        "score": -7.1412
+      },
+      {
+        "word": "is",
+        "start_offset": 292,
+        "end_offset": 294,
+        "start": 44.626,
+        "end": 44.866,
+        "score": -5.7954
+      },
+      {
+        "word": "correct.",
+        "start_offset": 295,
+        "end_offset": 303,
+        "start": 45.646,
+        "end": 46.306,
+        "score": -5.0425
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "075-22.mp3",
+    "audio_duration": 47.0466,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

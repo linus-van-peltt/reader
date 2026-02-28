@@ -1,0 +1,235 @@
+{
+  "text": "Ra then has not moved at any time into one of the other major galaxies. Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Ra then has not moved at any time into one of the other major galaxies.",
+        "start_offset": 0,
+        "end_offset": 71,
+        "start": 4.401,
+        "end": 14.204
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 72,
+        "end_offset": 88,
+        "start": 14.864,
+        "end": 15.544
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 89,
+        "end_offset": 97,
+        "start": 19.325,
+        "end": 21.606
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 98,
+        "end_offset": 114,
+        "start": 23.287,
+        "end": 26.668
+      }
+    ],
+    "word": [
+      {
+        "word": "Ra",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 4.401,
+        "end": 4.521,
+        "score": -0.7871
+      },
+      {
+        "word": "then",
+        "start_offset": 3,
+        "end_offset": 7,
+        "start": 4.741,
+        "end": 4.921,
+        "score": -2.324
+      },
+      {
+        "word": "has",
+        "start_offset": 8,
+        "end_offset": 11,
+        "start": 4.981,
+        "end": 5.121,
+        "score": -0.7428
+      },
+      {
+        "word": "not",
+        "start_offset": 12,
+        "end_offset": 15,
+        "start": 5.181,
+        "end": 5.382,
+        "score": -0.9799
+      },
+      {
+        "word": "moved",
+        "start_offset": 16,
+        "end_offset": 21,
+        "start": 8.342,
+        "end": 8.822,
+        "score": -0.8791
+      },
+      {
+        "word": "at",
+        "start_offset": 22,
+        "end_offset": 24,
+        "start": 9.863,
+        "end": 9.963,
+        "score": -0.7211
+      },
+      {
+        "word": "any",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 10.023,
+        "end": 10.163,
+        "score": -0.7135
+      },
+      {
+        "word": "time",
+        "start_offset": 29,
+        "end_offset": 33,
+        "start": 10.503,
+        "end": 10.823,
+        "score": -0.8736
+      },
+      {
+        "word": "into",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 10.863,
+        "end": 11.123,
+        "score": -0.7115
+      },
+      {
+        "word": "one",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 11.543,
+        "end": 11.623,
+        "score": -0.7346
+      },
+      {
+        "word": "of",
+        "start_offset": 43,
+        "end_offset": 45,
+        "start": 11.643,
+        "end": 11.703,
+        "score": -1.1211
+      },
+      {
+        "word": "the",
+        "start_offset": 46,
+        "end_offset": 49,
+        "start": 11.723,
+        "end": 11.803,
+        "score": -0.726
+      },
+      {
+        "word": "other",
+        "start_offset": 50,
+        "end_offset": 55,
+        "start": 11.903,
+        "end": 12.143,
+        "score": -0.714
+      },
+      {
+        "word": "major",
+        "start_offset": 56,
+        "end_offset": 61,
+        "start": 13.044,
+        "end": 13.384,
+        "score": -0.763
+      },
+      {
+        "word": "galaxies.",
+        "start_offset": 62,
+        "end_offset": 71,
+        "start": 13.464,
+        "end": 14.204,
+        "score": -0.9263
+      },
+      {
+        "word": "Is",
+        "start_offset": 72,
+        "end_offset": 74,
+        "start": 14.864,
+        "end": 14.944,
+        "score": -1.5517
+      },
+      {
+        "word": "this",
+        "start_offset": 75,
+        "end_offset": 79,
+        "start": 14.964,
+        "end": 15.104,
+        "score": -1.1551
+      },
+      {
+        "word": "correct?",
+        "start_offset": 80,
+        "end_offset": 88,
+        "start": 15.164,
+        "end": 15.544,
+        "score": -0.7598
+      },
+      {
+        "word": "I",
+        "start_offset": 89,
+        "end_offset": 90,
+        "start": 19.325,
+        "end": 19.345,
+        "score": -2.3229
+      },
+      {
+        "word": "am",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 20.186,
+        "end": 20.466,
+        "score": -4.1238
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 94,
+        "end_offset": 97,
+        "start": 21.486,
+        "end": 21.606,
+        "score": -5.2283
+      },
+      {
+        "word": "This",
+        "start_offset": 98,
+        "end_offset": 102,
+        "start": 23.287,
+        "end": 23.627,
+        "score": -1.1107
+      },
+      {
+        "word": "is",
+        "start_offset": 103,
+        "end_offset": 105,
+        "start": 24.647,
+        "end": 24.947,
+        "score": -0.9547
+      },
+      {
+        "word": "correct.",
+        "start_offset": 106,
+        "end_offset": 114,
+        "start": 26.047,
+        "end": 26.668,
+        "score": -0.7501
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "081-26.mp3",
+    "audio_duration": 29.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

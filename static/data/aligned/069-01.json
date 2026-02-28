@@ -1,0 +1,93 @@
+{
+  "text": "I am Ra. It is as previously stated.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I am Ra.",
+        "start_offset": 0,
+        "end_offset": 8,
+        "start": 0.901,
+        "end": 2.361
+      },
+      {
+        "segment": "It is as previously stated.",
+        "start_offset": 9,
+        "end_offset": 36,
+        "start": 4.523,
+        "end": 12.567
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 0.901,
+        "end": 0.921,
+        "score": -8.386
+      },
+      {
+        "word": "am",
+        "start_offset": 2,
+        "end_offset": 4,
+        "start": 0.941,
+        "end": 1.401,
+        "score": -2.6544
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 2.201,
+        "end": 2.361,
+        "score": -0.8069
+      },
+      {
+        "word": "It",
+        "start_offset": 9,
+        "end_offset": 11,
+        "start": 4.523,
+        "end": 4.803,
+        "score": -0.709
+      },
+      {
+        "word": "is",
+        "start_offset": 12,
+        "end_offset": 14,
+        "start": 5.603,
+        "end": 6.023,
+        "score": -0.754
+      },
+      {
+        "word": "as",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 6.684,
+        "end": 7.144,
+        "score": -0.7352
+      },
+      {
+        "word": "previously",
+        "start_offset": 18,
+        "end_offset": 28,
+        "start": 8.685,
+        "end": 10.386,
+        "score": -0.9837
+      },
+      {
+        "word": "stated.",
+        "start_offset": 29,
+        "end_offset": 36,
+        "start": 11.787,
+        "end": 12.567,
+        "score": -0.7014
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "069-01.mp3",
+    "audio_duration": 14.0278,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

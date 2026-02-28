@@ -1,0 +1,468 @@
+{
+  "text": "Were there any incorrectnesses in our writing with respect to the way this was performed? I am Ra. The incorrectnesses occurred only due to the difficulty an author would have in describing the length of training necessary to enable the ones known in that particular writing as Theodore and Pablo in the necessary disciplines.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Were there any incorrectnesses in our writing with respect to the way this was performed?",
+        "start_offset": 0,
+        "end_offset": 89,
+        "start": 0.48,
+        "end": 11.482
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 90,
+        "end_offset": 98,
+        "start": 12.202,
+        "end": 13.763
+      },
+      {
+        "segment": "The incorrectnesses occurred only due to the difficulty an author would have in describing the length of training necessary to enable the ones known in that particular writing as Theodore and Pablo in the necessary disciplines.",
+        "start_offset": 99,
+        "end_offset": 326,
+        "start": 13.783,
+        "end": 66.194
+      }
+    ],
+    "word": [
+      {
+        "word": "Were",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 0.48,
+        "end": 0.62,
+        "score": -10.0023
+      },
+      {
+        "word": "there",
+        "start_offset": 5,
+        "end_offset": 10,
+        "start": 0.68,
+        "end": 0.84,
+        "score": -10.2983
+      },
+      {
+        "word": "any",
+        "start_offset": 11,
+        "end_offset": 14,
+        "start": 1.0,
+        "end": 1.18,
+        "score": -10.5439
+      },
+      {
+        "word": "incorrectnesses",
+        "start_offset": 15,
+        "end_offset": 30,
+        "start": 1.44,
+        "end": 2.501,
+        "score": -8.8841
+      },
+      {
+        "word": "in",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 2.621,
+        "end": 2.721,
+        "score": -7.9921
+      },
+      {
+        "word": "our",
+        "start_offset": 34,
+        "end_offset": 37,
+        "start": 2.901,
+        "end": 2.961,
+        "score": -10.6467
+      },
+      {
+        "word": "writing",
+        "start_offset": 38,
+        "end_offset": 45,
+        "start": 3.001,
+        "end": 3.381,
+        "score": -8.3216
+      },
+      {
+        "word": "with",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 3.601,
+        "end": 4.121,
+        "score": -10.7349
+      },
+      {
+        "word": "respect",
+        "start_offset": 51,
+        "end_offset": 58,
+        "start": 5.421,
+        "end": 7.321,
+        "score": -9.8662
+      },
+      {
+        "word": "to",
+        "start_offset": 59,
+        "end_offset": 61,
+        "start": 7.642,
+        "end": 7.762,
+        "score": -10.7182
+      },
+      {
+        "word": "the",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 7.982,
+        "end": 9.382,
+        "score": -9.6471
+      },
+      {
+        "word": "way",
+        "start_offset": 66,
+        "end_offset": 69,
+        "start": 9.502,
+        "end": 9.562,
+        "score": -10.5253
+      },
+      {
+        "word": "this",
+        "start_offset": 70,
+        "end_offset": 74,
+        "start": 10.142,
+        "end": 10.282,
+        "score": -9.0957
+      },
+      {
+        "word": "was",
+        "start_offset": 75,
+        "end_offset": 78,
+        "start": 10.342,
+        "end": 10.582,
+        "score": -9.3622
+      },
+      {
+        "word": "performed?",
+        "start_offset": 79,
+        "end_offset": 89,
+        "start": 10.602,
+        "end": 11.482,
+        "score": -9.5489
+      },
+      {
+        "word": "I",
+        "start_offset": 90,
+        "end_offset": 91,
+        "start": 12.202,
+        "end": 12.222,
+        "score": -9.5851
+      },
+      {
+        "word": "am",
+        "start_offset": 92,
+        "end_offset": 94,
+        "start": 13.643,
+        "end": 13.683,
+        "score": -5.3937
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 95,
+        "end_offset": 98,
+        "start": 13.703,
+        "end": 13.763,
+        "score": -7.4071
+      },
+      {
+        "word": "The",
+        "start_offset": 99,
+        "end_offset": 102,
+        "start": 13.783,
+        "end": 13.923,
+        "score": -0.785
+      },
+      {
+        "word": "incorrectnesses",
+        "start_offset": 103,
+        "end_offset": 118,
+        "start": 15.263,
+        "end": 17.164,
+        "score": -0.7529
+      },
+      {
+        "word": "occurred",
+        "start_offset": 119,
+        "end_offset": 127,
+        "start": 18.584,
+        "end": 19.324,
+        "score": -1.2783
+      },
+      {
+        "word": "only",
+        "start_offset": 128,
+        "end_offset": 132,
+        "start": 20.044,
+        "end": 20.504,
+        "score": -0.7037
+      },
+      {
+        "word": "due",
+        "start_offset": 133,
+        "end_offset": 136,
+        "start": 21.044,
+        "end": 21.284,
+        "score": -3.2709
+      },
+      {
+        "word": "to",
+        "start_offset": 137,
+        "end_offset": 139,
+        "start": 21.764,
+        "end": 21.904,
+        "score": -0.9249
+      },
+      {
+        "word": "the",
+        "start_offset": 140,
+        "end_offset": 143,
+        "start": 23.085,
+        "end": 23.205,
+        "score": -0.8905
+      },
+      {
+        "word": "difficulty",
+        "start_offset": 144,
+        "end_offset": 154,
+        "start": 24.645,
+        "end": 25.785,
+        "score": -0.7724
+      },
+      {
+        "word": "an",
+        "start_offset": 155,
+        "end_offset": 157,
+        "start": 28.206,
+        "end": 28.566,
+        "score": -0.7291
+      },
+      {
+        "word": "author",
+        "start_offset": 158,
+        "end_offset": 164,
+        "start": 29.246,
+        "end": 29.726,
+        "score": -1.1125
+      },
+      {
+        "word": "would",
+        "start_offset": 165,
+        "end_offset": 170,
+        "start": 30.226,
+        "end": 30.546,
+        "score": -1.2834
+      },
+      {
+        "word": "have",
+        "start_offset": 171,
+        "end_offset": 175,
+        "start": 30.826,
+        "end": 31.266,
+        "score": -0.7463
+      },
+      {
+        "word": "in",
+        "start_offset": 176,
+        "end_offset": 178,
+        "start": 31.486,
+        "end": 31.746,
+        "score": -0.7857
+      },
+      {
+        "word": "describing",
+        "start_offset": 179,
+        "end_offset": 189,
+        "start": 32.827,
+        "end": 34.167,
+        "score": -0.9761
+      },
+      {
+        "word": "the",
+        "start_offset": 190,
+        "end_offset": 193,
+        "start": 35.067,
+        "end": 35.187,
+        "score": -0.7746
+      },
+      {
+        "word": "length",
+        "start_offset": 194,
+        "end_offset": 200,
+        "start": 35.587,
+        "end": 36.127,
+        "score": -1.0489
+      },
+      {
+        "word": "of",
+        "start_offset": 201,
+        "end_offset": 203,
+        "start": 37.348,
+        "end": 37.568,
+        "score": -0.7322
+      },
+      {
+        "word": "training",
+        "start_offset": 204,
+        "end_offset": 212,
+        "start": 37.788,
+        "end": 38.568,
+        "score": -0.7166
+      },
+      {
+        "word": "necessary",
+        "start_offset": 213,
+        "end_offset": 222,
+        "start": 39.008,
+        "end": 40.288,
+        "score": -1.1221
+      },
+      {
+        "word": "to",
+        "start_offset": 223,
+        "end_offset": 225,
+        "start": 41.508,
+        "end": 41.709,
+        "score": -1.9012
+      },
+      {
+        "word": "enable",
+        "start_offset": 226,
+        "end_offset": 232,
+        "start": 42.169,
+        "end": 43.209,
+        "score": -1.2501
+      },
+      {
+        "word": "the",
+        "start_offset": 233,
+        "end_offset": 236,
+        "start": 45.109,
+        "end": 45.209,
+        "score": -1.245
+      },
+      {
+        "word": "ones",
+        "start_offset": 237,
+        "end_offset": 241,
+        "start": 45.729,
+        "end": 46.149,
+        "score": -1.6364
+      },
+      {
+        "word": "known",
+        "start_offset": 242,
+        "end_offset": 247,
+        "start": 46.469,
+        "end": 46.87,
+        "score": -0.8313
+      },
+      {
+        "word": "in",
+        "start_offset": 248,
+        "end_offset": 250,
+        "start": 47.21,
+        "end": 47.57,
+        "score": -0.739
+      },
+      {
+        "word": "that",
+        "start_offset": 251,
+        "end_offset": 255,
+        "start": 49.13,
+        "end": 49.49,
+        "score": -0.7188
+      },
+      {
+        "word": "particular",
+        "start_offset": 256,
+        "end_offset": 266,
+        "start": 49.79,
+        "end": 51.25,
+        "score": -0.6978
+      },
+      {
+        "word": "writing",
+        "start_offset": 267,
+        "end_offset": 274,
+        "start": 51.651,
+        "end": 52.311,
+        "score": -0.9773
+      },
+      {
+        "word": "as",
+        "start_offset": 275,
+        "end_offset": 277,
+        "start": 53.631,
+        "end": 54.091,
+        "score": -0.7206
+      },
+      {
+        "word": "Theodore",
+        "start_offset": 278,
+        "end_offset": 286,
+        "start": 54.931,
+        "end": 56.211,
+        "score": -1.1711
+      },
+      {
+        "word": "and",
+        "start_offset": 287,
+        "end_offset": 290,
+        "start": 57.752,
+        "end": 58.112,
+        "score": -1.019
+      },
+      {
+        "word": "Pablo",
+        "start_offset": 291,
+        "end_offset": 296,
+        "start": 58.392,
+        "end": 59.032,
+        "score": -0.7299
+      },
+      {
+        "word": "in",
+        "start_offset": 297,
+        "end_offset": 299,
+        "start": 60.632,
+        "end": 60.932,
+        "score": -0.7279
+      },
+      {
+        "word": "the",
+        "start_offset": 300,
+        "end_offset": 303,
+        "start": 61.333,
+        "end": 61.453,
+        "score": -1.4223
+      },
+      {
+        "word": "necessary",
+        "start_offset": 304,
+        "end_offset": 313,
+        "start": 61.973,
+        "end": 63.333,
+        "score": -1.4934
+      },
+      {
+        "word": "disciplines.",
+        "start_offset": 314,
+        "end_offset": 326,
+        "start": 65.033,
+        "end": 66.194,
+        "score": -1.115
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "067-17.mp3",
+    "audio_duration": 70.0343,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

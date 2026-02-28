@@ -1,0 +1,114 @@
+{
+  "text": "Number eighty five, April twenty sixth, nineteen eighty two. We communicate now.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Number eighty five, April twenty sixth, nineteen eighty two.",
+        "start_offset": 69,
+        "end_offset": 124,
+        "start": 5.5200000000000005,
+        "end": 9.92
+      },
+      {
+        "segment": "We communicate now.",
+        "start_offset": 167,
+        "end_offset": 225,
+        "start": 13.36,
+        "end": 18.0
+      }
+    ],
+    "word": [
+      {
+        "word": "Number",
+        "start_offset": 69,
+        "end_offset": 76,
+        "start": 5.5200000000000005,
+        "end": 6.08
+      },
+      {
+        "word": "eighty",
+        "start_offset": 76,
+        "end_offset": 80,
+        "start": 6.08,
+        "end": 6.4
+      },
+      {
+        "word": "five,",
+        "start_offset": 81,
+        "end_offset": 87,
+        "start": 6.48,
+        "end": 6.96
+      },
+      {
+        "word": "April",
+        "start_offset": 90,
+        "end_offset": 96,
+        "start": 7.2,
+        "end": 7.68
+      },
+      {
+        "word": "twenty",
+        "start_offset": 96,
+        "end_offset": 101,
+        "start": 7.68,
+        "end": 8.08
+      },
+      {
+        "word": "sixth,",
+        "start_offset": 101,
+        "end_offset": 107,
+        "start": 8.08,
+        "end": 8.56
+      },
+      {
+        "word": "nineteen",
+        "start_offset": 109,
+        "end_offset": 115,
+        "start": 8.72,
+        "end": 9.200000000000001
+      },
+      {
+        "word": "eighty",
+        "start_offset": 115,
+        "end_offset": 119,
+        "start": 9.200000000000001,
+        "end": 9.52
+      },
+      {
+        "word": "two.",
+        "start_offset": 121,
+        "end_offset": 124,
+        "start": 9.68,
+        "end": 9.92
+      },
+      {
+        "word": "We",
+        "start_offset": 167,
+        "end_offset": 169,
+        "start": 13.36,
+        "end": 13.52
+      },
+      {
+        "word": "communicate",
+        "start_offset": 173,
+        "end_offset": 195,
+        "start": 13.84,
+        "end": 15.6
+      },
+      {
+        "word": "now.",
+        "start_offset": 221,
+        "end_offset": 225,
+        "start": 17.68,
+        "end": 18.0
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "085-00.mp3",
+    "audio_duration": 56.03,
+    "transcription_time": 0.11,
+    "rtfx": 496.61,
+    "timestamp": "2026-01-06T21:57:34.058050+00:00"
+  }
+}

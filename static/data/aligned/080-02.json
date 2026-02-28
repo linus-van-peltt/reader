@@ -1,0 +1,674 @@
+{
+  "text": "I had to leave the room for a forgotten item after we performed the banishing ritual. Did this have a deleterious effect on the ritual or the working? I am Ra. Were it the only working the lapse would have been critical. There is enough residual energy of a protective nature in this place of working that this lapse, though quite unrecommended, does not represent a threat to the protection which the ritual of which you spoke offers.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I had to leave the room for a forgotten item after we performed the banishing ritual.",
+        "start_offset": 0,
+        "end_offset": 85,
+        "start": 3.0,
+        "end": 12.181
+      },
+      {
+        "segment": "Did this have a deleterious effect on the ritual or the working?",
+        "start_offset": 86,
+        "end_offset": 150,
+        "start": 13.381,
+        "end": 23.602
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 151,
+        "end_offset": 159,
+        "start": 28.002,
+        "end": 30.142
+      },
+      {
+        "segment": "Were it the only working the lapse would have been critical.",
+        "start_offset": 160,
+        "end_offset": 220,
+        "start": 33.043,
+        "end": 47.304
+      },
+      {
+        "segment": "There is enough residual energy of a protective nature in this place of working that this lapse, though quite unrecommended, does not represent a threat to the protection which the ritual of which you spoke offers.",
+        "start_offset": 221,
+        "end_offset": 435,
+        "start": 49.664,
+        "end": 118.389
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 3.0,
+        "end": 3.02,
+        "score": -6.6391
+      },
+      {
+        "word": "had",
+        "start_offset": 2,
+        "end_offset": 5,
+        "start": 3.14,
+        "end": 3.42,
+        "score": -2.0151
+      },
+      {
+        "word": "to",
+        "start_offset": 6,
+        "end_offset": 8,
+        "start": 3.6,
+        "end": 3.72,
+        "score": -2.151
+      },
+      {
+        "word": "leave",
+        "start_offset": 9,
+        "end_offset": 14,
+        "start": 6.08,
+        "end": 6.3,
+        "score": -2.2532
+      },
+      {
+        "word": "the",
+        "start_offset": 15,
+        "end_offset": 18,
+        "start": 6.32,
+        "end": 6.421,
+        "score": -1.4956
+      },
+      {
+        "word": "room",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 6.481,
+        "end": 6.701,
+        "score": -1.5591
+      },
+      {
+        "word": "for",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 6.821,
+        "end": 6.981,
+        "score": -2.001
+      },
+      {
+        "word": "a",
+        "start_offset": 28,
+        "end_offset": 29,
+        "start": 7.061,
+        "end": 7.081,
+        "score": -2.7277
+      },
+      {
+        "word": "forgotten",
+        "start_offset": 30,
+        "end_offset": 39,
+        "start": 8.681,
+        "end": 9.101,
+        "score": -1.6918
+      },
+      {
+        "word": "item",
+        "start_offset": 40,
+        "end_offset": 44,
+        "start": 9.281,
+        "end": 9.461,
+        "score": -1.5076
+      },
+      {
+        "word": "after",
+        "start_offset": 45,
+        "end_offset": 50,
+        "start": 9.561,
+        "end": 9.801,
+        "score": -1.2425
+      },
+      {
+        "word": "we",
+        "start_offset": 51,
+        "end_offset": 53,
+        "start": 9.981,
+        "end": 10.081,
+        "score": -1.7459
+      },
+      {
+        "word": "performed",
+        "start_offset": 54,
+        "end_offset": 63,
+        "start": 10.561,
+        "end": 11.101,
+        "score": -2.2191
+      },
+      {
+        "word": "the",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 11.121,
+        "end": 11.181,
+        "score": -5.1743
+      },
+      {
+        "word": "banishing",
+        "start_offset": 68,
+        "end_offset": 77,
+        "start": 11.241,
+        "end": 11.741,
+        "score": -1.7475
+      },
+      {
+        "word": "ritual.",
+        "start_offset": 78,
+        "end_offset": 85,
+        "start": 11.821,
+        "end": 12.181,
+        "score": -2.0318
+      },
+      {
+        "word": "Did",
+        "start_offset": 86,
+        "end_offset": 89,
+        "start": 13.381,
+        "end": 13.521,
+        "score": -3.8927
+      },
+      {
+        "word": "this",
+        "start_offset": 90,
+        "end_offset": 94,
+        "start": 13.581,
+        "end": 13.821,
+        "score": -2.6564
+      },
+      {
+        "word": "have",
+        "start_offset": 95,
+        "end_offset": 99,
+        "start": 13.881,
+        "end": 14.121,
+        "score": -2.9974
+      },
+      {
+        "word": "a",
+        "start_offset": 100,
+        "end_offset": 101,
+        "start": 14.201,
+        "end": 14.221,
+        "score": -2.9563
+      },
+      {
+        "word": "deleterious",
+        "start_offset": 102,
+        "end_offset": 113,
+        "start": 15.641,
+        "end": 16.321,
+        "score": -2.3784
+      },
+      {
+        "word": "effect",
+        "start_offset": 114,
+        "end_offset": 120,
+        "start": 16.401,
+        "end": 16.821,
+        "score": -1.9809
+      },
+      {
+        "word": "on",
+        "start_offset": 121,
+        "end_offset": 123,
+        "start": 17.101,
+        "end": 17.241,
+        "score": -1.9058
+      },
+      {
+        "word": "the",
+        "start_offset": 124,
+        "end_offset": 127,
+        "start": 17.301,
+        "end": 17.421,
+        "score": -2.8299
+      },
+      {
+        "word": "ritual",
+        "start_offset": 128,
+        "end_offset": 134,
+        "start": 21.002,
+        "end": 21.422,
+        "score": -2.7126
+      },
+      {
+        "word": "or",
+        "start_offset": 135,
+        "end_offset": 137,
+        "start": 21.722,
+        "end": 21.822,
+        "score": -4.5572
+      },
+      {
+        "word": "the",
+        "start_offset": 138,
+        "end_offset": 141,
+        "start": 21.882,
+        "end": 21.982,
+        "score": -2.9507
+      },
+      {
+        "word": "working?",
+        "start_offset": 142,
+        "end_offset": 150,
+        "start": 23.262,
+        "end": 23.602,
+        "score": -2.8938
+      },
+      {
+        "word": "I",
+        "start_offset": 151,
+        "end_offset": 152,
+        "start": 28.002,
+        "end": 28.022,
+        "score": -0.7952
+      },
+      {
+        "word": "am",
+        "start_offset": 153,
+        "end_offset": 155,
+        "start": 28.862,
+        "end": 29.202,
+        "score": -1.015
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 156,
+        "end_offset": 159,
+        "start": 30.022,
+        "end": 30.142,
+        "score": -1.8994
+      },
+      {
+        "word": "Were",
+        "start_offset": 160,
+        "end_offset": 164,
+        "start": 33.043,
+        "end": 33.423,
+        "score": -0.7543
+      },
+      {
+        "word": "it",
+        "start_offset": 165,
+        "end_offset": 167,
+        "start": 33.983,
+        "end": 34.223,
+        "score": -0.7182
+      },
+      {
+        "word": "the",
+        "start_offset": 168,
+        "end_offset": 171,
+        "start": 34.843,
+        "end": 34.983,
+        "score": -0.7789
+      },
+      {
+        "word": "only",
+        "start_offset": 172,
+        "end_offset": 176,
+        "start": 36.103,
+        "end": 36.483,
+        "score": -0.7155
+      },
+      {
+        "word": "working",
+        "start_offset": 177,
+        "end_offset": 184,
+        "start": 37.603,
+        "end": 38.103,
+        "score": -0.7123
+      },
+      {
+        "word": "the",
+        "start_offset": 185,
+        "end_offset": 188,
+        "start": 39.903,
+        "end": 40.023,
+        "score": -0.9116
+      },
+      {
+        "word": "lapse",
+        "start_offset": 189,
+        "end_offset": 194,
+        "start": 42.303,
+        "end": 42.823,
+        "score": -1.4363
+      },
+      {
+        "word": "would",
+        "start_offset": 195,
+        "end_offset": 200,
+        "start": 43.443,
+        "end": 43.783,
+        "score": -0.7604
+      },
+      {
+        "word": "have",
+        "start_offset": 201,
+        "end_offset": 205,
+        "start": 44.243,
+        "end": 44.643,
+        "score": -0.7186
+      },
+      {
+        "word": "been",
+        "start_offset": 206,
+        "end_offset": 210,
+        "start": 45.064,
+        "end": 45.384,
+        "score": -0.7101
+      },
+      {
+        "word": "critical.",
+        "start_offset": 211,
+        "end_offset": 220,
+        "start": 46.664,
+        "end": 47.304,
+        "score": -0.7099
+      },
+      {
+        "word": "There",
+        "start_offset": 221,
+        "end_offset": 226,
+        "start": 49.664,
+        "end": 49.964,
+        "score": -0.8366
+      },
+      {
+        "word": "is",
+        "start_offset": 227,
+        "end_offset": 229,
+        "start": 50.844,
+        "end": 51.124,
+        "score": -0.7281
+      },
+      {
+        "word": "enough",
+        "start_offset": 230,
+        "end_offset": 236,
+        "start": 52.424,
+        "end": 52.924,
+        "score": -2.6924
+      },
+      {
+        "word": "residual",
+        "start_offset": 237,
+        "end_offset": 245,
+        "start": 54.704,
+        "end": 56.104,
+        "score": -0.7963
+      },
+      {
+        "word": "energy",
+        "start_offset": 246,
+        "end_offset": 252,
+        "start": 58.205,
+        "end": 58.845,
+        "score": -0.7334
+      },
+      {
+        "word": "of",
+        "start_offset": 253,
+        "end_offset": 255,
+        "start": 60.105,
+        "end": 60.305,
+        "score": -0.7052
+      },
+      {
+        "word": "a",
+        "start_offset": 256,
+        "end_offset": 257,
+        "start": 60.685,
+        "end": 60.705,
+        "score": -0.7152
+      },
+      {
+        "word": "protective",
+        "start_offset": 258,
+        "end_offset": 268,
+        "start": 60.985,
+        "end": 62.645,
+        "score": -0.7506
+      },
+      {
+        "word": "nature",
+        "start_offset": 269,
+        "end_offset": 275,
+        "start": 63.825,
+        "end": 64.585,
+        "score": -1.2128
+      },
+      {
+        "word": "in",
+        "start_offset": 276,
+        "end_offset": 278,
+        "start": 66.125,
+        "end": 66.325,
+        "score": -0.7142
+      },
+      {
+        "word": "this",
+        "start_offset": 279,
+        "end_offset": 283,
+        "start": 67.005,
+        "end": 67.365,
+        "score": -0.7357
+      },
+      {
+        "word": "place",
+        "start_offset": 284,
+        "end_offset": 289,
+        "start": 68.045,
+        "end": 68.625,
+        "score": -0.7314
+      },
+      {
+        "word": "of",
+        "start_offset": 290,
+        "end_offset": 292,
+        "start": 69.505,
+        "end": 69.745,
+        "score": -0.7296
+      },
+      {
+        "word": "working",
+        "start_offset": 293,
+        "end_offset": 300,
+        "start": 71.026,
+        "end": 71.566,
+        "score": -0.7303
+      },
+      {
+        "word": "that",
+        "start_offset": 301,
+        "end_offset": 305,
+        "start": 72.946,
+        "end": 73.306,
+        "score": -0.7288
+      },
+      {
+        "word": "this",
+        "start_offset": 306,
+        "end_offset": 310,
+        "start": 74.146,
+        "end": 74.546,
+        "score": -0.8047
+      },
+      {
+        "word": "lapse,",
+        "start_offset": 311,
+        "end_offset": 317,
+        "start": 76.086,
+        "end": 76.746,
+        "score": -1.4909
+      },
+      {
+        "word": "though",
+        "start_offset": 318,
+        "end_offset": 324,
+        "start": 78.286,
+        "end": 78.646,
+        "score": -0.9729
+      },
+      {
+        "word": "quite",
+        "start_offset": 325,
+        "end_offset": 330,
+        "start": 82.286,
+        "end": 82.826,
+        "score": -0.7377
+      },
+      {
+        "word": "unrecommended,",
+        "start_offset": 331,
+        "end_offset": 345,
+        "start": 83.647,
+        "end": 85.947,
+        "score": -1.0234
+      },
+      {
+        "word": "does",
+        "start_offset": 346,
+        "end_offset": 350,
+        "start": 90.127,
+        "end": 90.547,
+        "score": -1.0235
+      },
+      {
+        "word": "not",
+        "start_offset": 351,
+        "end_offset": 354,
+        "start": 91.047,
+        "end": 91.387,
+        "score": -0.7036
+      },
+      {
+        "word": "represent",
+        "start_offset": 355,
+        "end_offset": 364,
+        "start": 92.487,
+        "end": 93.787,
+        "score": -0.7573
+      },
+      {
+        "word": "a",
+        "start_offset": 365,
+        "end_offset": 366,
+        "start": 98.808,
+        "end": 98.828,
+        "score": -0.8054
+      },
+      {
+        "word": "threat",
+        "start_offset": 367,
+        "end_offset": 373,
+        "start": 98.948,
+        "end": 99.528,
+        "score": -1.2917
+      },
+      {
+        "word": "to",
+        "start_offset": 374,
+        "end_offset": 376,
+        "start": 100.568,
+        "end": 100.728,
+        "score": -0.7181
+      },
+      {
+        "word": "the",
+        "start_offset": 377,
+        "end_offset": 380,
+        "start": 101.608,
+        "end": 101.728,
+        "score": -0.9339
+      },
+      {
+        "word": "protection",
+        "start_offset": 381,
+        "end_offset": 391,
+        "start": 103.108,
+        "end": 104.348,
+        "score": -0.743
+      },
+      {
+        "word": "which",
+        "start_offset": 392,
+        "end_offset": 397,
+        "start": 105.868,
+        "end": 106.228,
+        "score": -0.7725
+      },
+      {
+        "word": "the",
+        "start_offset": 398,
+        "end_offset": 401,
+        "start": 106.848,
+        "end": 106.988,
+        "score": -0.809
+      },
+      {
+        "word": "ritual",
+        "start_offset": 402,
+        "end_offset": 408,
+        "start": 109.469,
+        "end": 110.169,
+        "score": -0.8107
+      },
+      {
+        "word": "of",
+        "start_offset": 409,
+        "end_offset": 411,
+        "start": 111.969,
+        "end": 112.269,
+        "score": -0.7409
+      },
+      {
+        "word": "which",
+        "start_offset": 412,
+        "end_offset": 417,
+        "start": 112.849,
+        "end": 113.209,
+        "score": -0.7246
+      },
+      {
+        "word": "you",
+        "start_offset": 418,
+        "end_offset": 421,
+        "start": 113.809,
+        "end": 113.949,
+        "score": -0.7705
+      },
+      {
+        "word": "spoke",
+        "start_offset": 422,
+        "end_offset": 427,
+        "start": 115.449,
+        "end": 116.009,
+        "score": -0.7344
+      },
+      {
+        "word": "offers.",
+        "start_offset": 428,
+        "end_offset": 435,
+        "start": 117.829,
+        "end": 118.389,
+        "score": -0.7803
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "080-02.mp3",
+    "audio_duration": 131.0302,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

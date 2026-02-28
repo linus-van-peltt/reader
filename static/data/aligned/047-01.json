@@ -1,0 +1,204 @@
+{
+  "text": "Could you first give us an indication of the condition of the instrument? I am Ra. It is as previously stated.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you first give us an indication of the condition of the instrument?",
+        "start_offset": 0,
+        "end_offset": 73,
+        "start": 0.941,
+        "end": 5.164
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 74,
+        "end_offset": 82,
+        "start": 13.309,
+        "end": 15.671
+      },
+      {
+        "segment": "It is as previously stated.",
+        "start_offset": 83,
+        "end_offset": 110,
+        "start": 17.832,
+        "end": 24.477
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 0.941,
+        "end": 1.101,
+        "score": -0.7327
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 1.141,
+        "end": 1.221,
+        "score": -0.7018
+      },
+      {
+        "word": "first",
+        "start_offset": 10,
+        "end_offset": 15,
+        "start": 1.301,
+        "end": 1.701,
+        "score": -0.6971
+      },
+      {
+        "word": "give",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 1.861,
+        "end": 2.061,
+        "score": -0.7123
+      },
+      {
+        "word": "us",
+        "start_offset": 21,
+        "end_offset": 23,
+        "start": 2.101,
+        "end": 2.282,
+        "score": -0.7058
+      },
+      {
+        "word": "an",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 2.682,
+        "end": 2.742,
+        "score": -1.1645
+      },
+      {
+        "word": "indication",
+        "start_offset": 27,
+        "end_offset": 37,
+        "start": 2.802,
+        "end": 3.462,
+        "score": -0.699
+      },
+      {
+        "word": "of",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 3.562,
+        "end": 3.623,
+        "score": -0.7105
+      },
+      {
+        "word": "the",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 3.683,
+        "end": 3.763,
+        "score": -0.8526
+      },
+      {
+        "word": "condition",
+        "start_offset": 45,
+        "end_offset": 54,
+        "start": 3.803,
+        "end": 4.283,
+        "score": -0.6964
+      },
+      {
+        "word": "of",
+        "start_offset": 55,
+        "end_offset": 57,
+        "start": 4.363,
+        "end": 4.423,
+        "score": -0.7156
+      },
+      {
+        "word": "the",
+        "start_offset": 58,
+        "end_offset": 61,
+        "start": 4.463,
+        "end": 4.543,
+        "score": -0.8033
+      },
+      {
+        "word": "instrument?",
+        "start_offset": 62,
+        "end_offset": 73,
+        "start": 4.643,
+        "end": 5.164,
+        "score": -0.698
+      },
+      {
+        "word": "I",
+        "start_offset": 74,
+        "end_offset": 75,
+        "start": 13.309,
+        "end": 13.329,
+        "score": -1.4167
+      },
+      {
+        "word": "am",
+        "start_offset": 76,
+        "end_offset": 78,
+        "start": 14.31,
+        "end": 14.63,
+        "score": -1.8335
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 79,
+        "end_offset": 82,
+        "start": 15.531,
+        "end": 15.671,
+        "score": -1.3407
+      },
+      {
+        "word": "It",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 17.832,
+        "end": 18.053,
+        "score": -0.7222
+      },
+      {
+        "word": "is",
+        "start_offset": 86,
+        "end_offset": 88,
+        "start": 18.373,
+        "end": 18.793,
+        "score": -0.7466
+      },
+      {
+        "word": "as",
+        "start_offset": 89,
+        "end_offset": 91,
+        "start": 20.034,
+        "end": 20.414,
+        "score": -0.7847
+      },
+      {
+        "word": "previously",
+        "start_offset": 92,
+        "end_offset": 102,
+        "start": 21.395,
+        "end": 22.716,
+        "score": -0.8672
+      },
+      {
+        "word": "stated.",
+        "start_offset": 103,
+        "end_offset": 110,
+        "start": 23.777,
+        "end": 24.477,
+        "score": -0.7208
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "047-01.mp3",
+    "audio_duration": 30.0409,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

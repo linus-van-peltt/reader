@@ -1,0 +1,156 @@
+{
+  "text": "Are they accurate, or have I made mistakes? I am Ra. There are no mistakes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Are they accurate, or have I made mistakes?",
+        "start_offset": 0,
+        "end_offset": 43,
+        "start": 2.683,
+        "end": 5.547
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 44,
+        "end_offset": 52,
+        "start": 9.992,
+        "end": 12.075
+      },
+      {
+        "segment": "There are no mistakes.",
+        "start_offset": 53,
+        "end_offset": 75,
+        "start": 14.037,
+        "end": 18.643
+      }
+    ],
+    "word": [
+      {
+        "word": "Are",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.683,
+        "end": 2.843,
+        "score": -0.885
+      },
+      {
+        "word": "they",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 2.904,
+        "end": 3.064,
+        "score": -0.8098
+      },
+      {
+        "word": "accurate,",
+        "start_offset": 9,
+        "end_offset": 18,
+        "start": 3.304,
+        "end": 3.785,
+        "score": -0.8022
+      },
+      {
+        "word": "or",
+        "start_offset": 19,
+        "end_offset": 21,
+        "start": 3.945,
+        "end": 4.105,
+        "score": -0.9642
+      },
+      {
+        "word": "have",
+        "start_offset": 22,
+        "end_offset": 26,
+        "start": 4.425,
+        "end": 4.586,
+        "score": -1.4299
+      },
+      {
+        "word": "I",
+        "start_offset": 27,
+        "end_offset": 28,
+        "start": 4.666,
+        "end": 4.686,
+        "score": -1.6717
+      },
+      {
+        "word": "made",
+        "start_offset": 29,
+        "end_offset": 33,
+        "start": 4.746,
+        "end": 4.966,
+        "score": -0.8983
+      },
+      {
+        "word": "mistakes?",
+        "start_offset": 34,
+        "end_offset": 43,
+        "start": 5.026,
+        "end": 5.547,
+        "score": -0.942
+      },
+      {
+        "word": "I",
+        "start_offset": 44,
+        "end_offset": 45,
+        "start": 9.992,
+        "end": 10.012,
+        "score": -1.8327
+      },
+      {
+        "word": "am",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 10.793,
+        "end": 11.013,
+        "score": -4.1089
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 11.935,
+        "end": 12.075,
+        "score": -3.9694
+      },
+      {
+        "word": "There",
+        "start_offset": 53,
+        "end_offset": 58,
+        "start": 14.037,
+        "end": 14.358,
+        "score": -0.8174
+      },
+      {
+        "word": "are",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 15.339,
+        "end": 15.619,
+        "score": -0.8123
+      },
+      {
+        "word": "no",
+        "start_offset": 63,
+        "end_offset": 65,
+        "start": 16.821,
+        "end": 16.941,
+        "score": -0.7088
+      },
+      {
+        "word": "mistakes.",
+        "start_offset": 66,
+        "end_offset": 75,
+        "start": 17.942,
+        "end": 18.643,
+        "score": -0.807
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "078-27.mp3",
+    "audio_duration": 19.0433,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

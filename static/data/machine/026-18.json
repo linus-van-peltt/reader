@@ -1,0 +1,72 @@
+{
+  "text": "I assume positive. That is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I assume positive.",
+        "start_offset": 10,
+        "end_offset": 31,
+        "start": 0.8,
+        "end": 2.48
+      },
+      {
+        "segment": "That is correct.",
+        "start_offset": 44,
+        "end_offset": 92,
+        "start": 3.52,
+        "end": 7.36
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 0.8,
+        "end": 1.12
+      },
+      {
+        "word": "assume",
+        "start_offset": 14,
+        "end_offset": 21,
+        "start": 1.12,
+        "end": 1.68
+      },
+      {
+        "word": "positive.",
+        "start_offset": 21,
+        "end_offset": 31,
+        "start": 1.68,
+        "end": 2.48
+      },
+      {
+        "word": "That",
+        "start_offset": 44,
+        "end_offset": 48,
+        "start": 3.52,
+        "end": 3.84
+      },
+      {
+        "word": "is",
+        "start_offset": 60,
+        "end_offset": 64,
+        "start": 4.8,
+        "end": 5.12
+      },
+      {
+        "word": "correct.",
+        "start_offset": 80,
+        "end_offset": 92,
+        "start": 6.4,
+        "end": 7.36
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "026-18.mp3",
+    "audio_duration": 8.05,
+    "transcription_time": 0.08,
+    "rtfx": 96.79,
+    "timestamp": "2026-01-06T21:49:04.274653+00:00"
+  }
+}

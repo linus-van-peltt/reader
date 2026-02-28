@@ -1,0 +1,450 @@
+{
+  "text": "I believe that uh there were salient errors in the communication we just completed because of transmission difficulties. Are you aware of these errors? I am we are unaware of errors, although this instrument is experiencing the flares of pain, as you call this distortion. We welcome and encourage your perceptions in correcting any errors in a transmission.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I believe that uh there were salient errors in the communication we just completed because of transmission difficulties.",
+        "start_offset": 36,
+        "end_offset": 212,
+        "start": 2.88,
+        "end": 16.96
+      },
+      {
+        "segment": "Are you aware of these errors?",
+        "start_offset": 223,
+        "end_offset": 250,
+        "start": 17.84,
+        "end": 20.0
+      },
+      {
+        "segment": "I am we are unaware of errors, although this instrument is experiencing the flares of pain, as you call this distortion.",
+        "start_offset": 288,
+        "end_offset": 685,
+        "start": 23.04,
+        "end": 54.800000000000004
+      },
+      {
+        "segment": "We welcome and encourage your perceptions in correcting any errors in a transmission.",
+        "start_offset": 698,
+        "end_offset": 958,
+        "start": 55.84,
+        "end": 76.64
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 36,
+        "end_offset": 40,
+        "start": 2.88,
+        "end": 3.2
+      },
+      {
+        "word": "believe",
+        "start_offset": 45,
+        "end_offset": 53,
+        "start": 3.6,
+        "end": 4.24
+      },
+      {
+        "word": "that",
+        "start_offset": 53,
+        "end_offset": 56,
+        "start": 4.24,
+        "end": 4.48
+      },
+      {
+        "word": "uh",
+        "start_offset": 56,
+        "end_offset": 59,
+        "start": 4.48,
+        "end": 4.72
+      },
+      {
+        "word": "there",
+        "start_offset": 63,
+        "end_offset": 67,
+        "start": 5.04,
+        "end": 5.36
+      },
+      {
+        "word": "were",
+        "start_offset": 67,
+        "end_offset": 71,
+        "start": 5.36,
+        "end": 5.68
+      },
+      {
+        "word": "salient",
+        "start_offset": 75,
+        "end_offset": 87,
+        "start": 6.0,
+        "end": 6.96
+      },
+      {
+        "word": "errors",
+        "start_offset": 87,
+        "end_offset": 99,
+        "start": 6.96,
+        "end": 7.92
+      },
+      {
+        "word": "in",
+        "start_offset": 103,
+        "end_offset": 107,
+        "start": 8.24,
+        "end": 8.56
+      },
+      {
+        "word": "the",
+        "start_offset": 115,
+        "end_offset": 119,
+        "start": 9.200000000000001,
+        "end": 9.52
+      },
+      {
+        "word": "communication",
+        "start_offset": 119,
+        "end_offset": 134,
+        "start": 9.52,
+        "end": 10.72
+      },
+      {
+        "word": "we",
+        "start_offset": 138,
+        "end_offset": 142,
+        "start": 11.040000000000001,
+        "end": 11.36
+      },
+      {
+        "word": "just",
+        "start_offset": 146,
+        "end_offset": 150,
+        "start": 11.68,
+        "end": 12.0
+      },
+      {
+        "word": "completed",
+        "start_offset": 162,
+        "end_offset": 174,
+        "start": 12.96,
+        "end": 13.92
+      },
+      {
+        "word": "because",
+        "start_offset": 181,
+        "end_offset": 185,
+        "start": 14.48,
+        "end": 14.8
+      },
+      {
+        "word": "of",
+        "start_offset": 187,
+        "end_offset": 189,
+        "start": 14.96,
+        "end": 15.120000000000001
+      },
+      {
+        "word": "transmission",
+        "start_offset": 191,
+        "end_offset": 199,
+        "start": 15.280000000000001,
+        "end": 15.92
+      },
+      {
+        "word": "difficulties.",
+        "start_offset": 200,
+        "end_offset": 212,
+        "start": 16.0,
+        "end": 16.96
+      },
+      {
+        "word": "Are",
+        "start_offset": 223,
+        "end_offset": 227,
+        "start": 17.84,
+        "end": 18.16
+      },
+      {
+        "word": "you",
+        "start_offset": 227,
+        "end_offset": 230,
+        "start": 18.16,
+        "end": 18.400000000000002
+      },
+      {
+        "word": "aware",
+        "start_offset": 230,
+        "end_offset": 234,
+        "start": 18.400000000000002,
+        "end": 18.72
+      },
+      {
+        "word": "of",
+        "start_offset": 234,
+        "end_offset": 236,
+        "start": 18.72,
+        "end": 18.88
+      },
+      {
+        "word": "these",
+        "start_offset": 236,
+        "end_offset": 240,
+        "start": 18.88,
+        "end": 19.2
+      },
+      {
+        "word": "errors?",
+        "start_offset": 240,
+        "end_offset": 250,
+        "start": 19.2,
+        "end": 20.0
+      },
+      {
+        "word": "I",
+        "start_offset": 288,
+        "end_offset": 292,
+        "start": 23.04,
+        "end": 23.36
+      },
+      {
+        "word": "am",
+        "start_offset": 300,
+        "end_offset": 303,
+        "start": 24.0,
+        "end": 24.240000000000002
+      },
+      {
+        "word": "we",
+        "start_offset": 338,
+        "end_offset": 342,
+        "start": 27.04,
+        "end": 27.36
+      },
+      {
+        "word": "are",
+        "start_offset": 350,
+        "end_offset": 354,
+        "start": 28.0,
+        "end": 28.32
+      },
+      {
+        "word": "unaware",
+        "start_offset": 370,
+        "end_offset": 389,
+        "start": 29.6,
+        "end": 31.12
+      },
+      {
+        "word": "of",
+        "start_offset": 393,
+        "end_offset": 397,
+        "start": 31.44,
+        "end": 31.76
+      },
+      {
+        "word": "errors,",
+        "start_offset": 412,
+        "end_offset": 420,
+        "start": 32.96,
+        "end": 33.6
+      },
+      {
+        "word": "although",
+        "start_offset": 439,
+        "end_offset": 451,
+        "start": 35.12,
+        "end": 36.08
+      },
+      {
+        "word": "this",
+        "start_offset": 467,
+        "end_offset": 471,
+        "start": 37.36,
+        "end": 37.68
+      },
+      {
+        "word": "instrument",
+        "start_offset": 487,
+        "end_offset": 499,
+        "start": 38.96,
+        "end": 39.92
+      },
+      {
+        "word": "is",
+        "start_offset": 515,
+        "end_offset": 519,
+        "start": 41.2,
+        "end": 41.52
+      },
+      {
+        "word": "experiencing",
+        "start_offset": 535,
+        "end_offset": 555,
+        "start": 42.800000000000004,
+        "end": 44.4
+      },
+      {
+        "word": "the",
+        "start_offset": 566,
+        "end_offset": 570,
+        "start": 45.28,
+        "end": 45.6
+      },
+      {
+        "word": "flares",
+        "start_offset": 570,
+        "end_offset": 578,
+        "start": 45.6,
+        "end": 46.24
+      },
+      {
+        "word": "of",
+        "start_offset": 582,
+        "end_offset": 586,
+        "start": 46.56,
+        "end": 46.88
+      },
+      {
+        "word": "pain,",
+        "start_offset": 602,
+        "end_offset": 610,
+        "start": 48.160000000000004,
+        "end": 48.800000000000004
+      },
+      {
+        "word": "as",
+        "start_offset": 622,
+        "end_offset": 626,
+        "start": 49.76,
+        "end": 50.08
+      },
+      {
+        "word": "you",
+        "start_offset": 630,
+        "end_offset": 634,
+        "start": 50.4,
+        "end": 50.72
+      },
+      {
+        "word": "call",
+        "start_offset": 638,
+        "end_offset": 646,
+        "start": 51.04,
+        "end": 51.68
+      },
+      {
+        "word": "this",
+        "start_offset": 658,
+        "end_offset": 662,
+        "start": 52.64,
+        "end": 52.96
+      },
+      {
+        "word": "distortion.",
+        "start_offset": 670,
+        "end_offset": 685,
+        "start": 53.6,
+        "end": 54.800000000000004
+      },
+      {
+        "word": "We",
+        "start_offset": 698,
+        "end_offset": 702,
+        "start": 55.84,
+        "end": 56.160000000000004
+      },
+      {
+        "word": "welcome",
+        "start_offset": 717,
+        "end_offset": 729,
+        "start": 57.36,
+        "end": 58.32
+      },
+      {
+        "word": "and",
+        "start_offset": 737,
+        "end_offset": 741,
+        "start": 58.96,
+        "end": 59.28
+      },
+      {
+        "word": "encourage",
+        "start_offset": 757,
+        "end_offset": 771,
+        "start": 60.56,
+        "end": 61.68
+      },
+      {
+        "word": "your",
+        "start_offset": 787,
+        "end_offset": 791,
+        "start": 62.96,
+        "end": 63.28
+      },
+      {
+        "word": "perceptions",
+        "start_offset": 811,
+        "end_offset": 823,
+        "start": 64.88,
+        "end": 65.84
+      },
+      {
+        "word": "in",
+        "start_offset": 843,
+        "end_offset": 847,
+        "start": 67.44,
+        "end": 67.76
+      },
+      {
+        "word": "correcting",
+        "start_offset": 867,
+        "end_offset": 883,
+        "start": 69.36,
+        "end": 70.64
+      },
+      {
+        "word": "any",
+        "start_offset": 895,
+        "end_offset": 899,
+        "start": 71.60000000000001,
+        "end": 71.92
+      },
+      {
+        "word": "errors",
+        "start_offset": 911,
+        "end_offset": 923,
+        "start": 72.88,
+        "end": 73.84
+      },
+      {
+        "word": "in",
+        "start_offset": 931,
+        "end_offset": 935,
+        "start": 74.48,
+        "end": 74.8
+      },
+      {
+        "word": "a",
+        "start_offset": 943,
+        "end_offset": 947,
+        "start": 75.44,
+        "end": 75.76
+      },
+      {
+        "word": "transmission.",
+        "start_offset": 947,
+        "end_offset": 958,
+        "start": 75.76,
+        "end": 76.64
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "085-12.mp3",
+    "audio_duration": 78.03,
+    "transcription_time": 0.14,
+    "rtfx": 570.9,
+    "timestamp": "2026-01-06T21:57:38.001261+00:00"
+  }
+}

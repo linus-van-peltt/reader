@@ -1,0 +1,888 @@
+{
+  "text": "Could you define the word density as we have been using it to give us a little greater idea of the concept of this term when used by you? I am Ra. The term density is a, what you would call, mathematical one. The closest analogy is that of music, whereby after seven notes on your western type of scale, if you will, the eighth note begins a new octave. Within your great octave of existence which we share with you, there are seven octaves or densities. Within each density there are seven sub-densities. Within each sub-density, seven sub-sub-densities, and so on infinitely.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you define the word density as we have been using it to give us a little greater idea of the concept of this term when used by you?",
+        "start_offset": 0,
+        "end_offset": 137,
+        "start": 21.161,
+        "end": 26.722
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 138,
+        "end_offset": 146,
+        "start": 26.742,
+        "end": 26.922
+      },
+      {
+        "segment": "The term density is a, what you would call, mathematical one.",
+        "start_offset": 147,
+        "end_offset": 208,
+        "start": 26.942,
+        "end": 37.162
+      },
+      {
+        "segment": "The closest analogy is that of music, whereby after seven notes on your western type of scale, if you will, the eighth note begins a new octave.",
+        "start_offset": 209,
+        "end_offset": 353,
+        "start": 39.342,
+        "end": 71.064
+      },
+      {
+        "segment": "Within your great octave of existence which we share with you, there are seven octaves or densities.",
+        "start_offset": 354,
+        "end_offset": 454,
+        "start": 72.525,
+        "end": 92.906
+      },
+      {
+        "segment": "Within each density there are seven sub-densities.",
+        "start_offset": 455,
+        "end_offset": 505,
+        "start": 93.846,
+        "end": 102.526
+      },
+      {
+        "segment": "Within each sub-density, seven sub-sub-densities, and so on infinitely.",
+        "start_offset": 506,
+        "end_offset": 577,
+        "start": 103.246,
+        "end": 115.987
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 21.161,
+        "end": 21.261,
+        "score": -9.4636
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 21.281,
+        "end": 21.341,
+        "score": -7.4772
+      },
+      {
+        "word": "define",
+        "start_offset": 10,
+        "end_offset": 16,
+        "start": 21.361,
+        "end": 21.541,
+        "score": -7.9303
+      },
+      {
+        "word": "the",
+        "start_offset": 17,
+        "end_offset": 20,
+        "start": 21.561,
+        "end": 21.621,
+        "score": -6.7202
+      },
+      {
+        "word": "word",
+        "start_offset": 21,
+        "end_offset": 25,
+        "start": 21.641,
+        "end": 21.721,
+        "score": -9.1382
+      },
+      {
+        "word": "density",
+        "start_offset": 26,
+        "end_offset": 33,
+        "start": 21.761,
+        "end": 21.921,
+        "score": -9.4221
+      },
+      {
+        "word": "as",
+        "start_offset": 34,
+        "end_offset": 36,
+        "start": 21.941,
+        "end": 22.001,
+        "score": -8.8091
+      },
+      {
+        "word": "we",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 22.021,
+        "end": 22.061,
+        "score": -9.5963
+      },
+      {
+        "word": "have",
+        "start_offset": 40,
+        "end_offset": 44,
+        "start": 22.081,
+        "end": 22.161,
+        "score": -9.3341
+      },
+      {
+        "word": "been",
+        "start_offset": 45,
+        "end_offset": 49,
+        "start": 22.181,
+        "end": 22.281,
+        "score": -7.9122
+      },
+      {
+        "word": "using",
+        "start_offset": 50,
+        "end_offset": 55,
+        "start": 22.301,
+        "end": 22.401,
+        "score": -6.9565
+      },
+      {
+        "word": "it",
+        "start_offset": 56,
+        "end_offset": 58,
+        "start": 22.421,
+        "end": 22.461,
+        "score": -8.9334
+      },
+      {
+        "word": "to",
+        "start_offset": 59,
+        "end_offset": 61,
+        "start": 22.481,
+        "end": 22.541,
+        "score": -9.5121
+      },
+      {
+        "word": "give",
+        "start_offset": 62,
+        "end_offset": 66,
+        "start": 22.601,
+        "end": 22.861,
+        "score": -10.879
+      },
+      {
+        "word": "us",
+        "start_offset": 67,
+        "end_offset": 69,
+        "start": 22.921,
+        "end": 23.081,
+        "score": -9.7013
+      },
+      {
+        "word": "a",
+        "start_offset": 70,
+        "end_offset": 71,
+        "start": 23.101,
+        "end": 23.121,
+        "score": -9.2038
+      },
+      {
+        "word": "little",
+        "start_offset": 72,
+        "end_offset": 78,
+        "start": 23.141,
+        "end": 23.781,
+        "score": -9.7764
+      },
+      {
+        "word": "greater",
+        "start_offset": 79,
+        "end_offset": 86,
+        "start": 23.801,
+        "end": 23.941,
+        "score": -8.8467
+      },
+      {
+        "word": "idea",
+        "start_offset": 87,
+        "end_offset": 91,
+        "start": 23.961,
+        "end": 24.042,
+        "score": -9.133
+      },
+      {
+        "word": "of",
+        "start_offset": 92,
+        "end_offset": 94,
+        "start": 24.062,
+        "end": 24.102,
+        "score": -9.8392
+      },
+      {
+        "word": "the",
+        "start_offset": 95,
+        "end_offset": 98,
+        "start": 24.122,
+        "end": 24.182,
+        "score": -8.4974
+      },
+      {
+        "word": "concept",
+        "start_offset": 99,
+        "end_offset": 106,
+        "start": 24.202,
+        "end": 24.442,
+        "score": -11.1685
+      },
+      {
+        "word": "of",
+        "start_offset": 107,
+        "end_offset": 109,
+        "start": 26.022,
+        "end": 26.062,
+        "score": -10.7063
+      },
+      {
+        "word": "this",
+        "start_offset": 110,
+        "end_offset": 114,
+        "start": 26.082,
+        "end": 26.162,
+        "score": -7.9926
+      },
+      {
+        "word": "term",
+        "start_offset": 115,
+        "end_offset": 119,
+        "start": 26.182,
+        "end": 26.262,
+        "score": -9.2892
+      },
+      {
+        "word": "when",
+        "start_offset": 120,
+        "end_offset": 124,
+        "start": 26.282,
+        "end": 26.402,
+        "score": -5.6421
+      },
+      {
+        "word": "used",
+        "start_offset": 125,
+        "end_offset": 129,
+        "start": 26.422,
+        "end": 26.502,
+        "score": -9.257
+      },
+      {
+        "word": "by",
+        "start_offset": 130,
+        "end_offset": 132,
+        "start": 26.522,
+        "end": 26.562,
+        "score": -10.7818
+      },
+      {
+        "word": "you?",
+        "start_offset": 133,
+        "end_offset": 137,
+        "start": 26.582,
+        "end": 26.722,
+        "score": -10.9241
+      },
+      {
+        "word": "I",
+        "start_offset": 138,
+        "end_offset": 139,
+        "start": 26.742,
+        "end": 26.762,
+        "score": -10.222
+      },
+      {
+        "word": "am",
+        "start_offset": 140,
+        "end_offset": 142,
+        "start": 26.782,
+        "end": 26.822,
+        "score": -7.8039
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 143,
+        "end_offset": 146,
+        "start": 26.842,
+        "end": 26.922,
+        "score": -9.6852
+      },
+      {
+        "word": "The",
+        "start_offset": 147,
+        "end_offset": 150,
+        "start": 26.942,
+        "end": 27.122,
+        "score": -3.2828
+      },
+      {
+        "word": "term",
+        "start_offset": 151,
+        "end_offset": 155,
+        "start": 27.142,
+        "end": 27.302,
+        "score": -5.8606
+      },
+      {
+        "word": "density",
+        "start_offset": 156,
+        "end_offset": 163,
+        "start": 28.022,
+        "end": 28.742,
+        "score": -0.7084
+      },
+      {
+        "word": "is",
+        "start_offset": 164,
+        "end_offset": 166,
+        "start": 29.802,
+        "end": 30.122,
+        "score": -0.7986
+      },
+      {
+        "word": "a,",
+        "start_offset": 167,
+        "end_offset": 169,
+        "start": 30.782,
+        "end": 30.802,
+        "score": -0.8169
+      },
+      {
+        "word": "what",
+        "start_offset": 170,
+        "end_offset": 174,
+        "start": 32.502,
+        "end": 32.702,
+        "score": -0.7216
+      },
+      {
+        "word": "you",
+        "start_offset": 175,
+        "end_offset": 178,
+        "start": 32.942,
+        "end": 33.062,
+        "score": -0.7612
+      },
+      {
+        "word": "would",
+        "start_offset": 179,
+        "end_offset": 184,
+        "start": 33.362,
+        "end": 33.662,
+        "score": -0.7603
+      },
+      {
+        "word": "call,",
+        "start_offset": 185,
+        "end_offset": 190,
+        "start": 33.822,
+        "end": 34.202,
+        "score": -1.2267
+      },
+      {
+        "word": "mathematical",
+        "start_offset": 191,
+        "end_offset": 203,
+        "start": 34.662,
+        "end": 36.002,
+        "score": -1.2726
+      },
+      {
+        "word": "one.",
+        "start_offset": 204,
+        "end_offset": 208,
+        "start": 36.942,
+        "end": 37.162,
+        "score": -4.3441
+      },
+      {
+        "word": "The",
+        "start_offset": 209,
+        "end_offset": 212,
+        "start": 39.342,
+        "end": 39.462,
+        "score": -0.8358
+      },
+      {
+        "word": "closest",
+        "start_offset": 213,
+        "end_offset": 220,
+        "start": 40.002,
+        "end": 40.903,
+        "score": -0.7415
+      },
+      {
+        "word": "analogy",
+        "start_offset": 221,
+        "end_offset": 228,
+        "start": 41.343,
+        "end": 42.203,
+        "score": -0.813
+      },
+      {
+        "word": "is",
+        "start_offset": 229,
+        "end_offset": 231,
+        "start": 43.083,
+        "end": 43.323,
+        "score": -0.7072
+      },
+      {
+        "word": "that",
+        "start_offset": 232,
+        "end_offset": 236,
+        "start": 43.463,
+        "end": 43.823,
+        "score": -0.7429
+      },
+      {
+        "word": "of",
+        "start_offset": 237,
+        "end_offset": 239,
+        "start": 44.583,
+        "end": 44.823,
+        "score": -0.7405
+      },
+      {
+        "word": "music,",
+        "start_offset": 240,
+        "end_offset": 246,
+        "start": 45.723,
+        "end": 46.403,
+        "score": -0.7081
+      },
+      {
+        "word": "whereby",
+        "start_offset": 247,
+        "end_offset": 254,
+        "start": 47.923,
+        "end": 48.743,
+        "score": -0.8823
+      },
+      {
+        "word": "after",
+        "start_offset": 255,
+        "end_offset": 260,
+        "start": 50.423,
+        "end": 50.983,
+        "score": -0.7929
+      },
+      {
+        "word": "seven",
+        "start_offset": 261,
+        "end_offset": 266,
+        "start": 52.283,
+        "end": 52.763,
+        "score": -0.7941
+      },
+      {
+        "word": "notes",
+        "start_offset": 267,
+        "end_offset": 272,
+        "start": 53.463,
+        "end": 53.983,
+        "score": -1.042
+      },
+      {
+        "word": "on",
+        "start_offset": 273,
+        "end_offset": 275,
+        "start": 55.163,
+        "end": 55.363,
+        "score": -0.7244
+      },
+      {
+        "word": "your",
+        "start_offset": 276,
+        "end_offset": 280,
+        "start": 56.044,
+        "end": 56.424,
+        "score": -1.1797
+      },
+      {
+        "word": "western",
+        "start_offset": 281,
+        "end_offset": 288,
+        "start": 58.704,
+        "end": 59.424,
+        "score": -0.7164
+      },
+      {
+        "word": "type",
+        "start_offset": 289,
+        "end_offset": 293,
+        "start": 60.084,
+        "end": 60.584,
+        "score": -0.848
+      },
+      {
+        "word": "of",
+        "start_offset": 294,
+        "end_offset": 296,
+        "start": 60.944,
+        "end": 61.164,
+        "score": -3.6653
+      },
+      {
+        "word": "scale,",
+        "start_offset": 297,
+        "end_offset": 303,
+        "start": 61.424,
+        "end": 61.964,
+        "score": -0.8235
+      },
+      {
+        "word": "if",
+        "start_offset": 304,
+        "end_offset": 306,
+        "start": 62.444,
+        "end": 62.604,
+        "score": -0.6981
+      },
+      {
+        "word": "you",
+        "start_offset": 307,
+        "end_offset": 310,
+        "start": 62.884,
+        "end": 63.004,
+        "score": -0.808
+      },
+      {
+        "word": "will,",
+        "start_offset": 311,
+        "end_offset": 316,
+        "start": 63.324,
+        "end": 63.644,
+        "score": -0.7695
+      },
+      {
+        "word": "the",
+        "start_offset": 317,
+        "end_offset": 320,
+        "start": 64.864,
+        "end": 64.984,
+        "score": -1.5268
+      },
+      {
+        "word": "eighth",
+        "start_offset": 321,
+        "end_offset": 327,
+        "start": 65.464,
+        "end": 65.824,
+        "score": -4.5408
+      },
+      {
+        "word": "note",
+        "start_offset": 328,
+        "end_offset": 332,
+        "start": 66.484,
+        "end": 66.904,
+        "score": -1.1581
+      },
+      {
+        "word": "begins",
+        "start_offset": 333,
+        "end_offset": 339,
+        "start": 67.464,
+        "end": 68.224,
+        "score": -0.7017
+      },
+      {
+        "word": "a",
+        "start_offset": 340,
+        "end_offset": 341,
+        "start": 68.744,
+        "end": 68.764,
+        "score": -0.7394
+      },
+      {
+        "word": "new",
+        "start_offset": 342,
+        "end_offset": 345,
+        "start": 69.004,
+        "end": 69.264,
+        "score": -0.7947
+      },
+      {
+        "word": "octave.",
+        "start_offset": 346,
+        "end_offset": 353,
+        "start": 70.324,
+        "end": 71.064,
+        "score": -1.9133
+      },
+      {
+        "word": "Within",
+        "start_offset": 354,
+        "end_offset": 360,
+        "start": 72.525,
+        "end": 73.285,
+        "score": -0.7762
+      },
+      {
+        "word": "your",
+        "start_offset": 361,
+        "end_offset": 365,
+        "start": 74.045,
+        "end": 74.385,
+        "score": -0.7786
+      },
+      {
+        "word": "great",
+        "start_offset": 366,
+        "end_offset": 371,
+        "start": 75.045,
+        "end": 75.465,
+        "score": -0.7474
+      },
+      {
+        "word": "octave",
+        "start_offset": 372,
+        "end_offset": 378,
+        "start": 76.165,
+        "end": 76.985,
+        "score": -1.6727
+      },
+      {
+        "word": "of",
+        "start_offset": 379,
+        "end_offset": 381,
+        "start": 77.925,
+        "end": 78.165,
+        "score": -0.7104
+      },
+      {
+        "word": "existence",
+        "start_offset": 382,
+        "end_offset": 391,
+        "start": 78.705,
+        "end": 79.785,
+        "score": -0.7233
+      },
+      {
+        "word": "which",
+        "start_offset": 392,
+        "end_offset": 397,
+        "start": 80.525,
+        "end": 80.865,
+        "score": -0.7387
+      },
+      {
+        "word": "we",
+        "start_offset": 398,
+        "end_offset": 400,
+        "start": 81.345,
+        "end": 81.465,
+        "score": -1.5903
+      },
+      {
+        "word": "share",
+        "start_offset": 401,
+        "end_offset": 406,
+        "start": 81.965,
+        "end": 82.405,
+        "score": -1.0542
+      },
+      {
+        "word": "with",
+        "start_offset": 407,
+        "end_offset": 411,
+        "start": 83.145,
+        "end": 83.465,
+        "score": -0.8455
+      },
+      {
+        "word": "you,",
+        "start_offset": 412,
+        "end_offset": 416,
+        "start": 84.005,
+        "end": 84.145,
+        "score": -0.9272
+      },
+      {
+        "word": "there",
+        "start_offset": 417,
+        "end_offset": 422,
+        "start": 85.625,
+        "end": 85.965,
+        "score": -0.9019
+      },
+      {
+        "word": "are",
+        "start_offset": 423,
+        "end_offset": 426,
+        "start": 86.665,
+        "end": 86.965,
+        "score": -2.4504
+      },
+      {
+        "word": "seven",
+        "start_offset": 427,
+        "end_offset": 432,
+        "start": 87.845,
+        "end": 88.326,
+        "score": -1.3069
+      },
+      {
+        "word": "octaves",
+        "start_offset": 433,
+        "end_offset": 440,
+        "start": 89.406,
+        "end": 90.226,
+        "score": -1.4981
+      },
+      {
+        "word": "or",
+        "start_offset": 441,
+        "end_offset": 443,
+        "start": 91.386,
+        "end": 91.526,
+        "score": -0.725
+      },
+      {
+        "word": "densities.",
+        "start_offset": 444,
+        "end_offset": 454,
+        "start": 91.886,
+        "end": 92.906,
+        "score": -0.8597
+      },
+      {
+        "word": "Within",
+        "start_offset": 455,
+        "end_offset": 461,
+        "start": 93.846,
+        "end": 94.546,
+        "score": -2.057
+      },
+      {
+        "word": "each",
+        "start_offset": 462,
+        "end_offset": 466,
+        "start": 95.066,
+        "end": 95.346,
+        "score": -0.8848
+      },
+      {
+        "word": "density",
+        "start_offset": 467,
+        "end_offset": 474,
+        "start": 95.826,
+        "end": 96.506,
+        "score": -0.8171
+      },
+      {
+        "word": "there",
+        "start_offset": 475,
+        "end_offset": 480,
+        "start": 97.366,
+        "end": 97.666,
+        "score": -0.9441
+      },
+      {
+        "word": "are",
+        "start_offset": 481,
+        "end_offset": 484,
+        "start": 98.206,
+        "end": 98.406,
+        "score": -0.924
+      },
+      {
+        "word": "seven",
+        "start_offset": 485,
+        "end_offset": 490,
+        "start": 99.186,
+        "end": 99.626,
+        "score": -1.1738
+      },
+      {
+        "word": "sub-densities.",
+        "start_offset": 491,
+        "end_offset": 505,
+        "start": 100.366,
+        "end": 102.526,
+        "score": -0.9085
+      },
+      {
+        "word": "Within",
+        "start_offset": 506,
+        "end_offset": 512,
+        "start": 103.246,
+        "end": 103.906,
+        "score": -0.7617
+      },
+      {
+        "word": "each",
+        "start_offset": 513,
+        "end_offset": 517,
+        "start": 104.467,
+        "end": 104.767,
+        "score": -0.8008
+      },
+      {
+        "word": "sub-density,",
+        "start_offset": 518,
+        "end_offset": 530,
+        "start": 105.527,
+        "end": 107.027,
+        "score": -1.74
+      },
+      {
+        "word": "seven",
+        "start_offset": 531,
+        "end_offset": 536,
+        "start": 108.107,
+        "end": 108.547,
+        "score": -1.0994
+      },
+      {
+        "word": "sub-sub-densities,",
+        "start_offset": 537,
+        "end_offset": 555,
+        "start": 109.547,
+        "end": 112.107,
+        "score": -0.8951
+      },
+      {
+        "word": "and",
+        "start_offset": 556,
+        "end_offset": 559,
+        "start": 112.887,
+        "end": 113.107,
+        "score": -3.8764
+      },
+      {
+        "word": "so",
+        "start_offset": 560,
+        "end_offset": 562,
+        "start": 113.507,
+        "end": 113.647,
+        "score": -1.5729
+      },
+      {
+        "word": "on",
+        "start_offset": 563,
+        "end_offset": 565,
+        "start": 114.187,
+        "end": 114.387,
+        "score": -1.3728
+      },
+      {
+        "word": "infinitely.",
+        "start_offset": 566,
+        "end_offset": 577,
+        "start": 115.187,
+        "end": 115.987,
+        "score": -3.0658
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-51.mp3",
+    "audio_duration": 118.0474,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

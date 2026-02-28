@@ -1,0 +1,156 @@
+{
+  "text": "Ra twenty-four, February fifteenth. Ra twenty-four, February fifteenth. The light of the infinite creator, I communicate now.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Ra twenty-four, February fifteenth.",
+        "start_offset": 24,
+        "end_offset": 52,
+        "start": 1.92,
+        "end": 4.16
+      },
+      {
+        "segment": "Ra twenty-four, February fifteenth.",
+        "start_offset": 55,
+        "end_offset": 84,
+        "start": 4.4,
+        "end": 6.72
+      },
+      {
+        "segment": "The light of the infinite creator, I communicate now.",
+        "start_offset": 92,
+        "end_offset": 364,
+        "start": 7.36,
+        "end": 29.12
+      }
+    ],
+    "word": [
+      {
+        "word": "Ra",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 1.92,
+        "end": 2.24
+      },
+      {
+        "word": "twenty-four,",
+        "start_offset": 31,
+        "end_offset": 37,
+        "start": 2.48,
+        "end": 2.96
+      },
+      {
+        "word": "February",
+        "start_offset": 38,
+        "end_offset": 44,
+        "start": 3.04,
+        "end": 3.52
+      },
+      {
+        "word": "fifteenth.",
+        "start_offset": 44,
+        "end_offset": 52,
+        "start": 3.52,
+        "end": 4.16
+      },
+      {
+        "word": "Ra",
+        "start_offset": 55,
+        "end_offset": 58,
+        "start": 4.4,
+        "end": 4.64
+      },
+      {
+        "word": "twenty-four,",
+        "start_offset": 60,
+        "end_offset": 65,
+        "start": 4.8,
+        "end": 5.2
+      },
+      {
+        "word": "February",
+        "start_offset": 66,
+        "end_offset": 73,
+        "start": 5.28,
+        "end": 5.84
+      },
+      {
+        "word": "fifteenth.",
+        "start_offset": 73,
+        "end_offset": 84,
+        "start": 5.84,
+        "end": 6.72
+      },
+      {
+        "word": "The",
+        "start_offset": 92,
+        "end_offset": 96,
+        "start": 7.36,
+        "end": 7.68
+      },
+      {
+        "word": "light",
+        "start_offset": 104,
+        "end_offset": 116,
+        "start": 8.32,
+        "end": 9.28
+      },
+      {
+        "word": "of",
+        "start_offset": 140,
+        "end_offset": 144,
+        "start": 11.200000000000001,
+        "end": 11.52
+      },
+      {
+        "word": "the",
+        "start_offset": 156,
+        "end_offset": 160,
+        "start": 12.48,
+        "end": 12.8
+      },
+      {
+        "word": "infinite",
+        "start_offset": 172,
+        "end_offset": 188,
+        "start": 13.76,
+        "end": 15.040000000000001
+      },
+      {
+        "word": "creator,",
+        "start_offset": 200,
+        "end_offset": 208,
+        "start": 16.0,
+        "end": 16.64
+      },
+      {
+        "word": "I",
+        "start_offset": 306,
+        "end_offset": 310,
+        "start": 24.48,
+        "end": 24.8
+      },
+      {
+        "word": "communicate",
+        "start_offset": 326,
+        "end_offset": 344,
+        "start": 26.080000000000002,
+        "end": 27.52
+      },
+      {
+        "word": "now.",
+        "start_offset": 360,
+        "end_offset": 364,
+        "start": 28.8,
+        "end": 29.12
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "024-00.mp3",
+    "audio_duration": 30.04,
+    "transcription_time": 0.1,
+    "rtfx": 314.5,
+    "timestamp": "2026-01-06T21:48:47.633691+00:00"
+  }
+}

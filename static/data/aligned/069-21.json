@@ -1,0 +1,726 @@
+{
+  "text": "You mean the character Trostrick. I am Ra. This is incorrect. We referred to Esmerelda, as this imagined entity was called. We may note that long practice at the art which each intuits here would be helpful. We cannot speak of methodology for the infringement would be most great. However, to speak of group efforts is, as we scan each, merely confirmation of what is known. Therefore, this we may do. We have the available energy for one fairly brief query.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "You mean the character Trostrick.",
+        "start_offset": 0,
+        "end_offset": 33,
+        "start": 2.72,
+        "end": 8.981
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 34,
+        "end_offset": 42,
+        "start": 9.781,
+        "end": 11.541
+      },
+      {
+        "segment": "This is incorrect.",
+        "start_offset": 43,
+        "end_offset": 61,
+        "start": 13.181,
+        "end": 17.601
+      },
+      {
+        "segment": "We referred to Esmerelda, as this imagined entity was called.",
+        "start_offset": 62,
+        "end_offset": 123,
+        "start": 19.042,
+        "end": 40.763
+      },
+      {
+        "segment": "We may note that long practice at the art which each intuits here would be helpful.",
+        "start_offset": 124,
+        "end_offset": 207,
+        "start": 49.244,
+        "end": 77.347
+      },
+      {
+        "segment": "We cannot speak of methodology for the infringement would be most great.",
+        "start_offset": 208,
+        "end_offset": 280,
+        "start": 79.407,
+        "end": 101.649
+      },
+      {
+        "segment": "However, to speak of group efforts is, as we scan each, merely confirmation of what is known.",
+        "start_offset": 281,
+        "end_offset": 374,
+        "start": 103.689,
+        "end": 130.111
+      },
+      {
+        "segment": "Therefore, this we may do.",
+        "start_offset": 375,
+        "end_offset": 401,
+        "start": 132.051,
+        "end": 137.332
+      },
+      {
+        "segment": "We have the available energy for one fairly brief query.",
+        "start_offset": 402,
+        "end_offset": 458,
+        "start": 140.052,
+        "end": 156.173
+      }
+    ],
+    "word": [
+      {
+        "word": "You",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.72,
+        "end": 2.82,
+        "score": -6.6824
+      },
+      {
+        "word": "mean",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 2.84,
+        "end": 3.0,
+        "score": -6.2463
+      },
+      {
+        "word": "the",
+        "start_offset": 9,
+        "end_offset": 12,
+        "start": 3.04,
+        "end": 3.14,
+        "score": -8.2463
+      },
+      {
+        "word": "character",
+        "start_offset": 13,
+        "end_offset": 22,
+        "start": 3.48,
+        "end": 3.92,
+        "score": -7.8185
+      },
+      {
+        "word": "Trostrick.",
+        "start_offset": 23,
+        "end_offset": 33,
+        "start": 4.02,
+        "end": 8.981,
+        "score": -7.9368
+      },
+      {
+        "word": "I",
+        "start_offset": 34,
+        "end_offset": 35,
+        "start": 9.781,
+        "end": 9.801,
+        "score": -2.2283
+      },
+      {
+        "word": "am",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 11.361,
+        "end": 11.401,
+        "score": -4.2131
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 11.441,
+        "end": 11.541,
+        "score": -2.6406
+      },
+      {
+        "word": "This",
+        "start_offset": 43,
+        "end_offset": 47,
+        "start": 13.181,
+        "end": 13.541,
+        "score": -0.8844
+      },
+      {
+        "word": "is",
+        "start_offset": 48,
+        "end_offset": 50,
+        "start": 14.481,
+        "end": 14.841,
+        "score": -0.8604
+      },
+      {
+        "word": "incorrect.",
+        "start_offset": 51,
+        "end_offset": 61,
+        "start": 16.061,
+        "end": 17.601,
+        "score": -0.7586
+      },
+      {
+        "word": "We",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 19.042,
+        "end": 19.182,
+        "score": -0.7352
+      },
+      {
+        "word": "referred",
+        "start_offset": 65,
+        "end_offset": 73,
+        "start": 20.742,
+        "end": 21.742,
+        "score": -1.8428
+      },
+      {
+        "word": "to",
+        "start_offset": 74,
+        "end_offset": 76,
+        "start": 22.962,
+        "end": 23.142,
+        "score": -0.743
+      },
+      {
+        "word": "Esmerelda,",
+        "start_offset": 77,
+        "end_offset": 87,
+        "start": 25.402,
+        "end": 27.142,
+        "score": -2.0569
+      },
+      {
+        "word": "as",
+        "start_offset": 88,
+        "end_offset": 90,
+        "start": 28.602,
+        "end": 29.082,
+        "score": -0.9319
+      },
+      {
+        "word": "this",
+        "start_offset": 91,
+        "end_offset": 95,
+        "start": 30.303,
+        "end": 30.723,
+        "score": -0.7726
+      },
+      {
+        "word": "imagined",
+        "start_offset": 96,
+        "end_offset": 104,
+        "start": 33.603,
+        "end": 35.003,
+        "score": -0.8521
+      },
+      {
+        "word": "entity",
+        "start_offset": 105,
+        "end_offset": 111,
+        "start": 36.183,
+        "end": 37.023,
+        "score": -0.736
+      },
+      {
+        "word": "was",
+        "start_offset": 112,
+        "end_offset": 115,
+        "start": 38.443,
+        "end": 38.923,
+        "score": -0.7101
+      },
+      {
+        "word": "called.",
+        "start_offset": 116,
+        "end_offset": 123,
+        "start": 40.103,
+        "end": 40.763,
+        "score": -0.843
+      },
+      {
+        "word": "We",
+        "start_offset": 124,
+        "end_offset": 126,
+        "start": 49.244,
+        "end": 49.384,
+        "score": -0.7941
+      },
+      {
+        "word": "may",
+        "start_offset": 127,
+        "end_offset": 130,
+        "start": 50.164,
+        "end": 50.504,
+        "score": -0.7188
+      },
+      {
+        "word": "note",
+        "start_offset": 131,
+        "end_offset": 135,
+        "start": 51.264,
+        "end": 51.704,
+        "score": -0.8961
+      },
+      {
+        "word": "that",
+        "start_offset": 136,
+        "end_offset": 140,
+        "start": 53.205,
+        "end": 53.585,
+        "score": -0.7209
+      },
+      {
+        "word": "long",
+        "start_offset": 141,
+        "end_offset": 145,
+        "start": 54.825,
+        "end": 55.285,
+        "score": -0.7856
+      },
+      {
+        "word": "practice",
+        "start_offset": 146,
+        "end_offset": 154,
+        "start": 56.705,
+        "end": 57.745,
+        "score": -0.789
+      },
+      {
+        "word": "at",
+        "start_offset": 155,
+        "end_offset": 157,
+        "start": 59.245,
+        "end": 59.565,
+        "score": -0.7119
+      },
+      {
+        "word": "the",
+        "start_offset": 158,
+        "end_offset": 161,
+        "start": 60.465,
+        "end": 60.605,
+        "score": -0.8218
+      },
+      {
+        "word": "art",
+        "start_offset": 162,
+        "end_offset": 165,
+        "start": 61.985,
+        "end": 62.345,
+        "score": -0.7254
+      },
+      {
+        "word": "which",
+        "start_offset": 166,
+        "end_offset": 171,
+        "start": 63.565,
+        "end": 63.965,
+        "score": -0.73
+      },
+      {
+        "word": "each",
+        "start_offset": 172,
+        "end_offset": 176,
+        "start": 65.346,
+        "end": 65.666,
+        "score": -0.7506
+      },
+      {
+        "word": "intuits",
+        "start_offset": 177,
+        "end_offset": 184,
+        "start": 67.046,
+        "end": 68.126,
+        "score": -1.1016
+      },
+      {
+        "word": "here",
+        "start_offset": 185,
+        "end_offset": 189,
+        "start": 70.786,
+        "end": 71.206,
+        "score": -1.115
+      },
+      {
+        "word": "would",
+        "start_offset": 190,
+        "end_offset": 195,
+        "start": 73.566,
+        "end": 73.906,
+        "score": -0.973
+      },
+      {
+        "word": "be",
+        "start_offset": 196,
+        "end_offset": 198,
+        "start": 74.966,
+        "end": 75.086,
+        "score": -0.7513
+      },
+      {
+        "word": "helpful.",
+        "start_offset": 199,
+        "end_offset": 207,
+        "start": 76.787,
+        "end": 77.347,
+        "score": -0.7195
+      },
+      {
+        "word": "We",
+        "start_offset": 208,
+        "end_offset": 210,
+        "start": 79.407,
+        "end": 79.547,
+        "score": -0.7623
+      },
+      {
+        "word": "cannot",
+        "start_offset": 211,
+        "end_offset": 217,
+        "start": 80.587,
+        "end": 82.367,
+        "score": -0.7021
+      },
+      {
+        "word": "speak",
+        "start_offset": 218,
+        "end_offset": 223,
+        "start": 83.227,
+        "end": 83.827,
+        "score": -1.8181
+      },
+      {
+        "word": "of",
+        "start_offset": 224,
+        "end_offset": 226,
+        "start": 84.947,
+        "end": 85.267,
+        "score": -0.7805
+      },
+      {
+        "word": "methodology",
+        "start_offset": 227,
+        "end_offset": 238,
+        "start": 86.267,
+        "end": 87.827,
+        "score": -0.7366
+      },
+      {
+        "word": "for",
+        "start_offset": 239,
+        "end_offset": 242,
+        "start": 90.388,
+        "end": 90.768,
+        "score": -0.7508
+      },
+      {
+        "word": "the",
+        "start_offset": 243,
+        "end_offset": 246,
+        "start": 91.688,
+        "end": 91.808,
+        "score": -0.8413
+      },
+      {
+        "word": "infringement",
+        "start_offset": 247,
+        "end_offset": 259,
+        "start": 93.528,
+        "end": 94.968,
+        "score": -0.8457
+      },
+      {
+        "word": "would",
+        "start_offset": 260,
+        "end_offset": 265,
+        "start": 96.328,
+        "end": 96.708,
+        "score": -0.8607
+      },
+      {
+        "word": "be",
+        "start_offset": 266,
+        "end_offset": 268,
+        "start": 97.608,
+        "end": 97.728,
+        "score": -0.7649
+      },
+      {
+        "word": "most",
+        "start_offset": 269,
+        "end_offset": 273,
+        "start": 99.748,
+        "end": 100.249,
+        "score": -0.7037
+      },
+      {
+        "word": "great.",
+        "start_offset": 274,
+        "end_offset": 280,
+        "start": 101.229,
+        "end": 101.649,
+        "score": -0.7207
+      },
+      {
+        "word": "However,",
+        "start_offset": 281,
+        "end_offset": 289,
+        "start": 103.689,
+        "end": 104.769,
+        "score": -0.721
+      },
+      {
+        "word": "to",
+        "start_offset": 290,
+        "end_offset": 292,
+        "start": 106.309,
+        "end": 106.509,
+        "score": -1.1321
+      },
+      {
+        "word": "speak",
+        "start_offset": 293,
+        "end_offset": 298,
+        "start": 107.629,
+        "end": 108.189,
+        "score": -1.6203
+      },
+      {
+        "word": "of",
+        "start_offset": 299,
+        "end_offset": 301,
+        "start": 109.589,
+        "end": 109.909,
+        "score": -1.437
+      },
+      {
+        "word": "group",
+        "start_offset": 302,
+        "end_offset": 307,
+        "start": 110.989,
+        "end": 111.489,
+        "score": -0.7785
+      },
+      {
+        "word": "efforts",
+        "start_offset": 308,
+        "end_offset": 315,
+        "start": 112.63,
+        "end": 113.33,
+        "score": -0.8844
+      },
+      {
+        "word": "is,",
+        "start_offset": 316,
+        "end_offset": 319,
+        "start": 114.75,
+        "end": 115.15,
+        "score": -1.3797
+      },
+      {
+        "word": "as",
+        "start_offset": 320,
+        "end_offset": 322,
+        "start": 116.25,
+        "end": 116.51,
+        "score": -4.7492
+      },
+      {
+        "word": "we",
+        "start_offset": 323,
+        "end_offset": 325,
+        "start": 116.79,
+        "end": 116.93,
+        "score": -0.7802
+      },
+      {
+        "word": "scan",
+        "start_offset": 326,
+        "end_offset": 330,
+        "start": 117.33,
+        "end": 117.83,
+        "score": -0.7178
+      },
+      {
+        "word": "each,",
+        "start_offset": 331,
+        "end_offset": 336,
+        "start": 118.19,
+        "end": 118.59,
+        "score": -1.2723
+      },
+      {
+        "word": "merely",
+        "start_offset": 337,
+        "end_offset": 343,
+        "start": 120.55,
+        "end": 121.07,
+        "score": -0.8876
+      },
+      {
+        "word": "confirmation",
+        "start_offset": 344,
+        "end_offset": 356,
+        "start": 122.31,
+        "end": 124.231,
+        "score": -0.7358
+      },
+      {
+        "word": "of",
+        "start_offset": 357,
+        "end_offset": 359,
+        "start": 125.791,
+        "end": 126.071,
+        "score": -5.9922
+      },
+      {
+        "word": "what",
+        "start_offset": 360,
+        "end_offset": 364,
+        "start": 126.611,
+        "end": 126.971,
+        "score": -1.0482
+      },
+      {
+        "word": "is",
+        "start_offset": 365,
+        "end_offset": 367,
+        "start": 127.731,
+        "end": 128.051,
+        "score": -5.8087
+      },
+      {
+        "word": "known.",
+        "start_offset": 368,
+        "end_offset": 374,
+        "start": 129.571,
+        "end": 130.111,
+        "score": -0.7913
+      },
+      {
+        "word": "Therefore,",
+        "start_offset": 375,
+        "end_offset": 385,
+        "start": 132.051,
+        "end": 133.171,
+        "score": -0.8408
+      },
+      {
+        "word": "this",
+        "start_offset": 386,
+        "end_offset": 390,
+        "start": 134.551,
+        "end": 134.951,
+        "score": -0.7474
+      },
+      {
+        "word": "we",
+        "start_offset": 391,
+        "end_offset": 393,
+        "start": 135.652,
+        "end": 135.792,
+        "score": -0.7847
+      },
+      {
+        "word": "may",
+        "start_offset": 394,
+        "end_offset": 397,
+        "start": 136.432,
+        "end": 136.712,
+        "score": -0.7431
+      },
+      {
+        "word": "do.",
+        "start_offset": 398,
+        "end_offset": 401,
+        "start": 137.192,
+        "end": 137.332,
+        "score": -0.7677
+      },
+      {
+        "word": "We",
+        "start_offset": 402,
+        "end_offset": 404,
+        "start": 140.052,
+        "end": 140.212,
+        "score": -0.7318
+      },
+      {
+        "word": "have",
+        "start_offset": 405,
+        "end_offset": 409,
+        "start": 141.052,
+        "end": 141.572,
+        "score": -0.7411
+      },
+      {
+        "word": "the",
+        "start_offset": 410,
+        "end_offset": 413,
+        "start": 142.012,
+        "end": 142.152,
+        "score": -0.7945
+      },
+      {
+        "word": "available",
+        "start_offset": 414,
+        "end_offset": 423,
+        "start": 144.012,
+        "end": 146.592,
+        "score": -1.3585
+      },
+      {
+        "word": "energy",
+        "start_offset": 424,
+        "end_offset": 430,
+        "start": 146.772,
+        "end": 147.353,
+        "score": -2.1557
+      },
+      {
+        "word": "for",
+        "start_offset": 431,
+        "end_offset": 434,
+        "start": 148.853,
+        "end": 149.313,
+        "score": -0.7375
+      },
+      {
+        "word": "one",
+        "start_offset": 435,
+        "end_offset": 438,
+        "start": 150.753,
+        "end": 151.073,
+        "score": -0.7072
+      },
+      {
+        "word": "fairly",
+        "start_offset": 439,
+        "end_offset": 445,
+        "start": 151.813,
+        "end": 152.633,
+        "score": -1.1777
+      },
+      {
+        "word": "brief",
+        "start_offset": 446,
+        "end_offset": 451,
+        "start": 153.793,
+        "end": 154.393,
+        "score": -1.3437
+      },
+      {
+        "word": "query.",
+        "start_offset": 452,
+        "end_offset": 458,
+        "start": 155.573,
+        "end": 156.173,
+        "score": -1.3403
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "069-21.mp3",
+    "audio_duration": 159.0335,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

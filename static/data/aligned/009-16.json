@@ -1,0 +1,362 @@
+{
+  "text": "Where did these beings come from? Were they a product of evolution as it is understood by our scientists? Were they evolved from the original material of the earth that you spoke of? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Where did these beings come from?",
+        "start_offset": 0,
+        "end_offset": 33,
+        "start": 14.728,
+        "end": 17.849
+      },
+      {
+        "segment": "Were they a product of evolution as it is understood by our scientists?",
+        "start_offset": 34,
+        "end_offset": 105,
+        "start": 18.109,
+        "end": 23.852
+      },
+      {
+        "segment": "Were they evolved from the original material of the earth that you spoke of?",
+        "start_offset": 106,
+        "end_offset": 182,
+        "start": 23.892,
+        "end": 30.536
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 183,
+        "end_offset": 191,
+        "start": 35.598,
+        "end": 37.979
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 192,
+        "end_offset": 208,
+        "start": 40.0,
+        "end": 43.662
+      }
+    ],
+    "word": [
+      {
+        "word": "Where",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 14.728,
+        "end": 14.968,
+        "score": -0.9274
+      },
+      {
+        "word": "did",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 15.528,
+        "end": 15.728,
+        "score": -0.787
+      },
+      {
+        "word": "these",
+        "start_offset": 10,
+        "end_offset": 15,
+        "start": 15.928,
+        "end": 16.228,
+        "score": -0.7836
+      },
+      {
+        "word": "beings",
+        "start_offset": 16,
+        "end_offset": 22,
+        "start": 16.288,
+        "end": 16.909,
+        "score": -1.0845
+      },
+      {
+        "word": "come",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 17.329,
+        "end": 17.569,
+        "score": -1.0892
+      },
+      {
+        "word": "from?",
+        "start_offset": 28,
+        "end_offset": 33,
+        "start": 17.629,
+        "end": 17.849,
+        "score": -1.5776
+      },
+      {
+        "word": "Were",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 18.109,
+        "end": 18.289,
+        "score": -0.8468
+      },
+      {
+        "word": "they",
+        "start_offset": 39,
+        "end_offset": 43,
+        "start": 18.309,
+        "end": 18.469,
+        "score": -0.9789
+      },
+      {
+        "word": "a",
+        "start_offset": 44,
+        "end_offset": 45,
+        "start": 18.569,
+        "end": 18.589,
+        "score": -2.0294
+      },
+      {
+        "word": "product",
+        "start_offset": 46,
+        "end_offset": 53,
+        "start": 18.85,
+        "end": 20.07,
+        "score": -3.1689
+      },
+      {
+        "word": "of",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 20.11,
+        "end": 20.23,
+        "score": -2.5395
+      },
+      {
+        "word": "evolution",
+        "start_offset": 57,
+        "end_offset": 66,
+        "start": 20.41,
+        "end": 20.971,
+        "score": -0.7641
+      },
+      {
+        "word": "as",
+        "start_offset": 67,
+        "end_offset": 69,
+        "start": 20.991,
+        "end": 21.091,
+        "score": -3.7784
+      },
+      {
+        "word": "it",
+        "start_offset": 70,
+        "end_offset": 72,
+        "start": 21.131,
+        "end": 21.211,
+        "score": -2.3782
+      },
+      {
+        "word": "is",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 21.271,
+        "end": 21.371,
+        "score": -1.0766
+      },
+      {
+        "word": "understood",
+        "start_offset": 76,
+        "end_offset": 86,
+        "start": 21.431,
+        "end": 21.911,
+        "score": -1.8346
+      },
+      {
+        "word": "by",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 22.291,
+        "end": 22.371,
+        "score": -5.357
+      },
+      {
+        "word": "our",
+        "start_offset": 90,
+        "end_offset": 93,
+        "start": 22.652,
+        "end": 22.752,
+        "score": -1.683
+      },
+      {
+        "word": "scientists?",
+        "start_offset": 94,
+        "end_offset": 105,
+        "start": 22.812,
+        "end": 23.852,
+        "score": -3.1126
+      },
+      {
+        "word": "Were",
+        "start_offset": 106,
+        "end_offset": 110,
+        "start": 23.892,
+        "end": 24.052,
+        "score": -1.4485
+      },
+      {
+        "word": "they",
+        "start_offset": 111,
+        "end_offset": 115,
+        "start": 24.072,
+        "end": 24.252,
+        "score": -0.7699
+      },
+      {
+        "word": "evolved",
+        "start_offset": 116,
+        "end_offset": 123,
+        "start": 24.833,
+        "end": 25.373,
+        "score": -0.7775
+      },
+      {
+        "word": "from",
+        "start_offset": 124,
+        "end_offset": 128,
+        "start": 26.373,
+        "end": 26.594,
+        "score": -3.57
+      },
+      {
+        "word": "the",
+        "start_offset": 129,
+        "end_offset": 132,
+        "start": 26.674,
+        "end": 26.794,
+        "score": -4.2147
+      },
+      {
+        "word": "original",
+        "start_offset": 133,
+        "end_offset": 141,
+        "start": 28.194,
+        "end": 28.715,
+        "score": -0.9393
+      },
+      {
+        "word": "material",
+        "start_offset": 142,
+        "end_offset": 150,
+        "start": 28.855,
+        "end": 29.355,
+        "score": -3.4776
+      },
+      {
+        "word": "of",
+        "start_offset": 151,
+        "end_offset": 153,
+        "start": 29.375,
+        "end": 29.475,
+        "score": -4.296
+      },
+      {
+        "word": "the",
+        "start_offset": 154,
+        "end_offset": 157,
+        "start": 29.495,
+        "end": 29.575,
+        "score": -3.649
+      },
+      {
+        "word": "earth",
+        "start_offset": 158,
+        "end_offset": 163,
+        "start": 29.615,
+        "end": 29.715,
+        "score": -4.2764
+      },
+      {
+        "word": "that",
+        "start_offset": 164,
+        "end_offset": 168,
+        "start": 29.755,
+        "end": 29.935,
+        "score": -3.2793
+      },
+      {
+        "word": "you",
+        "start_offset": 169,
+        "end_offset": 172,
+        "start": 29.955,
+        "end": 30.015,
+        "score": -5.1133
+      },
+      {
+        "word": "spoke",
+        "start_offset": 173,
+        "end_offset": 178,
+        "start": 30.075,
+        "end": 30.416,
+        "score": -1.1936
+      },
+      {
+        "word": "of?",
+        "start_offset": 179,
+        "end_offset": 182,
+        "start": 30.456,
+        "end": 30.536,
+        "score": -5.9977
+      },
+      {
+        "word": "I",
+        "start_offset": 183,
+        "end_offset": 184,
+        "start": 35.598,
+        "end": 35.618,
+        "score": -1.3308
+      },
+      {
+        "word": "am",
+        "start_offset": 185,
+        "end_offset": 187,
+        "start": 36.559,
+        "end": 36.779,
+        "score": -4.1214
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 188,
+        "end_offset": 191,
+        "start": 37.859,
+        "end": 37.979,
+        "score": -5.2327
+      },
+      {
+        "word": "This",
+        "start_offset": 192,
+        "end_offset": 196,
+        "start": 40.0,
+        "end": 40.401,
+        "score": -0.9109
+      },
+      {
+        "word": "is",
+        "start_offset": 197,
+        "end_offset": 199,
+        "start": 41.501,
+        "end": 41.821,
+        "score": -0.9213
+      },
+      {
+        "word": "correct.",
+        "start_offset": 200,
+        "end_offset": 208,
+        "start": 42.922,
+        "end": 43.662,
+        "score": -1.26
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "009-16.mp3",
+    "audio_duration": 44.0425,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

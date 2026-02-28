@@ -1,0 +1,515 @@
+{
+  "text": "I meant— I understand how a positively oriented entity would program catalyst such as that would result in physical pain if it— I'm assuming that an entity could program something that would give it the experience of physical pain if it did not follow the path that it had selected. Is this correct? I am Ra. Please restate query.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I meant— I understand how a positively oriented entity would program catalyst such as that would result in physical pain if it— I'm assuming that an entity could program something that would give it the experience of physical pain if it did not follow the path that it had selected.",
+        "start_offset": 0,
+        "end_offset": 282,
+        "start": 2.101,
+        "end": 38.094
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 283,
+        "end_offset": 299,
+        "start": 38.134,
+        "end": 38.774
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 300,
+        "end_offset": 308,
+        "start": 45.597,
+        "end": 47.797
+      },
+      {
+        "segment": "Please restate query.",
+        "start_offset": 309,
+        "end_offset": 330,
+        "start": 49.518,
+        "end": 54.02
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 2.101,
+        "end": 2.121,
+        "score": -7.1774
+      },
+      {
+        "word": "meant—",
+        "start_offset": 2,
+        "end_offset": 8,
+        "start": 2.161,
+        "end": 2.381,
+        "score": -7.4619
+      },
+      {
+        "word": "I",
+        "start_offset": 9,
+        "end_offset": 10,
+        "start": 2.741,
+        "end": 2.761,
+        "score": -0.8444
+      },
+      {
+        "word": "understand",
+        "start_offset": 11,
+        "end_offset": 21,
+        "start": 2.841,
+        "end": 3.441,
+        "score": -0.7831
+      },
+      {
+        "word": "how",
+        "start_offset": 22,
+        "end_offset": 25,
+        "start": 3.501,
+        "end": 3.701,
+        "score": -0.7521
+      },
+      {
+        "word": "a",
+        "start_offset": 26,
+        "end_offset": 27,
+        "start": 5.642,
+        "end": 5.662,
+        "score": -1.0619
+      },
+      {
+        "word": "positively",
+        "start_offset": 28,
+        "end_offset": 38,
+        "start": 5.982,
+        "end": 6.582,
+        "score": -1.0091
+      },
+      {
+        "word": "oriented",
+        "start_offset": 39,
+        "end_offset": 47,
+        "start": 6.682,
+        "end": 7.083,
+        "score": -0.7554
+      },
+      {
+        "word": "entity",
+        "start_offset": 48,
+        "end_offset": 54,
+        "start": 7.883,
+        "end": 8.203,
+        "score": -1.1982
+      },
+      {
+        "word": "would",
+        "start_offset": 55,
+        "end_offset": 60,
+        "start": 8.323,
+        "end": 8.463,
+        "score": -4.506
+      },
+      {
+        "word": "program",
+        "start_offset": 61,
+        "end_offset": 68,
+        "start": 9.063,
+        "end": 9.543,
+        "score": -0.7104
+      },
+      {
+        "word": "catalyst",
+        "start_offset": 69,
+        "end_offset": 77,
+        "start": 10.364,
+        "end": 10.904,
+        "score": -1.1919
+      },
+      {
+        "word": "such",
+        "start_offset": 78,
+        "end_offset": 82,
+        "start": 11.204,
+        "end": 11.464,
+        "score": -0.7037
+      },
+      {
+        "word": "as",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 11.584,
+        "end": 11.764,
+        "score": -0.7344
+      },
+      {
+        "word": "that",
+        "start_offset": 86,
+        "end_offset": 90,
+        "start": 12.545,
+        "end": 12.725,
+        "score": -0.79
+      },
+      {
+        "word": "would",
+        "start_offset": 91,
+        "end_offset": 96,
+        "start": 12.965,
+        "end": 13.125,
+        "score": -0.7401
+      },
+      {
+        "word": "result",
+        "start_offset": 97,
+        "end_offset": 103,
+        "start": 13.165,
+        "end": 13.645,
+        "score": -0.7044
+      },
+      {
+        "word": "in",
+        "start_offset": 104,
+        "end_offset": 106,
+        "start": 13.785,
+        "end": 13.885,
+        "score": -0.8439
+      },
+      {
+        "word": "physical",
+        "start_offset": 107,
+        "end_offset": 115,
+        "start": 16.886,
+        "end": 17.366,
+        "score": -0.712
+      },
+      {
+        "word": "pain",
+        "start_offset": 116,
+        "end_offset": 120,
+        "start": 17.526,
+        "end": 17.987,
+        "score": -0.7548
+      },
+      {
+        "word": "if",
+        "start_offset": 121,
+        "end_offset": 123,
+        "start": 19.107,
+        "end": 19.207,
+        "score": -1.0284
+      },
+      {
+        "word": "it—",
+        "start_offset": 124,
+        "end_offset": 127,
+        "start": 19.307,
+        "end": 19.427,
+        "score": -1.3986
+      },
+      {
+        "word": "I'm",
+        "start_offset": 128,
+        "end_offset": 131,
+        "start": 20.607,
+        "end": 20.688,
+        "score": -4.0949
+      },
+      {
+        "word": "assuming",
+        "start_offset": 132,
+        "end_offset": 140,
+        "start": 20.748,
+        "end": 21.228,
+        "score": -0.7312
+      },
+      {
+        "word": "that",
+        "start_offset": 141,
+        "end_offset": 145,
+        "start": 21.268,
+        "end": 21.508,
+        "score": -1.2919
+      },
+      {
+        "word": "an",
+        "start_offset": 146,
+        "end_offset": 148,
+        "start": 23.549,
+        "end": 23.629,
+        "score": -0.7974
+      },
+      {
+        "word": "entity",
+        "start_offset": 149,
+        "end_offset": 155,
+        "start": 23.669,
+        "end": 23.989,
+        "score": -2.0584
+      },
+      {
+        "word": "could",
+        "start_offset": 156,
+        "end_offset": 161,
+        "start": 24.069,
+        "end": 24.229,
+        "score": -3.8766
+      },
+      {
+        "word": "program",
+        "start_offset": 162,
+        "end_offset": 169,
+        "start": 24.269,
+        "end": 24.789,
+        "score": -0.7102
+      },
+      {
+        "word": "something",
+        "start_offset": 170,
+        "end_offset": 179,
+        "start": 24.869,
+        "end": 25.269,
+        "score": -0.8851
+      },
+      {
+        "word": "that",
+        "start_offset": 180,
+        "end_offset": 184,
+        "start": 25.309,
+        "end": 25.489,
+        "score": -0.8394
+      },
+      {
+        "word": "would",
+        "start_offset": 185,
+        "end_offset": 190,
+        "start": 25.569,
+        "end": 25.909,
+        "score": -0.9307
+      },
+      {
+        "word": "give",
+        "start_offset": 191,
+        "end_offset": 195,
+        "start": 27.73,
+        "end": 27.95,
+        "score": -0.9612
+      },
+      {
+        "word": "it",
+        "start_offset": 196,
+        "end_offset": 198,
+        "start": 27.99,
+        "end": 28.11,
+        "score": -0.921
+      },
+      {
+        "word": "the",
+        "start_offset": 199,
+        "end_offset": 202,
+        "start": 29.071,
+        "end": 29.171,
+        "score": -0.8608
+      },
+      {
+        "word": "experience",
+        "start_offset": 203,
+        "end_offset": 213,
+        "start": 29.251,
+        "end": 30.231,
+        "score": -0.7427
+      },
+      {
+        "word": "of",
+        "start_offset": 214,
+        "end_offset": 216,
+        "start": 30.271,
+        "end": 30.331,
+        "score": -0.7872
+      },
+      {
+        "word": "physical",
+        "start_offset": 217,
+        "end_offset": 225,
+        "start": 30.411,
+        "end": 30.851,
+        "score": -0.77
+      },
+      {
+        "word": "pain",
+        "start_offset": 226,
+        "end_offset": 230,
+        "start": 30.911,
+        "end": 31.171,
+        "score": -0.7024
+      },
+      {
+        "word": "if",
+        "start_offset": 231,
+        "end_offset": 233,
+        "start": 31.251,
+        "end": 31.331,
+        "score": -0.8598
+      },
+      {
+        "word": "it",
+        "start_offset": 234,
+        "end_offset": 236,
+        "start": 31.371,
+        "end": 31.471,
+        "score": -0.8507
+      },
+      {
+        "word": "did",
+        "start_offset": 237,
+        "end_offset": 240,
+        "start": 32.352,
+        "end": 32.572,
+        "score": -0.7754
+      },
+      {
+        "word": "not",
+        "start_offset": 241,
+        "end_offset": 244,
+        "start": 32.692,
+        "end": 32.992,
+        "score": -0.7243
+      },
+      {
+        "word": "follow",
+        "start_offset": 245,
+        "end_offset": 251,
+        "start": 34.292,
+        "end": 34.733,
+        "score": -0.7399
+      },
+      {
+        "word": "the",
+        "start_offset": 252,
+        "end_offset": 255,
+        "start": 34.833,
+        "end": 34.973,
+        "score": -0.8312
+      },
+      {
+        "word": "path",
+        "start_offset": 256,
+        "end_offset": 260,
+        "start": 36.653,
+        "end": 36.933,
+        "score": -2.9118
+      },
+      {
+        "word": "that",
+        "start_offset": 261,
+        "end_offset": 265,
+        "start": 36.993,
+        "end": 37.154,
+        "score": -2.7221
+      },
+      {
+        "word": "it",
+        "start_offset": 266,
+        "end_offset": 268,
+        "start": 37.174,
+        "end": 37.234,
+        "score": -5.215
+      },
+      {
+        "word": "had",
+        "start_offset": 269,
+        "end_offset": 272,
+        "start": 37.334,
+        "end": 37.514,
+        "score": -3.3049
+      },
+      {
+        "word": "selected.",
+        "start_offset": 273,
+        "end_offset": 282,
+        "start": 37.574,
+        "end": 38.094,
+        "score": -1.6856
+      },
+      {
+        "word": "Is",
+        "start_offset": 283,
+        "end_offset": 285,
+        "start": 38.134,
+        "end": 38.194,
+        "score": -3.2229
+      },
+      {
+        "word": "this",
+        "start_offset": 286,
+        "end_offset": 290,
+        "start": 38.214,
+        "end": 38.374,
+        "score": -2.6929
+      },
+      {
+        "word": "correct?",
+        "start_offset": 291,
+        "end_offset": 299,
+        "start": 38.414,
+        "end": 38.774,
+        "score": -1.6934
+      },
+      {
+        "word": "I",
+        "start_offset": 300,
+        "end_offset": 301,
+        "start": 45.597,
+        "end": 45.617,
+        "score": -2.2921
+      },
+      {
+        "word": "am",
+        "start_offset": 302,
+        "end_offset": 304,
+        "start": 46.577,
+        "end": 46.817,
+        "score": -2.3601
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 305,
+        "end_offset": 308,
+        "start": 47.657,
+        "end": 47.797,
+        "score": -5.056
+      },
+      {
+        "word": "Please",
+        "start_offset": 309,
+        "end_offset": 315,
+        "start": 49.518,
+        "end": 50.298,
+        "score": -2.1765
+      },
+      {
+        "word": "restate",
+        "start_offset": 316,
+        "end_offset": 323,
+        "start": 51.079,
+        "end": 52.479,
+        "score": -1.4499
+      },
+      {
+        "word": "query.",
+        "start_offset": 324,
+        "end_offset": 330,
+        "start": 53.419,
+        "end": 54.02,
+        "score": -1.6284
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "054-20.mp3",
+    "audio_duration": 55.04,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

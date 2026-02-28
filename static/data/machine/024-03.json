@@ -1,0 +1,212 @@
+{
+  "text": "She requests that you cause the instrument to cough about at least after each communication. Is this possible? I am ra. This is possible.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "She requests that you cause the instrument to cough about at least after each communication.",
+        "start_offset": 34,
+        "end_offset": 184,
+        "start": 2.72,
+        "end": 14.72
+      },
+      {
+        "segment": "Is this possible?",
+        "start_offset": 355,
+        "end_offset": 371,
+        "start": 28.400000000000002,
+        "end": 29.68
+      },
+      {
+        "segment": "I am ra.",
+        "start_offset": 408,
+        "end_offset": 432,
+        "start": 32.64,
+        "end": 34.56
+      },
+      {
+        "segment": "This is possible.",
+        "start_offset": 457,
+        "end_offset": 493,
+        "start": 36.56,
+        "end": 39.44
+      }
+    ],
+    "word": [
+      {
+        "word": "She",
+        "start_offset": 34,
+        "end_offset": 39,
+        "start": 2.72,
+        "end": 3.12
+      },
+      {
+        "word": "requests",
+        "start_offset": 39,
+        "end_offset": 48,
+        "start": 3.12,
+        "end": 3.84
+      },
+      {
+        "word": "that",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 3.84,
+        "end": 4.16
+      },
+      {
+        "word": "you",
+        "start_offset": 52,
+        "end_offset": 56,
+        "start": 4.16,
+        "end": 4.48
+      },
+      {
+        "word": "cause",
+        "start_offset": 56,
+        "end_offset": 63,
+        "start": 4.48,
+        "end": 5.04
+      },
+      {
+        "word": "the",
+        "start_offset": 63,
+        "end_offset": 67,
+        "start": 5.04,
+        "end": 5.36
+      },
+      {
+        "word": "instrument",
+        "start_offset": 67,
+        "end_offset": 75,
+        "start": 5.36,
+        "end": 6.0
+      },
+      {
+        "word": "to",
+        "start_offset": 75,
+        "end_offset": 79,
+        "start": 6.0,
+        "end": 6.32
+      },
+      {
+        "word": "cough",
+        "start_offset": 79,
+        "end_offset": 87,
+        "start": 6.32,
+        "end": 6.96
+      },
+      {
+        "word": "about",
+        "start_offset": 107,
+        "end_offset": 111,
+        "start": 8.56,
+        "end": 8.88
+      },
+      {
+        "word": "at",
+        "start_offset": 129,
+        "end_offset": 132,
+        "start": 10.32,
+        "end": 10.56
+      },
+      {
+        "word": "least",
+        "start_offset": 132,
+        "end_offset": 140,
+        "start": 10.56,
+        "end": 11.200000000000001
+      },
+      {
+        "word": "after",
+        "start_offset": 140,
+        "end_offset": 148,
+        "start": 11.200000000000001,
+        "end": 11.84
+      },
+      {
+        "word": "each",
+        "start_offset": 148,
+        "end_offset": 156,
+        "start": 11.84,
+        "end": 12.48
+      },
+      {
+        "word": "communication.",
+        "start_offset": 168,
+        "end_offset": 184,
+        "start": 13.44,
+        "end": 14.72
+      },
+      {
+        "word": "Is",
+        "start_offset": 355,
+        "end_offset": 359,
+        "start": 28.400000000000002,
+        "end": 28.72
+      },
+      {
+        "word": "this",
+        "start_offset": 359,
+        "end_offset": 363,
+        "start": 28.72,
+        "end": 29.04
+      },
+      {
+        "word": "possible?",
+        "start_offset": 363,
+        "end_offset": 371,
+        "start": 29.04,
+        "end": 29.68
+      },
+      {
+        "word": "I",
+        "start_offset": 408,
+        "end_offset": 412,
+        "start": 32.64,
+        "end": 32.96
+      },
+      {
+        "word": "am",
+        "start_offset": 420,
+        "end_offset": 424,
+        "start": 33.6,
+        "end": 33.92
+      },
+      {
+        "word": "ra.",
+        "start_offset": 430,
+        "end_offset": 432,
+        "start": 34.4,
+        "end": 34.56
+      },
+      {
+        "word": "This",
+        "start_offset": 457,
+        "end_offset": 461,
+        "start": 36.56,
+        "end": 36.88
+      },
+      {
+        "word": "is",
+        "start_offset": 469,
+        "end_offset": 473,
+        "start": 37.52,
+        "end": 37.84
+      },
+      {
+        "word": "possible.",
+        "start_offset": 485,
+        "end_offset": 493,
+        "start": 38.800000000000004,
+        "end": 39.44
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "024-03.mp3",
+    "audio_duration": 43.05,
+    "transcription_time": 0.1,
+    "rtfx": 410.64,
+    "timestamp": "2026-01-06T21:48:48.105765+00:00"
+  }
+}

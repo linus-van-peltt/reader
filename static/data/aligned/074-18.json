@@ -1,0 +1,275 @@
+{
+  "text": "Why do these sounds have this property? I am Ra. The correspondence in vibratory complex is mathematical. At this time we have enough transferred energy for one full query.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Why do these sounds have this property?",
+        "start_offset": 0,
+        "end_offset": 39,
+        "start": 2.281,
+        "end": 14.124
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 40,
+        "end_offset": 48,
+        "start": 14.524,
+        "end": 16.604
+      },
+      {
+        "segment": "The correspondence in vibratory complex is mathematical.",
+        "start_offset": 49,
+        "end_offset": 105,
+        "start": 18.805,
+        "end": 36.829
+      },
+      {
+        "segment": "At this time we have enough transferred energy for one full query.",
+        "start_offset": 106,
+        "end_offset": 172,
+        "start": 46.412,
+        "end": 66.297
+      }
+    ],
+    "word": [
+      {
+        "word": "Why",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.281,
+        "end": 2.581,
+        "score": -5.4477
+      },
+      {
+        "word": "do",
+        "start_offset": 4,
+        "end_offset": 6,
+        "start": 3.181,
+        "end": 3.301,
+        "score": -3.7256
+      },
+      {
+        "word": "these",
+        "start_offset": 7,
+        "end_offset": 12,
+        "start": 4.461,
+        "end": 4.801,
+        "score": -2.8486
+      },
+      {
+        "word": "sounds",
+        "start_offset": 13,
+        "end_offset": 19,
+        "start": 4.881,
+        "end": 5.481,
+        "score": -2.9108
+      },
+      {
+        "word": "have",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 6.842,
+        "end": 7.142,
+        "score": -4.4994
+      },
+      {
+        "word": "this",
+        "start_offset": 25,
+        "end_offset": 29,
+        "start": 7.242,
+        "end": 7.562,
+        "score": -4.327
+      },
+      {
+        "word": "property?",
+        "start_offset": 30,
+        "end_offset": 39,
+        "start": 9.782,
+        "end": 14.124,
+        "score": -5.4142
+      },
+      {
+        "word": "I",
+        "start_offset": 40,
+        "end_offset": 41,
+        "start": 14.524,
+        "end": 14.544,
+        "score": -1.2148
+      },
+      {
+        "word": "am",
+        "start_offset": 42,
+        "end_offset": 44,
+        "start": 15.324,
+        "end": 15.604,
+        "score": -2.8423
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 45,
+        "end_offset": 48,
+        "start": 16.484,
+        "end": 16.604,
+        "score": -2.0276
+      },
+      {
+        "word": "The",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 18.805,
+        "end": 18.945,
+        "score": -0.8392
+      },
+      {
+        "word": "correspondence",
+        "start_offset": 53,
+        "end_offset": 67,
+        "start": 21.365,
+        "end": 23.946,
+        "score": -1.0072
+      },
+      {
+        "word": "in",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 25.426,
+        "end": 25.786,
+        "score": -0.7236
+      },
+      {
+        "word": "vibratory",
+        "start_offset": 71,
+        "end_offset": 80,
+        "start": 27.267,
+        "end": 29.287,
+        "score": -0.9774
+      },
+      {
+        "word": "complex",
+        "start_offset": 81,
+        "end_offset": 88,
+        "start": 30.228,
+        "end": 31.548,
+        "score": -0.7071
+      },
+      {
+        "word": "is",
+        "start_offset": 89,
+        "end_offset": 91,
+        "start": 33.028,
+        "end": 33.368,
+        "score": -0.7273
+      },
+      {
+        "word": "mathematical.",
+        "start_offset": 92,
+        "end_offset": 105,
+        "start": 34.589,
+        "end": 36.829,
+        "score": -0.9551
+      },
+      {
+        "word": "At",
+        "start_offset": 106,
+        "end_offset": 108,
+        "start": 46.412,
+        "end": 46.712,
+        "score": -0.6995
+      },
+      {
+        "word": "this",
+        "start_offset": 109,
+        "end_offset": 113,
+        "start": 47.012,
+        "end": 47.372,
+        "score": -0.7175
+      },
+      {
+        "word": "time",
+        "start_offset": 114,
+        "end_offset": 118,
+        "start": 47.712,
+        "end": 48.572,
+        "score": -0.7051
+      },
+      {
+        "word": "we",
+        "start_offset": 119,
+        "end_offset": 121,
+        "start": 50.493,
+        "end": 50.653,
+        "score": -0.7778
+      },
+      {
+        "word": "have",
+        "start_offset": 122,
+        "end_offset": 126,
+        "start": 51.113,
+        "end": 51.713,
+        "score": -0.8128
+      },
+      {
+        "word": "enough",
+        "start_offset": 127,
+        "end_offset": 133,
+        "start": 53.373,
+        "end": 54.274,
+        "score": -1.7094
+      },
+      {
+        "word": "transferred",
+        "start_offset": 134,
+        "end_offset": 145,
+        "start": 55.974,
+        "end": 57.715,
+        "score": -1.3724
+      },
+      {
+        "word": "energy",
+        "start_offset": 146,
+        "end_offset": 152,
+        "start": 59.235,
+        "end": 60.135,
+        "score": -0.7292
+      },
+      {
+        "word": "for",
+        "start_offset": 153,
+        "end_offset": 156,
+        "start": 60.915,
+        "end": 61.395,
+        "score": -2.7221
+      },
+      {
+        "word": "one",
+        "start_offset": 157,
+        "end_offset": 160,
+        "start": 63.316,
+        "end": 63.676,
+        "score": -0.8798
+      },
+      {
+        "word": "full",
+        "start_offset": 161,
+        "end_offset": 165,
+        "start": 64.416,
+        "end": 64.916,
+        "score": -1.9685
+      },
+      {
+        "word": "query.",
+        "start_offset": 166,
+        "end_offset": 172,
+        "start": 65.637,
+        "end": 66.297,
+        "score": -1.9951
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "074-18.mp3",
+    "audio_duration": 73.0384,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,765 @@
+{
+  "text": "What foods should the instrument eliminate from her diet in order to alleviate these painful attacks? I am the information gained from the one known as Bob is that which is to be recommended further, all the foodstuffs are to be cooked, so that those things which are ingested be soft and easily. One, two, two of your hours after the evening meal, it is a further suggested that since this instrument has been using sugars for carpal hydrates that a small amount of carbohydrate low in sugar v in jesthead a praximatly one two of your hours of before the a sleeping period.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What foods should the instrument eliminate from her diet in order to alleviate these painful attacks?",
+        "start_offset": 28,
+        "end_offset": 123,
+        "start": 2.24,
+        "end": 9.84
+      },
+      {
+        "segment": "I am the information gained from the one known as Bob is that which is to be recommended further, all the foodstuffs are to be cooked, so that those things which are ingested be soft and easily.",
+        "start_offset": 215,
+        "end_offset": 1194,
+        "start": 17.2,
+        "end": 95.52
+      },
+      {
+        "segment": "One, two, two of your hours after the evening meal, it is a further suggested that since this instrument has been using sugars for carpal hydrates that a small amount of carbohydrate low in sugar v in jesthead a praximatly one two of your hours of before the a sleeping period.",
+        "start_offset": 2885,
+        "end_offset": 4303,
+        "start": 230.8,
+        "end": 344.24
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 28,
+        "end_offset": 36,
+        "start": 2.24,
+        "end": 2.88
+      },
+      {
+        "word": "foods",
+        "start_offset": 36,
+        "end_offset": 44,
+        "start": 2.88,
+        "end": 3.52
+      },
+      {
+        "word": "should",
+        "start_offset": 44,
+        "end_offset": 48,
+        "start": 3.52,
+        "end": 3.84
+      },
+      {
+        "word": "the",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 3.84,
+        "end": 4.08
+      },
+      {
+        "word": "instrument",
+        "start_offset": 51,
+        "end_offset": 57,
+        "start": 4.08,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "eliminate",
+        "start_offset": 57,
+        "end_offset": 64,
+        "start": 4.5600000000000005,
+        "end": 5.12
+      },
+      {
+        "word": "from",
+        "start_offset": 67,
+        "end_offset": 71,
+        "start": 5.36,
+        "end": 5.68
+      },
+      {
+        "word": "her",
+        "start_offset": 71,
+        "end_offset": 74,
+        "start": 5.68,
+        "end": 5.92
+      },
+      {
+        "word": "diet",
+        "start_offset": 74,
+        "end_offset": 80,
+        "start": 5.92,
+        "end": 6.4
+      },
+      {
+        "word": "in",
+        "start_offset": 80,
+        "end_offset": 83,
+        "start": 6.4,
+        "end": 6.640000000000001
+      },
+      {
+        "word": "order",
+        "start_offset": 83,
+        "end_offset": 88,
+        "start": 6.640000000000001,
+        "end": 7.04
+      },
+      {
+        "word": "to",
+        "start_offset": 88,
+        "end_offset": 91,
+        "start": 7.04,
+        "end": 7.28
+      },
+      {
+        "word": "alleviate",
+        "start_offset": 91,
+        "end_offset": 102,
+        "start": 7.28,
+        "end": 8.16
+      },
+      {
+        "word": "these",
+        "start_offset": 102,
+        "end_offset": 105,
+        "start": 8.16,
+        "end": 8.4
+      },
+      {
+        "word": "painful",
+        "start_offset": 105,
+        "end_offset": 113,
+        "start": 8.4,
+        "end": 9.040000000000001
+      },
+      {
+        "word": "attacks?",
+        "start_offset": 113,
+        "end_offset": 123,
+        "start": 9.040000000000001,
+        "end": 9.84
+      },
+      {
+        "word": "I",
+        "start_offset": 215,
+        "end_offset": 219,
+        "start": 17.2,
+        "end": 17.52
+      },
+      {
+        "word": "am",
+        "start_offset": 239,
+        "end_offset": 242,
+        "start": 19.12,
+        "end": 19.36
+      },
+      {
+        "word": "the",
+        "start_offset": 302,
+        "end_offset": 306,
+        "start": 24.16,
+        "end": 24.48
+      },
+      {
+        "word": "information",
+        "start_offset": 342,
+        "end_offset": 358,
+        "start": 27.36,
+        "end": 28.64
+      },
+      {
+        "word": "gained",
+        "start_offset": 382,
+        "end_offset": 394,
+        "start": 30.560000000000002,
+        "end": 31.52
+      },
+      {
+        "word": "from",
+        "start_offset": 410,
+        "end_offset": 414,
+        "start": 32.8,
+        "end": 33.12
+      },
+      {
+        "word": "the",
+        "start_offset": 426,
+        "end_offset": 430,
+        "start": 34.08,
+        "end": 34.4
+      },
+      {
+        "word": "one",
+        "start_offset": 446,
+        "end_offset": 450,
+        "start": 35.68,
+        "end": 36.0
+      },
+      {
+        "word": "known",
+        "start_offset": 461,
+        "end_offset": 472,
+        "start": 36.88,
+        "end": 37.76
+      },
+      {
+        "word": "as",
+        "start_offset": 476,
+        "end_offset": 480,
+        "start": 38.08,
+        "end": 38.4
+      },
+      {
+        "word": "Bob",
+        "start_offset": 500,
+        "end_offset": 508,
+        "start": 40.0,
+        "end": 40.64
+      },
+      {
+        "word": "is",
+        "start_offset": 525,
+        "end_offset": 529,
+        "start": 42.0,
+        "end": 42.32
+      },
+      {
+        "word": "that",
+        "start_offset": 549,
+        "end_offset": 553,
+        "start": 43.92,
+        "end": 44.24
+      },
+      {
+        "word": "which",
+        "start_offset": 577,
+        "end_offset": 581,
+        "start": 46.160000000000004,
+        "end": 46.480000000000004
+      },
+      {
+        "word": "is",
+        "start_offset": 593,
+        "end_offset": 597,
+        "start": 47.44,
+        "end": 47.76
+      },
+      {
+        "word": "to",
+        "start_offset": 613,
+        "end_offset": 617,
+        "start": 49.04,
+        "end": 49.36
+      },
+      {
+        "word": "be",
+        "start_offset": 633,
+        "end_offset": 637,
+        "start": 50.64,
+        "end": 50.96
+      },
+      {
+        "word": "recommended",
+        "start_offset": 657,
+        "end_offset": 678,
+        "start": 52.56,
+        "end": 54.24
+      },
+      {
+        "word": "further,",
+        "start_offset": 712,
+        "end_offset": 723,
+        "start": 56.96,
+        "end": 57.84
+      },
+      {
+        "word": "all",
+        "start_offset": 762,
+        "end_offset": 766,
+        "start": 60.96,
+        "end": 61.28
+      },
+      {
+        "word": "the",
+        "start_offset": 796,
+        "end_offset": 800,
+        "start": 63.68,
+        "end": 64.0
+      },
+      {
+        "word": "foodstuffs",
+        "start_offset": 800,
+        "end_offset": 822,
+        "start": 64.0,
+        "end": 65.76
+      },
+      {
+        "word": "are",
+        "start_offset": 834,
+        "end_offset": 838,
+        "start": 66.72,
+        "end": 67.04
+      },
+      {
+        "word": "to",
+        "start_offset": 850,
+        "end_offset": 854,
+        "start": 68.0,
+        "end": 68.32000000000001
+      },
+      {
+        "word": "be",
+        "start_offset": 870,
+        "end_offset": 874,
+        "start": 69.60000000000001,
+        "end": 69.92
+      },
+      {
+        "word": "cooked,",
+        "start_offset": 898,
+        "end_offset": 910,
+        "start": 71.84,
+        "end": 72.8
+      },
+      {
+        "word": "so",
+        "start_offset": 946,
+        "end_offset": 950,
+        "start": 75.68,
+        "end": 76.0
+      },
+      {
+        "word": "that",
+        "start_offset": 961,
+        "end_offset": 965,
+        "start": 76.88,
+        "end": 77.2
+      },
+      {
+        "word": "those",
+        "start_offset": 985,
+        "end_offset": 993,
+        "start": 78.8,
+        "end": 79.44
+      },
+      {
+        "word": "things",
+        "start_offset": 1001,
+        "end_offset": 1009,
+        "start": 80.08,
+        "end": 80.72
+      },
+      {
+        "word": "which",
+        "start_offset": 1017,
+        "end_offset": 1021,
+        "start": 81.36,
+        "end": 81.68
+      },
+      {
+        "word": "are",
+        "start_offset": 1029,
+        "end_offset": 1033,
+        "start": 82.32000000000001,
+        "end": 82.64
+      },
+      {
+        "word": "ingested",
+        "start_offset": 1049,
+        "end_offset": 1076,
+        "start": 83.92,
+        "end": 86.08
+      },
+      {
+        "word": "be",
+        "start_offset": 1094,
+        "end_offset": 1098,
+        "start": 87.52,
+        "end": 87.84
+      },
+      {
+        "word": "soft",
+        "start_offset": 1126,
+        "end_offset": 1135,
+        "start": 90.08,
+        "end": 90.8
+      },
+      {
+        "word": "and",
+        "start_offset": 1163,
+        "end_offset": 1167,
+        "start": 93.04,
+        "end": 93.36
+      },
+      {
+        "word": "easily.",
+        "start_offset": 1183,
+        "end_offset": 1194,
+        "start": 94.64,
+        "end": 95.52
+      },
+      {
+        "word": "One,",
+        "start_offset": 2885,
+        "end_offset": 2893,
+        "start": 230.8,
+        "end": 231.44
+      },
+      {
+        "word": "two,",
+        "start_offset": 2902,
+        "end_offset": 2906,
+        "start": 232.16,
+        "end": 232.48000000000002
+      },
+      {
+        "word": "two",
+        "start_offset": 2918,
+        "end_offset": 2922,
+        "start": 233.44,
+        "end": 233.76
+      },
+      {
+        "word": "of",
+        "start_offset": 2957,
+        "end_offset": 2961,
+        "start": 236.56,
+        "end": 236.88
+      },
+      {
+        "word": "your",
+        "start_offset": 2973,
+        "end_offset": 2977,
+        "start": 237.84,
+        "end": 238.16
+      },
+      {
+        "word": "hours",
+        "start_offset": 3033,
+        "end_offset": 3041,
+        "start": 242.64000000000001,
+        "end": 243.28
+      },
+      {
+        "word": "after",
+        "start_offset": 3073,
+        "end_offset": 3081,
+        "start": 245.84,
+        "end": 246.48000000000002
+      },
+      {
+        "word": "the",
+        "start_offset": 3097,
+        "end_offset": 3101,
+        "start": 247.76000000000002,
+        "end": 248.08
+      },
+      {
+        "word": "evening",
+        "start_offset": 3124,
+        "end_offset": 3137,
+        "start": 249.92000000000002,
+        "end": 250.96
+      },
+      {
+        "word": "meal,",
+        "start_offset": 3165,
+        "end_offset": 3173,
+        "start": 253.20000000000002,
+        "end": 253.84
+      },
+      {
+        "word": "it",
+        "start_offset": 3202,
+        "end_offset": 3206,
+        "start": 256.16,
+        "end": 256.48
+      },
+      {
+        "word": "is",
+        "start_offset": 3218,
+        "end_offset": 3222,
+        "start": 257.44,
+        "end": 257.76
+      },
+      {
+        "word": "a",
+        "start_offset": 3230,
+        "end_offset": 3234,
+        "start": 258.4,
+        "end": 258.72
+      },
+      {
+        "word": "further",
+        "start_offset": 3234,
+        "end_offset": 3246,
+        "start": 258.72,
+        "end": 259.68
+      },
+      {
+        "word": "suggested",
+        "start_offset": 3258,
+        "end_offset": 3280,
+        "start": 260.64,
+        "end": 262.4
+      },
+      {
+        "word": "that",
+        "start_offset": 3300,
+        "end_offset": 3304,
+        "start": 264.0,
+        "end": 264.32
+      },
+      {
+        "word": "since",
+        "start_offset": 3328,
+        "end_offset": 3336,
+        "start": 266.24,
+        "end": 266.88
+      },
+      {
+        "word": "this",
+        "start_offset": 3352,
+        "end_offset": 3356,
+        "start": 268.16,
+        "end": 268.48
+      },
+      {
+        "word": "instrument",
+        "start_offset": 3372,
+        "end_offset": 3388,
+        "start": 269.76,
+        "end": 271.04
+      },
+      {
+        "word": "has",
+        "start_offset": 3408,
+        "end_offset": 3412,
+        "start": 272.64,
+        "end": 272.96
+      },
+      {
+        "word": "been",
+        "start_offset": 3424,
+        "end_offset": 3428,
+        "start": 273.92,
+        "end": 274.24
+      },
+      {
+        "word": "using",
+        "start_offset": 3448,
+        "end_offset": 3456,
+        "start": 275.84000000000003,
+        "end": 276.48
+      },
+      {
+        "word": "sugars",
+        "start_offset": 3484,
+        "end_offset": 3496,
+        "start": 278.72,
+        "end": 279.68
+      },
+      {
+        "word": "for",
+        "start_offset": 3516,
+        "end_offset": 3520,
+        "start": 281.28000000000003,
+        "end": 281.6
+      },
+      {
+        "word": "carpal",
+        "start_offset": 3540,
+        "end_offset": 3555,
+        "start": 283.2,
+        "end": 284.40000000000003
+      },
+      {
+        "word": "hydrates",
+        "start_offset": 3567,
+        "end_offset": 3595,
+        "start": 285.36,
+        "end": 287.6
+      },
+      {
+        "word": "that",
+        "start_offset": 3634,
+        "end_offset": 3638,
+        "start": 290.72,
+        "end": 291.04
+      },
+      {
+        "word": "a",
+        "start_offset": 3673,
+        "end_offset": 3677,
+        "start": 293.84000000000003,
+        "end": 294.16
+      },
+      {
+        "word": "small",
+        "start_offset": 3685,
+        "end_offset": 3693,
+        "start": 294.8,
+        "end": 295.44
+      },
+      {
+        "word": "amount",
+        "start_offset": 3713,
+        "end_offset": 3726,
+        "start": 297.04,
+        "end": 298.08
+      },
+      {
+        "word": "of",
+        "start_offset": 3734,
+        "end_offset": 3737,
+        "start": 298.72,
+        "end": 298.96
+      },
+      {
+        "word": "carbohydrate",
+        "start_offset": 3753,
+        "end_offset": 3788,
+        "start": 300.24,
+        "end": 303.04
+      },
+      {
+        "word": "low",
+        "start_offset": 3806,
+        "end_offset": 3814,
+        "start": 304.48,
+        "end": 305.12
+      },
+      {
+        "word": "in",
+        "start_offset": 3826,
+        "end_offset": 3830,
+        "start": 306.08,
+        "end": 306.40000000000003
+      },
+      {
+        "word": "sugar",
+        "start_offset": 3846,
+        "end_offset": 3854,
+        "start": 307.68,
+        "end": 308.32
+      },
+      {
+        "word": "v",
+        "start_offset": 3876,
+        "end_offset": 3879,
+        "start": 310.08,
+        "end": 310.32
+      },
+      {
+        "word": "in",
+        "start_offset": 3907,
+        "end_offset": 3911,
+        "start": 312.56,
+        "end": 312.88
+      },
+      {
+        "word": "jesthead",
+        "start_offset": 3922,
+        "end_offset": 3935,
+        "start": 313.76,
+        "end": 314.8
+      },
+      {
+        "word": "a",
+        "start_offset": 3960,
+        "end_offset": 3964,
+        "start": 316.8,
+        "end": 317.12
+      },
+      {
+        "word": "praximatly",
+        "start_offset": 3974,
+        "end_offset": 4003,
+        "start": 317.92,
+        "end": 320.24
+      },
+      {
+        "word": "one",
+        "start_offset": 4017,
+        "end_offset": 4021,
+        "start": 321.36,
+        "end": 321.68
+      },
+      {
+        "word": "two",
+        "start_offset": 4034,
+        "end_offset": 4038,
+        "start": 322.72,
+        "end": 323.04
+      },
+      {
+        "word": "of",
+        "start_offset": 4092,
+        "end_offset": 4095,
+        "start": 327.36,
+        "end": 327.6
+      },
+      {
+        "word": "your",
+        "start_offset": 4130,
+        "end_offset": 4134,
+        "start": 330.40000000000003,
+        "end": 330.72
+      },
+      {
+        "word": "hours",
+        "start_offset": 4156,
+        "end_offset": 4164,
+        "start": 332.48,
+        "end": 333.12
+      },
+      {
+        "word": "of",
+        "start_offset": 4166,
+        "end_offset": 4170,
+        "start": 333.28000000000003,
+        "end": 333.6
+      },
+      {
+        "word": "before",
+        "start_offset": 4207,
+        "end_offset": 4220,
+        "start": 336.56,
+        "end": 337.6
+      },
+      {
+        "word": "the",
+        "start_offset": 4225,
+        "end_offset": 4228,
+        "start": 338.0,
+        "end": 338.24
+      },
+      {
+        "word": "a",
+        "start_offset": 4246,
+        "end_offset": 4248,
+        "start": 339.68,
+        "end": 339.84000000000003
+      },
+      {
+        "word": "sleeping",
+        "start_offset": 4251,
+        "end_offset": 4263,
+        "start": 340.08,
+        "end": 341.04
+      },
+      {
+        "word": "period.",
+        "start_offset": 4295,
+        "end_offset": 4303,
+        "start": 343.6,
+        "end": 344.24
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "102-05.mp3",
+    "audio_duration": 345.05,
+    "transcription_time": 0.38,
+    "rtfx": 903.93,
+    "timestamp": "2026-01-06T22:00:32.399992+00:00"
+  }
+}

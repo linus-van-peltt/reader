@@ -1,0 +1,527 @@
+{
+  "text": "Would it be better to discontinue the contact at this time? I am bra. This is entirely at your discretion. This instrument has some energy a transferred which is available how ever it is not great due to the effects as previously stated. At this working a will, as always attempt to safeguard this instrument. We feel that you are aware of the parameters without further elaboration.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would it be better to discontinue the contact at this time?",
+        "start_offset": 28,
+        "end_offset": 76,
+        "start": 2.24,
+        "end": 6.08
+      },
+      {
+        "segment": "I am bra.",
+        "start_offset": 131,
+        "end_offset": 174,
+        "start": 10.48,
+        "end": 13.92
+      },
+      {
+        "segment": "This is entirely at your discretion.",
+        "start_offset": 203,
+        "end_offset": 333,
+        "start": 16.240000000000002,
+        "end": 26.64
+      },
+      {
+        "segment": "This instrument has some energy a transferred which is available how ever it is not great due to the effects as previously stated.",
+        "start_offset": 360,
+        "end_offset": 943,
+        "start": 28.8,
+        "end": 75.44
+      },
+      {
+        "segment": "At this working a will, as always attempt to safeguard this instrument.",
+        "start_offset": 1164,
+        "end_offset": 1425,
+        "start": 93.12,
+        "end": 114.0
+      },
+      {
+        "segment": "We feel that you are aware of the parameters without further elaboration.",
+        "start_offset": 1453,
+        "end_offset": 1760,
+        "start": 116.24000000000001,
+        "end": 140.8
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 28,
+        "end_offset": 34,
+        "start": 2.24,
+        "end": 2.72
+      },
+      {
+        "word": "it",
+        "start_offset": 34,
+        "end_offset": 36,
+        "start": 2.72,
+        "end": 2.88
+      },
+      {
+        "word": "be",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 2.88,
+        "end": 3.04
+      },
+      {
+        "word": "better",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 3.04,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "to",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 3.2800000000000002,
+        "end": 3.44
+      },
+      {
+        "word": "discontinue",
+        "start_offset": 43,
+        "end_offset": 53,
+        "start": 3.44,
+        "end": 4.24
+      },
+      {
+        "word": "the",
+        "start_offset": 53,
+        "end_offset": 57,
+        "start": 4.24,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "contact",
+        "start_offset": 57,
+        "end_offset": 64,
+        "start": 4.5600000000000005,
+        "end": 5.12
+      },
+      {
+        "word": "at",
+        "start_offset": 64,
+        "end_offset": 68,
+        "start": 5.12,
+        "end": 5.44
+      },
+      {
+        "word": "this",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 5.44,
+        "end": 5.76
+      },
+      {
+        "word": "time?",
+        "start_offset": 72,
+        "end_offset": 76,
+        "start": 5.76,
+        "end": 6.08
+      },
+      {
+        "word": "I",
+        "start_offset": 131,
+        "end_offset": 135,
+        "start": 10.48,
+        "end": 10.8
+      },
+      {
+        "word": "am",
+        "start_offset": 151,
+        "end_offset": 154,
+        "start": 12.08,
+        "end": 12.32
+      },
+      {
+        "word": "bra.",
+        "start_offset": 171,
+        "end_offset": 174,
+        "start": 13.68,
+        "end": 13.92
+      },
+      {
+        "word": "This",
+        "start_offset": 203,
+        "end_offset": 207,
+        "start": 16.240000000000002,
+        "end": 16.56
+      },
+      {
+        "word": "is",
+        "start_offset": 223,
+        "end_offset": 227,
+        "start": 17.84,
+        "end": 18.16
+      },
+      {
+        "word": "entirely",
+        "start_offset": 243,
+        "end_offset": 259,
+        "start": 19.44,
+        "end": 20.72
+      },
+      {
+        "word": "at",
+        "start_offset": 282,
+        "end_offset": 286,
+        "start": 22.56,
+        "end": 22.88
+      },
+      {
+        "word": "your",
+        "start_offset": 294,
+        "end_offset": 298,
+        "start": 23.52,
+        "end": 23.84
+      },
+      {
+        "word": "discretion.",
+        "start_offset": 318,
+        "end_offset": 333,
+        "start": 25.44,
+        "end": 26.64
+      },
+      {
+        "word": "This",
+        "start_offset": 360,
+        "end_offset": 364,
+        "start": 28.8,
+        "end": 29.12
+      },
+      {
+        "word": "instrument",
+        "start_offset": 384,
+        "end_offset": 396,
+        "start": 30.72,
+        "end": 31.68
+      },
+      {
+        "word": "has",
+        "start_offset": 424,
+        "end_offset": 428,
+        "start": 33.92,
+        "end": 34.24
+      },
+      {
+        "word": "some",
+        "start_offset": 444,
+        "end_offset": 448,
+        "start": 35.52,
+        "end": 35.84
+      },
+      {
+        "word": "energy",
+        "start_offset": 476,
+        "end_offset": 488,
+        "start": 38.08,
+        "end": 39.04
+      },
+      {
+        "word": "a",
+        "start_offset": 505,
+        "end_offset": 509,
+        "start": 40.4,
+        "end": 40.72
+      },
+      {
+        "word": "transferred",
+        "start_offset": 509,
+        "end_offset": 529,
+        "start": 40.72,
+        "end": 42.32
+      },
+      {
+        "word": "which",
+        "start_offset": 546,
+        "end_offset": 550,
+        "start": 43.68,
+        "end": 44.0
+      },
+      {
+        "word": "is",
+        "start_offset": 566,
+        "end_offset": 570,
+        "start": 45.28,
+        "end": 45.6
+      },
+      {
+        "word": "available",
+        "start_offset": 590,
+        "end_offset": 605,
+        "start": 47.2,
+        "end": 48.4
+      },
+      {
+        "word": "how",
+        "start_offset": 643,
+        "end_offset": 647,
+        "start": 51.44,
+        "end": 51.76
+      },
+      {
+        "word": "ever",
+        "start_offset": 659,
+        "end_offset": 663,
+        "start": 52.72,
+        "end": 53.04
+      },
+      {
+        "word": "it",
+        "start_offset": 691,
+        "end_offset": 695,
+        "start": 55.28,
+        "end": 55.6
+      },
+      {
+        "word": "is",
+        "start_offset": 707,
+        "end_offset": 711,
+        "start": 56.56,
+        "end": 56.88
+      },
+      {
+        "word": "not",
+        "start_offset": 739,
+        "end_offset": 743,
+        "start": 59.120000000000005,
+        "end": 59.44
+      },
+      {
+        "word": "great",
+        "start_offset": 759,
+        "end_offset": 767,
+        "start": 60.72,
+        "end": 61.36
+      },
+      {
+        "word": "due",
+        "start_offset": 779,
+        "end_offset": 782,
+        "start": 62.32,
+        "end": 62.56
+      },
+      {
+        "word": "to",
+        "start_offset": 802,
+        "end_offset": 806,
+        "start": 64.16,
+        "end": 64.48
+      },
+      {
+        "word": "the",
+        "start_offset": 834,
+        "end_offset": 838,
+        "start": 66.72,
+        "end": 67.04
+      },
+      {
+        "word": "effects",
+        "start_offset": 850,
+        "end_offset": 864,
+        "start": 68.0,
+        "end": 69.12
+      },
+      {
+        "word": "as",
+        "start_offset": 883,
+        "end_offset": 887,
+        "start": 70.64,
+        "end": 70.96000000000001
+      },
+      {
+        "word": "previously",
+        "start_offset": 899,
+        "end_offset": 919,
+        "start": 71.92,
+        "end": 73.52
+      },
+      {
+        "word": "stated.",
+        "start_offset": 931,
+        "end_offset": 943,
+        "start": 74.48,
+        "end": 75.44
+      },
+      {
+        "word": "At",
+        "start_offset": 1164,
+        "end_offset": 1168,
+        "start": 93.12,
+        "end": 93.44
+      },
+      {
+        "word": "this",
+        "start_offset": 1180,
+        "end_offset": 1184,
+        "start": 94.4,
+        "end": 94.72
+      },
+      {
+        "word": "working",
+        "start_offset": 1200,
+        "end_offset": 1211,
+        "start": 96.0,
+        "end": 96.88
+      },
+      {
+        "word": "a",
+        "start_offset": 1238,
+        "end_offset": 1241,
+        "start": 99.04,
+        "end": 99.28
+      },
+      {
+        "word": "will,",
+        "start_offset": 1241,
+        "end_offset": 1244,
+        "start": 99.28,
+        "end": 99.52
+      },
+      {
+        "word": "as",
+        "start_offset": 1261,
+        "end_offset": 1265,
+        "start": 100.88,
+        "end": 101.2
+      },
+      {
+        "word": "always",
+        "start_offset": 1277,
+        "end_offset": 1289,
+        "start": 102.16,
+        "end": 103.12
+      },
+      {
+        "word": "attempt",
+        "start_offset": 1310,
+        "end_offset": 1322,
+        "start": 104.8,
+        "end": 105.76
+      },
+      {
+        "word": "to",
+        "start_offset": 1334,
+        "end_offset": 1338,
+        "start": 106.72,
+        "end": 107.04
+      },
+      {
+        "word": "safeguard",
+        "start_offset": 1346,
+        "end_offset": 1370,
+        "start": 107.68,
+        "end": 109.60000000000001
+      },
+      {
+        "word": "this",
+        "start_offset": 1386,
+        "end_offset": 1390,
+        "start": 110.88,
+        "end": 111.2
+      },
+      {
+        "word": "instrument.",
+        "start_offset": 1410,
+        "end_offset": 1425,
+        "start": 112.8,
+        "end": 114.0
+      },
+      {
+        "word": "We",
+        "start_offset": 1453,
+        "end_offset": 1457,
+        "start": 116.24000000000001,
+        "end": 116.56
+      },
+      {
+        "word": "feel",
+        "start_offset": 1477,
+        "end_offset": 1485,
+        "start": 118.16,
+        "end": 118.8
+      },
+      {
+        "word": "that",
+        "start_offset": 1505,
+        "end_offset": 1509,
+        "start": 120.4,
+        "end": 120.72
+      },
+      {
+        "word": "you",
+        "start_offset": 1525,
+        "end_offset": 1529,
+        "start": 122.0,
+        "end": 122.32000000000001
+      },
+      {
+        "word": "are",
+        "start_offset": 1545,
+        "end_offset": 1549,
+        "start": 123.60000000000001,
+        "end": 123.92
+      },
+      {
+        "word": "aware",
+        "start_offset": 1565,
+        "end_offset": 1577,
+        "start": 125.2,
+        "end": 126.16
+      },
+      {
+        "word": "of",
+        "start_offset": 1593,
+        "end_offset": 1597,
+        "start": 127.44,
+        "end": 127.76
+      },
+      {
+        "word": "the",
+        "start_offset": 1613,
+        "end_offset": 1617,
+        "start": 129.04,
+        "end": 129.36
+      },
+      {
+        "word": "parameters",
+        "start_offset": 1637,
+        "end_offset": 1657,
+        "start": 130.96,
+        "end": 132.56
+      },
+      {
+        "word": "without",
+        "start_offset": 1678,
+        "end_offset": 1694,
+        "start": 134.24,
+        "end": 135.52
+      },
+      {
+        "word": "further",
+        "start_offset": 1709,
+        "end_offset": 1721,
+        "start": 136.72,
+        "end": 137.68
+      },
+      {
+        "word": "elaboration.",
+        "start_offset": 1741,
+        "end_offset": 1760,
+        "start": 139.28,
+        "end": 140.8
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "056-02.mp3",
+    "audio_duration": 143.05,
+    "transcription_time": 0.19,
+    "rtfx": 747.57,
+    "timestamp": "2026-01-06T21:52:39.637488+00:00"
+  }
+}

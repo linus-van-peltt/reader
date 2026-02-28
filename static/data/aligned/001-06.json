@@ -1,0 +1,54 @@
+{
+  "text": "Is there another query?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there another query?",
+        "start_offset": 0,
+        "end_offset": 23,
+        "start": 7.601,
+        "end": 28.605
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 7.601,
+        "end": 7.761,
+        "score": -1.7852
+      },
+      {
+        "word": "there",
+        "start_offset": 3,
+        "end_offset": 8,
+        "start": 7.821,
+        "end": 9.902,
+        "score": -2.5612
+      },
+      {
+        "word": "another",
+        "start_offset": 9,
+        "end_offset": 16,
+        "start": 10.122,
+        "end": 12.002,
+        "score": -3.594
+      },
+      {
+        "word": "query?",
+        "start_offset": 17,
+        "end_offset": 23,
+        "start": 23.244,
+        "end": 28.605,
+        "score": -5.5821
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "001-06.mp3",
+    "audio_duration": 32.0261,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

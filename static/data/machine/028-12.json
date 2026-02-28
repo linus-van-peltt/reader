@@ -1,0 +1,93 @@
+{
+  "text": "Thank you. Could you please make the instrument cough?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 14,
+        "end_offset": 22,
+        "start": 1.12,
+        "end": 1.76
+      },
+      {
+        "segment": "Could you please make the instrument cough?",
+        "start_offset": 23,
+        "end_offset": 47,
+        "start": 1.84,
+        "end": 3.7600000000000002
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 14,
+        "end_offset": 20,
+        "start": 1.12,
+        "end": 1.6
+      },
+      {
+        "word": "you.",
+        "start_offset": 20,
+        "end_offset": 22,
+        "start": 1.6,
+        "end": 1.76
+      },
+      {
+        "word": "Could",
+        "start_offset": 23,
+        "end_offset": 25,
+        "start": 1.84,
+        "end": 2.0
+      },
+      {
+        "word": "you",
+        "start_offset": 25,
+        "end_offset": 27,
+        "start": 2.0,
+        "end": 2.16
+      },
+      {
+        "word": "please",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 2.16,
+        "end": 2.48
+      },
+      {
+        "word": "make",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 2.48,
+        "end": 2.64
+      },
+      {
+        "word": "the",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 2.64,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "instrument",
+        "start_offset": 35,
+        "end_offset": 41,
+        "start": 2.8000000000000003,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "cough?",
+        "start_offset": 41,
+        "end_offset": 47,
+        "start": 3.2800000000000002,
+        "end": 3.7600000000000002
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "028-12.mp3",
+    "audio_duration": 7.13,
+    "transcription_time": 0.08,
+    "rtfx": 87.15,
+    "timestamp": "2026-01-06T21:49:23.890058+00:00"
+  }
+}

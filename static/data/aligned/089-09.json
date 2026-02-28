@@ -1,0 +1,267 @@
+{
+  "text": "It appears that the end of Ra's third density coincided with the beginning of this planet's second density. Is that correct? I am Ra. This is roughly correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "It appears that the end of Ra's third density coincided with the beginning of this planet's second density.",
+        "start_offset": 0,
+        "end_offset": 107,
+        "start": 2.961,
+        "end": 13.562
+      },
+      {
+        "segment": "Is that correct?",
+        "start_offset": 108,
+        "end_offset": 124,
+        "start": 14.563,
+        "end": 15.303
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 125,
+        "end_offset": 133,
+        "start": 19.623,
+        "end": 21.904
+      },
+      {
+        "segment": "This is roughly correct.",
+        "start_offset": 134,
+        "end_offset": 158,
+        "start": 24.704,
+        "end": 29.205
+      }
+    ],
+    "word": [
+      {
+        "word": "It",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.961,
+        "end": 3.061,
+        "score": -0.8273
+      },
+      {
+        "word": "appears",
+        "start_offset": 3,
+        "end_offset": 10,
+        "start": 3.101,
+        "end": 3.521,
+        "score": -0.7001
+      },
+      {
+        "word": "that",
+        "start_offset": 11,
+        "end_offset": 15,
+        "start": 3.561,
+        "end": 3.741,
+        "score": -0.8789
+      },
+      {
+        "word": "the",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 4.201,
+        "end": 4.301,
+        "score": -0.8323
+      },
+      {
+        "word": "end",
+        "start_offset": 20,
+        "end_offset": 23,
+        "start": 4.421,
+        "end": 4.561,
+        "score": -0.7003
+      },
+      {
+        "word": "of",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 4.621,
+        "end": 4.701,
+        "score": -0.7231
+      },
+      {
+        "word": "Ra's",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 4.761,
+        "end": 5.141,
+        "score": -1.3785
+      },
+      {
+        "word": "third",
+        "start_offset": 32,
+        "end_offset": 37,
+        "start": 5.181,
+        "end": 5.461,
+        "score": -1.1206
+      },
+      {
+        "word": "density",
+        "start_offset": 38,
+        "end_offset": 45,
+        "start": 5.661,
+        "end": 6.061,
+        "score": -0.7121
+      },
+      {
+        "word": "coincided",
+        "start_offset": 46,
+        "end_offset": 55,
+        "start": 6.161,
+        "end": 7.281,
+        "score": -1.8192
+      },
+      {
+        "word": "with",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 9.162,
+        "end": 9.342,
+        "score": -0.7229
+      },
+      {
+        "word": "the",
+        "start_offset": 61,
+        "end_offset": 64,
+        "start": 9.382,
+        "end": 9.482,
+        "score": -0.8022
+      },
+      {
+        "word": "beginning",
+        "start_offset": 65,
+        "end_offset": 74,
+        "start": 9.542,
+        "end": 10.062,
+        "score": -0.7029
+      },
+      {
+        "word": "of",
+        "start_offset": 75,
+        "end_offset": 77,
+        "start": 10.862,
+        "end": 11.042,
+        "score": -0.8351
+      },
+      {
+        "word": "this",
+        "start_offset": 78,
+        "end_offset": 82,
+        "start": 11.702,
+        "end": 11.862,
+        "score": -0.791
+      },
+      {
+        "word": "planet's",
+        "start_offset": 83,
+        "end_offset": 91,
+        "start": 11.942,
+        "end": 12.422,
+        "score": -0.8031
+      },
+      {
+        "word": "second",
+        "start_offset": 92,
+        "end_offset": 98,
+        "start": 12.762,
+        "end": 13.102,
+        "score": -0.7947
+      },
+      {
+        "word": "density.",
+        "start_offset": 99,
+        "end_offset": 107,
+        "start": 13.142,
+        "end": 13.562,
+        "score": -0.7269
+      },
+      {
+        "word": "Is",
+        "start_offset": 108,
+        "end_offset": 110,
+        "start": 14.563,
+        "end": 14.683,
+        "score": -0.786
+      },
+      {
+        "word": "that",
+        "start_offset": 111,
+        "end_offset": 115,
+        "start": 14.703,
+        "end": 14.863,
+        "score": -3.8696
+      },
+      {
+        "word": "correct?",
+        "start_offset": 116,
+        "end_offset": 124,
+        "start": 14.903,
+        "end": 15.303,
+        "score": -1.4278
+      },
+      {
+        "word": "I",
+        "start_offset": 125,
+        "end_offset": 126,
+        "start": 19.623,
+        "end": 19.643,
+        "score": -2.363
+      },
+      {
+        "word": "am",
+        "start_offset": 127,
+        "end_offset": 129,
+        "start": 20.504,
+        "end": 20.764,
+        "score": -4.0826
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 130,
+        "end_offset": 133,
+        "start": 21.744,
+        "end": 21.904,
+        "score": -2.4542
+      },
+      {
+        "word": "This",
+        "start_offset": 134,
+        "end_offset": 138,
+        "start": 24.704,
+        "end": 25.044,
+        "score": -0.9346
+      },
+      {
+        "word": "is",
+        "start_offset": 139,
+        "end_offset": 141,
+        "start": 25.685,
+        "end": 26.025,
+        "score": -0.8134
+      },
+      {
+        "word": "roughly",
+        "start_offset": 142,
+        "end_offset": 149,
+        "start": 26.805,
+        "end": 27.405,
+        "score": -1.4279
+      },
+      {
+        "word": "correct.",
+        "start_offset": 150,
+        "end_offset": 158,
+        "start": 28.325,
+        "end": 29.205,
+        "score": -1.7981
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "089-09.mp3",
+    "audio_duration": 39.0269,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

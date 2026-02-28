@@ -1,0 +1,142 @@
+{
+  "text": "Is the reason for this lack of comment the first distortion? I am this is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is the reason for this lack of comment the first distortion?",
+        "start_offset": 37,
+        "end_offset": 74,
+        "start": 2.96,
+        "end": 5.92
+      },
+      {
+        "segment": "I am this is correct.",
+        "start_offset": 100,
+        "end_offset": 209,
+        "start": 8.0,
+        "end": 16.72
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 2.96,
+        "end": 3.12
+      },
+      {
+        "word": "the",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 3.2800000000000002,
+        "end": 3.44
+      },
+      {
+        "word": "reason",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 3.44,
+        "end": 3.68
+      },
+      {
+        "word": "for",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 3.68,
+        "end": 3.84
+      },
+      {
+        "word": "this",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 3.84,
+        "end": 4.08
+      },
+      {
+        "word": "lack",
+        "start_offset": 51,
+        "end_offset": 53,
+        "start": 4.08,
+        "end": 4.24
+      },
+      {
+        "word": "of",
+        "start_offset": 53,
+        "end_offset": 55,
+        "start": 4.24,
+        "end": 4.4
+      },
+      {
+        "word": "comment",
+        "start_offset": 55,
+        "end_offset": 60,
+        "start": 4.4,
+        "end": 4.8
+      },
+      {
+        "word": "the",
+        "start_offset": 61,
+        "end_offset": 62,
+        "start": 4.88,
+        "end": 4.96
+      },
+      {
+        "word": "first",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 4.96,
+        "end": 5.2
+      },
+      {
+        "word": "distortion?",
+        "start_offset": 65,
+        "end_offset": 74,
+        "start": 5.2,
+        "end": 5.92
+      },
+      {
+        "word": "I",
+        "start_offset": 100,
+        "end_offset": 104,
+        "start": 8.0,
+        "end": 8.32
+      },
+      {
+        "word": "am",
+        "start_offset": 115,
+        "end_offset": 117,
+        "start": 9.200000000000001,
+        "end": 9.36
+      },
+      {
+        "word": "this",
+        "start_offset": 158,
+        "end_offset": 162,
+        "start": 12.64,
+        "end": 12.96
+      },
+      {
+        "word": "is",
+        "start_offset": 174,
+        "end_offset": 178,
+        "start": 13.92,
+        "end": 14.24
+      },
+      {
+        "word": "correct.",
+        "start_offset": 197,
+        "end_offset": 209,
+        "start": 15.76,
+        "end": 16.72
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "097-04.mp3",
+    "audio_duration": 30.04,
+    "transcription_time": 0.09,
+    "rtfx": 317.76,
+    "timestamp": "2026-01-06T21:59:52.682667+00:00"
+  }
+}

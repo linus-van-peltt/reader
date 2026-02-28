@@ -1,0 +1,366 @@
+{
+  "text": "It has seemed to me that that book has somehow in its entirety been a linked to many of those whom we have met since we wrote it and to the many of the activities we have experienced. Is this correct? I am this is quite so.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "It has seemed to me that that book has somehow in its entirety been a linked to many of those whom we have met since we wrote it and to the many of the activities we have experienced.",
+        "start_offset": 31,
+        "end_offset": 319,
+        "start": 2.48,
+        "end": 25.52
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 347,
+        "end_offset": 365,
+        "start": 27.76,
+        "end": 29.2
+      },
+      {
+        "segment": "I am this is quite so.",
+        "start_offset": 393,
+        "end_offset": 475,
+        "start": 31.44,
+        "end": 38.0
+      }
+    ],
+    "word": [
+      {
+        "word": "It",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 2.48,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "has",
+        "start_offset": 35,
+        "end_offset": 37,
+        "start": 2.8000000000000003,
+        "end": 2.96
+      },
+      {
+        "word": "seemed",
+        "start_offset": 39,
+        "end_offset": 44,
+        "start": 3.12,
+        "end": 3.52
+      },
+      {
+        "word": "to",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 3.52,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "me",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 3.7600000000000002,
+        "end": 4.08
+      },
+      {
+        "word": "that",
+        "start_offset": 51,
+        "end_offset": 55,
+        "start": 4.08,
+        "end": 4.4
+      },
+      {
+        "word": "that",
+        "start_offset": 58,
+        "end_offset": 62,
+        "start": 4.64,
+        "end": 4.96
+      },
+      {
+        "word": "book",
+        "start_offset": 62,
+        "end_offset": 67,
+        "start": 4.96,
+        "end": 5.36
+      },
+      {
+        "word": "has",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 5.36,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "somehow",
+        "start_offset": 70,
+        "end_offset": 76,
+        "start": 5.6000000000000005,
+        "end": 6.08
+      },
+      {
+        "word": "in",
+        "start_offset": 78,
+        "end_offset": 81,
+        "start": 6.24,
+        "end": 6.48
+      },
+      {
+        "word": "its",
+        "start_offset": 81,
+        "end_offset": 84,
+        "start": 6.48,
+        "end": 6.72
+      },
+      {
+        "word": "entirety",
+        "start_offset": 84,
+        "end_offset": 90,
+        "start": 6.72,
+        "end": 7.2
+      },
+      {
+        "word": "been",
+        "start_offset": 92,
+        "end_offset": 96,
+        "start": 7.36,
+        "end": 7.68
+      },
+      {
+        "word": "a",
+        "start_offset": 96,
+        "end_offset": 100,
+        "start": 7.68,
+        "end": 8.0
+      },
+      {
+        "word": "linked",
+        "start_offset": 136,
+        "end_offset": 148,
+        "start": 10.88,
+        "end": 11.84
+      },
+      {
+        "word": "to",
+        "start_offset": 148,
+        "end_offset": 152,
+        "start": 11.84,
+        "end": 12.16
+      },
+      {
+        "word": "many",
+        "start_offset": 152,
+        "end_offset": 160,
+        "start": 12.16,
+        "end": 12.8
+      },
+      {
+        "word": "of",
+        "start_offset": 175,
+        "end_offset": 179,
+        "start": 14.0,
+        "end": 14.32
+      },
+      {
+        "word": "those",
+        "start_offset": 179,
+        "end_offset": 185,
+        "start": 14.32,
+        "end": 14.8
+      },
+      {
+        "word": "whom",
+        "start_offset": 185,
+        "end_offset": 190,
+        "start": 14.8,
+        "end": 15.200000000000001
+      },
+      {
+        "word": "we",
+        "start_offset": 190,
+        "end_offset": 193,
+        "start": 15.200000000000001,
+        "end": 15.44
+      },
+      {
+        "word": "have",
+        "start_offset": 193,
+        "end_offset": 197,
+        "start": 15.44,
+        "end": 15.76
+      },
+      {
+        "word": "met",
+        "start_offset": 197,
+        "end_offset": 201,
+        "start": 15.76,
+        "end": 16.080000000000002
+      },
+      {
+        "word": "since",
+        "start_offset": 218,
+        "end_offset": 225,
+        "start": 17.44,
+        "end": 18.0
+      },
+      {
+        "word": "we",
+        "start_offset": 225,
+        "end_offset": 228,
+        "start": 18.0,
+        "end": 18.240000000000002
+      },
+      {
+        "word": "wrote",
+        "start_offset": 228,
+        "end_offset": 235,
+        "start": 18.240000000000002,
+        "end": 18.8
+      },
+      {
+        "word": "it",
+        "start_offset": 235,
+        "end_offset": 239,
+        "start": 18.8,
+        "end": 19.12
+      },
+      {
+        "word": "and",
+        "start_offset": 246,
+        "end_offset": 250,
+        "start": 19.68,
+        "end": 20.0
+      },
+      {
+        "word": "to",
+        "start_offset": 254,
+        "end_offset": 258,
+        "start": 20.32,
+        "end": 20.64
+      },
+      {
+        "word": "the",
+        "start_offset": 258,
+        "end_offset": 262,
+        "start": 20.64,
+        "end": 20.96
+      },
+      {
+        "word": "many",
+        "start_offset": 262,
+        "end_offset": 267,
+        "start": 20.96,
+        "end": 21.36
+      },
+      {
+        "word": "of",
+        "start_offset": 267,
+        "end_offset": 269,
+        "start": 21.36,
+        "end": 21.52
+      },
+      {
+        "word": "the",
+        "start_offset": 269,
+        "end_offset": 273,
+        "start": 21.52,
+        "end": 21.84
+      },
+      {
+        "word": "activities",
+        "start_offset": 273,
+        "end_offset": 283,
+        "start": 21.84,
+        "end": 22.64
+      },
+      {
+        "word": "we",
+        "start_offset": 283,
+        "end_offset": 287,
+        "start": 22.64,
+        "end": 22.96
+      },
+      {
+        "word": "have",
+        "start_offset": 287,
+        "end_offset": 291,
+        "start": 22.96,
+        "end": 23.28
+      },
+      {
+        "word": "experienced.",
+        "start_offset": 303,
+        "end_offset": 319,
+        "start": 24.240000000000002,
+        "end": 25.52
+      },
+      {
+        "word": "Is",
+        "start_offset": 347,
+        "end_offset": 351,
+        "start": 27.76,
+        "end": 28.080000000000002
+      },
+      {
+        "word": "this",
+        "start_offset": 351,
+        "end_offset": 355,
+        "start": 28.080000000000002,
+        "end": 28.400000000000002
+      },
+      {
+        "word": "correct?",
+        "start_offset": 355,
+        "end_offset": 365,
+        "start": 28.400000000000002,
+        "end": 29.2
+      },
+      {
+        "word": "I",
+        "start_offset": 393,
+        "end_offset": 397,
+        "start": 31.44,
+        "end": 31.76
+      },
+      {
+        "word": "am",
+        "start_offset": 401,
+        "end_offset": 404,
+        "start": 32.08,
+        "end": 32.32
+      },
+      {
+        "word": "this",
+        "start_offset": 438,
+        "end_offset": 442,
+        "start": 35.04,
+        "end": 35.36
+      },
+      {
+        "word": "is",
+        "start_offset": 446,
+        "end_offset": 450,
+        "start": 35.68,
+        "end": 36.0
+      },
+      {
+        "word": "quite",
+        "start_offset": 458,
+        "end_offset": 466,
+        "start": 36.64,
+        "end": 37.28
+      },
+      {
+        "word": "so.",
+        "start_offset": 471,
+        "end_offset": 475,
+        "start": 37.68,
+        "end": 38.0
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "067-18.mp3",
+    "audio_duration": 39.03,
+    "transcription_time": 0.1,
+    "rtfx": 374.91,
+    "timestamp": "2026-01-06T21:54:31.888899+00:00"
+  }
+}

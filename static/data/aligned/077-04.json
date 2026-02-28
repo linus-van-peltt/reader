@@ -1,0 +1,156 @@
+{
+  "text": "What could we do? I am Ra. Your group could refrain from continuing this contact.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What could we do?",
+        "start_offset": 0,
+        "end_offset": 17,
+        "start": 1.682,
+        "end": 2.262
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 18,
+        "end_offset": 26,
+        "start": 5.925,
+        "end": 8.488
+      },
+      {
+        "segment": "Your group could refrain from continuing this contact.",
+        "start_offset": 27,
+        "end_offset": 81,
+        "start": 11.811,
+        "end": 24.503
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 1.682,
+        "end": 1.822,
+        "score": -0.883
+      },
+      {
+        "word": "could",
+        "start_offset": 5,
+        "end_offset": 10,
+        "start": 1.862,
+        "end": 2.002,
+        "score": -3.0604
+      },
+      {
+        "word": "we",
+        "start_offset": 11,
+        "end_offset": 13,
+        "start": 2.022,
+        "end": 2.102,
+        "score": -1.0972
+      },
+      {
+        "word": "do?",
+        "start_offset": 14,
+        "end_offset": 17,
+        "start": 2.162,
+        "end": 2.262,
+        "score": -1.285
+      },
+      {
+        "word": "I",
+        "start_offset": 18,
+        "end_offset": 19,
+        "start": 5.925,
+        "end": 5.946,
+        "score": -1.4395
+      },
+      {
+        "word": "am",
+        "start_offset": 20,
+        "end_offset": 22,
+        "start": 6.726,
+        "end": 7.006,
+        "score": -2.4351
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 8.348,
+        "end": 8.488,
+        "score": -3.6741
+      },
+      {
+        "word": "Your",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 11.811,
+        "end": 12.171,
+        "score": -1.5666
+      },
+      {
+        "word": "group",
+        "start_offset": 32,
+        "end_offset": 37,
+        "start": 12.672,
+        "end": 13.092,
+        "score": -0.8312
+      },
+      {
+        "word": "could",
+        "start_offset": 38,
+        "end_offset": 43,
+        "start": 13.833,
+        "end": 14.193,
+        "score": -1.047
+      },
+      {
+        "word": "refrain",
+        "start_offset": 44,
+        "end_offset": 51,
+        "start": 14.674,
+        "end": 15.675,
+        "score": -0.8263
+      },
+      {
+        "word": "from",
+        "start_offset": 52,
+        "end_offset": 56,
+        "start": 16.235,
+        "end": 16.655,
+        "score": -4.1898
+      },
+      {
+        "word": "continuing",
+        "start_offset": 57,
+        "end_offset": 67,
+        "start": 19.278,
+        "end": 21.06,
+        "score": -0.7299
+      },
+      {
+        "word": "this",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 22.12,
+        "end": 22.461,
+        "score": -0.7494
+      },
+      {
+        "word": "contact.",
+        "start_offset": 73,
+        "end_offset": 81,
+        "start": 23.402,
+        "end": 24.503,
+        "score": -0.9398
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "077-04.mp3",
+    "audio_duration": 26.0441,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

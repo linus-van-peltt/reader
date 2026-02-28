@@ -1,0 +1,433 @@
+{
+  "text": "Very important point, I believe. Does a portion of the Confederation then engage in this thought battle? What percentage engages? I am Ra. This is the most difficult work of the Confederation. Only four planetary entities at any one time are asked to partake in this conflict.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Very important point, I believe.",
+        "start_offset": 0,
+        "end_offset": 32,
+        "start": 2.501,
+        "end": 4.201
+      },
+      {
+        "segment": "Does a portion of the Confederation then engage in this thought battle?",
+        "start_offset": 33,
+        "end_offset": 104,
+        "start": 6.241,
+        "end": 11.402
+      },
+      {
+        "segment": "What percentage engages?",
+        "start_offset": 105,
+        "end_offset": 129,
+        "start": 12.543,
+        "end": 13.983
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 130,
+        "end_offset": 138,
+        "start": 19.984,
+        "end": 21.504
+      },
+      {
+        "segment": "This is the most difficult work of the Confederation.",
+        "start_offset": 139,
+        "end_offset": 192,
+        "start": 23.545,
+        "end": 33.327
+      },
+      {
+        "segment": "Only four planetary entities at any one time are asked to partake in this conflict.",
+        "start_offset": 193,
+        "end_offset": 276,
+        "start": 35.007,
+        "end": 55.971
+      }
+    ],
+    "word": [
+      {
+        "word": "Very",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.501,
+        "end": 2.761,
+        "score": -3.0463
+      },
+      {
+        "word": "important",
+        "start_offset": 5,
+        "end_offset": 14,
+        "start": 2.861,
+        "end": 3.321,
+        "score": -3.9435
+      },
+      {
+        "word": "point,",
+        "start_offset": 15,
+        "end_offset": 21,
+        "start": 3.401,
+        "end": 3.681,
+        "score": -4.227
+      },
+      {
+        "word": "I",
+        "start_offset": 22,
+        "end_offset": 23,
+        "start": 3.741,
+        "end": 3.761,
+        "score": -6.4801
+      },
+      {
+        "word": "believe.",
+        "start_offset": 24,
+        "end_offset": 32,
+        "start": 3.821,
+        "end": 4.201,
+        "score": -5.1973
+      },
+      {
+        "word": "Does",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 6.241,
+        "end": 6.481,
+        "score": -5.079
+      },
+      {
+        "word": "a",
+        "start_offset": 38,
+        "end_offset": 39,
+        "start": 6.601,
+        "end": 6.621,
+        "score": -5.8508
+      },
+      {
+        "word": "portion",
+        "start_offset": 40,
+        "end_offset": 47,
+        "start": 6.801,
+        "end": 7.201,
+        "score": -3.2715
+      },
+      {
+        "word": "of",
+        "start_offset": 48,
+        "end_offset": 50,
+        "start": 7.261,
+        "end": 7.321,
+        "score": -3.6134
+      },
+      {
+        "word": "the",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 7.361,
+        "end": 7.441,
+        "score": -3.3744
+      },
+      {
+        "word": "Confederation",
+        "start_offset": 55,
+        "end_offset": 68,
+        "start": 7.481,
+        "end": 8.282,
+        "score": -3.3307
+      },
+      {
+        "word": "then",
+        "start_offset": 69,
+        "end_offset": 73,
+        "start": 8.342,
+        "end": 8.542,
+        "score": -2.4866
+      },
+      {
+        "word": "engage",
+        "start_offset": 74,
+        "end_offset": 80,
+        "start": 9.122,
+        "end": 9.682,
+        "score": -2.8559
+      },
+      {
+        "word": "in",
+        "start_offset": 81,
+        "end_offset": 83,
+        "start": 9.822,
+        "end": 9.882,
+        "score": -2.2841
+      },
+      {
+        "word": "this",
+        "start_offset": 84,
+        "end_offset": 88,
+        "start": 9.942,
+        "end": 10.182,
+        "score": -3.1074
+      },
+      {
+        "word": "thought",
+        "start_offset": 89,
+        "end_offset": 96,
+        "start": 10.722,
+        "end": 11.022,
+        "score": -4.2678
+      },
+      {
+        "word": "battle?",
+        "start_offset": 97,
+        "end_offset": 104,
+        "start": 11.162,
+        "end": 11.402,
+        "score": -6.7216
+      },
+      {
+        "word": "What",
+        "start_offset": 105,
+        "end_offset": 109,
+        "start": 12.543,
+        "end": 12.703,
+        "score": -5.363
+      },
+      {
+        "word": "percentage",
+        "start_offset": 110,
+        "end_offset": 120,
+        "start": 12.743,
+        "end": 13.343,
+        "score": -5.8196
+      },
+      {
+        "word": "engages?",
+        "start_offset": 121,
+        "end_offset": 129,
+        "start": 13.463,
+        "end": 13.983,
+        "score": -5.7207
+      },
+      {
+        "word": "I",
+        "start_offset": 130,
+        "end_offset": 131,
+        "start": 19.984,
+        "end": 20.004,
+        "score": -0.8227
+      },
+      {
+        "word": "am",
+        "start_offset": 132,
+        "end_offset": 134,
+        "start": 20.484,
+        "end": 20.844,
+        "score": -0.7769
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 135,
+        "end_offset": 138,
+        "start": 21.364,
+        "end": 21.504,
+        "score": -0.9229
+      },
+      {
+        "word": "This",
+        "start_offset": 139,
+        "end_offset": 143,
+        "start": 23.545,
+        "end": 23.985,
+        "score": -0.8038
+      },
+      {
+        "word": "is",
+        "start_offset": 144,
+        "end_offset": 146,
+        "start": 24.525,
+        "end": 24.885,
+        "score": -0.7159
+      },
+      {
+        "word": "the",
+        "start_offset": 147,
+        "end_offset": 150,
+        "start": 25.445,
+        "end": 25.585,
+        "score": -0.7763
+      },
+      {
+        "word": "most",
+        "start_offset": 151,
+        "end_offset": 155,
+        "start": 26.745,
+        "end": 27.285,
+        "score": -0.7008
+      },
+      {
+        "word": "difficult",
+        "start_offset": 156,
+        "end_offset": 165,
+        "start": 27.786,
+        "end": 28.866,
+        "score": -0.7242
+      },
+      {
+        "word": "work",
+        "start_offset": 166,
+        "end_offset": 170,
+        "start": 29.566,
+        "end": 30.066,
+        "score": -0.6985
+      },
+      {
+        "word": "of",
+        "start_offset": 171,
+        "end_offset": 173,
+        "start": 30.666,
+        "end": 30.946,
+        "score": -0.6977
+      },
+      {
+        "word": "the",
+        "start_offset": 174,
+        "end_offset": 177,
+        "start": 31.146,
+        "end": 31.286,
+        "score": -0.8012
+      },
+      {
+        "word": "Confederation.",
+        "start_offset": 178,
+        "end_offset": 192,
+        "start": 31.706,
+        "end": 33.327,
+        "score": -0.6973
+      },
+      {
+        "word": "Only",
+        "start_offset": 193,
+        "end_offset": 197,
+        "start": 35.007,
+        "end": 35.567,
+        "score": -0.7208
+      },
+      {
+        "word": "four",
+        "start_offset": 198,
+        "end_offset": 202,
+        "start": 36.327,
+        "end": 36.867,
+        "score": -1.7078
+      },
+      {
+        "word": "planetary",
+        "start_offset": 203,
+        "end_offset": 212,
+        "start": 37.648,
+        "end": 39.048,
+        "score": -1.0938
+      },
+      {
+        "word": "entities",
+        "start_offset": 213,
+        "end_offset": 221,
+        "start": 39.868,
+        "end": 40.788,
+        "score": -0.7617
+      },
+      {
+        "word": "at",
+        "start_offset": 222,
+        "end_offset": 224,
+        "start": 41.808,
+        "end": 42.128,
+        "score": -0.7026
+      },
+      {
+        "word": "any",
+        "start_offset": 225,
+        "end_offset": 228,
+        "start": 42.709,
+        "end": 42.969,
+        "score": -0.7125
+      },
+      {
+        "word": "one",
+        "start_offset": 229,
+        "end_offset": 232,
+        "start": 43.849,
+        "end": 44.129,
+        "score": -0.8045
+      },
+      {
+        "word": "time",
+        "start_offset": 233,
+        "end_offset": 237,
+        "start": 45.009,
+        "end": 45.749,
+        "score": -0.7487
+      },
+      {
+        "word": "are",
+        "start_offset": 238,
+        "end_offset": 241,
+        "start": 46.969,
+        "end": 47.369,
+        "score": -1.1842
+      },
+      {
+        "word": "asked",
+        "start_offset": 242,
+        "end_offset": 247,
+        "start": 47.85,
+        "end": 48.43,
+        "score": -0.8161
+      },
+      {
+        "word": "to",
+        "start_offset": 248,
+        "end_offset": 250,
+        "start": 49.47,
+        "end": 49.77,
+        "score": -0.8076
+      },
+      {
+        "word": "partake",
+        "start_offset": 251,
+        "end_offset": 258,
+        "start": 50.53,
+        "end": 51.69,
+        "score": -0.7248
+      },
+      {
+        "word": "in",
+        "start_offset": 259,
+        "end_offset": 261,
+        "start": 52.731,
+        "end": 53.011,
+        "score": -0.7256
+      },
+      {
+        "word": "this",
+        "start_offset": 262,
+        "end_offset": 266,
+        "start": 53.491,
+        "end": 53.971,
+        "score": -2.8397
+      },
+      {
+        "word": "conflict.",
+        "start_offset": 267,
+        "end_offset": 276,
+        "start": 54.531,
+        "end": 55.971,
+        "score": -0.745
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "025-07.mp3",
+    "audio_duration": 57.0514,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,689 @@
+{
+  "text": "Then I should ask my questions rapidly so that I do not reduce the time. Is this correct? I am Ra. You shall do as you deem fit. However, we may suggest that to obtain the answers you require may mean that you invest some of what you experience as time. Although you lose the answer-time, you gain thereby in the specificity of the answer as many times in the past we have needed clarification of hastily phrased questions.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then I should ask my questions rapidly so that I do not reduce the time.",
+        "start_offset": 0,
+        "end_offset": 72,
+        "start": 0.96,
+        "end": 19.143
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 73,
+        "end_offset": 89,
+        "start": 19.183,
+        "end": 19.523
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 90,
+        "end_offset": 98,
+        "start": 19.543,
+        "end": 19.783
+      },
+      {
+        "segment": "You shall do as you deem fit.",
+        "start_offset": 99,
+        "end_offset": 128,
+        "start": 21.164,
+        "end": 28.905
+      },
+      {
+        "segment": "However, we may suggest that to obtain the answers you require may mean that you invest some of what you experience as time.",
+        "start_offset": 129,
+        "end_offset": 253,
+        "start": 29.965,
+        "end": 63.211
+      },
+      {
+        "segment": "Although you lose the answer-time, you gain thereby in the specificity of the answer as many times in the past we have needed clarification of hastily phrased questions.",
+        "start_offset": 254,
+        "end_offset": 423,
+        "start": 64.291,
+        "end": 104.498
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 0.96,
+        "end": 1.04,
+        "score": -6.0593
+      },
+      {
+        "word": "I",
+        "start_offset": 5,
+        "end_offset": 6,
+        "start": 1.06,
+        "end": 1.08,
+        "score": -7.3611
+      },
+      {
+        "word": "should",
+        "start_offset": 7,
+        "end_offset": 13,
+        "start": 1.1,
+        "end": 5.521,
+        "score": -8.6135
+      },
+      {
+        "word": "ask",
+        "start_offset": 14,
+        "end_offset": 17,
+        "start": 5.701,
+        "end": 5.841,
+        "score": -9.8477
+      },
+      {
+        "word": "my",
+        "start_offset": 18,
+        "end_offset": 20,
+        "start": 5.941,
+        "end": 6.001,
+        "score": -7.6685
+      },
+      {
+        "word": "questions",
+        "start_offset": 21,
+        "end_offset": 30,
+        "start": 6.021,
+        "end": 10.482,
+        "score": -8.5875
+      },
+      {
+        "word": "rapidly",
+        "start_offset": 31,
+        "end_offset": 38,
+        "start": 10.502,
+        "end": 17.983,
+        "score": -8.3585
+      },
+      {
+        "word": "so",
+        "start_offset": 39,
+        "end_offset": 41,
+        "start": 18.003,
+        "end": 18.523,
+        "score": -9.5389
+      },
+      {
+        "word": "that",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 18.543,
+        "end": 18.623,
+        "score": -8.0955
+      },
+      {
+        "word": "I",
+        "start_offset": 47,
+        "end_offset": 48,
+        "start": 18.663,
+        "end": 18.683,
+        "score": -8.1662
+      },
+      {
+        "word": "do",
+        "start_offset": 49,
+        "end_offset": 51,
+        "start": 18.703,
+        "end": 18.743,
+        "score": -6.2389
+      },
+      {
+        "word": "not",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 18.763,
+        "end": 18.823,
+        "score": -9.2206
+      },
+      {
+        "word": "reduce",
+        "start_offset": 56,
+        "end_offset": 62,
+        "start": 18.843,
+        "end": 18.963,
+        "score": -6.4452
+      },
+      {
+        "word": "the",
+        "start_offset": 63,
+        "end_offset": 66,
+        "start": 18.983,
+        "end": 19.043,
+        "score": -5.8398
+      },
+      {
+        "word": "time.",
+        "start_offset": 67,
+        "end_offset": 72,
+        "start": 19.063,
+        "end": 19.143,
+        "score": -8.0189
+      },
+      {
+        "word": "Is",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 19.183,
+        "end": 19.223,
+        "score": -8.4943
+      },
+      {
+        "word": "this",
+        "start_offset": 76,
+        "end_offset": 80,
+        "start": 19.263,
+        "end": 19.343,
+        "score": -8.8018
+      },
+      {
+        "word": "correct?",
+        "start_offset": 81,
+        "end_offset": 89,
+        "start": 19.363,
+        "end": 19.523,
+        "score": -10.2428
+      },
+      {
+        "word": "I",
+        "start_offset": 90,
+        "end_offset": 91,
+        "start": 19.543,
+        "end": 19.563,
+        "score": -9.4919
+      },
+      {
+        "word": "am",
+        "start_offset": 92,
+        "end_offset": 94,
+        "start": 19.603,
+        "end": 19.683,
+        "score": -10.3115
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 95,
+        "end_offset": 98,
+        "start": 19.743,
+        "end": 19.783,
+        "score": -9.7731
+      },
+      {
+        "word": "You",
+        "start_offset": 99,
+        "end_offset": 102,
+        "start": 21.164,
+        "end": 21.304,
+        "score": -0.7496
+      },
+      {
+        "word": "shall",
+        "start_offset": 103,
+        "end_offset": 108,
+        "start": 22.444,
+        "end": 22.884,
+        "score": -0.7896
+      },
+      {
+        "word": "do",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 24.084,
+        "end": 24.204,
+        "score": -0.7132
+      },
+      {
+        "word": "as",
+        "start_offset": 112,
+        "end_offset": 114,
+        "start": 25.224,
+        "end": 25.564,
+        "score": -0.7078
+      },
+      {
+        "word": "you",
+        "start_offset": 115,
+        "end_offset": 118,
+        "start": 26.125,
+        "end": 26.285,
+        "score": -0.7549
+      },
+      {
+        "word": "deem",
+        "start_offset": 119,
+        "end_offset": 123,
+        "start": 27.225,
+        "end": 27.585,
+        "score": -1.4077
+      },
+      {
+        "word": "fit.",
+        "start_offset": 124,
+        "end_offset": 128,
+        "start": 28.565,
+        "end": 28.905,
+        "score": -0.7302
+      },
+      {
+        "word": "However,",
+        "start_offset": 129,
+        "end_offset": 137,
+        "start": 29.965,
+        "end": 31.245,
+        "score": -0.7993
+      },
+      {
+        "word": "we",
+        "start_offset": 138,
+        "end_offset": 140,
+        "start": 32.286,
+        "end": 32.426,
+        "score": -0.7821
+      },
+      {
+        "word": "may",
+        "start_offset": 141,
+        "end_offset": 144,
+        "start": 33.466,
+        "end": 33.746,
+        "score": -0.7075
+      },
+      {
+        "word": "suggest",
+        "start_offset": 145,
+        "end_offset": 152,
+        "start": 34.706,
+        "end": 35.966,
+        "score": -0.9559
+      },
+      {
+        "word": "that",
+        "start_offset": 153,
+        "end_offset": 157,
+        "start": 36.766,
+        "end": 37.146,
+        "score": -0.7864
+      },
+      {
+        "word": "to",
+        "start_offset": 158,
+        "end_offset": 160,
+        "start": 37.827,
+        "end": 38.027,
+        "score": -0.8978
+      },
+      {
+        "word": "obtain",
+        "start_offset": 161,
+        "end_offset": 167,
+        "start": 39.127,
+        "end": 40.147,
+        "score": -0.7278
+      },
+      {
+        "word": "the",
+        "start_offset": 168,
+        "end_offset": 171,
+        "start": 41.707,
+        "end": 41.847,
+        "score": -0.7434
+      },
+      {
+        "word": "answers",
+        "start_offset": 172,
+        "end_offset": 179,
+        "start": 43.028,
+        "end": 43.848,
+        "score": -0.7875
+      },
+      {
+        "word": "you",
+        "start_offset": 180,
+        "end_offset": 183,
+        "start": 44.828,
+        "end": 44.968,
+        "score": -0.7947
+      },
+      {
+        "word": "require",
+        "start_offset": 184,
+        "end_offset": 191,
+        "start": 45.828,
+        "end": 47.308,
+        "score": -0.7961
+      },
+      {
+        "word": "may",
+        "start_offset": 192,
+        "end_offset": 195,
+        "start": 48.689,
+        "end": 49.009,
+        "score": -0.7156
+      },
+      {
+        "word": "mean",
+        "start_offset": 196,
+        "end_offset": 200,
+        "start": 50.609,
+        "end": 51.009,
+        "score": -0.6987
+      },
+      {
+        "word": "that",
+        "start_offset": 201,
+        "end_offset": 205,
+        "start": 52.169,
+        "end": 52.529,
+        "score": -0.7299
+      },
+      {
+        "word": "you",
+        "start_offset": 206,
+        "end_offset": 209,
+        "start": 53.089,
+        "end": 53.229,
+        "score": -0.7348
+      },
+      {
+        "word": "invest",
+        "start_offset": 210,
+        "end_offset": 216,
+        "start": 53.969,
+        "end": 55.09,
+        "score": -1.0066
+      },
+      {
+        "word": "some",
+        "start_offset": 217,
+        "end_offset": 221,
+        "start": 56.13,
+        "end": 56.51,
+        "score": -0.7786
+      },
+      {
+        "word": "of",
+        "start_offset": 222,
+        "end_offset": 224,
+        "start": 57.41,
+        "end": 57.61,
+        "score": -0.7152
+      },
+      {
+        "word": "what",
+        "start_offset": 225,
+        "end_offset": 229,
+        "start": 57.95,
+        "end": 58.27,
+        "score": -0.7711
+      },
+      {
+        "word": "you",
+        "start_offset": 230,
+        "end_offset": 233,
+        "start": 59.63,
+        "end": 59.75,
+        "score": -0.7285
+      },
+      {
+        "word": "experience",
+        "start_offset": 234,
+        "end_offset": 244,
+        "start": 60.171,
+        "end": 61.571,
+        "score": -0.761
+      },
+      {
+        "word": "as",
+        "start_offset": 245,
+        "end_offset": 247,
+        "start": 62.011,
+        "end": 62.311,
+        "score": -0.7044
+      },
+      {
+        "word": "time.",
+        "start_offset": 248,
+        "end_offset": 253,
+        "start": 62.591,
+        "end": 63.211,
+        "score": -0.7449
+      },
+      {
+        "word": "Although",
+        "start_offset": 254,
+        "end_offset": 262,
+        "start": 64.291,
+        "end": 65.051,
+        "score": -0.7784
+      },
+      {
+        "word": "you",
+        "start_offset": 263,
+        "end_offset": 266,
+        "start": 65.772,
+        "end": 65.912,
+        "score": -0.7356
+      },
+      {
+        "word": "lose",
+        "start_offset": 267,
+        "end_offset": 271,
+        "start": 66.992,
+        "end": 67.572,
+        "score": -1.1208
+      },
+      {
+        "word": "the",
+        "start_offset": 272,
+        "end_offset": 275,
+        "start": 68.212,
+        "end": 68.352,
+        "score": -0.9124
+      },
+      {
+        "word": "answer-time,",
+        "start_offset": 276,
+        "end_offset": 288,
+        "start": 70.232,
+        "end": 72.013,
+        "score": -0.833
+      },
+      {
+        "word": "you",
+        "start_offset": 289,
+        "end_offset": 292,
+        "start": 73.053,
+        "end": 73.193,
+        "score": -0.7326
+      },
+      {
+        "word": "gain",
+        "start_offset": 293,
+        "end_offset": 297,
+        "start": 73.733,
+        "end": 74.153,
+        "score": -0.7451
+      },
+      {
+        "word": "thereby",
+        "start_offset": 298,
+        "end_offset": 305,
+        "start": 74.613,
+        "end": 75.933,
+        "score": -1.1701
+      },
+      {
+        "word": "in",
+        "start_offset": 306,
+        "end_offset": 308,
+        "start": 76.753,
+        "end": 76.933,
+        "score": -0.7561
+      },
+      {
+        "word": "the",
+        "start_offset": 309,
+        "end_offset": 312,
+        "start": 77.634,
+        "end": 77.754,
+        "score": -0.9452
+      },
+      {
+        "word": "specificity",
+        "start_offset": 313,
+        "end_offset": 324,
+        "start": 78.774,
+        "end": 80.794,
+        "score": -0.7211
+      },
+      {
+        "word": "of",
+        "start_offset": 325,
+        "end_offset": 327,
+        "start": 81.654,
+        "end": 81.874,
+        "score": -0.7264
+      },
+      {
+        "word": "the",
+        "start_offset": 328,
+        "end_offset": 331,
+        "start": 82.394,
+        "end": 82.534,
+        "score": -0.8212
+      },
+      {
+        "word": "answer",
+        "start_offset": 332,
+        "end_offset": 338,
+        "start": 83.475,
+        "end": 84.095,
+        "score": -0.8197
+      },
+      {
+        "word": "as",
+        "start_offset": 339,
+        "end_offset": 341,
+        "start": 85.235,
+        "end": 85.555,
+        "score": -0.7085
+      },
+      {
+        "word": "many",
+        "start_offset": 342,
+        "end_offset": 346,
+        "start": 86.355,
+        "end": 86.755,
+        "score": -0.6962
+      },
+      {
+        "word": "times",
+        "start_offset": 347,
+        "end_offset": 352,
+        "start": 87.475,
+        "end": 88.155,
+        "score": -0.7312
+      },
+      {
+        "word": "in",
+        "start_offset": 353,
+        "end_offset": 355,
+        "start": 88.816,
+        "end": 88.996,
+        "score": -0.727
+      },
+      {
+        "word": "the",
+        "start_offset": 356,
+        "end_offset": 359,
+        "start": 89.536,
+        "end": 89.676,
+        "score": -0.8694
+      },
+      {
+        "word": "past",
+        "start_offset": 360,
+        "end_offset": 364,
+        "start": 90.396,
+        "end": 91.136,
+        "score": -0.8541
+      },
+      {
+        "word": "we",
+        "start_offset": 365,
+        "end_offset": 367,
+        "start": 92.416,
+        "end": 92.536,
+        "score": -0.7914
+      },
+      {
+        "word": "have",
+        "start_offset": 368,
+        "end_offset": 372,
+        "start": 93.216,
+        "end": 93.616,
+        "score": -0.7069
+      },
+      {
+        "word": "needed",
+        "start_offset": 373,
+        "end_offset": 379,
+        "start": 94.617,
+        "end": 95.217,
+        "score": -0.7185
+      },
+      {
+        "word": "clarification",
+        "start_offset": 380,
+        "end_offset": 393,
+        "start": 95.917,
+        "end": 97.997,
+        "score": -0.7017
+      },
+      {
+        "word": "of",
+        "start_offset": 394,
+        "end_offset": 396,
+        "start": 98.977,
+        "end": 99.197,
+        "score": -0.719
+      },
+      {
+        "word": "hastily",
+        "start_offset": 397,
+        "end_offset": 404,
+        "start": 100.038,
+        "end": 100.818,
+        "score": -0.7931
+      },
+      {
+        "word": "phrased",
+        "start_offset": 405,
+        "end_offset": 412,
+        "start": 101.758,
+        "end": 102.558,
+        "score": -1.0477
+      },
+      {
+        "word": "questions.",
+        "start_offset": 413,
+        "end_offset": 423,
+        "start": 103.458,
+        "end": 104.498,
+        "score": -0.707
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "015-03.mp3",
+    "audio_duration": 105.0384,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

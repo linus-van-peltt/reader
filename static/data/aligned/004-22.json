@@ -1,0 +1,983 @@
+{
+  "text": "One short question. Is this instrument capable of two of these sessions per day, or should we remain with one? I am Ra. This instrument is capable of two sessions a day. However, she must be encouraged to keep her bodily complex strong by the ingestion of your foodstuffs to an extent which exceeds this instrument's normal intake of your foodstuffs, this due to the physical material which we use to speak. Further, this instrument's activities must be monitored to prevent overactivity, for this activity is equivalent to a strenuous working on the physical level. If these admonitions are considered, the two sessions would be possible. We do not wish to deplete this instrument.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "One short question.",
+        "start_offset": 0,
+        "end_offset": 19,
+        "start": 1.04,
+        "end": 1.94
+      },
+      {
+        "segment": "Is this instrument capable of two of these sessions per day, or should we remain with one?",
+        "start_offset": 20,
+        "end_offset": 110,
+        "start": 1.96,
+        "end": 15.942
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 111,
+        "end_offset": 119,
+        "start": 16.102,
+        "end": 18.422
+      },
+      {
+        "segment": "This instrument is capable of two sessions a day.",
+        "start_offset": 120,
+        "end_offset": 169,
+        "start": 21.643,
+        "end": 35.525
+      },
+      {
+        "segment": "However, she must be encouraged to keep her bodily complex strong by the ingestion of your foodstuffs to an extent which exceeds this instrument's normal intake of your foodstuffs, this due to the physical material which we use to speak.",
+        "start_offset": 170,
+        "end_offset": 407,
+        "start": 37.165,
+        "end": 105.534
+      },
+      {
+        "segment": "Further, this instrument's activities must be monitored to prevent overactivity, for this activity is equivalent to a strenuous working on the physical level.",
+        "start_offset": 408,
+        "end_offset": 566,
+        "start": 109.254,
+        "end": 148.819
+      },
+      {
+        "segment": "If these admonitions are considered, the two sessions would be possible.",
+        "start_offset": 567,
+        "end_offset": 639,
+        "start": 153.66,
+        "end": 173.462
+      },
+      {
+        "segment": "We do not wish to deplete this instrument.",
+        "start_offset": 640,
+        "end_offset": 682,
+        "start": 175.323,
+        "end": 183.784
+      }
+    ],
+    "word": [
+      {
+        "word": "One",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 1.04,
+        "end": 1.24,
+        "score": -7.9039
+      },
+      {
+        "word": "short",
+        "start_offset": 4,
+        "end_offset": 9,
+        "start": 1.26,
+        "end": 1.5,
+        "score": -4.7703
+      },
+      {
+        "word": "question.",
+        "start_offset": 10,
+        "end_offset": 19,
+        "start": 1.52,
+        "end": 1.94,
+        "score": -6.0902
+      },
+      {
+        "word": "Is",
+        "start_offset": 20,
+        "end_offset": 22,
+        "start": 1.96,
+        "end": 2.0,
+        "score": -6.8715
+      },
+      {
+        "word": "this",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 2.04,
+        "end": 2.2,
+        "score": -5.5967
+      },
+      {
+        "word": "instrument",
+        "start_offset": 28,
+        "end_offset": 38,
+        "start": 2.22,
+        "end": 2.54,
+        "score": -6.5113
+      },
+      {
+        "word": "capable",
+        "start_offset": 39,
+        "end_offset": 46,
+        "start": 2.58,
+        "end": 3.56,
+        "score": -6.5688
+      },
+      {
+        "word": "of",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 3.58,
+        "end": 3.68,
+        "score": -8.0997
+      },
+      {
+        "word": "two",
+        "start_offset": 50,
+        "end_offset": 53,
+        "start": 3.7,
+        "end": 3.8,
+        "score": -8.0324
+      },
+      {
+        "word": "of",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 4.021,
+        "end": 4.061,
+        "score": -6.7381
+      },
+      {
+        "word": "these",
+        "start_offset": 57,
+        "end_offset": 62,
+        "start": 4.081,
+        "end": 4.201,
+        "score": -5.9194
+      },
+      {
+        "word": "sessions",
+        "start_offset": 63,
+        "end_offset": 71,
+        "start": 4.221,
+        "end": 5.241,
+        "score": -5.7725
+      },
+      {
+        "word": "per",
+        "start_offset": 72,
+        "end_offset": 75,
+        "start": 5.261,
+        "end": 5.461,
+        "score": -4.6352
+      },
+      {
+        "word": "day,",
+        "start_offset": 76,
+        "end_offset": 80,
+        "start": 5.481,
+        "end": 5.841,
+        "score": -7.7073
+      },
+      {
+        "word": "or",
+        "start_offset": 81,
+        "end_offset": 83,
+        "start": 5.881,
+        "end": 5.941,
+        "score": -5.1206
+      },
+      {
+        "word": "should",
+        "start_offset": 84,
+        "end_offset": 90,
+        "start": 6.121,
+        "end": 6.341,
+        "score": -6.1316
+      },
+      {
+        "word": "we",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 6.621,
+        "end": 6.681,
+        "score": -4.746
+      },
+      {
+        "word": "remain",
+        "start_offset": 94,
+        "end_offset": 100,
+        "start": 6.741,
+        "end": 6.961,
+        "score": -5.9379
+      },
+      {
+        "word": "with",
+        "start_offset": 101,
+        "end_offset": 105,
+        "start": 6.981,
+        "end": 7.081,
+        "score": -6.3365
+      },
+      {
+        "word": "one?",
+        "start_offset": 106,
+        "end_offset": 110,
+        "start": 7.121,
+        "end": 15.942,
+        "score": -5.2743
+      },
+      {
+        "word": "I",
+        "start_offset": 111,
+        "end_offset": 112,
+        "start": 16.102,
+        "end": 16.122,
+        "score": -0.9563
+      },
+      {
+        "word": "am",
+        "start_offset": 113,
+        "end_offset": 115,
+        "start": 17.002,
+        "end": 17.182,
+        "score": -3.1958
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 116,
+        "end_offset": 119,
+        "start": 18.302,
+        "end": 18.422,
+        "score": -4.8175
+      },
+      {
+        "word": "This",
+        "start_offset": 120,
+        "end_offset": 124,
+        "start": 21.643,
+        "end": 21.923,
+        "score": -0.8463
+      },
+      {
+        "word": "instrument",
+        "start_offset": 125,
+        "end_offset": 135,
+        "start": 22.743,
+        "end": 23.363,
+        "score": -0.9987
+      },
+      {
+        "word": "is",
+        "start_offset": 136,
+        "end_offset": 138,
+        "start": 24.343,
+        "end": 24.583,
+        "score": -1.0306
+      },
+      {
+        "word": "capable",
+        "start_offset": 139,
+        "end_offset": 146,
+        "start": 25.603,
+        "end": 26.243,
+        "score": -0.7949
+      },
+      {
+        "word": "of",
+        "start_offset": 147,
+        "end_offset": 149,
+        "start": 27.524,
+        "end": 27.724,
+        "score": -0.8295
+      },
+      {
+        "word": "two",
+        "start_offset": 150,
+        "end_offset": 153,
+        "start": 29.464,
+        "end": 29.644,
+        "score": -3.3534
+      },
+      {
+        "word": "sessions",
+        "start_offset": 154,
+        "end_offset": 162,
+        "start": 30.764,
+        "end": 31.444,
+        "score": -0.9787
+      },
+      {
+        "word": "a",
+        "start_offset": 163,
+        "end_offset": 164,
+        "start": 34.084,
+        "end": 34.104,
+        "score": -0.8108
+      },
+      {
+        "word": "day.",
+        "start_offset": 165,
+        "end_offset": 169,
+        "start": 35.285,
+        "end": 35.525,
+        "score": -2.042
+      },
+      {
+        "word": "However,",
+        "start_offset": 170,
+        "end_offset": 178,
+        "start": 37.165,
+        "end": 37.785,
+        "score": -0.7194
+      },
+      {
+        "word": "she",
+        "start_offset": 179,
+        "end_offset": 182,
+        "start": 39.265,
+        "end": 39.445,
+        "score": -1.8165
+      },
+      {
+        "word": "must",
+        "start_offset": 183,
+        "end_offset": 187,
+        "start": 40.905,
+        "end": 41.425,
+        "score": -0.7383
+      },
+      {
+        "word": "be",
+        "start_offset": 188,
+        "end_offset": 190,
+        "start": 42.446,
+        "end": 42.566,
+        "score": -1.7535
+      },
+      {
+        "word": "encouraged",
+        "start_offset": 191,
+        "end_offset": 201,
+        "start": 45.706,
+        "end": 46.726,
+        "score": -0.7496
+      },
+      {
+        "word": "to",
+        "start_offset": 202,
+        "end_offset": 204,
+        "start": 47.866,
+        "end": 48.066,
+        "score": -1.1491
+      },
+      {
+        "word": "keep",
+        "start_offset": 205,
+        "end_offset": 209,
+        "start": 49.946,
+        "end": 50.247,
+        "score": -2.4163
+      },
+      {
+        "word": "her",
+        "start_offset": 210,
+        "end_offset": 213,
+        "start": 51.527,
+        "end": 51.827,
+        "score": -1.2822
+      },
+      {
+        "word": "bodily",
+        "start_offset": 214,
+        "end_offset": 220,
+        "start": 55.927,
+        "end": 56.427,
+        "score": -1.4031
+      },
+      {
+        "word": "complex",
+        "start_offset": 221,
+        "end_offset": 228,
+        "start": 57.427,
+        "end": 58.208,
+        "score": -0.7088
+      },
+      {
+        "word": "strong",
+        "start_offset": 229,
+        "end_offset": 235,
+        "start": 59.508,
+        "end": 60.048,
+        "score": -0.6989
+      },
+      {
+        "word": "by",
+        "start_offset": 236,
+        "end_offset": 238,
+        "start": 61.308,
+        "end": 61.608,
+        "score": -0.7999
+      },
+      {
+        "word": "the",
+        "start_offset": 239,
+        "end_offset": 242,
+        "start": 62.728,
+        "end": 62.868,
+        "score": -0.786
+      },
+      {
+        "word": "ingestion",
+        "start_offset": 243,
+        "end_offset": 252,
+        "start": 63.868,
+        "end": 64.708,
+        "score": -0.7927
+      },
+      {
+        "word": "of",
+        "start_offset": 253,
+        "end_offset": 255,
+        "start": 65.909,
+        "end": 66.129,
+        "score": -1.195
+      },
+      {
+        "word": "your",
+        "start_offset": 256,
+        "end_offset": 260,
+        "start": 69.549,
+        "end": 69.829,
+        "score": -0.847
+      },
+      {
+        "word": "foodstuffs",
+        "start_offset": 261,
+        "end_offset": 271,
+        "start": 70.509,
+        "end": 71.829,
+        "score": -0.8366
+      },
+      {
+        "word": "to",
+        "start_offset": 272,
+        "end_offset": 274,
+        "start": 73.51,
+        "end": 73.67,
+        "score": -0.9628
+      },
+      {
+        "word": "an",
+        "start_offset": 275,
+        "end_offset": 277,
+        "start": 74.31,
+        "end": 74.49,
+        "score": -0.7416
+      },
+      {
+        "word": "extent",
+        "start_offset": 278,
+        "end_offset": 284,
+        "start": 74.91,
+        "end": 75.59,
+        "score": -0.7521
+      },
+      {
+        "word": "which",
+        "start_offset": 285,
+        "end_offset": 290,
+        "start": 76.39,
+        "end": 76.69,
+        "score": -0.9246
+      },
+      {
+        "word": "exceeds",
+        "start_offset": 291,
+        "end_offset": 298,
+        "start": 77.49,
+        "end": 78.31,
+        "score": -1.8358
+      },
+      {
+        "word": "this",
+        "start_offset": 299,
+        "end_offset": 303,
+        "start": 79.41,
+        "end": 79.75,
+        "score": -1.1273
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 304,
+        "end_offset": 316,
+        "start": 80.59,
+        "end": 81.271,
+        "score": -2.0267
+      },
+      {
+        "word": "normal",
+        "start_offset": 317,
+        "end_offset": 323,
+        "start": 82.391,
+        "end": 82.871,
+        "score": -0.7022
+      },
+      {
+        "word": "intake",
+        "start_offset": 324,
+        "end_offset": 330,
+        "start": 83.931,
+        "end": 84.451,
+        "score": -2.483
+      },
+      {
+        "word": "of",
+        "start_offset": 331,
+        "end_offset": 333,
+        "start": 85.911,
+        "end": 86.091,
+        "score": -0.7453
+      },
+      {
+        "word": "your",
+        "start_offset": 334,
+        "end_offset": 338,
+        "start": 86.731,
+        "end": 86.951,
+        "score": -0.7837
+      },
+      {
+        "word": "foodstuffs,",
+        "start_offset": 339,
+        "end_offset": 350,
+        "start": 87.571,
+        "end": 88.411,
+        "score": -1.1546
+      },
+      {
+        "word": "this",
+        "start_offset": 351,
+        "end_offset": 355,
+        "start": 89.672,
+        "end": 90.012,
+        "score": -0.8222
+      },
+      {
+        "word": "due",
+        "start_offset": 356,
+        "end_offset": 359,
+        "start": 90.792,
+        "end": 91.052,
+        "score": -1.9087
+      },
+      {
+        "word": "to",
+        "start_offset": 360,
+        "end_offset": 362,
+        "start": 91.992,
+        "end": 92.172,
+        "score": -0.8952
+      },
+      {
+        "word": "the",
+        "start_offset": 363,
+        "end_offset": 366,
+        "start": 93.432,
+        "end": 93.572,
+        "score": -0.8991
+      },
+      {
+        "word": "physical",
+        "start_offset": 367,
+        "end_offset": 375,
+        "start": 96.032,
+        "end": 96.653,
+        "score": -0.7078
+      },
+      {
+        "word": "material",
+        "start_offset": 376,
+        "end_offset": 384,
+        "start": 97.513,
+        "end": 98.353,
+        "score": -0.6982
+      },
+      {
+        "word": "which",
+        "start_offset": 385,
+        "end_offset": 390,
+        "start": 99.413,
+        "end": 99.733,
+        "score": -0.8026
+      },
+      {
+        "word": "we",
+        "start_offset": 391,
+        "end_offset": 393,
+        "start": 100.613,
+        "end": 100.753,
+        "score": -0.7409
+      },
+      {
+        "word": "use",
+        "start_offset": 394,
+        "end_offset": 397,
+        "start": 101.913,
+        "end": 102.373,
+        "score": -0.7938
+      },
+      {
+        "word": "to",
+        "start_offset": 398,
+        "end_offset": 400,
+        "start": 103.873,
+        "end": 104.053,
+        "score": -1.4132
+      },
+      {
+        "word": "speak.",
+        "start_offset": 401,
+        "end_offset": 407,
+        "start": 104.994,
+        "end": 105.534,
+        "score": -1.2272
+      },
+      {
+        "word": "Further,",
+        "start_offset": 408,
+        "end_offset": 416,
+        "start": 109.254,
+        "end": 109.674,
+        "score": -2.3357
+      },
+      {
+        "word": "this",
+        "start_offset": 417,
+        "end_offset": 421,
+        "start": 110.694,
+        "end": 111.034,
+        "score": -0.78
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 422,
+        "end_offset": 434,
+        "start": 112.275,
+        "end": 113.135,
+        "score": -2.4055
+      },
+      {
+        "word": "activities",
+        "start_offset": 435,
+        "end_offset": 445,
+        "start": 114.555,
+        "end": 115.555,
+        "score": -0.8528
+      },
+      {
+        "word": "must",
+        "start_offset": 446,
+        "end_offset": 450,
+        "start": 116.835,
+        "end": 117.275,
+        "score": -0.7539
+      },
+      {
+        "word": "be",
+        "start_offset": 451,
+        "end_offset": 453,
+        "start": 118.395,
+        "end": 118.515,
+        "score": -0.7804
+      },
+      {
+        "word": "monitored",
+        "start_offset": 454,
+        "end_offset": 463,
+        "start": 120.336,
+        "end": 121.016,
+        "score": -1.6443
+      },
+      {
+        "word": "to",
+        "start_offset": 464,
+        "end_offset": 466,
+        "start": 122.596,
+        "end": 122.856,
+        "score": -3.01
+      },
+      {
+        "word": "prevent",
+        "start_offset": 467,
+        "end_offset": 474,
+        "start": 123.736,
+        "end": 124.376,
+        "score": -0.7494
+      },
+      {
+        "word": "overactivity,",
+        "start_offset": 475,
+        "end_offset": 488,
+        "start": 125.636,
+        "end": 127.817,
+        "score": -0.7203
+      },
+      {
+        "word": "for",
+        "start_offset": 489,
+        "end_offset": 492,
+        "start": 129.197,
+        "end": 129.497,
+        "score": -0.8007
+      },
+      {
+        "word": "this",
+        "start_offset": 493,
+        "end_offset": 497,
+        "start": 130.697,
+        "end": 131.037,
+        "score": -1.0522
+      },
+      {
+        "word": "activity",
+        "start_offset": 498,
+        "end_offset": 506,
+        "start": 132.357,
+        "end": 133.097,
+        "score": -0.7442
+      },
+      {
+        "word": "is",
+        "start_offset": 507,
+        "end_offset": 509,
+        "start": 134.277,
+        "end": 134.517,
+        "score": -0.9285
+      },
+      {
+        "word": "equivalent",
+        "start_offset": 510,
+        "end_offset": 520,
+        "start": 135.678,
+        "end": 136.478,
+        "score": -0.7703
+      },
+      {
+        "word": "to",
+        "start_offset": 521,
+        "end_offset": 523,
+        "start": 137.438,
+        "end": 137.598,
+        "score": -0.9687
+      },
+      {
+        "word": "a",
+        "start_offset": 524,
+        "end_offset": 525,
+        "start": 138.738,
+        "end": 138.758,
+        "score": -0.8376
+      },
+      {
+        "word": "strenuous",
+        "start_offset": 526,
+        "end_offset": 535,
+        "start": 140.058,
+        "end": 140.878,
+        "score": -1.2796
+      },
+      {
+        "word": "working",
+        "start_offset": 536,
+        "end_offset": 543,
+        "start": 143.539,
+        "end": 143.979,
+        "score": -0.8345
+      },
+      {
+        "word": "on",
+        "start_offset": 544,
+        "end_offset": 546,
+        "start": 146.259,
+        "end": 146.459,
+        "score": -0.7753
+      },
+      {
+        "word": "the",
+        "start_offset": 547,
+        "end_offset": 550,
+        "start": 146.979,
+        "end": 147.059,
+        "score": -2.1566
+      },
+      {
+        "word": "physical",
+        "start_offset": 551,
+        "end_offset": 559,
+        "start": 147.259,
+        "end": 147.799,
+        "score": -2.3738
+      },
+      {
+        "word": "level.",
+        "start_offset": 560,
+        "end_offset": 566,
+        "start": 148.399,
+        "end": 148.819,
+        "score": -1.5823
+      },
+      {
+        "word": "If",
+        "start_offset": 567,
+        "end_offset": 569,
+        "start": 153.66,
+        "end": 153.84,
+        "score": -0.7217
+      },
+      {
+        "word": "these",
+        "start_offset": 570,
+        "end_offset": 575,
+        "start": 155.04,
+        "end": 155.48,
+        "score": -1.1376
+      },
+      {
+        "word": "admonitions",
+        "start_offset": 576,
+        "end_offset": 587,
+        "start": 156.78,
+        "end": 158.881,
+        "score": -1.4473
+      },
+      {
+        "word": "are",
+        "start_offset": 588,
+        "end_offset": 591,
+        "start": 160.181,
+        "end": 160.261,
+        "score": -4.0843
+      },
+      {
+        "word": "considered,",
+        "start_offset": 592,
+        "end_offset": 603,
+        "start": 160.981,
+        "end": 161.761,
+        "score": -0.7398
+      },
+      {
+        "word": "the",
+        "start_offset": 604,
+        "end_offset": 607,
+        "start": 165.081,
+        "end": 165.241,
+        "score": -0.913
+      },
+      {
+        "word": "two",
+        "start_offset": 608,
+        "end_offset": 611,
+        "start": 166.402,
+        "end": 166.682,
+        "score": -1.709
+      },
+      {
+        "word": "sessions",
+        "start_offset": 612,
+        "end_offset": 620,
+        "start": 167.942,
+        "end": 168.542,
+        "score": -1.2382
+      },
+      {
+        "word": "would",
+        "start_offset": 621,
+        "end_offset": 626,
+        "start": 169.942,
+        "end": 170.202,
+        "score": -2.749
+      },
+      {
+        "word": "be",
+        "start_offset": 627,
+        "end_offset": 629,
+        "start": 171.242,
+        "end": 171.362,
+        "score": -0.7205
+      },
+      {
+        "word": "possible.",
+        "start_offset": 630,
+        "end_offset": 639,
+        "start": 172.842,
+        "end": 173.462,
+        "score": -0.7849
+      },
+      {
+        "word": "We",
+        "start_offset": 640,
+        "end_offset": 642,
+        "start": 175.323,
+        "end": 175.463,
+        "score": -0.7641
+      },
+      {
+        "word": "do",
+        "start_offset": 643,
+        "end_offset": 645,
+        "start": 176.343,
+        "end": 176.443,
+        "score": -5.0655
+      },
+      {
+        "word": "not",
+        "start_offset": 646,
+        "end_offset": 649,
+        "start": 177.343,
+        "end": 177.623,
+        "score": -0.7013
+      },
+      {
+        "word": "wish",
+        "start_offset": 650,
+        "end_offset": 654,
+        "start": 178.443,
+        "end": 178.823,
+        "score": -1.274
+      },
+      {
+        "word": "to",
+        "start_offset": 655,
+        "end_offset": 657,
+        "start": 179.563,
+        "end": 179.703,
+        "score": -4.6979
+      },
+      {
+        "word": "deplete",
+        "start_offset": 658,
+        "end_offset": 665,
+        "start": 180.563,
+        "end": 181.284,
+        "score": -1.1927
+      },
+      {
+        "word": "this",
+        "start_offset": 666,
+        "end_offset": 670,
+        "start": 181.984,
+        "end": 182.324,
+        "score": -2.2042
+      },
+      {
+        "word": "instrument.",
+        "start_offset": 671,
+        "end_offset": 682,
+        "start": 183.204,
+        "end": 183.784,
+        "score": -1.902
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "004-22.mp3",
+    "audio_duration": 186.0441,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

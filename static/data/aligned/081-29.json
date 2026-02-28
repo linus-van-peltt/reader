@@ -1,0 +1,636 @@
+{
+  "text": "I was wondering if, in that some of the Wanderers from Ra going to the other major galaxies, that is, leaving this system of 200 plus billion stars of lenticular shape and going to another cluster of billions of stars and finding their way to some planetary situation there, would any of these Wanderers encounter the dual polarity that we have here, the both the service-to-self and the service-to-others polarity? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I was wondering if, in that some of the Wanderers from Ra going to the other major galaxies, that is, leaving this system of plus billion stars of lenticular shape and going to another cluster of billions of stars and finding their way to some planetary situation there, would any of these Wanderers encounter the dual polarity that we have here, the both the service-to-self and the service-to-others polarity?",
+        "start_offset": 0,
+        "end_offset": 415,
+        "start": 2.74,
+        "end": 42.767
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 416,
+        "end_offset": 424,
+        "start": 45.327,
+        "end": 46.788
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 425,
+        "end_offset": 441,
+        "start": 48.188,
+        "end": 51.068
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 2.74,
+        "end": 2.76,
+        "score": -0.7144
+      },
+      {
+        "word": "was",
+        "start_offset": 2,
+        "end_offset": 5,
+        "start": 2.78,
+        "end": 2.9,
+        "score": -0.7293
+      },
+      {
+        "word": "wondering",
+        "start_offset": 6,
+        "end_offset": 15,
+        "start": 2.98,
+        "end": 3.461,
+        "score": -0.7418
+      },
+      {
+        "word": "if,",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 4.801,
+        "end": 4.961,
+        "score": -0.807
+      },
+      {
+        "word": "in",
+        "start_offset": 20,
+        "end_offset": 22,
+        "start": 6.641,
+        "end": 6.701,
+        "score": -1.2131
+      },
+      {
+        "word": "that",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 6.741,
+        "end": 6.881,
+        "score": -0.9125
+      },
+      {
+        "word": "some",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 6.941,
+        "end": 7.161,
+        "score": -0.7019
+      },
+      {
+        "word": "of",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 7.201,
+        "end": 7.281,
+        "score": -0.7096
+      },
+      {
+        "word": "the",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 7.301,
+        "end": 7.401,
+        "score": -0.7308
+      },
+      {
+        "word": "Wanderers",
+        "start_offset": 40,
+        "end_offset": 49,
+        "start": 7.481,
+        "end": 8.001,
+        "score": -0.9031
+      },
+      {
+        "word": "from",
+        "start_offset": 50,
+        "end_offset": 54,
+        "start": 8.061,
+        "end": 8.221,
+        "score": -0.7432
+      },
+      {
+        "word": "Ra",
+        "start_offset": 55,
+        "end_offset": 57,
+        "start": 8.301,
+        "end": 8.441,
+        "score": -0.7593
+      },
+      {
+        "word": "going",
+        "start_offset": 58,
+        "end_offset": 63,
+        "start": 8.721,
+        "end": 9.021,
+        "score": -0.703
+      },
+      {
+        "word": "to",
+        "start_offset": 64,
+        "end_offset": 66,
+        "start": 9.081,
+        "end": 9.161,
+        "score": -0.7258
+      },
+      {
+        "word": "the",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 9.221,
+        "end": 9.302,
+        "score": -0.7489
+      },
+      {
+        "word": "other",
+        "start_offset": 71,
+        "end_offset": 76,
+        "start": 9.402,
+        "end": 9.622,
+        "score": -0.7585
+      },
+      {
+        "word": "major",
+        "start_offset": 77,
+        "end_offset": 82,
+        "start": 9.902,
+        "end": 10.282,
+        "score": -0.7365
+      },
+      {
+        "word": "galaxies,",
+        "start_offset": 83,
+        "end_offset": 92,
+        "start": 10.422,
+        "end": 11.202,
+        "score": -0.7715
+      },
+      {
+        "word": "that",
+        "start_offset": 93,
+        "end_offset": 97,
+        "start": 11.982,
+        "end": 12.122,
+        "score": -0.8381
+      },
+      {
+        "word": "is,",
+        "start_offset": 98,
+        "end_offset": 101,
+        "start": 12.162,
+        "end": 12.262,
+        "score": -0.7575
+      },
+      {
+        "word": "leaving",
+        "start_offset": 102,
+        "end_offset": 109,
+        "start": 12.342,
+        "end": 12.702,
+        "score": -0.7284
+      },
+      {
+        "word": "this",
+        "start_offset": 110,
+        "end_offset": 114,
+        "start": 12.762,
+        "end": 12.962,
+        "score": -0.7027
+      },
+      {
+        "word": "system",
+        "start_offset": 115,
+        "end_offset": 121,
+        "start": 13.562,
+        "end": 13.922,
+        "score": -0.7345
+      },
+      {
+        "word": "of",
+        "start_offset": 122,
+        "end_offset": 124,
+        "start": 13.982,
+        "end": 14.062,
+        "score": -0.7054
+      },
+      {
+        "word": "plus",
+        "start_offset": 129,
+        "end_offset": 133,
+        "start": 14.902,
+        "end": 15.242,
+        "score": -1.2603
+      },
+      {
+        "word": "billion",
+        "start_offset": 134,
+        "end_offset": 141,
+        "start": 15.403,
+        "end": 15.763,
+        "score": -0.8707
+      },
+      {
+        "word": "stars",
+        "start_offset": 142,
+        "end_offset": 147,
+        "start": 15.963,
+        "end": 16.503,
+        "score": -0.7119
+      },
+      {
+        "word": "of",
+        "start_offset": 148,
+        "end_offset": 150,
+        "start": 16.823,
+        "end": 16.923,
+        "score": -5.2753
+      },
+      {
+        "word": "lenticular",
+        "start_offset": 151,
+        "end_offset": 161,
+        "start": 17.503,
+        "end": 18.143,
+        "score": -1.1311
+      },
+      {
+        "word": "shape",
+        "start_offset": 162,
+        "end_offset": 167,
+        "start": 18.203,
+        "end": 18.483,
+        "score": -0.7856
+      },
+      {
+        "word": "and",
+        "start_offset": 168,
+        "end_offset": 171,
+        "start": 18.543,
+        "end": 18.643,
+        "score": -1.1263
+      },
+      {
+        "word": "going",
+        "start_offset": 172,
+        "end_offset": 177,
+        "start": 18.663,
+        "end": 18.943,
+        "score": -0.7132
+      },
+      {
+        "word": "to",
+        "start_offset": 178,
+        "end_offset": 180,
+        "start": 19.003,
+        "end": 19.083,
+        "score": -0.738
+      },
+      {
+        "word": "another",
+        "start_offset": 181,
+        "end_offset": 188,
+        "start": 19.903,
+        "end": 20.303,
+        "score": -0.6987
+      },
+      {
+        "word": "cluster",
+        "start_offset": 189,
+        "end_offset": 196,
+        "start": 20.403,
+        "end": 20.883,
+        "score": -0.7518
+      },
+      {
+        "word": "of",
+        "start_offset": 197,
+        "end_offset": 199,
+        "start": 20.963,
+        "end": 21.063,
+        "score": -0.7539
+      },
+      {
+        "word": "billions",
+        "start_offset": 200,
+        "end_offset": 208,
+        "start": 21.584,
+        "end": 21.984,
+        "score": -0.8446
+      },
+      {
+        "word": "of",
+        "start_offset": 209,
+        "end_offset": 211,
+        "start": 22.024,
+        "end": 22.104,
+        "score": -0.7274
+      },
+      {
+        "word": "stars",
+        "start_offset": 212,
+        "end_offset": 217,
+        "start": 22.184,
+        "end": 22.644,
+        "score": -0.7153
+      },
+      {
+        "word": "and",
+        "start_offset": 218,
+        "end_offset": 221,
+        "start": 22.684,
+        "end": 22.784,
+        "score": -0.7594
+      },
+      {
+        "word": "finding",
+        "start_offset": 222,
+        "end_offset": 229,
+        "start": 22.824,
+        "end": 23.184,
+        "score": -1.8833
+      },
+      {
+        "word": "their",
+        "start_offset": 230,
+        "end_offset": 235,
+        "start": 23.204,
+        "end": 23.324,
+        "score": -0.7556
+      },
+      {
+        "word": "way",
+        "start_offset": 236,
+        "end_offset": 239,
+        "start": 23.364,
+        "end": 23.544,
+        "score": -0.7031
+      },
+      {
+        "word": "to",
+        "start_offset": 240,
+        "end_offset": 242,
+        "start": 23.724,
+        "end": 23.824,
+        "score": -0.8601
+      },
+      {
+        "word": "some",
+        "start_offset": 243,
+        "end_offset": 247,
+        "start": 25.244,
+        "end": 25.524,
+        "score": -0.7496
+      },
+      {
+        "word": "planetary",
+        "start_offset": 248,
+        "end_offset": 257,
+        "start": 26.964,
+        "end": 27.524,
+        "score": -0.7429
+      },
+      {
+        "word": "situation",
+        "start_offset": 258,
+        "end_offset": 267,
+        "start": 27.624,
+        "end": 28.325,
+        "score": -0.6977
+      },
+      {
+        "word": "there,",
+        "start_offset": 268,
+        "end_offset": 274,
+        "start": 28.405,
+        "end": 28.725,
+        "score": -0.731
+      },
+      {
+        "word": "would",
+        "start_offset": 275,
+        "end_offset": 280,
+        "start": 32.485,
+        "end": 32.825,
+        "score": -1.1648
+      },
+      {
+        "word": "any",
+        "start_offset": 281,
+        "end_offset": 284,
+        "start": 35.386,
+        "end": 35.546,
+        "score": -0.6978
+      },
+      {
+        "word": "of",
+        "start_offset": 285,
+        "end_offset": 287,
+        "start": 35.626,
+        "end": 35.706,
+        "score": -0.6979
+      },
+      {
+        "word": "these",
+        "start_offset": 288,
+        "end_offset": 293,
+        "start": 35.746,
+        "end": 35.986,
+        "score": -0.7094
+      },
+      {
+        "word": "Wanderers",
+        "start_offset": 294,
+        "end_offset": 303,
+        "start": 36.046,
+        "end": 36.666,
+        "score": -0.8885
+      },
+      {
+        "word": "encounter",
+        "start_offset": 304,
+        "end_offset": 313,
+        "start": 37.046,
+        "end": 37.826,
+        "score": -0.7062
+      },
+      {
+        "word": "the",
+        "start_offset": 314,
+        "end_offset": 317,
+        "start": 37.886,
+        "end": 37.966,
+        "score": -0.7567
+      },
+      {
+        "word": "dual",
+        "start_offset": 318,
+        "end_offset": 322,
+        "start": 38.046,
+        "end": 38.366,
+        "score": -0.9348
+      },
+      {
+        "word": "polarity",
+        "start_offset": 323,
+        "end_offset": 331,
+        "start": 38.486,
+        "end": 39.086,
+        "score": -0.8841
+      },
+      {
+        "word": "that",
+        "start_offset": 332,
+        "end_offset": 336,
+        "start": 39.166,
+        "end": 39.286,
+        "score": -0.8501
+      },
+      {
+        "word": "we",
+        "start_offset": 337,
+        "end_offset": 339,
+        "start": 39.346,
+        "end": 39.426,
+        "score": -0.7008
+      },
+      {
+        "word": "have",
+        "start_offset": 340,
+        "end_offset": 344,
+        "start": 39.506,
+        "end": 39.706,
+        "score": -0.7183
+      },
+      {
+        "word": "here,",
+        "start_offset": 345,
+        "end_offset": 350,
+        "start": 39.746,
+        "end": 39.946,
+        "score": -1.2174
+      },
+      {
+        "word": "the",
+        "start_offset": 351,
+        "end_offset": 354,
+        "start": 40.007,
+        "end": 40.087,
+        "score": -1.0907
+      },
+      {
+        "word": "both",
+        "start_offset": 355,
+        "end_offset": 359,
+        "start": 40.147,
+        "end": 40.367,
+        "score": -0.7292
+      },
+      {
+        "word": "the",
+        "start_offset": 360,
+        "end_offset": 363,
+        "start": 40.387,
+        "end": 40.467,
+        "score": -0.7497
+      },
+      {
+        "word": "service-to-self",
+        "start_offset": 364,
+        "end_offset": 379,
+        "start": 40.527,
+        "end": 41.307,
+        "score": -0.7049
+      },
+      {
+        "word": "and",
+        "start_offset": 380,
+        "end_offset": 383,
+        "start": 41.367,
+        "end": 41.467,
+        "score": -0.7112
+      },
+      {
+        "word": "the",
+        "start_offset": 384,
+        "end_offset": 387,
+        "start": 41.487,
+        "end": 41.547,
+        "score": -10.9324
+      },
+      {
+        "word": "service-to-others",
+        "start_offset": 388,
+        "end_offset": 405,
+        "start": 41.567,
+        "end": 42.227,
+        "score": -1.5012
+      },
+      {
+        "word": "polarity?",
+        "start_offset": 406,
+        "end_offset": 415,
+        "start": 42.287,
+        "end": 42.767,
+        "score": -0.7557
+      },
+      {
+        "word": "I",
+        "start_offset": 416,
+        "end_offset": 417,
+        "start": 45.327,
+        "end": 45.347,
+        "score": -6.4702
+      },
+      {
+        "word": "am",
+        "start_offset": 418,
+        "end_offset": 420,
+        "start": 45.967,
+        "end": 46.248,
+        "score": -8.182
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 421,
+        "end_offset": 424,
+        "start": 46.728,
+        "end": 46.788,
+        "score": -9.8743
+      },
+      {
+        "word": "This",
+        "start_offset": 425,
+        "end_offset": 429,
+        "start": 48.188,
+        "end": 48.588,
+        "score": -5.3652
+      },
+      {
+        "word": "is",
+        "start_offset": 430,
+        "end_offset": 432,
+        "start": 49.568,
+        "end": 49.888,
+        "score": -4.2953
+      },
+      {
+        "word": "correct.",
+        "start_offset": 433,
+        "end_offset": 441,
+        "start": 50.488,
+        "end": 51.068,
+        "score": -6.8798
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "081-29.mp3",
+    "audio_duration": 53.0286,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

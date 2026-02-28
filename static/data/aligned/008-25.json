@@ -1,0 +1,570 @@
+{
+  "text": "Do you say the United States actually has a manufacturing plant in Mexico? I am Ra. I spoke thusly. May I, at this time, reiterate that this type of information is very shallow and of no particular consequence compared to the study of the Law of One. However, we carefully watch these developments in hopes that your peoples are able to be harvested in peace.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Do you say the United States actually has a manufacturing plant in Mexico?",
+        "start_offset": 0,
+        "end_offset": 74,
+        "start": 1.38,
+        "end": 12.823
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 75,
+        "end_offset": 83,
+        "start": 12.843,
+        "end": 13.623
+      },
+      {
+        "segment": "I spoke thusly.",
+        "start_offset": 84,
+        "end_offset": 99,
+        "start": 15.163,
+        "end": 18.424
+      },
+      {
+        "segment": "May I, at this time, reiterate that this type of information is very shallow and of no particular consequence compared to the study of the Law of One.",
+        "start_offset": 100,
+        "end_offset": 250,
+        "start": 20.304,
+        "end": 61.234
+      },
+      {
+        "segment": "However, we carefully watch these developments in hopes that your peoples are able to be harvested in peace.",
+        "start_offset": 251,
+        "end_offset": 359,
+        "start": 62.654,
+        "end": 92.26
+      }
+    ],
+    "word": [
+      {
+        "word": "Do",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 1.38,
+        "end": 1.58,
+        "score": -9.9187
+      },
+      {
+        "word": "you",
+        "start_offset": 3,
+        "end_offset": 6,
+        "start": 1.64,
+        "end": 3.161,
+        "score": -10.2002
+      },
+      {
+        "word": "say",
+        "start_offset": 7,
+        "end_offset": 10,
+        "start": 4.381,
+        "end": 4.761,
+        "score": -7.8383
+      },
+      {
+        "word": "the",
+        "start_offset": 11,
+        "end_offset": 14,
+        "start": 4.921,
+        "end": 4.981,
+        "score": -7.5154
+      },
+      {
+        "word": "United",
+        "start_offset": 15,
+        "end_offset": 21,
+        "start": 5.001,
+        "end": 5.841,
+        "score": -7.9982
+      },
+      {
+        "word": "States",
+        "start_offset": 22,
+        "end_offset": 28,
+        "start": 6.201,
+        "end": 8.502,
+        "score": -7.9439
+      },
+      {
+        "word": "actually",
+        "start_offset": 29,
+        "end_offset": 37,
+        "start": 8.642,
+        "end": 10.422,
+        "score": -7.4732
+      },
+      {
+        "word": "has",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 10.462,
+        "end": 10.662,
+        "score": -7.7679
+      },
+      {
+        "word": "a",
+        "start_offset": 42,
+        "end_offset": 43,
+        "start": 11.062,
+        "end": 11.082,
+        "score": -8.6924
+      },
+      {
+        "word": "manufacturing",
+        "start_offset": 44,
+        "end_offset": 57,
+        "start": 11.142,
+        "end": 12.503,
+        "score": -6.8339
+      },
+      {
+        "word": "plant",
+        "start_offset": 58,
+        "end_offset": 63,
+        "start": 12.523,
+        "end": 12.623,
+        "score": -6.835
+      },
+      {
+        "word": "in",
+        "start_offset": 64,
+        "end_offset": 66,
+        "start": 12.643,
+        "end": 12.683,
+        "score": -5.0599
+      },
+      {
+        "word": "Mexico?",
+        "start_offset": 67,
+        "end_offset": 74,
+        "start": 12.703,
+        "end": 12.823,
+        "score": -7.706
+      },
+      {
+        "word": "I",
+        "start_offset": 75,
+        "end_offset": 76,
+        "start": 12.843,
+        "end": 12.863,
+        "score": -8.0544
+      },
+      {
+        "word": "am",
+        "start_offset": 77,
+        "end_offset": 79,
+        "start": 12.883,
+        "end": 12.923,
+        "score": -8.0434
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 80,
+        "end_offset": 83,
+        "start": 13.583,
+        "end": 13.623,
+        "score": -8.2371
+      },
+      {
+        "word": "I",
+        "start_offset": 84,
+        "end_offset": 85,
+        "start": 15.163,
+        "end": 15.183,
+        "score": -0.7623
+      },
+      {
+        "word": "spoke",
+        "start_offset": 86,
+        "end_offset": 91,
+        "start": 16.224,
+        "end": 16.844,
+        "score": -0.8777
+      },
+      {
+        "word": "thusly.",
+        "start_offset": 92,
+        "end_offset": 99,
+        "start": 17.684,
+        "end": 18.424,
+        "score": -1.7461
+      },
+      {
+        "word": "May",
+        "start_offset": 100,
+        "end_offset": 103,
+        "start": 20.304,
+        "end": 20.545,
+        "score": -0.7109
+      },
+      {
+        "word": "I,",
+        "start_offset": 104,
+        "end_offset": 106,
+        "start": 21.545,
+        "end": 21.565,
+        "score": -0.7116
+      },
+      {
+        "word": "at",
+        "start_offset": 107,
+        "end_offset": 109,
+        "start": 22.385,
+        "end": 22.585,
+        "score": -0.6991
+      },
+      {
+        "word": "this",
+        "start_offset": 110,
+        "end_offset": 114,
+        "start": 23.005,
+        "end": 23.345,
+        "score": -0.705
+      },
+      {
+        "word": "time,",
+        "start_offset": 115,
+        "end_offset": 120,
+        "start": 23.725,
+        "end": 24.245,
+        "score": -0.7026
+      },
+      {
+        "word": "reiterate",
+        "start_offset": 121,
+        "end_offset": 130,
+        "start": 25.066,
+        "end": 26.886,
+        "score": -1.5413
+      },
+      {
+        "word": "that",
+        "start_offset": 131,
+        "end_offset": 135,
+        "start": 27.926,
+        "end": 28.266,
+        "score": -0.7203
+      },
+      {
+        "word": "this",
+        "start_offset": 136,
+        "end_offset": 140,
+        "start": 29.306,
+        "end": 29.667,
+        "score": -0.7132
+      },
+      {
+        "word": "type",
+        "start_offset": 141,
+        "end_offset": 145,
+        "start": 30.447,
+        "end": 31.067,
+        "score": -1.1088
+      },
+      {
+        "word": "of",
+        "start_offset": 146,
+        "end_offset": 148,
+        "start": 31.967,
+        "end": 32.207,
+        "score": -0.7054
+      },
+      {
+        "word": "information",
+        "start_offset": 149,
+        "end_offset": 160,
+        "start": 33.227,
+        "end": 34.728,
+        "score": -0.7331
+      },
+      {
+        "word": "is",
+        "start_offset": 161,
+        "end_offset": 163,
+        "start": 35.828,
+        "end": 36.128,
+        "score": -0.7008
+      },
+      {
+        "word": "very",
+        "start_offset": 164,
+        "end_offset": 168,
+        "start": 37.148,
+        "end": 37.528,
+        "score": -0.7249
+      },
+      {
+        "word": "shallow",
+        "start_offset": 169,
+        "end_offset": 176,
+        "start": 38.689,
+        "end": 39.249,
+        "score": -0.9749
+      },
+      {
+        "word": "and",
+        "start_offset": 177,
+        "end_offset": 180,
+        "start": 40.349,
+        "end": 40.609,
+        "score": -0.8765
+      },
+      {
+        "word": "of",
+        "start_offset": 181,
+        "end_offset": 183,
+        "start": 41.769,
+        "end": 42.009,
+        "score": -0.721
+      },
+      {
+        "word": "no",
+        "start_offset": 184,
+        "end_offset": 186,
+        "start": 42.99,
+        "end": 43.13,
+        "score": -0.7041
+      },
+      {
+        "word": "particular",
+        "start_offset": 187,
+        "end_offset": 197,
+        "start": 44.15,
+        "end": 45.25,
+        "score": -0.697
+      },
+      {
+        "word": "consequence",
+        "start_offset": 198,
+        "end_offset": 209,
+        "start": 46.21,
+        "end": 48.611,
+        "score": -1.1636
+      },
+      {
+        "word": "compared",
+        "start_offset": 210,
+        "end_offset": 218,
+        "start": 49.811,
+        "end": 51.111,
+        "score": -0.8765
+      },
+      {
+        "word": "to",
+        "start_offset": 219,
+        "end_offset": 221,
+        "start": 52.072,
+        "end": 52.312,
+        "score": -0.7016
+      },
+      {
+        "word": "the",
+        "start_offset": 222,
+        "end_offset": 225,
+        "start": 53.492,
+        "end": 53.632,
+        "score": -0.7664
+      },
+      {
+        "word": "study",
+        "start_offset": 226,
+        "end_offset": 231,
+        "start": 54.672,
+        "end": 55.132,
+        "score": -0.7797
+      },
+      {
+        "word": "of",
+        "start_offset": 232,
+        "end_offset": 234,
+        "start": 56.332,
+        "end": 56.553,
+        "score": -0.7383
+      },
+      {
+        "word": "the",
+        "start_offset": 235,
+        "end_offset": 238,
+        "start": 57.173,
+        "end": 57.333,
+        "score": -0.8189
+      },
+      {
+        "word": "Law",
+        "start_offset": 239,
+        "end_offset": 242,
+        "start": 58.173,
+        "end": 58.493,
+        "score": -1.2671
+      },
+      {
+        "word": "of",
+        "start_offset": 243,
+        "end_offset": 245,
+        "start": 59.593,
+        "end": 59.813,
+        "score": -0.7305
+      },
+      {
+        "word": "One.",
+        "start_offset": 246,
+        "end_offset": 250,
+        "start": 60.953,
+        "end": 61.234,
+        "score": -0.8968
+      },
+      {
+        "word": "However,",
+        "start_offset": 251,
+        "end_offset": 259,
+        "start": 62.654,
+        "end": 64.014,
+        "score": -0.7166
+      },
+      {
+        "word": "we",
+        "start_offset": 260,
+        "end_offset": 262,
+        "start": 65.034,
+        "end": 65.174,
+        "score": -0.726
+      },
+      {
+        "word": "carefully",
+        "start_offset": 263,
+        "end_offset": 272,
+        "start": 66.355,
+        "end": 67.255,
+        "score": -0.7343
+      },
+      {
+        "word": "watch",
+        "start_offset": 273,
+        "end_offset": 278,
+        "start": 68.275,
+        "end": 68.795,
+        "score": -0.8735
+      },
+      {
+        "word": "these",
+        "start_offset": 279,
+        "end_offset": 284,
+        "start": 69.755,
+        "end": 70.396,
+        "score": -0.99
+      },
+      {
+        "word": "developments",
+        "start_offset": 285,
+        "end_offset": 297,
+        "start": 71.436,
+        "end": 73.596,
+        "score": -0.7837
+      },
+      {
+        "word": "in",
+        "start_offset": 298,
+        "end_offset": 300,
+        "start": 74.717,
+        "end": 74.937,
+        "score": -0.7043
+      },
+      {
+        "word": "hopes",
+        "start_offset": 301,
+        "end_offset": 306,
+        "start": 76.257,
+        "end": 76.837,
+        "score": -0.9063
+      },
+      {
+        "word": "that",
+        "start_offset": 307,
+        "end_offset": 311,
+        "start": 77.757,
+        "end": 78.157,
+        "score": -2.1256
+      },
+      {
+        "word": "your",
+        "start_offset": 312,
+        "end_offset": 316,
+        "start": 79.198,
+        "end": 79.498,
+        "score": -0.8075
+      },
+      {
+        "word": "peoples",
+        "start_offset": 317,
+        "end_offset": 324,
+        "start": 80.378,
+        "end": 81.238,
+        "score": -0.9773
+      },
+      {
+        "word": "are",
+        "start_offset": 325,
+        "end_offset": 328,
+        "start": 82.738,
+        "end": 82.998,
+        "score": -0.9069
+      },
+      {
+        "word": "able",
+        "start_offset": 329,
+        "end_offset": 333,
+        "start": 83.819,
+        "end": 84.279,
+        "score": -0.7529
+      },
+      {
+        "word": "to",
+        "start_offset": 334,
+        "end_offset": 336,
+        "start": 85.219,
+        "end": 85.439,
+        "score": -0.705
+      },
+      {
+        "word": "be",
+        "start_offset": 337,
+        "end_offset": 339,
+        "start": 86.619,
+        "end": 86.739,
+        "score": -0.7033
+      },
+      {
+        "word": "harvested",
+        "start_offset": 340,
+        "end_offset": 349,
+        "start": 87.979,
+        "end": 89.44,
+        "score": -0.7143
+      },
+      {
+        "word": "in",
+        "start_offset": 350,
+        "end_offset": 352,
+        "start": 90.74,
+        "end": 90.94,
+        "score": -0.717
+      },
+      {
+        "word": "peace.",
+        "start_offset": 353,
+        "end_offset": 359,
+        "start": 91.68,
+        "end": 92.26,
+        "score": -3.7524
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "008-25.mp3",
+    "audio_duration": 94.0408,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

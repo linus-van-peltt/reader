@@ -1,0 +1,450 @@
+{
+  "text": "As I remember, the polymorphous dinoflagellate has an iron- rather than a copper-based cell. Could you comment on that? I am Ra. This information is not central. The base of any metabolism, shall we say, is that which may be found in the chemical substances of the neighborhood of origin.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "As I remember, the polymorphous dinoflagellate has an iron- rather than a copper-based cell.",
+        "start_offset": 0,
+        "end_offset": 92,
+        "start": 2.5,
+        "end": 10.561
+      },
+      {
+        "segment": "Could you comment on that?",
+        "start_offset": 93,
+        "end_offset": 119,
+        "start": 10.801,
+        "end": 12.701
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 120,
+        "end_offset": 128,
+        "start": 20.962,
+        "end": 23.162
+      },
+      {
+        "segment": "This information is not central.",
+        "start_offset": 129,
+        "end_offset": 161,
+        "start": 25.483,
+        "end": 35.404
+      },
+      {
+        "segment": "The base of any metabolism, shall we say, is that which may be found in the chemical substances of the neighborhood of origin.",
+        "start_offset": 162,
+        "end_offset": 288,
+        "start": 36.864,
+        "end": 77.348
+      }
+    ],
+    "word": [
+      {
+        "word": "As",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.5,
+        "end": 2.62,
+        "score": -1.9984
+      },
+      {
+        "word": "I",
+        "start_offset": 3,
+        "end_offset": 4,
+        "start": 2.76,
+        "end": 2.78,
+        "score": -1.7549
+      },
+      {
+        "word": "remember,",
+        "start_offset": 5,
+        "end_offset": 14,
+        "start": 2.86,
+        "end": 3.26,
+        "score": -1.1726
+      },
+      {
+        "word": "the",
+        "start_offset": 15,
+        "end_offset": 18,
+        "start": 3.36,
+        "end": 3.46,
+        "score": -1.9538
+      },
+      {
+        "word": "polymorphous",
+        "start_offset": 19,
+        "end_offset": 31,
+        "start": 3.74,
+        "end": 4.34,
+        "score": -3.1789
+      },
+      {
+        "word": "dinoflagellate",
+        "start_offset": 32,
+        "end_offset": 46,
+        "start": 4.38,
+        "end": 5.321,
+        "score": -3.8254
+      },
+      {
+        "word": "has",
+        "start_offset": 47,
+        "end_offset": 50,
+        "start": 5.541,
+        "end": 5.861,
+        "score": -3.3797
+      },
+      {
+        "word": "an",
+        "start_offset": 51,
+        "end_offset": 53,
+        "start": 6.141,
+        "end": 7.561,
+        "score": -2.4698
+      },
+      {
+        "word": "iron-",
+        "start_offset": 54,
+        "end_offset": 59,
+        "start": 7.701,
+        "end": 7.861,
+        "score": -4.3362
+      },
+      {
+        "word": "rather",
+        "start_offset": 60,
+        "end_offset": 66,
+        "start": 7.921,
+        "end": 8.161,
+        "score": -3.6457
+      },
+      {
+        "word": "than",
+        "start_offset": 67,
+        "end_offset": 71,
+        "start": 8.201,
+        "end": 8.321,
+        "score": -2.7469
+      },
+      {
+        "word": "a",
+        "start_offset": 72,
+        "end_offset": 73,
+        "start": 8.361,
+        "end": 8.381,
+        "score": -2.5746
+      },
+      {
+        "word": "copper-based",
+        "start_offset": 74,
+        "end_offset": 86,
+        "start": 8.461,
+        "end": 9.321,
+        "score": -2.771
+      },
+      {
+        "word": "cell.",
+        "start_offset": 87,
+        "end_offset": 92,
+        "start": 10.221,
+        "end": 10.561,
+        "score": -3.7284
+      },
+      {
+        "word": "Could",
+        "start_offset": 93,
+        "end_offset": 98,
+        "start": 10.801,
+        "end": 10.981,
+        "score": -5.5014
+      },
+      {
+        "word": "you",
+        "start_offset": 99,
+        "end_offset": 102,
+        "start": 11.021,
+        "end": 11.081,
+        "score": -5.763
+      },
+      {
+        "word": "comment",
+        "start_offset": 103,
+        "end_offset": 110,
+        "start": 11.941,
+        "end": 12.261,
+        "score": -3.1428
+      },
+      {
+        "word": "on",
+        "start_offset": 111,
+        "end_offset": 113,
+        "start": 12.321,
+        "end": 12.401,
+        "score": -2.6794
+      },
+      {
+        "word": "that?",
+        "start_offset": 114,
+        "end_offset": 119,
+        "start": 12.461,
+        "end": 12.701,
+        "score": -2.4906
+      },
+      {
+        "word": "I",
+        "start_offset": 120,
+        "end_offset": 121,
+        "start": 20.962,
+        "end": 20.982,
+        "score": -0.8627
+      },
+      {
+        "word": "am",
+        "start_offset": 122,
+        "end_offset": 124,
+        "start": 21.842,
+        "end": 22.202,
+        "score": -2.5918
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 125,
+        "end_offset": 128,
+        "start": 23.002,
+        "end": 23.162,
+        "score": -1.007
+      },
+      {
+        "word": "This",
+        "start_offset": 129,
+        "end_offset": 133,
+        "start": 25.483,
+        "end": 25.903,
+        "score": -0.7586
+      },
+      {
+        "word": "information",
+        "start_offset": 134,
+        "end_offset": 145,
+        "start": 27.383,
+        "end": 28.923,
+        "score": -0.7325
+      },
+      {
+        "word": "is",
+        "start_offset": 146,
+        "end_offset": 148,
+        "start": 30.503,
+        "end": 30.943,
+        "score": -0.7381
+      },
+      {
+        "word": "not",
+        "start_offset": 149,
+        "end_offset": 152,
+        "start": 32.883,
+        "end": 33.363,
+        "score": -0.9342
+      },
+      {
+        "word": "central.",
+        "start_offset": 153,
+        "end_offset": 161,
+        "start": 34.583,
+        "end": 35.404,
+        "score": -0.7617
+      },
+      {
+        "word": "The",
+        "start_offset": 162,
+        "end_offset": 165,
+        "start": 36.864,
+        "end": 37.004,
+        "score": -1.8451
+      },
+      {
+        "word": "base",
+        "start_offset": 166,
+        "end_offset": 170,
+        "start": 38.464,
+        "end": 39.184,
+        "score": -0.71
+      },
+      {
+        "word": "of",
+        "start_offset": 171,
+        "end_offset": 173,
+        "start": 40.844,
+        "end": 41.244,
+        "score": -0.7937
+      },
+      {
+        "word": "any",
+        "start_offset": 174,
+        "end_offset": 177,
+        "start": 42.664,
+        "end": 43.044,
+        "score": -1.0298
+      },
+      {
+        "word": "metabolism,",
+        "start_offset": 178,
+        "end_offset": 189,
+        "start": 44.864,
+        "end": 46.585,
+        "score": -0.7649
+      },
+      {
+        "word": "shall",
+        "start_offset": 190,
+        "end_offset": 195,
+        "start": 47.605,
+        "end": 48.145,
+        "score": -1.6359
+      },
+      {
+        "word": "we",
+        "start_offset": 196,
+        "end_offset": 198,
+        "start": 48.565,
+        "end": 48.725,
+        "score": -0.8395
+      },
+      {
+        "word": "say,",
+        "start_offset": 199,
+        "end_offset": 203,
+        "start": 49.205,
+        "end": 49.665,
+        "score": -0.9357
+      },
+      {
+        "word": "is",
+        "start_offset": 204,
+        "end_offset": 206,
+        "start": 51.185,
+        "end": 51.585,
+        "score": -0.7123
+      },
+      {
+        "word": "that",
+        "start_offset": 207,
+        "end_offset": 211,
+        "start": 51.945,
+        "end": 52.405,
+        "score": -0.7325
+      },
+      {
+        "word": "which",
+        "start_offset": 212,
+        "end_offset": 217,
+        "start": 53.465,
+        "end": 53.905,
+        "score": -0.7703
+      },
+      {
+        "word": "may",
+        "start_offset": 218,
+        "end_offset": 221,
+        "start": 54.685,
+        "end": 55.066,
+        "score": -0.7049
+      },
+      {
+        "word": "be",
+        "start_offset": 222,
+        "end_offset": 224,
+        "start": 55.766,
+        "end": 55.886,
+        "score": -0.7358
+      },
+      {
+        "word": "found",
+        "start_offset": 225,
+        "end_offset": 230,
+        "start": 57.886,
+        "end": 58.726,
+        "score": -0.8476
+      },
+      {
+        "word": "in",
+        "start_offset": 231,
+        "end_offset": 233,
+        "start": 60.346,
+        "end": 60.706,
+        "score": -0.7904
+      },
+      {
+        "word": "the",
+        "start_offset": 234,
+        "end_offset": 237,
+        "start": 61.406,
+        "end": 61.546,
+        "score": -0.8365
+      },
+      {
+        "word": "chemical",
+        "start_offset": 238,
+        "end_offset": 246,
+        "start": 63.126,
+        "end": 64.546,
+        "score": -1.3264
+      },
+      {
+        "word": "substances",
+        "start_offset": 247,
+        "end_offset": 257,
+        "start": 65.747,
+        "end": 67.507,
+        "score": -0.76
+      },
+      {
+        "word": "of",
+        "start_offset": 258,
+        "end_offset": 260,
+        "start": 69.287,
+        "end": 69.707,
+        "score": -0.7709
+      },
+      {
+        "word": "the",
+        "start_offset": 261,
+        "end_offset": 264,
+        "start": 71.267,
+        "end": 71.427,
+        "score": -0.8498
+      },
+      {
+        "word": "neighborhood",
+        "start_offset": 265,
+        "end_offset": 277,
+        "start": 72.547,
+        "end": 73.927,
+        "score": -1.3765
+      },
+      {
+        "word": "of",
+        "start_offset": 278,
+        "end_offset": 280,
+        "start": 75.168,
+        "end": 75.528,
+        "score": -0.7684
+      },
+      {
+        "word": "origin.",
+        "start_offset": 281,
+        "end_offset": 288,
+        "start": 76.348,
+        "end": 77.348,
+        "score": -0.7044
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "041-11.mp3",
+    "audio_duration": 78.0278,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

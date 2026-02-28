@@ -1,0 +1,292 @@
+{
+  "text": "What structures were built in South America? I am Ra. In this location were fashioned some characteristic statues, some formations of what you call rock and some formations involving rock and earth.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What structures were built in South America?",
+        "start_offset": 0,
+        "end_offset": 44,
+        "start": 1.92,
+        "end": 4.361
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 45,
+        "end_offset": 53,
+        "start": 10.321,
+        "end": 12.702
+      },
+      {
+        "segment": "In this location were fashioned some characteristic statues, some formations of what you call rock and some formations involving rock and earth.",
+        "start_offset": 54,
+        "end_offset": 198,
+        "start": 15.622,
+        "end": 53.727
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 1.92,
+        "end": 2.12,
+        "score": -2.8384
+      },
+      {
+        "word": "structures",
+        "start_offset": 5,
+        "end_offset": 15,
+        "start": 2.36,
+        "end": 2.92,
+        "score": -2.3139
+      },
+      {
+        "word": "were",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 2.96,
+        "end": 3.12,
+        "score": -3.4811
+      },
+      {
+        "word": "built",
+        "start_offset": 21,
+        "end_offset": 26,
+        "start": 3.16,
+        "end": 3.4,
+        "score": -3.3181
+      },
+      {
+        "word": "in",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 3.42,
+        "end": 3.54,
+        "score": -1.6339
+      },
+      {
+        "word": "South",
+        "start_offset": 30,
+        "end_offset": 35,
+        "start": 3.62,
+        "end": 3.881,
+        "score": -2.3609
+      },
+      {
+        "word": "America?",
+        "start_offset": 36,
+        "end_offset": 44,
+        "start": 3.921,
+        "end": 4.361,
+        "score": -2.5047
+      },
+      {
+        "word": "I",
+        "start_offset": 45,
+        "end_offset": 46,
+        "start": 10.321,
+        "end": 10.341,
+        "score": -1.0724
+      },
+      {
+        "word": "am",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 11.502,
+        "end": 11.802,
+        "score": -1.6619
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 50,
+        "end_offset": 53,
+        "start": 12.582,
+        "end": 12.702,
+        "score": -1.4103
+      },
+      {
+        "word": "In",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 15.622,
+        "end": 15.882,
+        "score": -0.714
+      },
+      {
+        "word": "this",
+        "start_offset": 57,
+        "end_offset": 61,
+        "start": 16.282,
+        "end": 16.642,
+        "score": -0.7697
+      },
+      {
+        "word": "location",
+        "start_offset": 62,
+        "end_offset": 70,
+        "start": 16.982,
+        "end": 18.302,
+        "score": -0.7077
+      },
+      {
+        "word": "were",
+        "start_offset": 71,
+        "end_offset": 75,
+        "start": 20.043,
+        "end": 20.403,
+        "score": -1.7418
+      },
+      {
+        "word": "fashioned",
+        "start_offset": 76,
+        "end_offset": 85,
+        "start": 21.063,
+        "end": 22.063,
+        "score": -1.4106
+      },
+      {
+        "word": "some",
+        "start_offset": 86,
+        "end_offset": 90,
+        "start": 24.263,
+        "end": 24.743,
+        "score": -0.7262
+      },
+      {
+        "word": "characteristic",
+        "start_offset": 91,
+        "end_offset": 105,
+        "start": 26.544,
+        "end": 28.744,
+        "score": -0.7261
+      },
+      {
+        "word": "statues,",
+        "start_offset": 106,
+        "end_offset": 114,
+        "start": 29.884,
+        "end": 31.024,
+        "score": -1.0489
+      },
+      {
+        "word": "some",
+        "start_offset": 115,
+        "end_offset": 119,
+        "start": 32.584,
+        "end": 33.045,
+        "score": -0.7092
+      },
+      {
+        "word": "formations",
+        "start_offset": 120,
+        "end_offset": 130,
+        "start": 33.685,
+        "end": 35.205,
+        "score": -0.708
+      },
+      {
+        "word": "of",
+        "start_offset": 131,
+        "end_offset": 133,
+        "start": 36.485,
+        "end": 36.845,
+        "score": -0.716
+      },
+      {
+        "word": "what",
+        "start_offset": 134,
+        "end_offset": 138,
+        "start": 37.825,
+        "end": 38.105,
+        "score": -0.7142
+      },
+      {
+        "word": "you",
+        "start_offset": 139,
+        "end_offset": 142,
+        "start": 38.465,
+        "end": 38.625,
+        "score": -0.7604
+      },
+      {
+        "word": "call",
+        "start_offset": 143,
+        "end_offset": 147,
+        "start": 39.005,
+        "end": 39.585,
+        "score": -0.7587
+      },
+      {
+        "word": "rock",
+        "start_offset": 148,
+        "end_offset": 152,
+        "start": 40.666,
+        "end": 41.266,
+        "score": -0.7634
+      },
+      {
+        "word": "and",
+        "start_offset": 153,
+        "end_offset": 156,
+        "start": 43.026,
+        "end": 43.286,
+        "score": -1.3288
+      },
+      {
+        "word": "some",
+        "start_offset": 157,
+        "end_offset": 161,
+        "start": 43.666,
+        "end": 44.166,
+        "score": -0.952
+      },
+      {
+        "word": "formations",
+        "start_offset": 162,
+        "end_offset": 172,
+        "start": 45.706,
+        "end": 47.186,
+        "score": -0.7034
+      },
+      {
+        "word": "involving",
+        "start_offset": 173,
+        "end_offset": 182,
+        "start": 48.287,
+        "end": 49.427,
+        "score": -0.7143
+      },
+      {
+        "word": "rock",
+        "start_offset": 183,
+        "end_offset": 187,
+        "start": 50.867,
+        "end": 51.347,
+        "score": -0.7321
+      },
+      {
+        "word": "and",
+        "start_offset": 188,
+        "end_offset": 191,
+        "start": 52.307,
+        "end": 52.647,
+        "score": -0.8344
+      },
+      {
+        "word": "earth.",
+        "start_offset": 192,
+        "end_offset": 198,
+        "start": 53.287,
+        "end": 53.727,
+        "score": -0.8574
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "020-38.mp3",
+    "audio_duration": 54.0474,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

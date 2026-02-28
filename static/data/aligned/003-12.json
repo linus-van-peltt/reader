@@ -1,0 +1,426 @@
+{
+  "text": "Then the rock was created by thought in place rather than moved from somewhere else? Is that correct? I am Ra. We built with everlasting rock the Great Pyramid, as you call it. Other of the pyramids were built with stone moved from one place to another.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then the rock was created by thought in place rather than moved from somewhere else?",
+        "start_offset": 0,
+        "end_offset": 84,
+        "start": 3.041,
+        "end": 7.962
+      },
+      {
+        "segment": "Is that correct?",
+        "start_offset": 85,
+        "end_offset": 101,
+        "start": 8.562,
+        "end": 19.905
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 102,
+        "end_offset": 110,
+        "start": 19.925,
+        "end": 22.585
+      },
+      {
+        "segment": "We built with everlasting rock the Great Pyramid, as you call it.",
+        "start_offset": 111,
+        "end_offset": 176,
+        "start": 24.946,
+        "end": 52.512
+      },
+      {
+        "segment": "Other of the pyramids were built with stone moved from one place to another.",
+        "start_offset": 177,
+        "end_offset": 253,
+        "start": 54.873,
+        "end": 79.598
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 3.041,
+        "end": 3.201,
+        "score": -1.9708
+      },
+      {
+        "word": "the",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 3.221,
+        "end": 3.281,
+        "score": -3.2965
+      },
+      {
+        "word": "rock",
+        "start_offset": 9,
+        "end_offset": 13,
+        "start": 3.381,
+        "end": 3.621,
+        "score": -2.9765
+      },
+      {
+        "word": "was",
+        "start_offset": 14,
+        "end_offset": 17,
+        "start": 3.721,
+        "end": 3.901,
+        "score": -2.1572
+      },
+      {
+        "word": "created",
+        "start_offset": 18,
+        "end_offset": 25,
+        "start": 4.101,
+        "end": 4.501,
+        "score": -4.8246
+      },
+      {
+        "word": "by",
+        "start_offset": 26,
+        "end_offset": 28,
+        "start": 4.701,
+        "end": 4.741,
+        "score": -7.3873
+      },
+      {
+        "word": "thought",
+        "start_offset": 29,
+        "end_offset": 36,
+        "start": 4.841,
+        "end": 5.321,
+        "score": -5.2667
+      },
+      {
+        "word": "in",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 5.341,
+        "end": 5.401,
+        "score": -5.9604
+      },
+      {
+        "word": "place",
+        "start_offset": 40,
+        "end_offset": 45,
+        "start": 5.501,
+        "end": 5.821,
+        "score": -4.614
+      },
+      {
+        "word": "rather",
+        "start_offset": 46,
+        "end_offset": 52,
+        "start": 5.861,
+        "end": 6.121,
+        "score": -6.3788
+      },
+      {
+        "word": "than",
+        "start_offset": 53,
+        "end_offset": 57,
+        "start": 6.161,
+        "end": 6.301,
+        "score": -5.2332
+      },
+      {
+        "word": "moved",
+        "start_offset": 58,
+        "end_offset": 63,
+        "start": 6.381,
+        "end": 6.782,
+        "score": -6.38
+      },
+      {
+        "word": "from",
+        "start_offset": 64,
+        "end_offset": 68,
+        "start": 6.922,
+        "end": 7.042,
+        "score": -7.0775
+      },
+      {
+        "word": "somewhere",
+        "start_offset": 69,
+        "end_offset": 78,
+        "start": 7.142,
+        "end": 7.542,
+        "score": -4.4319
+      },
+      {
+        "word": "else?",
+        "start_offset": 79,
+        "end_offset": 84,
+        "start": 7.662,
+        "end": 7.962,
+        "score": -4.2607
+      },
+      {
+        "word": "Is",
+        "start_offset": 85,
+        "end_offset": 87,
+        "start": 8.562,
+        "end": 8.902,
+        "score": -5.4765
+      },
+      {
+        "word": "that",
+        "start_offset": 88,
+        "end_offset": 92,
+        "start": 9.062,
+        "end": 16.124,
+        "score": -4.8499
+      },
+      {
+        "word": "correct?",
+        "start_offset": 93,
+        "end_offset": 101,
+        "start": 19.605,
+        "end": 19.905,
+        "score": -6.6287
+      },
+      {
+        "word": "I",
+        "start_offset": 102,
+        "end_offset": 103,
+        "start": 19.925,
+        "end": 19.945,
+        "score": -1.427
+      },
+      {
+        "word": "am",
+        "start_offset": 104,
+        "end_offset": 106,
+        "start": 21.185,
+        "end": 21.365,
+        "score": -2.2292
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 107,
+        "end_offset": 110,
+        "start": 22.445,
+        "end": 22.585,
+        "score": -0.9029
+      },
+      {
+        "word": "We",
+        "start_offset": 111,
+        "end_offset": 113,
+        "start": 24.946,
+        "end": 25.066,
+        "score": -1.9284
+      },
+      {
+        "word": "built",
+        "start_offset": 114,
+        "end_offset": 119,
+        "start": 27.906,
+        "end": 28.286,
+        "score": -1.7973
+      },
+      {
+        "word": "with",
+        "start_offset": 120,
+        "end_offset": 124,
+        "start": 30.607,
+        "end": 30.967,
+        "score": -3.5069
+      },
+      {
+        "word": "everlasting",
+        "start_offset": 125,
+        "end_offset": 136,
+        "start": 32.988,
+        "end": 35.188,
+        "score": -1.5962
+      },
+      {
+        "word": "rock",
+        "start_offset": 137,
+        "end_offset": 141,
+        "start": 36.968,
+        "end": 37.249,
+        "score": -2.9389
+      },
+      {
+        "word": "the",
+        "start_offset": 142,
+        "end_offset": 145,
+        "start": 39.849,
+        "end": 39.989,
+        "score": -2.2969
+      },
+      {
+        "word": "Great",
+        "start_offset": 146,
+        "end_offset": 151,
+        "start": 44.67,
+        "end": 45.01,
+        "score": -2.5805
+      },
+      {
+        "word": "Pyramid,",
+        "start_offset": 152,
+        "end_offset": 160,
+        "start": 46.631,
+        "end": 47.251,
+        "score": -0.8565
+      },
+      {
+        "word": "as",
+        "start_offset": 161,
+        "end_offset": 163,
+        "start": 48.551,
+        "end": 48.851,
+        "score": -0.9826
+      },
+      {
+        "word": "you",
+        "start_offset": 164,
+        "end_offset": 167,
+        "start": 50.232,
+        "end": 50.392,
+        "score": -3.3405
+      },
+      {
+        "word": "call",
+        "start_offset": 168,
+        "end_offset": 172,
+        "start": 51.512,
+        "end": 51.952,
+        "score": -2.8218
+      },
+      {
+        "word": "it.",
+        "start_offset": 173,
+        "end_offset": 176,
+        "start": 52.372,
+        "end": 52.512,
+        "score": -2.5868
+      },
+      {
+        "word": "Other",
+        "start_offset": 177,
+        "end_offset": 182,
+        "start": 54.873,
+        "end": 55.173,
+        "score": -0.8229
+      },
+      {
+        "word": "of",
+        "start_offset": 183,
+        "end_offset": 185,
+        "start": 56.213,
+        "end": 56.453,
+        "score": -1.1829
+      },
+      {
+        "word": "the",
+        "start_offset": 186,
+        "end_offset": 189,
+        "start": 57.353,
+        "end": 57.493,
+        "score": -2.8521
+      },
+      {
+        "word": "pyramids",
+        "start_offset": 190,
+        "end_offset": 198,
+        "start": 58.954,
+        "end": 59.734,
+        "score": -1.0241
+      },
+      {
+        "word": "were",
+        "start_offset": 199,
+        "end_offset": 203,
+        "start": 60.934,
+        "end": 61.194,
+        "score": -3.0164
+      },
+      {
+        "word": "built",
+        "start_offset": 204,
+        "end_offset": 209,
+        "start": 63.175,
+        "end": 63.515,
+        "score": -1.6808
+      },
+      {
+        "word": "with",
+        "start_offset": 210,
+        "end_offset": 214,
+        "start": 65.375,
+        "end": 65.715,
+        "score": -1.7903
+      },
+      {
+        "word": "stone",
+        "start_offset": 215,
+        "end_offset": 220,
+        "start": 68.136,
+        "end": 68.696,
+        "score": -1.1409
+      },
+      {
+        "word": "moved",
+        "start_offset": 221,
+        "end_offset": 226,
+        "start": 70.196,
+        "end": 70.676,
+        "score": -2.9988
+      },
+      {
+        "word": "from",
+        "start_offset": 227,
+        "end_offset": 231,
+        "start": 72.397,
+        "end": 72.737,
+        "score": -1.1188
+      },
+      {
+        "word": "one",
+        "start_offset": 232,
+        "end_offset": 235,
+        "start": 74.157,
+        "end": 74.377,
+        "score": -1.447
+      },
+      {
+        "word": "place",
+        "start_offset": 236,
+        "end_offset": 241,
+        "start": 75.917,
+        "end": 76.458,
+        "score": -1.0665
+      },
+      {
+        "word": "to",
+        "start_offset": 242,
+        "end_offset": 244,
+        "start": 77.538,
+        "end": 77.798,
+        "score": -1.8251
+      },
+      {
+        "word": "another.",
+        "start_offset": 245,
+        "end_offset": 253,
+        "start": 79.098,
+        "end": 79.598,
+        "score": -2.3408
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "003-12.mp3",
+    "audio_duration": 87.04,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

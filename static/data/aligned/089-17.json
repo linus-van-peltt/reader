@@ -1,0 +1,251 @@
+{
+  "text": "Then at this particular time Ra had long since vacated the planet as far as walking among the Egyptians. Is this correct? I am Ra. Yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then at this particular time Ra had long since vacated the planet as far as walking among the Egyptians.",
+        "start_offset": 0,
+        "end_offset": 104,
+        "start": 2.562,
+        "end": 12.611
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 105,
+        "end_offset": 121,
+        "start": 12.631,
+        "end": 13.292
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 122,
+        "end_offset": 130,
+        "start": 15.533,
+        "end": 15.714
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 131,
+        "end_offset": 135,
+        "start": 15.774,
+        "end": 19.737
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.562,
+        "end": 2.782,
+        "score": -0.9131
+      },
+      {
+        "word": "at",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 3.143,
+        "end": 3.243,
+        "score": -0.7404
+      },
+      {
+        "word": "this",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 3.283,
+        "end": 3.423,
+        "score": -0.7119
+      },
+      {
+        "word": "particular",
+        "start_offset": 13,
+        "end_offset": 23,
+        "start": 3.483,
+        "end": 4.003,
+        "score": -0.7018
+      },
+      {
+        "word": "time",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 4.064,
+        "end": 4.324,
+        "score": -0.7523
+      },
+      {
+        "word": "Ra",
+        "start_offset": 29,
+        "end_offset": 31,
+        "start": 4.384,
+        "end": 4.504,
+        "score": -0.7845
+      },
+      {
+        "word": "had",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 4.644,
+        "end": 4.744,
+        "score": -0.7741
+      },
+      {
+        "word": "long",
+        "start_offset": 36,
+        "end_offset": 40,
+        "start": 4.804,
+        "end": 5.104,
+        "score": -0.705
+      },
+      {
+        "word": "since",
+        "start_offset": 41,
+        "end_offset": 46,
+        "start": 5.565,
+        "end": 5.925,
+        "score": -0.7009
+      },
+      {
+        "word": "vacated",
+        "start_offset": 47,
+        "end_offset": 54,
+        "start": 7.206,
+        "end": 7.847,
+        "score": -0.7749
+      },
+      {
+        "word": "the",
+        "start_offset": 55,
+        "end_offset": 58,
+        "start": 8.948,
+        "end": 9.068,
+        "score": -0.9773
+      },
+      {
+        "word": "planet",
+        "start_offset": 59,
+        "end_offset": 65,
+        "start": 10.529,
+        "end": 10.769,
+        "score": -2.7542
+      },
+      {
+        "word": "as",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 10.909,
+        "end": 10.99,
+        "score": -1.987
+      },
+      {
+        "word": "far",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 11.03,
+        "end": 11.19,
+        "score": -0.8208
+      },
+      {
+        "word": "as",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 11.21,
+        "end": 11.29,
+        "score": -2.2736
+      },
+      {
+        "word": "walking",
+        "start_offset": 76,
+        "end_offset": 83,
+        "start": 11.33,
+        "end": 11.67,
+        "score": -0.7362
+      },
+      {
+        "word": "among",
+        "start_offset": 84,
+        "end_offset": 89,
+        "start": 11.73,
+        "end": 11.95,
+        "score": -0.8315
+      },
+      {
+        "word": "the",
+        "start_offset": 90,
+        "end_offset": 93,
+        "start": 11.99,
+        "end": 12.07,
+        "score": -0.7979
+      },
+      {
+        "word": "Egyptians.",
+        "start_offset": 94,
+        "end_offset": 104,
+        "start": 12.131,
+        "end": 12.611,
+        "score": -0.8467
+      },
+      {
+        "word": "Is",
+        "start_offset": 105,
+        "end_offset": 107,
+        "start": 12.631,
+        "end": 12.691,
+        "score": -3.5368
+      },
+      {
+        "word": "this",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 12.711,
+        "end": 12.871,
+        "score": -0.9514
+      },
+      {
+        "word": "correct?",
+        "start_offset": 113,
+        "end_offset": 121,
+        "start": 12.911,
+        "end": 13.292,
+        "score": -0.7749
+      },
+      {
+        "word": "I",
+        "start_offset": 122,
+        "end_offset": 123,
+        "start": 15.533,
+        "end": 15.554,
+        "score": -8.4815
+      },
+      {
+        "word": "am",
+        "start_offset": 124,
+        "end_offset": 126,
+        "start": 15.574,
+        "end": 15.614,
+        "score": -8.6754
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 127,
+        "end_offset": 130,
+        "start": 15.634,
+        "end": 15.714,
+        "score": -8.6847
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 131,
+        "end_offset": 135,
+        "start": 15.774,
+        "end": 19.737,
+        "score": -7.9837
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "089-17.mp3",
+    "audio_duration": 23.04,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

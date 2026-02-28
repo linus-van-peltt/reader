@@ -1,0 +1,310 @@
+{
+  "text": "Is there anything in particular that we can do in addition to what we're doing to uh alleviate this attack? There is another thing you can do to alleviate the attack, the understanding of its mechanism might be of aid.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there anything in particular that we can do in addition to what we're doing to uh alleviate this attack?",
+        "start_offset": 31,
+        "end_offset": 129,
+        "start": 2.48,
+        "end": 10.32
+      },
+      {
+        "segment": "There is another thing you can do to alleviate the attack, the understanding of its mechanism might be of aid.",
+        "start_offset": 317,
+        "end_offset": 780,
+        "start": 25.36,
+        "end": 62.4
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 2.48,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "there",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 2.8000000000000003,
+        "end": 3.04
+      },
+      {
+        "word": "anything",
+        "start_offset": 38,
+        "end_offset": 44,
+        "start": 3.04,
+        "end": 3.52
+      },
+      {
+        "word": "in",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 3.52,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "particular",
+        "start_offset": 47,
+        "end_offset": 55,
+        "start": 3.7600000000000002,
+        "end": 4.4
+      },
+      {
+        "word": "that",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 4.72,
+        "end": 4.96
+      },
+      {
+        "word": "we",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 4.96,
+        "end": 5.2
+      },
+      {
+        "word": "can",
+        "start_offset": 65,
+        "end_offset": 67,
+        "start": 5.2,
+        "end": 5.36
+      },
+      {
+        "word": "do",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 5.36,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "in",
+        "start_offset": 70,
+        "end_offset": 72,
+        "start": 5.6000000000000005,
+        "end": 5.76
+      },
+      {
+        "word": "addition",
+        "start_offset": 72,
+        "end_offset": 76,
+        "start": 5.76,
+        "end": 6.08
+      },
+      {
+        "word": "to",
+        "start_offset": 76,
+        "end_offset": 78,
+        "start": 6.08,
+        "end": 6.24
+      },
+      {
+        "word": "what",
+        "start_offset": 78,
+        "end_offset": 80,
+        "start": 6.24,
+        "end": 6.4
+      },
+      {
+        "word": "we're",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 6.4,
+        "end": 6.72
+      },
+      {
+        "word": "doing",
+        "start_offset": 84,
+        "end_offset": 88,
+        "start": 6.72,
+        "end": 7.04
+      },
+      {
+        "word": "to",
+        "start_offset": 88,
+        "end_offset": 91,
+        "start": 7.04,
+        "end": 7.28
+      },
+      {
+        "word": "uh",
+        "start_offset": 91,
+        "end_offset": 95,
+        "start": 7.28,
+        "end": 7.6000000000000005
+      },
+      {
+        "word": "alleviate",
+        "start_offset": 103,
+        "end_offset": 115,
+        "start": 8.24,
+        "end": 9.200000000000001
+      },
+      {
+        "word": "this",
+        "start_offset": 115,
+        "end_offset": 118,
+        "start": 9.200000000000001,
+        "end": 9.44
+      },
+      {
+        "word": "attack?",
+        "start_offset": 118,
+        "end_offset": 129,
+        "start": 9.44,
+        "end": 10.32
+      },
+      {
+        "word": "There",
+        "start_offset": 317,
+        "end_offset": 325,
+        "start": 25.36,
+        "end": 26.0
+      },
+      {
+        "word": "is",
+        "start_offset": 329,
+        "end_offset": 333,
+        "start": 26.32,
+        "end": 26.64
+      },
+      {
+        "word": "another",
+        "start_offset": 353,
+        "end_offset": 365,
+        "start": 28.240000000000002,
+        "end": 29.2
+      },
+      {
+        "word": "thing",
+        "start_offset": 365,
+        "end_offset": 373,
+        "start": 29.2,
+        "end": 29.84
+      },
+      {
+        "word": "you",
+        "start_offset": 381,
+        "end_offset": 385,
+        "start": 30.48,
+        "end": 30.8
+      },
+      {
+        "word": "can",
+        "start_offset": 401,
+        "end_offset": 405,
+        "start": 32.08,
+        "end": 32.4
+      },
+      {
+        "word": "do",
+        "start_offset": 417,
+        "end_offset": 421,
+        "start": 33.36,
+        "end": 33.68
+      },
+      {
+        "word": "to",
+        "start_offset": 441,
+        "end_offset": 445,
+        "start": 35.28,
+        "end": 35.6
+      },
+      {
+        "word": "alleviate",
+        "start_offset": 453,
+        "end_offset": 472,
+        "start": 36.24,
+        "end": 37.76
+      },
+      {
+        "word": "the",
+        "start_offset": 496,
+        "end_offset": 500,
+        "start": 39.68,
+        "end": 40.0
+      },
+      {
+        "word": "attack,",
+        "start_offset": 512,
+        "end_offset": 524,
+        "start": 40.96,
+        "end": 41.92
+      },
+      {
+        "word": "the",
+        "start_offset": 552,
+        "end_offset": 556,
+        "start": 44.160000000000004,
+        "end": 44.480000000000004
+      },
+      {
+        "word": "understanding",
+        "start_offset": 584,
+        "end_offset": 608,
+        "start": 46.72,
+        "end": 48.64
+      },
+      {
+        "word": "of",
+        "start_offset": 628,
+        "end_offset": 632,
+        "start": 50.24,
+        "end": 50.56
+      },
+      {
+        "word": "its",
+        "start_offset": 644,
+        "end_offset": 648,
+        "start": 51.52,
+        "end": 51.84
+      },
+      {
+        "word": "mechanism",
+        "start_offset": 668,
+        "end_offset": 687,
+        "start": 53.44,
+        "end": 54.96
+      },
+      {
+        "word": "might",
+        "start_offset": 710,
+        "end_offset": 718,
+        "start": 56.800000000000004,
+        "end": 57.44
+      },
+      {
+        "word": "be",
+        "start_offset": 734,
+        "end_offset": 738,
+        "start": 58.72,
+        "end": 59.04
+      },
+      {
+        "word": "of",
+        "start_offset": 750,
+        "end_offset": 753,
+        "start": 60.0,
+        "end": 60.24
+      },
+      {
+        "word": "aid.",
+        "start_offset": 773,
+        "end_offset": 780,
+        "start": 61.84,
+        "end": 62.4
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "057-02.mp3",
+    "audio_duration": 65.04,
+    "transcription_time": 0.13,
+    "rtfx": 513.26,
+    "timestamp": "2026-01-06T21:52:43.880221+00:00"
+  }
+}

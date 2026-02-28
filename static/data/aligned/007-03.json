@@ -1,0 +1,451 @@
+{
+  "text": "By squared, do you mean that if ten people call you can count that, when comparing it to the planetary ratio of people, as 100 people, squaring ten, getting 100? Is that correct? I am Ra. This is incorrect. The square is sequential — one, two, three, four, each squared by the next number.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "By squared, do you mean that if ten people call you can count that, when comparing it to the planetary ratio of people, as people, squaring ten, getting Is that correct?",
+        "start_offset": 0,
+        "end_offset": 178,
+        "start": 2.861,
+        "end": 19.426
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 179,
+        "end_offset": 187,
+        "start": 22.186,
+        "end": 25.067
+      },
+      {
+        "segment": "This is incorrect.",
+        "start_offset": 188,
+        "end_offset": 206,
+        "start": 26.728,
+        "end": 32.029
+      },
+      {
+        "segment": "The square is sequential one, two, three, four, each squared by the next number.",
+        "start_offset": 207,
+        "end_offset": 289,
+        "start": 33.81,
+        "end": 53.655
+      }
+    ],
+    "word": [
+      {
+        "word": "By",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.861,
+        "end": 3.061,
+        "score": -3.4773
+      },
+      {
+        "word": "squared,",
+        "start_offset": 3,
+        "end_offset": 11,
+        "start": 3.101,
+        "end": 3.621,
+        "score": -1.7396
+      },
+      {
+        "word": "do",
+        "start_offset": 12,
+        "end_offset": 14,
+        "start": 3.641,
+        "end": 3.701,
+        "score": -7.3791
+      },
+      {
+        "word": "you",
+        "start_offset": 15,
+        "end_offset": 18,
+        "start": 4.021,
+        "end": 4.101,
+        "score": -3.5216
+      },
+      {
+        "word": "mean",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 4.181,
+        "end": 4.421,
+        "score": -3.0149
+      },
+      {
+        "word": "that",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 4.441,
+        "end": 4.561,
+        "score": -4.8554
+      },
+      {
+        "word": "if",
+        "start_offset": 29,
+        "end_offset": 31,
+        "start": 4.621,
+        "end": 4.721,
+        "score": -2.7203
+      },
+      {
+        "word": "ten",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 4.841,
+        "end": 5.081,
+        "score": -1.2582
+      },
+      {
+        "word": "people",
+        "start_offset": 36,
+        "end_offset": 42,
+        "start": 5.221,
+        "end": 5.542,
+        "score": -0.7385
+      },
+      {
+        "word": "call",
+        "start_offset": 43,
+        "end_offset": 47,
+        "start": 5.662,
+        "end": 5.942,
+        "score": -0.8006
+      },
+      {
+        "word": "you",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 6.042,
+        "end": 6.142,
+        "score": -0.7414
+      },
+      {
+        "word": "can",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 7.342,
+        "end": 7.602,
+        "score": -0.7741
+      },
+      {
+        "word": "count",
+        "start_offset": 56,
+        "end_offset": 61,
+        "start": 7.842,
+        "end": 8.202,
+        "score": -0.8223
+      },
+      {
+        "word": "that,",
+        "start_offset": 62,
+        "end_offset": 67,
+        "start": 8.602,
+        "end": 8.923,
+        "score": -1.0893
+      },
+      {
+        "word": "when",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 10.563,
+        "end": 10.843,
+        "score": -0.9537
+      },
+      {
+        "word": "comparing",
+        "start_offset": 73,
+        "end_offset": 82,
+        "start": 11.883,
+        "end": 12.444,
+        "score": -0.7012
+      },
+      {
+        "word": "it",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 12.504,
+        "end": 12.584,
+        "score": -0.7546
+      },
+      {
+        "word": "to",
+        "start_offset": 86,
+        "end_offset": 88,
+        "start": 12.684,
+        "end": 12.764,
+        "score": -0.7048
+      },
+      {
+        "word": "the",
+        "start_offset": 89,
+        "end_offset": 92,
+        "start": 12.844,
+        "end": 12.944,
+        "score": -0.7624
+      },
+      {
+        "word": "planetary",
+        "start_offset": 93,
+        "end_offset": 102,
+        "start": 13.004,
+        "end": 13.624,
+        "score": -0.7564
+      },
+      {
+        "word": "ratio",
+        "start_offset": 103,
+        "end_offset": 108,
+        "start": 13.744,
+        "end": 14.104,
+        "score": -0.8577
+      },
+      {
+        "word": "of",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 14.184,
+        "end": 14.264,
+        "score": -0.946
+      },
+      {
+        "word": "people,",
+        "start_offset": 112,
+        "end_offset": 119,
+        "start": 14.324,
+        "end": 14.664,
+        "score": -0.7461
+      },
+      {
+        "word": "as",
+        "start_offset": 120,
+        "end_offset": 122,
+        "start": 14.744,
+        "end": 14.864,
+        "score": -0.7138
+      },
+      {
+        "word": "people,",
+        "start_offset": 127,
+        "end_offset": 134,
+        "start": 15.464,
+        "end": 15.804,
+        "score": -0.7032
+      },
+      {
+        "word": "squaring",
+        "start_offset": 135,
+        "end_offset": 143,
+        "start": 16.325,
+        "end": 16.725,
+        "score": -0.7732
+      },
+      {
+        "word": "ten,",
+        "start_offset": 144,
+        "end_offset": 148,
+        "start": 16.825,
+        "end": 17.045,
+        "score": -2.6599
+      },
+      {
+        "word": "getting",
+        "start_offset": 149,
+        "end_offset": 156,
+        "start": 17.105,
+        "end": 17.345,
+        "score": -1.4737
+      },
+      {
+        "word": "Is",
+        "start_offset": 162,
+        "end_offset": 164,
+        "start": 17.585,
+        "end": 17.645,
+        "score": -5.6405
+      },
+      {
+        "word": "that",
+        "start_offset": 165,
+        "end_offset": 169,
+        "start": 18.745,
+        "end": 18.945,
+        "score": -4.0366
+      },
+      {
+        "word": "correct?",
+        "start_offset": 170,
+        "end_offset": 178,
+        "start": 19.005,
+        "end": 19.426,
+        "score": -2.6899
+      },
+      {
+        "word": "I",
+        "start_offset": 179,
+        "end_offset": 180,
+        "start": 22.186,
+        "end": 22.206,
+        "score": -0.8564
+      },
+      {
+        "word": "am",
+        "start_offset": 181,
+        "end_offset": 183,
+        "start": 23.567,
+        "end": 23.807,
+        "score": -0.9666
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 184,
+        "end_offset": 187,
+        "start": 24.907,
+        "end": 25.067,
+        "score": -1.7201
+      },
+      {
+        "word": "This",
+        "start_offset": 188,
+        "end_offset": 192,
+        "start": 26.728,
+        "end": 27.108,
+        "score": -0.9285
+      },
+      {
+        "word": "is",
+        "start_offset": 193,
+        "end_offset": 195,
+        "start": 28.148,
+        "end": 28.448,
+        "score": -1.0063
+      },
+      {
+        "word": "incorrect.",
+        "start_offset": 196,
+        "end_offset": 206,
+        "start": 29.908,
+        "end": 32.029,
+        "score": -0.7334
+      },
+      {
+        "word": "The",
+        "start_offset": 207,
+        "end_offset": 210,
+        "start": 33.81,
+        "end": 33.95,
+        "score": -0.8408
+      },
+      {
+        "word": "square",
+        "start_offset": 211,
+        "end_offset": 217,
+        "start": 34.63,
+        "end": 35.27,
+        "score": -2.0603
+      },
+      {
+        "word": "is",
+        "start_offset": 218,
+        "end_offset": 220,
+        "start": 36.37,
+        "end": 36.59,
+        "score": -0.754
+      },
+      {
+        "word": "sequential",
+        "start_offset": 221,
+        "end_offset": 231,
+        "start": 37.211,
+        "end": 38.151,
+        "score": -0.7716
+      },
+      {
+        "word": "one,",
+        "start_offset": 234,
+        "end_offset": 238,
+        "start": 39.971,
+        "end": 40.231,
+        "score": -2.964
+      },
+      {
+        "word": "two,",
+        "start_offset": 239,
+        "end_offset": 243,
+        "start": 41.732,
+        "end": 42.032,
+        "score": -3.8297
+      },
+      {
+        "word": "three,",
+        "start_offset": 244,
+        "end_offset": 250,
+        "start": 43.372,
+        "end": 43.632,
+        "score": -6.3778
+      },
+      {
+        "word": "four,",
+        "start_offset": 251,
+        "end_offset": 256,
+        "start": 45.153,
+        "end": 45.473,
+        "score": -6.0951
+      },
+      {
+        "word": "each",
+        "start_offset": 257,
+        "end_offset": 261,
+        "start": 46.753,
+        "end": 47.093,
+        "score": -1.078
+      },
+      {
+        "word": "squared",
+        "start_offset": 262,
+        "end_offset": 269,
+        "start": 47.874,
+        "end": 48.614,
+        "score": -2.3984
+      },
+      {
+        "word": "by",
+        "start_offset": 270,
+        "end_offset": 272,
+        "start": 49.714,
+        "end": 50.034,
+        "score": -0.8091
+      },
+      {
+        "word": "the",
+        "start_offset": 273,
+        "end_offset": 276,
+        "start": 50.734,
+        "end": 50.874,
+        "score": -0.8729
+      },
+      {
+        "word": "next",
+        "start_offset": 277,
+        "end_offset": 281,
+        "start": 51.455,
+        "end": 52.035,
+        "score": -0.9731
+      },
+      {
+        "word": "number.",
+        "start_offset": 282,
+        "end_offset": 289,
+        "start": 53.235,
+        "end": 53.655,
+        "score": -1.0497
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "007-03.mp3",
+    "audio_duration": 59.0367,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

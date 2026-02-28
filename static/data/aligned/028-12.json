@@ -1,0 +1,101 @@
+{
+  "text": "Thank you. Could you please make the instrument cough?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 0,
+        "end_offset": 10,
+        "start": 1.502,
+        "end": 1.803
+      },
+      {
+        "segment": "Could you please make the instrument cough?",
+        "start_offset": 11,
+        "end_offset": 54,
+        "start": 1.843,
+        "end": 7.131
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 1.502,
+        "end": 1.703,
+        "score": -3.0843
+      },
+      {
+        "word": "you.",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 1.723,
+        "end": 1.803,
+        "score": -2.0879
+      },
+      {
+        "word": "Could",
+        "start_offset": 11,
+        "end_offset": 16,
+        "start": 1.843,
+        "end": 2.003,
+        "score": -2.1818
+      },
+      {
+        "word": "you",
+        "start_offset": 17,
+        "end_offset": 20,
+        "start": 2.023,
+        "end": 2.083,
+        "score": -2.2003
+      },
+      {
+        "word": "please",
+        "start_offset": 21,
+        "end_offset": 27,
+        "start": 2.163,
+        "end": 2.404,
+        "score": -2.3779
+      },
+      {
+        "word": "make",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 2.444,
+        "end": 2.624,
+        "score": -1.6098
+      },
+      {
+        "word": "the",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 2.644,
+        "end": 2.724,
+        "score": -1.577
+      },
+      {
+        "word": "instrument",
+        "start_offset": 37,
+        "end_offset": 47,
+        "start": 2.804,
+        "end": 3.245,
+        "score": -0.7518
+      },
+      {
+        "word": "cough?",
+        "start_offset": 48,
+        "end_offset": 54,
+        "start": 7.031,
+        "end": 7.131,
+        "score": -5.4374
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "028-12.mp3",
+    "audio_duration": 7.1314,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

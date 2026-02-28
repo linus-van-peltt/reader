@@ -1,0 +1,128 @@
+{
+  "text": "Who went to the Orioters? I am Ra, the one known as Genghis Khan.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Who went to the Orioters?",
+        "start_offset": 8,
+        "end_offset": 29,
+        "start": 0.64,
+        "end": 2.32
+      },
+      {
+        "segment": "I am Ra, the one known as Genghis Khan.",
+        "start_offset": 75,
+        "end_offset": 232,
+        "start": 6.0,
+        "end": 18.56
+      }
+    ],
+    "word": [
+      {
+        "word": "Who",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 0.64,
+        "end": 0.96
+      },
+      {
+        "word": "went",
+        "start_offset": 12,
+        "end_offset": 15,
+        "start": 0.96,
+        "end": 1.2
+      },
+      {
+        "word": "to",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 1.2,
+        "end": 1.36
+      },
+      {
+        "word": "the",
+        "start_offset": 17,
+        "end_offset": 19,
+        "start": 1.36,
+        "end": 1.52
+      },
+      {
+        "word": "Orioters?",
+        "start_offset": 19,
+        "end_offset": 29,
+        "start": 1.52,
+        "end": 2.32
+      },
+      {
+        "word": "I",
+        "start_offset": 75,
+        "end_offset": 79,
+        "start": 6.0,
+        "end": 6.32
+      },
+      {
+        "word": "am",
+        "start_offset": 91,
+        "end_offset": 95,
+        "start": 7.28,
+        "end": 7.6000000000000005
+      },
+      {
+        "word": "Ra,",
+        "start_offset": 107,
+        "end_offset": 111,
+        "start": 8.56,
+        "end": 8.88
+      },
+      {
+        "word": "the",
+        "start_offset": 131,
+        "end_offset": 135,
+        "start": 10.48,
+        "end": 10.8
+      },
+      {
+        "word": "one",
+        "start_offset": 143,
+        "end_offset": 147,
+        "start": 11.44,
+        "end": 11.76
+      },
+      {
+        "word": "known",
+        "start_offset": 159,
+        "end_offset": 171,
+        "start": 12.72,
+        "end": 13.68
+      },
+      {
+        "word": "as",
+        "start_offset": 183,
+        "end_offset": 187,
+        "start": 14.64,
+        "end": 14.96
+      },
+      {
+        "word": "Genghis",
+        "start_offset": 202,
+        "end_offset": 215,
+        "start": 16.16,
+        "end": 17.2
+      },
+      {
+        "word": "Khan.",
+        "start_offset": 226,
+        "end_offset": 232,
+        "start": 18.080000000000002,
+        "end": 18.56
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "011-13.mp3",
+    "audio_duration": 19.04,
+    "transcription_time": 0.09,
+    "rtfx": 223.08,
+    "timestamp": "2026-01-06T21:46:47.208164+00:00"
+  }
+}

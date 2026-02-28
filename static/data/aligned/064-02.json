@@ -1,0 +1,156 @@
+{
+  "text": "Can you tell what the transitory distortion is? I am Ra. This is marginal information.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell what the transitory distortion is?",
+        "start_offset": 0,
+        "end_offset": 47,
+        "start": 2.041,
+        "end": 5.642
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 48,
+        "end_offset": 56,
+        "start": 11.205,
+        "end": 12.805
+      },
+      {
+        "segment": "This is marginal information.",
+        "start_offset": 57,
+        "end_offset": 86,
+        "start": 15.206,
+        "end": 20.608
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.041,
+        "end": 2.221,
+        "score": -1.2239
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 2.301,
+        "end": 2.381,
+        "score": -1.627
+      },
+      {
+        "word": "tell",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 2.681,
+        "end": 2.901,
+        "score": -1.2127
+      },
+      {
+        "word": "what",
+        "start_offset": 13,
+        "end_offset": 17,
+        "start": 2.941,
+        "end": 3.061,
+        "score": -1.7745
+      },
+      {
+        "word": "the",
+        "start_offset": 18,
+        "end_offset": 21,
+        "start": 3.101,
+        "end": 3.201,
+        "score": -1.2809
+      },
+      {
+        "word": "transitory",
+        "start_offset": 22,
+        "end_offset": 32,
+        "start": 3.962,
+        "end": 4.742,
+        "score": -2.0945
+      },
+      {
+        "word": "distortion",
+        "start_offset": 33,
+        "end_offset": 43,
+        "start": 4.802,
+        "end": 5.362,
+        "score": -1.8464
+      },
+      {
+        "word": "is?",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 5.442,
+        "end": 5.642,
+        "score": -2.1436
+      },
+      {
+        "word": "I",
+        "start_offset": 48,
+        "end_offset": 49,
+        "start": 11.205,
+        "end": 11.225,
+        "score": -2.2188
+      },
+      {
+        "word": "am",
+        "start_offset": 50,
+        "end_offset": 52,
+        "start": 11.905,
+        "end": 12.705,
+        "score": -3.8858
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 53,
+        "end_offset": 56,
+        "start": 12.725,
+        "end": 12.805,
+        "score": -4.7632
+      },
+      {
+        "word": "This",
+        "start_offset": 57,
+        "end_offset": 61,
+        "start": 15.206,
+        "end": 15.566,
+        "score": -0.8729
+      },
+      {
+        "word": "is",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 16.367,
+        "end": 16.667,
+        "score": -0.771
+      },
+      {
+        "word": "marginal",
+        "start_offset": 65,
+        "end_offset": 73,
+        "start": 17.407,
+        "end": 18.187,
+        "score": -0.708
+      },
+      {
+        "word": "information.",
+        "start_offset": 74,
+        "end_offset": 86,
+        "start": 19.568,
+        "end": 20.608,
+        "score": -0.7162
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "064-02.mp3",
+    "audio_duration": 21.0286,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

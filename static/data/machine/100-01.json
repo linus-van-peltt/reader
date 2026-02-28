@@ -1,0 +1,303 @@
+{
+  "text": "Could you first please give me the condition of the instrument? I am wrong. It is as previously stated with the exception of the vital energy distortion, which leans a more towards strength, weakness, and he asked asking.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you first please give me the condition of the instrument?",
+        "start_offset": 20,
+        "end_offset": 62,
+        "start": 1.6,
+        "end": 4.96
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 180,
+        "end_offset": 219,
+        "start": 14.4,
+        "end": 17.52
+      },
+      {
+        "segment": "It is as previously stated with the exception of the vital energy distortion, which leans a more towards strength, weakness, and he asked asking.",
+        "start_offset": 248,
+        "end_offset": 734,
+        "start": 19.84,
+        "end": 58.72
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 1.6,
+        "end": 1.92
+      },
+      {
+        "word": "you",
+        "start_offset": 26,
+        "end_offset": 28,
+        "start": 2.08,
+        "end": 2.24
+      },
+      {
+        "word": "first",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 2.24,
+        "end": 2.4
+      },
+      {
+        "word": "please",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 2.48,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "give",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 2.8000000000000003,
+        "end": 3.04
+      },
+      {
+        "word": "me",
+        "start_offset": 38,
+        "end_offset": 39,
+        "start": 3.04,
+        "end": 3.12
+      },
+      {
+        "word": "the",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 3.12,
+        "end": 3.36
+      },
+      {
+        "word": "condition",
+        "start_offset": 42,
+        "end_offset": 47,
+        "start": 3.36,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "of",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 3.7600000000000002,
+        "end": 3.92
+      },
+      {
+        "word": "the",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 3.92,
+        "end": 4.16
+      },
+      {
+        "word": "instrument?",
+        "start_offset": 52,
+        "end_offset": 62,
+        "start": 4.16,
+        "end": 4.96
+      },
+      {
+        "word": "I",
+        "start_offset": 180,
+        "end_offset": 184,
+        "start": 14.4,
+        "end": 14.72
+      },
+      {
+        "word": "am",
+        "start_offset": 196,
+        "end_offset": 200,
+        "start": 15.68,
+        "end": 16.0
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 211,
+        "end_offset": 219,
+        "start": 16.88,
+        "end": 17.52
+      },
+      {
+        "word": "It",
+        "start_offset": 248,
+        "end_offset": 252,
+        "start": 19.84,
+        "end": 20.16
+      },
+      {
+        "word": "is",
+        "start_offset": 260,
+        "end_offset": 264,
+        "start": 20.8,
+        "end": 21.12
+      },
+      {
+        "word": "as",
+        "start_offset": 272,
+        "end_offset": 276,
+        "start": 21.76,
+        "end": 22.080000000000002
+      },
+      {
+        "word": "previously",
+        "start_offset": 284,
+        "end_offset": 303,
+        "start": 22.72,
+        "end": 24.240000000000002
+      },
+      {
+        "word": "stated",
+        "start_offset": 323,
+        "end_offset": 335,
+        "start": 25.84,
+        "end": 26.8
+      },
+      {
+        "word": "with",
+        "start_offset": 353,
+        "end_offset": 357,
+        "start": 28.240000000000002,
+        "end": 28.560000000000002
+      },
+      {
+        "word": "the",
+        "start_offset": 361,
+        "end_offset": 365,
+        "start": 28.88,
+        "end": 29.2
+      },
+      {
+        "word": "exception",
+        "start_offset": 369,
+        "end_offset": 385,
+        "start": 29.52,
+        "end": 30.8
+      },
+      {
+        "word": "of",
+        "start_offset": 401,
+        "end_offset": 405,
+        "start": 32.08,
+        "end": 32.4
+      },
+      {
+        "word": "the",
+        "start_offset": 413,
+        "end_offset": 417,
+        "start": 33.04,
+        "end": 33.36
+      },
+      {
+        "word": "vital",
+        "start_offset": 437,
+        "end_offset": 445,
+        "start": 34.96,
+        "end": 35.6
+      },
+      {
+        "word": "energy",
+        "start_offset": 457,
+        "end_offset": 469,
+        "start": 36.56,
+        "end": 37.52
+      },
+      {
+        "word": "distortion,",
+        "start_offset": 485,
+        "end_offset": 500,
+        "start": 38.800000000000004,
+        "end": 40.0
+      },
+      {
+        "word": "which",
+        "start_offset": 516,
+        "end_offset": 520,
+        "start": 41.28,
+        "end": 41.6
+      },
+      {
+        "word": "leans",
+        "start_offset": 532,
+        "end_offset": 543,
+        "start": 42.56,
+        "end": 43.44
+      },
+      {
+        "word": "a",
+        "start_offset": 562,
+        "end_offset": 565,
+        "start": 44.96,
+        "end": 45.2
+      },
+      {
+        "word": "more",
+        "start_offset": 565,
+        "end_offset": 568,
+        "start": 45.2,
+        "end": 45.44
+      },
+      {
+        "word": "towards",
+        "start_offset": 584,
+        "end_offset": 596,
+        "start": 46.72,
+        "end": 47.68
+      },
+      {
+        "word": "strength,",
+        "start_offset": 611,
+        "end_offset": 623,
+        "start": 48.88,
+        "end": 49.84
+      },
+      {
+        "word": "weakness,",
+        "start_offset": 628,
+        "end_offset": 640,
+        "start": 50.24,
+        "end": 51.2
+      },
+      {
+        "word": "and",
+        "start_offset": 649,
+        "end_offset": 653,
+        "start": 51.92,
+        "end": 52.24
+      },
+      {
+        "word": "he",
+        "start_offset": 660,
+        "end_offset": 663,
+        "start": 52.800000000000004,
+        "end": 53.04
+      },
+      {
+        "word": "asked",
+        "start_offset": 683,
+        "end_offset": 693,
+        "start": 54.64,
+        "end": 55.44
+      },
+      {
+        "word": "asking.",
+        "start_offset": 724,
+        "end_offset": 734,
+        "start": 57.92,
+        "end": 58.72
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "100-01.mp3",
+    "audio_duration": 61.05,
+    "transcription_time": 0.12,
+    "rtfx": 504.37,
+    "timestamp": "2026-01-06T22:00:16.396533+00:00"
+  }
+}

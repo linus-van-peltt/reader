@@ -1,0 +1,133 @@
+{
+  "text": "Does it appear correctly aligned now? I judge it within limits of acceptability.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Does it appear correctly aligned now?",
+        "start_offset": 0,
+        "end_offset": 37,
+        "start": 3.262,
+        "end": 4.183
+      },
+      {
+        "segment": "I judge it within limits of acceptability.",
+        "start_offset": 38,
+        "end_offset": 80,
+        "start": 11.827,
+        "end": 21.273
+      }
+    ],
+    "word": [
+      {
+        "word": "Does",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 3.262,
+        "end": 3.402,
+        "score": -7.078
+      },
+      {
+        "word": "it",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 3.422,
+        "end": 3.462,
+        "score": -6.7802
+      },
+      {
+        "word": "appear",
+        "start_offset": 8,
+        "end_offset": 14,
+        "start": 3.482,
+        "end": 3.622,
+        "score": -6.8781
+      },
+      {
+        "word": "correctly",
+        "start_offset": 15,
+        "end_offset": 24,
+        "start": 3.642,
+        "end": 3.842,
+        "score": -8.0044
+      },
+      {
+        "word": "aligned",
+        "start_offset": 25,
+        "end_offset": 32,
+        "start": 3.862,
+        "end": 4.002,
+        "score": -7.7185
+      },
+      {
+        "word": "now?",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 4.022,
+        "end": 4.183,
+        "score": -7.7604
+      },
+      {
+        "word": "I",
+        "start_offset": 38,
+        "end_offset": 39,
+        "start": 11.827,
+        "end": 11.847,
+        "score": -0.7201
+      },
+      {
+        "word": "judge",
+        "start_offset": 40,
+        "end_offset": 45,
+        "start": 12.428,
+        "end": 12.908,
+        "score": -0.8348
+      },
+      {
+        "word": "it",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 13.809,
+        "end": 13.969,
+        "score": -0.7109
+      },
+      {
+        "word": "within",
+        "start_offset": 49,
+        "end_offset": 55,
+        "start": 14.549,
+        "end": 14.989,
+        "score": -0.7177
+      },
+      {
+        "word": "limits",
+        "start_offset": 56,
+        "end_offset": 62,
+        "start": 16.07,
+        "end": 16.51,
+        "score": -2.3434
+      },
+      {
+        "word": "of",
+        "start_offset": 63,
+        "end_offset": 65,
+        "start": 17.551,
+        "end": 17.731,
+        "score": -1.1028
+      },
+      {
+        "word": "acceptability.",
+        "start_offset": 66,
+        "end_offset": 80,
+        "start": 18.431,
+        "end": 21.273,
+        "score": -1.0477
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "003-05.mp3",
+    "audio_duration": 27.0368,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

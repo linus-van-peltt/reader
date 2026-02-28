@@ -1,0 +1,93 @@
+{
+  "text": "28, February 22nd, 1981. Raw 28, February 22nd, 1988.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "28, February 22nd, 1981.",
+        "start_offset": 8,
+        "end_offset": 42,
+        "start": 0.64,
+        "end": 3.36
+      },
+      {
+        "segment": "Raw 28, February 22nd, 1988.",
+        "start_offset": 46,
+        "end_offset": 75,
+        "start": 3.68,
+        "end": 6.0
+      }
+    ],
+    "word": [
+      {
+        "word": "28,",
+        "start_offset": 8,
+        "end_offset": 13,
+        "start": 0.64,
+        "end": 1.04
+      },
+      {
+        "word": "February",
+        "start_offset": 15,
+        "end_offset": 21,
+        "start": 1.2,
+        "end": 1.68
+      },
+      {
+        "word": "22nd,",
+        "start_offset": 21,
+        "end_offset": 29,
+        "start": 1.68,
+        "end": 2.32
+      },
+      {
+        "word": "1981.",
+        "start_offset": 30,
+        "end_offset": 42,
+        "start": 2.4,
+        "end": 3.36
+      },
+      {
+        "word": "Raw",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 3.68,
+        "end": 4.0
+      },
+      {
+        "word": "28,",
+        "start_offset": 52,
+        "end_offset": 56,
+        "start": 4.16,
+        "end": 4.48
+      },
+      {
+        "word": "February",
+        "start_offset": 59,
+        "end_offset": 65,
+        "start": 4.72,
+        "end": 5.2
+      },
+      {
+        "word": "22nd,",
+        "start_offset": 65,
+        "end_offset": 70,
+        "start": 5.2,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "1988.",
+        "start_offset": 71,
+        "end_offset": 75,
+        "start": 5.68,
+        "end": 6.0
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "028-00.mp3",
+    "audio_duration": 11.05,
+    "transcription_time": 0.08,
+    "rtfx": 130.7,
+    "timestamp": "2026-01-06T21:49:19.607356+00:00"
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "text": "I am assuming you mean Thomas Edison and Benjamin Franklin? This is incorrect. We were intending to convey the sound vibration complex, Thomas Jefferson. The other, correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I am assuming you mean Thomas Edison and Benjamin Franklin?",
+        "start_offset": 0,
+        "end_offset": 59,
+        "start": 1.96,
+        "end": 8.122
+      },
+      {
+        "segment": "This is incorrect.",
+        "start_offset": 60,
+        "end_offset": 78,
+        "start": 8.242,
+        "end": 13.303
+      },
+      {
+        "segment": "We were intending to convey the sound vibration complex, Thomas Jefferson.",
+        "start_offset": 79,
+        "end_offset": 153,
+        "start": 16.084,
+        "end": 37.068
+      },
+      {
+        "segment": "The other, correct.",
+        "start_offset": 154,
+        "end_offset": 173,
+        "start": 38.729,
+        "end": 42.23
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 1.96,
+        "end": 1.98,
+        "score": -9.2359
+      },
+      {
+        "word": "am",
+        "start_offset": 2,
+        "end_offset": 4,
+        "start": 2.02,
+        "end": 2.06,
+        "score": -6.8554
+      },
+      {
+        "word": "assuming",
+        "start_offset": 5,
+        "end_offset": 13,
+        "start": 2.1,
+        "end": 2.461,
+        "score": -7.5664
+      },
+      {
+        "word": "you",
+        "start_offset": 14,
+        "end_offset": 17,
+        "start": 2.481,
+        "end": 2.541,
+        "score": -10.0341
+      },
+      {
+        "word": "mean",
+        "start_offset": 18,
+        "end_offset": 22,
+        "start": 2.561,
+        "end": 2.681,
+        "score": -6.9338
+      },
+      {
+        "word": "Thomas",
+        "start_offset": 23,
+        "end_offset": 29,
+        "start": 2.841,
+        "end": 3.181,
+        "score": -6.0503
+      },
+      {
+        "word": "Edison",
+        "start_offset": 30,
+        "end_offset": 36,
+        "start": 3.261,
+        "end": 3.581,
+        "score": -7.0313
+      },
+      {
+        "word": "and",
+        "start_offset": 37,
+        "end_offset": 40,
+        "start": 3.641,
+        "end": 3.761,
+        "score": -7.9766
+      },
+      {
+        "word": "Benjamin",
+        "start_offset": 41,
+        "end_offset": 49,
+        "start": 3.821,
+        "end": 4.221,
+        "score": -6.0984
+      },
+      {
+        "word": "Franklin?",
+        "start_offset": 50,
+        "end_offset": 59,
+        "start": 4.281,
+        "end": 8.122,
+        "score": -7.3995
+      },
+      {
+        "word": "This",
+        "start_offset": 60,
+        "end_offset": 64,
+        "start": 8.242,
+        "end": 8.842,
+        "score": -1.2366
+      },
+      {
+        "word": "is",
+        "start_offset": 65,
+        "end_offset": 67,
+        "start": 9.782,
+        "end": 10.222,
+        "score": -0.9664
+      },
+      {
+        "word": "incorrect.",
+        "start_offset": 68,
+        "end_offset": 78,
+        "start": 10.942,
+        "end": 13.303,
+        "score": -1.288
+      },
+      {
+        "word": "We",
+        "start_offset": 79,
+        "end_offset": 81,
+        "start": 16.084,
+        "end": 16.244,
+        "score": -1.6476
+      },
+      {
+        "word": "were",
+        "start_offset": 82,
+        "end_offset": 86,
+        "start": 18.484,
+        "end": 18.924,
+        "score": -1.9453
+      },
+      {
+        "word": "intending",
+        "start_offset": 87,
+        "end_offset": 96,
+        "start": 19.765,
+        "end": 21.445,
+        "score": -0.7234
+      },
+      {
+        "word": "to",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 21.885,
+        "end": 22.165,
+        "score": -1.0971
+      },
+      {
+        "word": "convey",
+        "start_offset": 100,
+        "end_offset": 106,
+        "start": 22.665,
+        "end": 23.825,
+        "score": -2.0467
+      },
+      {
+        "word": "the",
+        "start_offset": 107,
+        "end_offset": 110,
+        "start": 25.246,
+        "end": 25.406,
+        "score": -0.7935
+      },
+      {
+        "word": "sound",
+        "start_offset": 111,
+        "end_offset": 116,
+        "start": 26.246,
+        "end": 26.946,
+        "score": -0.7361
+      },
+      {
+        "word": "vibration",
+        "start_offset": 117,
+        "end_offset": 126,
+        "start": 27.546,
+        "end": 29.047,
+        "score": -0.7272
+      },
+      {
+        "word": "complex,",
+        "start_offset": 127,
+        "end_offset": 135,
+        "start": 30.087,
+        "end": 31.307,
+        "score": -0.6994
+      },
+      {
+        "word": "Thomas",
+        "start_offset": 136,
+        "end_offset": 142,
+        "start": 32.707,
+        "end": 34.068,
+        "score": -0.9561
+      },
+      {
+        "word": "Jefferson.",
+        "start_offset": 143,
+        "end_offset": 153,
+        "start": 35.408,
+        "end": 37.068,
+        "score": -0.9998
+      },
+      {
+        "word": "The",
+        "start_offset": 154,
+        "end_offset": 157,
+        "start": 38.729,
+        "end": 38.909,
+        "score": -0.8545
+      },
+      {
+        "word": "other,",
+        "start_offset": 158,
+        "end_offset": 164,
+        "start": 39.589,
+        "end": 40.109,
+        "score": -0.7568
+      },
+      {
+        "word": "correct.",
+        "start_offset": 165,
+        "end_offset": 173,
+        "start": 40.989,
+        "end": 42.23,
+        "score": -0.8247
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "026-16.mp3",
+    "audio_duration": 43.0498,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

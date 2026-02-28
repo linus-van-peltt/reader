@@ -1,0 +1,282 @@
+{
+  "text": "It would be unlike a man if you're fully aware of the knowledge of the law of one who would ever say, Thou shalt not. Is this correct? I am wrong. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "It would be unlike a man if you're fully aware of the knowledge of the law of one who would ever say, Thou shalt not.",
+        "start_offset": 42,
+        "end_offset": 173,
+        "start": 3.36,
+        "end": 13.84
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 180,
+        "end_offset": 196,
+        "start": 14.4,
+        "end": 15.68
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 224,
+        "end_offset": 247,
+        "start": 17.92,
+        "end": 19.76
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 258,
+        "end_offset": 293,
+        "start": 20.64,
+        "end": 23.44
+      }
+    ],
+    "word": [
+      {
+        "word": "It",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 3.36,
+        "end": 3.68
+      },
+      {
+        "word": "would",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 3.68,
+        "end": 4.0
+      },
+      {
+        "word": "be",
+        "start_offset": 50,
+        "end_offset": 54,
+        "start": 4.0,
+        "end": 4.32
+      },
+      {
+        "word": "unlike",
+        "start_offset": 78,
+        "end_offset": 85,
+        "start": 6.24,
+        "end": 6.8
+      },
+      {
+        "word": "a",
+        "start_offset": 87,
+        "end_offset": 88,
+        "start": 6.96,
+        "end": 7.04
+      },
+      {
+        "word": "man",
+        "start_offset": 90,
+        "end_offset": 91,
+        "start": 7.2,
+        "end": 7.28
+      },
+      {
+        "word": "if",
+        "start_offset": 92,
+        "end_offset": 93,
+        "start": 7.36,
+        "end": 7.44
+      },
+      {
+        "word": "you're",
+        "start_offset": 98,
+        "end_offset": 100,
+        "start": 7.84,
+        "end": 8.0
+      },
+      {
+        "word": "fully",
+        "start_offset": 100,
+        "end_offset": 106,
+        "start": 8.0,
+        "end": 8.48
+      },
+      {
+        "word": "aware",
+        "start_offset": 106,
+        "end_offset": 114,
+        "start": 8.48,
+        "end": 9.120000000000001
+      },
+      {
+        "word": "of",
+        "start_offset": 114,
+        "end_offset": 118,
+        "start": 9.120000000000001,
+        "end": 9.44
+      },
+      {
+        "word": "the",
+        "start_offset": 120,
+        "end_offset": 124,
+        "start": 9.6,
+        "end": 9.92
+      },
+      {
+        "word": "knowledge",
+        "start_offset": 124,
+        "end_offset": 129,
+        "start": 9.92,
+        "end": 10.32
+      },
+      {
+        "word": "of",
+        "start_offset": 129,
+        "end_offset": 131,
+        "start": 10.32,
+        "end": 10.48
+      },
+      {
+        "word": "the",
+        "start_offset": 131,
+        "end_offset": 133,
+        "start": 10.48,
+        "end": 10.64
+      },
+      {
+        "word": "law",
+        "start_offset": 133,
+        "end_offset": 135,
+        "start": 10.64,
+        "end": 10.8
+      },
+      {
+        "word": "of",
+        "start_offset": 135,
+        "end_offset": 137,
+        "start": 10.8,
+        "end": 10.96
+      },
+      {
+        "word": "one",
+        "start_offset": 137,
+        "end_offset": 139,
+        "start": 10.96,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "who",
+        "start_offset": 141,
+        "end_offset": 142,
+        "start": 11.28,
+        "end": 11.36
+      },
+      {
+        "word": "would",
+        "start_offset": 143,
+        "end_offset": 144,
+        "start": 11.44,
+        "end": 11.52
+      },
+      {
+        "word": "ever",
+        "start_offset": 145,
+        "end_offset": 146,
+        "start": 11.6,
+        "end": 11.68
+      },
+      {
+        "word": "say,",
+        "start_offset": 148,
+        "end_offset": 151,
+        "start": 11.84,
+        "end": 12.08
+      },
+      {
+        "word": "Thou",
+        "start_offset": 157,
+        "end_offset": 163,
+        "start": 12.56,
+        "end": 13.040000000000001
+      },
+      {
+        "word": "shalt",
+        "start_offset": 163,
+        "end_offset": 170,
+        "start": 13.040000000000001,
+        "end": 13.6
+      },
+      {
+        "word": "not.",
+        "start_offset": 170,
+        "end_offset": 173,
+        "start": 13.6,
+        "end": 13.84
+      },
+      {
+        "word": "Is",
+        "start_offset": 180,
+        "end_offset": 183,
+        "start": 14.4,
+        "end": 14.64
+      },
+      {
+        "word": "this",
+        "start_offset": 183,
+        "end_offset": 185,
+        "start": 14.64,
+        "end": 14.8
+      },
+      {
+        "word": "correct?",
+        "start_offset": 187,
+        "end_offset": 196,
+        "start": 14.96,
+        "end": 15.68
+      },
+      {
+        "word": "I",
+        "start_offset": 224,
+        "end_offset": 228,
+        "start": 17.92,
+        "end": 18.240000000000002
+      },
+      {
+        "word": "am",
+        "start_offset": 232,
+        "end_offset": 236,
+        "start": 18.56,
+        "end": 18.88
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 240,
+        "end_offset": 247,
+        "start": 19.2,
+        "end": 19.76
+      },
+      {
+        "word": "This",
+        "start_offset": 258,
+        "end_offset": 262,
+        "start": 20.64,
+        "end": 20.96
+      },
+      {
+        "word": "is",
+        "start_offset": 270,
+        "end_offset": 274,
+        "start": 21.6,
+        "end": 21.92
+      },
+      {
+        "word": "correct.",
+        "start_offset": 278,
+        "end_offset": 293,
+        "start": 22.240000000000002,
+        "end": 23.44
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-20.mp3",
+    "audio_duration": 29.05,
+    "transcription_time": 0.1,
+    "rtfx": 303.72,
+    "timestamp": "2026-01-06T21:47:33.523678+00:00"
+  }
+}

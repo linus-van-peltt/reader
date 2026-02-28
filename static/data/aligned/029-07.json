@@ -1,0 +1,276 @@
+{
+  "text": "Would you tell me what one of those— Would you give me an example of one of those… I'll call sub-sub-Logos? I am Ra. One example is your mind/body/spirit complex.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would you tell me what one of those— Would you give me an example of one of those… I'll call sub-sub-Logos?",
+        "start_offset": 0,
+        "end_offset": 107,
+        "start": 0.48,
+        "end": 7.586
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 108,
+        "end_offset": 116,
+        "start": 10.528,
+        "end": 13.15
+      },
+      {
+        "segment": "One example is your mind/body/spirit complex.",
+        "start_offset": 117,
+        "end_offset": 162,
+        "start": 14.952,
+        "end": 25.72
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 0.48,
+        "end": 0.62,
+        "score": -7.749
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 0.681,
+        "end": 0.761,
+        "score": -0.731
+      },
+      {
+        "word": "tell",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 1.001,
+        "end": 1.201,
+        "score": -0.7319
+      },
+      {
+        "word": "me",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 1.241,
+        "end": 1.321,
+        "score": -0.7403
+      },
+      {
+        "word": "what",
+        "start_offset": 18,
+        "end_offset": 22,
+        "start": 2.582,
+        "end": 2.762,
+        "score": -0.7907
+      },
+      {
+        "word": "one",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 2.902,
+        "end": 3.002,
+        "score": -0.764
+      },
+      {
+        "word": "of",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 3.042,
+        "end": 3.102,
+        "score": -0.8255
+      },
+      {
+        "word": "those—",
+        "start_offset": 30,
+        "end_offset": 36,
+        "start": 3.142,
+        "end": 3.463,
+        "score": -0.8346
+      },
+      {
+        "word": "Would",
+        "start_offset": 37,
+        "end_offset": 42,
+        "start": 3.563,
+        "end": 3.703,
+        "score": -7.9852
+      },
+      {
+        "word": "you",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 3.743,
+        "end": 3.823,
+        "score": -0.7223
+      },
+      {
+        "word": "give",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 3.843,
+        "end": 3.963,
+        "score": -9.9769
+      },
+      {
+        "word": "me",
+        "start_offset": 52,
+        "end_offset": 54,
+        "start": 4.003,
+        "end": 4.043,
+        "score": -0.9194
+      },
+      {
+        "word": "an",
+        "start_offset": 55,
+        "end_offset": 57,
+        "start": 4.103,
+        "end": 4.143,
+        "score": -0.9184
+      },
+      {
+        "word": "example",
+        "start_offset": 58,
+        "end_offset": 65,
+        "start": 4.163,
+        "end": 4.604,
+        "score": -0.7276
+      },
+      {
+        "word": "of",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 4.644,
+        "end": 4.704,
+        "score": -1.4925
+      },
+      {
+        "word": "one",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 4.804,
+        "end": 4.884,
+        "score": -0.9621
+      },
+      {
+        "word": "of",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 4.924,
+        "end": 4.964,
+        "score": -1.134
+      },
+      {
+        "word": "those…",
+        "start_offset": 76,
+        "end_offset": 82,
+        "start": 4.984,
+        "end": 5.264,
+        "score": -1.0926
+      },
+      {
+        "word": "I'll",
+        "start_offset": 83,
+        "end_offset": 87,
+        "start": 5.985,
+        "end": 6.085,
+        "score": -3.1021
+      },
+      {
+        "word": "call",
+        "start_offset": 88,
+        "end_offset": 92,
+        "start": 6.105,
+        "end": 6.285,
+        "score": -1.8332
+      },
+      {
+        "word": "sub-sub-Logos?",
+        "start_offset": 93,
+        "end_offset": 107,
+        "start": 6.405,
+        "end": 7.586,
+        "score": -0.81
+      },
+      {
+        "word": "I",
+        "start_offset": 108,
+        "end_offset": 109,
+        "start": 10.528,
+        "end": 10.548,
+        "score": -1.5262
+      },
+      {
+        "word": "am",
+        "start_offset": 110,
+        "end_offset": 112,
+        "start": 11.529,
+        "end": 11.849,
+        "score": -3.001
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 113,
+        "end_offset": 116,
+        "start": 13.01,
+        "end": 13.15,
+        "score": -2.1294
+      },
+      {
+        "word": "One",
+        "start_offset": 117,
+        "end_offset": 120,
+        "start": 14.952,
+        "end": 15.212,
+        "score": -0.7707
+      },
+      {
+        "word": "example",
+        "start_offset": 121,
+        "end_offset": 128,
+        "start": 16.253,
+        "end": 17.173,
+        "score": -0.788
+      },
+      {
+        "word": "is",
+        "start_offset": 129,
+        "end_offset": 131,
+        "start": 18.354,
+        "end": 18.674,
+        "score": -0.7028
+      },
+      {
+        "word": "your",
+        "start_offset": 132,
+        "end_offset": 136,
+        "start": 19.455,
+        "end": 19.855,
+        "score": -0.804
+      },
+      {
+        "word": "mind/body/spirit",
+        "start_offset": 137,
+        "end_offset": 153,
+        "start": 20.916,
+        "end": 24.018,
+        "score": -0.7006
+      },
+      {
+        "word": "complex.",
+        "start_offset": 154,
+        "end_offset": 162,
+        "start": 24.919,
+        "end": 25.72,
+        "score": -0.7127
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "029-07.mp3",
+    "audio_duration": 26.5404,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

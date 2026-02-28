@@ -1,0 +1,276 @@
+{
+  "text": "Is the reason for the lack of usual level of protection the fact that it has been a considerable time since we have worked in here? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is the reason for the lack of usual level of protection the fact that it has been a considerable time since we have worked in here?",
+        "start_offset": 0,
+        "end_offset": 131,
+        "start": 1.821,
+        "end": 7.645
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 132,
+        "end_offset": 140,
+        "start": 16.331,
+        "end": 16.491
+      },
+      {
+        "segment": "No.",
+        "start_offset": 141,
+        "end_offset": 144,
+        "start": 16.512,
+        "end": 16.552
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 1.821,
+        "end": 1.901,
+        "score": -0.9274
+      },
+      {
+        "word": "the",
+        "start_offset": 3,
+        "end_offset": 6,
+        "start": 1.921,
+        "end": 2.021,
+        "score": -0.8029
+      },
+      {
+        "word": "reason",
+        "start_offset": 7,
+        "end_offset": 13,
+        "start": 2.081,
+        "end": 2.362,
+        "score": -0.6982
+      },
+      {
+        "word": "for",
+        "start_offset": 14,
+        "end_offset": 17,
+        "start": 2.422,
+        "end": 2.522,
+        "score": -0.712
+      },
+      {
+        "word": "the",
+        "start_offset": 18,
+        "end_offset": 21,
+        "start": 2.562,
+        "end": 2.642,
+        "score": -0.7935
+      },
+      {
+        "word": "lack",
+        "start_offset": 22,
+        "end_offset": 26,
+        "start": 2.702,
+        "end": 2.902,
+        "score": -0.7119
+      },
+      {
+        "word": "of",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 2.962,
+        "end": 3.042,
+        "score": -0.7628
+      },
+      {
+        "word": "usual",
+        "start_offset": 30,
+        "end_offset": 35,
+        "start": 3.122,
+        "end": 3.362,
+        "score": -0.6947
+      },
+      {
+        "word": "level",
+        "start_offset": 36,
+        "end_offset": 41,
+        "start": 3.422,
+        "end": 3.643,
+        "score": -0.7103
+      },
+      {
+        "word": "of",
+        "start_offset": 42,
+        "end_offset": 44,
+        "start": 3.683,
+        "end": 3.743,
+        "score": -0.7602
+      },
+      {
+        "word": "protection",
+        "start_offset": 45,
+        "end_offset": 55,
+        "start": 3.783,
+        "end": 4.223,
+        "score": -1.0669
+      },
+      {
+        "word": "the",
+        "start_offset": 56,
+        "end_offset": 59,
+        "start": 4.243,
+        "end": 4.303,
+        "score": -5.4888
+      },
+      {
+        "word": "fact",
+        "start_offset": 60,
+        "end_offset": 64,
+        "start": 4.383,
+        "end": 4.623,
+        "score": -2.6759
+      },
+      {
+        "word": "that",
+        "start_offset": 65,
+        "end_offset": 69,
+        "start": 4.643,
+        "end": 4.743,
+        "score": -2.5571
+      },
+      {
+        "word": "it",
+        "start_offset": 70,
+        "end_offset": 72,
+        "start": 4.763,
+        "end": 4.823,
+        "score": -4.4092
+      },
+      {
+        "word": "has",
+        "start_offset": 73,
+        "end_offset": 76,
+        "start": 4.883,
+        "end": 4.983,
+        "score": -0.8693
+      },
+      {
+        "word": "been",
+        "start_offset": 77,
+        "end_offset": 81,
+        "start": 5.064,
+        "end": 5.244,
+        "score": -0.7837
+      },
+      {
+        "word": "a",
+        "start_offset": 82,
+        "end_offset": 83,
+        "start": 5.464,
+        "end": 5.484,
+        "score": -5.4139
+      },
+      {
+        "word": "considerable",
+        "start_offset": 84,
+        "end_offset": 96,
+        "start": 5.544,
+        "end": 6.064,
+        "score": -1.2208
+      },
+      {
+        "word": "time",
+        "start_offset": 97,
+        "end_offset": 101,
+        "start": 6.104,
+        "end": 6.384,
+        "score": -2.8769
+      },
+      {
+        "word": "since",
+        "start_offset": 102,
+        "end_offset": 107,
+        "start": 6.465,
+        "end": 6.665,
+        "score": -0.7993
+      },
+      {
+        "word": "we",
+        "start_offset": 108,
+        "end_offset": 110,
+        "start": 6.705,
+        "end": 6.785,
+        "score": -1.4415
+      },
+      {
+        "word": "have",
+        "start_offset": 111,
+        "end_offset": 115,
+        "start": 6.825,
+        "end": 6.945,
+        "score": -1.5779
+      },
+      {
+        "word": "worked",
+        "start_offset": 116,
+        "end_offset": 122,
+        "start": 6.965,
+        "end": 7.225,
+        "score": -0.8796
+      },
+      {
+        "word": "in",
+        "start_offset": 123,
+        "end_offset": 125,
+        "start": 7.305,
+        "end": 7.385,
+        "score": -1.0087
+      },
+      {
+        "word": "here?",
+        "start_offset": 126,
+        "end_offset": 131,
+        "start": 7.445,
+        "end": 7.645,
+        "score": -0.994
+      },
+      {
+        "word": "I",
+        "start_offset": 132,
+        "end_offset": 133,
+        "start": 16.331,
+        "end": 16.351,
+        "score": -7.9834
+      },
+      {
+        "word": "am",
+        "start_offset": 134,
+        "end_offset": 136,
+        "start": 16.371,
+        "end": 16.411,
+        "score": -8.6978
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 137,
+        "end_offset": 140,
+        "start": 16.431,
+        "end": 16.491,
+        "score": -10.2223
+      },
+      {
+        "word": "No.",
+        "start_offset": 141,
+        "end_offset": 144,
+        "start": 16.512,
+        "end": 16.552,
+        "score": -9.2813
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "103-17.mp3",
+    "audio_duration": 17.0319,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "text": "Are these particular entities all uniquely the same, or are they just random entities? I am Ra. The latter is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Are these particular entities all uniquely the same, or are they just random entities?",
+        "start_offset": 0,
+        "end_offset": 86,
+        "start": 3.061,
+        "end": 12.504
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 87,
+        "end_offset": 95,
+        "start": 15.365,
+        "end": 17.026
+      },
+      {
+        "segment": "The latter is correct.",
+        "start_offset": 96,
+        "end_offset": 118,
+        "start": 18.126,
+        "end": 20.927
+      }
+    ],
+    "word": [
+      {
+        "word": "Are",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 3.061,
+        "end": 3.221,
+        "score": -2.9461
+      },
+      {
+        "word": "these",
+        "start_offset": 4,
+        "end_offset": 9,
+        "start": 3.301,
+        "end": 3.721,
+        "score": -1.5286
+      },
+      {
+        "word": "particular",
+        "start_offset": 10,
+        "end_offset": 20,
+        "start": 5.902,
+        "end": 6.382,
+        "score": -2.6732
+      },
+      {
+        "word": "entities",
+        "start_offset": 21,
+        "end_offset": 29,
+        "start": 6.522,
+        "end": 7.002,
+        "score": -2.0721
+      },
+      {
+        "word": "all",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 7.903,
+        "end": 8.083,
+        "score": -0.8241
+      },
+      {
+        "word": "uniquely",
+        "start_offset": 34,
+        "end_offset": 42,
+        "start": 8.603,
+        "end": 8.983,
+        "score": -3.0453
+      },
+      {
+        "word": "the",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 9.003,
+        "end": 9.083,
+        "score": -1.7092
+      },
+      {
+        "word": "same,",
+        "start_offset": 47,
+        "end_offset": 52,
+        "start": 9.183,
+        "end": 9.463,
+        "score": -1.7969
+      },
+      {
+        "word": "or",
+        "start_offset": 53,
+        "end_offset": 55,
+        "start": 9.523,
+        "end": 9.583,
+        "score": -3.702
+      },
+      {
+        "word": "are",
+        "start_offset": 56,
+        "end_offset": 59,
+        "start": 11.184,
+        "end": 11.304,
+        "score": -1.9477
+      },
+      {
+        "word": "they",
+        "start_offset": 60,
+        "end_offset": 64,
+        "start": 11.344,
+        "end": 11.464,
+        "score": -4.3834
+      },
+      {
+        "word": "just",
+        "start_offset": 65,
+        "end_offset": 69,
+        "start": 11.504,
+        "end": 11.664,
+        "score": -2.467
+      },
+      {
+        "word": "random",
+        "start_offset": 70,
+        "end_offset": 76,
+        "start": 11.724,
+        "end": 12.064,
+        "score": -1.5784
+      },
+      {
+        "word": "entities?",
+        "start_offset": 77,
+        "end_offset": 86,
+        "start": 12.124,
+        "end": 12.504,
+        "score": -3.0761
+      },
+      {
+        "word": "I",
+        "start_offset": 87,
+        "end_offset": 88,
+        "start": 15.365,
+        "end": 15.385,
+        "score": -0.7236
+      },
+      {
+        "word": "am",
+        "start_offset": 89,
+        "end_offset": 91,
+        "start": 16.045,
+        "end": 16.265,
+        "score": -1.0136
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 92,
+        "end_offset": 95,
+        "start": 16.866,
+        "end": 17.026,
+        "score": -2.3606
+      },
+      {
+        "word": "The",
+        "start_offset": 96,
+        "end_offset": 99,
+        "start": 18.126,
+        "end": 18.246,
+        "score": -0.7534
+      },
+      {
+        "word": "latter",
+        "start_offset": 100,
+        "end_offset": 106,
+        "start": 18.746,
+        "end": 19.166,
+        "score": -0.8682
+      },
+      {
+        "word": "is",
+        "start_offset": 107,
+        "end_offset": 109,
+        "start": 19.767,
+        "end": 19.987,
+        "score": -0.7994
+      },
+      {
+        "word": "correct.",
+        "start_offset": 110,
+        "end_offset": 118,
+        "start": 20.227,
+        "end": 20.927,
+        "score": -0.8731
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "017-28.mp3",
+    "audio_duration": 22.0474,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

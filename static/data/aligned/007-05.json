@@ -1,0 +1,569 @@
+{
+  "text": "What would be the result of this calculation? The result is difficult to transmit. It is one thousand and twelve 1, 012, approximately. The entities who call are sometimes not totally unified in their calling and, thus, the squaring is slightly less. Thus, there is a statistical loss over a period of call. However, perhaps you may see by this statistically corrected information the squaring mechanism.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What would be the result of this calculation?",
+        "start_offset": 0,
+        "end_offset": 45,
+        "start": 2.64,
+        "end": 5.34
+      },
+      {
+        "segment": "The result is difficult to transmit.",
+        "start_offset": 46,
+        "end_offset": 82,
+        "start": 29.702,
+        "end": 38.503
+      },
+      {
+        "segment": "It is one thousand and twelve approximately.",
+        "start_offset": 83,
+        "end_offset": 135,
+        "start": 39.683,
+        "end": 52.523
+      },
+      {
+        "segment": "The entities who call are sometimes not totally unified in their calling and, thus, the squaring is slightly less.",
+        "start_offset": 136,
+        "end_offset": 250,
+        "start": 53.904,
+        "end": 83.805
+      },
+      {
+        "segment": "Thus, there is a statistical loss over a period of call.",
+        "start_offset": 251,
+        "end_offset": 307,
+        "start": 84.966,
+        "end": 99.407
+      },
+      {
+        "segment": "However, perhaps you may see by this statistically corrected information the squaring mechanism.",
+        "start_offset": 308,
+        "end_offset": 404,
+        "start": 101.807,
+        "end": 123.788
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.64,
+        "end": 2.8,
+        "score": -8.6602
+      },
+      {
+        "word": "would",
+        "start_offset": 5,
+        "end_offset": 10,
+        "start": 2.82,
+        "end": 2.96,
+        "score": -9.9879
+      },
+      {
+        "word": "be",
+        "start_offset": 11,
+        "end_offset": 13,
+        "start": 2.98,
+        "end": 3.08,
+        "score": -8.8125
+      },
+      {
+        "word": "the",
+        "start_offset": 14,
+        "end_offset": 17,
+        "start": 3.16,
+        "end": 3.24,
+        "score": -9.0915
+      },
+      {
+        "word": "result",
+        "start_offset": 18,
+        "end_offset": 24,
+        "start": 3.34,
+        "end": 3.82,
+        "score": -8.411
+      },
+      {
+        "word": "of",
+        "start_offset": 25,
+        "end_offset": 27,
+        "start": 4.16,
+        "end": 4.26,
+        "score": -7.2339
+      },
+      {
+        "word": "this",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 4.3,
+        "end": 4.5,
+        "score": -6.994
+      },
+      {
+        "word": "calculation?",
+        "start_offset": 33,
+        "end_offset": 45,
+        "start": 4.56,
+        "end": 5.34,
+        "score": -8.3829
+      },
+      {
+        "word": "The",
+        "start_offset": 46,
+        "end_offset": 49,
+        "start": 29.702,
+        "end": 29.842,
+        "score": -0.7761
+      },
+      {
+        "word": "result",
+        "start_offset": 50,
+        "end_offset": 56,
+        "start": 30.702,
+        "end": 31.482,
+        "score": -0.695
+      },
+      {
+        "word": "is",
+        "start_offset": 57,
+        "end_offset": 59,
+        "start": 32.722,
+        "end": 33.002,
+        "score": -0.7062
+      },
+      {
+        "word": "difficult",
+        "start_offset": 60,
+        "end_offset": 69,
+        "start": 34.502,
+        "end": 35.242,
+        "score": -0.6969
+      },
+      {
+        "word": "to",
+        "start_offset": 70,
+        "end_offset": 72,
+        "start": 35.922,
+        "end": 36.082,
+        "score": -0.6991
+      },
+      {
+        "word": "transmit.",
+        "start_offset": 73,
+        "end_offset": 82,
+        "start": 36.882,
+        "end": 38.503,
+        "score": -0.7351
+      },
+      {
+        "word": "It",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 39.683,
+        "end": 39.923,
+        "score": -0.7133
+      },
+      {
+        "word": "is",
+        "start_offset": 86,
+        "end_offset": 88,
+        "start": 41.003,
+        "end": 41.263,
+        "score": -0.7215
+      },
+      {
+        "word": "one",
+        "start_offset": 89,
+        "end_offset": 92,
+        "start": 42.603,
+        "end": 42.863,
+        "score": -0.9515
+      },
+      {
+        "word": "thousand",
+        "start_offset": 93,
+        "end_offset": 101,
+        "start": 43.843,
+        "end": 44.723,
+        "score": -1.0457
+      },
+      {
+        "word": "and",
+        "start_offset": 102,
+        "end_offset": 105,
+        "start": 46.203,
+        "end": 46.483,
+        "score": -0.9252
+      },
+      {
+        "word": "twelve",
+        "start_offset": 106,
+        "end_offset": 112,
+        "start": 47.883,
+        "end": 48.663,
+        "score": -1.9421
+      },
+      {
+        "word": "approximately.",
+        "start_offset": 121,
+        "end_offset": 135,
+        "start": 49.903,
+        "end": 52.523,
+        "score": -1.748
+      },
+      {
+        "word": "The",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 53.904,
+        "end": 54.044,
+        "score": -0.7173
+      },
+      {
+        "word": "entities",
+        "start_offset": 140,
+        "end_offset": 148,
+        "start": 55.164,
+        "end": 55.904,
+        "score": -0.7039
+      },
+      {
+        "word": "who",
+        "start_offset": 149,
+        "end_offset": 152,
+        "start": 56.824,
+        "end": 56.964,
+        "score": -0.7335
+      },
+      {
+        "word": "call",
+        "start_offset": 153,
+        "end_offset": 157,
+        "start": 58.084,
+        "end": 58.644,
+        "score": -1.1658
+      },
+      {
+        "word": "are",
+        "start_offset": 158,
+        "end_offset": 161,
+        "start": 59.944,
+        "end": 60.244,
+        "score": -0.7757
+      },
+      {
+        "word": "sometimes",
+        "start_offset": 162,
+        "end_offset": 171,
+        "start": 61.404,
+        "end": 63.284,
+        "score": -0.7048
+      },
+      {
+        "word": "not",
+        "start_offset": 172,
+        "end_offset": 175,
+        "start": 64.224,
+        "end": 64.584,
+        "score": -0.6987
+      },
+      {
+        "word": "totally",
+        "start_offset": 176,
+        "end_offset": 183,
+        "start": 65.564,
+        "end": 66.384,
+        "score": -0.7894
+      },
+      {
+        "word": "unified",
+        "start_offset": 184,
+        "end_offset": 191,
+        "start": 67.844,
+        "end": 68.785,
+        "score": -0.7667
+      },
+      {
+        "word": "in",
+        "start_offset": 192,
+        "end_offset": 194,
+        "start": 69.485,
+        "end": 69.685,
+        "score": -0.7297
+      },
+      {
+        "word": "their",
+        "start_offset": 195,
+        "end_offset": 200,
+        "start": 70.605,
+        "end": 70.965,
+        "score": -1.3696
+      },
+      {
+        "word": "calling",
+        "start_offset": 201,
+        "end_offset": 208,
+        "start": 72.205,
+        "end": 72.925,
+        "score": -0.765
+      },
+      {
+        "word": "and,",
+        "start_offset": 209,
+        "end_offset": 213,
+        "start": 73.925,
+        "end": 74.245,
+        "score": -0.7766
+      },
+      {
+        "word": "thus,",
+        "start_offset": 214,
+        "end_offset": 219,
+        "start": 75.165,
+        "end": 75.585,
+        "score": -0.7473
+      },
+      {
+        "word": "the",
+        "start_offset": 220,
+        "end_offset": 223,
+        "start": 76.745,
+        "end": 76.905,
+        "score": -0.779
+      },
+      {
+        "word": "squaring",
+        "start_offset": 224,
+        "end_offset": 232,
+        "start": 78.145,
+        "end": 79.005,
+        "score": -0.9336
+      },
+      {
+        "word": "is",
+        "start_offset": 233,
+        "end_offset": 235,
+        "start": 80.045,
+        "end": 80.345,
+        "score": -0.7016
+      },
+      {
+        "word": "slightly",
+        "start_offset": 236,
+        "end_offset": 244,
+        "start": 81.465,
+        "end": 82.365,
+        "score": -0.7974
+      },
+      {
+        "word": "less.",
+        "start_offset": 245,
+        "end_offset": 250,
+        "start": 83.345,
+        "end": 83.805,
+        "score": -0.7179
+      },
+      {
+        "word": "Thus,",
+        "start_offset": 251,
+        "end_offset": 256,
+        "start": 84.966,
+        "end": 85.406,
+        "score": -0.7355
+      },
+      {
+        "word": "there",
+        "start_offset": 257,
+        "end_offset": 262,
+        "start": 86.486,
+        "end": 86.846,
+        "score": -0.8601
+      },
+      {
+        "word": "is",
+        "start_offset": 263,
+        "end_offset": 265,
+        "start": 87.526,
+        "end": 87.806,
+        "score": -0.748
+      },
+      {
+        "word": "a",
+        "start_offset": 266,
+        "end_offset": 267,
+        "start": 88.806,
+        "end": 88.826,
+        "score": -0.7052
+      },
+      {
+        "word": "statistical",
+        "start_offset": 268,
+        "end_offset": 279,
+        "start": 89.586,
+        "end": 90.666,
+        "score": -0.6955
+      },
+      {
+        "word": "loss",
+        "start_offset": 280,
+        "end_offset": 284,
+        "start": 91.606,
+        "end": 92.126,
+        "score": -0.8156
+      },
+      {
+        "word": "over",
+        "start_offset": 285,
+        "end_offset": 289,
+        "start": 93.126,
+        "end": 93.486,
+        "score": -0.6976
+      },
+      {
+        "word": "a",
+        "start_offset": 290,
+        "end_offset": 291,
+        "start": 94.526,
+        "end": 94.546,
+        "score": -0.7164
+      },
+      {
+        "word": "period",
+        "start_offset": 292,
+        "end_offset": 298,
+        "start": 95.626,
+        "end": 96.306,
+        "score": -0.8372
+      },
+      {
+        "word": "of",
+        "start_offset": 299,
+        "end_offset": 301,
+        "start": 97.446,
+        "end": 97.726,
+        "score": -0.7172
+      },
+      {
+        "word": "call.",
+        "start_offset": 302,
+        "end_offset": 307,
+        "start": 98.906,
+        "end": 99.407,
+        "score": -1.3099
+      },
+      {
+        "word": "However,",
+        "start_offset": 308,
+        "end_offset": 316,
+        "start": 101.807,
+        "end": 103.107,
+        "score": -0.7095
+      },
+      {
+        "word": "perhaps",
+        "start_offset": 317,
+        "end_offset": 324,
+        "start": 104.187,
+        "end": 105.107,
+        "score": -0.7333
+      },
+      {
+        "word": "you",
+        "start_offset": 325,
+        "end_offset": 328,
+        "start": 106.367,
+        "end": 106.527,
+        "score": -0.7516
+      },
+      {
+        "word": "may",
+        "start_offset": 329,
+        "end_offset": 332,
+        "start": 107.567,
+        "end": 107.887,
+        "score": -0.7151
+      },
+      {
+        "word": "see",
+        "start_offset": 333,
+        "end_offset": 336,
+        "start": 109.067,
+        "end": 109.367,
+        "score": -0.7935
+      },
+      {
+        "word": "by",
+        "start_offset": 337,
+        "end_offset": 339,
+        "start": 110.787,
+        "end": 111.167,
+        "score": -0.797
+      },
+      {
+        "word": "this",
+        "start_offset": 340,
+        "end_offset": 344,
+        "start": 111.867,
+        "end": 112.287,
+        "score": -0.7917
+      },
+      {
+        "word": "statistically",
+        "start_offset": 345,
+        "end_offset": 358,
+        "start": 113.347,
+        "end": 114.768,
+        "score": -0.7086
+      },
+      {
+        "word": "corrected",
+        "start_offset": 359,
+        "end_offset": 368,
+        "start": 115.948,
+        "end": 116.948,
+        "score": -2.1401
+      },
+      {
+        "word": "information",
+        "start_offset": 369,
+        "end_offset": 380,
+        "start": 118.048,
+        "end": 119.128,
+        "score": -1.5908
+      },
+      {
+        "word": "the",
+        "start_offset": 381,
+        "end_offset": 384,
+        "start": 120.428,
+        "end": 120.548,
+        "score": -0.7727
+      },
+      {
+        "word": "squaring",
+        "start_offset": 385,
+        "end_offset": 393,
+        "start": 121.268,
+        "end": 122.108,
+        "score": -0.9767
+      },
+      {
+        "word": "mechanism.",
+        "start_offset": 394,
+        "end_offset": 404,
+        "start": 123.008,
+        "end": 123.788,
+        "score": -1.7081
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "007-05.mp3",
+    "audio_duration": 125.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

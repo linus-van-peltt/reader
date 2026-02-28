@@ -1,0 +1,79 @@
+{
+  "text": "Raw Session Number Ninety Eight, September 24th, 1982.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Raw Session Number Ninety Eight, September 24th, 1982.",
+        "start_offset": 115,
+        "end_offset": 189,
+        "start": 9.200000000000001,
+        "end": 15.120000000000001
+      }
+    ],
+    "word": [
+      {
+        "word": "Raw",
+        "start_offset": 115,
+        "end_offset": 120,
+        "start": 9.200000000000001,
+        "end": 9.6
+      },
+      {
+        "word": "Session",
+        "start_offset": 125,
+        "end_offset": 131,
+        "start": 10.0,
+        "end": 10.48
+      },
+      {
+        "word": "Number",
+        "start_offset": 131,
+        "end_offset": 136,
+        "start": 10.48,
+        "end": 10.88
+      },
+      {
+        "word": "Ninety",
+        "start_offset": 136,
+        "end_offset": 140,
+        "start": 10.88,
+        "end": 11.200000000000001
+      },
+      {
+        "word": "Eight,",
+        "start_offset": 142,
+        "end_offset": 148,
+        "start": 11.36,
+        "end": 11.84
+      },
+      {
+        "word": "September",
+        "start_offset": 151,
+        "end_offset": 157,
+        "start": 12.08,
+        "end": 12.56
+      },
+      {
+        "word": "24th,",
+        "start_offset": 160,
+        "end_offset": 172,
+        "start": 12.8,
+        "end": 13.76
+      },
+      {
+        "word": "1982.",
+        "start_offset": 174,
+        "end_offset": 189,
+        "start": 13.92,
+        "end": 15.120000000000001
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "098-00.mp3",
+    "audio_duration": 15.54,
+    "transcription_time": 0.09,
+    "rtfx": 176.76,
+    "timestamp": "2026-01-06T22:00:00.877552+00:00"
+  }
+}

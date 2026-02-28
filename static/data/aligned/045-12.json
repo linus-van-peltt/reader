@@ -1,0 +1,276 @@
+{
+  "text": "I just need to know if there is anything we can do to make the instrument more comfortable or improve the contact? I am Ra. All is well, my brothers.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I just need to know if there is anything we can do to make the instrument more comfortable or improve the contact?",
+        "start_offset": 0,
+        "end_offset": 114,
+        "start": 1.742,
+        "end": 7.707
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 115,
+        "end_offset": 123,
+        "start": 11.47,
+        "end": 13.712
+      },
+      {
+        "segment": "All is well, my brothers.",
+        "start_offset": 124,
+        "end_offset": 149,
+        "start": 15.714,
+        "end": 20.438
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 1.742,
+        "end": 1.762,
+        "score": -2.0298
+      },
+      {
+        "word": "just",
+        "start_offset": 2,
+        "end_offset": 6,
+        "start": 2.082,
+        "end": 2.262,
+        "score": -1.0615
+      },
+      {
+        "word": "need",
+        "start_offset": 7,
+        "end_offset": 11,
+        "start": 2.302,
+        "end": 2.462,
+        "score": -1.5753
+      },
+      {
+        "word": "to",
+        "start_offset": 12,
+        "end_offset": 14,
+        "start": 2.522,
+        "end": 2.562,
+        "score": -1.0104
+      },
+      {
+        "word": "know",
+        "start_offset": 15,
+        "end_offset": 19,
+        "start": 2.602,
+        "end": 2.722,
+        "score": -1.1873
+      },
+      {
+        "word": "if",
+        "start_offset": 20,
+        "end_offset": 22,
+        "start": 2.802,
+        "end": 2.963,
+        "score": -2.2533
+      },
+      {
+        "word": "there",
+        "start_offset": 23,
+        "end_offset": 28,
+        "start": 3.223,
+        "end": 3.363,
+        "score": -4.6556
+      },
+      {
+        "word": "is",
+        "start_offset": 29,
+        "end_offset": 31,
+        "start": 3.423,
+        "end": 3.523,
+        "score": -1.8746
+      },
+      {
+        "word": "anything",
+        "start_offset": 32,
+        "end_offset": 40,
+        "start": 3.603,
+        "end": 3.983,
+        "score": -0.9764
+      },
+      {
+        "word": "we",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 4.023,
+        "end": 4.104,
+        "score": -0.7534
+      },
+      {
+        "word": "can",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 4.164,
+        "end": 4.324,
+        "score": -0.7102
+      },
+      {
+        "word": "do",
+        "start_offset": 48,
+        "end_offset": 50,
+        "start": 4.564,
+        "end": 4.604,
+        "score": -5.5597
+      },
+      {
+        "word": "to",
+        "start_offset": 51,
+        "end_offset": 53,
+        "start": 4.624,
+        "end": 4.684,
+        "score": -0.7239
+      },
+      {
+        "word": "make",
+        "start_offset": 54,
+        "end_offset": 58,
+        "start": 4.724,
+        "end": 4.904,
+        "score": -0.724
+      },
+      {
+        "word": "the",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 4.924,
+        "end": 4.984,
+        "score": -2.2615
+      },
+      {
+        "word": "instrument",
+        "start_offset": 63,
+        "end_offset": 73,
+        "start": 5.044,
+        "end": 5.365,
+        "score": -2.3725
+      },
+      {
+        "word": "more",
+        "start_offset": 74,
+        "end_offset": 78,
+        "start": 5.405,
+        "end": 5.605,
+        "score": -0.9109
+      },
+      {
+        "word": "comfortable",
+        "start_offset": 79,
+        "end_offset": 90,
+        "start": 5.705,
+        "end": 6.265,
+        "score": -0.933
+      },
+      {
+        "word": "or",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 6.366,
+        "end": 6.486,
+        "score": -1.3544
+      },
+      {
+        "word": "improve",
+        "start_offset": 94,
+        "end_offset": 101,
+        "start": 6.526,
+        "end": 6.886,
+        "score": -1.4541
+      },
+      {
+        "word": "the",
+        "start_offset": 102,
+        "end_offset": 105,
+        "start": 6.966,
+        "end": 7.046,
+        "score": -0.8601
+      },
+      {
+        "word": "contact?",
+        "start_offset": 106,
+        "end_offset": 114,
+        "start": 7.086,
+        "end": 7.707,
+        "score": -0.7257
+      },
+      {
+        "word": "I",
+        "start_offset": 115,
+        "end_offset": 116,
+        "start": 11.47,
+        "end": 11.49,
+        "score": -1.9323
+      },
+      {
+        "word": "am",
+        "start_offset": 117,
+        "end_offset": 119,
+        "start": 12.371,
+        "end": 12.671,
+        "score": -2.5155
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 120,
+        "end_offset": 123,
+        "start": 13.612,
+        "end": 13.712,
+        "score": -3.3609
+      },
+      {
+        "word": "All",
+        "start_offset": 124,
+        "end_offset": 127,
+        "start": 15.714,
+        "end": 15.974,
+        "score": -4.4491
+      },
+      {
+        "word": "is",
+        "start_offset": 128,
+        "end_offset": 130,
+        "start": 16.715,
+        "end": 17.055,
+        "score": -2.5885
+      },
+      {
+        "word": "well,",
+        "start_offset": 131,
+        "end_offset": 136,
+        "start": 17.155,
+        "end": 17.435,
+        "score": -5.294
+      },
+      {
+        "word": "my",
+        "start_offset": 137,
+        "end_offset": 139,
+        "start": 18.716,
+        "end": 19.057,
+        "score": -2.08
+      },
+      {
+        "word": "brothers.",
+        "start_offset": 140,
+        "end_offset": 149,
+        "start": 19.557,
+        "end": 20.438,
+        "score": -2.788
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "045-12.mp3",
+    "audio_duration": 23.04,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

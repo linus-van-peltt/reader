@@ -1,0 +1,457 @@
+{
+  "text": "What is the purpose of ingesting food in food density? I am ra. This is a somewhat central point. The purpose of space time is the increase in catalytic action appropriate to the density, one of the preconditions for space, time, existence is some form of body complex. Such a body complex must be fueled in some way.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What is the purpose of ingesting food in food density?",
+        "start_offset": 23,
+        "end_offset": 83,
+        "start": 1.84,
+        "end": 6.640000000000001
+      },
+      {
+        "segment": "I am ra.",
+        "start_offset": 131,
+        "end_offset": 162,
+        "start": 10.48,
+        "end": 12.96
+      },
+      {
+        "segment": "This is a somewhat central point.",
+        "start_offset": 187,
+        "end_offset": 307,
+        "start": 14.96,
+        "end": 24.560000000000002
+      },
+      {
+        "segment": "The purpose of space time is the increase in catalytic action appropriate to the density, one of the preconditions for space, time, existence is some form of body complex.",
+        "start_offset": 336,
+        "end_offset": 941,
+        "start": 26.88,
+        "end": 75.28
+      },
+      {
+        "segment": "Such a body complex must be fueled in some way.",
+        "start_offset": 969,
+        "end_offset": 1157,
+        "start": 77.52,
+        "end": 92.56
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 23,
+        "end_offset": 30,
+        "start": 1.84,
+        "end": 2.4
+      },
+      {
+        "word": "is",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 2.4,
+        "end": 2.64
+      },
+      {
+        "word": "the",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 2.64,
+        "end": 2.96
+      },
+      {
+        "word": "purpose",
+        "start_offset": 37,
+        "end_offset": 49,
+        "start": 2.96,
+        "end": 3.92
+      },
+      {
+        "word": "of",
+        "start_offset": 51,
+        "end_offset": 55,
+        "start": 4.08,
+        "end": 4.4
+      },
+      {
+        "word": "ingesting",
+        "start_offset": 55,
+        "end_offset": 63,
+        "start": 4.4,
+        "end": 5.04
+      },
+      {
+        "word": "food",
+        "start_offset": 63,
+        "end_offset": 67,
+        "start": 5.04,
+        "end": 5.36
+      },
+      {
+        "word": "in",
+        "start_offset": 67,
+        "end_offset": 69,
+        "start": 5.36,
+        "end": 5.5200000000000005
+      },
+      {
+        "word": "food",
+        "start_offset": 69,
+        "end_offset": 73,
+        "start": 5.5200000000000005,
+        "end": 5.84
+      },
+      {
+        "word": "density?",
+        "start_offset": 76,
+        "end_offset": 83,
+        "start": 6.08,
+        "end": 6.640000000000001
+      },
+      {
+        "word": "I",
+        "start_offset": 131,
+        "end_offset": 135,
+        "start": 10.48,
+        "end": 10.8
+      },
+      {
+        "word": "am",
+        "start_offset": 143,
+        "end_offset": 147,
+        "start": 11.44,
+        "end": 11.76
+      },
+      {
+        "word": "ra.",
+        "start_offset": 159,
+        "end_offset": 162,
+        "start": 12.72,
+        "end": 12.96
+      },
+      {
+        "word": "This",
+        "start_offset": 187,
+        "end_offset": 191,
+        "start": 14.96,
+        "end": 15.280000000000001
+      },
+      {
+        "word": "is",
+        "start_offset": 207,
+        "end_offset": 211,
+        "start": 16.56,
+        "end": 16.88
+      },
+      {
+        "word": "a",
+        "start_offset": 227,
+        "end_offset": 231,
+        "start": 18.16,
+        "end": 18.48
+      },
+      {
+        "word": "somewhat",
+        "start_offset": 247,
+        "end_offset": 259,
+        "start": 19.76,
+        "end": 20.72
+      },
+      {
+        "word": "central",
+        "start_offset": 275,
+        "end_offset": 287,
+        "start": 22.0,
+        "end": 22.96
+      },
+      {
+        "word": "point.",
+        "start_offset": 303,
+        "end_offset": 307,
+        "start": 24.240000000000002,
+        "end": 24.560000000000002
+      },
+      {
+        "word": "The",
+        "start_offset": 336,
+        "end_offset": 340,
+        "start": 26.88,
+        "end": 27.2
+      },
+      {
+        "word": "purpose",
+        "start_offset": 348,
+        "end_offset": 360,
+        "start": 27.84,
+        "end": 28.8
+      },
+      {
+        "word": "of",
+        "start_offset": 372,
+        "end_offset": 376,
+        "start": 29.76,
+        "end": 30.080000000000002
+      },
+      {
+        "word": "space",
+        "start_offset": 383,
+        "end_offset": 391,
+        "start": 30.64,
+        "end": 31.28
+      },
+      {
+        "word": "time",
+        "start_offset": 400,
+        "end_offset": 404,
+        "start": 32.0,
+        "end": 32.32
+      },
+      {
+        "word": "is",
+        "start_offset": 428,
+        "end_offset": 432,
+        "start": 34.24,
+        "end": 34.56
+      },
+      {
+        "word": "the",
+        "start_offset": 448,
+        "end_offset": 452,
+        "start": 35.84,
+        "end": 36.160000000000004
+      },
+      {
+        "word": "increase",
+        "start_offset": 464,
+        "end_offset": 480,
+        "start": 37.12,
+        "end": 38.4
+      },
+      {
+        "word": "in",
+        "start_offset": 496,
+        "end_offset": 500,
+        "start": 39.68,
+        "end": 40.0
+      },
+      {
+        "word": "catalytic",
+        "start_offset": 512,
+        "end_offset": 529,
+        "start": 40.96,
+        "end": 42.32
+      },
+      {
+        "word": "action",
+        "start_offset": 545,
+        "end_offset": 553,
+        "start": 43.6,
+        "end": 44.24
+      },
+      {
+        "word": "appropriate",
+        "start_offset": 573,
+        "end_offset": 592,
+        "start": 45.84,
+        "end": 47.36
+      },
+      {
+        "word": "to",
+        "start_offset": 608,
+        "end_offset": 612,
+        "start": 48.64,
+        "end": 48.96
+      },
+      {
+        "word": "the",
+        "start_offset": 624,
+        "end_offset": 628,
+        "start": 49.92,
+        "end": 50.24
+      },
+      {
+        "word": "density,",
+        "start_offset": 636,
+        "end_offset": 647,
+        "start": 50.88,
+        "end": 51.76
+      },
+      {
+        "word": "one",
+        "start_offset": 674,
+        "end_offset": 678,
+        "start": 53.92,
+        "end": 54.24
+      },
+      {
+        "word": "of",
+        "start_offset": 690,
+        "end_offset": 694,
+        "start": 55.2,
+        "end": 55.52
+      },
+      {
+        "word": "the",
+        "start_offset": 698,
+        "end_offset": 702,
+        "start": 55.84,
+        "end": 56.160000000000004
+      },
+      {
+        "word": "preconditions",
+        "start_offset": 714,
+        "end_offset": 733,
+        "start": 57.120000000000005,
+        "end": 58.64
+      },
+      {
+        "word": "for",
+        "start_offset": 753,
+        "end_offset": 757,
+        "start": 60.24,
+        "end": 60.56
+      },
+      {
+        "word": "space,",
+        "start_offset": 772,
+        "end_offset": 780,
+        "start": 61.76,
+        "end": 62.4
+      },
+      {
+        "word": "time,",
+        "start_offset": 787,
+        "end_offset": 791,
+        "start": 62.96,
+        "end": 63.28
+      },
+      {
+        "word": "existence",
+        "start_offset": 811,
+        "end_offset": 827,
+        "start": 64.88,
+        "end": 66.16
+      },
+      {
+        "word": "is",
+        "start_offset": 846,
+        "end_offset": 850,
+        "start": 67.68,
+        "end": 68.0
+      },
+      {
+        "word": "some",
+        "start_offset": 862,
+        "end_offset": 866,
+        "start": 68.96000000000001,
+        "end": 69.28
+      },
+      {
+        "word": "form",
+        "start_offset": 878,
+        "end_offset": 882,
+        "start": 70.24,
+        "end": 70.56
+      },
+      {
+        "word": "of",
+        "start_offset": 898,
+        "end_offset": 902,
+        "start": 71.84,
+        "end": 72.16
+      },
+      {
+        "word": "body",
+        "start_offset": 910,
+        "end_offset": 922,
+        "start": 72.8,
+        "end": 73.76
+      },
+      {
+        "word": "complex.",
+        "start_offset": 930,
+        "end_offset": 941,
+        "start": 74.4,
+        "end": 75.28
+      },
+      {
+        "word": "Such",
+        "start_offset": 969,
+        "end_offset": 977,
+        "start": 77.52,
+        "end": 78.16
+      },
+      {
+        "word": "a",
+        "start_offset": 989,
+        "end_offset": 993,
+        "start": 79.12,
+        "end": 79.44
+      },
+      {
+        "word": "body",
+        "start_offset": 1001,
+        "end_offset": 1013,
+        "start": 80.08,
+        "end": 81.04
+      },
+      {
+        "word": "complex",
+        "start_offset": 1021,
+        "end_offset": 1032,
+        "start": 81.68,
+        "end": 82.56
+      },
+      {
+        "word": "must",
+        "start_offset": 1062,
+        "end_offset": 1070,
+        "start": 84.96000000000001,
+        "end": 85.60000000000001
+      },
+      {
+        "word": "be",
+        "start_offset": 1078,
+        "end_offset": 1082,
+        "start": 86.24,
+        "end": 86.56
+      },
+      {
+        "word": "fueled",
+        "start_offset": 1094,
+        "end_offset": 1109,
+        "start": 87.52,
+        "end": 88.72
+      },
+      {
+        "word": "in",
+        "start_offset": 1121,
+        "end_offset": 1125,
+        "start": 89.68,
+        "end": 90.0
+      },
+      {
+        "word": "some",
+        "start_offset": 1137,
+        "end_offset": 1141,
+        "start": 90.96000000000001,
+        "end": 91.28
+      },
+      {
+        "word": "way.",
+        "start_offset": 1153,
+        "end_offset": 1157,
+        "start": 92.24,
+        "end": 92.56
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "043-22.mp3",
+    "audio_duration": 95.03,
+    "transcription_time": 0.15,
+    "rtfx": 616.4,
+    "timestamp": "2026-01-06T21:51:13.254405+00:00"
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "text": "You say that have there have there been any wanderers on this planet for the past fifty thousand years then? I am Ra there have been a few there have been many more which chose to join this last cycle of twenty five thousand years and many, many more of which have come for harvest.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "You say that have there have there been any wanderers on this planet for the past fifty thousand years then?",
+        "start_offset": 30,
+        "end_offset": 137,
+        "start": 2.4,
+        "end": 10.96
+      },
+      {
+        "segment": "I am Ra there have been a few there have been many more which chose to join this last cycle of twenty five thousand years and many, many more of which have come for harvest.",
+        "start_offset": 163,
+        "end_offset": 831,
+        "start": 13.040000000000001,
+        "end": 66.48
+      }
+    ],
+    "word": [
+      {
+        "word": "You",
+        "start_offset": 30,
+        "end_offset": 31,
+        "start": 2.4,
+        "end": 2.48
+      },
+      {
+        "word": "say",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 2.8000000000000003,
+        "end": 3.04
+      },
+      {
+        "word": "that",
+        "start_offset": 38,
+        "end_offset": 42,
+        "start": 3.04,
+        "end": 3.36
+      },
+      {
+        "word": "have",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 3.36,
+        "end": 3.6
+      },
+      {
+        "word": "there",
+        "start_offset": 45,
+        "end_offset": 48,
+        "start": 3.6,
+        "end": 3.84
+      },
+      {
+        "word": "have",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 3.84,
+        "end": 4.08
+      },
+      {
+        "word": "there",
+        "start_offset": 51,
+        "end_offset": 55,
+        "start": 4.08,
+        "end": 4.4
+      },
+      {
+        "word": "been",
+        "start_offset": 55,
+        "end_offset": 59,
+        "start": 4.4,
+        "end": 4.72
+      },
+      {
+        "word": "any",
+        "start_offset": 59,
+        "end_offset": 63,
+        "start": 4.72,
+        "end": 5.04
+      },
+      {
+        "word": "wanderers",
+        "start_offset": 63,
+        "end_offset": 78,
+        "start": 5.04,
+        "end": 6.24
+      },
+      {
+        "word": "on",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 6.4,
+        "end": 6.72
+      },
+      {
+        "word": "this",
+        "start_offset": 84,
+        "end_offset": 87,
+        "start": 6.72,
+        "end": 6.96
+      },
+      {
+        "word": "planet",
+        "start_offset": 87,
+        "end_offset": 94,
+        "start": 6.96,
+        "end": 7.5200000000000005
+      },
+      {
+        "word": "for",
+        "start_offset": 94,
+        "end_offset": 96,
+        "start": 7.5200000000000005,
+        "end": 7.68
+      },
+      {
+        "word": "the",
+        "start_offset": 96,
+        "end_offset": 100,
+        "start": 7.68,
+        "end": 8.0
+      },
+      {
+        "word": "past",
+        "start_offset": 104,
+        "end_offset": 108,
+        "start": 8.32,
+        "end": 8.64
+      },
+      {
+        "word": "fifty",
+        "start_offset": 115,
+        "end_offset": 121,
+        "start": 9.200000000000001,
+        "end": 9.68
+      },
+      {
+        "word": "thousand",
+        "start_offset": 121,
+        "end_offset": 127,
+        "start": 9.68,
+        "end": 10.16
+      },
+      {
+        "word": "years",
+        "start_offset": 127,
+        "end_offset": 130,
+        "start": 10.16,
+        "end": 10.4
+      },
+      {
+        "word": "then?",
+        "start_offset": 133,
+        "end_offset": 137,
+        "start": 10.64,
+        "end": 10.96
+      },
+      {
+        "word": "I",
+        "start_offset": 163,
+        "end_offset": 167,
+        "start": 13.040000000000001,
+        "end": 13.36
+      },
+      {
+        "word": "am",
+        "start_offset": 177,
+        "end_offset": 179,
+        "start": 14.16,
+        "end": 14.32
+      },
+      {
+        "word": "Ra",
+        "start_offset": 193,
+        "end_offset": 197,
+        "start": 15.44,
+        "end": 15.76
+      },
+      {
+        "word": "there",
+        "start_offset": 217,
+        "end_offset": 221,
+        "start": 17.36,
+        "end": 17.68
+      },
+      {
+        "word": "have",
+        "start_offset": 233,
+        "end_offset": 237,
+        "start": 18.64,
+        "end": 18.96
+      },
+      {
+        "word": "been",
+        "start_offset": 249,
+        "end_offset": 253,
+        "start": 19.92,
+        "end": 20.240000000000002
+      },
+      {
+        "word": "a",
+        "start_offset": 265,
+        "end_offset": 269,
+        "start": 21.2,
+        "end": 21.52
+      },
+      {
+        "word": "few",
+        "start_offset": 269,
+        "end_offset": 276,
+        "start": 21.52,
+        "end": 22.080000000000002
+      },
+      {
+        "word": "there",
+        "start_offset": 299,
+        "end_offset": 303,
+        "start": 23.92,
+        "end": 24.240000000000002
+      },
+      {
+        "word": "have",
+        "start_offset": 315,
+        "end_offset": 319,
+        "start": 25.2,
+        "end": 25.52
+      },
+      {
+        "word": "been",
+        "start_offset": 331,
+        "end_offset": 335,
+        "start": 26.48,
+        "end": 26.8
+      },
+      {
+        "word": "many",
+        "start_offset": 351,
+        "end_offset": 362,
+        "start": 28.080000000000002,
+        "end": 28.96
+      },
+      {
+        "word": "more",
+        "start_offset": 370,
+        "end_offset": 374,
+        "start": 29.6,
+        "end": 29.92
+      },
+      {
+        "word": "which",
+        "start_offset": 392,
+        "end_offset": 396,
+        "start": 31.36,
+        "end": 31.68
+      },
+      {
+        "word": "chose",
+        "start_offset": 411,
+        "end_offset": 415,
+        "start": 32.88,
+        "end": 33.2
+      },
+      {
+        "word": "to",
+        "start_offset": 427,
+        "end_offset": 431,
+        "start": 34.160000000000004,
+        "end": 34.480000000000004
+      },
+      {
+        "word": "join",
+        "start_offset": 447,
+        "end_offset": 455,
+        "start": 35.76,
+        "end": 36.4
+      },
+      {
+        "word": "this",
+        "start_offset": 467,
+        "end_offset": 471,
+        "start": 37.36,
+        "end": 37.68
+      },
+      {
+        "word": "last",
+        "start_offset": 483,
+        "end_offset": 487,
+        "start": 38.64,
+        "end": 38.96
+      },
+      {
+        "word": "cycle",
+        "start_offset": 511,
+        "end_offset": 525,
+        "start": 40.88,
+        "end": 42.0
+      },
+      {
+        "word": "of",
+        "start_offset": 533,
+        "end_offset": 537,
+        "start": 42.64,
+        "end": 42.96
+      },
+      {
+        "word": "twenty",
+        "start_offset": 549,
+        "end_offset": 557,
+        "start": 43.92,
+        "end": 44.56
+      },
+      {
+        "word": "five",
+        "start_offset": 569,
+        "end_offset": 577,
+        "start": 45.52,
+        "end": 46.160000000000004
+      },
+      {
+        "word": "thousand",
+        "start_offset": 585,
+        "end_offset": 596,
+        "start": 46.800000000000004,
+        "end": 47.68
+      },
+      {
+        "word": "years",
+        "start_offset": 608,
+        "end_offset": 616,
+        "start": 48.64,
+        "end": 49.28
+      },
+      {
+        "word": "and",
+        "start_offset": 639,
+        "end_offset": 643,
+        "start": 51.120000000000005,
+        "end": 51.44
+      },
+      {
+        "word": "many,",
+        "start_offset": 655,
+        "end_offset": 663,
+        "start": 52.4,
+        "end": 53.04
+      },
+      {
+        "word": "many",
+        "start_offset": 674,
+        "end_offset": 682,
+        "start": 53.92,
+        "end": 54.56
+      },
+      {
+        "word": "more",
+        "start_offset": 690,
+        "end_offset": 694,
+        "start": 55.2,
+        "end": 55.52
+      },
+      {
+        "word": "of",
+        "start_offset": 731,
+        "end_offset": 735,
+        "start": 58.480000000000004,
+        "end": 58.800000000000004
+      },
+      {
+        "word": "which",
+        "start_offset": 735,
+        "end_offset": 739,
+        "start": 58.800000000000004,
+        "end": 59.120000000000005
+      },
+      {
+        "word": "have",
+        "start_offset": 751,
+        "end_offset": 755,
+        "start": 60.08,
+        "end": 60.4
+      },
+      {
+        "word": "come",
+        "start_offset": 775,
+        "end_offset": 779,
+        "start": 62.0,
+        "end": 62.32
+      },
+      {
+        "word": "for",
+        "start_offset": 795,
+        "end_offset": 799,
+        "start": 63.6,
+        "end": 63.92
+      },
+      {
+        "word": "harvest.",
+        "start_offset": 823,
+        "end_offset": 831,
+        "start": 65.84,
+        "end": 66.48
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "070-16.mp3",
+    "audio_duration": 68.05,
+    "transcription_time": 0.13,
+    "rtfx": 523.24,
+    "timestamp": "2026-01-06T21:54:58.755940+00:00"
+  }
+}

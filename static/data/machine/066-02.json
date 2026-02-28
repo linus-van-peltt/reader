@@ -1,0 +1,254 @@
+{
+  "text": "Is there anything that we can do while staying within the first distortion to seek aid from the Confederation in order to alleviate the instruments, physical problems? I am well, I think.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there anything that we can do while staying within the first distortion to seek aid from the Confederation in order to alleviate the instruments, physical problems?",
+        "start_offset": 28,
+        "end_offset": 287,
+        "start": 2.24,
+        "end": 22.96
+      },
+      {
+        "segment": "I am well, I think.",
+        "start_offset": 358,
+        "end_offset": 562,
+        "start": 28.64,
+        "end": 44.96
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 2.24,
+        "end": 2.56
+      },
+      {
+        "word": "there",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 2.56,
+        "end": 2.88
+      },
+      {
+        "word": "anything",
+        "start_offset": 38,
+        "end_offset": 43,
+        "start": 3.04,
+        "end": 3.44
+      },
+      {
+        "word": "that",
+        "start_offset": 43,
+        "end_offset": 47,
+        "start": 3.44,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "we",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 3.7600000000000002,
+        "end": 4.08
+      },
+      {
+        "word": "can",
+        "start_offset": 51,
+        "end_offset": 55,
+        "start": 4.08,
+        "end": 4.4
+      },
+      {
+        "word": "do",
+        "start_offset": 55,
+        "end_offset": 59,
+        "start": 4.4,
+        "end": 4.72
+      },
+      {
+        "word": "while",
+        "start_offset": 92,
+        "end_offset": 95,
+        "start": 7.36,
+        "end": 7.6000000000000005
+      },
+      {
+        "word": "staying",
+        "start_offset": 96,
+        "end_offset": 101,
+        "start": 7.68,
+        "end": 8.08
+      },
+      {
+        "word": "within",
+        "start_offset": 101,
+        "end_offset": 105,
+        "start": 8.08,
+        "end": 8.4
+      },
+      {
+        "word": "the",
+        "start_offset": 105,
+        "end_offset": 107,
+        "start": 8.4,
+        "end": 8.56
+      },
+      {
+        "word": "first",
+        "start_offset": 107,
+        "end_offset": 109,
+        "start": 8.56,
+        "end": 8.72
+      },
+      {
+        "word": "distortion",
+        "start_offset": 112,
+        "end_offset": 122,
+        "start": 8.96,
+        "end": 9.76
+      },
+      {
+        "word": "to",
+        "start_offset": 129,
+        "end_offset": 133,
+        "start": 10.32,
+        "end": 10.64
+      },
+      {
+        "word": "seek",
+        "start_offset": 141,
+        "end_offset": 149,
+        "start": 11.28,
+        "end": 11.92
+      },
+      {
+        "word": "aid",
+        "start_offset": 149,
+        "end_offset": 157,
+        "start": 11.92,
+        "end": 12.56
+      },
+      {
+        "word": "from",
+        "start_offset": 181,
+        "end_offset": 185,
+        "start": 14.48,
+        "end": 14.8
+      },
+      {
+        "word": "the",
+        "start_offset": 187,
+        "end_offset": 190,
+        "start": 14.96,
+        "end": 15.200000000000001
+      },
+      {
+        "word": "Confederation",
+        "start_offset": 190,
+        "end_offset": 203,
+        "start": 15.200000000000001,
+        "end": 16.240000000000002
+      },
+      {
+        "word": "in",
+        "start_offset": 203,
+        "end_offset": 207,
+        "start": 16.240000000000002,
+        "end": 16.56
+      },
+      {
+        "word": "order",
+        "start_offset": 207,
+        "end_offset": 215,
+        "start": 16.56,
+        "end": 17.2
+      },
+      {
+        "word": "to",
+        "start_offset": 215,
+        "end_offset": 219,
+        "start": 17.2,
+        "end": 17.52
+      },
+      {
+        "word": "alleviate",
+        "start_offset": 230,
+        "end_offset": 244,
+        "start": 18.400000000000002,
+        "end": 19.52
+      },
+      {
+        "word": "the",
+        "start_offset": 248,
+        "end_offset": 252,
+        "start": 19.84,
+        "end": 20.16
+      },
+      {
+        "word": "instruments,",
+        "start_offset": 252,
+        "end_offset": 264,
+        "start": 20.16,
+        "end": 21.12
+      },
+      {
+        "word": "physical",
+        "start_offset": 269,
+        "end_offset": 279,
+        "start": 21.52,
+        "end": 22.32
+      },
+      {
+        "word": "problems?",
+        "start_offset": 279,
+        "end_offset": 287,
+        "start": 22.32,
+        "end": 22.96
+      },
+      {
+        "word": "I",
+        "start_offset": 358,
+        "end_offset": 361,
+        "start": 28.64,
+        "end": 28.88
+      },
+      {
+        "word": "am",
+        "start_offset": 375,
+        "end_offset": 378,
+        "start": 30.0,
+        "end": 30.240000000000002
+      },
+      {
+        "word": "well,",
+        "start_offset": 388,
+        "end_offset": 390,
+        "start": 31.04,
+        "end": 31.2
+      },
+      {
+        "word": "I",
+        "start_offset": 558,
+        "end_offset": 562,
+        "start": 44.64,
+        "end": 44.96
+      },
+      {
+        "word": "think.",
+        "start_offset": 562,
+        "end_offset": 562,
+        "start": 44.96,
+        "end": 44.96
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "066-02.mp3",
+    "audio_duration": 55.04,
+    "transcription_time": 0.12,
+    "rtfx": 465.13,
+    "timestamp": "2026-01-06T21:54:11.099209+00:00"
+  }
+}

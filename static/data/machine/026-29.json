@@ -1,0 +1,79 @@
+{
+  "text": "Could you please make me into a car?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you please make me into a car?",
+        "start_offset": 23,
+        "end_offset": 50,
+        "start": 1.84,
+        "end": 4.0
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 23,
+        "end_offset": 28,
+        "start": 1.84,
+        "end": 2.24
+      },
+      {
+        "word": "you",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 2.24,
+        "end": 2.4
+      },
+      {
+        "word": "please",
+        "start_offset": 30,
+        "end_offset": 35,
+        "start": 2.4,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "make",
+        "start_offset": 35,
+        "end_offset": 37,
+        "start": 2.8000000000000003,
+        "end": 2.96
+      },
+      {
+        "word": "me",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 3.04,
+        "end": 3.2
+      },
+      {
+        "word": "into",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 3.2,
+        "end": 3.36
+      },
+      {
+        "word": "a",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 3.52,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "car?",
+        "start_offset": 47,
+        "end_offset": 50,
+        "start": 3.7600000000000002,
+        "end": 4.0
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "026-29.mp3",
+    "audio_duration": 9.04,
+    "transcription_time": 0.08,
+    "rtfx": 108.76,
+    "timestamp": "2026-01-06T21:49:07.396115+00:00"
+  }
+}

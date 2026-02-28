@@ -1,0 +1,198 @@
+{
+  "text": "Raw number 15, January 30th, 1980. I will greet you in the love and the light of the infinite create. I communicate love.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Raw number 15, January 30th, 1980.",
+        "start_offset": 34,
+        "end_offset": 74,
+        "start": 2.72,
+        "end": 5.92
+      },
+      {
+        "segment": "I will greet you in the love and the light of the infinite create.",
+        "start_offset": 126,
+        "end_offset": 364,
+        "start": 10.08,
+        "end": 29.12
+      },
+      {
+        "segment": "I communicate love.",
+        "start_offset": 424,
+        "end_offset": 482,
+        "start": 33.92,
+        "end": 38.56
+      }
+    ],
+    "word": [
+      {
+        "word": "Raw",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 2.72,
+        "end": 3.04
+      },
+      {
+        "word": "number",
+        "start_offset": 41,
+        "end_offset": 45,
+        "start": 3.2800000000000002,
+        "end": 3.6
+      },
+      {
+        "word": "15,",
+        "start_offset": 45,
+        "end_offset": 48,
+        "start": 3.6,
+        "end": 3.84
+      },
+      {
+        "word": "January",
+        "start_offset": 52,
+        "end_offset": 58,
+        "start": 4.16,
+        "end": 4.64
+      },
+      {
+        "word": "30th,",
+        "start_offset": 58,
+        "end_offset": 63,
+        "start": 4.64,
+        "end": 5.04
+      },
+      {
+        "word": "1980.",
+        "start_offset": 66,
+        "end_offset": 74,
+        "start": 5.28,
+        "end": 5.92
+      },
+      {
+        "word": "I",
+        "start_offset": 126,
+        "end_offset": 130,
+        "start": 10.08,
+        "end": 10.4
+      },
+      {
+        "word": "will",
+        "start_offset": 137,
+        "end_offset": 141,
+        "start": 10.96,
+        "end": 11.28
+      },
+      {
+        "word": "greet",
+        "start_offset": 141,
+        "end_offset": 149,
+        "start": 11.28,
+        "end": 11.92
+      },
+      {
+        "word": "you",
+        "start_offset": 161,
+        "end_offset": 165,
+        "start": 12.88,
+        "end": 13.200000000000001
+      },
+      {
+        "word": "in",
+        "start_offset": 177,
+        "end_offset": 181,
+        "start": 14.16,
+        "end": 14.48
+      },
+      {
+        "word": "the",
+        "start_offset": 193,
+        "end_offset": 197,
+        "start": 15.44,
+        "end": 15.76
+      },
+      {
+        "word": "love",
+        "start_offset": 209,
+        "end_offset": 213,
+        "start": 16.72,
+        "end": 17.04
+      },
+      {
+        "word": "and",
+        "start_offset": 232,
+        "end_offset": 236,
+        "start": 18.56,
+        "end": 18.88
+      },
+      {
+        "word": "the",
+        "start_offset": 248,
+        "end_offset": 252,
+        "start": 19.84,
+        "end": 20.16
+      },
+      {
+        "word": "light",
+        "start_offset": 268,
+        "end_offset": 276,
+        "start": 21.44,
+        "end": 22.080000000000002
+      },
+      {
+        "word": "of",
+        "start_offset": 292,
+        "end_offset": 296,
+        "start": 23.36,
+        "end": 23.68
+      },
+      {
+        "word": "the",
+        "start_offset": 308,
+        "end_offset": 312,
+        "start": 24.64,
+        "end": 24.96
+      },
+      {
+        "word": "infinite",
+        "start_offset": 328,
+        "end_offset": 342,
+        "start": 26.240000000000002,
+        "end": 27.36
+      },
+      {
+        "word": "create.",
+        "start_offset": 354,
+        "end_offset": 364,
+        "start": 28.32,
+        "end": 29.12
+      },
+      {
+        "word": "I",
+        "start_offset": 424,
+        "end_offset": 428,
+        "start": 33.92,
+        "end": 34.24
+      },
+      {
+        "word": "communicate",
+        "start_offset": 444,
+        "end_offset": 460,
+        "start": 35.52,
+        "end": 36.800000000000004
+      },
+      {
+        "word": "love.",
+        "start_offset": 479,
+        "end_offset": 482,
+        "start": 38.32,
+        "end": 38.56
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "015-00.mp3",
+    "audio_duration": 39.03,
+    "transcription_time": 0.1,
+    "rtfx": 391.12,
+    "timestamp": "2026-01-06T21:47:20.539147+00:00"
+  }
+}

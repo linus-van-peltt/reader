@@ -1,0 +1,284 @@
+{
+  "text": "Why do you call them the Elder Race? I am Ra. We called them thusly to acquaint you, the questioner, with their identity as is understood by your mind complex distortion.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Why do you call them the Elder Race?",
+        "start_offset": 0,
+        "end_offset": 36,
+        "start": 3.041,
+        "end": 9.682
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 37,
+        "end_offset": 45,
+        "start": 9.702,
+        "end": 9.962
+      },
+      {
+        "segment": "We called them thusly to acquaint you, the questioner, with their identity as is understood by your mind complex distortion.",
+        "start_offset": 46,
+        "end_offset": 170,
+        "start": 12.163,
+        "end": 36.628
+      }
+    ],
+    "word": [
+      {
+        "word": "Why",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 3.041,
+        "end": 7.502,
+        "score": -8.1723
+      },
+      {
+        "word": "do",
+        "start_offset": 4,
+        "end_offset": 6,
+        "start": 7.522,
+        "end": 7.582,
+        "score": -9.2308
+      },
+      {
+        "word": "you",
+        "start_offset": 7,
+        "end_offset": 10,
+        "start": 7.802,
+        "end": 7.882,
+        "score": -7.6208
+      },
+      {
+        "word": "call",
+        "start_offset": 11,
+        "end_offset": 15,
+        "start": 8.382,
+        "end": 8.602,
+        "score": -7.4276
+      },
+      {
+        "word": "them",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 8.622,
+        "end": 8.702,
+        "score": -7.3494
+      },
+      {
+        "word": "the",
+        "start_offset": 21,
+        "end_offset": 24,
+        "start": 8.722,
+        "end": 8.782,
+        "score": -6.8283
+      },
+      {
+        "word": "Elder",
+        "start_offset": 25,
+        "end_offset": 30,
+        "start": 8.802,
+        "end": 9.402,
+        "score": -6.527
+      },
+      {
+        "word": "Race?",
+        "start_offset": 31,
+        "end_offset": 36,
+        "start": 9.422,
+        "end": 9.682,
+        "score": -5.7361
+      },
+      {
+        "word": "I",
+        "start_offset": 37,
+        "end_offset": 38,
+        "start": 9.702,
+        "end": 9.722,
+        "score": -6.7335
+      },
+      {
+        "word": "am",
+        "start_offset": 39,
+        "end_offset": 41,
+        "start": 9.742,
+        "end": 9.782,
+        "score": -7.6824
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 9.822,
+        "end": 9.962,
+        "score": -5.3528
+      },
+      {
+        "word": "We",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 12.163,
+        "end": 12.303,
+        "score": -0.7504
+      },
+      {
+        "word": "called",
+        "start_offset": 49,
+        "end_offset": 55,
+        "start": 13.103,
+        "end": 13.643,
+        "score": -0.7642
+      },
+      {
+        "word": "them",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 14.103,
+        "end": 14.423,
+        "score": -1.0649
+      },
+      {
+        "word": "thusly",
+        "start_offset": 61,
+        "end_offset": 67,
+        "start": 14.963,
+        "end": 15.844,
+        "score": -0.9449
+      },
+      {
+        "word": "to",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 17.244,
+        "end": 17.424,
+        "score": -0.7127
+      },
+      {
+        "word": "acquaint",
+        "start_offset": 71,
+        "end_offset": 79,
+        "start": 18.184,
+        "end": 18.984,
+        "score": -1.7853
+      },
+      {
+        "word": "you,",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 20.245,
+        "end": 20.385,
+        "score": -1.6575
+      },
+      {
+        "word": "the",
+        "start_offset": 85,
+        "end_offset": 88,
+        "start": 21.025,
+        "end": 21.165,
+        "score": -1.1826
+      },
+      {
+        "word": "questioner,",
+        "start_offset": 89,
+        "end_offset": 100,
+        "start": 21.685,
+        "end": 22.725,
+        "score": -1.6498
+      },
+      {
+        "word": "with",
+        "start_offset": 101,
+        "end_offset": 105,
+        "start": 23.865,
+        "end": 24.246,
+        "score": -0.7748
+      },
+      {
+        "word": "their",
+        "start_offset": 106,
+        "end_offset": 111,
+        "start": 25.266,
+        "end": 25.586,
+        "score": -0.7929
+      },
+      {
+        "word": "identity",
+        "start_offset": 112,
+        "end_offset": 120,
+        "start": 26.466,
+        "end": 27.506,
+        "score": -0.6976
+      },
+      {
+        "word": "as",
+        "start_offset": 121,
+        "end_offset": 123,
+        "start": 28.607,
+        "end": 28.967,
+        "score": -1.0171
+      },
+      {
+        "word": "is",
+        "start_offset": 124,
+        "end_offset": 126,
+        "start": 29.447,
+        "end": 29.687,
+        "score": -0.9455
+      },
+      {
+        "word": "understood",
+        "start_offset": 127,
+        "end_offset": 137,
+        "start": 30.147,
+        "end": 31.247,
+        "score": -0.9723
+      },
+      {
+        "word": "by",
+        "start_offset": 138,
+        "end_offset": 140,
+        "start": 32.007,
+        "end": 32.347,
+        "score": -0.7038
+      },
+      {
+        "word": "your",
+        "start_offset": 141,
+        "end_offset": 145,
+        "start": 32.747,
+        "end": 33.048,
+        "score": -0.8581
+      },
+      {
+        "word": "mind",
+        "start_offset": 146,
+        "end_offset": 150,
+        "start": 33.508,
+        "end": 33.928,
+        "score": -0.7044
+      },
+      {
+        "word": "complex",
+        "start_offset": 151,
+        "end_offset": 158,
+        "start": 34.508,
+        "end": 35.188,
+        "score": -0.6979
+      },
+      {
+        "word": "distortion.",
+        "start_offset": 159,
+        "end_offset": 170,
+        "start": 35.728,
+        "end": 36.628,
+        "score": -0.8849
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "015-19.mp3",
+    "audio_duration": 43.0498,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

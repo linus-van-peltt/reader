@@ -1,0 +1,147 @@
+{
+  "text": "Yes, it does. Thank you. We appreciate your vibration. Is there another query?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Yes, it does.",
+        "start_offset": 0,
+        "end_offset": 13,
+        "start": 1.881,
+        "end": 2.461
+      },
+      {
+        "segment": "Thank you.",
+        "start_offset": 14,
+        "end_offset": 24,
+        "start": 2.481,
+        "end": 6.463
+      },
+      {
+        "segment": "We appreciate your vibration.",
+        "start_offset": 25,
+        "end_offset": 54,
+        "start": 6.543,
+        "end": 10.245
+      },
+      {
+        "segment": "Is there another query?",
+        "start_offset": 55,
+        "end_offset": 78,
+        "start": 10.285,
+        "end": 16.929
+      }
+    ],
+    "word": [
+      {
+        "word": "Yes,",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 1.881,
+        "end": 2.021,
+        "score": -3.4764
+      },
+      {
+        "word": "it",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 2.081,
+        "end": 2.181,
+        "score": -4.399
+      },
+      {
+        "word": "does.",
+        "start_offset": 8,
+        "end_offset": 13,
+        "start": 2.221,
+        "end": 2.461,
+        "score": -3.9943
+      },
+      {
+        "word": "Thank",
+        "start_offset": 14,
+        "end_offset": 19,
+        "start": 2.481,
+        "end": 6.383,
+        "score": -5.7785
+      },
+      {
+        "word": "you.",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 6.403,
+        "end": 6.463,
+        "score": -5.2868
+      },
+      {
+        "word": "We",
+        "start_offset": 25,
+        "end_offset": 27,
+        "start": 6.543,
+        "end": 6.583,
+        "score": -5.1055
+      },
+      {
+        "word": "appreciate",
+        "start_offset": 28,
+        "end_offset": 38,
+        "start": 6.783,
+        "end": 7.564,
+        "score": -3.135
+      },
+      {
+        "word": "your",
+        "start_offset": 39,
+        "end_offset": 43,
+        "start": 9.265,
+        "end": 9.425,
+        "score": -3.2246
+      },
+      {
+        "word": "vibration.",
+        "start_offset": 44,
+        "end_offset": 54,
+        "start": 9.845,
+        "end": 10.245,
+        "score": -5.0142
+      },
+      {
+        "word": "Is",
+        "start_offset": 55,
+        "end_offset": 57,
+        "start": 10.285,
+        "end": 10.405,
+        "score": -1.9344
+      },
+      {
+        "word": "there",
+        "start_offset": 58,
+        "end_offset": 63,
+        "start": 12.146,
+        "end": 12.366,
+        "score": -2.7994
+      },
+      {
+        "word": "another",
+        "start_offset": 64,
+        "end_offset": 71,
+        "start": 14.888,
+        "end": 15.208,
+        "score": -4.0541
+      },
+      {
+        "word": "query?",
+        "start_offset": 72,
+        "end_offset": 78,
+        "start": 16.769,
+        "end": 16.929,
+        "score": -5.7873
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "001-02.mp3",
+    "audio_duration": 44.0425,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

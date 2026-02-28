@@ -1,0 +1,403 @@
+{
+  "text": "Then you are saying that the protective friends, I will call them, would be available in every condition except for what we call the trance state which seems to be anomalistic with respect to the others. Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then you are saying that the protective friends, I will call them, would be available in every condition except for what we call the trance state which seems to be anomalistic with respect to the others.",
+        "start_offset": 0,
+        "end_offset": 203,
+        "start": 2.741,
+        "end": 22.386
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 204,
+        "end_offset": 220,
+        "start": 24.006,
+        "end": 24.706
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 221,
+        "end_offset": 229,
+        "start": 27.687,
+        "end": 29.907
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 230,
+        "end_offset": 246,
+        "start": 31.268,
+        "end": 35.209
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.741,
+        "end": 2.901,
+        "score": -5.0748
+      },
+      {
+        "word": "you",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 2.981,
+        "end": 3.061,
+        "score": -0.7188
+      },
+      {
+        "word": "are",
+        "start_offset": 9,
+        "end_offset": 12,
+        "start": 3.081,
+        "end": 3.141,
+        "score": -2.6652
+      },
+      {
+        "word": "saying",
+        "start_offset": 13,
+        "end_offset": 19,
+        "start": 3.201,
+        "end": 3.621,
+        "score": -0.6987
+      },
+      {
+        "word": "that",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 3.661,
+        "end": 3.821,
+        "score": -0.8729
+      },
+      {
+        "word": "the",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 3.901,
+        "end": 4.001,
+        "score": -0.7929
+      },
+      {
+        "word": "protective",
+        "start_offset": 29,
+        "end_offset": 39,
+        "start": 5.681,
+        "end": 6.422,
+        "score": -0.7327
+      },
+      {
+        "word": "friends,",
+        "start_offset": 40,
+        "end_offset": 48,
+        "start": 6.522,
+        "end": 7.082,
+        "score": -0.8496
+      },
+      {
+        "word": "I",
+        "start_offset": 49,
+        "end_offset": 50,
+        "start": 7.862,
+        "end": 7.882,
+        "score": -0.7081
+      },
+      {
+        "word": "will",
+        "start_offset": 51,
+        "end_offset": 55,
+        "start": 7.902,
+        "end": 8.062,
+        "score": -0.8128
+      },
+      {
+        "word": "call",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 8.102,
+        "end": 8.362,
+        "score": -0.7388
+      },
+      {
+        "word": "them,",
+        "start_offset": 61,
+        "end_offset": 66,
+        "start": 8.402,
+        "end": 8.562,
+        "score": -0.8332
+      },
+      {
+        "word": "would",
+        "start_offset": 67,
+        "end_offset": 72,
+        "start": 10.103,
+        "end": 10.323,
+        "score": -0.7175
+      },
+      {
+        "word": "be",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 10.383,
+        "end": 10.503,
+        "score": -0.7027
+      },
+      {
+        "word": "available",
+        "start_offset": 76,
+        "end_offset": 85,
+        "start": 11.523,
+        "end": 12.183,
+        "score": -0.7028
+      },
+      {
+        "word": "in",
+        "start_offset": 86,
+        "end_offset": 88,
+        "start": 12.443,
+        "end": 12.543,
+        "score": -0.7181
+      },
+      {
+        "word": "every",
+        "start_offset": 89,
+        "end_offset": 94,
+        "start": 13.063,
+        "end": 13.243,
+        "score": -2.635
+      },
+      {
+        "word": "condition",
+        "start_offset": 95,
+        "end_offset": 104,
+        "start": 13.323,
+        "end": 13.983,
+        "score": -0.7004
+      },
+      {
+        "word": "except",
+        "start_offset": 105,
+        "end_offset": 111,
+        "start": 14.064,
+        "end": 14.564,
+        "score": -1.2709
+      },
+      {
+        "word": "for",
+        "start_offset": 112,
+        "end_offset": 115,
+        "start": 14.664,
+        "end": 14.904,
+        "score": -0.732
+      },
+      {
+        "word": "what",
+        "start_offset": 116,
+        "end_offset": 120,
+        "start": 15.744,
+        "end": 15.904,
+        "score": -0.7889
+      },
+      {
+        "word": "we",
+        "start_offset": 121,
+        "end_offset": 123,
+        "start": 15.964,
+        "end": 16.044,
+        "score": -0.7059
+      },
+      {
+        "word": "call",
+        "start_offset": 124,
+        "end_offset": 128,
+        "start": 16.144,
+        "end": 16.384,
+        "score": -0.7008
+      },
+      {
+        "word": "the",
+        "start_offset": 129,
+        "end_offset": 132,
+        "start": 16.444,
+        "end": 16.524,
+        "score": -2.2313
+      },
+      {
+        "word": "trance",
+        "start_offset": 133,
+        "end_offset": 139,
+        "start": 16.664,
+        "end": 17.184,
+        "score": -1.0788
+      },
+      {
+        "word": "state",
+        "start_offset": 140,
+        "end_offset": 145,
+        "start": 17.244,
+        "end": 17.664,
+        "score": -0.7053
+      },
+      {
+        "word": "which",
+        "start_offset": 146,
+        "end_offset": 151,
+        "start": 18.685,
+        "end": 18.865,
+        "score": -0.7585
+      },
+      {
+        "word": "seems",
+        "start_offset": 152,
+        "end_offset": 157,
+        "start": 18.925,
+        "end": 19.225,
+        "score": -0.8687
+      },
+      {
+        "word": "to",
+        "start_offset": 158,
+        "end_offset": 160,
+        "start": 19.265,
+        "end": 19.345,
+        "score": -0.7054
+      },
+      {
+        "word": "be",
+        "start_offset": 161,
+        "end_offset": 163,
+        "start": 19.425,
+        "end": 19.525,
+        "score": -0.7016
+      },
+      {
+        "word": "anomalistic",
+        "start_offset": 164,
+        "end_offset": 175,
+        "start": 20.085,
+        "end": 20.885,
+        "score": -1.0513
+      },
+      {
+        "word": "with",
+        "start_offset": 176,
+        "end_offset": 180,
+        "start": 20.965,
+        "end": 21.105,
+        "score": -0.7075
+      },
+      {
+        "word": "respect",
+        "start_offset": 181,
+        "end_offset": 188,
+        "start": 21.185,
+        "end": 21.645,
+        "score": -0.7354
+      },
+      {
+        "word": "to",
+        "start_offset": 189,
+        "end_offset": 191,
+        "start": 21.685,
+        "end": 21.745,
+        "score": -0.7147
+      },
+      {
+        "word": "the",
+        "start_offset": 192,
+        "end_offset": 195,
+        "start": 21.785,
+        "end": 21.885,
+        "score": -0.7586
+      },
+      {
+        "word": "others.",
+        "start_offset": 196,
+        "end_offset": 203,
+        "start": 22.046,
+        "end": 22.386,
+        "score": -0.7048
+      },
+      {
+        "word": "Is",
+        "start_offset": 204,
+        "end_offset": 206,
+        "start": 24.006,
+        "end": 24.046,
+        "score": -3.8756
+      },
+      {
+        "word": "this",
+        "start_offset": 207,
+        "end_offset": 211,
+        "start": 24.066,
+        "end": 24.226,
+        "score": -4.2612
+      },
+      {
+        "word": "correct?",
+        "start_offset": 212,
+        "end_offset": 220,
+        "start": 24.286,
+        "end": 24.706,
+        "score": -0.7734
+      },
+      {
+        "word": "I",
+        "start_offset": 221,
+        "end_offset": 222,
+        "start": 27.687,
+        "end": 27.707,
+        "score": -1.5025
+      },
+      {
+        "word": "am",
+        "start_offset": 223,
+        "end_offset": 225,
+        "start": 28.527,
+        "end": 28.947,
+        "score": -4.921
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 226,
+        "end_offset": 229,
+        "start": 29.767,
+        "end": 29.907,
+        "score": -4.518
+      },
+      {
+        "word": "This",
+        "start_offset": 230,
+        "end_offset": 234,
+        "start": 31.268,
+        "end": 31.728,
+        "score": -0.9394
+      },
+      {
+        "word": "is",
+        "start_offset": 235,
+        "end_offset": 237,
+        "start": 32.628,
+        "end": 33.008,
+        "score": -0.9279
+      },
+      {
+        "word": "correct.",
+        "start_offset": 238,
+        "end_offset": 246,
+        "start": 34.249,
+        "end": 35.209,
+        "score": -0.7524
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "069-04.mp3",
+    "audio_duration": 36.049,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

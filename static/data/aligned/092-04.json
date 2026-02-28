@@ -1,0 +1,189 @@
+{
+  "text": "What is the present situation with the fifth-density negative visitor we have ? I am Ra. It is with this group.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What is the present situation with the fifth-density negative visitor we have I am Ra.",
+        "start_offset": 0,
+        "end_offset": 88,
+        "start": 2.201,
+        "end": 16.907
+      },
+      {
+        "segment": "It is with this group.",
+        "start_offset": 89,
+        "end_offset": 111,
+        "start": 20.209,
+        "end": 26.672
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.201,
+        "end": 2.421,
+        "score": -4.5452
+      },
+      {
+        "word": "is",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 2.661,
+        "end": 2.741,
+        "score": -4.2413
+      },
+      {
+        "word": "the",
+        "start_offset": 8,
+        "end_offset": 11,
+        "start": 2.821,
+        "end": 2.921,
+        "score": -4.3876
+      },
+      {
+        "word": "present",
+        "start_offset": 12,
+        "end_offset": 19,
+        "start": 4.102,
+        "end": 4.542,
+        "score": -4.3734
+      },
+      {
+        "word": "situation",
+        "start_offset": 20,
+        "end_offset": 29,
+        "start": 5.622,
+        "end": 6.443,
+        "score": -3.7893
+      },
+      {
+        "word": "with",
+        "start_offset": 30,
+        "end_offset": 34,
+        "start": 6.463,
+        "end": 6.723,
+        "score": -5.1159
+      },
+      {
+        "word": "the",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 6.923,
+        "end": 7.023,
+        "score": -4.1057
+      },
+      {
+        "word": "fifth-density",
+        "start_offset": 39,
+        "end_offset": 52,
+        "start": 7.103,
+        "end": 7.703,
+        "score": -4.7738
+      },
+      {
+        "word": "negative",
+        "start_offset": 53,
+        "end_offset": 61,
+        "start": 8.124,
+        "end": 8.584,
+        "score": -4.6967
+      },
+      {
+        "word": "visitor",
+        "start_offset": 62,
+        "end_offset": 69,
+        "start": 9.224,
+        "end": 9.644,
+        "score": -4.3069
+      },
+      {
+        "word": "we",
+        "start_offset": 70,
+        "end_offset": 72,
+        "start": 9.684,
+        "end": 9.764,
+        "score": -4.5597
+      },
+      {
+        "word": "have",
+        "start_offset": 73,
+        "end_offset": 77,
+        "start": 9.944,
+        "end": 10.044,
+        "score": -5.4799
+      },
+      {
+        "word": "I",
+        "start_offset": 80,
+        "end_offset": 81,
+        "start": 15.487,
+        "end": 15.507,
+        "score": -2.6934
+      },
+      {
+        "word": "am",
+        "start_offset": 82,
+        "end_offset": 84,
+        "start": 16.767,
+        "end": 16.807,
+        "score": -3.9416
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 85,
+        "end_offset": 88,
+        "start": 16.847,
+        "end": 16.907,
+        "score": -4.081
+      },
+      {
+        "word": "It",
+        "start_offset": 89,
+        "end_offset": 91,
+        "start": 20.209,
+        "end": 20.449,
+        "score": -3.1094
+      },
+      {
+        "word": "is",
+        "start_offset": 92,
+        "end_offset": 94,
+        "start": 21.409,
+        "end": 21.649,
+        "score": -2.46
+      },
+      {
+        "word": "with",
+        "start_offset": 95,
+        "end_offset": 99,
+        "start": 23.09,
+        "end": 23.49,
+        "score": -3.0219
+      },
+      {
+        "word": "this",
+        "start_offset": 100,
+        "end_offset": 104,
+        "start": 24.951,
+        "end": 25.331,
+        "score": -3.6026
+      },
+      {
+        "word": "group.",
+        "start_offset": 105,
+        "end_offset": 111,
+        "start": 26.171,
+        "end": 26.672,
+        "score": -2.7973
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "092-04.mp3",
+    "audio_duration": 31.0335,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "text": "Could you first please give me an indication of the instrument's condition? I am Ra. It is as previously stated with the exception of the vital energy level which is distorted more nearly towards that which is normal for this entity.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you first please give me an indication of the instrument's condition?",
+        "start_offset": 0,
+        "end_offset": 75,
+        "start": 0.94,
+        "end": 15.201
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 76,
+        "end_offset": 84,
+        "start": 15.982,
+        "end": 16.202
+      },
+      {
+        "segment": "It is as previously stated with the exception of the vital energy level which is distorted more nearly towards that which is normal for this entity.",
+        "start_offset": 85,
+        "end_offset": 233,
+        "start": 19.022,
+        "end": 60.166
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 0.94,
+        "end": 1.16,
+        "score": -7.7544
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 1.18,
+        "end": 1.24,
+        "score": -7.3719
+      },
+      {
+        "word": "first",
+        "start_offset": 10,
+        "end_offset": 15,
+        "start": 1.34,
+        "end": 1.68,
+        "score": -5.2517
+      },
+      {
+        "word": "please",
+        "start_offset": 16,
+        "end_offset": 22,
+        "start": 2.18,
+        "end": 2.52,
+        "score": -7.8451
+      },
+      {
+        "word": "give",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 2.54,
+        "end": 2.72,
+        "score": -8.9628
+      },
+      {
+        "word": "me",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 2.74,
+        "end": 2.82,
+        "score": -6.5056
+      },
+      {
+        "word": "an",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 3.3,
+        "end": 3.36,
+        "score": -7.6969
+      },
+      {
+        "word": "indication",
+        "start_offset": 34,
+        "end_offset": 44,
+        "start": 3.38,
+        "end": 4.0,
+        "score": -5.5667
+      },
+      {
+        "word": "of",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 4.06,
+        "end": 4.14,
+        "score": -6.6273
+      },
+      {
+        "word": "the",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 4.18,
+        "end": 4.26,
+        "score": -6.0808
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 52,
+        "end_offset": 64,
+        "start": 4.54,
+        "end": 5.04,
+        "score": -6.9188
+      },
+      {
+        "word": "condition?",
+        "start_offset": 65,
+        "end_offset": 75,
+        "start": 5.1,
+        "end": 15.201,
+        "score": -5.1345
+      },
+      {
+        "word": "I",
+        "start_offset": 76,
+        "end_offset": 77,
+        "start": 15.982,
+        "end": 16.002,
+        "score": -7.4312
+      },
+      {
+        "word": "am",
+        "start_offset": 78,
+        "end_offset": 80,
+        "start": 16.042,
+        "end": 16.082,
+        "score": -5.8051
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 81,
+        "end_offset": 84,
+        "start": 16.102,
+        "end": 16.202,
+        "score": -2.3144
+      },
+      {
+        "word": "It",
+        "start_offset": 85,
+        "end_offset": 87,
+        "start": 19.022,
+        "end": 19.262,
+        "score": -4.5622
+      },
+      {
+        "word": "is",
+        "start_offset": 88,
+        "end_offset": 90,
+        "start": 20.082,
+        "end": 20.422,
+        "score": -2.5193
+      },
+      {
+        "word": "as",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 21.162,
+        "end": 21.522,
+        "score": -0.8502
+      },
+      {
+        "word": "previously",
+        "start_offset": 94,
+        "end_offset": 104,
+        "start": 21.942,
+        "end": 23.362,
+        "score": -0.7654
+      },
+      {
+        "word": "stated",
+        "start_offset": 105,
+        "end_offset": 111,
+        "start": 24.802,
+        "end": 25.502,
+        "score": -0.7022
+      },
+      {
+        "word": "with",
+        "start_offset": 112,
+        "end_offset": 116,
+        "start": 26.883,
+        "end": 27.323,
+        "score": -0.7683
+      },
+      {
+        "word": "the",
+        "start_offset": 117,
+        "end_offset": 120,
+        "start": 27.703,
+        "end": 27.843,
+        "score": -0.7634
+      },
+      {
+        "word": "exception",
+        "start_offset": 121,
+        "end_offset": 130,
+        "start": 28.903,
+        "end": 30.083,
+        "score": -0.8757
+      },
+      {
+        "word": "of",
+        "start_offset": 131,
+        "end_offset": 133,
+        "start": 32.243,
+        "end": 32.583,
+        "score": -0.7175
+      },
+      {
+        "word": "the",
+        "start_offset": 134,
+        "end_offset": 137,
+        "start": 33.023,
+        "end": 33.203,
+        "score": -0.8216
+      },
+      {
+        "word": "vital",
+        "start_offset": 138,
+        "end_offset": 143,
+        "start": 34.203,
+        "end": 34.683,
+        "score": -0.799
+      },
+      {
+        "word": "energy",
+        "start_offset": 144,
+        "end_offset": 150,
+        "start": 36.343,
+        "end": 36.884,
+        "score": -0.7134
+      },
+      {
+        "word": "level",
+        "start_offset": 151,
+        "end_offset": 156,
+        "start": 38.204,
+        "end": 38.604,
+        "score": -1.2734
+      },
+      {
+        "word": "which",
+        "start_offset": 157,
+        "end_offset": 162,
+        "start": 40.084,
+        "end": 40.424,
+        "score": -0.9794
+      },
+      {
+        "word": "is",
+        "start_offset": 163,
+        "end_offset": 165,
+        "start": 41.364,
+        "end": 41.744,
+        "score": -1.0557
+      },
+      {
+        "word": "distorted",
+        "start_offset": 166,
+        "end_offset": 175,
+        "start": 43.744,
+        "end": 44.564,
+        "score": -0.7219
+      },
+      {
+        "word": "more",
+        "start_offset": 176,
+        "end_offset": 180,
+        "start": 45.644,
+        "end": 46.024,
+        "score": -0.8249
+      },
+      {
+        "word": "nearly",
+        "start_offset": 181,
+        "end_offset": 187,
+        "start": 47.225,
+        "end": 47.625,
+        "score": -0.7245
+      },
+      {
+        "word": "towards",
+        "start_offset": 188,
+        "end_offset": 195,
+        "start": 49.005,
+        "end": 49.585,
+        "score": -1.1171
+      },
+      {
+        "word": "that",
+        "start_offset": 196,
+        "end_offset": 200,
+        "start": 50.745,
+        "end": 51.065,
+        "score": -2.1063
+      },
+      {
+        "word": "which",
+        "start_offset": 201,
+        "end_offset": 206,
+        "start": 51.605,
+        "end": 51.965,
+        "score": -0.8432
+      },
+      {
+        "word": "is",
+        "start_offset": 207,
+        "end_offset": 209,
+        "start": 52.405,
+        "end": 52.805,
+        "score": -1.146
+      },
+      {
+        "word": "normal",
+        "start_offset": 210,
+        "end_offset": 216,
+        "start": 55.325,
+        "end": 55.805,
+        "score": -0.7064
+      },
+      {
+        "word": "for",
+        "start_offset": 217,
+        "end_offset": 220,
+        "start": 56.645,
+        "end": 57.005,
+        "score": -0.9166
+      },
+      {
+        "word": "this",
+        "start_offset": 221,
+        "end_offset": 225,
+        "start": 57.726,
+        "end": 58.066,
+        "score": -2.4959
+      },
+      {
+        "word": "entity.",
+        "start_offset": 226,
+        "end_offset": 233,
+        "start": 59.606,
+        "end": 60.166,
+        "score": -0.8262
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "073-01.mp3",
+    "audio_duration": 64.0261,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

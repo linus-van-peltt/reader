@@ -1,0 +1,124 @@
+{
+  "text": "Is there a best way to meditate? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there a best way to meditate?",
+        "start_offset": 0,
+        "end_offset": 32,
+        "start": 2.582,
+        "end": 15.755
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 33,
+        "end_offset": 41,
+        "start": 15.955,
+        "end": 16.756
+      },
+      {
+        "segment": "No.",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 22.241,
+        "end": 22.381
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.582,
+        "end": 2.703,
+        "score": -1.8266
+      },
+      {
+        "word": "there",
+        "start_offset": 3,
+        "end_offset": 8,
+        "start": 2.763,
+        "end": 3.043,
+        "score": -3.3322
+      },
+      {
+        "word": "a",
+        "start_offset": 9,
+        "end_offset": 10,
+        "start": 5.405,
+        "end": 5.425,
+        "score": -3.6283
+      },
+      {
+        "word": "best",
+        "start_offset": 11,
+        "end_offset": 15,
+        "start": 5.585,
+        "end": 5.925,
+        "score": -2.8624
+      },
+      {
+        "word": "way",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 6.046,
+        "end": 6.226,
+        "score": -2.8981
+      },
+      {
+        "word": "to",
+        "start_offset": 20,
+        "end_offset": 22,
+        "start": 7.307,
+        "end": 7.407,
+        "score": -2.5502
+      },
+      {
+        "word": "meditate?",
+        "start_offset": 23,
+        "end_offset": 32,
+        "start": 14.794,
+        "end": 15.755,
+        "score": -4.4118
+      },
+      {
+        "word": "I",
+        "start_offset": 33,
+        "end_offset": 34,
+        "start": 15.955,
+        "end": 15.975,
+        "score": -2.1694
+      },
+      {
+        "word": "am",
+        "start_offset": 35,
+        "end_offset": 37,
+        "start": 16.535,
+        "end": 16.575,
+        "score": -3.1078
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 16.675,
+        "end": 16.756,
+        "score": -2.1622
+      },
+      {
+        "word": "No.",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 22.241,
+        "end": 22.381,
+        "score": -1.6004
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "017-40.mp3",
+    "audio_duration": 26.0441,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

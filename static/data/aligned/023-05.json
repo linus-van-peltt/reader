@@ -1,0 +1,228 @@
+{
+  "text": "Can you tell me your reason for being visible to them? I am Ra. We allowed visibility because it did not make any difference.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me your reason for being visible to them?",
+        "start_offset": 0,
+        "end_offset": 54,
+        "start": 2.342,
+        "end": 4.383
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 55,
+        "end_offset": 63,
+        "start": 9.066,
+        "end": 11.008
+      },
+      {
+        "segment": "We allowed visibility because it did not make any difference.",
+        "start_offset": 64,
+        "end_offset": 125,
+        "start": 13.449,
+        "end": 29.46
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.342,
+        "end": 2.482,
+        "score": -4.0699
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 2.522,
+        "end": 2.582,
+        "score": -5.1554
+      },
+      {
+        "word": "tell",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 2.622,
+        "end": 2.802,
+        "score": -3.8113
+      },
+      {
+        "word": "me",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 2.822,
+        "end": 2.882,
+        "score": -4.1177
+      },
+      {
+        "word": "your",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 2.922,
+        "end": 3.022,
+        "score": -3.4667
+      },
+      {
+        "word": "reason",
+        "start_offset": 21,
+        "end_offset": 27,
+        "start": 3.102,
+        "end": 3.382,
+        "score": -4.0629
+      },
+      {
+        "word": "for",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 3.442,
+        "end": 3.542,
+        "score": -3.9133
+      },
+      {
+        "word": "being",
+        "start_offset": 32,
+        "end_offset": 37,
+        "start": 3.603,
+        "end": 3.803,
+        "score": -4.1637
+      },
+      {
+        "word": "visible",
+        "start_offset": 38,
+        "end_offset": 45,
+        "start": 3.843,
+        "end": 4.123,
+        "score": -7.5493
+      },
+      {
+        "word": "to",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 4.163,
+        "end": 4.203,
+        "score": -9.029
+      },
+      {
+        "word": "them?",
+        "start_offset": 49,
+        "end_offset": 54,
+        "start": 4.223,
+        "end": 4.383,
+        "score": -8.41
+      },
+      {
+        "word": "I",
+        "start_offset": 55,
+        "end_offset": 56,
+        "start": 9.066,
+        "end": 9.086,
+        "score": -0.7524
+      },
+      {
+        "word": "am",
+        "start_offset": 57,
+        "end_offset": 59,
+        "start": 9.807,
+        "end": 10.087,
+        "score": -0.7828
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 60,
+        "end_offset": 63,
+        "start": 10.868,
+        "end": 11.008,
+        "score": -0.929
+      },
+      {
+        "word": "We",
+        "start_offset": 64,
+        "end_offset": 66,
+        "start": 13.449,
+        "end": 13.609,
+        "score": -0.7172
+      },
+      {
+        "word": "allowed",
+        "start_offset": 67,
+        "end_offset": 74,
+        "start": 15.411,
+        "end": 16.071,
+        "score": -0.8807
+      },
+      {
+        "word": "visibility",
+        "start_offset": 75,
+        "end_offset": 85,
+        "start": 16.952,
+        "end": 18.173,
+        "score": -0.7355
+      },
+      {
+        "word": "because",
+        "start_offset": 86,
+        "end_offset": 93,
+        "start": 19.654,
+        "end": 20.634,
+        "score": -0.7176
+      },
+      {
+        "word": "it",
+        "start_offset": 94,
+        "end_offset": 96,
+        "start": 22.055,
+        "end": 22.275,
+        "score": -0.7027
+      },
+      {
+        "word": "did",
+        "start_offset": 97,
+        "end_offset": 100,
+        "start": 22.916,
+        "end": 23.276,
+        "score": -0.7001
+      },
+      {
+        "word": "not",
+        "start_offset": 101,
+        "end_offset": 104,
+        "start": 23.997,
+        "end": 24.397,
+        "score": -0.7053
+      },
+      {
+        "word": "make",
+        "start_offset": 105,
+        "end_offset": 109,
+        "start": 26.098,
+        "end": 26.498,
+        "score": -0.6982
+      },
+      {
+        "word": "any",
+        "start_offset": 110,
+        "end_offset": 113,
+        "start": 27.459,
+        "end": 27.699,
+        "score": -0.6957
+      },
+      {
+        "word": "difference.",
+        "start_offset": 114,
+        "end_offset": 125,
+        "start": 28.48,
+        "end": 29.46,
+        "score": -0.748
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "023-05.mp3",
+    "audio_duration": 30.0409,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

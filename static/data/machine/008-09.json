@@ -1,0 +1,303 @@
+{
+  "text": "How many of these crits does the United States have? I am wrong. The United States has five hundred seven three five seven three at this time. They are in the process of adding to this number.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "How many of these crits does the United States have?",
+        "start_offset": 28,
+        "end_offset": 70,
+        "start": 2.24,
+        "end": 5.6000000000000005
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 130,
+        "end_offset": 169,
+        "start": 10.4,
+        "end": 13.52
+      },
+      {
+        "segment": "The United States has five hundred seven three five seven three at this time.",
+        "start_offset": 182,
+        "end_offset": 437,
+        "start": 14.56,
+        "end": 34.96
+      },
+      {
+        "segment": "They are in the process of adding to this number.",
+        "start_offset": 469,
+        "end_offset": 645,
+        "start": 37.52,
+        "end": 51.6
+      }
+    ],
+    "word": [
+      {
+        "word": "How",
+        "start_offset": 28,
+        "end_offset": 33,
+        "start": 2.24,
+        "end": 2.64
+      },
+      {
+        "word": "many",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 2.64,
+        "end": 2.88
+      },
+      {
+        "word": "of",
+        "start_offset": 36,
+        "end_offset": 37,
+        "start": 2.88,
+        "end": 2.96
+      },
+      {
+        "word": "these",
+        "start_offset": 37,
+        "end_offset": 40,
+        "start": 2.96,
+        "end": 3.2
+      },
+      {
+        "word": "crits",
+        "start_offset": 40,
+        "end_offset": 45,
+        "start": 3.2,
+        "end": 3.6
+      },
+      {
+        "word": "does",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 3.68,
+        "end": 3.84
+      },
+      {
+        "word": "the",
+        "start_offset": 48,
+        "end_offset": 49,
+        "start": 3.84,
+        "end": 3.92
+      },
+      {
+        "word": "United",
+        "start_offset": 50,
+        "end_offset": 55,
+        "start": 4.0,
+        "end": 4.4
+      },
+      {
+        "word": "States",
+        "start_offset": 55,
+        "end_offset": 61,
+        "start": 4.4,
+        "end": 4.88
+      },
+      {
+        "word": "have?",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 5.36,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "I",
+        "start_offset": 130,
+        "end_offset": 134,
+        "start": 10.4,
+        "end": 10.72
+      },
+      {
+        "word": "am",
+        "start_offset": 142,
+        "end_offset": 146,
+        "start": 11.36,
+        "end": 11.68
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 158,
+        "end_offset": 169,
+        "start": 12.64,
+        "end": 13.52
+      },
+      {
+        "word": "The",
+        "start_offset": 182,
+        "end_offset": 186,
+        "start": 14.56,
+        "end": 14.88
+      },
+      {
+        "word": "United",
+        "start_offset": 202,
+        "end_offset": 214,
+        "start": 16.16,
+        "end": 17.12
+      },
+      {
+        "word": "States",
+        "start_offset": 222,
+        "end_offset": 230,
+        "start": 17.76,
+        "end": 18.400000000000002
+      },
+      {
+        "word": "has",
+        "start_offset": 246,
+        "end_offset": 250,
+        "start": 19.68,
+        "end": 20.0
+      },
+      {
+        "word": "five",
+        "start_offset": 274,
+        "end_offset": 282,
+        "start": 21.92,
+        "end": 22.56
+      },
+      {
+        "word": "hundred",
+        "start_offset": 294,
+        "end_offset": 302,
+        "start": 23.52,
+        "end": 24.16
+      },
+      {
+        "word": "seven",
+        "start_offset": 321,
+        "end_offset": 329,
+        "start": 25.68,
+        "end": 26.32
+      },
+      {
+        "word": "three",
+        "start_offset": 339,
+        "end_offset": 347,
+        "start": 27.12,
+        "end": 27.76
+      },
+      {
+        "word": "five",
+        "start_offset": 359,
+        "end_offset": 367,
+        "start": 28.72,
+        "end": 29.36
+      },
+      {
+        "word": "seven",
+        "start_offset": 375,
+        "end_offset": 383,
+        "start": 30.0,
+        "end": 30.64
+      },
+      {
+        "word": "three",
+        "start_offset": 389,
+        "end_offset": 397,
+        "start": 31.12,
+        "end": 31.76
+      },
+      {
+        "word": "at",
+        "start_offset": 409,
+        "end_offset": 413,
+        "start": 32.72,
+        "end": 33.04
+      },
+      {
+        "word": "this",
+        "start_offset": 421,
+        "end_offset": 425,
+        "start": 33.68,
+        "end": 34.0
+      },
+      {
+        "word": "time.",
+        "start_offset": 433,
+        "end_offset": 437,
+        "start": 34.64,
+        "end": 34.96
+      },
+      {
+        "word": "They",
+        "start_offset": 469,
+        "end_offset": 477,
+        "start": 37.52,
+        "end": 38.160000000000004
+      },
+      {
+        "word": "are",
+        "start_offset": 489,
+        "end_offset": 493,
+        "start": 39.12,
+        "end": 39.44
+      },
+      {
+        "word": "in",
+        "start_offset": 509,
+        "end_offset": 513,
+        "start": 40.72,
+        "end": 41.04
+      },
+      {
+        "word": "the",
+        "start_offset": 521,
+        "end_offset": 525,
+        "start": 41.68,
+        "end": 42.0
+      },
+      {
+        "word": "process",
+        "start_offset": 537,
+        "end_offset": 545,
+        "start": 42.96,
+        "end": 43.6
+      },
+      {
+        "word": "of",
+        "start_offset": 561,
+        "end_offset": 565,
+        "start": 44.88,
+        "end": 45.2
+      },
+      {
+        "word": "adding",
+        "start_offset": 577,
+        "end_offset": 589,
+        "start": 46.160000000000004,
+        "end": 47.12
+      },
+      {
+        "word": "to",
+        "start_offset": 597,
+        "end_offset": 601,
+        "start": 47.76,
+        "end": 48.08
+      },
+      {
+        "word": "this",
+        "start_offset": 617,
+        "end_offset": 621,
+        "start": 49.36,
+        "end": 49.68
+      },
+      {
+        "word": "number.",
+        "start_offset": 637,
+        "end_offset": 645,
+        "start": 50.96,
+        "end": 51.6
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "008-09.mp3",
+    "audio_duration": 54.05,
+    "transcription_time": 0.12,
+    "rtfx": 468.16,
+    "timestamp": "2026-01-06T21:46:21.943994+00:00"
+  }
+}

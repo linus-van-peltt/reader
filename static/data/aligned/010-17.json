@@ -1,0 +1,229 @@
+{
+  "text": "Then would nine planets and our sun we have here in our system, would you refer to that as a solar galaxy? We would not.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then would nine planets and our sun we have here in our system, would you refer to that as a solar galaxy?",
+        "start_offset": 0,
+        "end_offset": 106,
+        "start": 1.422,
+        "end": 9.592
+      },
+      {
+        "segment": "We would not.",
+        "start_offset": 107,
+        "end_offset": 120,
+        "start": 14.298,
+        "end": 16.921
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 1.422,
+        "end": 1.582,
+        "score": -4.2382
+      },
+      {
+        "word": "would",
+        "start_offset": 5,
+        "end_offset": 10,
+        "start": 2.843,
+        "end": 2.964,
+        "score": -4.0986
+      },
+      {
+        "word": "nine",
+        "start_offset": 11,
+        "end_offset": 15,
+        "start": 3.044,
+        "end": 3.785,
+        "score": -3.8986
+      },
+      {
+        "word": "planets",
+        "start_offset": 16,
+        "end_offset": 23,
+        "start": 4.045,
+        "end": 4.546,
+        "score": -3.6273
+      },
+      {
+        "word": "and",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 4.666,
+        "end": 4.786,
+        "score": -4.0437
+      },
+      {
+        "word": "our",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 4.826,
+        "end": 4.946,
+        "score": -5.5086
+      },
+      {
+        "word": "sun",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 5.026,
+        "end": 5.286,
+        "score": -3.2936
+      },
+      {
+        "word": "we",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 6.188,
+        "end": 6.288,
+        "score": -3.5907
+      },
+      {
+        "word": "have",
+        "start_offset": 39,
+        "end_offset": 43,
+        "start": 6.408,
+        "end": 6.608,
+        "score": -3.8149
+      },
+      {
+        "word": "here",
+        "start_offset": 44,
+        "end_offset": 48,
+        "start": 6.628,
+        "end": 6.748,
+        "score": -3.2055
+      },
+      {
+        "word": "in",
+        "start_offset": 49,
+        "end_offset": 51,
+        "start": 6.808,
+        "end": 6.848,
+        "score": -4.6478
+      },
+      {
+        "word": "our",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 6.868,
+        "end": 6.928,
+        "score": -4.9266
+      },
+      {
+        "word": "system,",
+        "start_offset": 56,
+        "end_offset": 63,
+        "start": 7.069,
+        "end": 7.469,
+        "score": -2.5388
+      },
+      {
+        "word": "would",
+        "start_offset": 64,
+        "end_offset": 69,
+        "start": 7.509,
+        "end": 7.629,
+        "score": -5.5207
+      },
+      {
+        "word": "you",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 7.669,
+        "end": 7.79,
+        "score": -4.7849
+      },
+      {
+        "word": "refer",
+        "start_offset": 74,
+        "end_offset": 79,
+        "start": 7.81,
+        "end": 8.05,
+        "score": -3.4557
+      },
+      {
+        "word": "to",
+        "start_offset": 80,
+        "end_offset": 82,
+        "start": 8.07,
+        "end": 8.13,
+        "score": -3.8086
+      },
+      {
+        "word": "that",
+        "start_offset": 83,
+        "end_offset": 87,
+        "start": 8.25,
+        "end": 8.41,
+        "score": -3.0623
+      },
+      {
+        "word": "as",
+        "start_offset": 88,
+        "end_offset": 90,
+        "start": 8.55,
+        "end": 8.651,
+        "score": -3.0743
+      },
+      {
+        "word": "a",
+        "start_offset": 91,
+        "end_offset": 92,
+        "start": 8.671,
+        "end": 8.691,
+        "score": -2.271
+      },
+      {
+        "word": "solar",
+        "start_offset": 93,
+        "end_offset": 98,
+        "start": 8.751,
+        "end": 8.971,
+        "score": -3.8064
+      },
+      {
+        "word": "galaxy?",
+        "start_offset": 99,
+        "end_offset": 106,
+        "start": 9.091,
+        "end": 9.592,
+        "score": -3.4362
+      },
+      {
+        "word": "We",
+        "start_offset": 107,
+        "end_offset": 109,
+        "start": 14.298,
+        "end": 14.398,
+        "score": -1.7917
+      },
+      {
+        "word": "would",
+        "start_offset": 110,
+        "end_offset": 115,
+        "start": 15.419,
+        "end": 15.739,
+        "score": -4.3234
+      },
+      {
+        "word": "not.",
+        "start_offset": 116,
+        "end_offset": 120,
+        "start": 16.46,
+        "end": 16.921,
+        "score": -3.069
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "010-17.mp3",
+    "audio_duration": 19.0433,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

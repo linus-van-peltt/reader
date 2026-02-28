@@ -1,0 +1,547 @@
+{
+  "text": "Which has more of the Law of One in it, the Old Testament or the New Testament? I am Ra. Withdrawing from each of the collections of which you speak the portions having to do with the Law of One, the content is approximately equal. However, the so-called Old Testament has a larger amount of negatively influenced material, as you would call it.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Which has more of the Law of One in it, the Old Testament or the New Testament?",
+        "start_offset": 0,
+        "end_offset": 79,
+        "start": 1.9,
+        "end": 14.042
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 80,
+        "end_offset": 88,
+        "start": 14.062,
+        "end": 15.362
+      },
+      {
+        "segment": "Withdrawing from each of the collections of which you speak the portions having to do with the Law of One, the content is approximately equal.",
+        "start_offset": 89,
+        "end_offset": 231,
+        "start": 18.383,
+        "end": 55.308
+      },
+      {
+        "segment": "However, the so-called Old Testament has a larger amount of negatively influenced material, as you would call it.",
+        "start_offset": 232,
+        "end_offset": 345,
+        "start": 56.948,
+        "end": 86.652
+      }
+    ],
+    "word": [
+      {
+        "word": "Which",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 1.9,
+        "end": 2.08,
+        "score": -5.8801
+      },
+      {
+        "word": "has",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 2.12,
+        "end": 2.34,
+        "score": -6.3196
+      },
+      {
+        "word": "more",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 2.44,
+        "end": 2.78,
+        "score": -8.6377
+      },
+      {
+        "word": "of",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 3.04,
+        "end": 3.12,
+        "score": -6.6553
+      },
+      {
+        "word": "the",
+        "start_offset": 18,
+        "end_offset": 21,
+        "start": 3.14,
+        "end": 3.2,
+        "score": -6.7825
+      },
+      {
+        "word": "Law",
+        "start_offset": 22,
+        "end_offset": 25,
+        "start": 3.26,
+        "end": 3.44,
+        "score": -9.7163
+      },
+      {
+        "word": "of",
+        "start_offset": 26,
+        "end_offset": 28,
+        "start": 3.481,
+        "end": 3.541,
+        "score": -10.7459
+      },
+      {
+        "word": "One",
+        "start_offset": 29,
+        "end_offset": 32,
+        "start": 3.661,
+        "end": 3.821,
+        "score": -9.9082
+      },
+      {
+        "word": "in",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 3.841,
+        "end": 3.901,
+        "score": -10.9593
+      },
+      {
+        "word": "it,",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 3.941,
+        "end": 4.041,
+        "score": -11.0892
+      },
+      {
+        "word": "the",
+        "start_offset": 40,
+        "end_offset": 43,
+        "start": 4.061,
+        "end": 4.121,
+        "score": -9.1337
+      },
+      {
+        "word": "Old",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 4.241,
+        "end": 4.381,
+        "score": -8.5415
+      },
+      {
+        "word": "Testament",
+        "start_offset": 48,
+        "end_offset": 57,
+        "start": 4.421,
+        "end": 4.881,
+        "score": -8.3084
+      },
+      {
+        "word": "or",
+        "start_offset": 58,
+        "end_offset": 60,
+        "start": 4.941,
+        "end": 5.001,
+        "score": -8.9236
+      },
+      {
+        "word": "the",
+        "start_offset": 61,
+        "end_offset": 64,
+        "start": 5.341,
+        "end": 12.402,
+        "score": -6.02
+      },
+      {
+        "word": "New",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 12.762,
+        "end": 12.822,
+        "score": -8.1626
+      },
+      {
+        "word": "Testament?",
+        "start_offset": 69,
+        "end_offset": 79,
+        "start": 12.842,
+        "end": 14.042,
+        "score": -7.8867
+      },
+      {
+        "word": "I",
+        "start_offset": 80,
+        "end_offset": 81,
+        "start": 14.062,
+        "end": 14.082,
+        "score": -7.502
+      },
+      {
+        "word": "am",
+        "start_offset": 82,
+        "end_offset": 84,
+        "start": 14.102,
+        "end": 14.202,
+        "score": -5.0842
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 85,
+        "end_offset": 88,
+        "start": 15.182,
+        "end": 15.362,
+        "score": -1.212
+      },
+      {
+        "word": "Withdrawing",
+        "start_offset": 89,
+        "end_offset": 100,
+        "start": 18.383,
+        "end": 20.383,
+        "score": -0.7456
+      },
+      {
+        "word": "from",
+        "start_offset": 101,
+        "end_offset": 105,
+        "start": 20.843,
+        "end": 21.303,
+        "score": -0.7031
+      },
+      {
+        "word": "each",
+        "start_offset": 106,
+        "end_offset": 110,
+        "start": 23.003,
+        "end": 23.363,
+        "score": -1.3243
+      },
+      {
+        "word": "of",
+        "start_offset": 111,
+        "end_offset": 113,
+        "start": 24.364,
+        "end": 24.724,
+        "score": -0.7809
+      },
+      {
+        "word": "the",
+        "start_offset": 114,
+        "end_offset": 117,
+        "start": 25.304,
+        "end": 25.444,
+        "score": -0.8865
+      },
+      {
+        "word": "collections",
+        "start_offset": 118,
+        "end_offset": 129,
+        "start": 27.204,
+        "end": 28.964,
+        "score": -1.2278
+      },
+      {
+        "word": "of",
+        "start_offset": 130,
+        "end_offset": 132,
+        "start": 29.484,
+        "end": 29.764,
+        "score": -0.6954
+      },
+      {
+        "word": "which",
+        "start_offset": 133,
+        "end_offset": 138,
+        "start": 30.144,
+        "end": 30.504,
+        "score": -0.726
+      },
+      {
+        "word": "you",
+        "start_offset": 139,
+        "end_offset": 142,
+        "start": 30.864,
+        "end": 31.004,
+        "score": -0.8559
+      },
+      {
+        "word": "speak",
+        "start_offset": 143,
+        "end_offset": 148,
+        "start": 31.465,
+        "end": 32.125,
+        "score": -0.7014
+      },
+      {
+        "word": "the",
+        "start_offset": 149,
+        "end_offset": 152,
+        "start": 33.785,
+        "end": 33.945,
+        "score": -0.8907
+      },
+      {
+        "word": "portions",
+        "start_offset": 153,
+        "end_offset": 161,
+        "start": 35.105,
+        "end": 36.365,
+        "score": -0.728
+      },
+      {
+        "word": "having",
+        "start_offset": 162,
+        "end_offset": 168,
+        "start": 37.645,
+        "end": 38.326,
+        "score": -0.7054
+      },
+      {
+        "word": "to",
+        "start_offset": 169,
+        "end_offset": 171,
+        "start": 38.686,
+        "end": 38.886,
+        "score": -0.709
+      },
+      {
+        "word": "do",
+        "start_offset": 172,
+        "end_offset": 174,
+        "start": 39.386,
+        "end": 39.526,
+        "score": -0.7078
+      },
+      {
+        "word": "with",
+        "start_offset": 175,
+        "end_offset": 179,
+        "start": 40.446,
+        "end": 40.826,
+        "score": -0.7094
+      },
+      {
+        "word": "the",
+        "start_offset": 180,
+        "end_offset": 183,
+        "start": 41.766,
+        "end": 41.946,
+        "score": -0.7167
+      },
+      {
+        "word": "Law",
+        "start_offset": 184,
+        "end_offset": 187,
+        "start": 42.546,
+        "end": 42.966,
+        "score": -0.8063
+      },
+      {
+        "word": "of",
+        "start_offset": 188,
+        "end_offset": 190,
+        "start": 44.086,
+        "end": 44.386,
+        "score": -0.7019
+      },
+      {
+        "word": "One,",
+        "start_offset": 191,
+        "end_offset": 195,
+        "start": 44.966,
+        "end": 45.307,
+        "score": -0.7156
+      },
+      {
+        "word": "the",
+        "start_offset": 196,
+        "end_offset": 199,
+        "start": 46.567,
+        "end": 46.727,
+        "score": -0.8297
+      },
+      {
+        "word": "content",
+        "start_offset": 200,
+        "end_offset": 207,
+        "start": 47.427,
+        "end": 48.887,
+        "score": -0.7018
+      },
+      {
+        "word": "is",
+        "start_offset": 208,
+        "end_offset": 210,
+        "start": 50.067,
+        "end": 50.467,
+        "score": -0.699
+      },
+      {
+        "word": "approximately",
+        "start_offset": 211,
+        "end_offset": 224,
+        "start": 51.067,
+        "end": 53.228,
+        "score": -0.9269
+      },
+      {
+        "word": "equal.",
+        "start_offset": 225,
+        "end_offset": 231,
+        "start": 54.628,
+        "end": 55.308,
+        "score": -0.8158
+      },
+      {
+        "word": "However,",
+        "start_offset": 232,
+        "end_offset": 240,
+        "start": 56.948,
+        "end": 58.348,
+        "score": -0.7521
+      },
+      {
+        "word": "the",
+        "start_offset": 241,
+        "end_offset": 244,
+        "start": 60.129,
+        "end": 60.269,
+        "score": -0.7738
+      },
+      {
+        "word": "so-called",
+        "start_offset": 245,
+        "end_offset": 254,
+        "start": 61.149,
+        "end": 62.809,
+        "score": -0.7374
+      },
+      {
+        "word": "Old",
+        "start_offset": 255,
+        "end_offset": 258,
+        "start": 64.049,
+        "end": 64.549,
+        "score": -0.7273
+      },
+      {
+        "word": "Testament",
+        "start_offset": 259,
+        "end_offset": 268,
+        "start": 65.269,
+        "end": 66.57,
+        "score": -0.7029
+      },
+      {
+        "word": "has",
+        "start_offset": 269,
+        "end_offset": 272,
+        "start": 68.05,
+        "end": 68.61,
+        "score": -0.8359
+      },
+      {
+        "word": "a",
+        "start_offset": 273,
+        "end_offset": 274,
+        "start": 69.41,
+        "end": 69.43,
+        "score": -0.7041
+      },
+      {
+        "word": "larger",
+        "start_offset": 275,
+        "end_offset": 281,
+        "start": 70.37,
+        "end": 71.15,
+        "score": -0.7271
+      },
+      {
+        "word": "amount",
+        "start_offset": 282,
+        "end_offset": 288,
+        "start": 72.45,
+        "end": 73.311,
+        "score": -0.7071
+      },
+      {
+        "word": "of",
+        "start_offset": 289,
+        "end_offset": 291,
+        "start": 74.491,
+        "end": 74.871,
+        "score": -0.7044
+      },
+      {
+        "word": "negatively",
+        "start_offset": 292,
+        "end_offset": 302,
+        "start": 76.051,
+        "end": 77.511,
+        "score": -0.7249
+      },
+      {
+        "word": "influenced",
+        "start_offset": 303,
+        "end_offset": 313,
+        "start": 78.831,
+        "end": 80.172,
+        "score": -1.7323
+      },
+      {
+        "word": "material,",
+        "start_offset": 314,
+        "end_offset": 323,
+        "start": 81.052,
+        "end": 82.512,
+        "score": -0.7203
+      },
+      {
+        "word": "as",
+        "start_offset": 324,
+        "end_offset": 326,
+        "start": 83.672,
+        "end": 84.032,
+        "score": -0.6978
+      },
+      {
+        "word": "you",
+        "start_offset": 327,
+        "end_offset": 330,
+        "start": 84.352,
+        "end": 84.492,
+        "score": -0.7413
+      },
+      {
+        "word": "would",
+        "start_offset": 331,
+        "end_offset": 336,
+        "start": 84.972,
+        "end": 85.332,
+        "score": -0.7834
+      },
+      {
+        "word": "call",
+        "start_offset": 337,
+        "end_offset": 341,
+        "start": 85.532,
+        "end": 86.052,
+        "score": -0.7343
+      },
+      {
+        "word": "it.",
+        "start_offset": 342,
+        "end_offset": 345,
+        "start": 86.372,
+        "end": 86.652,
+        "score": -0.7001
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "026-07.mp3",
+    "audio_duration": 88.0327,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

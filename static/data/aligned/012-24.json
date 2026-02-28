@@ -1,0 +1,284 @@
+{
+  "text": "Would this be against the Law of One and I would be making a mistake by grabbing these entities? I am Ra. There are no mistakes under the Law of One.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would this be against the Law of One and I would be making a mistake by grabbing these entities?",
+        "start_offset": 0,
+        "end_offset": 96,
+        "start": 1.54,
+        "end": 10.922
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 97,
+        "end_offset": 105,
+        "start": 16.723,
+        "end": 18.804
+      },
+      {
+        "segment": "There are no mistakes under the Law of One.",
+        "start_offset": 106,
+        "end_offset": 149,
+        "start": 21.384,
+        "end": 31.626
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 1.54,
+        "end": 1.94,
+        "score": -6.0361
+      },
+      {
+        "word": "this",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 2.08,
+        "end": 2.28,
+        "score": -3.172
+      },
+      {
+        "word": "be",
+        "start_offset": 11,
+        "end_offset": 13,
+        "start": 2.4,
+        "end": 2.48,
+        "score": -3.3486
+      },
+      {
+        "word": "against",
+        "start_offset": 14,
+        "end_offset": 21,
+        "start": 2.6,
+        "end": 3.021,
+        "score": -1.9862
+      },
+      {
+        "word": "the",
+        "start_offset": 22,
+        "end_offset": 25,
+        "start": 3.041,
+        "end": 3.181,
+        "score": -3.3311
+      },
+      {
+        "word": "Law",
+        "start_offset": 26,
+        "end_offset": 29,
+        "start": 3.281,
+        "end": 3.521,
+        "score": -4.1083
+      },
+      {
+        "word": "of",
+        "start_offset": 30,
+        "end_offset": 32,
+        "start": 3.541,
+        "end": 3.641,
+        "score": -4.5534
+      },
+      {
+        "word": "One",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 3.961,
+        "end": 4.181,
+        "score": -2.4085
+      },
+      {
+        "word": "and",
+        "start_offset": 37,
+        "end_offset": 40,
+        "start": 4.781,
+        "end": 4.861,
+        "score": -4.7407
+      },
+      {
+        "word": "I",
+        "start_offset": 41,
+        "end_offset": 42,
+        "start": 4.881,
+        "end": 4.901,
+        "score": -4.8329
+      },
+      {
+        "word": "would",
+        "start_offset": 43,
+        "end_offset": 48,
+        "start": 5.041,
+        "end": 5.201,
+        "score": -5.6423
+      },
+      {
+        "word": "be",
+        "start_offset": 49,
+        "end_offset": 51,
+        "start": 5.241,
+        "end": 5.281,
+        "score": -6.6336
+      },
+      {
+        "word": "making",
+        "start_offset": 52,
+        "end_offset": 58,
+        "start": 5.301,
+        "end": 5.561,
+        "score": -3.5513
+      },
+      {
+        "word": "a",
+        "start_offset": 59,
+        "end_offset": 60,
+        "start": 5.621,
+        "end": 5.641,
+        "score": -3.7216
+      },
+      {
+        "word": "mistake",
+        "start_offset": 61,
+        "end_offset": 68,
+        "start": 5.701,
+        "end": 6.121,
+        "score": -3.2146
+      },
+      {
+        "word": "by",
+        "start_offset": 69,
+        "end_offset": 71,
+        "start": 7.461,
+        "end": 7.501,
+        "score": -4.897
+      },
+      {
+        "word": "grabbing",
+        "start_offset": 72,
+        "end_offset": 80,
+        "start": 7.962,
+        "end": 8.422,
+        "score": -4.5337
+      },
+      {
+        "word": "these",
+        "start_offset": 81,
+        "end_offset": 86,
+        "start": 8.822,
+        "end": 9.162,
+        "score": -2.8235
+      },
+      {
+        "word": "entities?",
+        "start_offset": 87,
+        "end_offset": 96,
+        "start": 10.482,
+        "end": 10.922,
+        "score": -4.0028
+      },
+      {
+        "word": "I",
+        "start_offset": 97,
+        "end_offset": 98,
+        "start": 16.723,
+        "end": 16.743,
+        "score": -1.8524
+      },
+      {
+        "word": "am",
+        "start_offset": 99,
+        "end_offset": 101,
+        "start": 17.483,
+        "end": 17.623,
+        "score": -3.4043
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 102,
+        "end_offset": 105,
+        "start": 18.664,
+        "end": 18.804,
+        "score": -3.1332
+      },
+      {
+        "word": "There",
+        "start_offset": 106,
+        "end_offset": 111,
+        "start": 21.384,
+        "end": 21.704,
+        "score": -2.165
+      },
+      {
+        "word": "are",
+        "start_offset": 112,
+        "end_offset": 115,
+        "start": 22.704,
+        "end": 23.024,
+        "score": -1.3568
+      },
+      {
+        "word": "no",
+        "start_offset": 116,
+        "end_offset": 118,
+        "start": 23.925,
+        "end": 24.045,
+        "score": -1.3007
+      },
+      {
+        "word": "mistakes",
+        "start_offset": 119,
+        "end_offset": 127,
+        "start": 25.305,
+        "end": 26.325,
+        "score": -1.9929
+      },
+      {
+        "word": "under",
+        "start_offset": 128,
+        "end_offset": 133,
+        "start": 27.545,
+        "end": 27.865,
+        "score": -1.4723
+      },
+      {
+        "word": "the",
+        "start_offset": 134,
+        "end_offset": 137,
+        "start": 29.106,
+        "end": 29.226,
+        "score": -3.0432
+      },
+      {
+        "word": "Law",
+        "start_offset": 138,
+        "end_offset": 141,
+        "start": 29.326,
+        "end": 29.446,
+        "score": -5.4089
+      },
+      {
+        "word": "of",
+        "start_offset": 142,
+        "end_offset": 144,
+        "start": 30.386,
+        "end": 30.506,
+        "score": -2.3282
+      },
+      {
+        "word": "One.",
+        "start_offset": 145,
+        "end_offset": 149,
+        "start": 31.386,
+        "end": 31.626,
+        "score": -2.324
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "012-24.mp3",
+    "audio_duration": 32.0261,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

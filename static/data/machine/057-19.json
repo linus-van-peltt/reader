@@ -1,0 +1,653 @@
+{
+  "text": "Is there any variation in the effect with respect to the material of construction, the thickness of the material? Is it simply the geometry of the shape or is it related to some other factors? I am Ra the geometry, as you call it, or relationships of these shapes in their configuration is the great consideration. It is well to avoid stenous material or that of lead or other baser metals a wood, a plastic, a glass, and other materials may all be considered to be appropriate.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there any variation in the effect with respect to the material of construction, the thickness of the material?",
+        "start_offset": 30,
+        "end_offset": 172,
+        "start": 2.4,
+        "end": 13.76
+      },
+      {
+        "segment": "Is it simply the geometry of the shape or is it related to some other factors?",
+        "start_offset": 176,
+        "end_offset": 299,
+        "start": 14.08,
+        "end": 23.92
+      },
+      {
+        "segment": "I am Ra the geometry, as you call it, or relationships of these shapes in their configuration is the great consideration.",
+        "start_offset": 336,
+        "end_offset": 755,
+        "start": 26.88,
+        "end": 60.4
+      },
+      {
+        "segment": "It is well to avoid stenous material or that of lead or other baser metals a wood, a plastic, a glass, and other materials may all be considered to be appropriate.",
+        "start_offset": 781,
+        "end_offset": 1348,
+        "start": 62.480000000000004,
+        "end": 107.84
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 30,
+        "end_offset": 34,
+        "start": 2.4,
+        "end": 2.72
+      },
+      {
+        "word": "there",
+        "start_offset": 38,
+        "end_offset": 42,
+        "start": 3.04,
+        "end": 3.36
+      },
+      {
+        "word": "any",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 3.36,
+        "end": 3.68
+      },
+      {
+        "word": "variation",
+        "start_offset": 65,
+        "end_offset": 76,
+        "start": 5.2,
+        "end": 6.08
+      },
+      {
+        "word": "in",
+        "start_offset": 76,
+        "end_offset": 79,
+        "start": 6.08,
+        "end": 6.32
+      },
+      {
+        "word": "the",
+        "start_offset": 79,
+        "end_offset": 83,
+        "start": 6.32,
+        "end": 6.640000000000001
+      },
+      {
+        "word": "effect",
+        "start_offset": 83,
+        "end_offset": 91,
+        "start": 6.640000000000001,
+        "end": 7.28
+      },
+      {
+        "word": "with",
+        "start_offset": 99,
+        "end_offset": 103,
+        "start": 7.92,
+        "end": 8.24
+      },
+      {
+        "word": "respect",
+        "start_offset": 103,
+        "end_offset": 111,
+        "start": 8.24,
+        "end": 8.88
+      },
+      {
+        "word": "to",
+        "start_offset": 115,
+        "end_offset": 119,
+        "start": 9.200000000000001,
+        "end": 9.52
+      },
+      {
+        "word": "the",
+        "start_offset": 119,
+        "end_offset": 123,
+        "start": 9.52,
+        "end": 9.84
+      },
+      {
+        "word": "material",
+        "start_offset": 123,
+        "end_offset": 135,
+        "start": 9.84,
+        "end": 10.8
+      },
+      {
+        "word": "of",
+        "start_offset": 135,
+        "end_offset": 139,
+        "start": 10.8,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "construction,",
+        "start_offset": 139,
+        "end_offset": 146,
+        "start": 11.120000000000001,
+        "end": 11.68
+      },
+      {
+        "word": "the",
+        "start_offset": 148,
+        "end_offset": 150,
+        "start": 11.84,
+        "end": 12.0
+      },
+      {
+        "word": "thickness",
+        "start_offset": 150,
+        "end_offset": 158,
+        "start": 12.0,
+        "end": 12.64
+      },
+      {
+        "word": "of",
+        "start_offset": 158,
+        "end_offset": 160,
+        "start": 12.64,
+        "end": 12.8
+      },
+      {
+        "word": "the",
+        "start_offset": 160,
+        "end_offset": 164,
+        "start": 12.8,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "material?",
+        "start_offset": 164,
+        "end_offset": 172,
+        "start": 13.120000000000001,
+        "end": 13.76
+      },
+      {
+        "word": "Is",
+        "start_offset": 176,
+        "end_offset": 180,
+        "start": 14.08,
+        "end": 14.4
+      },
+      {
+        "word": "it",
+        "start_offset": 180,
+        "end_offset": 183,
+        "start": 14.4,
+        "end": 14.64
+      },
+      {
+        "word": "simply",
+        "start_offset": 183,
+        "end_offset": 189,
+        "start": 14.64,
+        "end": 15.120000000000001
+      },
+      {
+        "word": "the",
+        "start_offset": 189,
+        "end_offset": 192,
+        "start": 15.120000000000001,
+        "end": 15.36
+      },
+      {
+        "word": "geometry",
+        "start_offset": 192,
+        "end_offset": 206,
+        "start": 15.36,
+        "end": 16.48
+      },
+      {
+        "word": "of",
+        "start_offset": 210,
+        "end_offset": 214,
+        "start": 16.8,
+        "end": 17.12
+      },
+      {
+        "word": "the",
+        "start_offset": 222,
+        "end_offset": 226,
+        "start": 17.76,
+        "end": 18.080000000000002
+      },
+      {
+        "word": "shape",
+        "start_offset": 226,
+        "end_offset": 234,
+        "start": 18.080000000000002,
+        "end": 18.72
+      },
+      {
+        "word": "or",
+        "start_offset": 252,
+        "end_offset": 256,
+        "start": 20.16,
+        "end": 20.48
+      },
+      {
+        "word": "is",
+        "start_offset": 256,
+        "end_offset": 260,
+        "start": 20.48,
+        "end": 20.8
+      },
+      {
+        "word": "it",
+        "start_offset": 260,
+        "end_offset": 264,
+        "start": 20.8,
+        "end": 21.12
+      },
+      {
+        "word": "related",
+        "start_offset": 264,
+        "end_offset": 272,
+        "start": 21.12,
+        "end": 21.76
+      },
+      {
+        "word": "to",
+        "start_offset": 272,
+        "end_offset": 276,
+        "start": 21.76,
+        "end": 22.080000000000002
+      },
+      {
+        "word": "some",
+        "start_offset": 279,
+        "end_offset": 283,
+        "start": 22.32,
+        "end": 22.64
+      },
+      {
+        "word": "other",
+        "start_offset": 283,
+        "end_offset": 287,
+        "start": 22.64,
+        "end": 22.96
+      },
+      {
+        "word": "factors?",
+        "start_offset": 287,
+        "end_offset": 299,
+        "start": 22.96,
+        "end": 23.92
+      },
+      {
+        "word": "I",
+        "start_offset": 336,
+        "end_offset": 339,
+        "start": 26.88,
+        "end": 27.12
+      },
+      {
+        "word": "am",
+        "start_offset": 351,
+        "end_offset": 355,
+        "start": 28.080000000000002,
+        "end": 28.400000000000002
+      },
+      {
+        "word": "Ra",
+        "start_offset": 363,
+        "end_offset": 367,
+        "start": 29.04,
+        "end": 29.36
+      },
+      {
+        "word": "the",
+        "start_offset": 396,
+        "end_offset": 400,
+        "start": 31.68,
+        "end": 32.0
+      },
+      {
+        "word": "geometry,",
+        "start_offset": 408,
+        "end_offset": 427,
+        "start": 32.64,
+        "end": 34.160000000000004
+      },
+      {
+        "word": "as",
+        "start_offset": 442,
+        "end_offset": 446,
+        "start": 35.36,
+        "end": 35.68
+      },
+      {
+        "word": "you",
+        "start_offset": 450,
+        "end_offset": 454,
+        "start": 36.0,
+        "end": 36.32
+      },
+      {
+        "word": "call",
+        "start_offset": 462,
+        "end_offset": 470,
+        "start": 36.96,
+        "end": 37.6
+      },
+      {
+        "word": "it,",
+        "start_offset": 470,
+        "end_offset": 474,
+        "start": 37.6,
+        "end": 37.92
+      },
+      {
+        "word": "or",
+        "start_offset": 495,
+        "end_offset": 499,
+        "start": 39.6,
+        "end": 39.92
+      },
+      {
+        "word": "relationships",
+        "start_offset": 507,
+        "end_offset": 530,
+        "start": 40.56,
+        "end": 42.4
+      },
+      {
+        "word": "of",
+        "start_offset": 550,
+        "end_offset": 554,
+        "start": 44.0,
+        "end": 44.32
+      },
+      {
+        "word": "these",
+        "start_offset": 562,
+        "end_offset": 566,
+        "start": 44.96,
+        "end": 45.28
+      },
+      {
+        "word": "shapes",
+        "start_offset": 574,
+        "end_offset": 586,
+        "start": 45.92,
+        "end": 46.88
+      },
+      {
+        "word": "in",
+        "start_offset": 605,
+        "end_offset": 609,
+        "start": 48.4,
+        "end": 48.72
+      },
+      {
+        "word": "their",
+        "start_offset": 613,
+        "end_offset": 617,
+        "start": 49.04,
+        "end": 49.36
+      },
+      {
+        "word": "configuration",
+        "start_offset": 625,
+        "end_offset": 652,
+        "start": 50.0,
+        "end": 52.160000000000004
+      },
+      {
+        "word": "is",
+        "start_offset": 679,
+        "end_offset": 683,
+        "start": 54.32,
+        "end": 54.64
+      },
+      {
+        "word": "the",
+        "start_offset": 691,
+        "end_offset": 695,
+        "start": 55.28,
+        "end": 55.6
+      },
+      {
+        "word": "great",
+        "start_offset": 707,
+        "end_offset": 719,
+        "start": 56.56,
+        "end": 57.52
+      },
+      {
+        "word": "consideration.",
+        "start_offset": 731,
+        "end_offset": 755,
+        "start": 58.480000000000004,
+        "end": 60.4
+      },
+      {
+        "word": "It",
+        "start_offset": 781,
+        "end_offset": 785,
+        "start": 62.480000000000004,
+        "end": 62.800000000000004
+      },
+      {
+        "word": "is",
+        "start_offset": 793,
+        "end_offset": 797,
+        "start": 63.440000000000005,
+        "end": 63.76
+      },
+      {
+        "word": "well",
+        "start_offset": 805,
+        "end_offset": 809,
+        "start": 64.4,
+        "end": 64.72
+      },
+      {
+        "word": "to",
+        "start_offset": 828,
+        "end_offset": 832,
+        "start": 66.24,
+        "end": 66.56
+      },
+      {
+        "word": "avoid",
+        "start_offset": 843,
+        "end_offset": 855,
+        "start": 67.44,
+        "end": 68.4
+      },
+      {
+        "word": "stenous",
+        "start_offset": 867,
+        "end_offset": 882,
+        "start": 69.36,
+        "end": 70.56
+      },
+      {
+        "word": "material",
+        "start_offset": 898,
+        "end_offset": 910,
+        "start": 71.84,
+        "end": 72.8
+      },
+      {
+        "word": "or",
+        "start_offset": 930,
+        "end_offset": 934,
+        "start": 74.4,
+        "end": 74.72
+      },
+      {
+        "word": "that",
+        "start_offset": 938,
+        "end_offset": 942,
+        "start": 75.04,
+        "end": 75.36
+      },
+      {
+        "word": "of",
+        "start_offset": 950,
+        "end_offset": 954,
+        "start": 76.0,
+        "end": 76.32000000000001
+      },
+      {
+        "word": "lead",
+        "start_offset": 962,
+        "end_offset": 970,
+        "start": 76.96000000000001,
+        "end": 77.60000000000001
+      },
+      {
+        "word": "or",
+        "start_offset": 982,
+        "end_offset": 986,
+        "start": 78.56,
+        "end": 78.88
+      },
+      {
+        "word": "other",
+        "start_offset": 994,
+        "end_offset": 998,
+        "start": 79.52,
+        "end": 79.84
+      },
+      {
+        "word": "baser",
+        "start_offset": 1013,
+        "end_offset": 1024,
+        "start": 81.04,
+        "end": 81.92
+      },
+      {
+        "word": "metals",
+        "start_offset": 1035,
+        "end_offset": 1043,
+        "start": 82.8,
+        "end": 83.44
+      },
+      {
+        "word": "a",
+        "start_offset": 1061,
+        "end_offset": 1065,
+        "start": 84.88,
+        "end": 85.2
+      },
+      {
+        "word": "wood,",
+        "start_offset": 1065,
+        "end_offset": 1073,
+        "start": 85.2,
+        "end": 85.84
+      },
+      {
+        "word": "a",
+        "start_offset": 1084,
+        "end_offset": 1088,
+        "start": 86.72,
+        "end": 87.04
+      },
+      {
+        "word": "plastic,",
+        "start_offset": 1088,
+        "end_offset": 1100,
+        "start": 87.04,
+        "end": 88.0
+      },
+      {
+        "word": "a",
+        "start_offset": 1116,
+        "end_offset": 1120,
+        "start": 89.28,
+        "end": 89.60000000000001
+      },
+      {
+        "word": "glass,",
+        "start_offset": 1120,
+        "end_offset": 1128,
+        "start": 89.60000000000001,
+        "end": 90.24
+      },
+      {
+        "word": "and",
+        "start_offset": 1148,
+        "end_offset": 1152,
+        "start": 91.84,
+        "end": 92.16
+      },
+      {
+        "word": "other",
+        "start_offset": 1156,
+        "end_offset": 1160,
+        "start": 92.48,
+        "end": 92.8
+      },
+      {
+        "word": "materials",
+        "start_offset": 1202,
+        "end_offset": 1218,
+        "start": 96.16,
+        "end": 97.44
+      },
+      {
+        "word": "may",
+        "start_offset": 1240,
+        "end_offset": 1244,
+        "start": 99.2,
+        "end": 99.52
+      },
+      {
+        "word": "all",
+        "start_offset": 1248,
+        "end_offset": 1252,
+        "start": 99.84,
+        "end": 100.16
+      },
+      {
+        "word": "be",
+        "start_offset": 1260,
+        "end_offset": 1264,
+        "start": 100.8,
+        "end": 101.12
+      },
+      {
+        "word": "considered",
+        "start_offset": 1268,
+        "end_offset": 1284,
+        "start": 101.44,
+        "end": 102.72
+      },
+      {
+        "word": "to",
+        "start_offset": 1300,
+        "end_offset": 1304,
+        "start": 104.0,
+        "end": 104.32000000000001
+      },
+      {
+        "word": "be",
+        "start_offset": 1308,
+        "end_offset": 1312,
+        "start": 104.64,
+        "end": 104.96000000000001
+      },
+      {
+        "word": "appropriate.",
+        "start_offset": 1328,
+        "end_offset": 1348,
+        "start": 106.24000000000001,
+        "end": 107.84
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "057-19.mp3",
+    "audio_duration": 110.03,
+    "transcription_time": 0.17,
+    "rtfx": 640.89,
+    "timestamp": "2026-01-06T21:52:50.248244+00:00"
+  }
+}

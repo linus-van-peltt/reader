@@ -1,0 +1,198 @@
+{
+  "text": "Did the balance of the pyramid cause the earth from changing its axis? I am la This query is not clear. Please restate.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Did the balance of the pyramid cause the earth from changing its axis?",
+        "start_offset": 31,
+        "end_offset": 121,
+        "start": 2.48,
+        "end": 9.68
+      },
+      {
+        "segment": "I am la This query is not clear.",
+        "start_offset": 197,
+        "end_offset": 331,
+        "start": 15.76,
+        "end": 26.48
+      },
+      {
+        "segment": "Please restate.",
+        "start_offset": 338,
+        "end_offset": 368,
+        "start": 27.04,
+        "end": 29.44
+      }
+    ],
+    "word": [
+      {
+        "word": "Did",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 2.48,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "the",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 2.8000000000000003,
+        "end": 3.04
+      },
+      {
+        "word": "balance",
+        "start_offset": 40,
+        "end_offset": 45,
+        "start": 3.2,
+        "end": 3.6
+      },
+      {
+        "word": "of",
+        "start_offset": 45,
+        "end_offset": 46,
+        "start": 3.6,
+        "end": 3.68
+      },
+      {
+        "word": "the",
+        "start_offset": 48,
+        "end_offset": 49,
+        "start": 3.84,
+        "end": 3.92
+      },
+      {
+        "word": "pyramid",
+        "start_offset": 49,
+        "end_offset": 60,
+        "start": 3.92,
+        "end": 4.8
+      },
+      {
+        "word": "cause",
+        "start_offset": 68,
+        "end_offset": 74,
+        "start": 5.44,
+        "end": 5.92
+      },
+      {
+        "word": "the",
+        "start_offset": 74,
+        "end_offset": 77,
+        "start": 5.92,
+        "end": 6.16
+      },
+      {
+        "word": "earth",
+        "start_offset": 77,
+        "end_offset": 84,
+        "start": 6.16,
+        "end": 6.72
+      },
+      {
+        "word": "from",
+        "start_offset": 87,
+        "end_offset": 90,
+        "start": 6.96,
+        "end": 7.2
+      },
+      {
+        "word": "changing",
+        "start_offset": 98,
+        "end_offset": 107,
+        "start": 7.84,
+        "end": 8.56
+      },
+      {
+        "word": "its",
+        "start_offset": 107,
+        "end_offset": 110,
+        "start": 8.56,
+        "end": 8.8
+      },
+      {
+        "word": "axis?",
+        "start_offset": 110,
+        "end_offset": 121,
+        "start": 8.8,
+        "end": 9.68
+      },
+      {
+        "word": "I",
+        "start_offset": 197,
+        "end_offset": 201,
+        "start": 15.76,
+        "end": 16.080000000000002
+      },
+      {
+        "word": "am",
+        "start_offset": 209,
+        "end_offset": 213,
+        "start": 16.72,
+        "end": 17.04
+      },
+      {
+        "word": "la",
+        "start_offset": 229,
+        "end_offset": 233,
+        "start": 18.32,
+        "end": 18.64
+      },
+      {
+        "word": "This",
+        "start_offset": 255,
+        "end_offset": 259,
+        "start": 20.400000000000002,
+        "end": 20.72
+      },
+      {
+        "word": "query",
+        "start_offset": 267,
+        "end_offset": 275,
+        "start": 21.36,
+        "end": 22.0
+      },
+      {
+        "word": "is",
+        "start_offset": 287,
+        "end_offset": 291,
+        "start": 22.96,
+        "end": 23.28
+      },
+      {
+        "word": "not",
+        "start_offset": 303,
+        "end_offset": 307,
+        "start": 24.240000000000002,
+        "end": 24.560000000000002
+      },
+      {
+        "word": "clear.",
+        "start_offset": 319,
+        "end_offset": 331,
+        "start": 25.52,
+        "end": 26.48
+      },
+      {
+        "word": "Please",
+        "start_offset": 338,
+        "end_offset": 349,
+        "start": 27.04,
+        "end": 27.92
+      },
+      {
+        "word": "restate.",
+        "start_offset": 353,
+        "end_offset": 368,
+        "start": 28.240000000000002,
+        "end": 29.44
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "014-09.mp3",
+    "audio_duration": 30.04,
+    "transcription_time": 0.1,
+    "rtfx": 312.6,
+    "timestamp": "2026-01-06T21:47:13.990831+00:00"
+  }
+}

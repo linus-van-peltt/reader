@@ -1,0 +1,135 @@
+{
+  "text": "What could we do? Hi M. Your group could refrain from continuing this conduct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What could we do?",
+        "start_offset": 16,
+        "end_offset": 35,
+        "start": 1.28,
+        "end": 2.8000000000000003
+      },
+      {
+        "segment": "Hi M.",
+        "start_offset": 68,
+        "end_offset": 88,
+        "start": 5.44,
+        "end": 7.04
+      },
+      {
+        "segment": "Your group could refrain from continuing this conduct.",
+        "start_offset": 146,
+        "end_offset": 305,
+        "start": 11.68,
+        "end": 24.400000000000002
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 16,
+        "end_offset": 23,
+        "start": 1.28,
+        "end": 1.84
+      },
+      {
+        "word": "could",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 1.84,
+        "end": 2.16
+      },
+      {
+        "word": "we",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 2.16,
+        "end": 2.48
+      },
+      {
+        "word": "do?",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 2.48,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "Hi",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 5.44,
+        "end": 5.76
+      },
+      {
+        "word": "M.",
+        "start_offset": 84,
+        "end_offset": 88,
+        "start": 6.72,
+        "end": 7.04
+      },
+      {
+        "word": "Your",
+        "start_offset": 146,
+        "end_offset": 153,
+        "start": 11.68,
+        "end": 12.24
+      },
+      {
+        "word": "group",
+        "start_offset": 157,
+        "end_offset": 165,
+        "start": 12.56,
+        "end": 13.200000000000001
+      },
+      {
+        "word": "could",
+        "start_offset": 173,
+        "end_offset": 177,
+        "start": 13.84,
+        "end": 14.16
+      },
+      {
+        "word": "refrain",
+        "start_offset": 185,
+        "end_offset": 197,
+        "start": 14.8,
+        "end": 15.76
+      },
+      {
+        "word": "from",
+        "start_offset": 205,
+        "end_offset": 209,
+        "start": 16.4,
+        "end": 16.72
+      },
+      {
+        "word": "continuing",
+        "start_offset": 245,
+        "end_offset": 261,
+        "start": 19.6,
+        "end": 20.88
+      },
+      {
+        "word": "this",
+        "start_offset": 277,
+        "end_offset": 281,
+        "start": 22.16,
+        "end": 22.48
+      },
+      {
+        "word": "conduct.",
+        "start_offset": 293,
+        "end_offset": 305,
+        "start": 23.44,
+        "end": 24.400000000000002
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "077-04.mp3",
+    "audio_duration": 26.04,
+    "transcription_time": 0.09,
+    "rtfx": 299.5,
+    "timestamp": "2026-01-06T21:56:05.115628+00:00"
+  }
+}

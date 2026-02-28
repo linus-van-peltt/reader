@@ -1,0 +1,540 @@
+{
+  "text": "Would this be similar to the vortex you get when you release the water from a bathtub? I am Ra. This is correct except that in the case of this action the cause is gravitic whereas in the case of the pyramid the vortex is that of upward spiraling light being attracted by the electro-magnetic fields engendered by the shape of the pyramid.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would this be similar to the vortex you get when you release the water from a bathtub?",
+        "start_offset": 0,
+        "end_offset": 86,
+        "start": 1.2,
+        "end": 7.201
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 87,
+        "end_offset": 95,
+        "start": 14.003,
+        "end": 16.363
+      },
+      {
+        "segment": "This is correct except that in the case of this action the cause is gravitic whereas in the case of the pyramid the vortex is that of upward spiraling light being attracted by the electro-magnetic fields engendered by the shape of the pyramid.",
+        "start_offset": 96,
+        "end_offset": 339,
+        "start": 18.243,
+        "end": 94.817
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 1.2,
+        "end": 1.32,
+        "score": -6.9816
+      },
+      {
+        "word": "this",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 1.34,
+        "end": 1.52,
+        "score": -2.5696
+      },
+      {
+        "word": "be",
+        "start_offset": 11,
+        "end_offset": 13,
+        "start": 1.62,
+        "end": 1.72,
+        "score": -3.5472
+      },
+      {
+        "word": "similar",
+        "start_offset": 14,
+        "end_offset": 21,
+        "start": 2.28,
+        "end": 2.64,
+        "score": -2.6026
+      },
+      {
+        "word": "to",
+        "start_offset": 22,
+        "end_offset": 24,
+        "start": 2.74,
+        "end": 2.861,
+        "score": -4.9516
+      },
+      {
+        "word": "the",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 4.041,
+        "end": 4.121,
+        "score": -2.7452
+      },
+      {
+        "word": "vortex",
+        "start_offset": 29,
+        "end_offset": 35,
+        "start": 4.141,
+        "end": 4.601,
+        "score": -3.4805
+      },
+      {
+        "word": "you",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 4.741,
+        "end": 4.801,
+        "score": -6.7837
+      },
+      {
+        "word": "get",
+        "start_offset": 40,
+        "end_offset": 43,
+        "start": 4.881,
+        "end": 5.101,
+        "score": -5.123
+      },
+      {
+        "word": "when",
+        "start_offset": 44,
+        "end_offset": 48,
+        "start": 5.181,
+        "end": 5.321,
+        "score": -4.8182
+      },
+      {
+        "word": "you",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 5.381,
+        "end": 5.441,
+        "score": -7.4804
+      },
+      {
+        "word": "release",
+        "start_offset": 53,
+        "end_offset": 60,
+        "start": 5.521,
+        "end": 5.861,
+        "score": -4.6147
+      },
+      {
+        "word": "the",
+        "start_offset": 61,
+        "end_offset": 64,
+        "start": 5.881,
+        "end": 5.961,
+        "score": -5.574
+      },
+      {
+        "word": "water",
+        "start_offset": 65,
+        "end_offset": 70,
+        "start": 6.021,
+        "end": 6.261,
+        "score": -4.8947
+      },
+      {
+        "word": "from",
+        "start_offset": 71,
+        "end_offset": 75,
+        "start": 6.301,
+        "end": 6.461,
+        "score": -3.9284
+      },
+      {
+        "word": "a",
+        "start_offset": 76,
+        "end_offset": 77,
+        "start": 6.501,
+        "end": 6.521,
+        "score": -4.5375
+      },
+      {
+        "word": "bathtub?",
+        "start_offset": 78,
+        "end_offset": 86,
+        "start": 6.581,
+        "end": 7.201,
+        "score": -6.1544
+      },
+      {
+        "word": "I",
+        "start_offset": 87,
+        "end_offset": 88,
+        "start": 14.003,
+        "end": 14.023,
+        "score": -1.8251
+      },
+      {
+        "word": "am",
+        "start_offset": 89,
+        "end_offset": 91,
+        "start": 15.003,
+        "end": 15.323,
+        "score": -3.2108
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 92,
+        "end_offset": 95,
+        "start": 16.223,
+        "end": 16.363,
+        "score": -0.9469
+      },
+      {
+        "word": "This",
+        "start_offset": 96,
+        "end_offset": 100,
+        "start": 18.243,
+        "end": 18.703,
+        "score": -0.7848
+      },
+      {
+        "word": "is",
+        "start_offset": 101,
+        "end_offset": 103,
+        "start": 19.904,
+        "end": 20.244,
+        "score": -0.7157
+      },
+      {
+        "word": "correct",
+        "start_offset": 104,
+        "end_offset": 111,
+        "start": 20.964,
+        "end": 21.964,
+        "score": -0.7128
+      },
+      {
+        "word": "except",
+        "start_offset": 112,
+        "end_offset": 118,
+        "start": 23.224,
+        "end": 24.004,
+        "score": -0.7548
+      },
+      {
+        "word": "that",
+        "start_offset": 119,
+        "end_offset": 123,
+        "start": 24.404,
+        "end": 24.804,
+        "score": -0.7323
+      },
+      {
+        "word": "in",
+        "start_offset": 124,
+        "end_offset": 126,
+        "start": 25.485,
+        "end": 25.745,
+        "score": -0.7259
+      },
+      {
+        "word": "the",
+        "start_offset": 127,
+        "end_offset": 130,
+        "start": 26.225,
+        "end": 26.365,
+        "score": -0.7939
+      },
+      {
+        "word": "case",
+        "start_offset": 131,
+        "end_offset": 135,
+        "start": 27.305,
+        "end": 27.945,
+        "score": -1.05
+      },
+      {
+        "word": "of",
+        "start_offset": 136,
+        "end_offset": 138,
+        "start": 28.965,
+        "end": 29.325,
+        "score": -0.7575
+      },
+      {
+        "word": "this",
+        "start_offset": 139,
+        "end_offset": 143,
+        "start": 30.585,
+        "end": 30.966,
+        "score": -0.7406
+      },
+      {
+        "word": "action",
+        "start_offset": 144,
+        "end_offset": 150,
+        "start": 32.306,
+        "end": 32.866,
+        "score": -0.7111
+      },
+      {
+        "word": "the",
+        "start_offset": 151,
+        "end_offset": 154,
+        "start": 34.046,
+        "end": 34.186,
+        "score": -0.7659
+      },
+      {
+        "word": "cause",
+        "start_offset": 155,
+        "end_offset": 160,
+        "start": 35.146,
+        "end": 36.066,
+        "score": -1.1668
+      },
+      {
+        "word": "is",
+        "start_offset": 161,
+        "end_offset": 163,
+        "start": 37.087,
+        "end": 37.467,
+        "score": -0.7201
+      },
+      {
+        "word": "gravitic",
+        "start_offset": 164,
+        "end_offset": 172,
+        "start": 38.727,
+        "end": 40.127,
+        "score": -0.8929
+      },
+      {
+        "word": "whereas",
+        "start_offset": 173,
+        "end_offset": 180,
+        "start": 41.707,
+        "end": 42.868,
+        "score": -1.0342
+      },
+      {
+        "word": "in",
+        "start_offset": 181,
+        "end_offset": 183,
+        "start": 44.608,
+        "end": 44.888,
+        "score": -0.8023
+      },
+      {
+        "word": "the",
+        "start_offset": 184,
+        "end_offset": 187,
+        "start": 45.888,
+        "end": 46.028,
+        "score": -0.7809
+      },
+      {
+        "word": "case",
+        "start_offset": 188,
+        "end_offset": 192,
+        "start": 46.868,
+        "end": 47.589,
+        "score": -0.7776
+      },
+      {
+        "word": "of",
+        "start_offset": 193,
+        "end_offset": 195,
+        "start": 48.669,
+        "end": 49.009,
+        "score": -0.7683
+      },
+      {
+        "word": "the",
+        "start_offset": 196,
+        "end_offset": 199,
+        "start": 49.529,
+        "end": 49.669,
+        "score": -0.8623
+      },
+      {
+        "word": "pyramid",
+        "start_offset": 200,
+        "end_offset": 207,
+        "start": 50.889,
+        "end": 52.129,
+        "score": -0.7202
+      },
+      {
+        "word": "the",
+        "start_offset": 208,
+        "end_offset": 211,
+        "start": 53.61,
+        "end": 53.75,
+        "score": -0.7728
+      },
+      {
+        "word": "vortex",
+        "start_offset": 212,
+        "end_offset": 218,
+        "start": 54.65,
+        "end": 55.51,
+        "score": -0.7456
+      },
+      {
+        "word": "is",
+        "start_offset": 219,
+        "end_offset": 221,
+        "start": 57.37,
+        "end": 57.75,
+        "score": -0.7294
+      },
+      {
+        "word": "that",
+        "start_offset": 222,
+        "end_offset": 226,
+        "start": 58.27,
+        "end": 58.751,
+        "score": -0.7965
+      },
+      {
+        "word": "of",
+        "start_offset": 227,
+        "end_offset": 229,
+        "start": 60.191,
+        "end": 60.571,
+        "score": -0.7785
+      },
+      {
+        "word": "upward",
+        "start_offset": 230,
+        "end_offset": 236,
+        "start": 62.131,
+        "end": 62.751,
+        "score": -2.2491
+      },
+      {
+        "word": "spiraling",
+        "start_offset": 237,
+        "end_offset": 246,
+        "start": 63.391,
+        "end": 64.712,
+        "score": -0.975
+      },
+      {
+        "word": "light",
+        "start_offset": 247,
+        "end_offset": 252,
+        "start": 65.732,
+        "end": 66.212,
+        "score": -0.9178
+      },
+      {
+        "word": "being",
+        "start_offset": 253,
+        "end_offset": 258,
+        "start": 68.132,
+        "end": 68.612,
+        "score": -0.7233
+      },
+      {
+        "word": "attracted",
+        "start_offset": 259,
+        "end_offset": 268,
+        "start": 69.572,
+        "end": 70.893,
+        "score": -0.7795
+      },
+      {
+        "word": "by",
+        "start_offset": 269,
+        "end_offset": 271,
+        "start": 72.153,
+        "end": 72.673,
+        "score": -2.5619
+      },
+      {
+        "word": "the",
+        "start_offset": 272,
+        "end_offset": 275,
+        "start": 74.333,
+        "end": 74.473,
+        "score": -0.8028
+      },
+      {
+        "word": "electro-magnetic",
+        "start_offset": 276,
+        "end_offset": 292,
+        "start": 76.674,
+        "end": 79.274,
+        "score": -0.718
+      },
+      {
+        "word": "fields",
+        "start_offset": 293,
+        "end_offset": 299,
+        "start": 80.534,
+        "end": 81.275,
+        "score": -0.9982
+      },
+      {
+        "word": "engendered",
+        "start_offset": 300,
+        "end_offset": 310,
+        "start": 82.555,
+        "end": 83.835,
+        "score": -0.7763
+      },
+      {
+        "word": "by",
+        "start_offset": 311,
+        "end_offset": 313,
+        "start": 84.815,
+        "end": 85.315,
+        "score": -2.1598
+      },
+      {
+        "word": "the",
+        "start_offset": 314,
+        "end_offset": 317,
+        "start": 86.235,
+        "end": 86.375,
+        "score": -0.8585
+      },
+      {
+        "word": "shape",
+        "start_offset": 318,
+        "end_offset": 323,
+        "start": 87.876,
+        "end": 88.516,
+        "score": -1.2348
+      },
+      {
+        "word": "of",
+        "start_offset": 324,
+        "end_offset": 326,
+        "start": 90.316,
+        "end": 90.656,
+        "score": -0.8237
+      },
+      {
+        "word": "the",
+        "start_offset": 327,
+        "end_offset": 330,
+        "start": 91.876,
+        "end": 92.016,
+        "score": -0.8018
+      },
+      {
+        "word": "pyramid.",
+        "start_offset": 331,
+        "end_offset": 339,
+        "start": 93.297,
+        "end": 94.817,
+        "score": -0.7445
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "059-07.mp3",
+    "audio_duration": 98.0376,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

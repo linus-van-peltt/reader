@@ -1,0 +1,148 @@
+{
+  "text": "Can you say which of us are of which group? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you say which of us are of which group?",
+        "start_offset": 0,
+        "end_offset": 43,
+        "start": 1.141,
+        "end": 3.722
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 44,
+        "end_offset": 52,
+        "start": 8.805,
+        "end": 11.667
+      },
+      {
+        "segment": "No.",
+        "start_offset": 53,
+        "end_offset": 56,
+        "start": 14.228,
+        "end": 14.349
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 1.141,
+        "end": 1.301,
+        "score": -3.7259
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 1.341,
+        "end": 1.441,
+        "score": -4.6348
+      },
+      {
+        "word": "say",
+        "start_offset": 8,
+        "end_offset": 11,
+        "start": 2.281,
+        "end": 2.441,
+        "score": -2.3393
+      },
+      {
+        "word": "which",
+        "start_offset": 12,
+        "end_offset": 17,
+        "start": 2.481,
+        "end": 2.662,
+        "score": -1.973
+      },
+      {
+        "word": "of",
+        "start_offset": 18,
+        "end_offset": 20,
+        "start": 2.702,
+        "end": 2.782,
+        "score": -2.1945
+      },
+      {
+        "word": "us",
+        "start_offset": 21,
+        "end_offset": 23,
+        "start": 2.842,
+        "end": 2.882,
+        "score": -3.9589
+      },
+      {
+        "word": "are",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 2.902,
+        "end": 2.962,
+        "score": -4.4867
+      },
+      {
+        "word": "of",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 3.062,
+        "end": 3.142,
+        "score": -6.1747
+      },
+      {
+        "word": "which",
+        "start_offset": 31,
+        "end_offset": 36,
+        "start": 3.202,
+        "end": 3.402,
+        "score": -2.6567
+      },
+      {
+        "word": "group?",
+        "start_offset": 37,
+        "end_offset": 43,
+        "start": 3.462,
+        "end": 3.722,
+        "score": -1.0254
+      },
+      {
+        "word": "I",
+        "start_offset": 44,
+        "end_offset": 45,
+        "start": 8.805,
+        "end": 8.825,
+        "score": -1.3859
+      },
+      {
+        "word": "am",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 10.306,
+        "end": 10.606,
+        "score": -1.9619
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 11.587,
+        "end": 11.667,
+        "score": -1.8291
+      },
+      {
+        "word": "No.",
+        "start_offset": 53,
+        "end_offset": 56,
+        "start": 14.228,
+        "end": 14.349,
+        "score": -2.0827
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "045-06.mp3",
+    "audio_duration": 20.5323,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

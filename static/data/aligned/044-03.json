@@ -1,0 +1,268 @@
+{
+  "text": "Can you tell me what the tone was that I heard in my left ear when you started your communication? I am Ra. This was a negatively oriented signal.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me what the tone was that I heard in my left ear when you started your communication?",
+        "start_offset": 0,
+        "end_offset": 98,
+        "start": 2.162,
+        "end": 7.565
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 99,
+        "end_offset": 107,
+        "start": 13.009,
+        "end": 15.471
+      },
+      {
+        "segment": "This was a negatively oriented signal.",
+        "start_offset": 108,
+        "end_offset": 146,
+        "start": 17.892,
+        "end": 28.86
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.162,
+        "end": 2.302,
+        "score": -0.7956
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 2.342,
+        "end": 2.422,
+        "score": -0.7298
+      },
+      {
+        "word": "tell",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 2.462,
+        "end": 2.642,
+        "score": -0.746
+      },
+      {
+        "word": "me",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 2.702,
+        "end": 2.762,
+        "score": -0.6977
+      },
+      {
+        "word": "what",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 2.842,
+        "end": 3.002,
+        "score": -0.738
+      },
+      {
+        "word": "the",
+        "start_offset": 21,
+        "end_offset": 24,
+        "start": 3.042,
+        "end": 3.102,
+        "score": -0.7428
+      },
+      {
+        "word": "tone",
+        "start_offset": 25,
+        "end_offset": 29,
+        "start": 3.202,
+        "end": 3.502,
+        "score": -0.9054
+      },
+      {
+        "word": "was",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 3.562,
+        "end": 3.763,
+        "score": -0.7192
+      },
+      {
+        "word": "that",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 3.783,
+        "end": 3.863,
+        "score": -6.2202
+      },
+      {
+        "word": "I",
+        "start_offset": 39,
+        "end_offset": 40,
+        "start": 3.883,
+        "end": 3.903,
+        "score": -2.967
+      },
+      {
+        "word": "heard",
+        "start_offset": 41,
+        "end_offset": 46,
+        "start": 3.943,
+        "end": 4.123,
+        "score": -1.1188
+      },
+      {
+        "word": "in",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 4.163,
+        "end": 4.203,
+        "score": -0.8957
+      },
+      {
+        "word": "my",
+        "start_offset": 50,
+        "end_offset": 52,
+        "start": 4.243,
+        "end": 4.343,
+        "score": -1.0333
+      },
+      {
+        "word": "left",
+        "start_offset": 53,
+        "end_offset": 57,
+        "start": 4.403,
+        "end": 4.663,
+        "score": -4.1299
+      },
+      {
+        "word": "ear",
+        "start_offset": 58,
+        "end_offset": 61,
+        "start": 4.803,
+        "end": 4.963,
+        "score": -0.8482
+      },
+      {
+        "word": "when",
+        "start_offset": 62,
+        "end_offset": 66,
+        "start": 5.384,
+        "end": 5.604,
+        "score": -1.8681
+      },
+      {
+        "word": "you",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 5.684,
+        "end": 5.764,
+        "score": -4.5086
+      },
+      {
+        "word": "started",
+        "start_offset": 71,
+        "end_offset": 78,
+        "start": 6.344,
+        "end": 6.705,
+        "score": -0.7444
+      },
+      {
+        "word": "your",
+        "start_offset": 79,
+        "end_offset": 83,
+        "start": 6.745,
+        "end": 6.865,
+        "score": -0.741
+      },
+      {
+        "word": "communication?",
+        "start_offset": 84,
+        "end_offset": 98,
+        "start": 6.885,
+        "end": 7.565,
+        "score": -0.7115
+      },
+      {
+        "word": "I",
+        "start_offset": 99,
+        "end_offset": 100,
+        "start": 13.009,
+        "end": 13.029,
+        "score": -1.4299
+      },
+      {
+        "word": "am",
+        "start_offset": 101,
+        "end_offset": 103,
+        "start": 14.05,
+        "end": 14.41,
+        "score": -1.8674
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 104,
+        "end_offset": 107,
+        "start": 15.311,
+        "end": 15.471,
+        "score": -1.8863
+      },
+      {
+        "word": "This",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 17.892,
+        "end": 18.393,
+        "score": -1.43
+      },
+      {
+        "word": "was",
+        "start_offset": 113,
+        "end_offset": 116,
+        "start": 19.434,
+        "end": 19.934,
+        "score": -0.8708
+      },
+      {
+        "word": "a",
+        "start_offset": 117,
+        "end_offset": 118,
+        "start": 21.595,
+        "end": 21.615,
+        "score": -0.8951
+      },
+      {
+        "word": "negatively",
+        "start_offset": 119,
+        "end_offset": 129,
+        "start": 22.736,
+        "end": 24.197,
+        "score": -0.9024
+      },
+      {
+        "word": "oriented",
+        "start_offset": 130,
+        "end_offset": 138,
+        "start": 25.558,
+        "end": 26.939,
+        "score": -0.907
+      },
+      {
+        "word": "signal.",
+        "start_offset": 139,
+        "end_offset": 146,
+        "start": 28.2,
+        "end": 28.86,
+        "score": -0.6983
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "044-03.mp3",
+    "audio_duration": 30.0409,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "text": "Can you tell me what the chemical substance is that was ingested? Causes poor contact? I am Ra. This is not a clear query. Could you please restate?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me what the chemical substance is that was ingested?",
+        "start_offset": 0,
+        "end_offset": 65,
+        "start": 3.282,
+        "end": 6.825
+      },
+      {
+        "segment": "Causes poor contact?",
+        "start_offset": 66,
+        "end_offset": 86,
+        "start": 7.045,
+        "end": 8.446
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 87,
+        "end_offset": 95,
+        "start": 13.349,
+        "end": 15.611
+      },
+      {
+        "segment": "This is not a clear query.",
+        "start_offset": 96,
+        "end_offset": 122,
+        "start": 18.813,
+        "end": 24.117
+      },
+      {
+        "segment": "Could you please restate?",
+        "start_offset": 123,
+        "end_offset": 148,
+        "start": 25.438,
+        "end": 29.701
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 3.282,
+        "end": 3.462,
+        "score": -0.696
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 3.502,
+        "end": 3.582,
+        "score": -0.7013
+      },
+      {
+        "word": "tell",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 3.663,
+        "end": 3.863,
+        "score": -0.699
+      },
+      {
+        "word": "me",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 3.903,
+        "end": 4.003,
+        "score": -0.7001
+      },
+      {
+        "word": "what",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 4.103,
+        "end": 4.263,
+        "score": -0.8651
+      },
+      {
+        "word": "the",
+        "start_offset": 21,
+        "end_offset": 24,
+        "start": 4.363,
+        "end": 4.443,
+        "score": -0.7772
+      },
+      {
+        "word": "chemical",
+        "start_offset": 25,
+        "end_offset": 33,
+        "start": 4.583,
+        "end": 4.983,
+        "score": -0.7087
+      },
+      {
+        "word": "substance",
+        "start_offset": 34,
+        "end_offset": 43,
+        "start": 5.084,
+        "end": 5.644,
+        "score": -0.6953
+      },
+      {
+        "word": "is",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 5.764,
+        "end": 5.924,
+        "score": -0.7015
+      },
+      {
+        "word": "that",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 5.964,
+        "end": 6.084,
+        "score": -0.7478
+      },
+      {
+        "word": "was",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 6.104,
+        "end": 6.224,
+        "score": -0.7151
+      },
+      {
+        "word": "ingested?",
+        "start_offset": 56,
+        "end_offset": 65,
+        "start": 6.284,
+        "end": 6.825,
+        "score": -1.1444
+      },
+      {
+        "word": "Causes",
+        "start_offset": 66,
+        "end_offset": 72,
+        "start": 7.045,
+        "end": 7.445,
+        "score": -0.7912
+      },
+      {
+        "word": "poor",
+        "start_offset": 73,
+        "end_offset": 77,
+        "start": 7.665,
+        "end": 7.845,
+        "score": -2.7368
+      },
+      {
+        "word": "contact?",
+        "start_offset": 78,
+        "end_offset": 86,
+        "start": 7.905,
+        "end": 8.446,
+        "score": -0.85
+      },
+      {
+        "word": "I",
+        "start_offset": 87,
+        "end_offset": 88,
+        "start": 13.349,
+        "end": 13.369,
+        "score": -0.9728
+      },
+      {
+        "word": "am",
+        "start_offset": 89,
+        "end_offset": 91,
+        "start": 14.35,
+        "end": 14.57,
+        "score": -1.229
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 92,
+        "end_offset": 95,
+        "start": 15.471,
+        "end": 15.611,
+        "score": -0.9607
+      },
+      {
+        "word": "This",
+        "start_offset": 96,
+        "end_offset": 100,
+        "start": 18.813,
+        "end": 19.133,
+        "score": -0.7076
+      },
+      {
+        "word": "is",
+        "start_offset": 101,
+        "end_offset": 103,
+        "start": 19.794,
+        "end": 20.054,
+        "score": -0.6987
+      },
+      {
+        "word": "not",
+        "start_offset": 104,
+        "end_offset": 107,
+        "start": 20.394,
+        "end": 20.734,
+        "score": -0.6954
+      },
+      {
+        "word": "a",
+        "start_offset": 108,
+        "end_offset": 109,
+        "start": 21.975,
+        "end": 21.995,
+        "score": -0.716
+      },
+      {
+        "word": "clear",
+        "start_offset": 110,
+        "end_offset": 115,
+        "start": 22.376,
+        "end": 22.756,
+        "score": -0.7052
+      },
+      {
+        "word": "query.",
+        "start_offset": 116,
+        "end_offset": 122,
+        "start": 23.636,
+        "end": 24.117,
+        "score": -0.9302
+      },
+      {
+        "word": "Could",
+        "start_offset": 123,
+        "end_offset": 128,
+        "start": 25.438,
+        "end": 25.818,
+        "score": -0.7472
+      },
+      {
+        "word": "you",
+        "start_offset": 129,
+        "end_offset": 132,
+        "start": 26.198,
+        "end": 26.338,
+        "score": -0.7233
+      },
+      {
+        "word": "please",
+        "start_offset": 133,
+        "end_offset": 139,
+        "start": 27.219,
+        "end": 27.839,
+        "score": -0.8364
+      },
+      {
+        "word": "restate?",
+        "start_offset": 140,
+        "end_offset": 148,
+        "start": 28.5,
+        "end": 29.701,
+        "score": -0.6986
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "018-02.mp3",
+    "audio_duration": 30.0409,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "text": "Can you tell me the condition of the entities who were, shall I say, killed in Nagasaki and Hiroshima. At this time, what is their condition? I am Ra. They of this trauma have not yet fully begun the healing process. They are being helped as much as is possible.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me the condition of the entities who were, shall I say, killed in Nagasaki and Hiroshima.",
+        "start_offset": 0,
+        "end_offset": 102,
+        "start": 2.121,
+        "end": 12.645
+      },
+      {
+        "segment": "At this time, what is their condition?",
+        "start_offset": 103,
+        "end_offset": 141,
+        "start": 13.225,
+        "end": 15.986
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 142,
+        "end_offset": 150,
+        "start": 21.568,
+        "end": 24.069
+      },
+      {
+        "segment": "They of this trauma have not yet fully begun the healing process.",
+        "start_offset": 151,
+        "end_offset": 216,
+        "start": 27.33,
+        "end": 46.358
+      },
+      {
+        "segment": "They are being helped as much as is possible.",
+        "start_offset": 217,
+        "end_offset": 262,
+        "start": 48.939,
+        "end": 61.664
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.121,
+        "end": 2.281,
+        "score": -1.2208
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 2.321,
+        "end": 2.401,
+        "score": -1.1305
+      },
+      {
+        "word": "tell",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 2.481,
+        "end": 2.661,
+        "score": -1.3224
+      },
+      {
+        "word": "me",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 2.721,
+        "end": 2.801,
+        "score": -1.1515
+      },
+      {
+        "word": "the",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 4.602,
+        "end": 4.682,
+        "score": -1.5388
+      },
+      {
+        "word": "condition",
+        "start_offset": 20,
+        "end_offset": 29,
+        "start": 4.742,
+        "end": 5.402,
+        "score": -1.582
+      },
+      {
+        "word": "of",
+        "start_offset": 30,
+        "end_offset": 32,
+        "start": 5.822,
+        "end": 5.922,
+        "score": -1.477
+      },
+      {
+        "word": "the",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 6.002,
+        "end": 6.082,
+        "score": -1.5565
+      },
+      {
+        "word": "entities",
+        "start_offset": 37,
+        "end_offset": 45,
+        "start": 6.242,
+        "end": 6.783,
+        "score": -1.4831
+      },
+      {
+        "word": "who",
+        "start_offset": 46,
+        "end_offset": 49,
+        "start": 6.863,
+        "end": 6.943,
+        "score": -1.3365
+      },
+      {
+        "word": "were,",
+        "start_offset": 50,
+        "end_offset": 55,
+        "start": 7.103,
+        "end": 7.343,
+        "score": -1.2004
+      },
+      {
+        "word": "shall",
+        "start_offset": 56,
+        "end_offset": 61,
+        "start": 8.763,
+        "end": 9.063,
+        "score": -3.6682
+      },
+      {
+        "word": "I",
+        "start_offset": 62,
+        "end_offset": 63,
+        "start": 9.083,
+        "end": 9.103,
+        "score": -7.3903
+      },
+      {
+        "word": "say,",
+        "start_offset": 64,
+        "end_offset": 68,
+        "start": 9.123,
+        "end": 9.304,
+        "score": -2.3518
+      },
+      {
+        "word": "killed",
+        "start_offset": 69,
+        "end_offset": 75,
+        "start": 9.444,
+        "end": 9.924,
+        "score": -1.0141
+      },
+      {
+        "word": "in",
+        "start_offset": 76,
+        "end_offset": 78,
+        "start": 10.964,
+        "end": 11.044,
+        "score": -0.9836
+      },
+      {
+        "word": "Nagasaki",
+        "start_offset": 79,
+        "end_offset": 87,
+        "start": 11.104,
+        "end": 11.825,
+        "score": -1.5957
+      },
+      {
+        "word": "and",
+        "start_offset": 88,
+        "end_offset": 91,
+        "start": 11.905,
+        "end": 11.985,
+        "score": -2.2342
+      },
+      {
+        "word": "Hiroshima.",
+        "start_offset": 92,
+        "end_offset": 102,
+        "start": 12.005,
+        "end": 12.645,
+        "score": -2.9491
+      },
+      {
+        "word": "At",
+        "start_offset": 103,
+        "end_offset": 105,
+        "start": 13.225,
+        "end": 13.325,
+        "score": -2.9946
+      },
+      {
+        "word": "this",
+        "start_offset": 106,
+        "end_offset": 110,
+        "start": 13.365,
+        "end": 13.545,
+        "score": -3.1932
+      },
+      {
+        "word": "time,",
+        "start_offset": 111,
+        "end_offset": 116,
+        "start": 13.625,
+        "end": 13.985,
+        "score": -3.1093
+      },
+      {
+        "word": "what",
+        "start_offset": 117,
+        "end_offset": 121,
+        "start": 14.225,
+        "end": 14.366,
+        "score": -4.377
+      },
+      {
+        "word": "is",
+        "start_offset": 122,
+        "end_offset": 124,
+        "start": 14.406,
+        "end": 14.486,
+        "score": -4.4056
+      },
+      {
+        "word": "their",
+        "start_offset": 125,
+        "end_offset": 130,
+        "start": 14.526,
+        "end": 14.726,
+        "score": -4.8184
+      },
+      {
+        "word": "condition?",
+        "start_offset": 131,
+        "end_offset": 141,
+        "start": 15.526,
+        "end": 15.986,
+        "score": -4.0275
+      },
+      {
+        "word": "I",
+        "start_offset": 142,
+        "end_offset": 143,
+        "start": 21.568,
+        "end": 21.588,
+        "score": -0.7309
+      },
+      {
+        "word": "am",
+        "start_offset": 144,
+        "end_offset": 146,
+        "start": 22.589,
+        "end": 22.909,
+        "score": -0.7338
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 147,
+        "end_offset": 150,
+        "start": 23.909,
+        "end": 24.069,
+        "score": -0.8322
+      },
+      {
+        "word": "They",
+        "start_offset": 151,
+        "end_offset": 155,
+        "start": 27.33,
+        "end": 27.671,
+        "score": -0.7595
+      },
+      {
+        "word": "of",
+        "start_offset": 156,
+        "end_offset": 158,
+        "start": 29.771,
+        "end": 30.092,
+        "score": -0.7327
+      },
+      {
+        "word": "this",
+        "start_offset": 159,
+        "end_offset": 163,
+        "start": 30.952,
+        "end": 31.432,
+        "score": -0.7631
+      },
+      {
+        "word": "trauma",
+        "start_offset": 164,
+        "end_offset": 170,
+        "start": 32.512,
+        "end": 33.273,
+        "score": -1.8534
+      },
+      {
+        "word": "have",
+        "start_offset": 171,
+        "end_offset": 175,
+        "start": 35.294,
+        "end": 35.794,
+        "score": -0.7086
+      },
+      {
+        "word": "not",
+        "start_offset": 176,
+        "end_offset": 179,
+        "start": 36.394,
+        "end": 36.854,
+        "score": -0.7025
+      },
+      {
+        "word": "yet",
+        "start_offset": 180,
+        "end_offset": 183,
+        "start": 37.634,
+        "end": 38.115,
+        "score": -0.6968
+      },
+      {
+        "word": "fully",
+        "start_offset": 184,
+        "end_offset": 189,
+        "start": 39.375,
+        "end": 39.795,
+        "score": -0.6968
+      },
+      {
+        "word": "begun",
+        "start_offset": 190,
+        "end_offset": 195,
+        "start": 40.696,
+        "end": 41.436,
+        "score": -0.7328
+      },
+      {
+        "word": "the",
+        "start_offset": 196,
+        "end_offset": 199,
+        "start": 42.556,
+        "end": 42.716,
+        "score": -0.7405
+      },
+      {
+        "word": "healing",
+        "start_offset": 200,
+        "end_offset": 207,
+        "start": 43.457,
+        "end": 44.177,
+        "score": -0.7075
+      },
+      {
+        "word": "process.",
+        "start_offset": 208,
+        "end_offset": 216,
+        "start": 45.177,
+        "end": 46.358,
+        "score": -0.7608
+      },
+      {
+        "word": "They",
+        "start_offset": 217,
+        "end_offset": 221,
+        "start": 48.939,
+        "end": 49.299,
+        "score": -0.7887
+      },
+      {
+        "word": "are",
+        "start_offset": 222,
+        "end_offset": 225,
+        "start": 50.639,
+        "end": 51.02,
+        "score": -2.4392
+      },
+      {
+        "word": "being",
+        "start_offset": 226,
+        "end_offset": 231,
+        "start": 51.9,
+        "end": 52.46,
+        "score": -0.7413
+      },
+      {
+        "word": "helped",
+        "start_offset": 232,
+        "end_offset": 238,
+        "start": 54.201,
+        "end": 54.801,
+        "score": -0.8612
+      },
+      {
+        "word": "as",
+        "start_offset": 239,
+        "end_offset": 241,
+        "start": 56.021,
+        "end": 56.402,
+        "score": -0.7155
+      },
+      {
+        "word": "much",
+        "start_offset": 242,
+        "end_offset": 246,
+        "start": 56.782,
+        "end": 57.282,
+        "score": -0.7418
+      },
+      {
+        "word": "as",
+        "start_offset": 247,
+        "end_offset": 249,
+        "start": 58.522,
+        "end": 58.923,
+        "score": -0.7243
+      },
+      {
+        "word": "is",
+        "start_offset": 250,
+        "end_offset": 252,
+        "start": 59.603,
+        "end": 59.963,
+        "score": -0.8502
+      },
+      {
+        "word": "possible.",
+        "start_offset": 253,
+        "end_offset": 262,
+        "start": 60.603,
+        "end": 61.664,
+        "score": -0.7268
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "026-26.mp3",
+    "audio_duration": 65.0449,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

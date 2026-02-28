@@ -1,0 +1,457 @@
+{
+  "text": "Can you tell me the length of that s average span in years at the end of the second major cycle? I am wrong. The average is perhaps misleading to be precise. Many spent approximately thirty-five two forty of your years in one incarnation with the possibility not considered abnormal of a lifespan approaching one hundred of your years.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me the length of that s average span in years at the end of the second major cycle?",
+        "start_offset": 24,
+        "end_offset": 101,
+        "start": 1.92,
+        "end": 8.08
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 132,
+        "end_offset": 168,
+        "start": 10.56,
+        "end": 13.44
+      },
+      {
+        "segment": "The average is perhaps misleading to be precise.",
+        "start_offset": 188,
+        "end_offset": 327,
+        "start": 15.040000000000001,
+        "end": 26.16
+      },
+      {
+        "segment": "Many spent approximately thirty-five two forty of your years in one incarnation with the possibility not considered abnormal of a lifespan approaching one hundred of your years.",
+        "start_offset": 349,
+        "end_offset": 827,
+        "start": 27.92,
+        "end": 66.16
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 1.92,
+        "end": 2.24
+      },
+      {
+        "word": "you",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 2.24,
+        "end": 2.48
+      },
+      {
+        "word": "tell",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 2.48,
+        "end": 2.72
+      },
+      {
+        "word": "me",
+        "start_offset": 34,
+        "end_offset": 36,
+        "start": 2.72,
+        "end": 2.88
+      },
+      {
+        "word": "the",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 2.88,
+        "end": 3.04
+      },
+      {
+        "word": "length",
+        "start_offset": 38,
+        "end_offset": 43,
+        "start": 3.04,
+        "end": 3.44
+      },
+      {
+        "word": "of",
+        "start_offset": 43,
+        "end_offset": 45,
+        "start": 3.44,
+        "end": 3.6
+      },
+      {
+        "word": "that",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 3.6,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "s",
+        "start_offset": 47,
+        "end_offset": 48,
+        "start": 3.7600000000000002,
+        "end": 3.84
+      },
+      {
+        "word": "average",
+        "start_offset": 50,
+        "end_offset": 56,
+        "start": 4.0,
+        "end": 4.48
+      },
+      {
+        "word": "span",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 4.48,
+        "end": 4.8
+      },
+      {
+        "word": "in",
+        "start_offset": 60,
+        "end_offset": 62,
+        "start": 4.8,
+        "end": 4.96
+      },
+      {
+        "word": "years",
+        "start_offset": 62,
+        "end_offset": 66,
+        "start": 4.96,
+        "end": 5.28
+      },
+      {
+        "word": "at",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 5.44,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "the",
+        "start_offset": 70,
+        "end_offset": 71,
+        "start": 5.6000000000000005,
+        "end": 5.68
+      },
+      {
+        "word": "end",
+        "start_offset": 71,
+        "end_offset": 73,
+        "start": 5.68,
+        "end": 5.84
+      },
+      {
+        "word": "of",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 5.84,
+        "end": 6.0
+      },
+      {
+        "word": "the",
+        "start_offset": 75,
+        "end_offset": 78,
+        "start": 6.0,
+        "end": 6.24
+      },
+      {
+        "word": "second",
+        "start_offset": 78,
+        "end_offset": 83,
+        "start": 6.24,
+        "end": 6.640000000000001
+      },
+      {
+        "word": "major",
+        "start_offset": 83,
+        "end_offset": 89,
+        "start": 6.640000000000001,
+        "end": 7.12
+      },
+      {
+        "word": "cycle?",
+        "start_offset": 89,
+        "end_offset": 101,
+        "start": 7.12,
+        "end": 8.08
+      },
+      {
+        "word": "I",
+        "start_offset": 132,
+        "end_offset": 136,
+        "start": 10.56,
+        "end": 10.88
+      },
+      {
+        "word": "am",
+        "start_offset": 140,
+        "end_offset": 144,
+        "start": 11.200000000000001,
+        "end": 11.52
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 156,
+        "end_offset": 168,
+        "start": 12.48,
+        "end": 13.44
+      },
+      {
+        "word": "The",
+        "start_offset": 188,
+        "end_offset": 192,
+        "start": 15.040000000000001,
+        "end": 15.36
+      },
+      {
+        "word": "average",
+        "start_offset": 204,
+        "end_offset": 217,
+        "start": 16.32,
+        "end": 17.36
+      },
+      {
+        "word": "is",
+        "start_offset": 233,
+        "end_offset": 237,
+        "start": 18.64,
+        "end": 18.96
+      },
+      {
+        "word": "perhaps",
+        "start_offset": 245,
+        "end_offset": 260,
+        "start": 19.6,
+        "end": 20.8
+      },
+      {
+        "word": "misleading",
+        "start_offset": 267,
+        "end_offset": 285,
+        "start": 21.36,
+        "end": 22.8
+      },
+      {
+        "word": "to",
+        "start_offset": 299,
+        "end_offset": 303,
+        "start": 23.92,
+        "end": 24.240000000000002
+      },
+      {
+        "word": "be",
+        "start_offset": 307,
+        "end_offset": 311,
+        "start": 24.560000000000002,
+        "end": 24.88
+      },
+      {
+        "word": "precise.",
+        "start_offset": 315,
+        "end_offset": 327,
+        "start": 25.2,
+        "end": 26.16
+      },
+      {
+        "word": "Many",
+        "start_offset": 349,
+        "end_offset": 357,
+        "start": 27.92,
+        "end": 28.560000000000002
+      },
+      {
+        "word": "spent",
+        "start_offset": 368,
+        "end_offset": 376,
+        "start": 29.44,
+        "end": 30.080000000000002
+      },
+      {
+        "word": "approximately",
+        "start_offset": 383,
+        "end_offset": 403,
+        "start": 30.64,
+        "end": 32.24
+      },
+      {
+        "word": "thirty-five",
+        "start_offset": 419,
+        "end_offset": 435,
+        "start": 33.52,
+        "end": 34.800000000000004
+      },
+      {
+        "word": "two",
+        "start_offset": 443,
+        "end_offset": 446,
+        "start": 35.44,
+        "end": 35.68
+      },
+      {
+        "word": "forty",
+        "start_offset": 454,
+        "end_offset": 461,
+        "start": 36.32,
+        "end": 36.88
+      },
+      {
+        "word": "of",
+        "start_offset": 473,
+        "end_offset": 477,
+        "start": 37.84,
+        "end": 38.160000000000004
+      },
+      {
+        "word": "your",
+        "start_offset": 481,
+        "end_offset": 485,
+        "start": 38.480000000000004,
+        "end": 38.800000000000004
+      },
+      {
+        "word": "years",
+        "start_offset": 489,
+        "end_offset": 501,
+        "start": 39.12,
+        "end": 40.08
+      },
+      {
+        "word": "in",
+        "start_offset": 517,
+        "end_offset": 521,
+        "start": 41.36,
+        "end": 41.68
+      },
+      {
+        "word": "one",
+        "start_offset": 525,
+        "end_offset": 529,
+        "start": 42.0,
+        "end": 42.32
+      },
+      {
+        "word": "incarnation",
+        "start_offset": 537,
+        "end_offset": 557,
+        "start": 42.96,
+        "end": 44.56
+      },
+      {
+        "word": "with",
+        "start_offset": 576,
+        "end_offset": 580,
+        "start": 46.08,
+        "end": 46.4
+      },
+      {
+        "word": "the",
+        "start_offset": 584,
+        "end_offset": 588,
+        "start": 46.72,
+        "end": 47.04
+      },
+      {
+        "word": "possibility",
+        "start_offset": 600,
+        "end_offset": 616,
+        "start": 48.0,
+        "end": 49.28
+      },
+      {
+        "word": "not",
+        "start_offset": 635,
+        "end_offset": 639,
+        "start": 50.800000000000004,
+        "end": 51.120000000000005
+      },
+      {
+        "word": "considered",
+        "start_offset": 643,
+        "end_offset": 659,
+        "start": 51.44,
+        "end": 52.72
+      },
+      {
+        "word": "abnormal",
+        "start_offset": 667,
+        "end_offset": 683,
+        "start": 53.36,
+        "end": 54.64
+      },
+      {
+        "word": "of",
+        "start_offset": 698,
+        "end_offset": 702,
+        "start": 55.84,
+        "end": 56.160000000000004
+      },
+      {
+        "word": "a",
+        "start_offset": 705,
+        "end_offset": 709,
+        "start": 56.4,
+        "end": 56.72
+      },
+      {
+        "word": "lifespan",
+        "start_offset": 709,
+        "end_offset": 724,
+        "start": 56.72,
+        "end": 57.92
+      },
+      {
+        "word": "approaching",
+        "start_offset": 740,
+        "end_offset": 755,
+        "start": 59.2,
+        "end": 60.4
+      },
+      {
+        "word": "one",
+        "start_offset": 767,
+        "end_offset": 771,
+        "start": 61.36,
+        "end": 61.68
+      },
+      {
+        "word": "hundred",
+        "start_offset": 775,
+        "end_offset": 783,
+        "start": 62.0,
+        "end": 62.64
+      },
+      {
+        "word": "of",
+        "start_offset": 799,
+        "end_offset": 803,
+        "start": 63.92,
+        "end": 64.24
+      },
+      {
+        "word": "your",
+        "start_offset": 807,
+        "end_offset": 811,
+        "start": 64.56,
+        "end": 64.88
+      },
+      {
+        "word": "years.",
+        "start_offset": 815,
+        "end_offset": 827,
+        "start": 65.2,
+        "end": 66.16
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "022-04.mp3",
+    "audio_duration": 67.03,
+    "transcription_time": 0.13,
+    "rtfx": 507.45,
+    "timestamp": "2026-01-06T21:48:33.180285+00:00"
+  }
+}

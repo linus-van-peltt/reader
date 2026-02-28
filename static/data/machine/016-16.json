@@ -1,0 +1,128 @@
+{
+  "text": "What is this done by the arrival? I am wrong. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What is this done by the arrival?",
+        "start_offset": 32,
+        "end_offset": 60,
+        "start": 2.56,
+        "end": 4.8
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 95,
+        "end_offset": 127,
+        "start": 7.6000000000000005,
+        "end": 10.16
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 139,
+        "end_offset": 179,
+        "start": 11.120000000000001,
+        "end": 14.32
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 32,
+        "end_offset": 37,
+        "start": 2.56,
+        "end": 2.96
+      },
+      {
+        "word": "is",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 2.96,
+        "end": 3.12
+      },
+      {
+        "word": "this",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 3.2800000000000002,
+        "end": 3.44
+      },
+      {
+        "word": "done",
+        "start_offset": 45,
+        "end_offset": 49,
+        "start": 3.6,
+        "end": 3.92
+      },
+      {
+        "word": "by",
+        "start_offset": 49,
+        "end_offset": 50,
+        "start": 3.92,
+        "end": 4.0
+      },
+      {
+        "word": "the",
+        "start_offset": 51,
+        "end_offset": 52,
+        "start": 4.08,
+        "end": 4.16
+      },
+      {
+        "word": "arrival?",
+        "start_offset": 54,
+        "end_offset": 60,
+        "start": 4.32,
+        "end": 4.8
+      },
+      {
+        "word": "I",
+        "start_offset": 95,
+        "end_offset": 99,
+        "start": 7.6000000000000005,
+        "end": 7.92
+      },
+      {
+        "word": "am",
+        "start_offset": 107,
+        "end_offset": 111,
+        "start": 8.56,
+        "end": 8.88
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 118,
+        "end_offset": 127,
+        "start": 9.44,
+        "end": 10.16
+      },
+      {
+        "word": "This",
+        "start_offset": 139,
+        "end_offset": 143,
+        "start": 11.120000000000001,
+        "end": 11.44
+      },
+      {
+        "word": "is",
+        "start_offset": 151,
+        "end_offset": 155,
+        "start": 12.08,
+        "end": 12.4
+      },
+      {
+        "word": "correct.",
+        "start_offset": 167,
+        "end_offset": 179,
+        "start": 13.36,
+        "end": 14.32
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-16.mp3",
+    "audio_duration": 15.05,
+    "transcription_time": 0.08,
+    "rtfx": 182.73,
+    "timestamp": "2026-01-06T21:47:32.509251+00:00"
+  }
+}

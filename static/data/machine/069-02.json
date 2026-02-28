@@ -1,0 +1,233 @@
+{
+  "text": "Do you mean that the physical energy is completely depleted? I am wrong. This is correct, although we have a physical energy transferred and available for this working.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Do you mean that the physical energy is completely depleted?",
+        "start_offset": 22,
+        "end_offset": 65,
+        "start": 1.76,
+        "end": 5.2
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 109,
+        "end_offset": 147,
+        "start": 8.72,
+        "end": 11.76
+      },
+      {
+        "segment": "This is correct, although we have a physical energy transferred and available for this working.",
+        "start_offset": 167,
+        "end_offset": 496,
+        "start": 13.36,
+        "end": 39.68
+      }
+    ],
+    "word": [
+      {
+        "word": "Do",
+        "start_offset": 22,
+        "end_offset": 25,
+        "start": 1.76,
+        "end": 2.0
+      },
+      {
+        "word": "you",
+        "start_offset": 25,
+        "end_offset": 27,
+        "start": 2.0,
+        "end": 2.16
+      },
+      {
+        "word": "mean",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 2.16,
+        "end": 2.4
+      },
+      {
+        "word": "that",
+        "start_offset": 30,
+        "end_offset": 32,
+        "start": 2.4,
+        "end": 2.56
+      },
+      {
+        "word": "the",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 2.56,
+        "end": 2.72
+      },
+      {
+        "word": "physical",
+        "start_offset": 34,
+        "end_offset": 40,
+        "start": 2.72,
+        "end": 3.2
+      },
+      {
+        "word": "energy",
+        "start_offset": 40,
+        "end_offset": 45,
+        "start": 3.2,
+        "end": 3.6
+      },
+      {
+        "word": "is",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 3.6,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "completely",
+        "start_offset": 47,
+        "end_offset": 53,
+        "start": 3.7600000000000002,
+        "end": 4.24
+      },
+      {
+        "word": "depleted?",
+        "start_offset": 53,
+        "end_offset": 65,
+        "start": 4.24,
+        "end": 5.2
+      },
+      {
+        "word": "I",
+        "start_offset": 109,
+        "end_offset": 113,
+        "start": 8.72,
+        "end": 9.040000000000001
+      },
+      {
+        "word": "am",
+        "start_offset": 121,
+        "end_offset": 125,
+        "start": 9.68,
+        "end": 10.0
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 137,
+        "end_offset": 147,
+        "start": 10.96,
+        "end": 11.76
+      },
+      {
+        "word": "This",
+        "start_offset": 167,
+        "end_offset": 171,
+        "start": 13.36,
+        "end": 13.68
+      },
+      {
+        "word": "is",
+        "start_offset": 183,
+        "end_offset": 187,
+        "start": 14.64,
+        "end": 14.96
+      },
+      {
+        "word": "correct,",
+        "start_offset": 203,
+        "end_offset": 215,
+        "start": 16.240000000000002,
+        "end": 17.2
+      },
+      {
+        "word": "although",
+        "start_offset": 237,
+        "end_offset": 249,
+        "start": 18.96,
+        "end": 19.92
+      },
+      {
+        "word": "we",
+        "start_offset": 257,
+        "end_offset": 261,
+        "start": 20.56,
+        "end": 20.88
+      },
+      {
+        "word": "have",
+        "start_offset": 277,
+        "end_offset": 281,
+        "start": 22.16,
+        "end": 22.48
+      },
+      {
+        "word": "a",
+        "start_offset": 296,
+        "end_offset": 300,
+        "start": 23.68,
+        "end": 24.0
+      },
+      {
+        "word": "physical",
+        "start_offset": 300,
+        "end_offset": 313,
+        "start": 24.0,
+        "end": 25.04
+      },
+      {
+        "word": "energy",
+        "start_offset": 337,
+        "end_offset": 345,
+        "start": 26.96,
+        "end": 27.6
+      },
+      {
+        "word": "transferred",
+        "start_offset": 365,
+        "end_offset": 385,
+        "start": 29.2,
+        "end": 30.8
+      },
+      {
+        "word": "and",
+        "start_offset": 397,
+        "end_offset": 401,
+        "start": 31.76,
+        "end": 32.08
+      },
+      {
+        "word": "available",
+        "start_offset": 417,
+        "end_offset": 432,
+        "start": 33.36,
+        "end": 34.56
+      },
+      {
+        "word": "for",
+        "start_offset": 448,
+        "end_offset": 452,
+        "start": 35.84,
+        "end": 36.160000000000004
+      },
+      {
+        "word": "this",
+        "start_offset": 464,
+        "end_offset": 468,
+        "start": 37.12,
+        "end": 37.44
+      },
+      {
+        "word": "working.",
+        "start_offset": 484,
+        "end_offset": 496,
+        "start": 38.72,
+        "end": 39.68
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "069-02.mp3",
+    "audio_duration": 40.05,
+    "transcription_time": 0.1,
+    "rtfx": 395.4,
+    "timestamp": "2026-01-06T21:54:45.348840+00:00"
+  }
+}

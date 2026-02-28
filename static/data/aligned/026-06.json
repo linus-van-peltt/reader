@@ -1,0 +1,204 @@
+{
+  "text": "Can you tell me if the Old Testament has any of the Law of One? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me if the Old Testament has any of the Law of One?",
+        "start_offset": 0,
+        "end_offset": 63,
+        "start": 0.901,
+        "end": 4.385
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 64,
+        "end_offset": 72,
+        "start": 9.512,
+        "end": 12.235
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 73,
+        "end_offset": 89,
+        "start": 14.117,
+        "end": 18.162
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 0.901,
+        "end": 1.001,
+        "score": -2.3222
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 1.041,
+        "end": 1.141,
+        "score": -1.4272
+      },
+      {
+        "word": "tell",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 1.181,
+        "end": 1.362,
+        "score": -0.7581
+      },
+      {
+        "word": "me",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 1.402,
+        "end": 1.462,
+        "score": -0.7674
+      },
+      {
+        "word": "if",
+        "start_offset": 16,
+        "end_offset": 18,
+        "start": 1.602,
+        "end": 1.682,
+        "score": -0.9244
+      },
+      {
+        "word": "the",
+        "start_offset": 19,
+        "end_offset": 22,
+        "start": 1.722,
+        "end": 1.822,
+        "score": -0.7868
+      },
+      {
+        "word": "Old",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 1.982,
+        "end": 2.183,
+        "score": -0.7282
+      },
+      {
+        "word": "Testament",
+        "start_offset": 27,
+        "end_offset": 36,
+        "start": 2.303,
+        "end": 2.843,
+        "score": -1.0275
+      },
+      {
+        "word": "has",
+        "start_offset": 37,
+        "end_offset": 40,
+        "start": 2.924,
+        "end": 3.124,
+        "score": -0.8731
+      },
+      {
+        "word": "any",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 3.304,
+        "end": 3.464,
+        "score": -0.7668
+      },
+      {
+        "word": "of",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 3.584,
+        "end": 3.664,
+        "score": -0.8969
+      },
+      {
+        "word": "the",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 3.685,
+        "end": 3.745,
+        "score": -3.0451
+      },
+      {
+        "word": "Law",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 3.805,
+        "end": 4.025,
+        "score": -1.2567
+      },
+      {
+        "word": "of",
+        "start_offset": 56,
+        "end_offset": 58,
+        "start": 4.045,
+        "end": 4.125,
+        "score": -2.2438
+      },
+      {
+        "word": "One?",
+        "start_offset": 59,
+        "end_offset": 63,
+        "start": 4.225,
+        "end": 4.385,
+        "score": -2.391
+      },
+      {
+        "word": "I",
+        "start_offset": 64,
+        "end_offset": 65,
+        "start": 9.512,
+        "end": 9.532,
+        "score": -0.9534
+      },
+      {
+        "word": "am",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 10.513,
+        "end": 10.953,
+        "score": -1.695
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 12.055,
+        "end": 12.235,
+        "score": -0.9154
+      },
+      {
+        "word": "This",
+        "start_offset": 73,
+        "end_offset": 77,
+        "start": 14.117,
+        "end": 14.598,
+        "score": -0.7733
+      },
+      {
+        "word": "is",
+        "start_offset": 78,
+        "end_offset": 80,
+        "start": 15.779,
+        "end": 16.18,
+        "score": -0.7268
+      },
+      {
+        "word": "correct.",
+        "start_offset": 81,
+        "end_offset": 89,
+        "start": 17.181,
+        "end": 18.162,
+        "score": -0.7165
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "026-06.mp3",
+    "audio_duration": 19.0433,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "text": "Would it be beneficial for us to perform the banishing ritual more in this room? I am Ra. It is beneficial to regularly work in this place.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would it be beneficial for us to perform the banishing ritual more in this room?",
+        "start_offset": 0,
+        "end_offset": 80,
+        "start": 2.3,
+        "end": 9.662
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 81,
+        "end_offset": 89,
+        "start": 18.703,
+        "end": 21.583
+      },
+      {
+        "segment": "It is beneficial to regularly work in this place.",
+        "start_offset": 90,
+        "end_offset": 139,
+        "start": 27.244,
+        "end": 48.288
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.3,
+        "end": 2.48,
+        "score": -0.8815
+      },
+      {
+        "word": "it",
+        "start_offset": 6,
+        "end_offset": 8,
+        "start": 2.52,
+        "end": 2.64,
+        "score": -0.7819
+      },
+      {
+        "word": "be",
+        "start_offset": 9,
+        "end_offset": 11,
+        "start": 4.301,
+        "end": 4.361,
+        "score": -0.7115
+      },
+      {
+        "word": "beneficial",
+        "start_offset": 12,
+        "end_offset": 22,
+        "start": 4.461,
+        "end": 5.061,
+        "score": -0.7912
+      },
+      {
+        "word": "for",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 5.101,
+        "end": 5.241,
+        "score": -0.7141
+      },
+      {
+        "word": "us",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 5.321,
+        "end": 5.461,
+        "score": -0.7091
+      },
+      {
+        "word": "to",
+        "start_offset": 30,
+        "end_offset": 32,
+        "start": 5.581,
+        "end": 5.701,
+        "score": -0.7363
+      },
+      {
+        "word": "perform",
+        "start_offset": 33,
+        "end_offset": 40,
+        "start": 6.221,
+        "end": 6.741,
+        "score": -0.8075
+      },
+      {
+        "word": "the",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 6.801,
+        "end": 7.581,
+        "score": -8.6059
+      },
+      {
+        "word": "banishing",
+        "start_offset": 45,
+        "end_offset": 54,
+        "start": 7.601,
+        "end": 8.061,
+        "score": -0.7497
+      },
+      {
+        "word": "ritual",
+        "start_offset": 55,
+        "end_offset": 61,
+        "start": 8.121,
+        "end": 8.481,
+        "score": -0.7209
+      },
+      {
+        "word": "more",
+        "start_offset": 62,
+        "end_offset": 66,
+        "start": 8.701,
+        "end": 8.941,
+        "score": -0.7336
+      },
+      {
+        "word": "in",
+        "start_offset": 67,
+        "end_offset": 69,
+        "start": 9.021,
+        "end": 9.081,
+        "score": -0.7225
+      },
+      {
+        "word": "this",
+        "start_offset": 70,
+        "end_offset": 74,
+        "start": 9.141,
+        "end": 9.321,
+        "score": -0.7642
+      },
+      {
+        "word": "room?",
+        "start_offset": 75,
+        "end_offset": 80,
+        "start": 9.421,
+        "end": 9.662,
+        "score": -0.7919
+      },
+      {
+        "word": "I",
+        "start_offset": 81,
+        "end_offset": 82,
+        "start": 18.703,
+        "end": 18.723,
+        "score": -1.6864
+      },
+      {
+        "word": "am",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 19.783,
+        "end": 20.063,
+        "score": -1.3788
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 86,
+        "end_offset": 89,
+        "start": 21.463,
+        "end": 21.583,
+        "score": -2.0594
+      },
+      {
+        "word": "It",
+        "start_offset": 90,
+        "end_offset": 92,
+        "start": 27.244,
+        "end": 27.484,
+        "score": -0.7456
+      },
+      {
+        "word": "is",
+        "start_offset": 93,
+        "end_offset": 95,
+        "start": 28.665,
+        "end": 29.005,
+        "score": -0.8386
+      },
+      {
+        "word": "beneficial",
+        "start_offset": 96,
+        "end_offset": 106,
+        "start": 31.125,
+        "end": 32.725,
+        "score": -0.8472
+      },
+      {
+        "word": "to",
+        "start_offset": 107,
+        "end_offset": 109,
+        "start": 34.505,
+        "end": 34.685,
+        "score": -1.9664
+      },
+      {
+        "word": "regularly",
+        "start_offset": 110,
+        "end_offset": 119,
+        "start": 37.866,
+        "end": 39.446,
+        "score": -0.7105
+      },
+      {
+        "word": "work",
+        "start_offset": 120,
+        "end_offset": 124,
+        "start": 42.507,
+        "end": 42.887,
+        "score": -0.7565
+      },
+      {
+        "word": "in",
+        "start_offset": 125,
+        "end_offset": 127,
+        "start": 44.527,
+        "end": 44.747,
+        "score": -0.7652
+      },
+      {
+        "word": "this",
+        "start_offset": 128,
+        "end_offset": 132,
+        "start": 46.387,
+        "end": 46.767,
+        "score": -0.9447
+      },
+      {
+        "word": "place.",
+        "start_offset": 133,
+        "end_offset": 139,
+        "start": 47.708,
+        "end": 48.288,
+        "score": -0.798
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "076-05.mp3",
+    "audio_duration": 60.0294,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

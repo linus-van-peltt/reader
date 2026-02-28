@@ -1,0 +1,401 @@
+{
+  "text": "Thank you. In considering what was mentioned in the last session about the sensor, I have thought about the fact that the position of the origin of the smoke changes approximately six inches. Horizontally, would it be better to have a sensor in a single horizontal smoking position? I am well.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 30,
+        "end_offset": 38,
+        "start": 2.4,
+        "end": 3.04
+      },
+      {
+        "segment": "In considering what was mentioned in the last session about the sensor, I have thought about the fact that the position of the origin of the smoke changes approximately six inches.",
+        "start_offset": 82,
+        "end_offset": 272,
+        "start": 6.5600000000000005,
+        "end": 21.76
+      },
+      {
+        "segment": "Horizontally, would it be better to have a sensor in a single horizontal smoking position?",
+        "start_offset": 278,
+        "end_offset": 386,
+        "start": 22.240000000000002,
+        "end": 30.88
+      },
+      {
+        "segment": "I am well.",
+        "start_offset": 476,
+        "end_offset": 505,
+        "start": 38.08,
+        "end": 40.4
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 30,
+        "end_offset": 36,
+        "start": 2.4,
+        "end": 2.88
+      },
+      {
+        "word": "you.",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 2.88,
+        "end": 3.04
+      },
+      {
+        "word": "In",
+        "start_offset": 82,
+        "end_offset": 86,
+        "start": 6.5600000000000005,
+        "end": 6.88
+      },
+      {
+        "word": "considering",
+        "start_offset": 89,
+        "end_offset": 96,
+        "start": 7.12,
+        "end": 7.68
+      },
+      {
+        "word": "what",
+        "start_offset": 96,
+        "end_offset": 100,
+        "start": 7.68,
+        "end": 8.0
+      },
+      {
+        "word": "was",
+        "start_offset": 100,
+        "end_offset": 102,
+        "start": 8.0,
+        "end": 8.16
+      },
+      {
+        "word": "mentioned",
+        "start_offset": 102,
+        "end_offset": 109,
+        "start": 8.16,
+        "end": 8.72
+      },
+      {
+        "word": "in",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 8.72,
+        "end": 8.88
+      },
+      {
+        "word": "the",
+        "start_offset": 111,
+        "end_offset": 113,
+        "start": 8.88,
+        "end": 9.040000000000001
+      },
+      {
+        "word": "last",
+        "start_offset": 113,
+        "end_offset": 116,
+        "start": 9.040000000000001,
+        "end": 9.28
+      },
+      {
+        "word": "session",
+        "start_offset": 116,
+        "end_offset": 122,
+        "start": 9.28,
+        "end": 9.76
+      },
+      {
+        "word": "about",
+        "start_offset": 122,
+        "end_offset": 125,
+        "start": 9.76,
+        "end": 10.0
+      },
+      {
+        "word": "the",
+        "start_offset": 125,
+        "end_offset": 129,
+        "start": 10.0,
+        "end": 10.32
+      },
+      {
+        "word": "sensor,",
+        "start_offset": 129,
+        "end_offset": 137,
+        "start": 10.32,
+        "end": 10.96
+      },
+      {
+        "word": "I",
+        "start_offset": 145,
+        "end_offset": 149,
+        "start": 11.6,
+        "end": 11.92
+      },
+      {
+        "word": "have",
+        "start_offset": 149,
+        "end_offset": 153,
+        "start": 11.92,
+        "end": 12.24
+      },
+      {
+        "word": "thought",
+        "start_offset": 155,
+        "end_offset": 163,
+        "start": 12.4,
+        "end": 13.040000000000001
+      },
+      {
+        "word": "about",
+        "start_offset": 163,
+        "end_offset": 167,
+        "start": 13.040000000000001,
+        "end": 13.36
+      },
+      {
+        "word": "the",
+        "start_offset": 167,
+        "end_offset": 170,
+        "start": 13.36,
+        "end": 13.6
+      },
+      {
+        "word": "fact",
+        "start_offset": 170,
+        "end_offset": 175,
+        "start": 13.6,
+        "end": 14.0
+      },
+      {
+        "word": "that",
+        "start_offset": 175,
+        "end_offset": 178,
+        "start": 14.0,
+        "end": 14.24
+      },
+      {
+        "word": "the",
+        "start_offset": 178,
+        "end_offset": 181,
+        "start": 14.24,
+        "end": 14.48
+      },
+      {
+        "word": "position",
+        "start_offset": 181,
+        "end_offset": 189,
+        "start": 14.48,
+        "end": 15.120000000000001
+      },
+      {
+        "word": "of",
+        "start_offset": 189,
+        "end_offset": 193,
+        "start": 15.120000000000001,
+        "end": 15.44
+      },
+      {
+        "word": "the",
+        "start_offset": 193,
+        "end_offset": 197,
+        "start": 15.44,
+        "end": 15.76
+      },
+      {
+        "word": "origin",
+        "start_offset": 201,
+        "end_offset": 205,
+        "start": 16.080000000000002,
+        "end": 16.4
+      },
+      {
+        "word": "of",
+        "start_offset": 211,
+        "end_offset": 213,
+        "start": 16.88,
+        "end": 17.04
+      },
+      {
+        "word": "the",
+        "start_offset": 213,
+        "end_offset": 217,
+        "start": 17.04,
+        "end": 17.36
+      },
+      {
+        "word": "smoke",
+        "start_offset": 217,
+        "end_offset": 228,
+        "start": 17.36,
+        "end": 18.240000000000002
+      },
+      {
+        "word": "changes",
+        "start_offset": 232,
+        "end_offset": 244,
+        "start": 18.56,
+        "end": 19.52
+      },
+      {
+        "word": "approximately",
+        "start_offset": 247,
+        "end_offset": 259,
+        "start": 19.76,
+        "end": 20.72
+      },
+      {
+        "word": "six",
+        "start_offset": 259,
+        "end_offset": 264,
+        "start": 20.72,
+        "end": 21.12
+      },
+      {
+        "word": "inches.",
+        "start_offset": 264,
+        "end_offset": 272,
+        "start": 21.12,
+        "end": 21.76
+      },
+      {
+        "word": "Horizontally,",
+        "start_offset": 278,
+        "end_offset": 289,
+        "start": 22.240000000000002,
+        "end": 23.12
+      },
+      {
+        "word": "would",
+        "start_offset": 291,
+        "end_offset": 294,
+        "start": 23.28,
+        "end": 23.52
+      },
+      {
+        "word": "it",
+        "start_offset": 294,
+        "end_offset": 296,
+        "start": 23.52,
+        "end": 23.68
+      },
+      {
+        "word": "be",
+        "start_offset": 296,
+        "end_offset": 298,
+        "start": 23.68,
+        "end": 23.84
+      },
+      {
+        "word": "better",
+        "start_offset": 298,
+        "end_offset": 302,
+        "start": 23.84,
+        "end": 24.16
+      },
+      {
+        "word": "to",
+        "start_offset": 302,
+        "end_offset": 304,
+        "start": 24.16,
+        "end": 24.32
+      },
+      {
+        "word": "have",
+        "start_offset": 304,
+        "end_offset": 306,
+        "start": 24.32,
+        "end": 24.48
+      },
+      {
+        "word": "a",
+        "start_offset": 306,
+        "end_offset": 310,
+        "start": 24.48,
+        "end": 24.8
+      },
+      {
+        "word": "sensor",
+        "start_offset": 310,
+        "end_offset": 318,
+        "start": 24.8,
+        "end": 25.44
+      },
+      {
+        "word": "in",
+        "start_offset": 322,
+        "end_offset": 326,
+        "start": 25.76,
+        "end": 26.080000000000002
+      },
+      {
+        "word": "a",
+        "start_offset": 326,
+        "end_offset": 330,
+        "start": 26.080000000000002,
+        "end": 26.400000000000002
+      },
+      {
+        "word": "single",
+        "start_offset": 330,
+        "end_offset": 338,
+        "start": 26.400000000000002,
+        "end": 27.04
+      },
+      {
+        "word": "horizontal",
+        "start_offset": 350,
+        "end_offset": 366,
+        "start": 28.0,
+        "end": 29.28
+      },
+      {
+        "word": "smoking",
+        "start_offset": 366,
+        "end_offset": 378,
+        "start": 29.28,
+        "end": 30.240000000000002
+      },
+      {
+        "word": "position?",
+        "start_offset": 378,
+        "end_offset": 386,
+        "start": 30.240000000000002,
+        "end": 30.88
+      },
+      {
+        "word": "I",
+        "start_offset": 476,
+        "end_offset": 480,
+        "start": 38.08,
+        "end": 38.4
+      },
+      {
+        "word": "am",
+        "start_offset": 492,
+        "end_offset": 494,
+        "start": 39.36,
+        "end": 39.52
+      },
+      {
+        "word": "well.",
+        "start_offset": 502,
+        "end_offset": 505,
+        "start": 40.160000000000004,
+        "end": 40.4
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "087-02.mp3",
+    "audio_duration": 70.03,
+    "transcription_time": 0.13,
+    "rtfx": 539.21,
+    "timestamp": "2026-01-06T21:57:53.468159+00:00"
+  }
+}

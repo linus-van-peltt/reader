@@ -1,0 +1,163 @@
+{
+  "text": "Was the next action taken by the Confederation when a call occurred? I am wrong. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Was the next action taken by the Confederation when a call occurred?",
+        "start_offset": 31,
+        "end_offset": 93,
+        "start": 2.48,
+        "end": 7.44
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 151,
+        "end_offset": 181,
+        "start": 12.08,
+        "end": 14.48
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 202,
+        "end_offset": 242,
+        "start": 16.16,
+        "end": 19.36
+      }
+    ],
+    "word": [
+      {
+        "word": "Was",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 2.48,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "the",
+        "start_offset": 37,
+        "end_offset": 40,
+        "start": 2.96,
+        "end": 3.2
+      },
+      {
+        "word": "next",
+        "start_offset": 40,
+        "end_offset": 45,
+        "start": 3.2,
+        "end": 3.6
+      },
+      {
+        "word": "action",
+        "start_offset": 45,
+        "end_offset": 51,
+        "start": 3.6,
+        "end": 4.08
+      },
+      {
+        "word": "taken",
+        "start_offset": 51,
+        "end_offset": 57,
+        "start": 4.08,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "by",
+        "start_offset": 57,
+        "end_offset": 59,
+        "start": 4.5600000000000005,
+        "end": 4.72
+      },
+      {
+        "word": "the",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 4.72,
+        "end": 4.96
+      },
+      {
+        "word": "Confederation",
+        "start_offset": 62,
+        "end_offset": 73,
+        "start": 4.96,
+        "end": 5.84
+      },
+      {
+        "word": "when",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 5.84,
+        "end": 6.0
+      },
+      {
+        "word": "a",
+        "start_offset": 75,
+        "end_offset": 78,
+        "start": 6.0,
+        "end": 6.24
+      },
+      {
+        "word": "call",
+        "start_offset": 78,
+        "end_offset": 84,
+        "start": 6.24,
+        "end": 6.72
+      },
+      {
+        "word": "occurred?",
+        "start_offset": 84,
+        "end_offset": 93,
+        "start": 6.72,
+        "end": 7.44
+      },
+      {
+        "word": "I",
+        "start_offset": 151,
+        "end_offset": 155,
+        "start": 12.08,
+        "end": 12.4
+      },
+      {
+        "word": "am",
+        "start_offset": 159,
+        "end_offset": 163,
+        "start": 12.72,
+        "end": 13.040000000000001
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 174,
+        "end_offset": 181,
+        "start": 13.92,
+        "end": 14.48
+      },
+      {
+        "word": "This",
+        "start_offset": 202,
+        "end_offset": 206,
+        "start": 16.16,
+        "end": 16.48
+      },
+      {
+        "word": "is",
+        "start_offset": 218,
+        "end_offset": 222,
+        "start": 17.44,
+        "end": 17.76
+      },
+      {
+        "word": "correct.",
+        "start_offset": 230,
+        "end_offset": 242,
+        "start": 18.400000000000002,
+        "end": 19.36
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "022-18.mp3",
+    "audio_duration": 20.04,
+    "transcription_time": 0.09,
+    "rtfx": 231.39,
+    "timestamp": "2026-01-06T21:48:36.706867+00:00"
+  }
+}

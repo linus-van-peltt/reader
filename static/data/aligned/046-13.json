@@ -1,0 +1,331 @@
+{
+  "text": "Then the positively oriented entity, rather than attempting repression of emotion, would balance the emotion as stated in an earlier contact. Is this correct? I am Ra. This is correct and illustrates the path of unity.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then the positively oriented entity, rather than attempting repression of emotion, would balance the emotion as stated in an earlier contact.",
+        "start_offset": 0,
+        "end_offset": 141,
+        "start": 1.32,
+        "end": 20.844
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 142,
+        "end_offset": 158,
+        "start": 21.405,
+        "end": 22.085
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 159,
+        "end_offset": 167,
+        "start": 25.385,
+        "end": 27.366
+      },
+      {
+        "segment": "This is correct and illustrates the path of unity.",
+        "start_offset": 168,
+        "end_offset": 218,
+        "start": 29.186,
+        "end": 41.289
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 1.32,
+        "end": 1.58,
+        "score": -0.7267
+      },
+      {
+        "word": "the",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 3.301,
+        "end": 3.401,
+        "score": -0.7906
+      },
+      {
+        "word": "positively",
+        "start_offset": 9,
+        "end_offset": 19,
+        "start": 3.541,
+        "end": 4.221,
+        "score": -0.6989
+      },
+      {
+        "word": "oriented",
+        "start_offset": 20,
+        "end_offset": 28,
+        "start": 4.361,
+        "end": 5.121,
+        "score": -2.5996
+      },
+      {
+        "word": "entity,",
+        "start_offset": 29,
+        "end_offset": 36,
+        "start": 5.501,
+        "end": 5.861,
+        "score": -1.0871
+      },
+      {
+        "word": "rather",
+        "start_offset": 37,
+        "end_offset": 43,
+        "start": 6.041,
+        "end": 6.341,
+        "score": -0.7951
+      },
+      {
+        "word": "than",
+        "start_offset": 44,
+        "end_offset": 48,
+        "start": 6.421,
+        "end": 6.641,
+        "score": -1.131
+      },
+      {
+        "word": "attempting",
+        "start_offset": 49,
+        "end_offset": 59,
+        "start": 6.661,
+        "end": 8.922,
+        "score": -2.2366
+      },
+      {
+        "word": "repression",
+        "start_offset": 60,
+        "end_offset": 70,
+        "start": 8.982,
+        "end": 9.782,
+        "score": -0.731
+      },
+      {
+        "word": "of",
+        "start_offset": 71,
+        "end_offset": 73,
+        "start": 10.862,
+        "end": 10.962,
+        "score": -0.7064
+      },
+      {
+        "word": "emotion,",
+        "start_offset": 74,
+        "end_offset": 82,
+        "start": 11.022,
+        "end": 11.622,
+        "score": -0.7022
+      },
+      {
+        "word": "would",
+        "start_offset": 83,
+        "end_offset": 88,
+        "start": 12.323,
+        "end": 12.503,
+        "score": -0.8226
+      },
+      {
+        "word": "balance",
+        "start_offset": 89,
+        "end_offset": 96,
+        "start": 12.643,
+        "end": 13.283,
+        "score": -0.7992
+      },
+      {
+        "word": "the",
+        "start_offset": 97,
+        "end_offset": 100,
+        "start": 14.103,
+        "end": 14.223,
+        "score": -0.7856
+      },
+      {
+        "word": "emotion",
+        "start_offset": 101,
+        "end_offset": 108,
+        "start": 14.283,
+        "end": 14.843,
+        "score": -0.7349
+      },
+      {
+        "word": "as",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 17.804,
+        "end": 18.004,
+        "score": -0.7795
+      },
+      {
+        "word": "stated",
+        "start_offset": 112,
+        "end_offset": 118,
+        "start": 18.124,
+        "end": 18.544,
+        "score": -0.7083
+      },
+      {
+        "word": "in",
+        "start_offset": 119,
+        "end_offset": 121,
+        "start": 18.624,
+        "end": 18.704,
+        "score": -0.7169
+      },
+      {
+        "word": "an",
+        "start_offset": 122,
+        "end_offset": 124,
+        "start": 18.744,
+        "end": 18.844,
+        "score": -0.7227
+      },
+      {
+        "word": "earlier",
+        "start_offset": 125,
+        "end_offset": 132,
+        "start": 18.964,
+        "end": 19.324,
+        "score": -0.7373
+      },
+      {
+        "word": "contact.",
+        "start_offset": 133,
+        "end_offset": 141,
+        "start": 20.264,
+        "end": 20.844,
+        "score": -1.1412
+      },
+      {
+        "word": "Is",
+        "start_offset": 142,
+        "end_offset": 144,
+        "start": 21.405,
+        "end": 21.445,
+        "score": -4.9756
+      },
+      {
+        "word": "this",
+        "start_offset": 145,
+        "end_offset": 149,
+        "start": 21.465,
+        "end": 21.625,
+        "score": -3.712
+      },
+      {
+        "word": "correct?",
+        "start_offset": 150,
+        "end_offset": 158,
+        "start": 21.685,
+        "end": 22.085,
+        "score": -1.5744
+      },
+      {
+        "word": "I",
+        "start_offset": 159,
+        "end_offset": 160,
+        "start": 25.385,
+        "end": 25.405,
+        "score": -1.5562
+      },
+      {
+        "word": "am",
+        "start_offset": 161,
+        "end_offset": 163,
+        "start": 26.226,
+        "end": 26.526,
+        "score": -2.1526
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 164,
+        "end_offset": 167,
+        "start": 27.246,
+        "end": 27.366,
+        "score": -1.8521
+      },
+      {
+        "word": "This",
+        "start_offset": 168,
+        "end_offset": 172,
+        "start": 29.186,
+        "end": 29.566,
+        "score": -0.7786
+      },
+      {
+        "word": "is",
+        "start_offset": 173,
+        "end_offset": 175,
+        "start": 30.667,
+        "end": 30.947,
+        "score": -0.7541
+      },
+      {
+        "word": "correct",
+        "start_offset": 176,
+        "end_offset": 183,
+        "start": 31.727,
+        "end": 32.707,
+        "score": -0.733
+      },
+      {
+        "word": "and",
+        "start_offset": 184,
+        "end_offset": 187,
+        "start": 34.007,
+        "end": 34.347,
+        "score": -0.7344
+      },
+      {
+        "word": "illustrates",
+        "start_offset": 188,
+        "end_offset": 199,
+        "start": 35.067,
+        "end": 36.468,
+        "score": -1.1234
+      },
+      {
+        "word": "the",
+        "start_offset": 200,
+        "end_offset": 203,
+        "start": 37.428,
+        "end": 37.568,
+        "score": -0.788
+      },
+      {
+        "word": "path",
+        "start_offset": 204,
+        "end_offset": 208,
+        "start": 37.828,
+        "end": 38.388,
+        "score": -0.7463
+      },
+      {
+        "word": "of",
+        "start_offset": 209,
+        "end_offset": 211,
+        "start": 39.668,
+        "end": 39.948,
+        "score": -0.7178
+      },
+      {
+        "word": "unity.",
+        "start_offset": 212,
+        "end_offset": 218,
+        "start": 40.709,
+        "end": 41.289,
+        "score": -0.7003
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "046-13.mp3",
+    "audio_duration": 50.0506,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "text": "This means that you would have awareness of all ideas. I am wrong. This is partially correct. It is our understanding that it would not be our awareness but simply awareness of the Creator. In the Creator is all that there is. Therefore, this knowledge would be available.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "This means that you would have awareness of all ideas.",
+        "start_offset": 31,
+        "end_offset": 92,
+        "start": 2.48,
+        "end": 7.36
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 158,
+        "end_offset": 189,
+        "start": 12.64,
+        "end": 15.120000000000001
+      },
+      {
+        "segment": "This is partially correct.",
+        "start_offset": 205,
+        "end_offset": 257,
+        "start": 16.4,
+        "end": 20.56
+      },
+      {
+        "segment": "It is our understanding that it would not be our awareness but simply awareness of the Creator.",
+        "start_offset": 269,
+        "end_offset": 521,
+        "start": 21.52,
+        "end": 41.68
+      },
+      {
+        "segment": "In the Creator is all that there is.",
+        "start_offset": 546,
+        "end_offset": 618,
+        "start": 43.68,
+        "end": 49.44
+      },
+      {
+        "segment": "Therefore, this knowledge would be available.",
+        "start_offset": 630,
+        "end_offset": 719,
+        "start": 50.4,
+        "end": 57.52
+      }
+    ],
+    "word": [
+      {
+        "word": "This",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 2.48,
+        "end": 2.64
+      },
+      {
+        "word": "means",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 2.8000000000000003,
+        "end": 3.04
+      },
+      {
+        "word": "that",
+        "start_offset": 39,
+        "end_offset": 41,
+        "start": 3.12,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "you",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 3.2800000000000002,
+        "end": 3.44
+      },
+      {
+        "word": "would",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 3.44,
+        "end": 3.68
+      },
+      {
+        "word": "have",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 3.68,
+        "end": 4.0
+      },
+      {
+        "word": "awareness",
+        "start_offset": 56,
+        "end_offset": 67,
+        "start": 4.48,
+        "end": 5.36
+      },
+      {
+        "word": "of",
+        "start_offset": 74,
+        "end_offset": 76,
+        "start": 5.92,
+        "end": 6.08
+      },
+      {
+        "word": "all",
+        "start_offset": 79,
+        "end_offset": 82,
+        "start": 6.32,
+        "end": 6.5600000000000005
+      },
+      {
+        "word": "ideas.",
+        "start_offset": 86,
+        "end_offset": 92,
+        "start": 6.88,
+        "end": 7.36
+      },
+      {
+        "word": "I",
+        "start_offset": 158,
+        "end_offset": 162,
+        "start": 12.64,
+        "end": 12.96
+      },
+      {
+        "word": "am",
+        "start_offset": 166,
+        "end_offset": 170,
+        "start": 13.280000000000001,
+        "end": 13.6
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 178,
+        "end_offset": 189,
+        "start": 14.24,
+        "end": 15.120000000000001
+      },
+      {
+        "word": "This",
+        "start_offset": 205,
+        "end_offset": 209,
+        "start": 16.4,
+        "end": 16.72
+      },
+      {
+        "word": "is",
+        "start_offset": 213,
+        "end_offset": 217,
+        "start": 17.04,
+        "end": 17.36
+      },
+      {
+        "word": "partially",
+        "start_offset": 225,
+        "end_offset": 237,
+        "start": 18.0,
+        "end": 18.96
+      },
+      {
+        "word": "correct.",
+        "start_offset": 245,
+        "end_offset": 257,
+        "start": 19.6,
+        "end": 20.56
+      },
+      {
+        "word": "It",
+        "start_offset": 269,
+        "end_offset": 273,
+        "start": 21.52,
+        "end": 21.84
+      },
+      {
+        "word": "is",
+        "start_offset": 277,
+        "end_offset": 281,
+        "start": 22.16,
+        "end": 22.48
+      },
+      {
+        "word": "our",
+        "start_offset": 285,
+        "end_offset": 289,
+        "start": 22.8,
+        "end": 23.12
+      },
+      {
+        "word": "understanding",
+        "start_offset": 297,
+        "end_offset": 313,
+        "start": 23.76,
+        "end": 25.04
+      },
+      {
+        "word": "that",
+        "start_offset": 324,
+        "end_offset": 328,
+        "start": 25.92,
+        "end": 26.240000000000002
+      },
+      {
+        "word": "it",
+        "start_offset": 336,
+        "end_offset": 340,
+        "start": 26.88,
+        "end": 27.2
+      },
+      {
+        "word": "would",
+        "start_offset": 344,
+        "end_offset": 348,
+        "start": 27.52,
+        "end": 27.84
+      },
+      {
+        "word": "not",
+        "start_offset": 356,
+        "end_offset": 360,
+        "start": 28.48,
+        "end": 28.8
+      },
+      {
+        "word": "be",
+        "start_offset": 364,
+        "end_offset": 368,
+        "start": 29.12,
+        "end": 29.44
+      },
+      {
+        "word": "our",
+        "start_offset": 380,
+        "end_offset": 384,
+        "start": 30.400000000000002,
+        "end": 30.72
+      },
+      {
+        "word": "awareness",
+        "start_offset": 392,
+        "end_offset": 407,
+        "start": 31.36,
+        "end": 32.56
+      },
+      {
+        "word": "but",
+        "start_offset": 415,
+        "end_offset": 419,
+        "start": 33.2,
+        "end": 33.52
+      },
+      {
+        "word": "simply",
+        "start_offset": 423,
+        "end_offset": 435,
+        "start": 33.84,
+        "end": 34.800000000000004
+      },
+      {
+        "word": "awareness",
+        "start_offset": 443,
+        "end_offset": 457,
+        "start": 35.44,
+        "end": 36.56
+      },
+      {
+        "word": "of",
+        "start_offset": 477,
+        "end_offset": 481,
+        "start": 38.160000000000004,
+        "end": 38.480000000000004
+      },
+      {
+        "word": "the",
+        "start_offset": 493,
+        "end_offset": 497,
+        "start": 39.44,
+        "end": 39.76
+      },
+      {
+        "word": "Creator.",
+        "start_offset": 509,
+        "end_offset": 521,
+        "start": 40.72,
+        "end": 41.68
+      },
+      {
+        "word": "In",
+        "start_offset": 546,
+        "end_offset": 550,
+        "start": 43.68,
+        "end": 44.0
+      },
+      {
+        "word": "the",
+        "start_offset": 554,
+        "end_offset": 558,
+        "start": 44.32,
+        "end": 44.64
+      },
+      {
+        "word": "Creator",
+        "start_offset": 562,
+        "end_offset": 574,
+        "start": 44.96,
+        "end": 45.92
+      },
+      {
+        "word": "is",
+        "start_offset": 586,
+        "end_offset": 590,
+        "start": 46.88,
+        "end": 47.2
+      },
+      {
+        "word": "all",
+        "start_offset": 594,
+        "end_offset": 598,
+        "start": 47.52,
+        "end": 47.84
+      },
+      {
+        "word": "that",
+        "start_offset": 602,
+        "end_offset": 606,
+        "start": 48.160000000000004,
+        "end": 48.480000000000004
+      },
+      {
+        "word": "there",
+        "start_offset": 610,
+        "end_offset": 614,
+        "start": 48.800000000000004,
+        "end": 49.120000000000005
+      },
+      {
+        "word": "is.",
+        "start_offset": 614,
+        "end_offset": 618,
+        "start": 49.120000000000005,
+        "end": 49.44
+      },
+      {
+        "word": "Therefore,",
+        "start_offset": 630,
+        "end_offset": 646,
+        "start": 50.4,
+        "end": 51.68
+      },
+      {
+        "word": "this",
+        "start_offset": 650,
+        "end_offset": 654,
+        "start": 52.0,
+        "end": 52.32
+      },
+      {
+        "word": "knowledge",
+        "start_offset": 661,
+        "end_offset": 673,
+        "start": 52.88,
+        "end": 53.84
+      },
+      {
+        "word": "would",
+        "start_offset": 677,
+        "end_offset": 681,
+        "start": 54.160000000000004,
+        "end": 54.480000000000004
+      },
+      {
+        "word": "be",
+        "start_offset": 693,
+        "end_offset": 697,
+        "start": 55.44,
+        "end": 55.76
+      },
+      {
+        "word": "available.",
+        "start_offset": 705,
+        "end_offset": 719,
+        "start": 56.4,
+        "end": 57.52
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-23.mp3",
+    "audio_duration": 61.05,
+    "transcription_time": 0.12,
+    "rtfx": 488.94,
+    "timestamp": "2026-01-06T21:47:34.529101+00:00"
+  }
+}

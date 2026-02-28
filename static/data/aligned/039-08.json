@@ -1,0 +1,252 @@
+{
+  "text": "Can you tell me why they gave the principle in such a veiled form then? I am Ra. The scribe is most interested in puzzles and equations.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me why they gave the principle in such a veiled form then?",
+        "start_offset": 0,
+        "end_offset": 71,
+        "start": 1.76,
+        "end": 6.662
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 72,
+        "end_offset": 80,
+        "start": 10.783,
+        "end": 12.923
+      },
+      {
+        "segment": "The scribe is most interested in puzzles and equations.",
+        "start_offset": 81,
+        "end_offset": 136,
+        "start": 14.784,
+        "end": 33.148
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 1.76,
+        "end": 1.82,
+        "score": -7.9912
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 1.84,
+        "end": 1.94,
+        "score": -2.6544
+      },
+      {
+        "word": "tell",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 2.021,
+        "end": 2.161,
+        "score": -1.2517
+      },
+      {
+        "word": "me",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 2.201,
+        "end": 2.281,
+        "score": -5.7652
+      },
+      {
+        "word": "why",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 2.421,
+        "end": 2.621,
+        "score": -0.9583
+      },
+      {
+        "word": "they",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 2.681,
+        "end": 2.841,
+        "score": -0.8019
+      },
+      {
+        "word": "gave",
+        "start_offset": 25,
+        "end_offset": 29,
+        "start": 4.001,
+        "end": 4.281,
+        "score": -1.2153
+      },
+      {
+        "word": "the",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 4.321,
+        "end": 4.401,
+        "score": -1.4949
+      },
+      {
+        "word": "principle",
+        "start_offset": 34,
+        "end_offset": 43,
+        "start": 4.461,
+        "end": 4.941,
+        "score": -0.8519
+      },
+      {
+        "word": "in",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 5.001,
+        "end": 5.061,
+        "score": -0.7998
+      },
+      {
+        "word": "such",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 5.141,
+        "end": 5.361,
+        "score": -0.7134
+      },
+      {
+        "word": "a",
+        "start_offset": 52,
+        "end_offset": 53,
+        "start": 5.461,
+        "end": 5.481,
+        "score": -0.7657
+      },
+      {
+        "word": "veiled",
+        "start_offset": 54,
+        "end_offset": 60,
+        "start": 5.621,
+        "end": 5.981,
+        "score": -1.534
+      },
+      {
+        "word": "form",
+        "start_offset": 61,
+        "end_offset": 65,
+        "start": 6.042,
+        "end": 6.342,
+        "score": -0.8508
+      },
+      {
+        "word": "then?",
+        "start_offset": 66,
+        "end_offset": 71,
+        "start": 6.442,
+        "end": 6.662,
+        "score": -1.4504
+      },
+      {
+        "word": "I",
+        "start_offset": 72,
+        "end_offset": 73,
+        "start": 10.783,
+        "end": 10.803,
+        "score": -0.7972
+      },
+      {
+        "word": "am",
+        "start_offset": 74,
+        "end_offset": 76,
+        "start": 11.623,
+        "end": 11.923,
+        "score": -3.1074
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 77,
+        "end_offset": 80,
+        "start": 12.803,
+        "end": 12.923,
+        "score": -0.9992
+      },
+      {
+        "word": "The",
+        "start_offset": 81,
+        "end_offset": 84,
+        "start": 14.784,
+        "end": 14.924,
+        "score": -0.8378
+      },
+      {
+        "word": "scribe",
+        "start_offset": 85,
+        "end_offset": 91,
+        "start": 16.084,
+        "end": 16.864,
+        "score": -0.7336
+      },
+      {
+        "word": "is",
+        "start_offset": 92,
+        "end_offset": 94,
+        "start": 19.125,
+        "end": 19.425,
+        "score": -0.7042
+      },
+      {
+        "word": "most",
+        "start_offset": 95,
+        "end_offset": 99,
+        "start": 20.125,
+        "end": 20.605,
+        "score": -0.6965
+      },
+      {
+        "word": "interested",
+        "start_offset": 100,
+        "end_offset": 110,
+        "start": 22.426,
+        "end": 23.666,
+        "score": -0.6958
+      },
+      {
+        "word": "in",
+        "start_offset": 111,
+        "end_offset": 113,
+        "start": 25.526,
+        "end": 25.766,
+        "score": -0.7123
+      },
+      {
+        "word": "puzzles",
+        "start_offset": 114,
+        "end_offset": 121,
+        "start": 27.507,
+        "end": 28.327,
+        "score": -2.2994
+      },
+      {
+        "word": "and",
+        "start_offset": 122,
+        "end_offset": 125,
+        "start": 30.148,
+        "end": 30.488,
+        "score": -0.7872
+      },
+      {
+        "word": "equations.",
+        "start_offset": 126,
+        "end_offset": 136,
+        "start": 31.848,
+        "end": 33.148,
+        "score": -1.2755
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "039-08.mp3",
+    "audio_duration": 36.049,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

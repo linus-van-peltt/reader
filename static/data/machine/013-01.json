@@ -1,0 +1,450 @@
+{
+  "text": "First thing I would like to do is probably ask for the student question. So we might prepare this room. I would also suggest the title to the book the law would like to say just an alter the law. Your query is unclear. Would you please stay as teppard queries each area of a green end?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "First thing I would like to do is probably ask for the student question.",
+        "start_offset": 13,
+        "end_offset": 83,
+        "start": 1.04,
+        "end": 6.640000000000001
+      },
+      {
+        "segment": "So we might prepare this room.",
+        "start_offset": 205,
+        "end_offset": 441,
+        "start": 16.4,
+        "end": 35.28
+      },
+      {
+        "segment": "I would also suggest the title to the book the law would like to say just an alter the law.",
+        "start_offset": 1176,
+        "end_offset": 1340,
+        "start": 94.08,
+        "end": 107.2
+      },
+      {
+        "segment": "Your query is unclear.",
+        "start_offset": 1588,
+        "end_offset": 1663,
+        "start": 127.04,
+        "end": 133.04
+      },
+      {
+        "segment": "Would you please stay as teppard queries each area of a green end?",
+        "start_offset": 1678,
+        "end_offset": 1881,
+        "start": 134.24,
+        "end": 150.48
+      }
+    ],
+    "word": [
+      {
+        "word": "First",
+        "start_offset": 13,
+        "end_offset": 17,
+        "start": 1.04,
+        "end": 1.36
+      },
+      {
+        "word": "thing",
+        "start_offset": 17,
+        "end_offset": 20,
+        "start": 1.36,
+        "end": 1.6
+      },
+      {
+        "word": "I",
+        "start_offset": 20,
+        "end_offset": 22,
+        "start": 1.6,
+        "end": 1.76
+      },
+      {
+        "word": "would",
+        "start_offset": 22,
+        "end_offset": 25,
+        "start": 1.76,
+        "end": 2.0
+      },
+      {
+        "word": "like",
+        "start_offset": 25,
+        "end_offset": 27,
+        "start": 2.0,
+        "end": 2.16
+      },
+      {
+        "word": "to",
+        "start_offset": 27,
+        "end_offset": 28,
+        "start": 2.16,
+        "end": 2.24
+      },
+      {
+        "word": "do",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 2.24,
+        "end": 2.48
+      },
+      {
+        "word": "is",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 2.48,
+        "end": 2.64
+      },
+      {
+        "word": "probably",
+        "start_offset": 37,
+        "end_offset": 43,
+        "start": 2.96,
+        "end": 3.44
+      },
+      {
+        "word": "ask",
+        "start_offset": 45,
+        "end_offset": 48,
+        "start": 3.6,
+        "end": 3.84
+      },
+      {
+        "word": "for",
+        "start_offset": 50,
+        "end_offset": 52,
+        "start": 4.0,
+        "end": 4.16
+      },
+      {
+        "word": "the",
+        "start_offset": 68,
+        "end_offset": 69,
+        "start": 5.44,
+        "end": 5.5200000000000005
+      },
+      {
+        "word": "student",
+        "start_offset": 72,
+        "end_offset": 76,
+        "start": 5.76,
+        "end": 6.08
+      },
+      {
+        "word": "question.",
+        "start_offset": 80,
+        "end_offset": 83,
+        "start": 6.4,
+        "end": 6.640000000000001
+      },
+      {
+        "word": "So",
+        "start_offset": 205,
+        "end_offset": 206,
+        "start": 16.4,
+        "end": 16.48
+      },
+      {
+        "word": "we",
+        "start_offset": 414,
+        "end_offset": 416,
+        "start": 33.12,
+        "end": 33.28
+      },
+      {
+        "word": "might",
+        "start_offset": 421,
+        "end_offset": 424,
+        "start": 33.68,
+        "end": 33.92
+      },
+      {
+        "word": "prepare",
+        "start_offset": 426,
+        "end_offset": 430,
+        "start": 34.08,
+        "end": 34.4
+      },
+      {
+        "word": "this",
+        "start_offset": 432,
+        "end_offset": 433,
+        "start": 34.56,
+        "end": 34.64
+      },
+      {
+        "word": "room.",
+        "start_offset": 436,
+        "end_offset": 441,
+        "start": 34.88,
+        "end": 35.28
+      },
+      {
+        "word": "I",
+        "start_offset": 1176,
+        "end_offset": 1180,
+        "start": 94.08,
+        "end": 94.4
+      },
+      {
+        "word": "would",
+        "start_offset": 1180,
+        "end_offset": 1184,
+        "start": 94.4,
+        "end": 94.72
+      },
+      {
+        "word": "also",
+        "start_offset": 1184,
+        "end_offset": 1188,
+        "start": 94.72,
+        "end": 95.04
+      },
+      {
+        "word": "suggest",
+        "start_offset": 1206,
+        "end_offset": 1213,
+        "start": 96.48,
+        "end": 97.04
+      },
+      {
+        "word": "the",
+        "start_offset": 1213,
+        "end_offset": 1215,
+        "start": 97.04,
+        "end": 97.2
+      },
+      {
+        "word": "title",
+        "start_offset": 1215,
+        "end_offset": 1221,
+        "start": 97.2,
+        "end": 97.68
+      },
+      {
+        "word": "to",
+        "start_offset": 1221,
+        "end_offset": 1223,
+        "start": 97.68,
+        "end": 97.84
+      },
+      {
+        "word": "the",
+        "start_offset": 1223,
+        "end_offset": 1225,
+        "start": 97.84,
+        "end": 98.0
+      },
+      {
+        "word": "book",
+        "start_offset": 1225,
+        "end_offset": 1231,
+        "start": 98.0,
+        "end": 98.48
+      },
+      {
+        "word": "the",
+        "start_offset": 1242,
+        "end_offset": 1244,
+        "start": 99.36,
+        "end": 99.52
+      },
+      {
+        "word": "law",
+        "start_offset": 1244,
+        "end_offset": 1250,
+        "start": 99.52,
+        "end": 100.0
+      },
+      {
+        "word": "would",
+        "start_offset": 1276,
+        "end_offset": 1277,
+        "start": 102.08,
+        "end": 102.16
+      },
+      {
+        "word": "like",
+        "start_offset": 1281,
+        "end_offset": 1283,
+        "start": 102.48,
+        "end": 102.64
+      },
+      {
+        "word": "to",
+        "start_offset": 1286,
+        "end_offset": 1290,
+        "start": 102.88,
+        "end": 103.2
+      },
+      {
+        "word": "say",
+        "start_offset": 1313,
+        "end_offset": 1315,
+        "start": 105.04,
+        "end": 105.2
+      },
+      {
+        "word": "just",
+        "start_offset": 1317,
+        "end_offset": 1318,
+        "start": 105.36,
+        "end": 105.44
+      },
+      {
+        "word": "an",
+        "start_offset": 1320,
+        "end_offset": 1321,
+        "start": 105.60000000000001,
+        "end": 105.68
+      },
+      {
+        "word": "alter",
+        "start_offset": 1323,
+        "end_offset": 1327,
+        "start": 105.84,
+        "end": 106.16
+      },
+      {
+        "word": "the",
+        "start_offset": 1330,
+        "end_offset": 1331,
+        "start": 106.4,
+        "end": 106.48
+      },
+      {
+        "word": "law.",
+        "start_offset": 1334,
+        "end_offset": 1340,
+        "start": 106.72,
+        "end": 107.2
+      },
+      {
+        "word": "Your",
+        "start_offset": 1588,
+        "end_offset": 1596,
+        "start": 127.04,
+        "end": 127.68
+      },
+      {
+        "word": "query",
+        "start_offset": 1608,
+        "end_offset": 1616,
+        "start": 128.64000000000001,
+        "end": 129.28
+      },
+      {
+        "word": "is",
+        "start_offset": 1628,
+        "end_offset": 1632,
+        "start": 130.24,
+        "end": 130.56
+      },
+      {
+        "word": "unclear.",
+        "start_offset": 1644,
+        "end_offset": 1663,
+        "start": 131.52,
+        "end": 133.04
+      },
+      {
+        "word": "Would",
+        "start_offset": 1678,
+        "end_offset": 1686,
+        "start": 134.24,
+        "end": 134.88
+      },
+      {
+        "word": "you",
+        "start_offset": 1686,
+        "end_offset": 1690,
+        "start": 134.88,
+        "end": 135.2
+      },
+      {
+        "word": "please",
+        "start_offset": 1697,
+        "end_offset": 1705,
+        "start": 135.76,
+        "end": 136.4
+      },
+      {
+        "word": "stay",
+        "start_offset": 1717,
+        "end_offset": 1725,
+        "start": 137.36,
+        "end": 138.0
+      },
+      {
+        "word": "as",
+        "start_offset": 1737,
+        "end_offset": 1741,
+        "start": 138.96,
+        "end": 139.28
+      },
+      {
+        "word": "teppard",
+        "start_offset": 1750,
+        "end_offset": 1760,
+        "start": 140.0,
+        "end": 140.8
+      },
+      {
+        "word": "queries",
+        "start_offset": 1768,
+        "end_offset": 1776,
+        "start": 141.44,
+        "end": 142.08
+      },
+      {
+        "word": "each",
+        "start_offset": 1788,
+        "end_offset": 1796,
+        "start": 143.04,
+        "end": 143.68
+      },
+      {
+        "word": "area",
+        "start_offset": 1808,
+        "end_offset": 1816,
+        "start": 144.64000000000001,
+        "end": 145.28
+      },
+      {
+        "word": "of",
+        "start_offset": 1831,
+        "end_offset": 1835,
+        "start": 146.48,
+        "end": 146.8
+      },
+      {
+        "word": "a",
+        "start_offset": 1863,
+        "end_offset": 1867,
+        "start": 149.04,
+        "end": 149.36
+      },
+      {
+        "word": "green",
+        "start_offset": 1867,
+        "end_offset": 1875,
+        "start": 149.36,
+        "end": 150.0
+      },
+      {
+        "word": "end?",
+        "start_offset": 1878,
+        "end_offset": 1881,
+        "start": 150.24,
+        "end": 150.48
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "013-01.mp3",
+    "audio_duration": 152.03,
+    "transcription_time": 0.2,
+    "rtfx": 754.22,
+    "timestamp": "2026-01-06T21:47:03.135730+00:00"
+  }
+}

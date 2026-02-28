@@ -1,0 +1,475 @@
+{
+  "text": "I see. Very roughly, if you were to move a third-density entity from some other planet to this planet, roughly what percentage of all of those within the knowledge of Ra would look enough like those entities of Earth so that they would go unnoticed in a crowd? I am Ra. Perhaps five percent.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I see.",
+        "start_offset": 0,
+        "end_offset": 6,
+        "start": 2.521,
+        "end": 5.262
+      },
+      {
+        "segment": "Very roughly, if you were to move a third-density entity from some other planet to this planet, roughly what percentage of all of those within the knowledge of Ra would look enough like those entities of Earth so that they would go unnoticed in a crowd?",
+        "start_offset": 7,
+        "end_offset": 260,
+        "start": 8.243,
+        "end": 37.413
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 261,
+        "end_offset": 269,
+        "start": 37.713,
+        "end": 52.758
+      },
+      {
+        "segment": "Perhaps five percent.",
+        "start_offset": 270,
+        "end_offset": 291,
+        "start": 57.459,
+        "end": 61.241
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 2.521,
+        "end": 2.541,
+        "score": -4.8957
+      },
+      {
+        "word": "see.",
+        "start_offset": 2,
+        "end_offset": 6,
+        "start": 2.661,
+        "end": 5.262,
+        "score": -4.4844
+      },
+      {
+        "word": "Very",
+        "start_offset": 7,
+        "end_offset": 11,
+        "start": 8.243,
+        "end": 8.503,
+        "score": -4.3354
+      },
+      {
+        "word": "roughly,",
+        "start_offset": 12,
+        "end_offset": 20,
+        "start": 8.583,
+        "end": 8.983,
+        "score": -1.1209
+      },
+      {
+        "word": "if",
+        "start_offset": 21,
+        "end_offset": 23,
+        "start": 9.223,
+        "end": 9.323,
+        "score": -0.7386
+      },
+      {
+        "word": "you",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 9.383,
+        "end": 9.483,
+        "score": -1.0493
+      },
+      {
+        "word": "were",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 9.543,
+        "end": 9.703,
+        "score": -0.862
+      },
+      {
+        "word": "to",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 9.783,
+        "end": 9.883,
+        "score": -0.9438
+      },
+      {
+        "word": "move",
+        "start_offset": 36,
+        "end_offset": 40,
+        "start": 13.725,
+        "end": 14.065,
+        "score": -0.7953
+      },
+      {
+        "word": "a",
+        "start_offset": 41,
+        "end_offset": 42,
+        "start": 14.125,
+        "end": 14.145,
+        "score": -0.7455
+      },
+      {
+        "word": "third-density",
+        "start_offset": 43,
+        "end_offset": 56,
+        "start": 14.265,
+        "end": 15.065,
+        "score": -0.932
+      },
+      {
+        "word": "entity",
+        "start_offset": 57,
+        "end_offset": 63,
+        "start": 15.705,
+        "end": 16.145,
+        "score": -1.3344
+      },
+      {
+        "word": "from",
+        "start_offset": 64,
+        "end_offset": 68,
+        "start": 16.225,
+        "end": 16.486,
+        "score": -0.7152
+      },
+      {
+        "word": "some",
+        "start_offset": 69,
+        "end_offset": 73,
+        "start": 16.966,
+        "end": 17.146,
+        "score": -0.7201
+      },
+      {
+        "word": "other",
+        "start_offset": 74,
+        "end_offset": 79,
+        "start": 17.206,
+        "end": 17.386,
+        "score": -0.7794
+      },
+      {
+        "word": "planet",
+        "start_offset": 80,
+        "end_offset": 86,
+        "start": 17.426,
+        "end": 17.826,
+        "score": -0.7291
+      },
+      {
+        "word": "to",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 19.026,
+        "end": 19.086,
+        "score": -0.7388
+      },
+      {
+        "word": "this",
+        "start_offset": 90,
+        "end_offset": 94,
+        "start": 19.146,
+        "end": 19.306,
+        "score": -0.7155
+      },
+      {
+        "word": "planet,",
+        "start_offset": 95,
+        "end_offset": 102,
+        "start": 19.347,
+        "end": 19.727,
+        "score": -0.7084
+      },
+      {
+        "word": "roughly",
+        "start_offset": 103,
+        "end_offset": 110,
+        "start": 21.567,
+        "end": 21.947,
+        "score": -1.4842
+      },
+      {
+        "word": "what",
+        "start_offset": 111,
+        "end_offset": 115,
+        "start": 22.067,
+        "end": 22.227,
+        "score": -3.1648
+      },
+      {
+        "word": "percentage",
+        "start_offset": 116,
+        "end_offset": 126,
+        "start": 22.348,
+        "end": 23.128,
+        "score": -0.7297
+      },
+      {
+        "word": "of",
+        "start_offset": 127,
+        "end_offset": 129,
+        "start": 25.289,
+        "end": 25.489,
+        "score": -0.834
+      },
+      {
+        "word": "all",
+        "start_offset": 130,
+        "end_offset": 133,
+        "start": 25.709,
+        "end": 25.869,
+        "score": -0.8571
+      },
+      {
+        "word": "of",
+        "start_offset": 134,
+        "end_offset": 136,
+        "start": 25.889,
+        "end": 25.929,
+        "score": -4.8605
+      },
+      {
+        "word": "those",
+        "start_offset": 137,
+        "end_offset": 142,
+        "start": 25.969,
+        "end": 26.309,
+        "score": -0.7408
+      },
+      {
+        "word": "within",
+        "start_offset": 143,
+        "end_offset": 149,
+        "start": 26.349,
+        "end": 26.669,
+        "score": -0.7106
+      },
+      {
+        "word": "the",
+        "start_offset": 150,
+        "end_offset": 153,
+        "start": 26.709,
+        "end": 26.789,
+        "score": -1.735
+      },
+      {
+        "word": "knowledge",
+        "start_offset": 154,
+        "end_offset": 163,
+        "start": 26.829,
+        "end": 27.249,
+        "score": -0.9184
+      },
+      {
+        "word": "of",
+        "start_offset": 164,
+        "end_offset": 166,
+        "start": 27.269,
+        "end": 27.349,
+        "score": -1.62
+      },
+      {
+        "word": "Ra",
+        "start_offset": 167,
+        "end_offset": 169,
+        "start": 27.409,
+        "end": 27.529,
+        "score": -0.7777
+      },
+      {
+        "word": "would",
+        "start_offset": 170,
+        "end_offset": 175,
+        "start": 28.73,
+        "end": 28.91,
+        "score": -0.7784
+      },
+      {
+        "word": "look",
+        "start_offset": 176,
+        "end_offset": 180,
+        "start": 28.95,
+        "end": 29.13,
+        "score": -0.7059
+      },
+      {
+        "word": "enough",
+        "start_offset": 181,
+        "end_offset": 187,
+        "start": 30.77,
+        "end": 31.09,
+        "score": -1.32
+      },
+      {
+        "word": "like",
+        "start_offset": 188,
+        "end_offset": 192,
+        "start": 31.19,
+        "end": 31.511,
+        "score": -0.706
+      },
+      {
+        "word": "those",
+        "start_offset": 193,
+        "end_offset": 198,
+        "start": 33.291,
+        "end": 33.531,
+        "score": -0.7569
+      },
+      {
+        "word": "entities",
+        "start_offset": 199,
+        "end_offset": 207,
+        "start": 33.591,
+        "end": 33.951,
+        "score": -0.7475
+      },
+      {
+        "word": "of",
+        "start_offset": 208,
+        "end_offset": 210,
+        "start": 33.991,
+        "end": 34.051,
+        "score": -0.7064
+      },
+      {
+        "word": "Earth",
+        "start_offset": 211,
+        "end_offset": 216,
+        "start": 34.212,
+        "end": 34.432,
+        "score": -0.7736
+      },
+      {
+        "word": "so",
+        "start_offset": 217,
+        "end_offset": 219,
+        "start": 34.532,
+        "end": 34.632,
+        "score": -0.7002
+      },
+      {
+        "word": "that",
+        "start_offset": 220,
+        "end_offset": 224,
+        "start": 34.732,
+        "end": 34.872,
+        "score": -0.7237
+      },
+      {
+        "word": "they",
+        "start_offset": 225,
+        "end_offset": 229,
+        "start": 34.932,
+        "end": 35.072,
+        "score": -0.7147
+      },
+      {
+        "word": "would",
+        "start_offset": 230,
+        "end_offset": 235,
+        "start": 35.112,
+        "end": 35.292,
+        "score": -0.7083
+      },
+      {
+        "word": "go",
+        "start_offset": 236,
+        "end_offset": 238,
+        "start": 35.412,
+        "end": 35.512,
+        "score": -0.7015
+      },
+      {
+        "word": "unnoticed",
+        "start_offset": 239,
+        "end_offset": 248,
+        "start": 35.752,
+        "end": 36.412,
+        "score": -1.2558
+      },
+      {
+        "word": "in",
+        "start_offset": 249,
+        "end_offset": 251,
+        "start": 36.652,
+        "end": 36.712,
+        "score": -0.7156
+      },
+      {
+        "word": "a",
+        "start_offset": 252,
+        "end_offset": 253,
+        "start": 36.772,
+        "end": 36.792,
+        "score": -0.7038
+      },
+      {
+        "word": "crowd?",
+        "start_offset": 254,
+        "end_offset": 260,
+        "start": 36.892,
+        "end": 37.413,
+        "score": -0.7882
+      },
+      {
+        "word": "I",
+        "start_offset": 261,
+        "end_offset": 262,
+        "start": 37.713,
+        "end": 37.733,
+        "score": -9.4464
+      },
+      {
+        "word": "am",
+        "start_offset": 263,
+        "end_offset": 265,
+        "start": 50.397,
+        "end": 50.457,
+        "score": -7.8738
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 266,
+        "end_offset": 269,
+        "start": 52.598,
+        "end": 52.758,
+        "score": -5.5878
+      },
+      {
+        "word": "Perhaps",
+        "start_offset": 270,
+        "end_offset": 277,
+        "start": 57.459,
+        "end": 58.36,
+        "score": -7.2683
+      },
+      {
+        "word": "five",
+        "start_offset": 278,
+        "end_offset": 282,
+        "start": 59.2,
+        "end": 59.8,
+        "score": -9.7507
+      },
+      {
+        "word": "percent.",
+        "start_offset": 283,
+        "end_offset": 291,
+        "start": 60.4,
+        "end": 61.241,
+        "score": -5.9868
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "090-08.mp3",
+    "audio_duration": 62.0409,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

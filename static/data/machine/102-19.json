@@ -1,0 +1,436 @@
+{
+  "text": "You mentioned the possibility of surgery. What would be the surgery to be done specifically? The body cannot long bear the extreme hidity, which is the environment of such spasms and will develop the holes or ulcerations which then do appear upon the allopathic testings and suggest to the Shire version that which is to be excised.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "You mentioned the possibility of surgery.",
+        "start_offset": 12,
+        "end_offset": 52,
+        "start": 0.96,
+        "end": 4.16
+      },
+      {
+        "segment": "What would be the surgery to be done specifically?",
+        "start_offset": 65,
+        "end_offset": 140,
+        "start": 5.2,
+        "end": 11.200000000000001
+      },
+      {
+        "segment": "The body cannot long bear the extreme hidity, which is the environment of such spasms and will develop the holes or ulcerations which then do appear upon the allopathic testings and suggest to the Shire version that which is to be excised.",
+        "start_offset": 302,
+        "end_offset": 1399,
+        "start": 24.16,
+        "end": 111.92
+      }
+    ],
+    "word": [
+      {
+        "word": "You",
+        "start_offset": 12,
+        "end_offset": 16,
+        "start": 0.96,
+        "end": 1.28
+      },
+      {
+        "word": "mentioned",
+        "start_offset": 16,
+        "end_offset": 24,
+        "start": 1.28,
+        "end": 1.92
+      },
+      {
+        "word": "the",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 1.92,
+        "end": 2.24
+      },
+      {
+        "word": "possibility",
+        "start_offset": 28,
+        "end_offset": 36,
+        "start": 2.24,
+        "end": 2.88
+      },
+      {
+        "word": "of",
+        "start_offset": 36,
+        "end_offset": 40,
+        "start": 2.88,
+        "end": 3.2
+      },
+      {
+        "word": "surgery.",
+        "start_offset": 40,
+        "end_offset": 52,
+        "start": 3.2,
+        "end": 4.16
+      },
+      {
+        "word": "What",
+        "start_offset": 65,
+        "end_offset": 70,
+        "start": 5.2,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "would",
+        "start_offset": 70,
+        "end_offset": 74,
+        "start": 5.6000000000000005,
+        "end": 5.92
+      },
+      {
+        "word": "be",
+        "start_offset": 74,
+        "end_offset": 78,
+        "start": 5.92,
+        "end": 6.24
+      },
+      {
+        "word": "the",
+        "start_offset": 90,
+        "end_offset": 94,
+        "start": 7.2,
+        "end": 7.5200000000000005
+      },
+      {
+        "word": "surgery",
+        "start_offset": 102,
+        "end_offset": 113,
+        "start": 8.16,
+        "end": 9.040000000000001
+      },
+      {
+        "word": "to",
+        "start_offset": 113,
+        "end_offset": 117,
+        "start": 9.040000000000001,
+        "end": 9.36
+      },
+      {
+        "word": "be",
+        "start_offset": 117,
+        "end_offset": 120,
+        "start": 9.36,
+        "end": 9.6
+      },
+      {
+        "word": "done",
+        "start_offset": 120,
+        "end_offset": 124,
+        "start": 9.6,
+        "end": 9.92
+      },
+      {
+        "word": "specifically?",
+        "start_offset": 128,
+        "end_offset": 140,
+        "start": 10.24,
+        "end": 11.200000000000001
+      },
+      {
+        "word": "The",
+        "start_offset": 302,
+        "end_offset": 306,
+        "start": 24.16,
+        "end": 24.48
+      },
+      {
+        "word": "body",
+        "start_offset": 329,
+        "end_offset": 337,
+        "start": 26.32,
+        "end": 26.96
+      },
+      {
+        "word": "cannot",
+        "start_offset": 353,
+        "end_offset": 365,
+        "start": 28.240000000000002,
+        "end": 29.2
+      },
+      {
+        "word": "long",
+        "start_offset": 381,
+        "end_offset": 385,
+        "start": 30.48,
+        "end": 30.8
+      },
+      {
+        "word": "bear",
+        "start_offset": 405,
+        "end_offset": 413,
+        "start": 32.4,
+        "end": 33.04
+      },
+      {
+        "word": "the",
+        "start_offset": 437,
+        "end_offset": 441,
+        "start": 34.96,
+        "end": 35.28
+      },
+      {
+        "word": "extreme",
+        "start_offset": 481,
+        "end_offset": 493,
+        "start": 38.480000000000004,
+        "end": 39.44
+      },
+      {
+        "word": "hidity,",
+        "start_offset": 501,
+        "end_offset": 519,
+        "start": 40.08,
+        "end": 41.52
+      },
+      {
+        "word": "which",
+        "start_offset": 541,
+        "end_offset": 545,
+        "start": 43.28,
+        "end": 43.6
+      },
+      {
+        "word": "is",
+        "start_offset": 557,
+        "end_offset": 561,
+        "start": 44.56,
+        "end": 44.88
+      },
+      {
+        "word": "the",
+        "start_offset": 569,
+        "end_offset": 573,
+        "start": 45.52,
+        "end": 45.84
+      },
+      {
+        "word": "environment",
+        "start_offset": 589,
+        "end_offset": 610,
+        "start": 47.12,
+        "end": 48.800000000000004
+      },
+      {
+        "word": "of",
+        "start_offset": 630,
+        "end_offset": 634,
+        "start": 50.4,
+        "end": 50.72
+      },
+      {
+        "word": "such",
+        "start_offset": 642,
+        "end_offset": 654,
+        "start": 51.36,
+        "end": 52.32
+      },
+      {
+        "word": "spasms",
+        "start_offset": 662,
+        "end_offset": 674,
+        "start": 52.96,
+        "end": 53.92
+      },
+      {
+        "word": "and",
+        "start_offset": 695,
+        "end_offset": 699,
+        "start": 55.6,
+        "end": 55.92
+      },
+      {
+        "word": "will",
+        "start_offset": 715,
+        "end_offset": 719,
+        "start": 57.2,
+        "end": 57.52
+      },
+      {
+        "word": "develop",
+        "start_offset": 731,
+        "end_offset": 750,
+        "start": 58.480000000000004,
+        "end": 60.0
+      },
+      {
+        "word": "the",
+        "start_offset": 778,
+        "end_offset": 782,
+        "start": 62.24,
+        "end": 62.56
+      },
+      {
+        "word": "holes",
+        "start_offset": 794,
+        "end_offset": 802,
+        "start": 63.52,
+        "end": 64.16
+      },
+      {
+        "word": "or",
+        "start_offset": 814,
+        "end_offset": 818,
+        "start": 65.12,
+        "end": 65.44
+      },
+      {
+        "word": "ulcerations",
+        "start_offset": 834,
+        "end_offset": 853,
+        "start": 66.72,
+        "end": 68.24
+      },
+      {
+        "word": "which",
+        "start_offset": 876,
+        "end_offset": 880,
+        "start": 70.08,
+        "end": 70.4
+      },
+      {
+        "word": "then",
+        "start_offset": 888,
+        "end_offset": 892,
+        "start": 71.04,
+        "end": 71.36
+      },
+      {
+        "word": "do",
+        "start_offset": 908,
+        "end_offset": 912,
+        "start": 72.64,
+        "end": 72.96000000000001
+      },
+      {
+        "word": "appear",
+        "start_offset": 928,
+        "end_offset": 940,
+        "start": 74.24,
+        "end": 75.2
+      },
+      {
+        "word": "upon",
+        "start_offset": 956,
+        "end_offset": 964,
+        "start": 76.48,
+        "end": 77.12
+      },
+      {
+        "word": "the",
+        "start_offset": 984,
+        "end_offset": 988,
+        "start": 78.72,
+        "end": 79.04
+      },
+      {
+        "word": "allopathic",
+        "start_offset": 1020,
+        "end_offset": 1046,
+        "start": 81.60000000000001,
+        "end": 83.68
+      },
+      {
+        "word": "testings",
+        "start_offset": 1066,
+        "end_offset": 1078,
+        "start": 85.28,
+        "end": 86.24
+      },
+      {
+        "word": "and",
+        "start_offset": 1104,
+        "end_offset": 1108,
+        "start": 88.32000000000001,
+        "end": 88.64
+      },
+      {
+        "word": "suggest",
+        "start_offset": 1140,
+        "end_offset": 1155,
+        "start": 91.2,
+        "end": 92.4
+      },
+      {
+        "word": "to",
+        "start_offset": 1167,
+        "end_offset": 1171,
+        "start": 93.36,
+        "end": 93.68
+      },
+      {
+        "word": "the",
+        "start_offset": 1190,
+        "end_offset": 1194,
+        "start": 95.2,
+        "end": 95.52
+      },
+      {
+        "word": "Shire",
+        "start_offset": 1246,
+        "end_offset": 1254,
+        "start": 99.68,
+        "end": 100.32000000000001
+      },
+      {
+        "word": "version",
+        "start_offset": 1257,
+        "end_offset": 1264,
+        "start": 100.56,
+        "end": 101.12
+      },
+      {
+        "word": "that",
+        "start_offset": 1294,
+        "end_offset": 1298,
+        "start": 103.52,
+        "end": 103.84
+      },
+      {
+        "word": "which",
+        "start_offset": 1312,
+        "end_offset": 1316,
+        "start": 104.96000000000001,
+        "end": 105.28
+      },
+      {
+        "word": "is",
+        "start_offset": 1328,
+        "end_offset": 1332,
+        "start": 106.24000000000001,
+        "end": 106.56
+      },
+      {
+        "word": "to",
+        "start_offset": 1340,
+        "end_offset": 1344,
+        "start": 107.2,
+        "end": 107.52
+      },
+      {
+        "word": "be",
+        "start_offset": 1356,
+        "end_offset": 1360,
+        "start": 108.48,
+        "end": 108.8
+      },
+      {
+        "word": "excised.",
+        "start_offset": 1380,
+        "end_offset": 1399,
+        "start": 110.4,
+        "end": 111.92
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "102-19.mp3",
+    "audio_duration": 114.05,
+    "transcription_time": 0.17,
+    "rtfx": 654.58,
+    "timestamp": "2026-01-06T22:00:36.594419+00:00"
+  }
+}

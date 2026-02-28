@@ -1,0 +1,220 @@
+{
+  "text": "Can you tell me a little more about this honor/responsibility concept? I am Ra. Each responsibility is an honor; each honor, a responsibility.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me a little more about this honor/responsibility concept?",
+        "start_offset": 0,
+        "end_offset": 70,
+        "start": 6.361,
+        "end": 19.163
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 71,
+        "end_offset": 79,
+        "start": 19.183,
+        "end": 19.363
+      },
+      {
+        "segment": "Each responsibility is an honor; each honor, a responsibility.",
+        "start_offset": 80,
+        "end_offset": 142,
+        "start": 21.643,
+        "end": 32.605
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 6.361,
+        "end": 9.701,
+        "score": -5.1379
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 9.721,
+        "end": 9.781,
+        "score": -6.5568
+      },
+      {
+        "word": "tell",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 9.901,
+        "end": 10.061,
+        "score": -5.7735
+      },
+      {
+        "word": "me",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 10.101,
+        "end": 10.141,
+        "score": -5.7933
+      },
+      {
+        "word": "a",
+        "start_offset": 16,
+        "end_offset": 17,
+        "start": 10.161,
+        "end": 10.181,
+        "score": -6.454
+      },
+      {
+        "word": "little",
+        "start_offset": 18,
+        "end_offset": 24,
+        "start": 10.221,
+        "end": 10.401,
+        "score": -6.1405
+      },
+      {
+        "word": "more",
+        "start_offset": 25,
+        "end_offset": 29,
+        "start": 10.421,
+        "end": 10.502,
+        "score": -5.9766
+      },
+      {
+        "word": "about",
+        "start_offset": 30,
+        "end_offset": 35,
+        "start": 10.542,
+        "end": 10.642,
+        "score": -6.9187
+      },
+      {
+        "word": "this",
+        "start_offset": 36,
+        "end_offset": 40,
+        "start": 10.662,
+        "end": 11.142,
+        "score": -5.1588
+      },
+      {
+        "word": "honor/responsibility",
+        "start_offset": 41,
+        "end_offset": 61,
+        "start": 16.522,
+        "end": 18.863,
+        "score": -5.7377
+      },
+      {
+        "word": "concept?",
+        "start_offset": 62,
+        "end_offset": 70,
+        "start": 18.883,
+        "end": 19.163,
+        "score": -6.9534
+      },
+      {
+        "word": "I",
+        "start_offset": 71,
+        "end_offset": 72,
+        "start": 19.183,
+        "end": 19.203,
+        "score": -6.7577
+      },
+      {
+        "word": "am",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 19.223,
+        "end": 19.263,
+        "score": -5.107
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 76,
+        "end_offset": 79,
+        "start": 19.303,
+        "end": 19.363,
+        "score": -6.4227
+      },
+      {
+        "word": "Each",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 21.643,
+        "end": 21.923,
+        "score": -1.2893
+      },
+      {
+        "word": "responsibility",
+        "start_offset": 85,
+        "end_offset": 99,
+        "start": 22.683,
+        "end": 24.363,
+        "score": -0.762
+      },
+      {
+        "word": "is",
+        "start_offset": 100,
+        "end_offset": 102,
+        "start": 25.344,
+        "end": 25.604,
+        "score": -1.0326
+      },
+      {
+        "word": "an",
+        "start_offset": 103,
+        "end_offset": 105,
+        "start": 26.024,
+        "end": 26.224,
+        "score": -1.8799
+      },
+      {
+        "word": "honor;",
+        "start_offset": 106,
+        "end_offset": 112,
+        "start": 26.624,
+        "end": 28.324,
+        "score": -4.3605
+      },
+      {
+        "word": "each",
+        "start_offset": 113,
+        "end_offset": 117,
+        "start": 28.384,
+        "end": 28.644,
+        "score": -1.3753
+      },
+      {
+        "word": "honor,",
+        "start_offset": 118,
+        "end_offset": 124,
+        "start": 28.664,
+        "end": 29.764,
+        "score": -2.1032
+      },
+      {
+        "word": "a",
+        "start_offset": 125,
+        "end_offset": 126,
+        "start": 30.584,
+        "end": 30.604,
+        "score": -1.6568
+      },
+      {
+        "word": "responsibility.",
+        "start_offset": 127,
+        "end_offset": 142,
+        "start": 31.124,
+        "end": 32.605,
+        "score": -1.243
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-42.mp3",
+    "audio_duration": 40.0457,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "text": "I can't see it all. I can run. Yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I can't see it all.",
+        "start_offset": 33,
+        "end_offset": 47,
+        "start": 2.64,
+        "end": 3.7600000000000002
+      },
+      {
+        "segment": "I can run.",
+        "start_offset": 87,
+        "end_offset": 137,
+        "start": 6.96,
+        "end": 10.96
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 158,
+        "end_offset": 166,
+        "start": 12.64,
+        "end": 13.280000000000001
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 2.64,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "can't",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 2.8000000000000003,
+        "end": 3.12
+      },
+      {
+        "word": "see",
+        "start_offset": 39,
+        "end_offset": 41,
+        "start": 3.12,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "it",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 3.2800000000000002,
+        "end": 3.52
+      },
+      {
+        "word": "all.",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 3.52,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "I",
+        "start_offset": 87,
+        "end_offset": 91,
+        "start": 6.96,
+        "end": 7.28
+      },
+      {
+        "word": "can",
+        "start_offset": 111,
+        "end_offset": 115,
+        "start": 8.88,
+        "end": 9.200000000000001
+      },
+      {
+        "word": "run.",
+        "start_offset": 135,
+        "end_offset": 137,
+        "start": 10.8,
+        "end": 10.96
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 158,
+        "end_offset": 166,
+        "start": 12.64,
+        "end": 13.280000000000001
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "104-08.mp3",
+    "audio_duration": 15.05,
+    "transcription_time": 0.08,
+    "rtfx": 181.18,
+    "timestamp": "2026-01-06T22:00:50.727087+00:00"
+  }
+}

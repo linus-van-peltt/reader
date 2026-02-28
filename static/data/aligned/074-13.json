@@ -1,0 +1,937 @@
+{
+  "text": "There are many of these. The ones most obvious in our society are those used in the church rather than those used by the magical adept. What is the difference in the effect of those used, say, in the church, in our various churches, and those specifically magical incantations used by the adept? I am Ra. If all in your churches were adepts consciously full of will, of seeking, of concentration, of conscious knowledge of the calling, there would be no difference. The efficacy of the calling is a function of the magical qualities of those who call; that is, their desire to seek the altered state of consciousness desired.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "There are many of these.",
+        "start_offset": 0,
+        "end_offset": 24,
+        "start": 3.0,
+        "end": 6.42
+      },
+      {
+        "segment": "The ones most obvious in our society are those used in the church rather than those used by the magical adept.",
+        "start_offset": 25,
+        "end_offset": 135,
+        "start": 12.08,
+        "end": 28.121
+      },
+      {
+        "segment": "What is the difference in the effect of those used, say, in the church, in our various churches, and those specifically magical incantations used by the adept?",
+        "start_offset": 136,
+        "end_offset": 295,
+        "start": 30.521,
+        "end": 55.762
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 296,
+        "end_offset": 304,
+        "start": 61.282,
+        "end": 63.622
+      },
+      {
+        "segment": "If all in your churches were adepts consciously full of will, of seeking, of concentration, of conscious knowledge of the calling, there would be no difference.",
+        "start_offset": 305,
+        "end_offset": 465,
+        "start": 67.463,
+        "end": 110.564
+      },
+      {
+        "segment": "The efficacy of the calling is a function of the magical qualities of those who call; that is, their desire to seek the altered state of consciousness desired.",
+        "start_offset": 466,
+        "end_offset": 625,
+        "start": 113.324,
+        "end": 170.366
+      }
+    ],
+    "word": [
+      {
+        "word": "There",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 3.0,
+        "end": 3.22,
+        "score": -1.2997
+      },
+      {
+        "word": "are",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 3.32,
+        "end": 3.5,
+        "score": -1.6227
+      },
+      {
+        "word": "many",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 5.44,
+        "end": 5.68,
+        "score": -1.0059
+      },
+      {
+        "word": "of",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 5.8,
+        "end": 5.9,
+        "score": -1.333
+      },
+      {
+        "word": "these.",
+        "start_offset": 18,
+        "end_offset": 24,
+        "start": 5.96,
+        "end": 6.42,
+        "score": -1.7239
+      },
+      {
+        "word": "The",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 12.08,
+        "end": 12.2,
+        "score": -1.7196
+      },
+      {
+        "word": "ones",
+        "start_offset": 29,
+        "end_offset": 33,
+        "start": 12.44,
+        "end": 12.66,
+        "score": -1.2426
+      },
+      {
+        "word": "most",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 12.76,
+        "end": 13.1,
+        "score": -1.4571
+      },
+      {
+        "word": "obvious",
+        "start_offset": 39,
+        "end_offset": 46,
+        "start": 14.141,
+        "end": 14.541,
+        "score": -1.9
+      },
+      {
+        "word": "in",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 14.601,
+        "end": 14.661,
+        "score": -1.6858
+      },
+      {
+        "word": "our",
+        "start_offset": 50,
+        "end_offset": 53,
+        "start": 14.741,
+        "end": 14.881,
+        "score": -2.6624
+      },
+      {
+        "word": "society",
+        "start_offset": 54,
+        "end_offset": 61,
+        "start": 14.981,
+        "end": 15.621,
+        "score": -0.9458
+      },
+      {
+        "word": "are",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 15.701,
+        "end": 15.801,
+        "score": -2.2786
+      },
+      {
+        "word": "those",
+        "start_offset": 66,
+        "end_offset": 71,
+        "start": 15.821,
+        "end": 16.121,
+        "score": -1.3895
+      },
+      {
+        "word": "used",
+        "start_offset": 72,
+        "end_offset": 76,
+        "start": 16.241,
+        "end": 16.481,
+        "score": -1.7239
+      },
+      {
+        "word": "in",
+        "start_offset": 77,
+        "end_offset": 79,
+        "start": 18.341,
+        "end": 18.541,
+        "score": -1.6998
+      },
+      {
+        "word": "the",
+        "start_offset": 80,
+        "end_offset": 83,
+        "start": 19.221,
+        "end": 19.321,
+        "score": -1.0474
+      },
+      {
+        "word": "church",
+        "start_offset": 84,
+        "end_offset": 90,
+        "start": 19.441,
+        "end": 19.861,
+        "score": -0.9297
+      },
+      {
+        "word": "rather",
+        "start_offset": 91,
+        "end_offset": 97,
+        "start": 23.921,
+        "end": 24.281,
+        "score": -1.4269
+      },
+      {
+        "word": "than",
+        "start_offset": 98,
+        "end_offset": 102,
+        "start": 24.361,
+        "end": 24.561,
+        "score": -0.8885
+      },
+      {
+        "word": "those",
+        "start_offset": 103,
+        "end_offset": 108,
+        "start": 24.641,
+        "end": 24.961,
+        "score": -0.9717
+      },
+      {
+        "word": "used",
+        "start_offset": 109,
+        "end_offset": 113,
+        "start": 25.101,
+        "end": 25.301,
+        "score": -0.8496
+      },
+      {
+        "word": "by",
+        "start_offset": 114,
+        "end_offset": 116,
+        "start": 25.401,
+        "end": 25.641,
+        "score": -1.1497
+      },
+      {
+        "word": "the",
+        "start_offset": 117,
+        "end_offset": 120,
+        "start": 26.981,
+        "end": 27.081,
+        "score": -6.6579
+      },
+      {
+        "word": "magical",
+        "start_offset": 121,
+        "end_offset": 128,
+        "start": 27.121,
+        "end": 27.621,
+        "score": -0.8666
+      },
+      {
+        "word": "adept.",
+        "start_offset": 129,
+        "end_offset": 135,
+        "start": 27.701,
+        "end": 28.121,
+        "score": -1.2738
+      },
+      {
+        "word": "What",
+        "start_offset": 136,
+        "end_offset": 140,
+        "start": 30.521,
+        "end": 30.701,
+        "score": -1.3562
+      },
+      {
+        "word": "is",
+        "start_offset": 141,
+        "end_offset": 143,
+        "start": 30.861,
+        "end": 31.021,
+        "score": -1.4318
+      },
+      {
+        "word": "the",
+        "start_offset": 144,
+        "end_offset": 147,
+        "start": 31.121,
+        "end": 31.241,
+        "score": -2.4801
+      },
+      {
+        "word": "difference",
+        "start_offset": 148,
+        "end_offset": 158,
+        "start": 33.701,
+        "end": 34.321,
+        "score": -1.7988
+      },
+      {
+        "word": "in",
+        "start_offset": 159,
+        "end_offset": 161,
+        "start": 36.681,
+        "end": 36.861,
+        "score": -1.8272
+      },
+      {
+        "word": "the",
+        "start_offset": 162,
+        "end_offset": 165,
+        "start": 37.321,
+        "end": 37.421,
+        "score": -1.0584
+      },
+      {
+        "word": "effect",
+        "start_offset": 166,
+        "end_offset": 172,
+        "start": 37.501,
+        "end": 37.981,
+        "score": -0.893
+      },
+      {
+        "word": "of",
+        "start_offset": 173,
+        "end_offset": 175,
+        "start": 38.081,
+        "end": 38.141,
+        "score": -1.1788
+      },
+      {
+        "word": "those",
+        "start_offset": 176,
+        "end_offset": 181,
+        "start": 38.201,
+        "end": 38.641,
+        "score": -1.7239
+      },
+      {
+        "word": "used,",
+        "start_offset": 182,
+        "end_offset": 187,
+        "start": 39.081,
+        "end": 39.321,
+        "score": -1.3211
+      },
+      {
+        "word": "say,",
+        "start_offset": 188,
+        "end_offset": 192,
+        "start": 39.441,
+        "end": 39.681,
+        "score": -1.6717
+      },
+      {
+        "word": "in",
+        "start_offset": 193,
+        "end_offset": 195,
+        "start": 41.542,
+        "end": 41.622,
+        "score": -1.2478
+      },
+      {
+        "word": "the",
+        "start_offset": 196,
+        "end_offset": 199,
+        "start": 41.682,
+        "end": 41.762,
+        "score": -1.6041
+      },
+      {
+        "word": "church,",
+        "start_offset": 200,
+        "end_offset": 207,
+        "start": 41.862,
+        "end": 42.322,
+        "score": -1.2568
+      },
+      {
+        "word": "in",
+        "start_offset": 208,
+        "end_offset": 210,
+        "start": 43.802,
+        "end": 44.902,
+        "score": -7.5327
+      },
+      {
+        "word": "our",
+        "start_offset": 211,
+        "end_offset": 214,
+        "start": 44.962,
+        "end": 45.122,
+        "score": -1.6507
+      },
+      {
+        "word": "various",
+        "start_offset": 215,
+        "end_offset": 222,
+        "start": 45.202,
+        "end": 45.602,
+        "score": -0.8396
+      },
+      {
+        "word": "churches,",
+        "start_offset": 223,
+        "end_offset": 232,
+        "start": 45.662,
+        "end": 46.182,
+        "score": -0.9006
+      },
+      {
+        "word": "and",
+        "start_offset": 233,
+        "end_offset": 236,
+        "start": 47.142,
+        "end": 47.322,
+        "score": -1.3353
+      },
+      {
+        "word": "those",
+        "start_offset": 237,
+        "end_offset": 242,
+        "start": 47.382,
+        "end": 47.822,
+        "score": -2.2137
+      },
+      {
+        "word": "specifically",
+        "start_offset": 243,
+        "end_offset": 255,
+        "start": 50.302,
+        "end": 51.242,
+        "score": -1.252
+      },
+      {
+        "word": "magical",
+        "start_offset": 256,
+        "end_offset": 263,
+        "start": 52.262,
+        "end": 52.702,
+        "score": -1.5843
+      },
+      {
+        "word": "incantations",
+        "start_offset": 264,
+        "end_offset": 276,
+        "start": 52.802,
+        "end": 53.842,
+        "score": -2.2331
+      },
+      {
+        "word": "used",
+        "start_offset": 277,
+        "end_offset": 281,
+        "start": 54.842,
+        "end": 55.042,
+        "score": -1.258
+      },
+      {
+        "word": "by",
+        "start_offset": 282,
+        "end_offset": 284,
+        "start": 55.102,
+        "end": 55.242,
+        "score": -1.8291
+      },
+      {
+        "word": "the",
+        "start_offset": 285,
+        "end_offset": 288,
+        "start": 55.282,
+        "end": 55.342,
+        "score": -1.4939
+      },
+      {
+        "word": "adept?",
+        "start_offset": 289,
+        "end_offset": 295,
+        "start": 55.482,
+        "end": 55.762,
+        "score": -3.4513
+      },
+      {
+        "word": "I",
+        "start_offset": 296,
+        "end_offset": 297,
+        "start": 61.282,
+        "end": 61.302,
+        "score": -1.7225
+      },
+      {
+        "word": "am",
+        "start_offset": 298,
+        "end_offset": 300,
+        "start": 62.222,
+        "end": 62.542,
+        "score": -4.4761
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 301,
+        "end_offset": 304,
+        "start": 63.482,
+        "end": 63.622,
+        "score": -2.296
+      },
+      {
+        "word": "If",
+        "start_offset": 305,
+        "end_offset": 307,
+        "start": 67.463,
+        "end": 67.703,
+        "score": -0.7102
+      },
+      {
+        "word": "all",
+        "start_offset": 308,
+        "end_offset": 311,
+        "start": 68.523,
+        "end": 69.083,
+        "score": -1.1061
+      },
+      {
+        "word": "in",
+        "start_offset": 312,
+        "end_offset": 314,
+        "start": 69.823,
+        "end": 70.123,
+        "score": -0.7195
+      },
+      {
+        "word": "your",
+        "start_offset": 315,
+        "end_offset": 319,
+        "start": 70.543,
+        "end": 71.063,
+        "score": -1.3482
+      },
+      {
+        "word": "churches",
+        "start_offset": 320,
+        "end_offset": 328,
+        "start": 71.923,
+        "end": 72.903,
+        "score": -2.6304
+      },
+      {
+        "word": "were",
+        "start_offset": 329,
+        "end_offset": 333,
+        "start": 74.423,
+        "end": 74.863,
+        "score": -0.7949
+      },
+      {
+        "word": "adepts",
+        "start_offset": 334,
+        "end_offset": 340,
+        "start": 76.743,
+        "end": 77.583,
+        "score": -1.2309
+      },
+      {
+        "word": "consciously",
+        "start_offset": 341,
+        "end_offset": 352,
+        "start": 79.163,
+        "end": 80.463,
+        "score": -0.9748
+      },
+      {
+        "word": "full",
+        "start_offset": 353,
+        "end_offset": 357,
+        "start": 82.343,
+        "end": 82.823,
+        "score": -1.9444
+      },
+      {
+        "word": "of",
+        "start_offset": 358,
+        "end_offset": 360,
+        "start": 84.083,
+        "end": 84.403,
+        "score": -0.7647
+      },
+      {
+        "word": "will,",
+        "start_offset": 361,
+        "end_offset": 366,
+        "start": 84.623,
+        "end": 85.023,
+        "score": -1.1151
+      },
+      {
+        "word": "of",
+        "start_offset": 367,
+        "end_offset": 369,
+        "start": 86.843,
+        "end": 87.103,
+        "score": -0.7791
+      },
+      {
+        "word": "seeking,",
+        "start_offset": 370,
+        "end_offset": 378,
+        "start": 87.423,
+        "end": 88.123,
+        "score": -0.8266
+      },
+      {
+        "word": "of",
+        "start_offset": 379,
+        "end_offset": 381,
+        "start": 89.823,
+        "end": 90.183,
+        "score": -0.7269
+      },
+      {
+        "word": "concentration,",
+        "start_offset": 382,
+        "end_offset": 396,
+        "start": 90.763,
+        "end": 92.663,
+        "score": -0.7232
+      },
+      {
+        "word": "of",
+        "start_offset": 397,
+        "end_offset": 399,
+        "start": 95.264,
+        "end": 95.604,
+        "score": -0.7342
+      },
+      {
+        "word": "conscious",
+        "start_offset": 400,
+        "end_offset": 409,
+        "start": 95.864,
+        "end": 96.944,
+        "score": -0.9538
+      },
+      {
+        "word": "knowledge",
+        "start_offset": 410,
+        "end_offset": 419,
+        "start": 97.124,
+        "end": 98.104,
+        "score": -1.1431
+      },
+      {
+        "word": "of",
+        "start_offset": 420,
+        "end_offset": 422,
+        "start": 99.924,
+        "end": 100.424,
+        "score": -0.7482
+      },
+      {
+        "word": "the",
+        "start_offset": 423,
+        "end_offset": 426,
+        "start": 101.184,
+        "end": 101.344,
+        "score": -0.7984
+      },
+      {
+        "word": "calling,",
+        "start_offset": 427,
+        "end_offset": 435,
+        "start": 101.684,
+        "end": 102.464,
+        "score": -0.943
+      },
+      {
+        "word": "there",
+        "start_offset": 436,
+        "end_offset": 441,
+        "start": 104.304,
+        "end": 104.744,
+        "score": -0.8209
+      },
+      {
+        "word": "would",
+        "start_offset": 442,
+        "end_offset": 447,
+        "start": 105.284,
+        "end": 105.704,
+        "score": -0.7631
+      },
+      {
+        "word": "be",
+        "start_offset": 448,
+        "end_offset": 450,
+        "start": 106.304,
+        "end": 106.444,
+        "score": -0.7361
+      },
+      {
+        "word": "no",
+        "start_offset": 451,
+        "end_offset": 453,
+        "start": 107.744,
+        "end": 107.904,
+        "score": -0.7586
+      },
+      {
+        "word": "difference.",
+        "start_offset": 454,
+        "end_offset": 465,
+        "start": 109.504,
+        "end": 110.564,
+        "score": -0.944
+      },
+      {
+        "word": "The",
+        "start_offset": 466,
+        "end_offset": 469,
+        "start": 113.324,
+        "end": 113.484,
+        "score": -0.8145
+      },
+      {
+        "word": "efficacy",
+        "start_offset": 470,
+        "end_offset": 478,
+        "start": 114.964,
+        "end": 116.804,
+        "score": -2.3997
+      },
+      {
+        "word": "of",
+        "start_offset": 479,
+        "end_offset": 481,
+        "start": 118.684,
+        "end": 119.184,
+        "score": -0.8178
+      },
+      {
+        "word": "the",
+        "start_offset": 482,
+        "end_offset": 485,
+        "start": 120.785,
+        "end": 120.945,
+        "score": -1.0605
+      },
+      {
+        "word": "calling",
+        "start_offset": 486,
+        "end_offset": 493,
+        "start": 122.765,
+        "end": 123.625,
+        "score": -0.9142
+      },
+      {
+        "word": "is",
+        "start_offset": 494,
+        "end_offset": 496,
+        "start": 125.205,
+        "end": 125.645,
+        "score": -0.7228
+      },
+      {
+        "word": "a",
+        "start_offset": 497,
+        "end_offset": 498,
+        "start": 126.525,
+        "end": 126.545,
+        "score": -1.1002
+      },
+      {
+        "word": "function",
+        "start_offset": 499,
+        "end_offset": 507,
+        "start": 126.705,
+        "end": 127.545,
+        "score": -0.7141
+      },
+      {
+        "word": "of",
+        "start_offset": 508,
+        "end_offset": 510,
+        "start": 129.305,
+        "end": 129.685,
+        "score": -6.1006
+      },
+      {
+        "word": "the",
+        "start_offset": 511,
+        "end_offset": 514,
+        "start": 131.245,
+        "end": 131.425,
+        "score": -1.0625
+      },
+      {
+        "word": "magical",
+        "start_offset": 515,
+        "end_offset": 522,
+        "start": 133.825,
+        "end": 135.285,
+        "score": -1.0386
+      },
+      {
+        "word": "qualities",
+        "start_offset": 523,
+        "end_offset": 532,
+        "start": 137.325,
+        "end": 139.005,
+        "score": -0.8726
+      },
+      {
+        "word": "of",
+        "start_offset": 533,
+        "end_offset": 535,
+        "start": 140.945,
+        "end": 141.365,
+        "score": -2.4185
+      },
+      {
+        "word": "those",
+        "start_offset": 536,
+        "end_offset": 541,
+        "start": 142.245,
+        "end": 142.945,
+        "score": -0.7529
+      },
+      {
+        "word": "who",
+        "start_offset": 542,
+        "end_offset": 545,
+        "start": 143.765,
+        "end": 143.965,
+        "score": -0.8889
+      },
+      {
+        "word": "call;",
+        "start_offset": 546,
+        "end_offset": 551,
+        "start": 145.265,
+        "end": 145.745,
+        "score": -1.5773
+      },
+      {
+        "word": "that",
+        "start_offset": 552,
+        "end_offset": 556,
+        "start": 147.166,
+        "end": 147.606,
+        "score": -0.7847
+      },
+      {
+        "word": "is,",
+        "start_offset": 557,
+        "end_offset": 560,
+        "start": 148.526,
+        "end": 148.986,
+        "score": -1.3867
+      },
+      {
+        "word": "their",
+        "start_offset": 561,
+        "end_offset": 566,
+        "start": 150.486,
+        "end": 151.026,
+        "score": -1.8493
+      },
+      {
+        "word": "desire",
+        "start_offset": 567,
+        "end_offset": 573,
+        "start": 152.526,
+        "end": 153.566,
+        "score": -0.7681
+      },
+      {
+        "word": "to",
+        "start_offset": 574,
+        "end_offset": 576,
+        "start": 154.746,
+        "end": 154.926,
+        "score": -0.7501
+      },
+      {
+        "word": "seek",
+        "start_offset": 577,
+        "end_offset": 581,
+        "start": 155.806,
+        "end": 156.326,
+        "score": -0.8155
+      },
+      {
+        "word": "the",
+        "start_offset": 582,
+        "end_offset": 585,
+        "start": 158.766,
+        "end": 158.906,
+        "score": -0.9774
+      },
+      {
+        "word": "altered",
+        "start_offset": 586,
+        "end_offset": 593,
+        "start": 160.506,
+        "end": 161.306,
+        "score": -0.9247
+      },
+      {
+        "word": "state",
+        "start_offset": 594,
+        "end_offset": 599,
+        "start": 162.546,
+        "end": 163.266,
+        "score": -0.7966
+      },
+      {
+        "word": "of",
+        "start_offset": 600,
+        "end_offset": 602,
+        "start": 164.286,
+        "end": 164.586,
+        "score": -6.2006
+      },
+      {
+        "word": "consciousness",
+        "start_offset": 603,
+        "end_offset": 616,
+        "start": 165.706,
+        "end": 167.386,
+        "score": -0.9379
+      },
+      {
+        "word": "desired.",
+        "start_offset": 617,
+        "end_offset": 625,
+        "start": 169.046,
+        "end": 170.366,
+        "score": -0.877
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "074-13.mp3",
+    "audio_duration": 175.0466,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

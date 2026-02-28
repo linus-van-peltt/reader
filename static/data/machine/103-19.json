@@ -1,0 +1,226 @@
+{
+  "text": "From this I send it to be most appropriate to daily perform the vanishing ritual in this room. Is this correct? And that is X Head Pub.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "From this I send it to be most appropriate to daily perform the vanishing ritual in this room.",
+        "start_offset": 22,
+        "end_offset": 101,
+        "start": 1.76,
+        "end": 8.08
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 104,
+        "end_offset": 119,
+        "start": 8.32,
+        "end": 9.52
+      },
+      {
+        "segment": "And that is X Head Pub.",
+        "start_offset": 206,
+        "end_offset": 256,
+        "start": 16.48,
+        "end": 20.48
+      }
+    ],
+    "word": [
+      {
+        "word": "From",
+        "start_offset": 22,
+        "end_offset": 26,
+        "start": 1.76,
+        "end": 2.08
+      },
+      {
+        "word": "this",
+        "start_offset": 26,
+        "end_offset": 28,
+        "start": 2.08,
+        "end": 2.24
+      },
+      {
+        "word": "I",
+        "start_offset": 30,
+        "end_offset": 31,
+        "start": 2.4,
+        "end": 2.48
+      },
+      {
+        "word": "send",
+        "start_offset": 34,
+        "end_offset": 36,
+        "start": 2.72,
+        "end": 2.88
+      },
+      {
+        "word": "it",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 2.96,
+        "end": 3.12
+      },
+      {
+        "word": "to",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 3.12,
+        "end": 3.36
+      },
+      {
+        "word": "be",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 3.36,
+        "end": 3.68
+      },
+      {
+        "word": "most",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 3.68,
+        "end": 4.0
+      },
+      {
+        "word": "appropriate",
+        "start_offset": 52,
+        "end_offset": 62,
+        "start": 4.16,
+        "end": 4.96
+      },
+      {
+        "word": "to",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 4.96,
+        "end": 5.2
+      },
+      {
+        "word": "daily",
+        "start_offset": 65,
+        "end_offset": 72,
+        "start": 5.2,
+        "end": 5.76
+      },
+      {
+        "word": "perform",
+        "start_offset": 72,
+        "end_offset": 77,
+        "start": 5.76,
+        "end": 6.16
+      },
+      {
+        "word": "the",
+        "start_offset": 77,
+        "end_offset": 80,
+        "start": 6.16,
+        "end": 6.4
+      },
+      {
+        "word": "vanishing",
+        "start_offset": 80,
+        "end_offset": 87,
+        "start": 6.4,
+        "end": 6.96
+      },
+      {
+        "word": "ritual",
+        "start_offset": 87,
+        "end_offset": 91,
+        "start": 6.96,
+        "end": 7.28
+      },
+      {
+        "word": "in",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 7.28,
+        "end": 7.44
+      },
+      {
+        "word": "this",
+        "start_offset": 93,
+        "end_offset": 95,
+        "start": 7.44,
+        "end": 7.6000000000000005
+      },
+      {
+        "word": "room.",
+        "start_offset": 97,
+        "end_offset": 101,
+        "start": 7.76,
+        "end": 8.08
+      },
+      {
+        "word": "Is",
+        "start_offset": 104,
+        "end_offset": 106,
+        "start": 8.32,
+        "end": 8.48
+      },
+      {
+        "word": "this",
+        "start_offset": 106,
+        "end_offset": 109,
+        "start": 8.48,
+        "end": 8.72
+      },
+      {
+        "word": "correct?",
+        "start_offset": 109,
+        "end_offset": 119,
+        "start": 8.72,
+        "end": 9.52
+      },
+      {
+        "word": "And",
+        "start_offset": 206,
+        "end_offset": 210,
+        "start": 16.48,
+        "end": 16.8
+      },
+      {
+        "word": "that",
+        "start_offset": 210,
+        "end_offset": 214,
+        "start": 16.8,
+        "end": 17.12
+      },
+      {
+        "word": "is",
+        "start_offset": 222,
+        "end_offset": 226,
+        "start": 17.76,
+        "end": 18.080000000000002
+      },
+      {
+        "word": "X",
+        "start_offset": 233,
+        "end_offset": 236,
+        "start": 18.64,
+        "end": 18.88
+      },
+      {
+        "word": "Head",
+        "start_offset": 245,
+        "end_offset": 250,
+        "start": 19.6,
+        "end": 20.0
+      },
+      {
+        "word": "Pub.",
+        "start_offset": 253,
+        "end_offset": 256,
+        "start": 20.240000000000002,
+        "end": 20.48
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "103-19.mp3",
+    "audio_duration": 21.03,
+    "transcription_time": 0.09,
+    "rtfx": 239.87,
+    "timestamp": "2026-01-06T22:00:45.865761+00:00"
+  }
+}

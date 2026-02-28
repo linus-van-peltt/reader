@@ -1,0 +1,226 @@
+{
+  "text": "You also mentioned the pyramid was used for learning. Is this the same process or is there a difference? I hell ya. There is a difference.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "You also mentioned the pyramid was used for learning.",
+        "start_offset": 20,
+        "end_offset": 57,
+        "start": 1.6,
+        "end": 4.5600000000000005
+      },
+      {
+        "segment": "Is this the same process or is there a difference?",
+        "start_offset": 59,
+        "end_offset": 99,
+        "start": 4.72,
+        "end": 7.92
+      },
+      {
+        "segment": "I hell ya.",
+        "start_offset": 140,
+        "end_offset": 168,
+        "start": 11.200000000000001,
+        "end": 13.44
+      },
+      {
+        "segment": "There is a difference.",
+        "start_offset": 192,
+        "end_offset": 244,
+        "start": 15.36,
+        "end": 19.52
+      }
+    ],
+    "word": [
+      {
+        "word": "You",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 1.6,
+        "end": 1.92
+      },
+      {
+        "word": "also",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 2.16,
+        "end": 2.4
+      },
+      {
+        "word": "mentioned",
+        "start_offset": 30,
+        "end_offset": 36,
+        "start": 2.4,
+        "end": 2.88
+      },
+      {
+        "word": "the",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 2.88,
+        "end": 3.04
+      },
+      {
+        "word": "pyramid",
+        "start_offset": 38,
+        "end_offset": 45,
+        "start": 3.04,
+        "end": 3.6
+      },
+      {
+        "word": "was",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 3.6,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "used",
+        "start_offset": 47,
+        "end_offset": 50,
+        "start": 3.7600000000000002,
+        "end": 4.0
+      },
+      {
+        "word": "for",
+        "start_offset": 50,
+        "end_offset": 52,
+        "start": 4.0,
+        "end": 4.16
+      },
+      {
+        "word": "learning.",
+        "start_offset": 52,
+        "end_offset": 57,
+        "start": 4.16,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "Is",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 4.72,
+        "end": 4.96
+      },
+      {
+        "word": "this",
+        "start_offset": 62,
+        "end_offset": 66,
+        "start": 4.96,
+        "end": 5.28
+      },
+      {
+        "word": "the",
+        "start_offset": 66,
+        "end_offset": 69,
+        "start": 5.28,
+        "end": 5.5200000000000005
+      },
+      {
+        "word": "same",
+        "start_offset": 69,
+        "end_offset": 74,
+        "start": 5.5200000000000005,
+        "end": 5.92
+      },
+      {
+        "word": "process",
+        "start_offset": 74,
+        "end_offset": 79,
+        "start": 5.92,
+        "end": 6.32
+      },
+      {
+        "word": "or",
+        "start_offset": 81,
+        "end_offset": 83,
+        "start": 6.48,
+        "end": 6.640000000000001
+      },
+      {
+        "word": "is",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 6.640000000000001,
+        "end": 6.8
+      },
+      {
+        "word": "there",
+        "start_offset": 85,
+        "end_offset": 87,
+        "start": 6.8,
+        "end": 6.96
+      },
+      {
+        "word": "a",
+        "start_offset": 87,
+        "end_offset": 91,
+        "start": 6.96,
+        "end": 7.28
+      },
+      {
+        "word": "difference?",
+        "start_offset": 91,
+        "end_offset": 99,
+        "start": 7.28,
+        "end": 7.92
+      },
+      {
+        "word": "I",
+        "start_offset": 140,
+        "end_offset": 144,
+        "start": 11.200000000000001,
+        "end": 11.52
+      },
+      {
+        "word": "hell",
+        "start_offset": 152,
+        "end_offset": 158,
+        "start": 12.16,
+        "end": 12.64
+      },
+      {
+        "word": "ya.",
+        "start_offset": 165,
+        "end_offset": 168,
+        "start": 13.200000000000001,
+        "end": 13.44
+      },
+      {
+        "word": "There",
+        "start_offset": 192,
+        "end_offset": 200,
+        "start": 15.36,
+        "end": 16.0
+      },
+      {
+        "word": "is",
+        "start_offset": 208,
+        "end_offset": 212,
+        "start": 16.64,
+        "end": 16.96
+      },
+      {
+        "word": "a",
+        "start_offset": 220,
+        "end_offset": 224,
+        "start": 17.6,
+        "end": 17.92
+      },
+      {
+        "word": "difference.",
+        "start_offset": 232,
+        "end_offset": 244,
+        "start": 18.56,
+        "end": 19.52
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "057-25.mp3",
+    "audio_duration": 20.04,
+    "transcription_time": 0.09,
+    "rtfx": 226.87,
+    "timestamp": "2026-01-06T21:52:51.697038+00:00"
+  }
+}

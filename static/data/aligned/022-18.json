@@ -1,0 +1,180 @@
+{
+  "text": "Was the next action taken by the Confederation when a call occurred? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Was the next action taken by the Confederation when a call occurred?",
+        "start_offset": 0,
+        "end_offset": 68,
+        "start": 2.782,
+        "end": 7.206
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 69,
+        "end_offset": 77,
+        "start": 12.21,
+        "end": 14.131
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 78,
+        "end_offset": 94,
+        "start": 16.293,
+        "end": 19.375
+      }
+    ],
+    "word": [
+      {
+        "word": "Was",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.782,
+        "end": 2.962,
+        "score": -0.961
+      },
+      {
+        "word": "the",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 3.002,
+        "end": 3.082,
+        "score": -0.7099
+      },
+      {
+        "word": "next",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 3.142,
+        "end": 3.443,
+        "score": -0.6965
+      },
+      {
+        "word": "action",
+        "start_offset": 13,
+        "end_offset": 19,
+        "start": 3.583,
+        "end": 3.943,
+        "score": -0.6944
+      },
+      {
+        "word": "taken",
+        "start_offset": 20,
+        "end_offset": 25,
+        "start": 4.103,
+        "end": 4.504,
+        "score": -0.6952
+      },
+      {
+        "word": "by",
+        "start_offset": 26,
+        "end_offset": 28,
+        "start": 4.604,
+        "end": 4.764,
+        "score": -0.6969
+      },
+      {
+        "word": "the",
+        "start_offset": 29,
+        "end_offset": 32,
+        "start": 4.824,
+        "end": 4.904,
+        "score": -0.7019
+      },
+      {
+        "word": "Confederation",
+        "start_offset": 33,
+        "end_offset": 46,
+        "start": 4.944,
+        "end": 5.745,
+        "score": -0.7058
+      },
+      {
+        "word": "when",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 5.825,
+        "end": 5.965,
+        "score": -0.6994
+      },
+      {
+        "word": "a",
+        "start_offset": 52,
+        "end_offset": 53,
+        "start": 6.025,
+        "end": 6.045,
+        "score": -0.7181
+      },
+      {
+        "word": "call",
+        "start_offset": 54,
+        "end_offset": 58,
+        "start": 6.185,
+        "end": 6.545,
+        "score": -0.8628
+      },
+      {
+        "word": "occurred?",
+        "start_offset": 59,
+        "end_offset": 68,
+        "start": 6.705,
+        "end": 7.206,
+        "score": -1.5695
+      },
+      {
+        "word": "I",
+        "start_offset": 69,
+        "end_offset": 70,
+        "start": 12.21,
+        "end": 12.23,
+        "score": -0.928
+      },
+      {
+        "word": "am",
+        "start_offset": 71,
+        "end_offset": 73,
+        "start": 12.85,
+        "end": 13.03,
+        "score": -1.6077
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 74,
+        "end_offset": 77,
+        "start": 13.991,
+        "end": 14.131,
+        "score": -0.9446
+      },
+      {
+        "word": "This",
+        "start_offset": 78,
+        "end_offset": 82,
+        "start": 16.293,
+        "end": 16.673,
+        "score": -0.7383
+      },
+      {
+        "word": "is",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 17.554,
+        "end": 17.854,
+        "score": -0.7044
+      },
+      {
+        "word": "correct.",
+        "start_offset": 86,
+        "end_offset": 94,
+        "start": 18.495,
+        "end": 19.375,
+        "score": -0.7149
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "022-18.mp3",
+    "audio_duration": 20.0359,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

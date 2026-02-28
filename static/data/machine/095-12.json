@@ -1,0 +1,492 @@
+{
+  "text": "One end of the house there are four stalls that is occupied by horses. Would it be appropriate or necessary to modify in any way the condition of that area, even though it's outside the living area of the house? And there has a beam, you know, on this around a negative energy stored in this area, and therefore it is acceptable if physically cleaned.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "One end of the house there are four stalls that is occupied by horses.",
+        "start_offset": 24,
+        "end_offset": 88,
+        "start": 1.92,
+        "end": 7.04
+      },
+      {
+        "segment": "Would it be appropriate or necessary to modify in any way the condition of that area, even though it's outside the living area of the house?",
+        "start_offset": 121,
+        "end_offset": 293,
+        "start": 9.68,
+        "end": 23.44
+      },
+      {
+        "segment": "And there has a beam, you know, on this around a negative energy stored in this area, and therefore it is acceptable if physically cleaned.",
+        "start_offset": 440,
+        "end_offset": 890,
+        "start": 35.2,
+        "end": 71.2
+      }
+    ],
+    "word": [
+      {
+        "word": "One",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 1.92,
+        "end": 2.16
+      },
+      {
+        "word": "end",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 2.24,
+        "end": 2.48
+      },
+      {
+        "word": "of",
+        "start_offset": 31,
+        "end_offset": 32,
+        "start": 2.48,
+        "end": 2.56
+      },
+      {
+        "word": "the",
+        "start_offset": 32,
+        "end_offset": 33,
+        "start": 2.56,
+        "end": 2.64
+      },
+      {
+        "word": "house",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 2.64,
+        "end": 2.96
+      },
+      {
+        "word": "there",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 2.96,
+        "end": 3.12
+      },
+      {
+        "word": "are",
+        "start_offset": 39,
+        "end_offset": 40,
+        "start": 3.12,
+        "end": 3.2
+      },
+      {
+        "word": "four",
+        "start_offset": 42,
+        "end_offset": 49,
+        "start": 3.36,
+        "end": 3.92
+      },
+      {
+        "word": "stalls",
+        "start_offset": 53,
+        "end_offset": 60,
+        "start": 4.24,
+        "end": 4.8
+      },
+      {
+        "word": "that",
+        "start_offset": 61,
+        "end_offset": 63,
+        "start": 4.88,
+        "end": 5.04
+      },
+      {
+        "word": "is",
+        "start_offset": 63,
+        "end_offset": 64,
+        "start": 5.04,
+        "end": 5.12
+      },
+      {
+        "word": "occupied",
+        "start_offset": 66,
+        "end_offset": 73,
+        "start": 5.28,
+        "end": 5.84
+      },
+      {
+        "word": "by",
+        "start_offset": 75,
+        "end_offset": 78,
+        "start": 6.0,
+        "end": 6.24
+      },
+      {
+        "word": "horses.",
+        "start_offset": 78,
+        "end_offset": 88,
+        "start": 6.24,
+        "end": 7.04
+      },
+      {
+        "word": "Would",
+        "start_offset": 121,
+        "end_offset": 125,
+        "start": 9.68,
+        "end": 10.0
+      },
+      {
+        "word": "it",
+        "start_offset": 125,
+        "end_offset": 127,
+        "start": 10.0,
+        "end": 10.16
+      },
+      {
+        "word": "be",
+        "start_offset": 127,
+        "end_offset": 129,
+        "start": 10.16,
+        "end": 10.32
+      },
+      {
+        "word": "appropriate",
+        "start_offset": 129,
+        "end_offset": 137,
+        "start": 10.32,
+        "end": 10.96
+      },
+      {
+        "word": "or",
+        "start_offset": 137,
+        "end_offset": 141,
+        "start": 10.96,
+        "end": 11.28
+      },
+      {
+        "word": "necessary",
+        "start_offset": 141,
+        "end_offset": 149,
+        "start": 11.28,
+        "end": 11.92
+      },
+      {
+        "word": "to",
+        "start_offset": 166,
+        "end_offset": 170,
+        "start": 13.280000000000001,
+        "end": 13.6
+      },
+      {
+        "word": "modify",
+        "start_offset": 182,
+        "end_offset": 192,
+        "start": 14.56,
+        "end": 15.36
+      },
+      {
+        "word": "in",
+        "start_offset": 192,
+        "end_offset": 195,
+        "start": 15.36,
+        "end": 15.6
+      },
+      {
+        "word": "any",
+        "start_offset": 195,
+        "end_offset": 199,
+        "start": 15.6,
+        "end": 15.92
+      },
+      {
+        "word": "way",
+        "start_offset": 199,
+        "end_offset": 203,
+        "start": 15.92,
+        "end": 16.240000000000002
+      },
+      {
+        "word": "the",
+        "start_offset": 203,
+        "end_offset": 207,
+        "start": 16.240000000000002,
+        "end": 16.56
+      },
+      {
+        "word": "condition",
+        "start_offset": 215,
+        "end_offset": 223,
+        "start": 17.2,
+        "end": 17.84
+      },
+      {
+        "word": "of",
+        "start_offset": 223,
+        "end_offset": 227,
+        "start": 17.84,
+        "end": 18.16
+      },
+      {
+        "word": "that",
+        "start_offset": 227,
+        "end_offset": 231,
+        "start": 18.16,
+        "end": 18.48
+      },
+      {
+        "word": "area,",
+        "start_offset": 234,
+        "end_offset": 241,
+        "start": 18.72,
+        "end": 19.28
+      },
+      {
+        "word": "even",
+        "start_offset": 243,
+        "end_offset": 246,
+        "start": 19.44,
+        "end": 19.68
+      },
+      {
+        "word": "though",
+        "start_offset": 246,
+        "end_offset": 249,
+        "start": 19.68,
+        "end": 19.92
+      },
+      {
+        "word": "it's",
+        "start_offset": 249,
+        "end_offset": 254,
+        "start": 19.92,
+        "end": 20.32
+      },
+      {
+        "word": "outside",
+        "start_offset": 254,
+        "end_offset": 261,
+        "start": 20.32,
+        "end": 20.88
+      },
+      {
+        "word": "the",
+        "start_offset": 261,
+        "end_offset": 263,
+        "start": 20.88,
+        "end": 21.04
+      },
+      {
+        "word": "living",
+        "start_offset": 263,
+        "end_offset": 270,
+        "start": 21.04,
+        "end": 21.6
+      },
+      {
+        "word": "area",
+        "start_offset": 270,
+        "end_offset": 278,
+        "start": 21.6,
+        "end": 22.240000000000002
+      },
+      {
+        "word": "of",
+        "start_offset": 278,
+        "end_offset": 281,
+        "start": 22.240000000000002,
+        "end": 22.48
+      },
+      {
+        "word": "the",
+        "start_offset": 281,
+        "end_offset": 285,
+        "start": 22.48,
+        "end": 22.8
+      },
+      {
+        "word": "house?",
+        "start_offset": 285,
+        "end_offset": 293,
+        "start": 22.8,
+        "end": 23.44
+      },
+      {
+        "word": "And",
+        "start_offset": 440,
+        "end_offset": 444,
+        "start": 35.2,
+        "end": 35.52
+      },
+      {
+        "word": "there",
+        "start_offset": 444,
+        "end_offset": 448,
+        "start": 35.52,
+        "end": 35.84
+      },
+      {
+        "word": "has",
+        "start_offset": 460,
+        "end_offset": 464,
+        "start": 36.800000000000004,
+        "end": 37.12
+      },
+      {
+        "word": "a",
+        "start_offset": 467,
+        "end_offset": 471,
+        "start": 37.36,
+        "end": 37.68
+      },
+      {
+        "word": "beam,",
+        "start_offset": 471,
+        "end_offset": 479,
+        "start": 37.68,
+        "end": 38.32
+      },
+      {
+        "word": "you",
+        "start_offset": 481,
+        "end_offset": 483,
+        "start": 38.480000000000004,
+        "end": 38.64
+      },
+      {
+        "word": "know,",
+        "start_offset": 486,
+        "end_offset": 490,
+        "start": 38.88,
+        "end": 39.2
+      },
+      {
+        "word": "on",
+        "start_offset": 529,
+        "end_offset": 532,
+        "start": 42.32,
+        "end": 42.56
+      },
+      {
+        "word": "this",
+        "start_offset": 535,
+        "end_offset": 538,
+        "start": 42.800000000000004,
+        "end": 43.04
+      },
+      {
+        "word": "around",
+        "start_offset": 540,
+        "end_offset": 548,
+        "start": 43.2,
+        "end": 43.84
+      },
+      {
+        "word": "a",
+        "start_offset": 568,
+        "end_offset": 570,
+        "start": 45.44,
+        "end": 45.6
+      },
+      {
+        "word": "negative",
+        "start_offset": 573,
+        "end_offset": 581,
+        "start": 45.84,
+        "end": 46.480000000000004
+      },
+      {
+        "word": "energy",
+        "start_offset": 601,
+        "end_offset": 609,
+        "start": 48.08,
+        "end": 48.72
+      },
+      {
+        "word": "stored",
+        "start_offset": 629,
+        "end_offset": 637,
+        "start": 50.32,
+        "end": 50.96
+      },
+      {
+        "word": "in",
+        "start_offset": 641,
+        "end_offset": 645,
+        "start": 51.28,
+        "end": 51.6
+      },
+      {
+        "word": "this",
+        "start_offset": 659,
+        "end_offset": 663,
+        "start": 52.72,
+        "end": 53.04
+      },
+      {
+        "word": "area,",
+        "start_offset": 679,
+        "end_offset": 687,
+        "start": 54.32,
+        "end": 54.96
+      },
+      {
+        "word": "and",
+        "start_offset": 709,
+        "end_offset": 713,
+        "start": 56.72,
+        "end": 57.04
+      },
+      {
+        "word": "therefore",
+        "start_offset": 713,
+        "end_offset": 725,
+        "start": 57.04,
+        "end": 58.0
+      },
+      {
+        "word": "it",
+        "start_offset": 757,
+        "end_offset": 761,
+        "start": 60.56,
+        "end": 60.88
+      },
+      {
+        "word": "is",
+        "start_offset": 769,
+        "end_offset": 773,
+        "start": 61.52,
+        "end": 61.84
+      },
+      {
+        "word": "acceptable",
+        "start_offset": 777,
+        "end_offset": 793,
+        "start": 62.160000000000004,
+        "end": 63.440000000000005
+      },
+      {
+        "word": "if",
+        "start_offset": 809,
+        "end_offset": 812,
+        "start": 64.72,
+        "end": 64.96000000000001
+      },
+      {
+        "word": "physically",
+        "start_offset": 844,
+        "end_offset": 859,
+        "start": 67.52,
+        "end": 68.72
+      },
+      {
+        "word": "cleaned.",
+        "start_offset": 879,
+        "end_offset": 890,
+        "start": 70.32000000000001,
+        "end": 71.2
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "095-12.mp3",
+    "audio_duration": 83.04,
+    "transcription_time": 0.15,
+    "rtfx": 548.51,
+    "timestamp": "2026-01-06T21:59:35.662490+00:00"
+  }
+}

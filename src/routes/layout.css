@@ -1,0 +1,36 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+	--color-questioner: #6366f1;
+	--color-ra: #e11d48;
+	--color-questioner-light: #e0e7ff;
+	--color-ra-light: #ffe4e6;
+	--color-questioner-dark: #312e81;
+	--color-ra-dark: #9f1239;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+.prose :where(blockquote):not(:where([class~='not-prose'], [class~='not-prose'] *)) {
+	border-left-color: var(--color-ra);
+}
+
+.glossary-term > [role='tooltip']::after {
+	content: '';
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	transform: translateX(-50%);
+	border: 5px solid transparent;
+	border-top-color: white;
+}
+
+:is(.dark .glossary-term > [role='tooltip'])::after {
+	border-top-color: #1c1917;
+}

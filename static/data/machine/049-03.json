@@ -1,0 +1,471 @@
+{
+  "text": "Do you have any addition to that question? I was wondering, since in a previous session, you had mentioned the left and right ear tones. If the left and the right brain were somehow related to the polarities of service to self and service to others. Do you comment on this? I am raw. We may comment on this.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Do you have any addition to that question?",
+        "start_offset": 38,
+        "end_offset": 63,
+        "start": 3.04,
+        "end": 5.04
+      },
+      {
+        "segment": "I was wondering, since in a previous session, you had mentioned the left and right ear tones.",
+        "start_offset": 209,
+        "end_offset": 320,
+        "start": 16.72,
+        "end": 25.6
+      },
+      {
+        "segment": "If the left and the right brain were somehow related to the polarities of service to self and service to others.",
+        "start_offset": 343,
+        "end_offset": 530,
+        "start": 27.44,
+        "end": 42.4
+      },
+      {
+        "segment": "Do you comment on this?",
+        "start_offset": 535,
+        "end_offset": 566,
+        "start": 42.800000000000004,
+        "end": 45.28
+      },
+      {
+        "segment": "I am raw.",
+        "start_offset": 622,
+        "end_offset": 664,
+        "start": 49.76,
+        "end": 53.120000000000005
+      },
+      {
+        "segment": "We may comment on this.",
+        "start_offset": 702,
+        "end_offset": 786,
+        "start": 56.160000000000004,
+        "end": 62.88
+      }
+    ],
+    "word": [
+      {
+        "word": "Do",
+        "start_offset": 38,
+        "end_offset": 39,
+        "start": 3.04,
+        "end": 3.12
+      },
+      {
+        "word": "you",
+        "start_offset": 41,
+        "end_offset": 42,
+        "start": 3.2800000000000002,
+        "end": 3.36
+      },
+      {
+        "word": "have",
+        "start_offset": 43,
+        "end_offset": 45,
+        "start": 3.44,
+        "end": 3.6
+      },
+      {
+        "word": "any",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 3.6,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "addition",
+        "start_offset": 49,
+        "end_offset": 53,
+        "start": 3.92,
+        "end": 4.24
+      },
+      {
+        "word": "to",
+        "start_offset": 53,
+        "end_offset": 55,
+        "start": 4.24,
+        "end": 4.4
+      },
+      {
+        "word": "that",
+        "start_offset": 55,
+        "end_offset": 56,
+        "start": 4.4,
+        "end": 4.48
+      },
+      {
+        "word": "question?",
+        "start_offset": 58,
+        "end_offset": 63,
+        "start": 4.64,
+        "end": 5.04
+      },
+      {
+        "word": "I",
+        "start_offset": 209,
+        "end_offset": 213,
+        "start": 16.72,
+        "end": 17.04
+      },
+      {
+        "word": "was",
+        "start_offset": 213,
+        "end_offset": 217,
+        "start": 17.04,
+        "end": 17.36
+      },
+      {
+        "word": "wondering,",
+        "start_offset": 217,
+        "end_offset": 229,
+        "start": 17.36,
+        "end": 18.32
+      },
+      {
+        "word": "since",
+        "start_offset": 241,
+        "end_offset": 246,
+        "start": 19.28,
+        "end": 19.68
+      },
+      {
+        "word": "in",
+        "start_offset": 246,
+        "end_offset": 248,
+        "start": 19.68,
+        "end": 19.84
+      },
+      {
+        "word": "a",
+        "start_offset": 248,
+        "end_offset": 250,
+        "start": 19.84,
+        "end": 20.0
+      },
+      {
+        "word": "previous",
+        "start_offset": 250,
+        "end_offset": 259,
+        "start": 20.0,
+        "end": 20.72
+      },
+      {
+        "word": "session,",
+        "start_offset": 259,
+        "end_offset": 264,
+        "start": 20.72,
+        "end": 21.12
+      },
+      {
+        "word": "you",
+        "start_offset": 266,
+        "end_offset": 268,
+        "start": 21.28,
+        "end": 21.44
+      },
+      {
+        "word": "had",
+        "start_offset": 268,
+        "end_offset": 271,
+        "start": 21.44,
+        "end": 21.68
+      },
+      {
+        "word": "mentioned",
+        "start_offset": 271,
+        "end_offset": 282,
+        "start": 21.68,
+        "end": 22.56
+      },
+      {
+        "word": "the",
+        "start_offset": 290,
+        "end_offset": 292,
+        "start": 23.2,
+        "end": 23.36
+      },
+      {
+        "word": "left",
+        "start_offset": 296,
+        "end_offset": 301,
+        "start": 23.68,
+        "end": 24.080000000000002
+      },
+      {
+        "word": "and",
+        "start_offset": 301,
+        "end_offset": 303,
+        "start": 24.080000000000002,
+        "end": 24.240000000000002
+      },
+      {
+        "word": "right",
+        "start_offset": 303,
+        "end_offset": 307,
+        "start": 24.240000000000002,
+        "end": 24.560000000000002
+      },
+      {
+        "word": "ear",
+        "start_offset": 307,
+        "end_offset": 312,
+        "start": 24.560000000000002,
+        "end": 24.96
+      },
+      {
+        "word": "tones.",
+        "start_offset": 312,
+        "end_offset": 320,
+        "start": 24.96,
+        "end": 25.6
+      },
+      {
+        "word": "If",
+        "start_offset": 343,
+        "end_offset": 349,
+        "start": 27.44,
+        "end": 27.92
+      },
+      {
+        "word": "the",
+        "start_offset": 349,
+        "end_offset": 352,
+        "start": 27.92,
+        "end": 28.16
+      },
+      {
+        "word": "left",
+        "start_offset": 352,
+        "end_offset": 357,
+        "start": 28.16,
+        "end": 28.560000000000002
+      },
+      {
+        "word": "and",
+        "start_offset": 357,
+        "end_offset": 358,
+        "start": 28.560000000000002,
+        "end": 28.64
+      },
+      {
+        "word": "the",
+        "start_offset": 358,
+        "end_offset": 362,
+        "start": 28.64,
+        "end": 28.96
+      },
+      {
+        "word": "right",
+        "start_offset": 362,
+        "end_offset": 366,
+        "start": 28.96,
+        "end": 29.28
+      },
+      {
+        "word": "brain",
+        "start_offset": 366,
+        "end_offset": 374,
+        "start": 29.28,
+        "end": 29.92
+      },
+      {
+        "word": "were",
+        "start_offset": 378,
+        "end_offset": 382,
+        "start": 30.240000000000002,
+        "end": 30.560000000000002
+      },
+      {
+        "word": "somehow",
+        "start_offset": 406,
+        "end_offset": 418,
+        "start": 32.480000000000004,
+        "end": 33.44
+      },
+      {
+        "word": "related",
+        "start_offset": 438,
+        "end_offset": 450,
+        "start": 35.04,
+        "end": 36.0
+      },
+      {
+        "word": "to",
+        "start_offset": 450,
+        "end_offset": 454,
+        "start": 36.0,
+        "end": 36.32
+      },
+      {
+        "word": "the",
+        "start_offset": 454,
+        "end_offset": 458,
+        "start": 36.32,
+        "end": 36.64
+      },
+      {
+        "word": "polarities",
+        "start_offset": 478,
+        "end_offset": 491,
+        "start": 38.24,
+        "end": 39.28
+      },
+      {
+        "word": "of",
+        "start_offset": 491,
+        "end_offset": 495,
+        "start": 39.28,
+        "end": 39.6
+      },
+      {
+        "word": "service",
+        "start_offset": 498,
+        "end_offset": 504,
+        "start": 39.84,
+        "end": 40.32
+      },
+      {
+        "word": "to",
+        "start_offset": 504,
+        "end_offset": 506,
+        "start": 40.32,
+        "end": 40.480000000000004
+      },
+      {
+        "word": "self",
+        "start_offset": 506,
+        "end_offset": 510,
+        "start": 40.480000000000004,
+        "end": 40.800000000000004
+      },
+      {
+        "word": "and",
+        "start_offset": 510,
+        "end_offset": 513,
+        "start": 40.800000000000004,
+        "end": 41.04
+      },
+      {
+        "word": "service",
+        "start_offset": 513,
+        "end_offset": 518,
+        "start": 41.04,
+        "end": 41.44
+      },
+      {
+        "word": "to",
+        "start_offset": 518,
+        "end_offset": 521,
+        "start": 41.44,
+        "end": 41.68
+      },
+      {
+        "word": "others.",
+        "start_offset": 521,
+        "end_offset": 530,
+        "start": 41.68,
+        "end": 42.4
+      },
+      {
+        "word": "Do",
+        "start_offset": 535,
+        "end_offset": 537,
+        "start": 42.800000000000004,
+        "end": 42.96
+      },
+      {
+        "word": "you",
+        "start_offset": 539,
+        "end_offset": 543,
+        "start": 43.12,
+        "end": 43.44
+      },
+      {
+        "word": "comment",
+        "start_offset": 550,
+        "end_offset": 558,
+        "start": 44.0,
+        "end": 44.64
+      },
+      {
+        "word": "on",
+        "start_offset": 558,
+        "end_offset": 562,
+        "start": 44.64,
+        "end": 44.96
+      },
+      {
+        "word": "this?",
+        "start_offset": 562,
+        "end_offset": 566,
+        "start": 44.96,
+        "end": 45.28
+      },
+      {
+        "word": "I",
+        "start_offset": 622,
+        "end_offset": 626,
+        "start": 49.76,
+        "end": 50.08
+      },
+      {
+        "word": "am",
+        "start_offset": 634,
+        "end_offset": 638,
+        "start": 50.72,
+        "end": 51.04
+      },
+      {
+        "word": "raw.",
+        "start_offset": 657,
+        "end_offset": 664,
+        "start": 52.56,
+        "end": 53.120000000000005
+      },
+      {
+        "word": "We",
+        "start_offset": 702,
+        "end_offset": 706,
+        "start": 56.160000000000004,
+        "end": 56.480000000000004
+      },
+      {
+        "word": "may",
+        "start_offset": 722,
+        "end_offset": 726,
+        "start": 57.76,
+        "end": 58.08
+      },
+      {
+        "word": "comment",
+        "start_offset": 746,
+        "end_offset": 754,
+        "start": 59.68,
+        "end": 60.32
+      },
+      {
+        "word": "on",
+        "start_offset": 766,
+        "end_offset": 770,
+        "start": 61.28,
+        "end": 61.6
+      },
+      {
+        "word": "this.",
+        "start_offset": 782,
+        "end_offset": 786,
+        "start": 62.56,
+        "end": 62.88
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "049-03.mp3",
+    "audio_duration": 66.04,
+    "transcription_time": 0.13,
+    "rtfx": 491.01,
+    "timestamp": "2026-01-06T21:51:46.607084+00:00"
+  }
+}

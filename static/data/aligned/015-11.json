@@ -1,0 +1,260 @@
+{
+  "text": "Can you tell me how you balance the ego? I am Ra. We cannot work with this concept as it is misapplied and understanding cannot come from it.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me how you balance the ego?",
+        "start_offset": 0,
+        "end_offset": 40,
+        "start": 1.62,
+        "end": 8.981
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 41,
+        "end_offset": 49,
+        "start": 9.261,
+        "end": 11.202
+      },
+      {
+        "segment": "We cannot work with this concept as it is misapplied and understanding cannot come from it.",
+        "start_offset": 50,
+        "end_offset": 141,
+        "start": 13.942,
+        "end": 39.306
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 1.62,
+        "end": 1.96,
+        "score": -7.1145
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 2.0,
+        "end": 2.12,
+        "score": -5.5778
+      },
+      {
+        "word": "tell",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 2.2,
+        "end": 2.36,
+        "score": -6.4965
+      },
+      {
+        "word": "me",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 2.38,
+        "end": 2.46,
+        "score": -4.9988
+      },
+      {
+        "word": "how",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 2.64,
+        "end": 2.7,
+        "score": -6.9601
+      },
+      {
+        "word": "you",
+        "start_offset": 20,
+        "end_offset": 23,
+        "start": 2.74,
+        "end": 2.88,
+        "score": -6.0764
+      },
+      {
+        "word": "balance",
+        "start_offset": 24,
+        "end_offset": 31,
+        "start": 2.9,
+        "end": 3.06,
+        "score": -7.0023
+      },
+      {
+        "word": "the",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 3.12,
+        "end": 3.18,
+        "score": -6.7775
+      },
+      {
+        "word": "ego?",
+        "start_offset": 36,
+        "end_offset": 40,
+        "start": 3.2,
+        "end": 8.981,
+        "score": -6.8845
+      },
+      {
+        "word": "I",
+        "start_offset": 41,
+        "end_offset": 42,
+        "start": 9.261,
+        "end": 9.281,
+        "score": -0.8784
+      },
+      {
+        "word": "am",
+        "start_offset": 43,
+        "end_offset": 45,
+        "start": 10.001,
+        "end": 10.221,
+        "score": -3.3461
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 46,
+        "end_offset": 49,
+        "start": 11.042,
+        "end": 11.202,
+        "score": -1.2646
+      },
+      {
+        "word": "We",
+        "start_offset": 50,
+        "end_offset": 52,
+        "start": 13.942,
+        "end": 14.102,
+        "score": -0.7515
+      },
+      {
+        "word": "cannot",
+        "start_offset": 53,
+        "end_offset": 59,
+        "start": 14.802,
+        "end": 15.762,
+        "score": -0.7559
+      },
+      {
+        "word": "work",
+        "start_offset": 60,
+        "end_offset": 64,
+        "start": 18.343,
+        "end": 18.723,
+        "score": -0.7102
+      },
+      {
+        "word": "with",
+        "start_offset": 65,
+        "end_offset": 69,
+        "start": 19.363,
+        "end": 19.663,
+        "score": -0.7691
+      },
+      {
+        "word": "this",
+        "start_offset": 70,
+        "end_offset": 74,
+        "start": 20.543,
+        "end": 20.983,
+        "score": -0.757
+      },
+      {
+        "word": "concept",
+        "start_offset": 75,
+        "end_offset": 82,
+        "start": 21.723,
+        "end": 22.963,
+        "score": -0.7085
+      },
+      {
+        "word": "as",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 24.003,
+        "end": 24.363,
+        "score": -0.7986
+      },
+      {
+        "word": "it",
+        "start_offset": 86,
+        "end_offset": 88,
+        "start": 25.024,
+        "end": 25.264,
+        "score": -0.9432
+      },
+      {
+        "word": "is",
+        "start_offset": 89,
+        "end_offset": 91,
+        "start": 26.244,
+        "end": 26.564,
+        "score": -0.8337
+      },
+      {
+        "word": "misapplied",
+        "start_offset": 92,
+        "end_offset": 102,
+        "start": 27.804,
+        "end": 30.444,
+        "score": -0.8094
+      },
+      {
+        "word": "and",
+        "start_offset": 103,
+        "end_offset": 106,
+        "start": 31.685,
+        "end": 31.945,
+        "score": -0.7017
+      },
+      {
+        "word": "understanding",
+        "start_offset": 107,
+        "end_offset": 120,
+        "start": 32.725,
+        "end": 34.305,
+        "score": -0.7472
+      },
+      {
+        "word": "cannot",
+        "start_offset": 121,
+        "end_offset": 127,
+        "start": 35.205,
+        "end": 36.185,
+        "score": -0.7107
+      },
+      {
+        "word": "come",
+        "start_offset": 128,
+        "end_offset": 132,
+        "start": 37.065,
+        "end": 37.485,
+        "score": -0.782
+      },
+      {
+        "word": "from",
+        "start_offset": 133,
+        "end_offset": 137,
+        "start": 38.105,
+        "end": 38.446,
+        "score": -0.7198
+      },
+      {
+        "word": "it.",
+        "start_offset": 138,
+        "end_offset": 141,
+        "start": 39.146,
+        "end": 39.306,
+        "score": -0.9456
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "015-11.mp3",
+    "audio_duration": 40.0457,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

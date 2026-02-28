@@ -1,0 +1,79 @@
+{
+  "text": "And Ra it is as uh previously stated.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "And Ra it is as uh previously stated.",
+        "start_offset": 12,
+        "end_offset": 155,
+        "start": 0.96,
+        "end": 12.4
+      }
+    ],
+    "word": [
+      {
+        "word": "And",
+        "start_offset": 12,
+        "end_offset": 16,
+        "start": 0.96,
+        "end": 1.28
+      },
+      {
+        "word": "Ra",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 2.16,
+        "end": 2.48
+      },
+      {
+        "word": "it",
+        "start_offset": 57,
+        "end_offset": 61,
+        "start": 4.5600000000000005,
+        "end": 4.88
+      },
+      {
+        "word": "is",
+        "start_offset": 69,
+        "end_offset": 73,
+        "start": 5.5200000000000005,
+        "end": 5.84
+      },
+      {
+        "word": "as",
+        "start_offset": 85,
+        "end_offset": 89,
+        "start": 6.8,
+        "end": 7.12
+      },
+      {
+        "word": "uh",
+        "start_offset": 91,
+        "end_offset": 95,
+        "start": 7.28,
+        "end": 7.6000000000000005
+      },
+      {
+        "word": "previously",
+        "start_offset": 111,
+        "end_offset": 131,
+        "start": 8.88,
+        "end": 10.48
+      },
+      {
+        "word": "stated.",
+        "start_offset": 147,
+        "end_offset": 155,
+        "start": 11.76,
+        "end": 12.4
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "069-01.mp3",
+    "audio_duration": 14.03,
+    "transcription_time": 0.09,
+    "rtfx": 164.07,
+    "timestamp": "2026-01-06T21:54:45.193137+00:00"
+  }
+}

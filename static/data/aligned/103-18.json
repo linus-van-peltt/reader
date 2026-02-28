@@ -1,0 +1,228 @@
+{
+  "text": "What is the reason? I am Ra. The lack of regular repetition of the so-called Banishing Ritual is the lack of which we spoke.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What is the reason?",
+        "start_offset": 0,
+        "end_offset": 19,
+        "start": 4.041,
+        "end": 5.541
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 20,
+        "end_offset": 28,
+        "start": 6.041,
+        "end": 6.622
+      },
+      {
+        "segment": "The lack of regular repetition of the so-called Banishing Ritual is the lack of which we spoke.",
+        "start_offset": 29,
+        "end_offset": 124,
+        "start": 10.322,
+        "end": 42.37
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 4.041,
+        "end": 4.221,
+        "score": -4.3551
+      },
+      {
+        "word": "is",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 4.241,
+        "end": 4.281,
+        "score": -5.8469
+      },
+      {
+        "word": "the",
+        "start_offset": 8,
+        "end_offset": 11,
+        "start": 4.301,
+        "end": 4.381,
+        "score": -4.3912
+      },
+      {
+        "word": "reason?",
+        "start_offset": 12,
+        "end_offset": 19,
+        "start": 4.401,
+        "end": 5.541,
+        "score": -4.9149
+      },
+      {
+        "word": "I",
+        "start_offset": 20,
+        "end_offset": 21,
+        "start": 6.041,
+        "end": 6.061,
+        "score": -5.8019
+      },
+      {
+        "word": "am",
+        "start_offset": 22,
+        "end_offset": 24,
+        "start": 6.401,
+        "end": 6.441,
+        "score": -3.3834
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 6.521,
+        "end": 6.622,
+        "score": -2.8736
+      },
+      {
+        "word": "The",
+        "start_offset": 29,
+        "end_offset": 32,
+        "start": 10.322,
+        "end": 10.462,
+        "score": -1.8077
+      },
+      {
+        "word": "lack",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 12.523,
+        "end": 12.983,
+        "score": -1.4311
+      },
+      {
+        "word": "of",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 13.623,
+        "end": 13.903,
+        "score": -1.3731
+      },
+      {
+        "word": "regular",
+        "start_offset": 41,
+        "end_offset": 48,
+        "start": 16.724,
+        "end": 17.924,
+        "score": -0.7481
+      },
+      {
+        "word": "repetition",
+        "start_offset": 49,
+        "end_offset": 59,
+        "start": 18.544,
+        "end": 20.305,
+        "score": -1.4339
+      },
+      {
+        "word": "of",
+        "start_offset": 60,
+        "end_offset": 62,
+        "start": 21.345,
+        "end": 21.905,
+        "score": -3.0214
+      },
+      {
+        "word": "the",
+        "start_offset": 63,
+        "end_offset": 66,
+        "start": 23.965,
+        "end": 24.105,
+        "score": -1.3732
+      },
+      {
+        "word": "so-called",
+        "start_offset": 67,
+        "end_offset": 76,
+        "start": 26.766,
+        "end": 28.146,
+        "score": -1.0527
+      },
+      {
+        "word": "Banishing",
+        "start_offset": 77,
+        "end_offset": 86,
+        "start": 28.707,
+        "end": 30.067,
+        "score": -1.5432
+      },
+      {
+        "word": "Ritual",
+        "start_offset": 87,
+        "end_offset": 93,
+        "start": 30.707,
+        "end": 31.627,
+        "score": -1.1219
+      },
+      {
+        "word": "is",
+        "start_offset": 94,
+        "end_offset": 96,
+        "start": 33.988,
+        "end": 34.408,
+        "score": -1.2147
+      },
+      {
+        "word": "the",
+        "start_offset": 97,
+        "end_offset": 100,
+        "start": 35.488,
+        "end": 35.628,
+        "score": -1.0426
+      },
+      {
+        "word": "lack",
+        "start_offset": 101,
+        "end_offset": 105,
+        "start": 36.508,
+        "end": 36.948,
+        "score": -1.4967
+      },
+      {
+        "word": "of",
+        "start_offset": 106,
+        "end_offset": 108,
+        "start": 37.389,
+        "end": 37.689,
+        "score": -1.1426
+      },
+      {
+        "word": "which",
+        "start_offset": 109,
+        "end_offset": 114,
+        "start": 38.149,
+        "end": 38.669,
+        "score": -2.1621
+      },
+      {
+        "word": "we",
+        "start_offset": 115,
+        "end_offset": 117,
+        "start": 40.249,
+        "end": 40.389,
+        "score": -1.1869
+      },
+      {
+        "word": "spoke.",
+        "start_offset": 118,
+        "end_offset": 124,
+        "start": 41.629,
+        "end": 42.37,
+        "score": -1.9636
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "103-18.mp3",
+    "audio_duration": 43.0498,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

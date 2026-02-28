@@ -1,0 +1,252 @@
+{
+  "text": "The instrument would like to ask, is there any danger in receiving too much transferred energy with the instrument in her present condition? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "The instrument would like to ask, is there any danger in receiving too much transferred energy with the instrument in her present condition?",
+        "start_offset": 0,
+        "end_offset": 140,
+        "start": 2.501,
+        "end": 10.063
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 141,
+        "end_offset": 149,
+        "start": 13.204,
+        "end": 21.287
+      },
+      {
+        "segment": "No.",
+        "start_offset": 150,
+        "end_offset": 153,
+        "start": 21.307,
+        "end": 21.447
+      }
+    ],
+    "word": [
+      {
+        "word": "The",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.501,
+        "end": 2.601,
+        "score": -1.003
+      },
+      {
+        "word": "instrument",
+        "start_offset": 4,
+        "end_offset": 14,
+        "start": 2.721,
+        "end": 3.821,
+        "score": -1.4182
+      },
+      {
+        "word": "would",
+        "start_offset": 15,
+        "end_offset": 20,
+        "start": 3.861,
+        "end": 4.001,
+        "score": -4.3851
+      },
+      {
+        "word": "like",
+        "start_offset": 21,
+        "end_offset": 25,
+        "start": 4.041,
+        "end": 4.241,
+        "score": -0.7315
+      },
+      {
+        "word": "to",
+        "start_offset": 26,
+        "end_offset": 28,
+        "start": 4.281,
+        "end": 4.321,
+        "score": -0.7326
+      },
+      {
+        "word": "ask,",
+        "start_offset": 29,
+        "end_offset": 33,
+        "start": 4.502,
+        "end": 4.782,
+        "score": -0.7027
+      },
+      {
+        "word": "is",
+        "start_offset": 34,
+        "end_offset": 36,
+        "start": 5.342,
+        "end": 5.462,
+        "score": -0.7155
+      },
+      {
+        "word": "there",
+        "start_offset": 37,
+        "end_offset": 42,
+        "start": 5.502,
+        "end": 5.662,
+        "score": -0.7099
+      },
+      {
+        "word": "any",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 5.702,
+        "end": 5.822,
+        "score": -0.7029
+      },
+      {
+        "word": "danger",
+        "start_offset": 47,
+        "end_offset": 53,
+        "start": 5.942,
+        "end": 6.302,
+        "score": -0.7256
+      },
+      {
+        "word": "in",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 6.342,
+        "end": 6.382,
+        "score": -0.7437
+      },
+      {
+        "word": "receiving",
+        "start_offset": 57,
+        "end_offset": 66,
+        "start": 6.422,
+        "end": 6.862,
+        "score": -1.0051
+      },
+      {
+        "word": "too",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 6.882,
+        "end": 7.022,
+        "score": -0.7565
+      },
+      {
+        "word": "much",
+        "start_offset": 71,
+        "end_offset": 75,
+        "start": 7.042,
+        "end": 7.242,
+        "score": -0.7179
+      },
+      {
+        "word": "transferred",
+        "start_offset": 76,
+        "end_offset": 87,
+        "start": 7.302,
+        "end": 7.823,
+        "score": -1.2586
+      },
+      {
+        "word": "energy",
+        "start_offset": 88,
+        "end_offset": 94,
+        "start": 7.903,
+        "end": 8.163,
+        "score": -0.696
+      },
+      {
+        "word": "with",
+        "start_offset": 95,
+        "end_offset": 99,
+        "start": 8.263,
+        "end": 8.403,
+        "score": -0.7057
+      },
+      {
+        "word": "the",
+        "start_offset": 100,
+        "end_offset": 103,
+        "start": 8.423,
+        "end": 8.483,
+        "score": -0.7265
+      },
+      {
+        "word": "instrument",
+        "start_offset": 104,
+        "end_offset": 114,
+        "start": 8.563,
+        "end": 8.963,
+        "score": -0.7018
+      },
+      {
+        "word": "in",
+        "start_offset": 115,
+        "end_offset": 117,
+        "start": 9.003,
+        "end": 9.063,
+        "score": -0.7454
+      },
+      {
+        "word": "her",
+        "start_offset": 118,
+        "end_offset": 121,
+        "start": 9.103,
+        "end": 9.183,
+        "score": -0.8685
+      },
+      {
+        "word": "present",
+        "start_offset": 122,
+        "end_offset": 129,
+        "start": 9.223,
+        "end": 9.583,
+        "score": -0.7248
+      },
+      {
+        "word": "condition?",
+        "start_offset": 130,
+        "end_offset": 140,
+        "start": 9.603,
+        "end": 10.063,
+        "score": -0.695
+      },
+      {
+        "word": "I",
+        "start_offset": 141,
+        "end_offset": 142,
+        "start": 13.204,
+        "end": 13.224,
+        "score": -9.9014
+      },
+      {
+        "word": "am",
+        "start_offset": 143,
+        "end_offset": 145,
+        "start": 14.645,
+        "end": 21.227,
+        "score": -8.372
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 146,
+        "end_offset": 149,
+        "start": 21.247,
+        "end": 21.287,
+        "score": -8.3619
+      },
+      {
+        "word": "No.",
+        "start_offset": 150,
+        "end_offset": 153,
+        "start": 21.307,
+        "end": 21.447,
+        "score": -9.407
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "079-02.mp3",
+    "audio_duration": 22.0474,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "text": "What detrimental effect has been done? I am Ra. There will be some discomfort. However, we were fortunate in that this instrument was very open to us and well-tuned. Had we not been able to reach this instrument and instruct you, the instrument's physical vehicle would soon be unviable.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What detrimental effect has been done?",
+        "start_offset": 0,
+        "end_offset": 38,
+        "start": 2.66,
+        "end": 13.002
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 39,
+        "end_offset": 47,
+        "start": 13.022,
+        "end": 13.362
+      },
+      {
+        "segment": "There will be some discomfort.",
+        "start_offset": 48,
+        "end_offset": 78,
+        "start": 14.942,
+        "end": 21.143
+      },
+      {
+        "segment": "However, we were fortunate in that this instrument was very open to us and well-tuned.",
+        "start_offset": 79,
+        "end_offset": 165,
+        "start": 22.803,
+        "end": 46.146
+      },
+      {
+        "segment": "Had we not been able to reach this instrument and instruct you, the instrument's physical vehicle would soon be unviable.",
+        "start_offset": 166,
+        "end_offset": 287,
+        "start": 47.526,
+        "end": 80.49
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.66,
+        "end": 2.86,
+        "score": -9.521
+      },
+      {
+        "word": "detrimental",
+        "start_offset": 5,
+        "end_offset": 16,
+        "start": 4.301,
+        "end": 4.821,
+        "score": -7.4498
+      },
+      {
+        "word": "effect",
+        "start_offset": 17,
+        "end_offset": 23,
+        "start": 4.881,
+        "end": 5.301,
+        "score": -8.2619
+      },
+      {
+        "word": "has",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 11.061,
+        "end": 12.122,
+        "score": -6.1268
+      },
+      {
+        "word": "been",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 12.142,
+        "end": 12.902,
+        "score": -5.9332
+      },
+      {
+        "word": "done?",
+        "start_offset": 33,
+        "end_offset": 38,
+        "start": 12.922,
+        "end": 13.002,
+        "score": -7.3745
+      },
+      {
+        "word": "I",
+        "start_offset": 39,
+        "end_offset": 40,
+        "start": 13.022,
+        "end": 13.042,
+        "score": -8.7166
+      },
+      {
+        "word": "am",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 13.082,
+        "end": 13.142,
+        "score": -5.7502
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 13.262,
+        "end": 13.362,
+        "score": -6.5276
+      },
+      {
+        "word": "There",
+        "start_offset": 48,
+        "end_offset": 53,
+        "start": 14.942,
+        "end": 15.342,
+        "score": -0.7793
+      },
+      {
+        "word": "will",
+        "start_offset": 54,
+        "end_offset": 58,
+        "start": 16.042,
+        "end": 16.402,
+        "score": -0.8121
+      },
+      {
+        "word": "be",
+        "start_offset": 59,
+        "end_offset": 61,
+        "start": 17.022,
+        "end": 17.142,
+        "score": -0.6965
+      },
+      {
+        "word": "some",
+        "start_offset": 62,
+        "end_offset": 66,
+        "start": 18.082,
+        "end": 18.482,
+        "score": -0.7197
+      },
+      {
+        "word": "discomfort.",
+        "start_offset": 67,
+        "end_offset": 78,
+        "start": 19.743,
+        "end": 21.143,
+        "score": -0.6965
+      },
+      {
+        "word": "However,",
+        "start_offset": 79,
+        "end_offset": 87,
+        "start": 22.803,
+        "end": 24.083,
+        "score": -0.7395
+      },
+      {
+        "word": "we",
+        "start_offset": 88,
+        "end_offset": 90,
+        "start": 25.763,
+        "end": 25.923,
+        "score": -0.7159
+      },
+      {
+        "word": "were",
+        "start_offset": 91,
+        "end_offset": 95,
+        "start": 26.923,
+        "end": 27.244,
+        "score": -0.7235
+      },
+      {
+        "word": "fortunate",
+        "start_offset": 96,
+        "end_offset": 105,
+        "start": 27.744,
+        "end": 29.344,
+        "score": -0.9403
+      },
+      {
+        "word": "in",
+        "start_offset": 106,
+        "end_offset": 108,
+        "start": 30.864,
+        "end": 31.204,
+        "score": -0.7051
+      },
+      {
+        "word": "that",
+        "start_offset": 109,
+        "end_offset": 113,
+        "start": 31.724,
+        "end": 32.164,
+        "score": -0.7072
+      },
+      {
+        "word": "this",
+        "start_offset": 114,
+        "end_offset": 118,
+        "start": 32.664,
+        "end": 33.124,
+        "score": -0.7192
+      },
+      {
+        "word": "instrument",
+        "start_offset": 119,
+        "end_offset": 129,
+        "start": 33.844,
+        "end": 35.205,
+        "score": -0.6995
+      },
+      {
+        "word": "was",
+        "start_offset": 130,
+        "end_offset": 133,
+        "start": 36.485,
+        "end": 36.965,
+        "score": -0.6982
+      },
+      {
+        "word": "very",
+        "start_offset": 134,
+        "end_offset": 138,
+        "start": 37.625,
+        "end": 38.225,
+        "score": -0.7045
+      },
+      {
+        "word": "open",
+        "start_offset": 139,
+        "end_offset": 143,
+        "start": 39.045,
+        "end": 39.685,
+        "score": -0.7002
+      },
+      {
+        "word": "to",
+        "start_offset": 144,
+        "end_offset": 146,
+        "start": 40.305,
+        "end": 40.525,
+        "score": -0.765
+      },
+      {
+        "word": "us",
+        "start_offset": 147,
+        "end_offset": 149,
+        "start": 42.045,
+        "end": 42.405,
+        "score": -0.729
+      },
+      {
+        "word": "and",
+        "start_offset": 150,
+        "end_offset": 153,
+        "start": 43.246,
+        "end": 43.606,
+        "score": -0.7295
+      },
+      {
+        "word": "well-tuned.",
+        "start_offset": 154,
+        "end_offset": 165,
+        "start": 44.286,
+        "end": 46.146,
+        "score": -1.0592
+      },
+      {
+        "word": "Had",
+        "start_offset": 166,
+        "end_offset": 169,
+        "start": 47.526,
+        "end": 47.986,
+        "score": -0.7182
+      },
+      {
+        "word": "we",
+        "start_offset": 170,
+        "end_offset": 172,
+        "start": 48.606,
+        "end": 48.746,
+        "score": -0.7086
+      },
+      {
+        "word": "not",
+        "start_offset": 173,
+        "end_offset": 176,
+        "start": 49.726,
+        "end": 50.146,
+        "score": -0.7019
+      },
+      {
+        "word": "been",
+        "start_offset": 177,
+        "end_offset": 181,
+        "start": 51.007,
+        "end": 51.407,
+        "score": -0.9035
+      },
+      {
+        "word": "able",
+        "start_offset": 182,
+        "end_offset": 186,
+        "start": 52.167,
+        "end": 52.727,
+        "score": -0.7361
+      },
+      {
+        "word": "to",
+        "start_offset": 187,
+        "end_offset": 189,
+        "start": 53.687,
+        "end": 53.887,
+        "score": -0.7065
+      },
+      {
+        "word": "reach",
+        "start_offset": 190,
+        "end_offset": 195,
+        "start": 55.367,
+        "end": 55.827,
+        "score": -0.7062
+      },
+      {
+        "word": "this",
+        "start_offset": 196,
+        "end_offset": 200,
+        "start": 56.727,
+        "end": 57.167,
+        "score": -0.8067
+      },
+      {
+        "word": "instrument",
+        "start_offset": 201,
+        "end_offset": 211,
+        "start": 58.308,
+        "end": 59.708,
+        "score": -0.7061
+      },
+      {
+        "word": "and",
+        "start_offset": 212,
+        "end_offset": 215,
+        "start": 61.048,
+        "end": 61.408,
+        "score": -0.7174
+      },
+      {
+        "word": "instruct",
+        "start_offset": 216,
+        "end_offset": 224,
+        "start": 62.228,
+        "end": 63.408,
+        "score": -0.6986
+      },
+      {
+        "word": "you,",
+        "start_offset": 225,
+        "end_offset": 229,
+        "start": 63.908,
+        "end": 64.088,
+        "score": -0.7212
+      },
+      {
+        "word": "the",
+        "start_offset": 230,
+        "end_offset": 233,
+        "start": 65.628,
+        "end": 65.769,
+        "score": -0.7351
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 234,
+        "end_offset": 246,
+        "start": 66.849,
+        "end": 68.549,
+        "score": -1.329
+      },
+      {
+        "word": "physical",
+        "start_offset": 247,
+        "end_offset": 255,
+        "start": 69.909,
+        "end": 71.269,
+        "score": -0.8862
+      },
+      {
+        "word": "vehicle",
+        "start_offset": 256,
+        "end_offset": 263,
+        "start": 72.529,
+        "end": 73.69,
+        "score": -0.7249
+      },
+      {
+        "word": "would",
+        "start_offset": 264,
+        "end_offset": 269,
+        "start": 75.03,
+        "end": 75.39,
+        "score": -0.8246
+      },
+      {
+        "word": "soon",
+        "start_offset": 270,
+        "end_offset": 274,
+        "start": 76.13,
+        "end": 76.53,
+        "score": -0.9776
+      },
+      {
+        "word": "be",
+        "start_offset": 275,
+        "end_offset": 277,
+        "start": 77.23,
+        "end": 77.37,
+        "score": -0.6967
+      },
+      {
+        "word": "unviable.",
+        "start_offset": 278,
+        "end_offset": 287,
+        "start": 78.15,
+        "end": 80.49,
+        "score": -0.7489
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "062-05.mp3",
+    "audio_duration": 82.0506,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

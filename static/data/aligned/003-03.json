@@ -1,0 +1,291 @@
+{
+  "text": "After moving the items. Is this the proper position? I am Ra. Please correct the angle of the incense so that it is perpendicular to the plane of twenty degrees north-by-northeast.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "After moving the items.",
+        "start_offset": 0,
+        "end_offset": 23,
+        "start": 2.901,
+        "end": 3.881
+      },
+      {
+        "segment": "Is this the proper position?",
+        "start_offset": 24,
+        "end_offset": 52,
+        "start": 3.941,
+        "end": 14.903
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 53,
+        "end_offset": 61,
+        "start": 14.943,
+        "end": 17.584
+      },
+      {
+        "segment": "Please correct the angle of the incense so that it is perpendicular to the plane of twenty degrees north-by-northeast.",
+        "start_offset": 62,
+        "end_offset": 180,
+        "start": 20.924,
+        "end": 61.793
+      }
+    ],
+    "word": [
+      {
+        "word": "After",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.901,
+        "end": 3.161,
+        "score": -7.3631
+      },
+      {
+        "word": "moving",
+        "start_offset": 6,
+        "end_offset": 12,
+        "start": 3.341,
+        "end": 3.541,
+        "score": -6.8844
+      },
+      {
+        "word": "the",
+        "start_offset": 13,
+        "end_offset": 16,
+        "start": 3.561,
+        "end": 3.641,
+        "score": -3.9323
+      },
+      {
+        "word": "items.",
+        "start_offset": 17,
+        "end_offset": 23,
+        "start": 3.661,
+        "end": 3.881,
+        "score": -6.1042
+      },
+      {
+        "word": "Is",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 3.941,
+        "end": 4.061,
+        "score": -5.0273
+      },
+      {
+        "word": "this",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 6.041,
+        "end": 10.782,
+        "score": -3.7993
+      },
+      {
+        "word": "the",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 10.802,
+        "end": 10.882,
+        "score": -3.35
+      },
+      {
+        "word": "proper",
+        "start_offset": 36,
+        "end_offset": 42,
+        "start": 14.383,
+        "end": 14.503,
+        "score": -5.3814
+      },
+      {
+        "word": "position?",
+        "start_offset": 43,
+        "end_offset": 52,
+        "start": 14.543,
+        "end": 14.903,
+        "score": -6.2652
+      },
+      {
+        "word": "I",
+        "start_offset": 53,
+        "end_offset": 54,
+        "start": 14.943,
+        "end": 14.963,
+        "score": -8.027
+      },
+      {
+        "word": "am",
+        "start_offset": 55,
+        "end_offset": 57,
+        "start": 15.063,
+        "end": 15.163,
+        "score": -8.2558
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 58,
+        "end_offset": 61,
+        "start": 17.304,
+        "end": 17.584,
+        "score": -7.5866
+      },
+      {
+        "word": "Please",
+        "start_offset": 62,
+        "end_offset": 68,
+        "start": 20.924,
+        "end": 21.825,
+        "score": -1.9947
+      },
+      {
+        "word": "correct",
+        "start_offset": 69,
+        "end_offset": 76,
+        "start": 23.125,
+        "end": 23.865,
+        "score": -0.7475
+      },
+      {
+        "word": "the",
+        "start_offset": 77,
+        "end_offset": 80,
+        "start": 24.805,
+        "end": 24.945,
+        "score": -0.9089
+      },
+      {
+        "word": "angle",
+        "start_offset": 81,
+        "end_offset": 86,
+        "start": 26.906,
+        "end": 27.326,
+        "score": -0.8801
+      },
+      {
+        "word": "of",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 28.686,
+        "end": 28.906,
+        "score": -0.8109
+      },
+      {
+        "word": "the",
+        "start_offset": 90,
+        "end_offset": 93,
+        "start": 30.186,
+        "end": 30.306,
+        "score": -1.2036
+      },
+      {
+        "word": "incense",
+        "start_offset": 94,
+        "end_offset": 101,
+        "start": 33.287,
+        "end": 34.027,
+        "score": -1.0929
+      },
+      {
+        "word": "so",
+        "start_offset": 102,
+        "end_offset": 104,
+        "start": 35.648,
+        "end": 35.768,
+        "score": -0.7337
+      },
+      {
+        "word": "that",
+        "start_offset": 105,
+        "end_offset": 109,
+        "start": 35.948,
+        "end": 36.268,
+        "score": -0.7857
+      },
+      {
+        "word": "it",
+        "start_offset": 110,
+        "end_offset": 112,
+        "start": 37.568,
+        "end": 37.748,
+        "score": -0.7146
+      },
+      {
+        "word": "is",
+        "start_offset": 113,
+        "end_offset": 115,
+        "start": 39.068,
+        "end": 39.388,
+        "score": -0.7889
+      },
+      {
+        "word": "perpendicular",
+        "start_offset": 116,
+        "end_offset": 129,
+        "start": 41.169,
+        "end": 42.269,
+        "score": -0.7661
+      },
+      {
+        "word": "to",
+        "start_offset": 130,
+        "end_offset": 132,
+        "start": 43.649,
+        "end": 43.889,
+        "score": -1.1554
+      },
+      {
+        "word": "the",
+        "start_offset": 133,
+        "end_offset": 136,
+        "start": 45.37,
+        "end": 45.53,
+        "score": -0.858
+      },
+      {
+        "word": "plane",
+        "start_offset": 137,
+        "end_offset": 142,
+        "start": 47.41,
+        "end": 47.93,
+        "score": -1.0557
+      },
+      {
+        "word": "of",
+        "start_offset": 143,
+        "end_offset": 145,
+        "start": 49.551,
+        "end": 49.751,
+        "score": -0.8768
+      },
+      {
+        "word": "twenty",
+        "start_offset": 146,
+        "end_offset": 152,
+        "start": 52.491,
+        "end": 53.011,
+        "score": -7.6521
+      },
+      {
+        "word": "degrees",
+        "start_offset": 153,
+        "end_offset": 160,
+        "start": 53.912,
+        "end": 54.652,
+        "score": -4.4657
+      },
+      {
+        "word": "north-by-northeast.",
+        "start_offset": 161,
+        "end_offset": 180,
+        "start": 57.932,
+        "end": 61.793,
+        "score": -1.3677
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "003-03.mp3",
+    "audio_duration": 63.0335,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

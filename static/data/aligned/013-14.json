@@ -1,0 +1,498 @@
+{
+  "text": "Could you tell me how the individualized portion of intelligent infinity created our galaxy that the same portion created our planetary system and, if so, how this came about? I am Ra. We may have misperceived your query. We were under the distortion/impression that we had responded to this particular query. Would you restate the query?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you tell me how the individualized portion of intelligent infinity created our galaxy that the same portion created our planetary system and, if so, how this came about?",
+        "start_offset": 0,
+        "end_offset": 175,
+        "start": 3.621,
+        "end": 66.052
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 176,
+        "end_offset": 184,
+        "start": 66.072,
+        "end": 66.272
+      },
+      {
+        "segment": "We may have misperceived your query.",
+        "start_offset": 185,
+        "end_offset": 221,
+        "start": 66.452,
+        "end": 73.113
+      },
+      {
+        "segment": "We were under the distortion/impression that we had responded to this particular query.",
+        "start_offset": 222,
+        "end_offset": 309,
+        "start": 74.533,
+        "end": 95.237
+      },
+      {
+        "segment": "Would you restate the query?",
+        "start_offset": 310,
+        "end_offset": 338,
+        "start": 96.497,
+        "end": 101.818
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 3.621,
+        "end": 3.861,
+        "score": -9.0038
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 7.281,
+        "end": 7.421,
+        "score": -7.5636
+      },
+      {
+        "word": "tell",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 7.621,
+        "end": 7.741,
+        "score": -8.5033
+      },
+      {
+        "word": "me",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 7.781,
+        "end": 7.861,
+        "score": -6.2993
+      },
+      {
+        "word": "how",
+        "start_offset": 18,
+        "end_offset": 21,
+        "start": 14.503,
+        "end": 14.563,
+        "score": -6.6303
+      },
+      {
+        "word": "the",
+        "start_offset": 22,
+        "end_offset": 25,
+        "start": 14.703,
+        "end": 14.783,
+        "score": -5.5825
+      },
+      {
+        "word": "individualized",
+        "start_offset": 26,
+        "end_offset": 40,
+        "start": 14.803,
+        "end": 19.543,
+        "score": -9.0532
+      },
+      {
+        "word": "portion",
+        "start_offset": 41,
+        "end_offset": 48,
+        "start": 26.405,
+        "end": 26.825,
+        "score": -6.6309
+      },
+      {
+        "word": "of",
+        "start_offset": 49,
+        "end_offset": 51,
+        "start": 26.905,
+        "end": 27.025,
+        "score": -10.3861
+      },
+      {
+        "word": "intelligent",
+        "start_offset": 52,
+        "end_offset": 63,
+        "start": 27.045,
+        "end": 37.287,
+        "score": -8.3115
+      },
+      {
+        "word": "infinity",
+        "start_offset": 64,
+        "end_offset": 72,
+        "start": 38.807,
+        "end": 46.968,
+        "score": -8.6496
+      },
+      {
+        "word": "created",
+        "start_offset": 73,
+        "end_offset": 80,
+        "start": 46.988,
+        "end": 47.168,
+        "score": -9.0128
+      },
+      {
+        "word": "our",
+        "start_offset": 81,
+        "end_offset": 84,
+        "start": 47.188,
+        "end": 47.248,
+        "score": -9.1658
+      },
+      {
+        "word": "galaxy",
+        "start_offset": 85,
+        "end_offset": 91,
+        "start": 47.268,
+        "end": 59.69,
+        "score": -8.6097
+      },
+      {
+        "word": "that",
+        "start_offset": 92,
+        "end_offset": 96,
+        "start": 59.71,
+        "end": 59.97,
+        "score": -7.8866
+      },
+      {
+        "word": "the",
+        "start_offset": 97,
+        "end_offset": 100,
+        "start": 59.99,
+        "end": 60.651,
+        "score": -6.5494
+      },
+      {
+        "word": "same",
+        "start_offset": 101,
+        "end_offset": 105,
+        "start": 60.731,
+        "end": 60.911,
+        "score": -5.8089
+      },
+      {
+        "word": "portion",
+        "start_offset": 106,
+        "end_offset": 113,
+        "start": 61.551,
+        "end": 61.691,
+        "score": -7.264
+      },
+      {
+        "word": "created",
+        "start_offset": 114,
+        "end_offset": 121,
+        "start": 61.711,
+        "end": 61.851,
+        "score": -6.4664
+      },
+      {
+        "word": "our",
+        "start_offset": 122,
+        "end_offset": 125,
+        "start": 61.931,
+        "end": 61.991,
+        "score": -4.9163
+      },
+      {
+        "word": "planetary",
+        "start_offset": 126,
+        "end_offset": 135,
+        "start": 62.011,
+        "end": 62.191,
+        "score": -6.8437
+      },
+      {
+        "word": "system",
+        "start_offset": 136,
+        "end_offset": 142,
+        "start": 62.231,
+        "end": 62.351,
+        "score": -8.1754
+      },
+      {
+        "word": "and,",
+        "start_offset": 143,
+        "end_offset": 147,
+        "start": 62.371,
+        "end": 62.431,
+        "score": -8.6
+      },
+      {
+        "word": "if",
+        "start_offset": 148,
+        "end_offset": 150,
+        "start": 62.471,
+        "end": 62.511,
+        "score": -9.9884
+      },
+      {
+        "word": "so,",
+        "start_offset": 151,
+        "end_offset": 154,
+        "start": 62.551,
+        "end": 64.571,
+        "score": -8.0307
+      },
+      {
+        "word": "how",
+        "start_offset": 155,
+        "end_offset": 158,
+        "start": 64.611,
+        "end": 64.691,
+        "score": -5.2703
+      },
+      {
+        "word": "this",
+        "start_offset": 159,
+        "end_offset": 163,
+        "start": 64.711,
+        "end": 64.831,
+        "score": -6.6291
+      },
+      {
+        "word": "came",
+        "start_offset": 164,
+        "end_offset": 168,
+        "start": 64.851,
+        "end": 64.931,
+        "score": -8.2646
+      },
+      {
+        "word": "about?",
+        "start_offset": 169,
+        "end_offset": 175,
+        "start": 64.951,
+        "end": 66.052,
+        "score": -10.9509
+      },
+      {
+        "word": "I",
+        "start_offset": 176,
+        "end_offset": 177,
+        "start": 66.072,
+        "end": 66.092,
+        "score": -8.9628
+      },
+      {
+        "word": "am",
+        "start_offset": 178,
+        "end_offset": 180,
+        "start": 66.112,
+        "end": 66.152,
+        "score": -4.2268
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 181,
+        "end_offset": 184,
+        "start": 66.232,
+        "end": 66.272,
+        "score": -6.2352
+      },
+      {
+        "word": "We",
+        "start_offset": 185,
+        "end_offset": 187,
+        "start": 66.452,
+        "end": 66.492,
+        "score": -7.4396
+      },
+      {
+        "word": "may",
+        "start_offset": 188,
+        "end_offset": 191,
+        "start": 66.512,
+        "end": 66.752,
+        "score": -10.2617
+      },
+      {
+        "word": "have",
+        "start_offset": 192,
+        "end_offset": 196,
+        "start": 67.312,
+        "end": 67.732,
+        "score": -0.8352
+      },
+      {
+        "word": "misperceived",
+        "start_offset": 197,
+        "end_offset": 209,
+        "start": 68.512,
+        "end": 70.632,
+        "score": -1.1675
+      },
+      {
+        "word": "your",
+        "start_offset": 210,
+        "end_offset": 214,
+        "start": 71.292,
+        "end": 71.553,
+        "score": -2.5032
+      },
+      {
+        "word": "query.",
+        "start_offset": 215,
+        "end_offset": 221,
+        "start": 72.473,
+        "end": 73.113,
+        "score": -3.0548
+      },
+      {
+        "word": "We",
+        "start_offset": 222,
+        "end_offset": 224,
+        "start": 74.533,
+        "end": 74.653,
+        "score": -1.3781
+      },
+      {
+        "word": "were",
+        "start_offset": 225,
+        "end_offset": 229,
+        "start": 77.714,
+        "end": 78.014,
+        "score": -0.9449
+      },
+      {
+        "word": "under",
+        "start_offset": 230,
+        "end_offset": 235,
+        "start": 80.714,
+        "end": 81.034,
+        "score": -0.7393
+      },
+      {
+        "word": "the",
+        "start_offset": 236,
+        "end_offset": 239,
+        "start": 81.734,
+        "end": 81.874,
+        "score": -1.5928
+      },
+      {
+        "word": "distortion/impression",
+        "start_offset": 240,
+        "end_offset": 261,
+        "start": 83.095,
+        "end": 85.515,
+        "score": -1.1641
+      },
+      {
+        "word": "that",
+        "start_offset": 262,
+        "end_offset": 266,
+        "start": 86.435,
+        "end": 86.775,
+        "score": -3.8427
+      },
+      {
+        "word": "we",
+        "start_offset": 267,
+        "end_offset": 269,
+        "start": 87.675,
+        "end": 87.835,
+        "score": -1.2044
+      },
+      {
+        "word": "had",
+        "start_offset": 270,
+        "end_offset": 273,
+        "start": 88.575,
+        "end": 88.936,
+        "score": -0.7227
+      },
+      {
+        "word": "responded",
+        "start_offset": 274,
+        "end_offset": 283,
+        "start": 89.536,
+        "end": 90.696,
+        "score": -0.8528
+      },
+      {
+        "word": "to",
+        "start_offset": 284,
+        "end_offset": 286,
+        "start": 91.536,
+        "end": 91.676,
+        "score": -0.7386
+      },
+      {
+        "word": "this",
+        "start_offset": 287,
+        "end_offset": 291,
+        "start": 92.176,
+        "end": 92.496,
+        "score": -0.8091
+      },
+      {
+        "word": "particular",
+        "start_offset": 292,
+        "end_offset": 302,
+        "start": 93.196,
+        "end": 94.216,
+        "score": -0.7331
+      },
+      {
+        "word": "query.",
+        "start_offset": 303,
+        "end_offset": 309,
+        "start": 94.897,
+        "end": 95.237,
+        "score": -4.7207
+      },
+      {
+        "word": "Would",
+        "start_offset": 310,
+        "end_offset": 315,
+        "start": 96.497,
+        "end": 96.777,
+        "score": -1.1195
+      },
+      {
+        "word": "you",
+        "start_offset": 316,
+        "end_offset": 319,
+        "start": 97.257,
+        "end": 97.397,
+        "score": -1.3408
+      },
+      {
+        "word": "restate",
+        "start_offset": 320,
+        "end_offset": 327,
+        "start": 98.457,
+        "end": 99.917,
+        "score": -1.9587
+      },
+      {
+        "word": "the",
+        "start_offset": 328,
+        "end_offset": 331,
+        "start": 100.638,
+        "end": 100.798,
+        "score": -0.9825
+      },
+      {
+        "word": "query?",
+        "start_offset": 332,
+        "end_offset": 338,
+        "start": 101.478,
+        "end": 101.818,
+        "score": -4.0932
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "013-14.mp3",
+    "audio_duration": 105.0384,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

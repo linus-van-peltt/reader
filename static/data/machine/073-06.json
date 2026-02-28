@@ -1,0 +1,107 @@
+{
+  "text": "Could you tell me I'm wrong in that statement? I am",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you tell me I'm wrong in that statement?",
+        "start_offset": 16,
+        "end_offset": 71,
+        "start": 1.28,
+        "end": 5.68
+      },
+      {
+        "segment": "I am",
+        "start_offset": 103,
+        "end_offset": 121,
+        "start": 8.24,
+        "end": 9.68
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 16,
+        "end_offset": 24,
+        "start": 1.28,
+        "end": 1.92
+      },
+      {
+        "word": "you",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 1.92,
+        "end": 2.16
+      },
+      {
+        "word": "tell",
+        "start_offset": 27,
+        "end_offset": 34,
+        "start": 2.16,
+        "end": 2.72
+      },
+      {
+        "word": "me",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 2.72,
+        "end": 3.04
+      },
+      {
+        "word": "I'm",
+        "start_offset": 47,
+        "end_offset": 53,
+        "start": 3.7600000000000002,
+        "end": 4.24
+      },
+      {
+        "word": "wrong",
+        "start_offset": 53,
+        "end_offset": 57,
+        "start": 4.24,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "in",
+        "start_offset": 57,
+        "end_offset": 60,
+        "start": 4.5600000000000005,
+        "end": 4.8
+      },
+      {
+        "word": "that",
+        "start_offset": 60,
+        "end_offset": 63,
+        "start": 4.8,
+        "end": 5.04
+      },
+      {
+        "word": "statement?",
+        "start_offset": 63,
+        "end_offset": 71,
+        "start": 5.04,
+        "end": 5.68
+      },
+      {
+        "word": "I",
+        "start_offset": 103,
+        "end_offset": 106,
+        "start": 8.24,
+        "end": 8.48
+      },
+      {
+        "word": "am",
+        "start_offset": 119,
+        "end_offset": 121,
+        "start": 9.52,
+        "end": 9.68
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "073-06.mp3",
+    "audio_duration": 14.03,
+    "transcription_time": 0.08,
+    "rtfx": 168.95,
+    "timestamp": "2026-01-06T21:55:21.395321+00:00"
+  }
+}

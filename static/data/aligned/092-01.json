@@ -1,0 +1,292 @@
+{
+  "text": "Could you first please give me the condition of the instrument? I am Ra. The condition of this instrument is slightly more distorted towards weakness in each respect since the previous asking.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you first please give me the condition of the instrument?",
+        "start_offset": 0,
+        "end_offset": 63,
+        "start": 0.0,
+        "end": 25.703
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 64,
+        "end_offset": 72,
+        "start": 25.783,
+        "end": 25.923
+      },
+      {
+        "segment": "The condition of this instrument is slightly more distorted towards weakness in each respect since the previous asking.",
+        "start_offset": 73,
+        "end_offset": 192,
+        "start": 25.943,
+        "end": 56.608
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 0.0,
+        "end": 0.28,
+        "score": -10.9062
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 0.32,
+        "end": 0.38,
+        "score": -10.4357
+      },
+      {
+        "word": "first",
+        "start_offset": 10,
+        "end_offset": 15,
+        "start": 0.46,
+        "end": 1.2,
+        "score": -8.1037
+      },
+      {
+        "word": "please",
+        "start_offset": 16,
+        "end_offset": 22,
+        "start": 1.3,
+        "end": 1.44,
+        "score": -8.5586
+      },
+      {
+        "word": "give",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 1.46,
+        "end": 1.62,
+        "score": -6.5474
+      },
+      {
+        "word": "me",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 1.64,
+        "end": 1.68,
+        "score": -8.6037
+      },
+      {
+        "word": "the",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 1.74,
+        "end": 1.8,
+        "score": -6.1697
+      },
+      {
+        "word": "condition",
+        "start_offset": 35,
+        "end_offset": 44,
+        "start": 1.84,
+        "end": 13.402,
+        "score": -7.9012
+      },
+      {
+        "word": "of",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 13.482,
+        "end": 21.023,
+        "score": -10.6704
+      },
+      {
+        "word": "the",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 21.063,
+        "end": 21.183,
+        "score": -2.0917
+      },
+      {
+        "word": "instrument?",
+        "start_offset": 52,
+        "end_offset": 63,
+        "start": 21.203,
+        "end": 25.703,
+        "score": -8.9172
+      },
+      {
+        "word": "I",
+        "start_offset": 64,
+        "end_offset": 65,
+        "start": 25.783,
+        "end": 25.803,
+        "score": -9.9165
+      },
+      {
+        "word": "am",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 25.823,
+        "end": 25.863,
+        "score": -8.3807
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 25.883,
+        "end": 25.923,
+        "score": -8.6722
+      },
+      {
+        "word": "The",
+        "start_offset": 73,
+        "end_offset": 76,
+        "start": 25.943,
+        "end": 26.003,
+        "score": -4.5655
+      },
+      {
+        "word": "condition",
+        "start_offset": 77,
+        "end_offset": 86,
+        "start": 26.063,
+        "end": 26.804,
+        "score": -0.7611
+      },
+      {
+        "word": "of",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 27.284,
+        "end": 27.484,
+        "score": -0.7761
+      },
+      {
+        "word": "this",
+        "start_offset": 90,
+        "end_offset": 94,
+        "start": 27.704,
+        "end": 28.024,
+        "score": -0.7855
+      },
+      {
+        "word": "instrument",
+        "start_offset": 95,
+        "end_offset": 105,
+        "start": 28.244,
+        "end": 29.384,
+        "score": -0.7922
+      },
+      {
+        "word": "is",
+        "start_offset": 106,
+        "end_offset": 108,
+        "start": 31.124,
+        "end": 31.504,
+        "score": -0.802
+      },
+      {
+        "word": "slightly",
+        "start_offset": 109,
+        "end_offset": 117,
+        "start": 33.184,
+        "end": 33.925,
+        "score": -2.0111
+      },
+      {
+        "word": "more",
+        "start_offset": 118,
+        "end_offset": 122,
+        "start": 35.545,
+        "end": 35.945,
+        "score": -0.8017
+      },
+      {
+        "word": "distorted",
+        "start_offset": 123,
+        "end_offset": 132,
+        "start": 36.225,
+        "end": 37.265,
+        "score": -1.6175
+      },
+      {
+        "word": "towards",
+        "start_offset": 133,
+        "end_offset": 140,
+        "start": 37.425,
+        "end": 38.305,
+        "score": -0.7942
+      },
+      {
+        "word": "weakness",
+        "start_offset": 141,
+        "end_offset": 149,
+        "start": 40.765,
+        "end": 41.686,
+        "score": -0.8847
+      },
+      {
+        "word": "in",
+        "start_offset": 150,
+        "end_offset": 152,
+        "start": 45.046,
+        "end": 45.246,
+        "score": -0.8131
+      },
+      {
+        "word": "each",
+        "start_offset": 153,
+        "end_offset": 157,
+        "start": 46.246,
+        "end": 46.606,
+        "score": -0.8489
+      },
+      {
+        "word": "respect",
+        "start_offset": 158,
+        "end_offset": 165,
+        "start": 48.527,
+        "end": 49.607,
+        "score": -1.1278
+      },
+      {
+        "word": "since",
+        "start_offset": 166,
+        "end_offset": 171,
+        "start": 51.747,
+        "end": 52.227,
+        "score": -0.7577
+      },
+      {
+        "word": "the",
+        "start_offset": 172,
+        "end_offset": 175,
+        "start": 52.387,
+        "end": 52.507,
+        "score": -0.8159
+      },
+      {
+        "word": "previous",
+        "start_offset": 176,
+        "end_offset": 184,
+        "start": 53.087,
+        "end": 54.187,
+        "score": -2.1885
+      },
+      {
+        "word": "asking.",
+        "start_offset": 185,
+        "end_offset": 192,
+        "start": 55.968,
+        "end": 56.608,
+        "score": -0.8679
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "092-01.mp3",
+    "audio_duration": 61.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

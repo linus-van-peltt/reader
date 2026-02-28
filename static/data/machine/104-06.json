@@ -1,0 +1,317 @@
+{
+  "text": "Is there anything we can do to uh alleviate the situation? I am well there is a course of therapy, which would aid the situation. However, we do not recommend it as the condition is more benign than the treatment.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there anything we can do to uh alleviate the situation?",
+        "start_offset": 28,
+        "end_offset": 80,
+        "start": 2.24,
+        "end": 6.4
+      },
+      {
+        "segment": "I am well there is a course of therapy, which would aid the situation.",
+        "start_offset": 143,
+        "end_offset": 473,
+        "start": 11.44,
+        "end": 37.84
+      },
+      {
+        "segment": "However, we do not recommend it as the condition is more benign than the treatment.",
+        "start_offset": 531,
+        "end_offset": 908,
+        "start": 42.480000000000004,
+        "end": 72.64
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 2.24,
+        "end": 2.56
+      },
+      {
+        "word": "there",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 2.56,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "anything",
+        "start_offset": 35,
+        "end_offset": 41,
+        "start": 2.8000000000000003,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "we",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 3.2800000000000002,
+        "end": 3.52
+      },
+      {
+        "word": "can",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 3.52,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "do",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 3.7600000000000002,
+        "end": 4.08
+      },
+      {
+        "word": "to",
+        "start_offset": 51,
+        "end_offset": 53,
+        "start": 4.08,
+        "end": 4.24
+      },
+      {
+        "word": "uh",
+        "start_offset": 53,
+        "end_offset": 56,
+        "start": 4.24,
+        "end": 4.48
+      },
+      {
+        "word": "alleviate",
+        "start_offset": 58,
+        "end_offset": 68,
+        "start": 4.64,
+        "end": 5.44
+      },
+      {
+        "word": "the",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 5.44,
+        "end": 5.76
+      },
+      {
+        "word": "situation?",
+        "start_offset": 72,
+        "end_offset": 80,
+        "start": 5.76,
+        "end": 6.4
+      },
+      {
+        "word": "I",
+        "start_offset": 143,
+        "end_offset": 147,
+        "start": 11.44,
+        "end": 11.76
+      },
+      {
+        "word": "am",
+        "start_offset": 161,
+        "end_offset": 165,
+        "start": 12.88,
+        "end": 13.200000000000001
+      },
+      {
+        "word": "well",
+        "start_offset": 179,
+        "end_offset": 182,
+        "start": 14.32,
+        "end": 14.56
+      },
+      {
+        "word": "there",
+        "start_offset": 229,
+        "end_offset": 233,
+        "start": 18.32,
+        "end": 18.64
+      },
+      {
+        "word": "is",
+        "start_offset": 241,
+        "end_offset": 245,
+        "start": 19.28,
+        "end": 19.6
+      },
+      {
+        "word": "a",
+        "start_offset": 253,
+        "end_offset": 256,
+        "start": 20.240000000000002,
+        "end": 20.48
+      },
+      {
+        "word": "course",
+        "start_offset": 312,
+        "end_offset": 321,
+        "start": 24.96,
+        "end": 25.68
+      },
+      {
+        "word": "of",
+        "start_offset": 329,
+        "end_offset": 333,
+        "start": 26.32,
+        "end": 26.64
+      },
+      {
+        "word": "therapy,",
+        "start_offset": 345,
+        "end_offset": 362,
+        "start": 27.6,
+        "end": 28.96
+      },
+      {
+        "word": "which",
+        "start_offset": 394,
+        "end_offset": 398,
+        "start": 31.52,
+        "end": 31.84
+      },
+      {
+        "word": "would",
+        "start_offset": 414,
+        "end_offset": 418,
+        "start": 33.12,
+        "end": 33.44
+      },
+      {
+        "word": "aid",
+        "start_offset": 426,
+        "end_offset": 434,
+        "start": 34.08,
+        "end": 34.72
+      },
+      {
+        "word": "the",
+        "start_offset": 438,
+        "end_offset": 442,
+        "start": 35.04,
+        "end": 35.36
+      },
+      {
+        "word": "situation.",
+        "start_offset": 458,
+        "end_offset": 473,
+        "start": 36.64,
+        "end": 37.84
+      },
+      {
+        "word": "However,",
+        "start_offset": 531,
+        "end_offset": 543,
+        "start": 42.480000000000004,
+        "end": 43.44
+      },
+      {
+        "word": "we",
+        "start_offset": 562,
+        "end_offset": 566,
+        "start": 44.96,
+        "end": 45.28
+      },
+      {
+        "word": "do",
+        "start_offset": 574,
+        "end_offset": 578,
+        "start": 45.92,
+        "end": 46.24
+      },
+      {
+        "word": "not",
+        "start_offset": 586,
+        "end_offset": 590,
+        "start": 46.88,
+        "end": 47.2
+      },
+      {
+        "word": "recommend",
+        "start_offset": 610,
+        "end_offset": 637,
+        "start": 48.800000000000004,
+        "end": 50.96
+      },
+      {
+        "word": "it",
+        "start_offset": 657,
+        "end_offset": 661,
+        "start": 52.56,
+        "end": 52.88
+      },
+      {
+        "word": "as",
+        "start_offset": 696,
+        "end_offset": 700,
+        "start": 55.68,
+        "end": 56.0
+      },
+      {
+        "word": "the",
+        "start_offset": 716,
+        "end_offset": 720,
+        "start": 57.28,
+        "end": 57.6
+      },
+      {
+        "word": "condition",
+        "start_offset": 736,
+        "end_offset": 744,
+        "start": 58.88,
+        "end": 59.52
+      },
+      {
+        "word": "is",
+        "start_offset": 772,
+        "end_offset": 776,
+        "start": 61.76,
+        "end": 62.08
+      },
+      {
+        "word": "more",
+        "start_offset": 836,
+        "end_offset": 840,
+        "start": 66.88,
+        "end": 67.2
+      },
+      {
+        "word": "benign",
+        "start_offset": 848,
+        "end_offset": 860,
+        "start": 67.84,
+        "end": 68.8
+      },
+      {
+        "word": "than",
+        "start_offset": 868,
+        "end_offset": 872,
+        "start": 69.44,
+        "end": 69.76
+      },
+      {
+        "word": "the",
+        "start_offset": 884,
+        "end_offset": 888,
+        "start": 70.72,
+        "end": 71.04
+      },
+      {
+        "word": "treatment.",
+        "start_offset": 896,
+        "end_offset": 908,
+        "start": 71.68,
+        "end": 72.64
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "104-06.mp3",
+    "audio_duration": 80.04,
+    "transcription_time": 0.13,
+    "rtfx": 594.62,
+    "timestamp": "2026-01-06T22:00:50.278843+00:00"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "text": "You mean by that uh Arthur Shane? I have that is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "You mean by that uh Arthur Shane?",
+        "start_offset": 37,
+        "end_offset": 71,
+        "start": 2.96,
+        "end": 5.68
+      },
+      {
+        "segment": "I have that is correct.",
+        "start_offset": 120,
+        "end_offset": 234,
+        "start": 9.6,
+        "end": 18.72
+      }
+    ],
+    "word": [
+      {
+        "word": "You",
+        "start_offset": 37,
+        "end_offset": 40,
+        "start": 2.96,
+        "end": 3.2
+      },
+      {
+        "word": "mean",
+        "start_offset": 40,
+        "end_offset": 45,
+        "start": 3.2,
+        "end": 3.6
+      },
+      {
+        "word": "by",
+        "start_offset": 45,
+        "end_offset": 48,
+        "start": 3.6,
+        "end": 3.84
+      },
+      {
+        "word": "that",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 3.84,
+        "end": 4.08
+      },
+      {
+        "word": "uh",
+        "start_offset": 53,
+        "end_offset": 56,
+        "start": 4.24,
+        "end": 4.48
+      },
+      {
+        "word": "Arthur",
+        "start_offset": 59,
+        "end_offset": 66,
+        "start": 4.72,
+        "end": 5.28
+      },
+      {
+        "word": "Shane?",
+        "start_offset": 66,
+        "end_offset": 71,
+        "start": 5.28,
+        "end": 5.68
+      },
+      {
+        "word": "I",
+        "start_offset": 120,
+        "end_offset": 123,
+        "start": 9.6,
+        "end": 9.84
+      },
+      {
+        "word": "have",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 10.88,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "that",
+        "start_offset": 186,
+        "end_offset": 190,
+        "start": 14.88,
+        "end": 15.200000000000001
+      },
+      {
+        "word": "is",
+        "start_offset": 202,
+        "end_offset": 206,
+        "start": 16.16,
+        "end": 16.48
+      },
+      {
+        "word": "correct.",
+        "start_offset": 226,
+        "end_offset": 234,
+        "start": 18.080000000000002,
+        "end": 18.72
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "102-18.mp3",
+    "audio_duration": 20.04,
+    "transcription_time": 0.09,
+    "rtfx": 230.6,
+    "timestamp": "2026-01-06T22:00:36.323959+00:00"
+  }
+}

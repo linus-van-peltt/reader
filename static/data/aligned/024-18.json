@@ -1,0 +1,150 @@
+{
+  "text": "There's one thing that's been bothering me a little bit which I was just reading about…",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "There's one thing that's been bothering me a little bit which I was just reading about…",
+        "start_offset": 0,
+        "end_offset": 87,
+        "start": 0.06,
+        "end": 3.247
+      }
+    ],
+    "word": [
+      {
+        "word": "There's",
+        "start_offset": 0,
+        "end_offset": 7,
+        "start": 0.06,
+        "end": 0.2,
+        "score": -6.4899
+      },
+      {
+        "word": "one",
+        "start_offset": 8,
+        "end_offset": 11,
+        "start": 0.22,
+        "end": 0.321,
+        "score": -1.5609
+      },
+      {
+        "word": "thing",
+        "start_offset": 12,
+        "end_offset": 17,
+        "start": 0.341,
+        "end": 0.501,
+        "score": -1.2677
+      },
+      {
+        "word": "that's",
+        "start_offset": 18,
+        "end_offset": 24,
+        "start": 0.521,
+        "end": 0.641,
+        "score": -4.405
+      },
+      {
+        "word": "been",
+        "start_offset": 25,
+        "end_offset": 29,
+        "start": 0.682,
+        "end": 0.842,
+        "score": -2.8348
+      },
+      {
+        "word": "bothering",
+        "start_offset": 30,
+        "end_offset": 39,
+        "start": 0.902,
+        "end": 1.343,
+        "score": -0.8078
+      },
+      {
+        "word": "me",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 1.383,
+        "end": 1.443,
+        "score": -2.5126
+      },
+      {
+        "word": "a",
+        "start_offset": 43,
+        "end_offset": 44,
+        "start": 1.463,
+        "end": 1.483,
+        "score": -3.6779
+      },
+      {
+        "word": "little",
+        "start_offset": 45,
+        "end_offset": 51,
+        "start": 1.503,
+        "end": 1.704,
+        "score": -3.9732
+      },
+      {
+        "word": "bit",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 1.764,
+        "end": 1.824,
+        "score": -4.9215
+      },
+      {
+        "word": "which",
+        "start_offset": 56,
+        "end_offset": 61,
+        "start": 1.844,
+        "end": 2.004,
+        "score": -0.9135
+      },
+      {
+        "word": "I",
+        "start_offset": 62,
+        "end_offset": 63,
+        "start": 2.065,
+        "end": 2.085,
+        "score": -2.5832
+      },
+      {
+        "word": "was",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 2.145,
+        "end": 2.245,
+        "score": -0.8972
+      },
+      {
+        "word": "just",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 2.285,
+        "end": 2.486,
+        "score": -0.7036
+      },
+      {
+        "word": "reading",
+        "start_offset": 73,
+        "end_offset": 80,
+        "start": 2.566,
+        "end": 2.886,
+        "score": -0.7142
+      },
+      {
+        "word": "about…",
+        "start_offset": 81,
+        "end_offset": 87,
+        "start": 2.927,
+        "end": 3.247,
+        "score": -3.1847
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "024-18.mp3",
+    "audio_duration": 4.049,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

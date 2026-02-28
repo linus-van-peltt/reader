@@ -1,0 +1,275 @@
+{
+  "text": "Thank you. What is the present situation with respect to our fifth-density negative companion? I am Ra. This entity has withdrawn for a period of restoration of its polarity.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 0,
+        "end_offset": 10,
+        "start": 2.66,
+        "end": 2.92
+      },
+      {
+        "segment": "What is the present situation with respect to our fifth-density negative companion?",
+        "start_offset": 11,
+        "end_offset": 94,
+        "start": 14.102,
+        "end": 22.523
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 95,
+        "end_offset": 103,
+        "start": 30.485,
+        "end": 32.285
+      },
+      {
+        "segment": "This entity has withdrawn for a period of restoration of its polarity.",
+        "start_offset": 104,
+        "end_offset": 174,
+        "start": 38.426,
+        "end": 60.789
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.66,
+        "end": 2.84,
+        "score": -3.8517
+      },
+      {
+        "word": "you.",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 2.86,
+        "end": 2.92,
+        "score": -6.4285
+      },
+      {
+        "word": "What",
+        "start_offset": 11,
+        "end_offset": 15,
+        "start": 14.102,
+        "end": 14.282,
+        "score": -0.829
+      },
+      {
+        "word": "is",
+        "start_offset": 16,
+        "end_offset": 18,
+        "start": 14.322,
+        "end": 14.422,
+        "score": -0.8041
+      },
+      {
+        "word": "the",
+        "start_offset": 19,
+        "end_offset": 22,
+        "start": 14.462,
+        "end": 14.562,
+        "score": -0.8154
+      },
+      {
+        "word": "present",
+        "start_offset": 23,
+        "end_offset": 30,
+        "start": 14.642,
+        "end": 15.122,
+        "score": -0.8183
+      },
+      {
+        "word": "situation",
+        "start_offset": 31,
+        "end_offset": 40,
+        "start": 16.603,
+        "end": 17.323,
+        "score": -0.715
+      },
+      {
+        "word": "with",
+        "start_offset": 41,
+        "end_offset": 45,
+        "start": 17.383,
+        "end": 17.523,
+        "score": -0.7464
+      },
+      {
+        "word": "respect",
+        "start_offset": 46,
+        "end_offset": 53,
+        "start": 17.583,
+        "end": 18.043,
+        "score": -0.8008
+      },
+      {
+        "word": "to",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 18.083,
+        "end": 18.163,
+        "score": -0.8612
+      },
+      {
+        "word": "our",
+        "start_offset": 57,
+        "end_offset": 60,
+        "start": 18.323,
+        "end": 18.463,
+        "score": -1.0401
+      },
+      {
+        "word": "fifth-density",
+        "start_offset": 61,
+        "end_offset": 74,
+        "start": 19.163,
+        "end": 19.963,
+        "score": -1.1085
+      },
+      {
+        "word": "negative",
+        "start_offset": 75,
+        "end_offset": 83,
+        "start": 20.103,
+        "end": 20.603,
+        "score": -0.7215
+      },
+      {
+        "word": "companion?",
+        "start_offset": 84,
+        "end_offset": 94,
+        "start": 21.943,
+        "end": 22.523,
+        "score": -1.2197
+      },
+      {
+        "word": "I",
+        "start_offset": 95,
+        "end_offset": 96,
+        "start": 30.485,
+        "end": 30.505,
+        "score": -1.19
+      },
+      {
+        "word": "am",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 31.125,
+        "end": 31.445,
+        "score": -2.6416
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 100,
+        "end_offset": 103,
+        "start": 32.145,
+        "end": 32.285,
+        "score": -1.1374
+      },
+      {
+        "word": "This",
+        "start_offset": 104,
+        "end_offset": 108,
+        "start": 38.426,
+        "end": 38.786,
+        "score": -0.7348
+      },
+      {
+        "word": "entity",
+        "start_offset": 109,
+        "end_offset": 115,
+        "start": 39.886,
+        "end": 40.366,
+        "score": -0.7097
+      },
+      {
+        "word": "has",
+        "start_offset": 116,
+        "end_offset": 119,
+        "start": 42.847,
+        "end": 43.307,
+        "score": -0.7694
+      },
+      {
+        "word": "withdrawn",
+        "start_offset": 120,
+        "end_offset": 129,
+        "start": 44.467,
+        "end": 45.147,
+        "score": -0.9086
+      },
+      {
+        "word": "for",
+        "start_offset": 130,
+        "end_offset": 133,
+        "start": 47.527,
+        "end": 47.867,
+        "score": -0.8489
+      },
+      {
+        "word": "a",
+        "start_offset": 134,
+        "end_offset": 135,
+        "start": 49.148,
+        "end": 49.168,
+        "score": -0.8815
+      },
+      {
+        "word": "period",
+        "start_offset": 136,
+        "end_offset": 142,
+        "start": 49.428,
+        "end": 50.068,
+        "score": -0.7241
+      },
+      {
+        "word": "of",
+        "start_offset": 143,
+        "end_offset": 145,
+        "start": 51.968,
+        "end": 52.248,
+        "score": -3.7087
+      },
+      {
+        "word": "restoration",
+        "start_offset": 146,
+        "end_offset": 157,
+        "start": 54.468,
+        "end": 55.829,
+        "score": -0.7924
+      },
+      {
+        "word": "of",
+        "start_offset": 158,
+        "end_offset": 160,
+        "start": 57.649,
+        "end": 57.809,
+        "score": -4.0843
+      },
+      {
+        "word": "its",
+        "start_offset": 161,
+        "end_offset": 164,
+        "start": 58.329,
+        "end": 58.589,
+        "score": -1.0658
+      },
+      {
+        "word": "polarity.",
+        "start_offset": 165,
+        "end_offset": 174,
+        "start": 59.789,
+        "end": 60.789,
+        "score": -0.7319
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "087-05.mp3",
+    "audio_duration": 67.0302,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

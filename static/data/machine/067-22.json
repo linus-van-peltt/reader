@@ -1,0 +1,198 @@
+{
+  "text": "Thank you. Is this so-called attack offered to myself and Jim, as well as the instrument I am ra. This is a correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 32,
+        "end_offset": 43,
+        "start": 2.56,
+        "end": 3.44
+      },
+      {
+        "segment": "Is this so-called attack offered to myself and Jim, as well as the instrument I am ra.",
+        "start_offset": 73,
+        "end_offset": 331,
+        "start": 5.84,
+        "end": 26.48
+      },
+      {
+        "segment": "This is a correct.",
+        "start_offset": 350,
+        "end_offset": 378,
+        "start": 28.0,
+        "end": 30.240000000000002
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 32,
+        "end_offset": 39,
+        "start": 2.56,
+        "end": 3.12
+      },
+      {
+        "word": "you.",
+        "start_offset": 39,
+        "end_offset": 43,
+        "start": 3.12,
+        "end": 3.44
+      },
+      {
+        "word": "Is",
+        "start_offset": 73,
+        "end_offset": 77,
+        "start": 5.84,
+        "end": 6.16
+      },
+      {
+        "word": "this",
+        "start_offset": 81,
+        "end_offset": 85,
+        "start": 6.48,
+        "end": 6.8
+      },
+      {
+        "word": "so-called",
+        "start_offset": 96,
+        "end_offset": 108,
+        "start": 7.68,
+        "end": 8.64
+      },
+      {
+        "word": "attack",
+        "start_offset": 111,
+        "end_offset": 123,
+        "start": 8.88,
+        "end": 9.84
+      },
+      {
+        "word": "offered",
+        "start_offset": 159,
+        "end_offset": 170,
+        "start": 12.72,
+        "end": 13.6
+      },
+      {
+        "word": "to",
+        "start_offset": 170,
+        "end_offset": 174,
+        "start": 13.6,
+        "end": 13.92
+      },
+      {
+        "word": "myself",
+        "start_offset": 186,
+        "end_offset": 198,
+        "start": 14.88,
+        "end": 15.84
+      },
+      {
+        "word": "and",
+        "start_offset": 201,
+        "end_offset": 205,
+        "start": 16.080000000000002,
+        "end": 16.4
+      },
+      {
+        "word": "Jim,",
+        "start_offset": 217,
+        "end_offset": 227,
+        "start": 17.36,
+        "end": 18.16
+      },
+      {
+        "word": "as",
+        "start_offset": 233,
+        "end_offset": 237,
+        "start": 18.64,
+        "end": 18.96
+      },
+      {
+        "word": "well",
+        "start_offset": 237,
+        "end_offset": 240,
+        "start": 18.96,
+        "end": 19.2
+      },
+      {
+        "word": "as",
+        "start_offset": 240,
+        "end_offset": 243,
+        "start": 19.2,
+        "end": 19.44
+      },
+      {
+        "word": "the",
+        "start_offset": 243,
+        "end_offset": 247,
+        "start": 19.44,
+        "end": 19.76
+      },
+      {
+        "word": "instrument",
+        "start_offset": 247,
+        "end_offset": 258,
+        "start": 19.76,
+        "end": 20.64
+      },
+      {
+        "word": "I",
+        "start_offset": 307,
+        "end_offset": 311,
+        "start": 24.560000000000002,
+        "end": 24.88
+      },
+      {
+        "word": "am",
+        "start_offset": 318,
+        "end_offset": 321,
+        "start": 25.44,
+        "end": 25.68
+      },
+      {
+        "word": "ra.",
+        "start_offset": 328,
+        "end_offset": 331,
+        "start": 26.240000000000002,
+        "end": 26.48
+      },
+      {
+        "word": "This",
+        "start_offset": 350,
+        "end_offset": 354,
+        "start": 28.0,
+        "end": 28.32
+      },
+      {
+        "word": "is",
+        "start_offset": 358,
+        "end_offset": 362,
+        "start": 28.64,
+        "end": 28.96
+      },
+      {
+        "word": "a",
+        "start_offset": 365,
+        "end_offset": 369,
+        "start": 29.2,
+        "end": 29.52
+      },
+      {
+        "word": "correct.",
+        "start_offset": 369,
+        "end_offset": 378,
+        "start": 29.52,
+        "end": 30.240000000000002
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "067-22.mp3",
+    "audio_duration": 31.03,
+    "transcription_time": 0.1,
+    "rtfx": 324.36,
+    "timestamp": "2026-01-06T21:54:33.106283+00:00"
+  }
+}

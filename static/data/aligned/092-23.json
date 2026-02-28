@@ -1,0 +1,291 @@
+{
+  "text": "In other words, this particular illusion has polarity as its foundation which might be represented by the structural significance of these columns. Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "In other words, this particular illusion has polarity as its foundation which might be represented by the structural significance of these columns.",
+        "start_offset": 0,
+        "end_offset": 147,
+        "start": 2.781,
+        "end": 16.743
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 148,
+        "end_offset": 164,
+        "start": 17.583,
+        "end": 18.304
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 165,
+        "end_offset": 173,
+        "start": 20.584,
+        "end": 22.304
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 174,
+        "end_offset": 190,
+        "start": 23.464,
+        "end": 26.745
+      }
+    ],
+    "word": [
+      {
+        "word": "In",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.781,
+        "end": 2.861,
+        "score": -0.7138
+      },
+      {
+        "word": "other",
+        "start_offset": 3,
+        "end_offset": 8,
+        "start": 2.921,
+        "end": 3.101,
+        "score": -0.7055
+      },
+      {
+        "word": "words,",
+        "start_offset": 9,
+        "end_offset": 15,
+        "start": 3.141,
+        "end": 3.561,
+        "score": -0.6993
+      },
+      {
+        "word": "this",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 5.481,
+        "end": 5.661,
+        "score": -0.7075
+      },
+      {
+        "word": "particular",
+        "start_offset": 21,
+        "end_offset": 31,
+        "start": 5.801,
+        "end": 6.401,
+        "score": -0.7425
+      },
+      {
+        "word": "illusion",
+        "start_offset": 32,
+        "end_offset": 40,
+        "start": 6.421,
+        "end": 6.941,
+        "score": -1.7406
+      },
+      {
+        "word": "has",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 8.202,
+        "end": 8.402,
+        "score": -0.7879
+      },
+      {
+        "word": "polarity",
+        "start_offset": 45,
+        "end_offset": 53,
+        "start": 8.462,
+        "end": 9.002,
+        "score": -0.7097
+      },
+      {
+        "word": "as",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 9.162,
+        "end": 9.302,
+        "score": -0.6988
+      },
+      {
+        "word": "its",
+        "start_offset": 57,
+        "end_offset": 60,
+        "start": 9.362,
+        "end": 9.542,
+        "score": -0.7032
+      },
+      {
+        "word": "foundation",
+        "start_offset": 61,
+        "end_offset": 71,
+        "start": 9.682,
+        "end": 10.422,
+        "score": -0.7184
+      },
+      {
+        "word": "which",
+        "start_offset": 72,
+        "end_offset": 77,
+        "start": 11.382,
+        "end": 11.562,
+        "score": -0.7123
+      },
+      {
+        "word": "might",
+        "start_offset": 78,
+        "end_offset": 83,
+        "start": 11.622,
+        "end": 11.842,
+        "score": -0.7407
+      },
+      {
+        "word": "be",
+        "start_offset": 84,
+        "end_offset": 86,
+        "start": 11.882,
+        "end": 11.942,
+        "score": -0.6986
+      },
+      {
+        "word": "represented",
+        "start_offset": 87,
+        "end_offset": 98,
+        "start": 12.062,
+        "end": 12.722,
+        "score": -0.6963
+      },
+      {
+        "word": "by",
+        "start_offset": 99,
+        "end_offset": 101,
+        "start": 12.802,
+        "end": 13.042,
+        "score": -0.6989
+      },
+      {
+        "word": "the",
+        "start_offset": 102,
+        "end_offset": 105,
+        "start": 13.123,
+        "end": 13.243,
+        "score": -0.7132
+      },
+      {
+        "word": "structural",
+        "start_offset": 106,
+        "end_offset": 116,
+        "start": 14.283,
+        "end": 14.983,
+        "score": -0.7066
+      },
+      {
+        "word": "significance",
+        "start_offset": 117,
+        "end_offset": 129,
+        "start": 15.063,
+        "end": 15.743,
+        "score": -0.7569
+      },
+      {
+        "word": "of",
+        "start_offset": 130,
+        "end_offset": 132,
+        "start": 15.803,
+        "end": 15.863,
+        "score": -0.6987
+      },
+      {
+        "word": "these",
+        "start_offset": 133,
+        "end_offset": 138,
+        "start": 15.903,
+        "end": 16.143,
+        "score": -0.7152
+      },
+      {
+        "word": "columns.",
+        "start_offset": 139,
+        "end_offset": 147,
+        "start": 16.183,
+        "end": 16.743,
+        "score": -2.1041
+      },
+      {
+        "word": "Is",
+        "start_offset": 148,
+        "end_offset": 150,
+        "start": 17.583,
+        "end": 17.663,
+        "score": -1.5034
+      },
+      {
+        "word": "this",
+        "start_offset": 151,
+        "end_offset": 155,
+        "start": 17.683,
+        "end": 17.843,
+        "score": -0.7464
+      },
+      {
+        "word": "correct?",
+        "start_offset": 156,
+        "end_offset": 164,
+        "start": 17.903,
+        "end": 18.304,
+        "score": -0.7615
+      },
+      {
+        "word": "I",
+        "start_offset": 165,
+        "end_offset": 166,
+        "start": 20.584,
+        "end": 20.604,
+        "score": -3.1243
+      },
+      {
+        "word": "am",
+        "start_offset": 167,
+        "end_offset": 169,
+        "start": 21.284,
+        "end": 21.584,
+        "score": -6.0085
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 170,
+        "end_offset": 173,
+        "start": 22.144,
+        "end": 22.304,
+        "score": -7.284
+      },
+      {
+        "word": "This",
+        "start_offset": 174,
+        "end_offset": 178,
+        "start": 23.464,
+        "end": 23.845,
+        "score": -3.1838
+      },
+      {
+        "word": "is",
+        "start_offset": 179,
+        "end_offset": 181,
+        "start": 24.525,
+        "end": 24.865,
+        "score": -2.5404
+      },
+      {
+        "word": "correct.",
+        "start_offset": 182,
+        "end_offset": 190,
+        "start": 26.005,
+        "end": 26.745,
+        "score": -2.3446
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "092-23.mp3",
+    "audio_duration": 32.0261,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

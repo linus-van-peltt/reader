@@ -1,0 +1,483 @@
+{
+  "text": "Then would the adept use this resonant quality to become more one with the creation and, therefore, attain his objective in that way? I am Ra. It would, perhaps, be more accurate to state that in this circumstance the creation becomes more and more contained within the practitioner. The balance of your query is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then would the adept use this resonant quality to become more one with the creation and, therefore, attain his objective in that way?",
+        "start_offset": 0,
+        "end_offset": 133,
+        "start": 2.341,
+        "end": 17.826
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 134,
+        "end_offset": 142,
+        "start": 20.406,
+        "end": 22.667
+      },
+      {
+        "segment": "It would, perhaps, be more accurate to state that in this circumstance the creation becomes more and more contained within the practitioner.",
+        "start_offset": 143,
+        "end_offset": 283,
+        "start": 24.408,
+        "end": 60.959
+      },
+      {
+        "segment": "The balance of your query is correct.",
+        "start_offset": 284,
+        "end_offset": 321,
+        "start": 64.3,
+        "end": 74.023
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.341,
+        "end": 2.521,
+        "score": -1.4867
+      },
+      {
+        "word": "would",
+        "start_offset": 5,
+        "end_offset": 10,
+        "start": 2.581,
+        "end": 2.761,
+        "score": -0.8501
+      },
+      {
+        "word": "the",
+        "start_offset": 11,
+        "end_offset": 14,
+        "start": 2.821,
+        "end": 2.921,
+        "score": -0.8628
+      },
+      {
+        "word": "adept",
+        "start_offset": 15,
+        "end_offset": 20,
+        "start": 3.461,
+        "end": 3.881,
+        "score": -1.4714
+      },
+      {
+        "word": "use",
+        "start_offset": 21,
+        "end_offset": 24,
+        "start": 4.061,
+        "end": 4.381,
+        "score": -0.8148
+      },
+      {
+        "word": "this",
+        "start_offset": 25,
+        "end_offset": 29,
+        "start": 5.322,
+        "end": 5.462,
+        "score": -5.1367
+      },
+      {
+        "word": "resonant",
+        "start_offset": 30,
+        "end_offset": 38,
+        "start": 6.362,
+        "end": 6.842,
+        "score": -1.6146
+      },
+      {
+        "word": "quality",
+        "start_offset": 39,
+        "end_offset": 46,
+        "start": 6.902,
+        "end": 7.422,
+        "score": -0.7085
+      },
+      {
+        "word": "to",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 7.542,
+        "end": 7.642,
+        "score": -0.7086
+      },
+      {
+        "word": "become",
+        "start_offset": 50,
+        "end_offset": 56,
+        "start": 7.722,
+        "end": 8.183,
+        "score": -0.7021
+      },
+      {
+        "word": "more",
+        "start_offset": 57,
+        "end_offset": 61,
+        "start": 8.423,
+        "end": 8.703,
+        "score": -0.761
+      },
+      {
+        "word": "one",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 8.963,
+        "end": 9.183,
+        "score": -0.7653
+      },
+      {
+        "word": "with",
+        "start_offset": 66,
+        "end_offset": 70,
+        "start": 9.243,
+        "end": 9.383,
+        "score": -0.7889
+      },
+      {
+        "word": "the",
+        "start_offset": 71,
+        "end_offset": 74,
+        "start": 9.443,
+        "end": 9.523,
+        "score": -0.7942
+      },
+      {
+        "word": "creation",
+        "start_offset": 75,
+        "end_offset": 83,
+        "start": 9.583,
+        "end": 10.143,
+        "score": -0.7471
+      },
+      {
+        "word": "and,",
+        "start_offset": 84,
+        "end_offset": 88,
+        "start": 10.763,
+        "end": 10.863,
+        "score": -0.7413
+      },
+      {
+        "word": "therefore,",
+        "start_offset": 89,
+        "end_offset": 99,
+        "start": 10.903,
+        "end": 11.464,
+        "score": -0.7999
+      },
+      {
+        "word": "attain",
+        "start_offset": 100,
+        "end_offset": 106,
+        "start": 13.944,
+        "end": 14.425,
+        "score": -1.8598
+      },
+      {
+        "word": "his",
+        "start_offset": 107,
+        "end_offset": 110,
+        "start": 14.525,
+        "end": 14.685,
+        "score": -0.7167
+      },
+      {
+        "word": "objective",
+        "start_offset": 111,
+        "end_offset": 120,
+        "start": 14.765,
+        "end": 15.505,
+        "score": -0.7702
+      },
+      {
+        "word": "in",
+        "start_offset": 121,
+        "end_offset": 123,
+        "start": 17.265,
+        "end": 17.345,
+        "score": -0.7631
+      },
+      {
+        "word": "that",
+        "start_offset": 124,
+        "end_offset": 128,
+        "start": 17.385,
+        "end": 17.566,
+        "score": -0.8781
+      },
+      {
+        "word": "way?",
+        "start_offset": 129,
+        "end_offset": 133,
+        "start": 17.626,
+        "end": 17.826,
+        "score": -0.7275
+      },
+      {
+        "word": "I",
+        "start_offset": 134,
+        "end_offset": 135,
+        "start": 20.406,
+        "end": 20.426,
+        "score": -0.824
+      },
+      {
+        "word": "am",
+        "start_offset": 136,
+        "end_offset": 138,
+        "start": 21.227,
+        "end": 21.447,
+        "score": -1.19
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 139,
+        "end_offset": 142,
+        "start": 22.547,
+        "end": 22.667,
+        "score": -3.6053
+      },
+      {
+        "word": "It",
+        "start_offset": 143,
+        "end_offset": 145,
+        "start": 24.408,
+        "end": 24.628,
+        "score": -0.7169
+      },
+      {
+        "word": "would,",
+        "start_offset": 146,
+        "end_offset": 152,
+        "start": 25.168,
+        "end": 25.468,
+        "score": -0.7429
+      },
+      {
+        "word": "perhaps,",
+        "start_offset": 153,
+        "end_offset": 161,
+        "start": 26.248,
+        "end": 26.969,
+        "score": -0.7014
+      },
+      {
+        "word": "be",
+        "start_offset": 162,
+        "end_offset": 164,
+        "start": 28.049,
+        "end": 28.169,
+        "score": -0.7062
+      },
+      {
+        "word": "more",
+        "start_offset": 165,
+        "end_offset": 169,
+        "start": 28.949,
+        "end": 29.309,
+        "score": -0.9804
+      },
+      {
+        "word": "accurate",
+        "start_offset": 170,
+        "end_offset": 178,
+        "start": 30.65,
+        "end": 31.49,
+        "score": -0.7582
+      },
+      {
+        "word": "to",
+        "start_offset": 179,
+        "end_offset": 181,
+        "start": 31.95,
+        "end": 32.11,
+        "score": -0.7975
+      },
+      {
+        "word": "state",
+        "start_offset": 182,
+        "end_offset": 187,
+        "start": 33.951,
+        "end": 34.431,
+        "score": -0.7011
+      },
+      {
+        "word": "that",
+        "start_offset": 188,
+        "end_offset": 192,
+        "start": 34.871,
+        "end": 35.191,
+        "score": -0.7069
+      },
+      {
+        "word": "in",
+        "start_offset": 193,
+        "end_offset": 195,
+        "start": 37.032,
+        "end": 37.252,
+        "score": -0.7147
+      },
+      {
+        "word": "this",
+        "start_offset": 196,
+        "end_offset": 200,
+        "start": 38.112,
+        "end": 38.452,
+        "score": -0.7816
+      },
+      {
+        "word": "circumstance",
+        "start_offset": 201,
+        "end_offset": 213,
+        "start": 39.352,
+        "end": 41.173,
+        "score": -0.7141
+      },
+      {
+        "word": "the",
+        "start_offset": 214,
+        "end_offset": 217,
+        "start": 42.693,
+        "end": 42.834,
+        "score": -0.8493
+      },
+      {
+        "word": "creation",
+        "start_offset": 218,
+        "end_offset": 226,
+        "start": 44.114,
+        "end": 45.114,
+        "score": -0.7214
+      },
+      {
+        "word": "becomes",
+        "start_offset": 227,
+        "end_offset": 234,
+        "start": 46.715,
+        "end": 47.515,
+        "score": -0.7156
+      },
+      {
+        "word": "more",
+        "start_offset": 235,
+        "end_offset": 239,
+        "start": 49.156,
+        "end": 49.536,
+        "score": -0.758
+      },
+      {
+        "word": "and",
+        "start_offset": 240,
+        "end_offset": 243,
+        "start": 50.236,
+        "end": 50.516,
+        "score": -0.9965
+      },
+      {
+        "word": "more",
+        "start_offset": 244,
+        "end_offset": 248,
+        "start": 51.456,
+        "end": 51.796,
+        "score": -0.724
+      },
+      {
+        "word": "contained",
+        "start_offset": 249,
+        "end_offset": 258,
+        "start": 52.777,
+        "end": 53.877,
+        "score": -0.7451
+      },
+      {
+        "word": "within",
+        "start_offset": 259,
+        "end_offset": 265,
+        "start": 55.217,
+        "end": 55.878,
+        "score": -1.4744
+      },
+      {
+        "word": "the",
+        "start_offset": 266,
+        "end_offset": 269,
+        "start": 57.138,
+        "end": 57.278,
+        "score": -0.8295
+      },
+      {
+        "word": "practitioner.",
+        "start_offset": 270,
+        "end_offset": 283,
+        "start": 59.579,
+        "end": 60.959,
+        "score": -1.1478
+      },
+      {
+        "word": "The",
+        "start_offset": 284,
+        "end_offset": 287,
+        "start": 64.3,
+        "end": 64.44,
+        "score": -1.2795
+      },
+      {
+        "word": "balance",
+        "start_offset": 288,
+        "end_offset": 295,
+        "start": 66.981,
+        "end": 67.681,
+        "score": -0.7214
+      },
+      {
+        "word": "of",
+        "start_offset": 296,
+        "end_offset": 298,
+        "start": 68.282,
+        "end": 68.482,
+        "score": -0.707
+      },
+      {
+        "word": "your",
+        "start_offset": 299,
+        "end_offset": 303,
+        "start": 68.882,
+        "end": 69.202,
+        "score": -0.8253
+      },
+      {
+        "word": "query",
+        "start_offset": 304,
+        "end_offset": 309,
+        "start": 70.702,
+        "end": 71.082,
+        "score": -1.1057
+      },
+      {
+        "word": "is",
+        "start_offset": 310,
+        "end_offset": 312,
+        "start": 71.903,
+        "end": 72.183,
+        "score": -0.7638
+      },
+      {
+        "word": "correct.",
+        "start_offset": 313,
+        "end_offset": 321,
+        "start": 73.383,
+        "end": 74.023,
+        "score": -1.2062
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "075-29.mp3",
+    "audio_duration": 75.0237,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

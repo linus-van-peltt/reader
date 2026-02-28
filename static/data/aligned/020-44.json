@@ -1,0 +1,560 @@
+{
+  "text": "Thank you. We need to know whether or not it is possible to continue with another session later today and if there is anything we can do to make the instrument more comfortable? I am Ra. It is possible. We ask that you observe carefully the alignment of the instrument. Otherwise, you are conscientious. Is there any short query before we close?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 0,
+        "end_offset": 10,
+        "start": 1.28,
+        "end": 6.502
+      },
+      {
+        "segment": "We need to know whether or not it is possible to continue with another session later today and if there is anything we can do to make the instrument more comfortable?",
+        "start_offset": 11,
+        "end_offset": 177,
+        "start": 7.702,
+        "end": 19.345
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 178,
+        "end_offset": 186,
+        "start": 27.367,
+        "end": 29.208
+      },
+      {
+        "segment": "It is possible.",
+        "start_offset": 187,
+        "end_offset": 202,
+        "start": 30.968,
+        "end": 33.529
+      },
+      {
+        "segment": "We ask that you observe carefully the alignment of the instrument.",
+        "start_offset": 203,
+        "end_offset": 269,
+        "start": 34.869,
+        "end": 47.493
+      },
+      {
+        "segment": "Otherwise, you are conscientious.",
+        "start_offset": 270,
+        "end_offset": 303,
+        "start": 48.913,
+        "end": 55.435
+      },
+      {
+        "segment": "Is there any short query before we close?",
+        "start_offset": 304,
+        "end_offset": 345,
+        "start": 56.695,
+        "end": 64.117
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 1.28,
+        "end": 1.48,
+        "score": -4.8665
+      },
+      {
+        "word": "you.",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 6.302,
+        "end": 6.502,
+        "score": -6.8464
+      },
+      {
+        "word": "We",
+        "start_offset": 11,
+        "end_offset": 13,
+        "start": 7.702,
+        "end": 7.782,
+        "score": -0.878
+      },
+      {
+        "word": "need",
+        "start_offset": 14,
+        "end_offset": 18,
+        "start": 7.882,
+        "end": 8.102,
+        "score": -0.7443
+      },
+      {
+        "word": "to",
+        "start_offset": 19,
+        "end_offset": 21,
+        "start": 8.182,
+        "end": 8.282,
+        "score": -0.8166
+      },
+      {
+        "word": "know",
+        "start_offset": 22,
+        "end_offset": 26,
+        "start": 8.602,
+        "end": 8.822,
+        "score": -0.8679
+      },
+      {
+        "word": "whether",
+        "start_offset": 27,
+        "end_offset": 34,
+        "start": 8.922,
+        "end": 9.242,
+        "score": -1.5895
+      },
+      {
+        "word": "or",
+        "start_offset": 35,
+        "end_offset": 37,
+        "start": 9.262,
+        "end": 9.302,
+        "score": -8.1919
+      },
+      {
+        "word": "not",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 9.322,
+        "end": 9.563,
+        "score": -1.1224
+      },
+      {
+        "word": "it",
+        "start_offset": 42,
+        "end_offset": 44,
+        "start": 9.583,
+        "end": 9.703,
+        "score": -5.0934
+      },
+      {
+        "word": "is",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 11.043,
+        "end": 11.143,
+        "score": -1.0186
+      },
+      {
+        "word": "possible",
+        "start_offset": 48,
+        "end_offset": 56,
+        "start": 11.203,
+        "end": 11.723,
+        "score": -1.0181
+      },
+      {
+        "word": "to",
+        "start_offset": 57,
+        "end_offset": 59,
+        "start": 11.923,
+        "end": 12.023,
+        "score": -1.1803
+      },
+      {
+        "word": "continue",
+        "start_offset": 60,
+        "end_offset": 68,
+        "start": 12.163,
+        "end": 12.823,
+        "score": -0.9681
+      },
+      {
+        "word": "with",
+        "start_offset": 69,
+        "end_offset": 73,
+        "start": 13.264,
+        "end": 13.444,
+        "score": -1.1067
+      },
+      {
+        "word": "another",
+        "start_offset": 74,
+        "end_offset": 81,
+        "start": 13.504,
+        "end": 13.924,
+        "score": -0.7204
+      },
+      {
+        "word": "session",
+        "start_offset": 82,
+        "end_offset": 89,
+        "start": 14.004,
+        "end": 14.384,
+        "score": -0.7086
+      },
+      {
+        "word": "later",
+        "start_offset": 90,
+        "end_offset": 95,
+        "start": 14.684,
+        "end": 14.964,
+        "score": -0.7312
+      },
+      {
+        "word": "today",
+        "start_offset": 96,
+        "end_offset": 101,
+        "start": 15.024,
+        "end": 15.384,
+        "score": -0.7227
+      },
+      {
+        "word": "and",
+        "start_offset": 102,
+        "end_offset": 105,
+        "start": 15.924,
+        "end": 16.104,
+        "score": -0.8825
+      },
+      {
+        "word": "if",
+        "start_offset": 106,
+        "end_offset": 108,
+        "start": 16.504,
+        "end": 16.604,
+        "score": -1.1255
+      },
+      {
+        "word": "there",
+        "start_offset": 109,
+        "end_offset": 114,
+        "start": 16.624,
+        "end": 16.764,
+        "score": -1.8972
+      },
+      {
+        "word": "is",
+        "start_offset": 115,
+        "end_offset": 117,
+        "start": 16.784,
+        "end": 16.824,
+        "score": -7.4717
+      },
+      {
+        "word": "anything",
+        "start_offset": 118,
+        "end_offset": 126,
+        "start": 16.864,
+        "end": 17.225,
+        "score": -0.7177
+      },
+      {
+        "word": "we",
+        "start_offset": 127,
+        "end_offset": 129,
+        "start": 17.245,
+        "end": 17.325,
+        "score": -0.7436
+      },
+      {
+        "word": "can",
+        "start_offset": 130,
+        "end_offset": 133,
+        "start": 17.365,
+        "end": 17.505,
+        "score": -0.7125
+      },
+      {
+        "word": "do",
+        "start_offset": 134,
+        "end_offset": 136,
+        "start": 17.545,
+        "end": 17.625,
+        "score": -0.7264
+      },
+      {
+        "word": "to",
+        "start_offset": 137,
+        "end_offset": 139,
+        "start": 17.745,
+        "end": 17.805,
+        "score": -0.7278
+      },
+      {
+        "word": "make",
+        "start_offset": 140,
+        "end_offset": 144,
+        "start": 17.865,
+        "end": 18.045,
+        "score": -0.7349
+      },
+      {
+        "word": "the",
+        "start_offset": 145,
+        "end_offset": 148,
+        "start": 18.085,
+        "end": 18.145,
+        "score": -1.095
+      },
+      {
+        "word": "instrument",
+        "start_offset": 149,
+        "end_offset": 159,
+        "start": 18.245,
+        "end": 18.645,
+        "score": -0.7572
+      },
+      {
+        "word": "more",
+        "start_offset": 160,
+        "end_offset": 164,
+        "start": 18.685,
+        "end": 18.825,
+        "score": -1.9583
+      },
+      {
+        "word": "comfortable?",
+        "start_offset": 165,
+        "end_offset": 177,
+        "start": 18.865,
+        "end": 19.345,
+        "score": -3.8075
+      },
+      {
+        "word": "I",
+        "start_offset": 178,
+        "end_offset": 179,
+        "start": 27.367,
+        "end": 27.387,
+        "score": -0.7606
+      },
+      {
+        "word": "am",
+        "start_offset": 180,
+        "end_offset": 182,
+        "start": 28.167,
+        "end": 28.408,
+        "score": -1.7877
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 183,
+        "end_offset": 186,
+        "start": 29.068,
+        "end": 29.208,
+        "score": -1.144
+      },
+      {
+        "word": "It",
+        "start_offset": 187,
+        "end_offset": 189,
+        "start": 30.968,
+        "end": 31.148,
+        "score": -0.7022
+      },
+      {
+        "word": "is",
+        "start_offset": 190,
+        "end_offset": 192,
+        "start": 31.688,
+        "end": 32.049,
+        "score": -0.7034
+      },
+      {
+        "word": "possible.",
+        "start_offset": 193,
+        "end_offset": 202,
+        "start": 32.609,
+        "end": 33.529,
+        "score": -0.7283
+      },
+      {
+        "word": "We",
+        "start_offset": 203,
+        "end_offset": 205,
+        "start": 34.869,
+        "end": 34.989,
+        "score": -0.7104
+      },
+      {
+        "word": "ask",
+        "start_offset": 206,
+        "end_offset": 209,
+        "start": 35.75,
+        "end": 36.19,
+        "score": -0.7028
+      },
+      {
+        "word": "that",
+        "start_offset": 210,
+        "end_offset": 214,
+        "start": 36.87,
+        "end": 37.19,
+        "score": -0.7394
+      },
+      {
+        "word": "you",
+        "start_offset": 215,
+        "end_offset": 218,
+        "start": 37.49,
+        "end": 37.65,
+        "score": -0.7103
+      },
+      {
+        "word": "observe",
+        "start_offset": 219,
+        "end_offset": 226,
+        "start": 38.93,
+        "end": 39.811,
+        "score": -0.8716
+      },
+      {
+        "word": "carefully",
+        "start_offset": 227,
+        "end_offset": 236,
+        "start": 40.411,
+        "end": 41.151,
+        "score": -0.7293
+      },
+      {
+        "word": "the",
+        "start_offset": 237,
+        "end_offset": 240,
+        "start": 42.271,
+        "end": 42.411,
+        "score": -0.8046
+      },
+      {
+        "word": "alignment",
+        "start_offset": 241,
+        "end_offset": 250,
+        "start": 42.991,
+        "end": 44.272,
+        "score": -1.107
+      },
+      {
+        "word": "of",
+        "start_offset": 251,
+        "end_offset": 253,
+        "start": 45.272,
+        "end": 45.512,
+        "score": -0.6991
+      },
+      {
+        "word": "the",
+        "start_offset": 254,
+        "end_offset": 257,
+        "start": 45.772,
+        "end": 45.912,
+        "score": -0.8054
+      },
+      {
+        "word": "instrument.",
+        "start_offset": 258,
+        "end_offset": 269,
+        "start": 46.452,
+        "end": 47.493,
+        "score": -0.7097
+      },
+      {
+        "word": "Otherwise,",
+        "start_offset": 270,
+        "end_offset": 280,
+        "start": 48.913,
+        "end": 50.013,
+        "score": -0.7123
+      },
+      {
+        "word": "you",
+        "start_offset": 281,
+        "end_offset": 284,
+        "start": 51.574,
+        "end": 51.714,
+        "score": -0.7717
+      },
+      {
+        "word": "are",
+        "start_offset": 285,
+        "end_offset": 288,
+        "start": 52.574,
+        "end": 52.894,
+        "score": -0.8443
+      },
+      {
+        "word": "conscientious.",
+        "start_offset": 289,
+        "end_offset": 303,
+        "start": 53.354,
+        "end": 55.435,
+        "score": -2.6851
+      },
+      {
+        "word": "Is",
+        "start_offset": 304,
+        "end_offset": 306,
+        "start": 56.695,
+        "end": 56.935,
+        "score": -0.7222
+      },
+      {
+        "word": "there",
+        "start_offset": 307,
+        "end_offset": 312,
+        "start": 57.175,
+        "end": 57.535,
+        "score": -0.7302
+      },
+      {
+        "word": "any",
+        "start_offset": 313,
+        "end_offset": 316,
+        "start": 57.975,
+        "end": 58.215,
+        "score": -3.8124
+      },
+      {
+        "word": "short",
+        "start_offset": 317,
+        "end_offset": 322,
+        "start": 58.876,
+        "end": 59.336,
+        "score": -0.7081
+      },
+      {
+        "word": "query",
+        "start_offset": 323,
+        "end_offset": 328,
+        "start": 59.596,
+        "end": 60.196,
+        "score": -0.9856
+      },
+      {
+        "word": "before",
+        "start_offset": 329,
+        "end_offset": 335,
+        "start": 61.136,
+        "end": 62.016,
+        "score": -0.8253
+      },
+      {
+        "word": "we",
+        "start_offset": 336,
+        "end_offset": 338,
+        "start": 62.537,
+        "end": 62.657,
+        "score": -0.7119
+      },
+      {
+        "word": "close?",
+        "start_offset": 339,
+        "end_offset": 345,
+        "start": 63.297,
+        "end": 64.117,
+        "score": -0.787
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "020-44.mp3",
+    "audio_duration": 66.0376,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "text": "Are these one form in particular? I am Ra. These entities may take any thought-form associated with an emotion of fear or terror.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Are these one form in particular?",
+        "start_offset": 0,
+        "end_offset": 33,
+        "start": 1.181,
+        "end": 10.164
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 34,
+        "end_offset": 42,
+        "start": 10.184,
+        "end": 10.385
+      },
+      {
+        "segment": "These entities may take any thought-form associated with an emotion of fear or terror.",
+        "start_offset": 43,
+        "end_offset": 129,
+        "start": 11.405,
+        "end": 29.713
+      }
+    ],
+    "word": [
+      {
+        "word": "Are",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 1.181,
+        "end": 5.722,
+        "score": -7.7872
+      },
+      {
+        "word": "these",
+        "start_offset": 4,
+        "end_offset": 9,
+        "start": 7.203,
+        "end": 8.144,
+        "score": -7.472
+      },
+      {
+        "word": "one",
+        "start_offset": 10,
+        "end_offset": 13,
+        "start": 8.164,
+        "end": 8.404,
+        "score": -5.9094
+      },
+      {
+        "word": "form",
+        "start_offset": 14,
+        "end_offset": 18,
+        "start": 8.424,
+        "end": 8.964,
+        "score": -8.6751
+      },
+      {
+        "word": "in",
+        "start_offset": 19,
+        "end_offset": 21,
+        "start": 9.064,
+        "end": 9.224,
+        "score": -1.8027
+      },
+      {
+        "word": "particular?",
+        "start_offset": 22,
+        "end_offset": 33,
+        "start": 9.804,
+        "end": 10.164,
+        "score": -5.1744
+      },
+      {
+        "word": "I",
+        "start_offset": 34,
+        "end_offset": 35,
+        "start": 10.184,
+        "end": 10.204,
+        "score": -8.361
+      },
+      {
+        "word": "am",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 10.224,
+        "end": 10.264,
+        "score": -8.2343
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 10.284,
+        "end": 10.385,
+        "score": -7.799
+      },
+      {
+        "word": "These",
+        "start_offset": 43,
+        "end_offset": 48,
+        "start": 11.405,
+        "end": 11.865,
+        "score": -1.4128
+      },
+      {
+        "word": "entities",
+        "start_offset": 49,
+        "end_offset": 57,
+        "start": 12.565,
+        "end": 13.426,
+        "score": -1.0118
+      },
+      {
+        "word": "may",
+        "start_offset": 58,
+        "end_offset": 61,
+        "start": 14.226,
+        "end": 14.486,
+        "score": -0.9046
+      },
+      {
+        "word": "take",
+        "start_offset": 62,
+        "end_offset": 66,
+        "start": 14.967,
+        "end": 15.487,
+        "score": -2.4512
+      },
+      {
+        "word": "any",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 16.367,
+        "end": 16.547,
+        "score": -3.5353
+      },
+      {
+        "word": "thought-form",
+        "start_offset": 71,
+        "end_offset": 83,
+        "start": 17.167,
+        "end": 19.408,
+        "score": -3.1535
+      },
+      {
+        "word": "associated",
+        "start_offset": 84,
+        "end_offset": 94,
+        "start": 19.468,
+        "end": 21.149,
+        "score": -2.1187
+      },
+      {
+        "word": "with",
+        "start_offset": 95,
+        "end_offset": 99,
+        "start": 21.95,
+        "end": 22.31,
+        "score": -1.4035
+      },
+      {
+        "word": "an",
+        "start_offset": 100,
+        "end_offset": 102,
+        "start": 23.69,
+        "end": 23.89,
+        "score": -0.7607
+      },
+      {
+        "word": "emotion",
+        "start_offset": 103,
+        "end_offset": 110,
+        "start": 24.511,
+        "end": 25.431,
+        "score": -0.8436
+      },
+      {
+        "word": "of",
+        "start_offset": 111,
+        "end_offset": 113,
+        "start": 26.191,
+        "end": 26.431,
+        "score": -1.1349
+      },
+      {
+        "word": "fear",
+        "start_offset": 114,
+        "end_offset": 118,
+        "start": 27.252,
+        "end": 27.612,
+        "score": -1.9167
+      },
+      {
+        "word": "or",
+        "start_offset": 119,
+        "end_offset": 121,
+        "start": 28.192,
+        "end": 28.352,
+        "score": -1.1274
+      },
+      {
+        "word": "terror.",
+        "start_offset": 122,
+        "end_offset": 129,
+        "start": 29.073,
+        "end": 29.713,
+        "score": -2.2092
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-45.mp3",
+    "audio_duration": 31.0335,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

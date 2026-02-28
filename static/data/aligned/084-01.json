@@ -1,0 +1,291 @@
+{
+  "text": "Could you first please give me the condition of the instrument? I am Ra. The physical complex energy level of the instrument is in sizable deficit. The vital energies are well.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you first please give me the condition of the instrument?",
+        "start_offset": 0,
+        "end_offset": 63,
+        "start": 1.78,
+        "end": 4.581
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 64,
+        "end_offset": 72,
+        "start": 14.983,
+        "end": 17.584
+      },
+      {
+        "segment": "The physical complex energy level of the instrument is in sizable deficit.",
+        "start_offset": 73,
+        "end_offset": 147,
+        "start": 19.864,
+        "end": 40.748
+      },
+      {
+        "segment": "The vital energies are well.",
+        "start_offset": 148,
+        "end_offset": 176,
+        "start": 43.029,
+        "end": 50.69
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 1.78,
+        "end": 1.9,
+        "score": -7.7801
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 1.92,
+        "end": 1.98,
+        "score": -8.2124
+      },
+      {
+        "word": "first",
+        "start_offset": 10,
+        "end_offset": 15,
+        "start": 2.0,
+        "end": 2.32,
+        "score": -3.5991
+      },
+      {
+        "word": "please",
+        "start_offset": 16,
+        "end_offset": 22,
+        "start": 2.581,
+        "end": 2.881,
+        "score": -4.791
+      },
+      {
+        "word": "give",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 2.901,
+        "end": 3.061,
+        "score": -5.0981
+      },
+      {
+        "word": "me",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 3.081,
+        "end": 3.121,
+        "score": -5.2853
+      },
+      {
+        "word": "the",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 3.241,
+        "end": 3.321,
+        "score": -3.8649
+      },
+      {
+        "word": "condition",
+        "start_offset": 35,
+        "end_offset": 44,
+        "start": 3.381,
+        "end": 3.821,
+        "score": -3.1112
+      },
+      {
+        "word": "of",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 3.861,
+        "end": 3.941,
+        "score": -7.3154
+      },
+      {
+        "word": "the",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 3.961,
+        "end": 4.021,
+        "score": -4.5914
+      },
+      {
+        "word": "instrument?",
+        "start_offset": 52,
+        "end_offset": 63,
+        "start": 4.121,
+        "end": 4.581,
+        "score": -2.5431
+      },
+      {
+        "word": "I",
+        "start_offset": 64,
+        "end_offset": 65,
+        "start": 14.983,
+        "end": 15.003,
+        "score": -5.3083
+      },
+      {
+        "word": "am",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 16.423,
+        "end": 16.683,
+        "score": -3.2099
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 17.443,
+        "end": 17.584,
+        "score": -4.287
+      },
+      {
+        "word": "The",
+        "start_offset": 73,
+        "end_offset": 76,
+        "start": 19.864,
+        "end": 20.004,
+        "score": -0.8346
+      },
+      {
+        "word": "physical",
+        "start_offset": 77,
+        "end_offset": 85,
+        "start": 21.084,
+        "end": 22.004,
+        "score": -1.7127
+      },
+      {
+        "word": "complex",
+        "start_offset": 86,
+        "end_offset": 93,
+        "start": 22.925,
+        "end": 24.025,
+        "score": -0.828
+      },
+      {
+        "word": "energy",
+        "start_offset": 94,
+        "end_offset": 100,
+        "start": 25.185,
+        "end": 26.065,
+        "score": -0.8311
+      },
+      {
+        "word": "level",
+        "start_offset": 101,
+        "end_offset": 106,
+        "start": 27.065,
+        "end": 27.686,
+        "score": -1.1465
+      },
+      {
+        "word": "of",
+        "start_offset": 107,
+        "end_offset": 109,
+        "start": 29.486,
+        "end": 29.866,
+        "score": -3.2272
+      },
+      {
+        "word": "the",
+        "start_offset": 110,
+        "end_offset": 113,
+        "start": 29.886,
+        "end": 30.066,
+        "score": -2.8898
+      },
+      {
+        "word": "instrument",
+        "start_offset": 114,
+        "end_offset": 124,
+        "start": 31.126,
+        "end": 32.627,
+        "score": -0.7562
+      },
+      {
+        "word": "is",
+        "start_offset": 125,
+        "end_offset": 127,
+        "start": 33.927,
+        "end": 34.367,
+        "score": -1.4119
+      },
+      {
+        "word": "in",
+        "start_offset": 128,
+        "end_offset": 130,
+        "start": 35.967,
+        "end": 36.167,
+        "score": -0.9251
+      },
+      {
+        "word": "sizable",
+        "start_offset": 131,
+        "end_offset": 138,
+        "start": 36.947,
+        "end": 38.448,
+        "score": -1.6487
+      },
+      {
+        "word": "deficit.",
+        "start_offset": 139,
+        "end_offset": 147,
+        "start": 39.628,
+        "end": 40.748,
+        "score": -0.8205
+      },
+      {
+        "word": "The",
+        "start_offset": 148,
+        "end_offset": 151,
+        "start": 43.029,
+        "end": 43.169,
+        "score": -0.8552
+      },
+      {
+        "word": "vital",
+        "start_offset": 152,
+        "end_offset": 157,
+        "start": 44.429,
+        "end": 45.229,
+        "score": -0.9843
+      },
+      {
+        "word": "energies",
+        "start_offset": 158,
+        "end_offset": 166,
+        "start": 45.949,
+        "end": 47.249,
+        "score": -1.3987
+      },
+      {
+        "word": "are",
+        "start_offset": 167,
+        "end_offset": 170,
+        "start": 48.95,
+        "end": 49.35,
+        "score": -1.9995
+      },
+      {
+        "word": "well.",
+        "start_offset": 171,
+        "end_offset": 176,
+        "start": 50.39,
+        "end": 50.69,
+        "score": -1.5272
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "084-01.mp3",
+    "audio_duration": 57.0514,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

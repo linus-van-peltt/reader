@@ -1,0 +1,268 @@
+{
+  "text": "She would like to know if she has an increased sensitivity to foods. Hi. M R this instrument has an increased sensitivity to all stimuli. It is well that it use prudence.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "She would like to know if she has an increased sensitivity to foods.",
+        "start_offset": 31,
+        "end_offset": 87,
+        "start": 2.48,
+        "end": 6.96
+      },
+      {
+        "segment": "Hi.",
+        "start_offset": 149,
+        "end_offset": 153,
+        "start": 11.92,
+        "end": 12.24
+      },
+      {
+        "segment": "M R this instrument has an increased sensitivity to all stimuli.",
+        "start_offset": 165,
+        "end_offset": 428,
+        "start": 13.200000000000001,
+        "end": 34.24
+      },
+      {
+        "segment": "It is well that it use prudence.",
+        "start_offset": 464,
+        "end_offset": 595,
+        "start": 37.12,
+        "end": 47.6
+      }
+    ],
+    "word": [
+      {
+        "word": "She",
+        "start_offset": 31,
+        "end_offset": 37,
+        "start": 2.48,
+        "end": 2.96
+      },
+      {
+        "word": "would",
+        "start_offset": 37,
+        "end_offset": 40,
+        "start": 2.96,
+        "end": 3.2
+      },
+      {
+        "word": "like",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 3.2,
+        "end": 3.36
+      },
+      {
+        "word": "to",
+        "start_offset": 42,
+        "end_offset": 44,
+        "start": 3.36,
+        "end": 3.52
+      },
+      {
+        "word": "know",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 3.52,
+        "end": 3.68
+      },
+      {
+        "word": "if",
+        "start_offset": 46,
+        "end_offset": 49,
+        "start": 3.68,
+        "end": 3.92
+      },
+      {
+        "word": "she",
+        "start_offset": 49,
+        "end_offset": 51,
+        "start": 3.92,
+        "end": 4.08
+      },
+      {
+        "word": "has",
+        "start_offset": 51,
+        "end_offset": 53,
+        "start": 4.08,
+        "end": 4.24
+      },
+      {
+        "word": "an",
+        "start_offset": 53,
+        "end_offset": 55,
+        "start": 4.24,
+        "end": 4.4
+      },
+      {
+        "word": "increased",
+        "start_offset": 55,
+        "end_offset": 63,
+        "start": 4.4,
+        "end": 5.04
+      },
+      {
+        "word": "sensitivity",
+        "start_offset": 63,
+        "end_offset": 73,
+        "start": 5.04,
+        "end": 5.84
+      },
+      {
+        "word": "to",
+        "start_offset": 73,
+        "end_offset": 77,
+        "start": 5.84,
+        "end": 6.16
+      },
+      {
+        "word": "foods.",
+        "start_offset": 77,
+        "end_offset": 87,
+        "start": 6.16,
+        "end": 6.96
+      },
+      {
+        "word": "Hi.",
+        "start_offset": 149,
+        "end_offset": 153,
+        "start": 11.92,
+        "end": 12.24
+      },
+      {
+        "word": "M",
+        "start_offset": 165,
+        "end_offset": 168,
+        "start": 13.200000000000001,
+        "end": 13.44
+      },
+      {
+        "word": "R",
+        "start_offset": 178,
+        "end_offset": 180,
+        "start": 14.24,
+        "end": 14.4
+      },
+      {
+        "word": "this",
+        "start_offset": 228,
+        "end_offset": 232,
+        "start": 18.240000000000002,
+        "end": 18.56
+      },
+      {
+        "word": "instrument",
+        "start_offset": 244,
+        "end_offset": 256,
+        "start": 19.52,
+        "end": 20.48
+      },
+      {
+        "word": "has",
+        "start_offset": 288,
+        "end_offset": 292,
+        "start": 23.04,
+        "end": 23.36
+      },
+      {
+        "word": "an",
+        "start_offset": 300,
+        "end_offset": 304,
+        "start": 24.0,
+        "end": 24.32
+      },
+      {
+        "word": "increased",
+        "start_offset": 308,
+        "end_offset": 323,
+        "start": 24.64,
+        "end": 25.84
+      },
+      {
+        "word": "sensitivity",
+        "start_offset": 331,
+        "end_offset": 347,
+        "start": 26.48,
+        "end": 27.76
+      },
+      {
+        "word": "to",
+        "start_offset": 367,
+        "end_offset": 371,
+        "start": 29.36,
+        "end": 29.68
+      },
+      {
+        "word": "all",
+        "start_offset": 383,
+        "end_offset": 387,
+        "start": 30.64,
+        "end": 30.96
+      },
+      {
+        "word": "stimuli.",
+        "start_offset": 418,
+        "end_offset": 428,
+        "start": 33.44,
+        "end": 34.24
+      },
+      {
+        "word": "It",
+        "start_offset": 464,
+        "end_offset": 468,
+        "start": 37.12,
+        "end": 37.44
+      },
+      {
+        "word": "is",
+        "start_offset": 472,
+        "end_offset": 476,
+        "start": 37.76,
+        "end": 38.08
+      },
+      {
+        "word": "well",
+        "start_offset": 488,
+        "end_offset": 492,
+        "start": 39.04,
+        "end": 39.36
+      },
+      {
+        "word": "that",
+        "start_offset": 516,
+        "end_offset": 520,
+        "start": 41.28,
+        "end": 41.6
+      },
+      {
+        "word": "it",
+        "start_offset": 532,
+        "end_offset": 536,
+        "start": 42.56,
+        "end": 42.88
+      },
+      {
+        "word": "use",
+        "start_offset": 564,
+        "end_offset": 567,
+        "start": 45.12,
+        "end": 45.36
+      },
+      {
+        "word": "prudence.",
+        "start_offset": 583,
+        "end_offset": 595,
+        "start": 46.64,
+        "end": 47.6
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "081-10.mp3",
+    "audio_duration": 65.04,
+    "transcription_time": 0.12,
+    "rtfx": 524.18,
+    "timestamp": "2026-01-06T21:56:53.724369+00:00"
+  }
+}

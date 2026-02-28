@@ -1,0 +1,142 @@
+{
+  "text": "Raw number sixty, July first, nineteen eighty-one. Of the one infinite creator. We communicate now.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Raw number sixty, July first, nineteen eighty-one.",
+        "start_offset": 27,
+        "end_offset": 68,
+        "start": 2.16,
+        "end": 5.44
+      },
+      {
+        "segment": "Of the one infinite creator.",
+        "start_offset": 95,
+        "end_offset": 198,
+        "start": 7.6000000000000005,
+        "end": 15.84
+      },
+      {
+        "segment": "We communicate now.",
+        "start_offset": 241,
+        "end_offset": 273,
+        "start": 19.28,
+        "end": 21.84
+      }
+    ],
+    "word": [
+      {
+        "word": "Raw",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 2.16,
+        "end": 2.48
+      },
+      {
+        "word": "number",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 2.64,
+        "end": 2.88
+      },
+      {
+        "word": "sixty,",
+        "start_offset": 36,
+        "end_offset": 41,
+        "start": 2.88,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "July",
+        "start_offset": 43,
+        "end_offset": 49,
+        "start": 3.44,
+        "end": 3.92
+      },
+      {
+        "word": "first,",
+        "start_offset": 49,
+        "end_offset": 50,
+        "start": 3.92,
+        "end": 4.0
+      },
+      {
+        "word": "nineteen",
+        "start_offset": 56,
+        "end_offset": 62,
+        "start": 4.48,
+        "end": 4.96
+      },
+      {
+        "word": "eighty-one.",
+        "start_offset": 62,
+        "end_offset": 68,
+        "start": 4.96,
+        "end": 5.44
+      },
+      {
+        "word": "Of",
+        "start_offset": 95,
+        "end_offset": 101,
+        "start": 7.6000000000000005,
+        "end": 8.08
+      },
+      {
+        "word": "the",
+        "start_offset": 111,
+        "end_offset": 115,
+        "start": 8.88,
+        "end": 9.200000000000001
+      },
+      {
+        "word": "one",
+        "start_offset": 119,
+        "end_offset": 122,
+        "start": 9.52,
+        "end": 9.76
+      },
+      {
+        "word": "infinite",
+        "start_offset": 154,
+        "end_offset": 166,
+        "start": 12.32,
+        "end": 13.280000000000001
+      },
+      {
+        "word": "creator.",
+        "start_offset": 190,
+        "end_offset": 198,
+        "start": 15.200000000000001,
+        "end": 15.84
+      },
+      {
+        "word": "We",
+        "start_offset": 241,
+        "end_offset": 245,
+        "start": 19.28,
+        "end": 19.6
+      },
+      {
+        "word": "communicate",
+        "start_offset": 249,
+        "end_offset": 267,
+        "start": 19.92,
+        "end": 21.36
+      },
+      {
+        "word": "now.",
+        "start_offset": 270,
+        "end_offset": 273,
+        "start": 21.6,
+        "end": 21.84
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "060-00.mp3",
+    "audio_duration": 22.05,
+    "transcription_time": 0.09,
+    "rtfx": 251.74,
+    "timestamp": "2026-01-06T21:53:10.095388+00:00"
+  }
+}

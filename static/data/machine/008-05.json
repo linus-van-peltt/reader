@@ -1,0 +1,156 @@
+{
+  "text": "I understand that the United States has these craft undersea places. I am wrong. You are correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I understand that the United States has these craft undersea places.",
+        "start_offset": 31,
+        "end_offset": 116,
+        "start": 2.48,
+        "end": 9.28
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 174,
+        "end_offset": 213,
+        "start": 13.92,
+        "end": 17.04
+      },
+      {
+        "segment": "You are correct.",
+        "start_offset": 237,
+        "end_offset": 281,
+        "start": 18.96,
+        "end": 22.48
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 2.48,
+        "end": 2.64
+      },
+      {
+        "word": "understand",
+        "start_offset": 38,
+        "end_offset": 44,
+        "start": 3.04,
+        "end": 3.52
+      },
+      {
+        "word": "that",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 3.52,
+        "end": 3.68
+      },
+      {
+        "word": "the",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 4.08,
+        "end": 4.32
+      },
+      {
+        "word": "United",
+        "start_offset": 54,
+        "end_offset": 61,
+        "start": 4.32,
+        "end": 4.88
+      },
+      {
+        "word": "States",
+        "start_offset": 61,
+        "end_offset": 68,
+        "start": 4.88,
+        "end": 5.44
+      },
+      {
+        "word": "has",
+        "start_offset": 83,
+        "end_offset": 86,
+        "start": 6.640000000000001,
+        "end": 6.88
+      },
+      {
+        "word": "these",
+        "start_offset": 88,
+        "end_offset": 90,
+        "start": 7.04,
+        "end": 7.2
+      },
+      {
+        "word": "craft",
+        "start_offset": 93,
+        "end_offset": 99,
+        "start": 7.44,
+        "end": 7.92
+      },
+      {
+        "word": "undersea",
+        "start_offset": 103,
+        "end_offset": 110,
+        "start": 8.24,
+        "end": 8.8
+      },
+      {
+        "word": "places.",
+        "start_offset": 112,
+        "end_offset": 116,
+        "start": 8.96,
+        "end": 9.28
+      },
+      {
+        "word": "I",
+        "start_offset": 174,
+        "end_offset": 178,
+        "start": 13.92,
+        "end": 14.24
+      },
+      {
+        "word": "am",
+        "start_offset": 190,
+        "end_offset": 194,
+        "start": 15.200000000000001,
+        "end": 15.52
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 205,
+        "end_offset": 213,
+        "start": 16.4,
+        "end": 17.04
+      },
+      {
+        "word": "You",
+        "start_offset": 237,
+        "end_offset": 241,
+        "start": 18.96,
+        "end": 19.28
+      },
+      {
+        "word": "are",
+        "start_offset": 253,
+        "end_offset": 257,
+        "start": 20.240000000000002,
+        "end": 20.56
+      },
+      {
+        "word": "correct.",
+        "start_offset": 269,
+        "end_offset": 281,
+        "start": 21.52,
+        "end": 22.48
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "008-05.mp3",
+    "audio_duration": 23.04,
+    "transcription_time": 0.09,
+    "rtfx": 270.26,
+    "timestamp": "2026-01-06T21:46:20.465425+00:00"
+  }
+}

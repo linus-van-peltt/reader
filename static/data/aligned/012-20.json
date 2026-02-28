@@ -1,0 +1,164 @@
+{
+  "text": "Is the robot what is normally called \"Men in Black? \" I am Ra. This is incorrect.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is the robot what is normally called \"Men in Black?",
+        "start_offset": 0,
+        "end_offset": 51,
+        "start": 2.902,
+        "end": 7.306
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 54,
+        "end_offset": 62,
+        "start": 10.729,
+        "end": 15.072
+      },
+      {
+        "segment": "This is incorrect.",
+        "start_offset": 63,
+        "end_offset": 81,
+        "start": 15.172,
+        "end": 18.455
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.902,
+        "end": 3.062,
+        "score": -1.062
+      },
+      {
+        "word": "the",
+        "start_offset": 3,
+        "end_offset": 6,
+        "start": 3.423,
+        "end": 3.503,
+        "score": -2.3764
+      },
+      {
+        "word": "robot",
+        "start_offset": 7,
+        "end_offset": 12,
+        "start": 3.563,
+        "end": 4.043,
+        "score": -2.0009
+      },
+      {
+        "word": "what",
+        "start_offset": 13,
+        "end_offset": 17,
+        "start": 4.824,
+        "end": 4.964,
+        "score": -2.8649
+      },
+      {
+        "word": "is",
+        "start_offset": 18,
+        "end_offset": 20,
+        "start": 5.004,
+        "end": 5.104,
+        "score": -0.775
+      },
+      {
+        "word": "normally",
+        "start_offset": 21,
+        "end_offset": 29,
+        "start": 5.164,
+        "end": 5.524,
+        "score": -2.2224
+      },
+      {
+        "word": "called",
+        "start_offset": 30,
+        "end_offset": 36,
+        "start": 5.604,
+        "end": 6.005,
+        "score": -3.0801
+      },
+      {
+        "word": "\"Men",
+        "start_offset": 37,
+        "end_offset": 41,
+        "start": 6.685,
+        "end": 6.845,
+        "score": -2.5965
+      },
+      {
+        "word": "in",
+        "start_offset": 42,
+        "end_offset": 44,
+        "start": 6.905,
+        "end": 6.986,
+        "score": -1.4546
+      },
+      {
+        "word": "Black?",
+        "start_offset": 45,
+        "end_offset": 51,
+        "start": 7.026,
+        "end": 7.306,
+        "score": -0.9541
+      },
+      {
+        "word": "I",
+        "start_offset": 54,
+        "end_offset": 55,
+        "start": 10.729,
+        "end": 10.749,
+        "score": -2.0937
+      },
+      {
+        "word": "am",
+        "start_offset": 56,
+        "end_offset": 58,
+        "start": 11.549,
+        "end": 11.689,
+        "score": -2.7415
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 14.952,
+        "end": 15.072,
+        "score": -2.0207
+      },
+      {
+        "word": "This",
+        "start_offset": 63,
+        "end_offset": 67,
+        "start": 15.172,
+        "end": 15.312,
+        "score": -3.879
+      },
+      {
+        "word": "is",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 15.993,
+        "end": 16.253,
+        "score": -1.7462
+      },
+      {
+        "word": "incorrect.",
+        "start_offset": 71,
+        "end_offset": 81,
+        "start": 17.314,
+        "end": 18.455,
+        "score": -2.3657
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "012-20.mp3",
+    "audio_duration": 20.0359,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

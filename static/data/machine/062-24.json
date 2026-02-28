@@ -1,0 +1,282 @@
+{
+  "text": "Is there something that the instrument could do or we could do for the instrument to eliminate the problem she has, she continually experiences a cold feeling from these attacks. I am wrong. Yes, sir.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there something that the instrument could do or we could do for the instrument to eliminate the problem she has, she continually experiences a cold feeling from these attacks.",
+        "start_offset": 35,
+        "end_offset": 258,
+        "start": 2.8000000000000003,
+        "end": 20.64
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 291,
+        "end_offset": 319,
+        "start": 23.28,
+        "end": 25.52
+      },
+      {
+        "segment": "Yes, sir.",
+        "start_offset": 330,
+        "end_offset": 344,
+        "start": 26.400000000000002,
+        "end": 27.52
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 2.8000000000000003,
+        "end": 3.12
+      },
+      {
+        "word": "there",
+        "start_offset": 39,
+        "end_offset": 43,
+        "start": 3.12,
+        "end": 3.44
+      },
+      {
+        "word": "something",
+        "start_offset": 45,
+        "end_offset": 53,
+        "start": 3.6,
+        "end": 4.24
+      },
+      {
+        "word": "that",
+        "start_offset": 53,
+        "end_offset": 57,
+        "start": 4.24,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "the",
+        "start_offset": 73,
+        "end_offset": 77,
+        "start": 5.84,
+        "end": 6.16
+      },
+      {
+        "word": "instrument",
+        "start_offset": 77,
+        "end_offset": 84,
+        "start": 6.16,
+        "end": 6.72
+      },
+      {
+        "word": "could",
+        "start_offset": 84,
+        "end_offset": 86,
+        "start": 6.72,
+        "end": 6.88
+      },
+      {
+        "word": "do",
+        "start_offset": 86,
+        "end_offset": 88,
+        "start": 6.88,
+        "end": 7.04
+      },
+      {
+        "word": "or",
+        "start_offset": 89,
+        "end_offset": 92,
+        "start": 7.12,
+        "end": 7.36
+      },
+      {
+        "word": "we",
+        "start_offset": 92,
+        "end_offset": 94,
+        "start": 7.36,
+        "end": 7.5200000000000005
+      },
+      {
+        "word": "could",
+        "start_offset": 94,
+        "end_offset": 97,
+        "start": 7.5200000000000005,
+        "end": 7.76
+      },
+      {
+        "word": "do",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 7.76,
+        "end": 7.92
+      },
+      {
+        "word": "for",
+        "start_offset": 99,
+        "end_offset": 102,
+        "start": 7.92,
+        "end": 8.16
+      },
+      {
+        "word": "the",
+        "start_offset": 102,
+        "end_offset": 105,
+        "start": 8.16,
+        "end": 8.4
+      },
+      {
+        "word": "instrument",
+        "start_offset": 105,
+        "end_offset": 113,
+        "start": 8.4,
+        "end": 9.040000000000001
+      },
+      {
+        "word": "to",
+        "start_offset": 117,
+        "end_offset": 121,
+        "start": 9.36,
+        "end": 9.68
+      },
+      {
+        "word": "eliminate",
+        "start_offset": 137,
+        "end_offset": 152,
+        "start": 10.96,
+        "end": 12.16
+      },
+      {
+        "word": "the",
+        "start_offset": 152,
+        "end_offset": 156,
+        "start": 12.16,
+        "end": 12.48
+      },
+      {
+        "word": "problem",
+        "start_offset": 160,
+        "end_offset": 164,
+        "start": 12.8,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "she",
+        "start_offset": 170,
+        "end_offset": 174,
+        "start": 13.6,
+        "end": 13.92
+      },
+      {
+        "word": "has,",
+        "start_offset": 174,
+        "end_offset": 178,
+        "start": 13.92,
+        "end": 14.24
+      },
+      {
+        "word": "she",
+        "start_offset": 187,
+        "end_offset": 191,
+        "start": 14.96,
+        "end": 15.280000000000001
+      },
+      {
+        "word": "continually",
+        "start_offset": 191,
+        "end_offset": 197,
+        "start": 15.280000000000001,
+        "end": 15.76
+      },
+      {
+        "word": "experiences",
+        "start_offset": 200,
+        "end_offset": 209,
+        "start": 16.0,
+        "end": 16.72
+      },
+      {
+        "word": "a",
+        "start_offset": 209,
+        "end_offset": 211,
+        "start": 16.72,
+        "end": 16.88
+      },
+      {
+        "word": "cold",
+        "start_offset": 213,
+        "end_offset": 220,
+        "start": 17.04,
+        "end": 17.6
+      },
+      {
+        "word": "feeling",
+        "start_offset": 220,
+        "end_offset": 230,
+        "start": 17.6,
+        "end": 18.400000000000002
+      },
+      {
+        "word": "from",
+        "start_offset": 230,
+        "end_offset": 234,
+        "start": 18.400000000000002,
+        "end": 18.72
+      },
+      {
+        "word": "these",
+        "start_offset": 238,
+        "end_offset": 242,
+        "start": 19.04,
+        "end": 19.36
+      },
+      {
+        "word": "attacks.",
+        "start_offset": 246,
+        "end_offset": 258,
+        "start": 19.68,
+        "end": 20.64
+      },
+      {
+        "word": "I",
+        "start_offset": 291,
+        "end_offset": 295,
+        "start": 23.28,
+        "end": 23.6
+      },
+      {
+        "word": "am",
+        "start_offset": 301,
+        "end_offset": 304,
+        "start": 24.080000000000002,
+        "end": 24.32
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 310,
+        "end_offset": 319,
+        "start": 24.8,
+        "end": 25.52
+      },
+      {
+        "word": "Yes,",
+        "start_offset": 330,
+        "end_offset": 336,
+        "start": 26.400000000000002,
+        "end": 26.88
+      },
+      {
+        "word": "sir.",
+        "start_offset": 341,
+        "end_offset": 344,
+        "start": 27.28,
+        "end": 27.52
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "062-24.mp3",
+    "audio_duration": 28.03,
+    "transcription_time": 0.09,
+    "rtfx": 297.18,
+    "timestamp": "2026-01-06T21:53:36.974930+00:00"
+  }
+}

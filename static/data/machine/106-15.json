@@ -1,0 +1,338 @@
+{
+  "text": "Would I recommend uh would any precise? Would I think that surgery in my case would be really helpful. I am wrong. We assume you speak of a colonic in this position and its potential aid by your shirts, is this correct?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would I recommend uh would any precise?",
+        "start_offset": 152,
+        "end_offset": 210,
+        "start": 12.16,
+        "end": 16.8
+      },
+      {
+        "segment": "Would I think that surgery in my case would be really helpful.",
+        "start_offset": 243,
+        "end_offset": 314,
+        "start": 19.44,
+        "end": 25.12
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 386,
+        "end_offset": 439,
+        "start": 30.88,
+        "end": 35.12
+      },
+      {
+        "segment": "We assume you speak of a colonic in this position and its potential aid by your shirts, is this correct?",
+        "start_offset": 532,
+        "end_offset": 1062,
+        "start": 42.56,
+        "end": 84.96000000000001
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 152,
+        "end_offset": 157,
+        "start": 12.16,
+        "end": 12.56
+      },
+      {
+        "word": "I",
+        "start_offset": 159,
+        "end_offset": 161,
+        "start": 12.72,
+        "end": 12.88
+      },
+      {
+        "word": "recommend",
+        "start_offset": 164,
+        "end_offset": 174,
+        "start": 13.120000000000001,
+        "end": 13.92
+      },
+      {
+        "word": "uh",
+        "start_offset": 181,
+        "end_offset": 184,
+        "start": 14.48,
+        "end": 14.72
+      },
+      {
+        "word": "would",
+        "start_offset": 191,
+        "end_offset": 194,
+        "start": 15.280000000000001,
+        "end": 15.52
+      },
+      {
+        "word": "any",
+        "start_offset": 200,
+        "end_offset": 201,
+        "start": 16.0,
+        "end": 16.080000000000002
+      },
+      {
+        "word": "precise?",
+        "start_offset": 205,
+        "end_offset": 210,
+        "start": 16.4,
+        "end": 16.8
+      },
+      {
+        "word": "Would",
+        "start_offset": 243,
+        "end_offset": 246,
+        "start": 19.44,
+        "end": 19.68
+      },
+      {
+        "word": "I",
+        "start_offset": 248,
+        "end_offset": 249,
+        "start": 19.84,
+        "end": 19.92
+      },
+      {
+        "word": "think",
+        "start_offset": 253,
+        "end_offset": 256,
+        "start": 20.240000000000002,
+        "end": 20.48
+      },
+      {
+        "word": "that",
+        "start_offset": 259,
+        "end_offset": 263,
+        "start": 20.72,
+        "end": 21.04
+      },
+      {
+        "word": "surgery",
+        "start_offset": 267,
+        "end_offset": 276,
+        "start": 21.36,
+        "end": 22.080000000000002
+      },
+      {
+        "word": "in",
+        "start_offset": 278,
+        "end_offset": 282,
+        "start": 22.240000000000002,
+        "end": 22.56
+      },
+      {
+        "word": "my",
+        "start_offset": 282,
+        "end_offset": 284,
+        "start": 22.56,
+        "end": 22.72
+      },
+      {
+        "word": "case",
+        "start_offset": 284,
+        "end_offset": 287,
+        "start": 22.72,
+        "end": 22.96
+      },
+      {
+        "word": "would",
+        "start_offset": 289,
+        "end_offset": 291,
+        "start": 23.12,
+        "end": 23.28
+      },
+      {
+        "word": "be",
+        "start_offset": 291,
+        "end_offset": 292,
+        "start": 23.28,
+        "end": 23.36
+      },
+      {
+        "word": "really",
+        "start_offset": 294,
+        "end_offset": 296,
+        "start": 23.52,
+        "end": 23.68
+      },
+      {
+        "word": "helpful.",
+        "start_offset": 304,
+        "end_offset": 314,
+        "start": 24.32,
+        "end": 25.12
+      },
+      {
+        "word": "I",
+        "start_offset": 386,
+        "end_offset": 390,
+        "start": 30.88,
+        "end": 31.2
+      },
+      {
+        "word": "am",
+        "start_offset": 406,
+        "end_offset": 409,
+        "start": 32.480000000000004,
+        "end": 32.72
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 433,
+        "end_offset": 439,
+        "start": 34.64,
+        "end": 35.12
+      },
+      {
+        "word": "We",
+        "start_offset": 532,
+        "end_offset": 536,
+        "start": 42.56,
+        "end": 42.88
+      },
+      {
+        "word": "assume",
+        "start_offset": 548,
+        "end_offset": 556,
+        "start": 43.84,
+        "end": 44.480000000000004
+      },
+      {
+        "word": "you",
+        "start_offset": 576,
+        "end_offset": 580,
+        "start": 46.08,
+        "end": 46.4
+      },
+      {
+        "word": "speak",
+        "start_offset": 596,
+        "end_offset": 604,
+        "start": 47.68,
+        "end": 48.32
+      },
+      {
+        "word": "of",
+        "start_offset": 608,
+        "end_offset": 612,
+        "start": 48.64,
+        "end": 48.96
+      },
+      {
+        "word": "a",
+        "start_offset": 646,
+        "end_offset": 649,
+        "start": 51.68,
+        "end": 51.92
+      },
+      {
+        "word": "colonic",
+        "start_offset": 678,
+        "end_offset": 702,
+        "start": 54.24,
+        "end": 56.160000000000004
+      },
+      {
+        "word": "in",
+        "start_offset": 726,
+        "end_offset": 730,
+        "start": 58.08,
+        "end": 58.4
+      },
+      {
+        "word": "this",
+        "start_offset": 734,
+        "end_offset": 738,
+        "start": 58.72,
+        "end": 59.04
+      },
+      {
+        "word": "position",
+        "start_offset": 742,
+        "end_offset": 750,
+        "start": 59.36,
+        "end": 60.0
+      },
+      {
+        "word": "and",
+        "start_offset": 780,
+        "end_offset": 784,
+        "start": 62.4,
+        "end": 62.72
+      },
+      {
+        "word": "its",
+        "start_offset": 796,
+        "end_offset": 800,
+        "start": 63.68,
+        "end": 64.0
+      },
+      {
+        "word": "potential",
+        "start_offset": 840,
+        "end_offset": 856,
+        "start": 67.2,
+        "end": 68.48
+      },
+      {
+        "word": "aid",
+        "start_offset": 893,
+        "end_offset": 899,
+        "start": 71.44,
+        "end": 71.92
+      },
+      {
+        "word": "by",
+        "start_offset": 911,
+        "end_offset": 915,
+        "start": 72.88,
+        "end": 73.2
+      },
+      {
+        "word": "your",
+        "start_offset": 931,
+        "end_offset": 935,
+        "start": 74.48,
+        "end": 74.8
+      },
+      {
+        "word": "shirts,",
+        "start_offset": 947,
+        "end_offset": 959,
+        "start": 75.76,
+        "end": 76.72
+      },
+      {
+        "word": "is",
+        "start_offset": 995,
+        "end_offset": 999,
+        "start": 79.60000000000001,
+        "end": 79.92
+      },
+      {
+        "word": "this",
+        "start_offset": 1030,
+        "end_offset": 1033,
+        "start": 82.4,
+        "end": 82.64
+      },
+      {
+        "word": "correct?",
+        "start_offset": 1053,
+        "end_offset": 1062,
+        "start": 84.24,
+        "end": 84.96000000000001
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "106-15.mp3",
+    "audio_duration": 85.34,
+    "transcription_time": 0.15,
+    "rtfx": 565.87,
+    "timestamp": "2026-01-06T22:01:13.501665+00:00"
+  }
+}

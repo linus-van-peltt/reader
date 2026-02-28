@@ -1,0 +1,58 @@
+{
+  "text": "I have four. Yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I have four.",
+        "start_offset": 72,
+        "end_offset": 103,
+        "start": 5.76,
+        "end": 8.24
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 123,
+        "end_offset": 131,
+        "start": 9.84,
+        "end": 10.48
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 72,
+        "end_offset": 75,
+        "start": 5.76,
+        "end": 6.0
+      },
+      {
+        "word": "have",
+        "start_offset": 86,
+        "end_offset": 89,
+        "start": 6.88,
+        "end": 7.12
+      },
+      {
+        "word": "four.",
+        "start_offset": 98,
+        "end_offset": 103,
+        "start": 7.84,
+        "end": 8.24
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 123,
+        "end_offset": 131,
+        "start": 9.84,
+        "end": 10.48
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "104-21.mp3",
+    "audio_duration": 18.05,
+    "transcription_time": 0.08,
+    "rtfx": 219.85,
+    "timestamp": "2026-01-06T22:00:53.634642+00:00"
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "text": "Could you first please give me the condition of the instrument? I am Ra. There is some small increase in physical energy deficit. It is not substantial. All else is as at the previous asking.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you first please give me the condition of the instrument?",
+        "start_offset": 0,
+        "end_offset": 63,
+        "start": 0.74,
+        "end": 9.544
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 64,
+        "end_offset": 72,
+        "start": 9.924,
+        "end": 12.705
+      },
+      {
+        "segment": "There is some small increase in physical energy deficit.",
+        "start_offset": 73,
+        "end_offset": 129,
+        "start": 17.327,
+        "end": 32.213
+      },
+      {
+        "segment": "It is not substantial.",
+        "start_offset": 130,
+        "end_offset": 152,
+        "start": 35.115,
+        "end": 39.717
+      },
+      {
+        "segment": "All else is as at the previous asking.",
+        "start_offset": 153,
+        "end_offset": 191,
+        "start": 42.758,
+        "end": 54.663
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 0.74,
+        "end": 0.88,
+        "score": -8.4084
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 0.9,
+        "end": 0.96,
+        "score": -7.3252
+      },
+      {
+        "word": "first",
+        "start_offset": 10,
+        "end_offset": 15,
+        "start": 1.04,
+        "end": 1.321,
+        "score": -5.8073
+      },
+      {
+        "word": "please",
+        "start_offset": 16,
+        "end_offset": 22,
+        "start": 1.401,
+        "end": 1.661,
+        "score": -6.2656
+      },
+      {
+        "word": "give",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 1.681,
+        "end": 1.821,
+        "score": -8.0891
+      },
+      {
+        "word": "me",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 1.841,
+        "end": 1.881,
+        "score": -7.0564
+      },
+      {
+        "word": "the",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 1.961,
+        "end": 2.021,
+        "score": -4.745
+      },
+      {
+        "word": "condition",
+        "start_offset": 35,
+        "end_offset": 44,
+        "start": 2.061,
+        "end": 2.481,
+        "score": -5.139
+      },
+      {
+        "word": "of",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 2.501,
+        "end": 2.581,
+        "score": -9.5421
+      },
+      {
+        "word": "the",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 2.601,
+        "end": 2.661,
+        "score": -6.5163
+      },
+      {
+        "word": "instrument?",
+        "start_offset": 52,
+        "end_offset": 63,
+        "start": 2.701,
+        "end": 9.544,
+        "score": -6.7083
+      },
+      {
+        "word": "I",
+        "start_offset": 64,
+        "end_offset": 65,
+        "start": 9.924,
+        "end": 9.944,
+        "score": -1.8836
+      },
+      {
+        "word": "am",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 10.784,
+        "end": 12.305,
+        "score": -6.278
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 12.545,
+        "end": 12.705,
+        "score": -4.2025
+      },
+      {
+        "word": "There",
+        "start_offset": 73,
+        "end_offset": 78,
+        "start": 17.327,
+        "end": 17.707,
+        "score": -0.9597
+      },
+      {
+        "word": "is",
+        "start_offset": 79,
+        "end_offset": 81,
+        "start": 18.248,
+        "end": 18.868,
+        "score": -0.9217
+      },
+      {
+        "word": "some",
+        "start_offset": 82,
+        "end_offset": 86,
+        "start": 19.508,
+        "end": 19.908,
+        "score": -0.7024
+      },
+      {
+        "word": "small",
+        "start_offset": 87,
+        "end_offset": 92,
+        "start": 20.669,
+        "end": 21.189,
+        "score": -0.7517
+      },
+      {
+        "word": "increase",
+        "start_offset": 93,
+        "end_offset": 101,
+        "start": 22.789,
+        "end": 23.81,
+        "score": -1.0289
+      },
+      {
+        "word": "in",
+        "start_offset": 102,
+        "end_offset": 104,
+        "start": 25.13,
+        "end": 25.351,
+        "score": -0.7135
+      },
+      {
+        "word": "physical",
+        "start_offset": 105,
+        "end_offset": 113,
+        "start": 26.551,
+        "end": 28.152,
+        "score": -3.2543
+      },
+      {
+        "word": "energy",
+        "start_offset": 114,
+        "end_offset": 120,
+        "start": 29.632,
+        "end": 30.573,
+        "score": -0.717
+      },
+      {
+        "word": "deficit.",
+        "start_offset": 121,
+        "end_offset": 129,
+        "start": 31.193,
+        "end": 32.213,
+        "score": -0.6985
+      },
+      {
+        "word": "It",
+        "start_offset": 130,
+        "end_offset": 132,
+        "start": 35.115,
+        "end": 35.375,
+        "score": -0.7225
+      },
+      {
+        "word": "is",
+        "start_offset": 133,
+        "end_offset": 135,
+        "start": 36.035,
+        "end": 36.535,
+        "score": -0.7285
+      },
+      {
+        "word": "not",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 37.135,
+        "end": 37.736,
+        "score": -0.8101
+      },
+      {
+        "word": "substantial.",
+        "start_offset": 140,
+        "end_offset": 152,
+        "start": 38.056,
+        "end": 39.717,
+        "score": -1.1751
+      },
+      {
+        "word": "All",
+        "start_offset": 153,
+        "end_offset": 156,
+        "start": 42.758,
+        "end": 43.118,
+        "score": -0.7618
+      },
+      {
+        "word": "else",
+        "start_offset": 157,
+        "end_offset": 161,
+        "start": 43.758,
+        "end": 44.298,
+        "score": -1.382
+      },
+      {
+        "word": "is",
+        "start_offset": 162,
+        "end_offset": 164,
+        "start": 44.879,
+        "end": 45.339,
+        "score": -0.7614
+      },
+      {
+        "word": "as",
+        "start_offset": 165,
+        "end_offset": 167,
+        "start": 46.259,
+        "end": 46.759,
+        "score": -0.7552
+      },
+      {
+        "word": "at",
+        "start_offset": 168,
+        "end_offset": 170,
+        "start": 47.3,
+        "end": 47.68,
+        "score": -0.9039
+      },
+      {
+        "word": "the",
+        "start_offset": 171,
+        "end_offset": 174,
+        "start": 49.3,
+        "end": 49.441,
+        "score": -0.772
+      },
+      {
+        "word": "previous",
+        "start_offset": 175,
+        "end_offset": 183,
+        "start": 50.381,
+        "end": 51.942,
+        "score": -2.3755
+      },
+      {
+        "word": "asking.",
+        "start_offset": 184,
+        "end_offset": 191,
+        "start": 53.862,
+        "end": 54.663,
+        "score": -0.7438
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "094-01.mp3",
+    "audio_duration": 58.0441,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "text": "Would you first please give me an indication of the instrument's condition? This instruments a physical energies are depleted completely. The remainder is as a previously stated.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would you first please give me an indication of the instrument's condition?",
+        "start_offset": 8,
+        "end_offset": 61,
+        "start": 0.64,
+        "end": 4.88
+      },
+      {
+        "segment": "This instruments a physical energies are depleted completely.",
+        "start_offset": 210,
+        "end_offset": 398,
+        "start": 16.8,
+        "end": 31.84
+      },
+      {
+        "segment": "The remainder is as a previously stated.",
+        "start_offset": 451,
+        "end_offset": 562,
+        "start": 36.08,
+        "end": 44.96
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 8,
+        "end_offset": 13,
+        "start": 0.64,
+        "end": 1.04
+      },
+      {
+        "word": "you",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 1.04,
+        "end": 1.2
+      },
+      {
+        "word": "first",
+        "start_offset": 15,
+        "end_offset": 18,
+        "start": 1.2,
+        "end": 1.44
+      },
+      {
+        "word": "please",
+        "start_offset": 19,
+        "end_offset": 24,
+        "start": 1.52,
+        "end": 1.92
+      },
+      {
+        "word": "give",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 1.92,
+        "end": 2.16
+      },
+      {
+        "word": "me",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 2.16,
+        "end": 2.32
+      },
+      {
+        "word": "an",
+        "start_offset": 29,
+        "end_offset": 33,
+        "start": 2.32,
+        "end": 2.64
+      },
+      {
+        "word": "indication",
+        "start_offset": 33,
+        "end_offset": 40,
+        "start": 2.64,
+        "end": 3.2
+      },
+      {
+        "word": "of",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 3.2,
+        "end": 3.36
+      },
+      {
+        "word": "the",
+        "start_offset": 42,
+        "end_offset": 44,
+        "start": 3.36,
+        "end": 3.52
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 44,
+        "end_offset": 53,
+        "start": 3.52,
+        "end": 4.24
+      },
+      {
+        "word": "condition?",
+        "start_offset": 53,
+        "end_offset": 61,
+        "start": 4.24,
+        "end": 4.88
+      },
+      {
+        "word": "This",
+        "start_offset": 210,
+        "end_offset": 214,
+        "start": 16.8,
+        "end": 17.12
+      },
+      {
+        "word": "instruments",
+        "start_offset": 238,
+        "end_offset": 257,
+        "start": 19.04,
+        "end": 20.56
+      },
+      {
+        "word": "a",
+        "start_offset": 274,
+        "end_offset": 276,
+        "start": 21.92,
+        "end": 22.080000000000002
+      },
+      {
+        "word": "physical",
+        "start_offset": 278,
+        "end_offset": 289,
+        "start": 22.240000000000002,
+        "end": 23.12
+      },
+      {
+        "word": "energies",
+        "start_offset": 303,
+        "end_offset": 315,
+        "start": 24.240000000000002,
+        "end": 25.2
+      },
+      {
+        "word": "are",
+        "start_offset": 335,
+        "end_offset": 339,
+        "start": 26.8,
+        "end": 27.12
+      },
+      {
+        "word": "depleted",
+        "start_offset": 347,
+        "end_offset": 361,
+        "start": 27.76,
+        "end": 28.88
+      },
+      {
+        "word": "completely.",
+        "start_offset": 386,
+        "end_offset": 398,
+        "start": 30.88,
+        "end": 31.84
+      },
+      {
+        "word": "The",
+        "start_offset": 451,
+        "end_offset": 455,
+        "start": 36.08,
+        "end": 36.4
+      },
+      {
+        "word": "remainder",
+        "start_offset": 466,
+        "end_offset": 477,
+        "start": 37.28,
+        "end": 38.160000000000004
+      },
+      {
+        "word": "is",
+        "start_offset": 505,
+        "end_offset": 509,
+        "start": 40.4,
+        "end": 40.72
+      },
+      {
+        "word": "as",
+        "start_offset": 513,
+        "end_offset": 517,
+        "start": 41.04,
+        "end": 41.36
+      },
+      {
+        "word": "a",
+        "start_offset": 523,
+        "end_offset": 527,
+        "start": 41.84,
+        "end": 42.160000000000004
+      },
+      {
+        "word": "previously",
+        "start_offset": 527,
+        "end_offset": 544,
+        "start": 42.160000000000004,
+        "end": 43.52
+      },
+      {
+        "word": "stated.",
+        "start_offset": 556,
+        "end_offset": 562,
+        "start": 44.480000000000004,
+        "end": 44.96
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "068-01.mp3",
+    "audio_duration": 46.03,
+    "transcription_time": 0.11,
+    "rtfx": 426.12,
+    "timestamp": "2026-01-06T21:54:36.737960+00:00"
+  }
+}

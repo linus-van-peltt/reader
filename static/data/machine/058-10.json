@@ -1,0 +1,541 @@
+{
+  "text": "The pyramid shape worked just as well right side up as upside down with respect to the surface of the earth, assuming that the magnetic alignment was the same in both cases. I am wrong. We do not penetrate your query, the reversed shape of the pyramid reverses the effects of the pyramid. Further, it is difficult to build such a structure point down. Perhaps we have misinterpreted your query.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "The pyramid shape worked just as well right side up as upside down with respect to the surface of the earth, assuming that the magnetic alignment was the same in both cases.",
+        "start_offset": 36,
+        "end_offset": 203,
+        "start": 2.88,
+        "end": 16.240000000000002
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 280,
+        "end_offset": 316,
+        "start": 22.400000000000002,
+        "end": 25.28
+      },
+      {
+        "segment": "We do not penetrate your query, the reversed shape of the pyramid reverses the effects of the pyramid.",
+        "start_offset": 339,
+        "end_offset": 675,
+        "start": 27.12,
+        "end": 54.0
+      },
+      {
+        "segment": "Further, it is difficult to build such a structure point down.",
+        "start_offset": 689,
+        "end_offset": 857,
+        "start": 55.120000000000005,
+        "end": 68.56
+      },
+      {
+        "segment": "Perhaps we have misinterpreted your query.",
+        "start_offset": 872,
+        "end_offset": 998,
+        "start": 69.76,
+        "end": 79.84
+      }
+    ],
+    "word": [
+      {
+        "word": "The",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 2.88,
+        "end": 3.12
+      },
+      {
+        "word": "pyramid",
+        "start_offset": 39,
+        "end_offset": 47,
+        "start": 3.12,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "shape",
+        "start_offset": 47,
+        "end_offset": 53,
+        "start": 3.7600000000000002,
+        "end": 4.24
+      },
+      {
+        "word": "worked",
+        "start_offset": 53,
+        "end_offset": 58,
+        "start": 4.24,
+        "end": 4.64
+      },
+      {
+        "word": "just",
+        "start_offset": 58,
+        "end_offset": 62,
+        "start": 4.64,
+        "end": 4.96
+      },
+      {
+        "word": "as",
+        "start_offset": 62,
+        "end_offset": 66,
+        "start": 4.96,
+        "end": 5.28
+      },
+      {
+        "word": "well",
+        "start_offset": 66,
+        "end_offset": 70,
+        "start": 5.28,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "right",
+        "start_offset": 74,
+        "end_offset": 77,
+        "start": 5.92,
+        "end": 6.16
+      },
+      {
+        "word": "side",
+        "start_offset": 81,
+        "end_offset": 87,
+        "start": 6.48,
+        "end": 6.96
+      },
+      {
+        "word": "up",
+        "start_offset": 87,
+        "end_offset": 91,
+        "start": 6.96,
+        "end": 7.28
+      },
+      {
+        "word": "as",
+        "start_offset": 91,
+        "end_offset": 95,
+        "start": 7.28,
+        "end": 7.6000000000000005
+      },
+      {
+        "word": "upside",
+        "start_offset": 95,
+        "end_offset": 104,
+        "start": 7.6000000000000005,
+        "end": 8.32
+      },
+      {
+        "word": "down",
+        "start_offset": 104,
+        "end_offset": 108,
+        "start": 8.32,
+        "end": 8.64
+      },
+      {
+        "word": "with",
+        "start_offset": 116,
+        "end_offset": 120,
+        "start": 9.28,
+        "end": 9.6
+      },
+      {
+        "word": "respect",
+        "start_offset": 120,
+        "end_offset": 126,
+        "start": 9.6,
+        "end": 10.08
+      },
+      {
+        "word": "to",
+        "start_offset": 126,
+        "end_offset": 128,
+        "start": 10.08,
+        "end": 10.24
+      },
+      {
+        "word": "the",
+        "start_offset": 128,
+        "end_offset": 130,
+        "start": 10.24,
+        "end": 10.4
+      },
+      {
+        "word": "surface",
+        "start_offset": 130,
+        "end_offset": 136,
+        "start": 10.4,
+        "end": 10.88
+      },
+      {
+        "word": "of",
+        "start_offset": 136,
+        "end_offset": 137,
+        "start": 10.88,
+        "end": 10.96
+      },
+      {
+        "word": "the",
+        "start_offset": 137,
+        "end_offset": 140,
+        "start": 10.96,
+        "end": 11.200000000000001
+      },
+      {
+        "word": "earth,",
+        "start_offset": 140,
+        "end_offset": 146,
+        "start": 11.200000000000001,
+        "end": 11.68
+      },
+      {
+        "word": "assuming",
+        "start_offset": 149,
+        "end_offset": 157,
+        "start": 11.92,
+        "end": 12.56
+      },
+      {
+        "word": "that",
+        "start_offset": 157,
+        "end_offset": 160,
+        "start": 12.56,
+        "end": 12.8
+      },
+      {
+        "word": "the",
+        "start_offset": 160,
+        "end_offset": 164,
+        "start": 12.8,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "magnetic",
+        "start_offset": 164,
+        "end_offset": 172,
+        "start": 13.120000000000001,
+        "end": 13.76
+      },
+      {
+        "word": "alignment",
+        "start_offset": 172,
+        "end_offset": 180,
+        "start": 13.76,
+        "end": 14.4
+      },
+      {
+        "word": "was",
+        "start_offset": 180,
+        "end_offset": 182,
+        "start": 14.4,
+        "end": 14.56
+      },
+      {
+        "word": "the",
+        "start_offset": 182,
+        "end_offset": 184,
+        "start": 14.56,
+        "end": 14.72
+      },
+      {
+        "word": "same",
+        "start_offset": 184,
+        "end_offset": 187,
+        "start": 14.72,
+        "end": 14.96
+      },
+      {
+        "word": "in",
+        "start_offset": 187,
+        "end_offset": 189,
+        "start": 14.96,
+        "end": 15.120000000000001
+      },
+      {
+        "word": "both",
+        "start_offset": 189,
+        "end_offset": 195,
+        "start": 15.120000000000001,
+        "end": 15.6
+      },
+      {
+        "word": "cases.",
+        "start_offset": 195,
+        "end_offset": 203,
+        "start": 15.6,
+        "end": 16.240000000000002
+      },
+      {
+        "word": "I",
+        "start_offset": 280,
+        "end_offset": 284,
+        "start": 22.400000000000002,
+        "end": 22.72
+      },
+      {
+        "word": "am",
+        "start_offset": 292,
+        "end_offset": 296,
+        "start": 23.36,
+        "end": 23.68
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 307,
+        "end_offset": 316,
+        "start": 24.560000000000002,
+        "end": 25.28
+      },
+      {
+        "word": "We",
+        "start_offset": 339,
+        "end_offset": 343,
+        "start": 27.12,
+        "end": 27.44
+      },
+      {
+        "word": "do",
+        "start_offset": 351,
+        "end_offset": 355,
+        "start": 28.080000000000002,
+        "end": 28.400000000000002
+      },
+      {
+        "word": "not",
+        "start_offset": 359,
+        "end_offset": 363,
+        "start": 28.72,
+        "end": 29.04
+      },
+      {
+        "word": "penetrate",
+        "start_offset": 371,
+        "end_offset": 391,
+        "start": 29.68,
+        "end": 31.28
+      },
+      {
+        "word": "your",
+        "start_offset": 399,
+        "end_offset": 403,
+        "start": 31.92,
+        "end": 32.24
+      },
+      {
+        "word": "query,",
+        "start_offset": 415,
+        "end_offset": 423,
+        "start": 33.2,
+        "end": 33.84
+      },
+      {
+        "word": "the",
+        "start_offset": 440,
+        "end_offset": 444,
+        "start": 35.2,
+        "end": 35.52
+      },
+      {
+        "word": "reversed",
+        "start_offset": 480,
+        "end_offset": 492,
+        "start": 38.4,
+        "end": 39.36
+      },
+      {
+        "word": "shape",
+        "start_offset": 500,
+        "end_offset": 508,
+        "start": 40.0,
+        "end": 40.64
+      },
+      {
+        "word": "of",
+        "start_offset": 516,
+        "end_offset": 520,
+        "start": 41.28,
+        "end": 41.6
+      },
+      {
+        "word": "the",
+        "start_offset": 524,
+        "end_offset": 528,
+        "start": 41.92,
+        "end": 42.24
+      },
+      {
+        "word": "pyramid",
+        "start_offset": 544,
+        "end_offset": 558,
+        "start": 43.52,
+        "end": 44.64
+      },
+      {
+        "word": "reverses",
+        "start_offset": 574,
+        "end_offset": 590,
+        "start": 45.92,
+        "end": 47.2
+      },
+      {
+        "word": "the",
+        "start_offset": 602,
+        "end_offset": 606,
+        "start": 48.160000000000004,
+        "end": 48.480000000000004
+      },
+      {
+        "word": "effects",
+        "start_offset": 618,
+        "end_offset": 630,
+        "start": 49.44,
+        "end": 50.4
+      },
+      {
+        "word": "of",
+        "start_offset": 642,
+        "end_offset": 646,
+        "start": 51.36,
+        "end": 51.68
+      },
+      {
+        "word": "the",
+        "start_offset": 650,
+        "end_offset": 654,
+        "start": 52.0,
+        "end": 52.32
+      },
+      {
+        "word": "pyramid.",
+        "start_offset": 662,
+        "end_offset": 675,
+        "start": 52.96,
+        "end": 54.0
+      },
+      {
+        "word": "Further,",
+        "start_offset": 689,
+        "end_offset": 700,
+        "start": 55.120000000000005,
+        "end": 56.0
+      },
+      {
+        "word": "it",
+        "start_offset": 711,
+        "end_offset": 715,
+        "start": 56.88,
+        "end": 57.2
+      },
+      {
+        "word": "is",
+        "start_offset": 719,
+        "end_offset": 723,
+        "start": 57.52,
+        "end": 57.84
+      },
+      {
+        "word": "difficult",
+        "start_offset": 731,
+        "end_offset": 743,
+        "start": 58.480000000000004,
+        "end": 59.44
+      },
+      {
+        "word": "to",
+        "start_offset": 755,
+        "end_offset": 759,
+        "start": 60.4,
+        "end": 60.72
+      },
+      {
+        "word": "build",
+        "start_offset": 787,
+        "end_offset": 795,
+        "start": 62.96,
+        "end": 63.6
+      },
+      {
+        "word": "such",
+        "start_offset": 799,
+        "end_offset": 807,
+        "start": 63.92,
+        "end": 64.56
+      },
+      {
+        "word": "a",
+        "start_offset": 807,
+        "end_offset": 811,
+        "start": 64.56,
+        "end": 64.88
+      },
+      {
+        "word": "structure",
+        "start_offset": 815,
+        "end_offset": 827,
+        "start": 65.2,
+        "end": 66.16
+      },
+      {
+        "word": "point",
+        "start_offset": 837,
+        "end_offset": 841,
+        "start": 66.96000000000001,
+        "end": 67.28
+      },
+      {
+        "word": "down.",
+        "start_offset": 853,
+        "end_offset": 857,
+        "start": 68.24,
+        "end": 68.56
+      },
+      {
+        "word": "Perhaps",
+        "start_offset": 872,
+        "end_offset": 886,
+        "start": 69.76,
+        "end": 70.88
+      },
+      {
+        "word": "we",
+        "start_offset": 898,
+        "end_offset": 902,
+        "start": 71.84,
+        "end": 72.16
+      },
+      {
+        "word": "have",
+        "start_offset": 910,
+        "end_offset": 914,
+        "start": 72.8,
+        "end": 73.12
+      },
+      {
+        "word": "misinterpreted",
+        "start_offset": 930,
+        "end_offset": 966,
+        "start": 74.4,
+        "end": 77.28
+      },
+      {
+        "word": "your",
+        "start_offset": 978,
+        "end_offset": 982,
+        "start": 78.24,
+        "end": 78.56
+      },
+      {
+        "word": "query.",
+        "start_offset": 990,
+        "end_offset": 998,
+        "start": 79.2,
+        "end": 79.84
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "058-10.mp3",
+    "audio_duration": 80.04,
+    "transcription_time": 0.14,
+    "rtfx": 552.83,
+    "timestamp": "2026-01-06T21:52:57.520619+00:00"
+  }
+}

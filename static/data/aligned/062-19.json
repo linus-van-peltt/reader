@@ -1,0 +1,156 @@
+{
+  "text": "Then is the top of the pecking order fifth-density? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then is the top of the pecking order fifth-density?",
+        "start_offset": 0,
+        "end_offset": 51,
+        "start": 0.68,
+        "end": 7.364
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 52,
+        "end_offset": 60,
+        "start": 10.986,
+        "end": 12.848
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 61,
+        "end_offset": 77,
+        "start": 14.408,
+        "end": 17.53
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 0.68,
+        "end": 0.881,
+        "score": -0.778
+      },
+      {
+        "word": "is",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 2.121,
+        "end": 2.241,
+        "score": -1.0917
+      },
+      {
+        "word": "the",
+        "start_offset": 8,
+        "end_offset": 11,
+        "start": 2.321,
+        "end": 2.421,
+        "score": -1.7889
+      },
+      {
+        "word": "top",
+        "start_offset": 12,
+        "end_offset": 15,
+        "start": 3.302,
+        "end": 3.602,
+        "score": -0.7074
+      },
+      {
+        "word": "of",
+        "start_offset": 16,
+        "end_offset": 18,
+        "start": 3.762,
+        "end": 3.822,
+        "score": -0.714
+      },
+      {
+        "word": "the",
+        "start_offset": 19,
+        "end_offset": 22,
+        "start": 3.862,
+        "end": 3.942,
+        "score": -0.7831
+      },
+      {
+        "word": "pecking",
+        "start_offset": 23,
+        "end_offset": 30,
+        "start": 4.082,
+        "end": 4.463,
+        "score": -0.7262
+      },
+      {
+        "word": "order",
+        "start_offset": 31,
+        "end_offset": 36,
+        "start": 4.543,
+        "end": 4.803,
+        "score": -0.7426
+      },
+      {
+        "word": "fifth-density?",
+        "start_offset": 37,
+        "end_offset": 51,
+        "start": 6.624,
+        "end": 7.364,
+        "score": -1.0806
+      },
+      {
+        "word": "I",
+        "start_offset": 52,
+        "end_offset": 53,
+        "start": 10.986,
+        "end": 11.006,
+        "score": -1.0249
+      },
+      {
+        "word": "am",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 11.727,
+        "end": 12.027,
+        "score": -2.0816
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 57,
+        "end_offset": 60,
+        "start": 12.687,
+        "end": 12.848,
+        "score": -3.5122
+      },
+      {
+        "word": "This",
+        "start_offset": 61,
+        "end_offset": 65,
+        "start": 14.408,
+        "end": 14.789,
+        "score": -0.8062
+      },
+      {
+        "word": "is",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 15.529,
+        "end": 15.869,
+        "score": -0.7467
+      },
+      {
+        "word": "correct.",
+        "start_offset": 69,
+        "end_offset": 77,
+        "start": 16.71,
+        "end": 17.53,
+        "score": -1.2405
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "062-19.mp3",
+    "audio_duration": 18.0506,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

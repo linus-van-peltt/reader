@@ -1,0 +1,44 @@
+{
+  "text": "Weak, used, thought.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Weak, used, thought.",
+        "start_offset": 147,
+        "end_offset": 193,
+        "start": 11.76,
+        "end": 15.44
+      }
+    ],
+    "word": [
+      {
+        "word": "Weak,",
+        "start_offset": 147,
+        "end_offset": 158,
+        "start": 11.76,
+        "end": 12.64
+      },
+      {
+        "word": "used,",
+        "start_offset": 166,
+        "end_offset": 173,
+        "start": 13.280000000000001,
+        "end": 13.84
+      },
+      {
+        "word": "thought.",
+        "start_offset": 184,
+        "end_offset": 193,
+        "start": 14.72,
+        "end": 15.44
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "006-05.mp3",
+    "audio_duration": 23.04,
+    "transcription_time": 0.09,
+    "rtfx": 267.83,
+    "timestamp": "2026-01-06T21:46:01.488508+00:00"
+  }
+}

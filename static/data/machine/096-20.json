@@ -1,0 +1,345 @@
+{
+  "text": "Card number three will remove every column of the letters, etc., and the stars. And I assume that it would be advisable to remove all these little cups around the outside of the rays representing the sun. Is that correct? Hi. Yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Card number three will remove every column of the letters, etc., and the stars.",
+        "start_offset": 133,
+        "end_offset": 219,
+        "start": 10.64,
+        "end": 17.52
+      },
+      {
+        "segment": "And I assume that it would be advisable to remove all these little cups around the outside of the rays representing the sun.",
+        "start_offset": 226,
+        "end_offset": 384,
+        "start": 18.080000000000002,
+        "end": 30.72
+      },
+      {
+        "segment": "Is that correct?",
+        "start_offset": 395,
+        "end_offset": 413,
+        "start": 31.6,
+        "end": 33.04
+      },
+      {
+        "segment": "Hi.",
+        "start_offset": 439,
+        "end_offset": 443,
+        "start": 35.12,
+        "end": 35.44
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 490,
+        "end_offset": 496,
+        "start": 39.2,
+        "end": 39.68
+      }
+    ],
+    "word": [
+      {
+        "word": "Card",
+        "start_offset": 133,
+        "end_offset": 139,
+        "start": 10.64,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "number",
+        "start_offset": 141,
+        "end_offset": 147,
+        "start": 11.28,
+        "end": 11.76
+      },
+      {
+        "word": "three",
+        "start_offset": 147,
+        "end_offset": 155,
+        "start": 11.76,
+        "end": 12.4
+      },
+      {
+        "word": "will",
+        "start_offset": 168,
+        "end_offset": 170,
+        "start": 13.44,
+        "end": 13.6
+      },
+      {
+        "word": "remove",
+        "start_offset": 172,
+        "end_offset": 177,
+        "start": 13.76,
+        "end": 14.16
+      },
+      {
+        "word": "every",
+        "start_offset": 177,
+        "end_offset": 181,
+        "start": 14.16,
+        "end": 14.48
+      },
+      {
+        "word": "column",
+        "start_offset": 181,
+        "end_offset": 185,
+        "start": 14.48,
+        "end": 14.8
+      },
+      {
+        "word": "of",
+        "start_offset": 185,
+        "end_offset": 186,
+        "start": 14.8,
+        "end": 14.88
+      },
+      {
+        "word": "the",
+        "start_offset": 186,
+        "end_offset": 187,
+        "start": 14.88,
+        "end": 14.96
+      },
+      {
+        "word": "letters,",
+        "start_offset": 193,
+        "end_offset": 198,
+        "start": 15.44,
+        "end": 15.84
+      },
+      {
+        "word": "etc.,",
+        "start_offset": 199,
+        "end_offset": 202,
+        "start": 15.92,
+        "end": 16.16
+      },
+      {
+        "word": "and",
+        "start_offset": 205,
+        "end_offset": 208,
+        "start": 16.4,
+        "end": 16.64
+      },
+      {
+        "word": "the",
+        "start_offset": 208,
+        "end_offset": 210,
+        "start": 16.64,
+        "end": 16.8
+      },
+      {
+        "word": "stars.",
+        "start_offset": 210,
+        "end_offset": 219,
+        "start": 16.8,
+        "end": 17.52
+      },
+      {
+        "word": "And",
+        "start_offset": 226,
+        "end_offset": 230,
+        "start": 18.080000000000002,
+        "end": 18.400000000000002
+      },
+      {
+        "word": "I",
+        "start_offset": 234,
+        "end_offset": 238,
+        "start": 18.72,
+        "end": 19.04
+      },
+      {
+        "word": "assume",
+        "start_offset": 238,
+        "end_offset": 246,
+        "start": 19.04,
+        "end": 19.68
+      },
+      {
+        "word": "that",
+        "start_offset": 249,
+        "end_offset": 253,
+        "start": 19.92,
+        "end": 20.240000000000002
+      },
+      {
+        "word": "it",
+        "start_offset": 257,
+        "end_offset": 261,
+        "start": 20.56,
+        "end": 20.88
+      },
+      {
+        "word": "would",
+        "start_offset": 261,
+        "end_offset": 265,
+        "start": 20.88,
+        "end": 21.2
+      },
+      {
+        "word": "be",
+        "start_offset": 265,
+        "end_offset": 269,
+        "start": 21.2,
+        "end": 21.52
+      },
+      {
+        "word": "advisable",
+        "start_offset": 289,
+        "end_offset": 301,
+        "start": 23.12,
+        "end": 24.080000000000002
+      },
+      {
+        "word": "to",
+        "start_offset": 305,
+        "end_offset": 308,
+        "start": 24.400000000000002,
+        "end": 24.64
+      },
+      {
+        "word": "remove",
+        "start_offset": 308,
+        "end_offset": 313,
+        "start": 24.64,
+        "end": 25.04
+      },
+      {
+        "word": "all",
+        "start_offset": 313,
+        "end_offset": 316,
+        "start": 25.04,
+        "end": 25.28
+      },
+      {
+        "word": "these",
+        "start_offset": 316,
+        "end_offset": 319,
+        "start": 25.28,
+        "end": 25.52
+      },
+      {
+        "word": "little",
+        "start_offset": 319,
+        "end_offset": 323,
+        "start": 25.52,
+        "end": 25.84
+      },
+      {
+        "word": "cups",
+        "start_offset": 323,
+        "end_offset": 329,
+        "start": 25.84,
+        "end": 26.32
+      },
+      {
+        "word": "around",
+        "start_offset": 329,
+        "end_offset": 333,
+        "start": 26.32,
+        "end": 26.64
+      },
+      {
+        "word": "the",
+        "start_offset": 333,
+        "end_offset": 336,
+        "start": 26.64,
+        "end": 26.88
+      },
+      {
+        "word": "outside",
+        "start_offset": 336,
+        "end_offset": 344,
+        "start": 26.88,
+        "end": 27.52
+      },
+      {
+        "word": "of",
+        "start_offset": 344,
+        "end_offset": 347,
+        "start": 27.52,
+        "end": 27.76
+      },
+      {
+        "word": "the",
+        "start_offset": 347,
+        "end_offset": 351,
+        "start": 27.76,
+        "end": 28.080000000000002
+      },
+      {
+        "word": "rays",
+        "start_offset": 359,
+        "end_offset": 366,
+        "start": 28.72,
+        "end": 29.28
+      },
+      {
+        "word": "representing",
+        "start_offset": 366,
+        "end_offset": 376,
+        "start": 29.28,
+        "end": 30.080000000000002
+      },
+      {
+        "word": "the",
+        "start_offset": 376,
+        "end_offset": 380,
+        "start": 30.080000000000002,
+        "end": 30.400000000000002
+      },
+      {
+        "word": "sun.",
+        "start_offset": 380,
+        "end_offset": 384,
+        "start": 30.400000000000002,
+        "end": 30.72
+      },
+      {
+        "word": "Is",
+        "start_offset": 395,
+        "end_offset": 399,
+        "start": 31.6,
+        "end": 31.92
+      },
+      {
+        "word": "that",
+        "start_offset": 399,
+        "end_offset": 402,
+        "start": 31.92,
+        "end": 32.160000000000004
+      },
+      {
+        "word": "correct?",
+        "start_offset": 402,
+        "end_offset": 413,
+        "start": 32.160000000000004,
+        "end": 33.04
+      },
+      {
+        "word": "Hi.",
+        "start_offset": 439,
+        "end_offset": 443,
+        "start": 35.12,
+        "end": 35.44
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 490,
+        "end_offset": 496,
+        "start": 39.2,
+        "end": 39.68
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "096-20.mp3",
+    "audio_duration": 40.05,
+    "transcription_time": 0.11,
+    "rtfx": 378.14,
+    "timestamp": "2026-01-06T21:59:50.251118+00:00"
+  }
+}

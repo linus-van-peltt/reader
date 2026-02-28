@@ -1,0 +1,355 @@
+{
+  "text": "Then is the Hierophant the link, you might say, between the mind and the body? I am Ra. There is a strong relationship between the significators of the mind, the body, and the spirit. Your statement is too broad.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then is the Hierophant the link, you might say, between the mind and the body?",
+        "start_offset": 0,
+        "end_offset": 78,
+        "start": 2.201,
+        "end": 13.484
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 79,
+        "end_offset": 87,
+        "start": 21.947,
+        "end": 23.867
+      },
+      {
+        "segment": "There is a strong relationship between the significators of the mind, the body, and the spirit.",
+        "start_offset": 88,
+        "end_offset": 183,
+        "start": 25.708,
+        "end": 47.935
+      },
+      {
+        "segment": "Your statement is too broad.",
+        "start_offset": 184,
+        "end_offset": 212,
+        "start": 49.816,
+        "end": 56.038
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.201,
+        "end": 2.361,
+        "score": -1.9152
+      },
+      {
+        "word": "is",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 2.461,
+        "end": 2.561,
+        "score": -1.3575
+      },
+      {
+        "word": "the",
+        "start_offset": 8,
+        "end_offset": 11,
+        "start": 2.621,
+        "end": 2.721,
+        "score": -1.3032
+      },
+      {
+        "word": "Hierophant",
+        "start_offset": 12,
+        "end_offset": 22,
+        "start": 4.041,
+        "end": 5.442,
+        "score": -2.9626
+      },
+      {
+        "word": "the",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 7.242,
+        "end": 7.342,
+        "score": -1.0243
+      },
+      {
+        "word": "link,",
+        "start_offset": 27,
+        "end_offset": 32,
+        "start": 7.482,
+        "end": 7.802,
+        "score": -0.8356
+      },
+      {
+        "word": "you",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 10.683,
+        "end": 10.783,
+        "score": -1.2293
+      },
+      {
+        "word": "might",
+        "start_offset": 37,
+        "end_offset": 42,
+        "start": 10.803,
+        "end": 11.023,
+        "score": -0.9889
+      },
+      {
+        "word": "say,",
+        "start_offset": 43,
+        "end_offset": 47,
+        "start": 11.083,
+        "end": 11.284,
+        "score": -0.8824
+      },
+      {
+        "word": "between",
+        "start_offset": 48,
+        "end_offset": 55,
+        "start": 11.364,
+        "end": 11.844,
+        "score": -0.8792
+      },
+      {
+        "word": "the",
+        "start_offset": 56,
+        "end_offset": 59,
+        "start": 11.924,
+        "end": 12.024,
+        "score": -1.1754
+      },
+      {
+        "word": "mind",
+        "start_offset": 60,
+        "end_offset": 64,
+        "start": 12.544,
+        "end": 12.884,
+        "score": -0.8809
+      },
+      {
+        "word": "and",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 12.924,
+        "end": 13.024,
+        "score": -1.2326
+      },
+      {
+        "word": "the",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 13.044,
+        "end": 13.124,
+        "score": -1.0124
+      },
+      {
+        "word": "body?",
+        "start_offset": 73,
+        "end_offset": 78,
+        "start": 13.184,
+        "end": 13.484,
+        "score": -0.8331
+      },
+      {
+        "word": "I",
+        "start_offset": 79,
+        "end_offset": 80,
+        "start": 21.947,
+        "end": 21.967,
+        "score": -1.2396
+      },
+      {
+        "word": "am",
+        "start_offset": 81,
+        "end_offset": 83,
+        "start": 22.587,
+        "end": 22.827,
+        "score": -4.1171
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 84,
+        "end_offset": 87,
+        "start": 23.767,
+        "end": 23.867,
+        "score": -3.0444
+      },
+      {
+        "word": "There",
+        "start_offset": 88,
+        "end_offset": 93,
+        "start": 25.708,
+        "end": 26.028,
+        "score": -1.0127
+      },
+      {
+        "word": "is",
+        "start_offset": 94,
+        "end_offset": 96,
+        "start": 27.509,
+        "end": 27.869,
+        "score": -0.8623
+      },
+      {
+        "word": "a",
+        "start_offset": 97,
+        "end_offset": 98,
+        "start": 29.549,
+        "end": 29.569,
+        "score": -1.7766
+      },
+      {
+        "word": "strong",
+        "start_offset": 99,
+        "end_offset": 105,
+        "start": 30.85,
+        "end": 31.35,
+        "score": -0.7107
+      },
+      {
+        "word": "relationship",
+        "start_offset": 106,
+        "end_offset": 118,
+        "start": 33.451,
+        "end": 34.771,
+        "score": -0.6973
+      },
+      {
+        "word": "between",
+        "start_offset": 119,
+        "end_offset": 126,
+        "start": 35.651,
+        "end": 36.371,
+        "score": -0.7124
+      },
+      {
+        "word": "the",
+        "start_offset": 127,
+        "end_offset": 130,
+        "start": 37.832,
+        "end": 37.952,
+        "score": -0.8098
+      },
+      {
+        "word": "significators",
+        "start_offset": 131,
+        "end_offset": 144,
+        "start": 38.212,
+        "end": 40.193,
+        "score": -0.7073
+      },
+      {
+        "word": "of",
+        "start_offset": 145,
+        "end_offset": 147,
+        "start": 41.533,
+        "end": 41.813,
+        "score": -0.6991
+      },
+      {
+        "word": "the",
+        "start_offset": 148,
+        "end_offset": 151,
+        "start": 42.113,
+        "end": 42.233,
+        "score": -0.7405
+      },
+      {
+        "word": "mind,",
+        "start_offset": 152,
+        "end_offset": 157,
+        "start": 42.473,
+        "end": 43.054,
+        "score": -0.7413
+      },
+      {
+        "word": "the",
+        "start_offset": 158,
+        "end_offset": 161,
+        "start": 44.394,
+        "end": 44.514,
+        "score": -0.8113
+      },
+      {
+        "word": "body,",
+        "start_offset": 162,
+        "end_offset": 167,
+        "start": 44.674,
+        "end": 45.074,
+        "score": -0.7198
+      },
+      {
+        "word": "and",
+        "start_offset": 168,
+        "end_offset": 171,
+        "start": 46.315,
+        "end": 46.655,
+        "score": -0.8391
+      },
+      {
+        "word": "the",
+        "start_offset": 172,
+        "end_offset": 175,
+        "start": 47.075,
+        "end": 47.175,
+        "score": -0.86
+      },
+      {
+        "word": "spirit.",
+        "start_offset": 176,
+        "end_offset": 183,
+        "start": 47.295,
+        "end": 47.935,
+        "score": -0.7263
+      },
+      {
+        "word": "Your",
+        "start_offset": 184,
+        "end_offset": 188,
+        "start": 49.816,
+        "end": 50.116,
+        "score": -0.8151
+      },
+      {
+        "word": "statement",
+        "start_offset": 189,
+        "end_offset": 198,
+        "start": 50.516,
+        "end": 51.276,
+        "score": -0.7356
+      },
+      {
+        "word": "is",
+        "start_offset": 199,
+        "end_offset": 201,
+        "start": 52.316,
+        "end": 52.697,
+        "score": -0.7187
+      },
+      {
+        "word": "too",
+        "start_offset": 202,
+        "end_offset": 205,
+        "start": 53.817,
+        "end": 54.117,
+        "score": -0.9582
+      },
+      {
+        "word": "broad.",
+        "start_offset": 206,
+        "end_offset": 212,
+        "start": 55.477,
+        "end": 56.038,
+        "score": -0.9712
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "079-38.mp3",
+    "audio_duration": 69.0417,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

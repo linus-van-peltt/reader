@@ -1,0 +1,188 @@
+{
+  "text": "What was the original image? I am Ra. The original image had the checkering as the suggestion of polarity.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What was the original image?",
+        "start_offset": 0,
+        "end_offset": 28,
+        "start": 3.322,
+        "end": 14.128
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 29,
+        "end_offset": 37,
+        "start": 14.148,
+        "end": 14.288
+      },
+      {
+        "segment": "The original image had the checkering as the suggestion of polarity.",
+        "start_offset": 38,
+        "end_offset": 106,
+        "start": 16.27,
+        "end": 33.62
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 3.322,
+        "end": 11.267,
+        "score": -7.8774
+      },
+      {
+        "word": "was",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 11.287,
+        "end": 11.407,
+        "score": -6.8706
+      },
+      {
+        "word": "the",
+        "start_offset": 9,
+        "end_offset": 12,
+        "start": 11.427,
+        "end": 11.567,
+        "score": -7.4595
+      },
+      {
+        "word": "original",
+        "start_offset": 13,
+        "end_offset": 21,
+        "start": 11.587,
+        "end": 13.868,
+        "score": -6.1995
+      },
+      {
+        "word": "image?",
+        "start_offset": 22,
+        "end_offset": 28,
+        "start": 13.888,
+        "end": 14.128,
+        "score": -5.7146
+      },
+      {
+        "word": "I",
+        "start_offset": 29,
+        "end_offset": 30,
+        "start": 14.148,
+        "end": 14.168,
+        "score": -5.4915
+      },
+      {
+        "word": "am",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 14.188,
+        "end": 14.228,
+        "score": -7.1687
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 34,
+        "end_offset": 37,
+        "start": 14.248,
+        "end": 14.288,
+        "score": -7.5444
+      },
+      {
+        "word": "The",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 16.27,
+        "end": 16.41,
+        "score": -0.7921
+      },
+      {
+        "word": "original",
+        "start_offset": 42,
+        "end_offset": 50,
+        "start": 17.17,
+        "end": 18.291,
+        "score": -0.7072
+      },
+      {
+        "word": "image",
+        "start_offset": 51,
+        "end_offset": 56,
+        "start": 19.551,
+        "end": 20.132,
+        "score": -0.797
+      },
+      {
+        "word": "had",
+        "start_offset": 57,
+        "end_offset": 60,
+        "start": 21.993,
+        "end": 22.453,
+        "score": -1.1953
+      },
+      {
+        "word": "the",
+        "start_offset": 61,
+        "end_offset": 64,
+        "start": 23.634,
+        "end": 23.774,
+        "score": -0.834
+      },
+      {
+        "word": "checkering",
+        "start_offset": 65,
+        "end_offset": 75,
+        "start": 25.415,
+        "end": 26.175,
+        "score": -0.8371
+      },
+      {
+        "word": "as",
+        "start_offset": 76,
+        "end_offset": 78,
+        "start": 26.876,
+        "end": 27.276,
+        "score": -0.7505
+      },
+      {
+        "word": "the",
+        "start_offset": 79,
+        "end_offset": 82,
+        "start": 27.716,
+        "end": 27.856,
+        "score": -1.0174
+      },
+      {
+        "word": "suggestion",
+        "start_offset": 83,
+        "end_offset": 93,
+        "start": 29.297,
+        "end": 30.478,
+        "score": -0.7668
+      },
+      {
+        "word": "of",
+        "start_offset": 94,
+        "end_offset": 96,
+        "start": 31.418,
+        "end": 31.679,
+        "score": -0.7375
+      },
+      {
+        "word": "polarity.",
+        "start_offset": 97,
+        "end_offset": 106,
+        "start": 32.659,
+        "end": 33.62,
+        "score": -0.8661
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "091-29.mp3",
+    "audio_duration": 37.0417,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

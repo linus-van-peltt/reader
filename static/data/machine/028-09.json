@@ -1,0 +1,345 @@
+{
+  "text": "And what you're saying is that the lenticular star system, which we call a galaxy, that we find ourselves in with approximately 250 billion other suns like our own was created by a single logos. Is this correct? I am ra this is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "And what you're saying is that the lenticular star system, which we call a galaxy, that we find ourselves in with approximately 250 billion other suns like our own was created by a single logos.",
+        "start_offset": 15,
+        "end_offset": 258,
+        "start": 1.2,
+        "end": 20.64
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 262,
+        "end_offset": 277,
+        "start": 20.96,
+        "end": 22.16
+      },
+      {
+        "segment": "I am ra this is correct.",
+        "start_offset": 329,
+        "end_offset": 427,
+        "start": 26.32,
+        "end": 34.160000000000004
+      }
+    ],
+    "word": [
+      {
+        "word": "And",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 1.2,
+        "end": 1.36
+      },
+      {
+        "word": "what",
+        "start_offset": 19,
+        "end_offset": 22,
+        "start": 1.52,
+        "end": 1.76
+      },
+      {
+        "word": "you're",
+        "start_offset": 22,
+        "end_offset": 28,
+        "start": 1.76,
+        "end": 2.24
+      },
+      {
+        "word": "saying",
+        "start_offset": 28,
+        "end_offset": 35,
+        "start": 2.24,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "is",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 2.8000000000000003,
+        "end": 3.04
+      },
+      {
+        "word": "that",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 3.04,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "the",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 3.2800000000000002,
+        "end": 3.52
+      },
+      {
+        "word": "lenticular",
+        "start_offset": 44,
+        "end_offset": 61,
+        "start": 3.52,
+        "end": 4.88
+      },
+      {
+        "word": "star",
+        "start_offset": 61,
+        "end_offset": 65,
+        "start": 4.88,
+        "end": 5.2
+      },
+      {
+        "word": "system,",
+        "start_offset": 69,
+        "end_offset": 73,
+        "start": 5.5200000000000005,
+        "end": 5.84
+      },
+      {
+        "word": "which",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 6.4,
+        "end": 6.72
+      },
+      {
+        "word": "we",
+        "start_offset": 84,
+        "end_offset": 86,
+        "start": 6.72,
+        "end": 6.88
+      },
+      {
+        "word": "call",
+        "start_offset": 86,
+        "end_offset": 90,
+        "start": 6.88,
+        "end": 7.2
+      },
+      {
+        "word": "a",
+        "start_offset": 90,
+        "end_offset": 93,
+        "start": 7.2,
+        "end": 7.44
+      },
+      {
+        "word": "galaxy,",
+        "start_offset": 93,
+        "end_offset": 105,
+        "start": 7.44,
+        "end": 8.4
+      },
+      {
+        "word": "that",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 8.64,
+        "end": 8.96
+      },
+      {
+        "word": "we",
+        "start_offset": 112,
+        "end_offset": 115,
+        "start": 8.96,
+        "end": 9.200000000000001
+      },
+      {
+        "word": "find",
+        "start_offset": 115,
+        "end_offset": 120,
+        "start": 9.200000000000001,
+        "end": 9.6
+      },
+      {
+        "word": "ourselves",
+        "start_offset": 120,
+        "end_offset": 130,
+        "start": 9.6,
+        "end": 10.4
+      },
+      {
+        "word": "in",
+        "start_offset": 130,
+        "end_offset": 134,
+        "start": 10.4,
+        "end": 10.72
+      },
+      {
+        "word": "with",
+        "start_offset": 141,
+        "end_offset": 145,
+        "start": 11.28,
+        "end": 11.6
+      },
+      {
+        "word": "approximately",
+        "start_offset": 152,
+        "end_offset": 169,
+        "start": 12.16,
+        "end": 13.52
+      },
+      {
+        "word": "250",
+        "start_offset": 169,
+        "end_offset": 186,
+        "start": 13.52,
+        "end": 14.88
+      },
+      {
+        "word": "billion",
+        "start_offset": 186,
+        "end_offset": 196,
+        "start": 14.88,
+        "end": 15.68
+      },
+      {
+        "word": "other",
+        "start_offset": 196,
+        "end_offset": 200,
+        "start": 15.68,
+        "end": 16.0
+      },
+      {
+        "word": "suns",
+        "start_offset": 204,
+        "end_offset": 211,
+        "start": 16.32,
+        "end": 16.88
+      },
+      {
+        "word": "like",
+        "start_offset": 211,
+        "end_offset": 215,
+        "start": 16.88,
+        "end": 17.2
+      },
+      {
+        "word": "our",
+        "start_offset": 215,
+        "end_offset": 219,
+        "start": 17.2,
+        "end": 17.52
+      },
+      {
+        "word": "own",
+        "start_offset": 219,
+        "end_offset": 225,
+        "start": 17.52,
+        "end": 18.0
+      },
+      {
+        "word": "was",
+        "start_offset": 229,
+        "end_offset": 233,
+        "start": 18.32,
+        "end": 18.64
+      },
+      {
+        "word": "created",
+        "start_offset": 233,
+        "end_offset": 240,
+        "start": 18.64,
+        "end": 19.2
+      },
+      {
+        "word": "by",
+        "start_offset": 240,
+        "end_offset": 242,
+        "start": 19.2,
+        "end": 19.36
+      },
+      {
+        "word": "a",
+        "start_offset": 242,
+        "end_offset": 245,
+        "start": 19.36,
+        "end": 19.6
+      },
+      {
+        "word": "single",
+        "start_offset": 245,
+        "end_offset": 252,
+        "start": 19.6,
+        "end": 20.16
+      },
+      {
+        "word": "logos.",
+        "start_offset": 252,
+        "end_offset": 258,
+        "start": 20.16,
+        "end": 20.64
+      },
+      {
+        "word": "Is",
+        "start_offset": 262,
+        "end_offset": 264,
+        "start": 20.96,
+        "end": 21.12
+      },
+      {
+        "word": "this",
+        "start_offset": 264,
+        "end_offset": 267,
+        "start": 21.12,
+        "end": 21.36
+      },
+      {
+        "word": "correct?",
+        "start_offset": 267,
+        "end_offset": 277,
+        "start": 21.36,
+        "end": 22.16
+      },
+      {
+        "word": "I",
+        "start_offset": 329,
+        "end_offset": 333,
+        "start": 26.32,
+        "end": 26.64
+      },
+      {
+        "word": "am",
+        "start_offset": 343,
+        "end_offset": 346,
+        "start": 27.44,
+        "end": 27.68
+      },
+      {
+        "word": "ra",
+        "start_offset": 358,
+        "end_offset": 361,
+        "start": 28.64,
+        "end": 28.88
+      },
+      {
+        "word": "this",
+        "start_offset": 383,
+        "end_offset": 387,
+        "start": 30.64,
+        "end": 30.96
+      },
+      {
+        "word": "is",
+        "start_offset": 399,
+        "end_offset": 403,
+        "start": 31.92,
+        "end": 32.24
+      },
+      {
+        "word": "correct.",
+        "start_offset": 415,
+        "end_offset": 427,
+        "start": 33.2,
+        "end": 34.160000000000004
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "028-09.mp3",
+    "audio_duration": 35.03,
+    "transcription_time": 0.1,
+    "rtfx": 339.81,
+    "timestamp": "2026-01-06T21:49:23.365917+00:00"
+  }
+}

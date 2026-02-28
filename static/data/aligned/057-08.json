@@ -1,0 +1,436 @@
+{
+  "text": "Would an unflawed crystal be considerably more effective than the flawed one that we now have? I am Ra. Without attempting to deem the priorities you may choose, we may note that the regularized or crystallized entity, in its configuration, is as critical as the perfection of the crystal used.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would an unflawed crystal be considerably more effective than the flawed one that we now have?",
+        "start_offset": 0,
+        "end_offset": 94,
+        "start": 2.2,
+        "end": 10.001
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 95,
+        "end_offset": 103,
+        "start": 16.622,
+        "end": 18.882
+      },
+      {
+        "segment": "Without attempting to deem the priorities you may choose, we may note that the regularized or crystallized entity, in its configuration, is as critical as the perfection of the crystal used.",
+        "start_offset": 104,
+        "end_offset": 294,
+        "start": 22.962,
+        "end": 83.088
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.2,
+        "end": 2.46,
+        "score": -1.4617
+      },
+      {
+        "word": "an",
+        "start_offset": 6,
+        "end_offset": 8,
+        "start": 2.86,
+        "end": 2.94,
+        "score": -1.6665
+      },
+      {
+        "word": "unflawed",
+        "start_offset": 9,
+        "end_offset": 17,
+        "start": 3.12,
+        "end": 4.12,
+        "score": -2.8729
+      },
+      {
+        "word": "crystal",
+        "start_offset": 18,
+        "end_offset": 25,
+        "start": 4.26,
+        "end": 4.74,
+        "score": -2.7608
+      },
+      {
+        "word": "be",
+        "start_offset": 26,
+        "end_offset": 28,
+        "start": 4.88,
+        "end": 5.001,
+        "score": -2.0124
+      },
+      {
+        "word": "considerably",
+        "start_offset": 29,
+        "end_offset": 41,
+        "start": 6.301,
+        "end": 7.001,
+        "score": -1.6505
+      },
+      {
+        "word": "more",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 7.101,
+        "end": 7.321,
+        "score": -1.7534
+      },
+      {
+        "word": "effective",
+        "start_offset": 47,
+        "end_offset": 56,
+        "start": 7.381,
+        "end": 7.981,
+        "score": -2.8145
+      },
+      {
+        "word": "than",
+        "start_offset": 57,
+        "end_offset": 61,
+        "start": 8.081,
+        "end": 8.281,
+        "score": -4.075
+      },
+      {
+        "word": "the",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 8.341,
+        "end": 8.421,
+        "score": -3.3717
+      },
+      {
+        "word": "flawed",
+        "start_offset": 66,
+        "end_offset": 72,
+        "start": 8.501,
+        "end": 8.901,
+        "score": -3.7977
+      },
+      {
+        "word": "one",
+        "start_offset": 73,
+        "end_offset": 76,
+        "start": 8.981,
+        "end": 9.121,
+        "score": -4.1382
+      },
+      {
+        "word": "that",
+        "start_offset": 77,
+        "end_offset": 81,
+        "start": 9.301,
+        "end": 9.421,
+        "score": -5.6548
+      },
+      {
+        "word": "we",
+        "start_offset": 82,
+        "end_offset": 84,
+        "start": 9.441,
+        "end": 9.481,
+        "score": -6.6012
+      },
+      {
+        "word": "now",
+        "start_offset": 85,
+        "end_offset": 88,
+        "start": 9.521,
+        "end": 9.681,
+        "score": -3.3894
+      },
+      {
+        "word": "have?",
+        "start_offset": 89,
+        "end_offset": 94,
+        "start": 9.761,
+        "end": 10.001,
+        "score": -2.4711
+      },
+      {
+        "word": "I",
+        "start_offset": 95,
+        "end_offset": 96,
+        "start": 16.622,
+        "end": 16.642,
+        "score": -1.9203
+      },
+      {
+        "word": "am",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 17.482,
+        "end": 18.662,
+        "score": -2.889
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 100,
+        "end_offset": 103,
+        "start": 18.762,
+        "end": 18.882,
+        "score": -2.5029
+      },
+      {
+        "word": "Without",
+        "start_offset": 104,
+        "end_offset": 111,
+        "start": 22.962,
+        "end": 23.882,
+        "score": -0.7727
+      },
+      {
+        "word": "attempting",
+        "start_offset": 112,
+        "end_offset": 122,
+        "start": 26.463,
+        "end": 27.743,
+        "score": -1.3988
+      },
+      {
+        "word": "to",
+        "start_offset": 123,
+        "end_offset": 125,
+        "start": 28.283,
+        "end": 28.643,
+        "score": -0.772
+      },
+      {
+        "word": "deem",
+        "start_offset": 126,
+        "end_offset": 130,
+        "start": 32.163,
+        "end": 32.643,
+        "score": -1.3986
+      },
+      {
+        "word": "the",
+        "start_offset": 131,
+        "end_offset": 134,
+        "start": 34.924,
+        "end": 35.064,
+        "score": -0.7285
+      },
+      {
+        "word": "priorities",
+        "start_offset": 135,
+        "end_offset": 145,
+        "start": 35.744,
+        "end": 37.704,
+        "score": -0.8715
+      },
+      {
+        "word": "you",
+        "start_offset": 146,
+        "end_offset": 149,
+        "start": 38.844,
+        "end": 38.984,
+        "score": -0.7993
+      },
+      {
+        "word": "may",
+        "start_offset": 150,
+        "end_offset": 153,
+        "start": 39.544,
+        "end": 39.884,
+        "score": -0.7011
+      },
+      {
+        "word": "choose,",
+        "start_offset": 154,
+        "end_offset": 161,
+        "start": 40.244,
+        "end": 41.024,
+        "score": -1.9848
+      },
+      {
+        "word": "we",
+        "start_offset": 162,
+        "end_offset": 164,
+        "start": 42.384,
+        "end": 42.544,
+        "score": -0.7901
+      },
+      {
+        "word": "may",
+        "start_offset": 165,
+        "end_offset": 168,
+        "start": 43.164,
+        "end": 43.484,
+        "score": -0.7354
+      },
+      {
+        "word": "note",
+        "start_offset": 169,
+        "end_offset": 173,
+        "start": 43.924,
+        "end": 44.465,
+        "score": -1.2036
+      },
+      {
+        "word": "that",
+        "start_offset": 174,
+        "end_offset": 178,
+        "start": 45.805,
+        "end": 46.265,
+        "score": -0.7881
+      },
+      {
+        "word": "the",
+        "start_offset": 179,
+        "end_offset": 182,
+        "start": 47.725,
+        "end": 47.865,
+        "score": -1.2662
+      },
+      {
+        "word": "regularized",
+        "start_offset": 183,
+        "end_offset": 194,
+        "start": 51.385,
+        "end": 53.365,
+        "score": -0.8354
+      },
+      {
+        "word": "or",
+        "start_offset": 195,
+        "end_offset": 197,
+        "start": 53.745,
+        "end": 54.065,
+        "score": -0.7451
+      },
+      {
+        "word": "crystallized",
+        "start_offset": 198,
+        "end_offset": 210,
+        "start": 55.026,
+        "end": 56.826,
+        "score": -1.4432
+      },
+      {
+        "word": "entity,",
+        "start_offset": 211,
+        "end_offset": 218,
+        "start": 58.126,
+        "end": 58.866,
+        "score": -0.7158
+      },
+      {
+        "word": "in",
+        "start_offset": 219,
+        "end_offset": 221,
+        "start": 60.506,
+        "end": 60.806,
+        "score": -0.7082
+      },
+      {
+        "word": "its",
+        "start_offset": 222,
+        "end_offset": 225,
+        "start": 61.486,
+        "end": 61.826,
+        "score": -0.7117
+      },
+      {
+        "word": "configuration,",
+        "start_offset": 226,
+        "end_offset": 240,
+        "start": 62.026,
+        "end": 64.487,
+        "score": -0.7044
+      },
+      {
+        "word": "is",
+        "start_offset": 241,
+        "end_offset": 243,
+        "start": 66.067,
+        "end": 66.607,
+        "score": -0.8568
+      },
+      {
+        "word": "as",
+        "start_offset": 244,
+        "end_offset": 246,
+        "start": 68.407,
+        "end": 68.747,
+        "score": -0.7304
+      },
+      {
+        "word": "critical",
+        "start_offset": 247,
+        "end_offset": 255,
+        "start": 69.007,
+        "end": 70.387,
+        "score": -1.2265
+      },
+      {
+        "word": "as",
+        "start_offset": 256,
+        "end_offset": 258,
+        "start": 71.787,
+        "end": 72.327,
+        "score": -0.8259
+      },
+      {
+        "word": "the",
+        "start_offset": 259,
+        "end_offset": 262,
+        "start": 72.967,
+        "end": 73.107,
+        "score": -1.3017
+      },
+      {
+        "word": "perfection",
+        "start_offset": 263,
+        "end_offset": 273,
+        "start": 75.448,
+        "end": 77.048,
+        "score": -0.7119
+      },
+      {
+        "word": "of",
+        "start_offset": 274,
+        "end_offset": 276,
+        "start": 78.328,
+        "end": 78.688,
+        "score": -0.901
+      },
+      {
+        "word": "the",
+        "start_offset": 277,
+        "end_offset": 280,
+        "start": 79.148,
+        "end": 79.268,
+        "score": -2.8542
+      },
+      {
+        "word": "crystal",
+        "start_offset": 281,
+        "end_offset": 288,
+        "start": 80.228,
+        "end": 81.268,
+        "score": -1.4574
+      },
+      {
+        "word": "used.",
+        "start_offset": 289,
+        "end_offset": 294,
+        "start": 82.488,
+        "end": 83.088,
+        "score": -0.7569
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "057-08.mp3",
+    "audio_duration": 85.0286,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

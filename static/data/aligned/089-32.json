@@ -1,0 +1,308 @@
+{
+  "text": "Did these two entities evolve from the second density of the planet Venus along with the rest of the population of Venus that became Ra from second density to third? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Did these two entities evolve from the second density of the planet Venus along with the rest of the population of Venus that became Ra from second density to third?",
+        "start_offset": 0,
+        "end_offset": 165,
+        "start": 2.061,
+        "end": 19.292
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 166,
+        "end_offset": 174,
+        "start": 19.312,
+        "end": 21.653
+      },
+      {
+        "segment": "No.",
+        "start_offset": 175,
+        "end_offset": 178,
+        "start": 26.216,
+        "end": 26.256
+      }
+    ],
+    "word": [
+      {
+        "word": "Did",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.061,
+        "end": 2.221,
+        "score": -2.0317
+      },
+      {
+        "word": "these",
+        "start_offset": 4,
+        "end_offset": 9,
+        "start": 2.261,
+        "end": 2.482,
+        "score": -0.7483
+      },
+      {
+        "word": "two",
+        "start_offset": 10,
+        "end_offset": 13,
+        "start": 2.502,
+        "end": 2.642,
+        "score": -0.739
+      },
+      {
+        "word": "entities",
+        "start_offset": 14,
+        "end_offset": 22,
+        "start": 2.702,
+        "end": 3.102,
+        "score": -0.7591
+      },
+      {
+        "word": "evolve",
+        "start_offset": 23,
+        "end_offset": 29,
+        "start": 3.142,
+        "end": 3.622,
+        "score": -0.9867
+      },
+      {
+        "word": "from",
+        "start_offset": 30,
+        "end_offset": 34,
+        "start": 4.103,
+        "end": 4.343,
+        "score": -1.07
+      },
+      {
+        "word": "the",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 6.004,
+        "end": 6.124,
+        "score": -0.9607
+      },
+      {
+        "word": "second",
+        "start_offset": 39,
+        "end_offset": 45,
+        "start": 6.264,
+        "end": 6.644,
+        "score": -0.7799
+      },
+      {
+        "word": "density",
+        "start_offset": 46,
+        "end_offset": 53,
+        "start": 6.684,
+        "end": 7.244,
+        "score": -0.7136
+      },
+      {
+        "word": "of",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 7.925,
+        "end": 8.105,
+        "score": -0.7185
+      },
+      {
+        "word": "the",
+        "start_offset": 57,
+        "end_offset": 60,
+        "start": 8.245,
+        "end": 8.325,
+        "score": -0.823
+      },
+      {
+        "word": "planet",
+        "start_offset": 61,
+        "end_offset": 67,
+        "start": 8.385,
+        "end": 8.745,
+        "score": -0.7442
+      },
+      {
+        "word": "Venus",
+        "start_offset": 68,
+        "end_offset": 73,
+        "start": 8.805,
+        "end": 9.166,
+        "score": -0.7366
+      },
+      {
+        "word": "along",
+        "start_offset": 74,
+        "end_offset": 79,
+        "start": 9.306,
+        "end": 9.646,
+        "score": -0.7025
+      },
+      {
+        "word": "with",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 9.706,
+        "end": 9.906,
+        "score": -0.7809
+      },
+      {
+        "word": "the",
+        "start_offset": 85,
+        "end_offset": 88,
+        "start": 10.907,
+        "end": 11.027,
+        "score": -0.9203
+      },
+      {
+        "word": "rest",
+        "start_offset": 89,
+        "end_offset": 93,
+        "start": 11.087,
+        "end": 11.447,
+        "score": -0.7722
+      },
+      {
+        "word": "of",
+        "start_offset": 94,
+        "end_offset": 96,
+        "start": 11.567,
+        "end": 11.727,
+        "score": -0.9005
+      },
+      {
+        "word": "the",
+        "start_offset": 97,
+        "end_offset": 100,
+        "start": 11.847,
+        "end": 11.967,
+        "score": -1.481
+      },
+      {
+        "word": "population",
+        "start_offset": 101,
+        "end_offset": 111,
+        "start": 13.909,
+        "end": 14.809,
+        "score": -0.7528
+      },
+      {
+        "word": "of",
+        "start_offset": 112,
+        "end_offset": 114,
+        "start": 15.049,
+        "end": 15.249,
+        "score": -1.0688
+      },
+      {
+        "word": "Venus",
+        "start_offset": 115,
+        "end_offset": 120,
+        "start": 16.47,
+        "end": 16.83,
+        "score": -0.7603
+      },
+      {
+        "word": "that",
+        "start_offset": 121,
+        "end_offset": 125,
+        "start": 16.89,
+        "end": 17.031,
+        "score": -0.7957
+      },
+      {
+        "word": "became",
+        "start_offset": 126,
+        "end_offset": 132,
+        "start": 17.091,
+        "end": 17.451,
+        "score": -0.7126
+      },
+      {
+        "word": "Ra",
+        "start_offset": 133,
+        "end_offset": 135,
+        "start": 17.511,
+        "end": 17.631,
+        "score": -1.1976
+      },
+      {
+        "word": "from",
+        "start_offset": 136,
+        "end_offset": 140,
+        "start": 17.831,
+        "end": 17.991,
+        "score": -0.8425
+      },
+      {
+        "word": "second",
+        "start_offset": 141,
+        "end_offset": 147,
+        "start": 18.071,
+        "end": 18.371,
+        "score": -1.8685
+      },
+      {
+        "word": "density",
+        "start_offset": 148,
+        "end_offset": 155,
+        "start": 18.391,
+        "end": 18.672,
+        "score": -3.4575
+      },
+      {
+        "word": "to",
+        "start_offset": 156,
+        "end_offset": 158,
+        "start": 18.712,
+        "end": 18.772,
+        "score": -1.5943
+      },
+      {
+        "word": "third?",
+        "start_offset": 159,
+        "end_offset": 165,
+        "start": 18.832,
+        "end": 19.292,
+        "score": -2.6536
+      },
+      {
+        "word": "I",
+        "start_offset": 166,
+        "end_offset": 167,
+        "start": 19.312,
+        "end": 19.332,
+        "score": -8.7381
+      },
+      {
+        "word": "am",
+        "start_offset": 168,
+        "end_offset": 170,
+        "start": 19.352,
+        "end": 19.392,
+        "score": -9.7096
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 171,
+        "end_offset": 174,
+        "start": 20.072,
+        "end": 21.653,
+        "score": -9.8506
+      },
+      {
+        "word": "No.",
+        "start_offset": 175,
+        "end_offset": 178,
+        "start": 26.216,
+        "end": 26.256,
+        "score": -8.701
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "089-32.mp3",
+    "audio_duration": 27.0368,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

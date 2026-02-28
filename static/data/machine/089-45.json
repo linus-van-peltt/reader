@@ -1,0 +1,100 @@
+{
+  "text": "I'll just make the statement that I perceive that a negative.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I'll just make the statement that I perceive that a negative.",
+        "start_offset": 28,
+        "end_offset": 139,
+        "start": 2.24,
+        "end": 11.120000000000001
+      }
+    ],
+    "word": [
+      {
+        "word": "I'll",
+        "start_offset": 28,
+        "end_offset": 35,
+        "start": 2.24,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "just",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 2.8000000000000003,
+        "end": 3.04
+      },
+      {
+        "word": "make",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 3.04,
+        "end": 3.2
+      },
+      {
+        "word": "the",
+        "start_offset": 40,
+        "end_offset": 43,
+        "start": 3.2,
+        "end": 3.44
+      },
+      {
+        "word": "statement",
+        "start_offset": 43,
+        "end_offset": 50,
+        "start": 3.44,
+        "end": 4.0
+      },
+      {
+        "word": "that",
+        "start_offset": 50,
+        "end_offset": 54,
+        "start": 4.0,
+        "end": 4.32
+      },
+      {
+        "word": "I",
+        "start_offset": 54,
+        "end_offset": 58,
+        "start": 4.32,
+        "end": 4.64
+      },
+      {
+        "word": "perceive",
+        "start_offset": 58,
+        "end_offset": 67,
+        "start": 4.64,
+        "end": 5.36
+      },
+      {
+        "word": "that",
+        "start_offset": 67,
+        "end_offset": 71,
+        "start": 5.36,
+        "end": 5.68
+      },
+      {
+        "word": "a",
+        "start_offset": 107,
+        "end_offset": 111,
+        "start": 8.56,
+        "end": 8.88
+      },
+      {
+        "word": "negative.",
+        "start_offset": 131,
+        "end_offset": 139,
+        "start": 10.48,
+        "end": 11.120000000000001
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "089-45.mp3",
+    "audio_duration": 13.04,
+    "transcription_time": 0.08,
+    "rtfx": 157.16,
+    "timestamp": "2026-01-06T21:58:30.006569+00:00"
+  }
+}

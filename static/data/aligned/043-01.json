@@ -1,0 +1,307 @@
+{
+  "text": "Is that the pillow or something else? Do you… do you speak of the pillow under the neck? I am Ra. There is a line of interference crossing the crown of the head.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is that the pillow or something else?",
+        "start_offset": 0,
+        "end_offset": 37,
+        "start": 0.88,
+        "end": 3.621
+      },
+      {
+        "segment": "Do you… do you speak of the pillow under the neck?",
+        "start_offset": 38,
+        "end_offset": 88,
+        "start": 20.764,
+        "end": 23.505
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 89,
+        "end_offset": 97,
+        "start": 26.766,
+        "end": 29.226
+      },
+      {
+        "segment": "There is a line of interference crossing the crown of the head.",
+        "start_offset": 98,
+        "end_offset": 161,
+        "start": 30.867,
+        "end": 46.77
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 0.88,
+        "end": 1.04,
+        "score": -4.6313
+      },
+      {
+        "word": "that",
+        "start_offset": 3,
+        "end_offset": 7,
+        "start": 1.08,
+        "end": 1.34,
+        "score": -1.8588
+      },
+      {
+        "word": "the",
+        "start_offset": 8,
+        "end_offset": 11,
+        "start": 1.42,
+        "end": 1.54,
+        "score": -2.5103
+      },
+      {
+        "word": "pillow",
+        "start_offset": 12,
+        "end_offset": 18,
+        "start": 1.94,
+        "end": 2.361,
+        "score": -3.4481
+      },
+      {
+        "word": "or",
+        "start_offset": 19,
+        "end_offset": 21,
+        "start": 2.621,
+        "end": 2.741,
+        "score": -3.3788
+      },
+      {
+        "word": "something",
+        "start_offset": 22,
+        "end_offset": 31,
+        "start": 2.881,
+        "end": 3.241,
+        "score": -2.4199
+      },
+      {
+        "word": "else?",
+        "start_offset": 32,
+        "end_offset": 37,
+        "start": 3.341,
+        "end": 3.621,
+        "score": -1.9647
+      },
+      {
+        "word": "Do",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 20.764,
+        "end": 20.844,
+        "score": -2.1558
+      },
+      {
+        "word": "you…",
+        "start_offset": 41,
+        "end_offset": 45,
+        "start": 20.944,
+        "end": 21.044,
+        "score": -3.8941
+      },
+      {
+        "word": "do",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 21.305,
+        "end": 21.385,
+        "score": -1.2672
+      },
+      {
+        "word": "you",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 21.485,
+        "end": 21.605,
+        "score": -1.6386
+      },
+      {
+        "word": "speak",
+        "start_offset": 53,
+        "end_offset": 58,
+        "start": 21.745,
+        "end": 22.085,
+        "score": -1.4883
+      },
+      {
+        "word": "of",
+        "start_offset": 59,
+        "end_offset": 61,
+        "start": 22.165,
+        "end": 22.225,
+        "score": -1.1184
+      },
+      {
+        "word": "the",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 22.265,
+        "end": 22.345,
+        "score": -1.3395
+      },
+      {
+        "word": "pillow",
+        "start_offset": 66,
+        "end_offset": 72,
+        "start": 22.445,
+        "end": 22.745,
+        "score": -1.2109
+      },
+      {
+        "word": "under",
+        "start_offset": 73,
+        "end_offset": 78,
+        "start": 22.885,
+        "end": 23.065,
+        "score": -1.1346
+      },
+      {
+        "word": "the",
+        "start_offset": 79,
+        "end_offset": 82,
+        "start": 23.105,
+        "end": 23.185,
+        "score": -1.2342
+      },
+      {
+        "word": "neck?",
+        "start_offset": 83,
+        "end_offset": 88,
+        "start": 23.245,
+        "end": 23.505,
+        "score": -1.3056
+      },
+      {
+        "word": "I",
+        "start_offset": 89,
+        "end_offset": 90,
+        "start": 26.766,
+        "end": 26.786,
+        "score": -1.1412
+      },
+      {
+        "word": "am",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 27.886,
+        "end": 28.246,
+        "score": -2.2469
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 94,
+        "end_offset": 97,
+        "start": 29.086,
+        "end": 29.226,
+        "score": -1.0385
+      },
+      {
+        "word": "There",
+        "start_offset": 98,
+        "end_offset": 103,
+        "start": 30.867,
+        "end": 31.267,
+        "score": -0.836
+      },
+      {
+        "word": "is",
+        "start_offset": 104,
+        "end_offset": 106,
+        "start": 32.027,
+        "end": 32.407,
+        "score": -0.7595
+      },
+      {
+        "word": "a",
+        "start_offset": 107,
+        "end_offset": 108,
+        "start": 34.607,
+        "end": 34.627,
+        "score": -0.7479
+      },
+      {
+        "word": "line",
+        "start_offset": 109,
+        "end_offset": 113,
+        "start": 34.747,
+        "end": 35.247,
+        "score": -0.7423
+      },
+      {
+        "word": "of",
+        "start_offset": 114,
+        "end_offset": 116,
+        "start": 35.988,
+        "end": 36.208,
+        "score": -1.1465
+      },
+      {
+        "word": "interference",
+        "start_offset": 117,
+        "end_offset": 129,
+        "start": 37.508,
+        "end": 39.008,
+        "score": -0.757
+      },
+      {
+        "word": "crossing",
+        "start_offset": 130,
+        "end_offset": 138,
+        "start": 40.309,
+        "end": 40.989,
+        "score": -0.7569
+      },
+      {
+        "word": "the",
+        "start_offset": 139,
+        "end_offset": 142,
+        "start": 41.509,
+        "end": 41.629,
+        "score": -0.8335
+      },
+      {
+        "word": "crown",
+        "start_offset": 143,
+        "end_offset": 148,
+        "start": 43.769,
+        "end": 44.429,
+        "score": -1.0669
+      },
+      {
+        "word": "of",
+        "start_offset": 149,
+        "end_offset": 151,
+        "start": 45.17,
+        "end": 45.47,
+        "score": -0.7837
+      },
+      {
+        "word": "the",
+        "start_offset": 152,
+        "end_offset": 155,
+        "start": 45.77,
+        "end": 45.91,
+        "score": -0.777
+      },
+      {
+        "word": "head.",
+        "start_offset": 156,
+        "end_offset": 161,
+        "start": 46.39,
+        "end": 46.77,
+        "score": -0.8037
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "043-01.mp3",
+    "audio_duration": 50.0506,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

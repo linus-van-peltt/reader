@@ -1,0 +1,554 @@
+{
+  "text": "Before the veil there was knowledge of the bulb-lighting technique, shall we say. After the veil some experiments created a bulb lighting; some resulted in no bulb lighting. Other than the fact that information was not available on methods of lighting the bulb, was there some root cause of the experiments that resulted in no bulb lighting? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Before the veil there was knowledge of the bulb-lighting technique, shall we say.",
+        "start_offset": 0,
+        "end_offset": 81,
+        "start": 2.141,
+        "end": 9.903
+      },
+      {
+        "segment": "After the veil some experiments created a bulb lighting; some resulted in no bulb lighting.",
+        "start_offset": 82,
+        "end_offset": 173,
+        "start": 11.363,
+        "end": 25.887
+      },
+      {
+        "segment": "Other than the fact that information was not available on methods of lighting the bulb, was there some root cause of the experiments that resulted in no bulb lighting?",
+        "start_offset": 174,
+        "end_offset": 341,
+        "start": 28.748,
+        "end": 54.875
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 342,
+        "end_offset": 350,
+        "start": 58.316,
+        "end": 60.576
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 351,
+        "end_offset": 367,
+        "start": 62.077,
+        "end": 65.057
+      }
+    ],
+    "word": [
+      {
+        "word": "Before",
+        "start_offset": 0,
+        "end_offset": 6,
+        "start": 2.141,
+        "end": 2.461,
+        "score": -1.3683
+      },
+      {
+        "word": "the",
+        "start_offset": 7,
+        "end_offset": 10,
+        "start": 2.481,
+        "end": 2.581,
+        "score": -1.6325
+      },
+      {
+        "word": "veil",
+        "start_offset": 11,
+        "end_offset": 15,
+        "start": 2.641,
+        "end": 2.921,
+        "score": -2.5871
+      },
+      {
+        "word": "there",
+        "start_offset": 16,
+        "end_offset": 21,
+        "start": 4.481,
+        "end": 4.641,
+        "score": -1.0645
+      },
+      {
+        "word": "was",
+        "start_offset": 22,
+        "end_offset": 25,
+        "start": 4.661,
+        "end": 4.781,
+        "score": -0.9554
+      },
+      {
+        "word": "knowledge",
+        "start_offset": 26,
+        "end_offset": 35,
+        "start": 4.821,
+        "end": 5.321,
+        "score": -0.9859
+      },
+      {
+        "word": "of",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 6.822,
+        "end": 7.062,
+        "score": -0.8468
+      },
+      {
+        "word": "the",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 7.822,
+        "end": 7.902,
+        "score": -0.8135
+      },
+      {
+        "word": "bulb-lighting",
+        "start_offset": 43,
+        "end_offset": 56,
+        "start": 7.942,
+        "end": 8.842,
+        "score": -1.0907
+      },
+      {
+        "word": "technique,",
+        "start_offset": 57,
+        "end_offset": 67,
+        "start": 8.942,
+        "end": 9.403,
+        "score": -0.8383
+      },
+      {
+        "word": "shall",
+        "start_offset": 68,
+        "end_offset": 73,
+        "start": 9.443,
+        "end": 9.603,
+        "score": -5.5189
+      },
+      {
+        "word": "we",
+        "start_offset": 74,
+        "end_offset": 76,
+        "start": 9.643,
+        "end": 9.703,
+        "score": -1.1414
+      },
+      {
+        "word": "say.",
+        "start_offset": 77,
+        "end_offset": 81,
+        "start": 9.823,
+        "end": 9.903,
+        "score": -6.4356
+      },
+      {
+        "word": "After",
+        "start_offset": 82,
+        "end_offset": 87,
+        "start": 11.363,
+        "end": 11.643,
+        "score": -0.7835
+      },
+      {
+        "word": "the",
+        "start_offset": 88,
+        "end_offset": 91,
+        "start": 11.683,
+        "end": 11.763,
+        "score": -0.8202
+      },
+      {
+        "word": "veil",
+        "start_offset": 92,
+        "end_offset": 96,
+        "start": 11.823,
+        "end": 12.103,
+        "score": -1.9641
+      },
+      {
+        "word": "some",
+        "start_offset": 97,
+        "end_offset": 101,
+        "start": 14.404,
+        "end": 14.744,
+        "score": -0.7886
+      },
+      {
+        "word": "experiments",
+        "start_offset": 102,
+        "end_offset": 113,
+        "start": 18.645,
+        "end": 19.465,
+        "score": -0.7859
+      },
+      {
+        "word": "created",
+        "start_offset": 114,
+        "end_offset": 121,
+        "start": 19.825,
+        "end": 20.285,
+        "score": -0.7045
+      },
+      {
+        "word": "a",
+        "start_offset": 122,
+        "end_offset": 123,
+        "start": 20.766,
+        "end": 20.786,
+        "score": -0.7132
+      },
+      {
+        "word": "bulb",
+        "start_offset": 124,
+        "end_offset": 128,
+        "start": 20.886,
+        "end": 21.106,
+        "score": -1.4268
+      },
+      {
+        "word": "lighting;",
+        "start_offset": 129,
+        "end_offset": 138,
+        "start": 21.186,
+        "end": 21.526,
+        "score": -1.2589
+      },
+      {
+        "word": "some",
+        "start_offset": 139,
+        "end_offset": 143,
+        "start": 22.806,
+        "end": 23.126,
+        "score": -0.7121
+      },
+      {
+        "word": "resulted",
+        "start_offset": 144,
+        "end_offset": 152,
+        "start": 24.326,
+        "end": 24.807,
+        "score": -0.7073
+      },
+      {
+        "word": "in",
+        "start_offset": 153,
+        "end_offset": 155,
+        "start": 24.887,
+        "end": 24.967,
+        "score": -0.726
+      },
+      {
+        "word": "no",
+        "start_offset": 156,
+        "end_offset": 158,
+        "start": 25.047,
+        "end": 25.147,
+        "score": -0.7463
+      },
+      {
+        "word": "bulb",
+        "start_offset": 159,
+        "end_offset": 163,
+        "start": 25.287,
+        "end": 25.527,
+        "score": -1.1415
+      },
+      {
+        "word": "lighting.",
+        "start_offset": 164,
+        "end_offset": 173,
+        "start": 25.587,
+        "end": 25.887,
+        "score": -1.7981
+      },
+      {
+        "word": "Other",
+        "start_offset": 174,
+        "end_offset": 179,
+        "start": 28.748,
+        "end": 28.968,
+        "score": -1.8943
+      },
+      {
+        "word": "than",
+        "start_offset": 180,
+        "end_offset": 184,
+        "start": 29.028,
+        "end": 29.348,
+        "score": -0.8403
+      },
+      {
+        "word": "the",
+        "start_offset": 185,
+        "end_offset": 188,
+        "start": 30.588,
+        "end": 30.668,
+        "score": -0.8646
+      },
+      {
+        "word": "fact",
+        "start_offset": 189,
+        "end_offset": 193,
+        "start": 30.768,
+        "end": 31.108,
+        "score": -0.7178
+      },
+      {
+        "word": "that",
+        "start_offset": 194,
+        "end_offset": 198,
+        "start": 31.148,
+        "end": 31.308,
+        "score": -0.7521
+      },
+      {
+        "word": "information",
+        "start_offset": 199,
+        "end_offset": 210,
+        "start": 32.649,
+        "end": 33.389,
+        "score": -0.6995
+      },
+      {
+        "word": "was",
+        "start_offset": 211,
+        "end_offset": 214,
+        "start": 34.009,
+        "end": 34.169,
+        "score": -0.711
+      },
+      {
+        "word": "not",
+        "start_offset": 215,
+        "end_offset": 218,
+        "start": 34.249,
+        "end": 34.409,
+        "score": -0.6999
+      },
+      {
+        "word": "available",
+        "start_offset": 219,
+        "end_offset": 228,
+        "start": 34.509,
+        "end": 35.069,
+        "score": -0.7064
+      },
+      {
+        "word": "on",
+        "start_offset": 229,
+        "end_offset": 231,
+        "start": 35.469,
+        "end": 35.609,
+        "score": -0.7016
+      },
+      {
+        "word": "methods",
+        "start_offset": 232,
+        "end_offset": 239,
+        "start": 35.75,
+        "end": 36.15,
+        "score": -0.7147
+      },
+      {
+        "word": "of",
+        "start_offset": 240,
+        "end_offset": 242,
+        "start": 36.17,
+        "end": 36.23,
+        "score": -0.7444
+      },
+      {
+        "word": "lighting",
+        "start_offset": 243,
+        "end_offset": 251,
+        "start": 36.29,
+        "end": 36.61,
+        "score": -0.9934
+      },
+      {
+        "word": "the",
+        "start_offset": 252,
+        "end_offset": 255,
+        "start": 36.63,
+        "end": 36.69,
+        "score": -7.5288
+      },
+      {
+        "word": "bulb,",
+        "start_offset": 256,
+        "end_offset": 261,
+        "start": 36.75,
+        "end": 37.05,
+        "score": -1.1821
+      },
+      {
+        "word": "was",
+        "start_offset": 262,
+        "end_offset": 265,
+        "start": 41.731,
+        "end": 41.971,
+        "score": -0.9575
+      },
+      {
+        "word": "there",
+        "start_offset": 266,
+        "end_offset": 271,
+        "start": 42.031,
+        "end": 42.231,
+        "score": -0.8431
+      },
+      {
+        "word": "some",
+        "start_offset": 272,
+        "end_offset": 276,
+        "start": 42.311,
+        "end": 42.611,
+        "score": -0.7308
+      },
+      {
+        "word": "root",
+        "start_offset": 277,
+        "end_offset": 281,
+        "start": 44.912,
+        "end": 45.152,
+        "score": -1.1219
+      },
+      {
+        "word": "cause",
+        "start_offset": 282,
+        "end_offset": 287,
+        "start": 45.352,
+        "end": 45.912,
+        "score": -0.8069
+      },
+      {
+        "word": "of",
+        "start_offset": 288,
+        "end_offset": 290,
+        "start": 47.133,
+        "end": 47.373,
+        "score": -1.0074
+      },
+      {
+        "word": "the",
+        "start_offset": 291,
+        "end_offset": 294,
+        "start": 49.013,
+        "end": 49.133,
+        "score": -1.0302
+      },
+      {
+        "word": "experiments",
+        "start_offset": 295,
+        "end_offset": 306,
+        "start": 50.954,
+        "end": 51.674,
+        "score": -0.8857
+      },
+      {
+        "word": "that",
+        "start_offset": 307,
+        "end_offset": 311,
+        "start": 52.294,
+        "end": 52.474,
+        "score": -1.6635
+      },
+      {
+        "word": "resulted",
+        "start_offset": 312,
+        "end_offset": 320,
+        "start": 52.634,
+        "end": 53.214,
+        "score": -0.7069
+      },
+      {
+        "word": "in",
+        "start_offset": 321,
+        "end_offset": 323,
+        "start": 53.394,
+        "end": 53.514,
+        "score": -0.7133
+      },
+      {
+        "word": "no",
+        "start_offset": 324,
+        "end_offset": 326,
+        "start": 53.994,
+        "end": 54.094,
+        "score": -0.7295
+      },
+      {
+        "word": "bulb",
+        "start_offset": 327,
+        "end_offset": 331,
+        "start": 54.254,
+        "end": 54.494,
+        "score": -1.1489
+      },
+      {
+        "word": "lighting?",
+        "start_offset": 332,
+        "end_offset": 341,
+        "start": 54.575,
+        "end": 54.875,
+        "score": -1.6303
+      },
+      {
+        "word": "I",
+        "start_offset": 342,
+        "end_offset": 343,
+        "start": 58.316,
+        "end": 58.336,
+        "score": -4.3964
+      },
+      {
+        "word": "am",
+        "start_offset": 344,
+        "end_offset": 346,
+        "start": 59.016,
+        "end": 59.276,
+        "score": -6.7962
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 347,
+        "end_offset": 350,
+        "start": 60.436,
+        "end": 60.576,
+        "score": -6.7065
+      },
+      {
+        "word": "This",
+        "start_offset": 351,
+        "end_offset": 355,
+        "start": 62.077,
+        "end": 62.417,
+        "score": -3.0003
+      },
+      {
+        "word": "is",
+        "start_offset": 356,
+        "end_offset": 358,
+        "start": 63.197,
+        "end": 63.477,
+        "score": -2.8344
+      },
+      {
+        "word": "correct.",
+        "start_offset": 359,
+        "end_offset": 367,
+        "start": 64.317,
+        "end": 65.057,
+        "score": -1.5955
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "087-20.mp3",
+    "audio_duration": 66.0376,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "text": "Possibly the use of a prism breaking white light into its spectrum and then screening off all parts of the spectrum except that which you wished to pass through a slit and use would be even better. I am wrong. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Possibly the use of a prism breaking white light into its spectrum and then screening off all parts of the spectrum except that which you wished to pass through a slit and use would be even better.",
+        "start_offset": 20,
+        "end_offset": 183,
+        "start": 1.6,
+        "end": 14.64
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 248,
+        "end_offset": 281,
+        "start": 19.84,
+        "end": 22.48
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 297,
+        "end_offset": 332,
+        "start": 23.76,
+        "end": 26.560000000000002
+      }
+    ],
+    "word": [
+      {
+        "word": "Possibly",
+        "start_offset": 20,
+        "end_offset": 29,
+        "start": 1.6,
+        "end": 2.32
+      },
+      {
+        "word": "the",
+        "start_offset": 29,
+        "end_offset": 31,
+        "start": 2.32,
+        "end": 2.48
+      },
+      {
+        "word": "use",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 2.48,
+        "end": 2.64
+      },
+      {
+        "word": "of",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 2.64,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "a",
+        "start_offset": 35,
+        "end_offset": 37,
+        "start": 2.8000000000000003,
+        "end": 2.96
+      },
+      {
+        "word": "prism",
+        "start_offset": 37,
+        "end_offset": 42,
+        "start": 2.96,
+        "end": 3.36
+      },
+      {
+        "word": "breaking",
+        "start_offset": 44,
+        "end_offset": 51,
+        "start": 3.52,
+        "end": 4.08
+      },
+      {
+        "word": "white",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 4.08,
+        "end": 4.32
+      },
+      {
+        "word": "light",
+        "start_offset": 54,
+        "end_offset": 59,
+        "start": 4.32,
+        "end": 4.72
+      },
+      {
+        "word": "into",
+        "start_offset": 59,
+        "end_offset": 63,
+        "start": 4.72,
+        "end": 5.04
+      },
+      {
+        "word": "its",
+        "start_offset": 63,
+        "end_offset": 67,
+        "start": 5.04,
+        "end": 5.36
+      },
+      {
+        "word": "spectrum",
+        "start_offset": 67,
+        "end_offset": 75,
+        "start": 5.36,
+        "end": 6.0
+      },
+      {
+        "word": "and",
+        "start_offset": 75,
+        "end_offset": 78,
+        "start": 6.0,
+        "end": 6.24
+      },
+      {
+        "word": "then",
+        "start_offset": 78,
+        "end_offset": 81,
+        "start": 6.24,
+        "end": 6.48
+      },
+      {
+        "word": "screening",
+        "start_offset": 81,
+        "end_offset": 92,
+        "start": 6.48,
+        "end": 7.36
+      },
+      {
+        "word": "off",
+        "start_offset": 92,
+        "end_offset": 96,
+        "start": 7.36,
+        "end": 7.68
+      },
+      {
+        "word": "all",
+        "start_offset": 99,
+        "end_offset": 103,
+        "start": 7.92,
+        "end": 8.24
+      },
+      {
+        "word": "parts",
+        "start_offset": 103,
+        "end_offset": 107,
+        "start": 8.24,
+        "end": 8.56
+      },
+      {
+        "word": "of",
+        "start_offset": 107,
+        "end_offset": 108,
+        "start": 8.56,
+        "end": 8.64
+      },
+      {
+        "word": "the",
+        "start_offset": 108,
+        "end_offset": 110,
+        "start": 8.64,
+        "end": 8.8
+      },
+      {
+        "word": "spectrum",
+        "start_offset": 110,
+        "end_offset": 117,
+        "start": 8.8,
+        "end": 9.36
+      },
+      {
+        "word": "except",
+        "start_offset": 117,
+        "end_offset": 122,
+        "start": 9.36,
+        "end": 9.76
+      },
+      {
+        "word": "that",
+        "start_offset": 122,
+        "end_offset": 125,
+        "start": 9.76,
+        "end": 10.0
+      },
+      {
+        "word": "which",
+        "start_offset": 125,
+        "end_offset": 128,
+        "start": 10.0,
+        "end": 10.24
+      },
+      {
+        "word": "you",
+        "start_offset": 128,
+        "end_offset": 130,
+        "start": 10.24,
+        "end": 10.4
+      },
+      {
+        "word": "wished",
+        "start_offset": 139,
+        "end_offset": 145,
+        "start": 11.120000000000001,
+        "end": 11.6
+      },
+      {
+        "word": "to",
+        "start_offset": 145,
+        "end_offset": 148,
+        "start": 11.6,
+        "end": 11.84
+      },
+      {
+        "word": "pass",
+        "start_offset": 148,
+        "end_offset": 150,
+        "start": 11.84,
+        "end": 12.0
+      },
+      {
+        "word": "through",
+        "start_offset": 150,
+        "end_offset": 153,
+        "start": 12.0,
+        "end": 12.24
+      },
+      {
+        "word": "a",
+        "start_offset": 153,
+        "end_offset": 155,
+        "start": 12.24,
+        "end": 12.4
+      },
+      {
+        "word": "slit",
+        "start_offset": 155,
+        "end_offset": 159,
+        "start": 12.4,
+        "end": 12.72
+      },
+      {
+        "word": "and",
+        "start_offset": 160,
+        "end_offset": 162,
+        "start": 12.8,
+        "end": 12.96
+      },
+      {
+        "word": "use",
+        "start_offset": 162,
+        "end_offset": 164,
+        "start": 12.96,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "would",
+        "start_offset": 167,
+        "end_offset": 169,
+        "start": 13.36,
+        "end": 13.52
+      },
+      {
+        "word": "be",
+        "start_offset": 169,
+        "end_offset": 171,
+        "start": 13.52,
+        "end": 13.68
+      },
+      {
+        "word": "even",
+        "start_offset": 171,
+        "end_offset": 175,
+        "start": 13.68,
+        "end": 14.0
+      },
+      {
+        "word": "better.",
+        "start_offset": 175,
+        "end_offset": 183,
+        "start": 14.0,
+        "end": 14.64
+      },
+      {
+        "word": "I",
+        "start_offset": 248,
+        "end_offset": 252,
+        "start": 19.84,
+        "end": 20.16
+      },
+      {
+        "word": "am",
+        "start_offset": 260,
+        "end_offset": 264,
+        "start": 20.8,
+        "end": 21.12
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 272,
+        "end_offset": 281,
+        "start": 21.76,
+        "end": 22.48
+      },
+      {
+        "word": "This",
+        "start_offset": 297,
+        "end_offset": 301,
+        "start": 23.76,
+        "end": 24.080000000000002
+      },
+      {
+        "word": "is",
+        "start_offset": 309,
+        "end_offset": 313,
+        "start": 24.72,
+        "end": 25.04
+      },
+      {
+        "word": "correct.",
+        "start_offset": 321,
+        "end_offset": 332,
+        "start": 25.68,
+        "end": 26.560000000000002
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "033-05.mp3",
+    "audio_duration": 27.04,
+    "transcription_time": 0.09,
+    "rtfx": 288.82,
+    "timestamp": "2026-01-06T21:49:58.610102+00:00"
+  }
+}

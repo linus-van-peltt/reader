@@ -1,0 +1,387 @@
+{
+  "text": "The dangerous pyramid shape for use today would be a four-sided pyramid that was large enough to create the King's Chamber effect. Is that statement correct? I am wrong. This statement is correct with the additional understanding that the seventy-six-degree apex angle is that characteristic of the powerful shape.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "The dangerous pyramid shape for use today would be a four-sided pyramid that was large enough to create the King's Chamber effect.",
+        "start_offset": 24,
+        "end_offset": 307,
+        "start": 1.92,
+        "end": 24.560000000000002
+      },
+      {
+        "segment": "Is that statement correct?",
+        "start_offset": 308,
+        "end_offset": 331,
+        "start": 24.64,
+        "end": 26.48
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 368,
+        "end_offset": 399,
+        "start": 29.44,
+        "end": 31.92
+      },
+      {
+        "segment": "This statement is correct with the additional understanding that the seventy-six-degree apex angle is that characteristic of the powerful shape.",
+        "start_offset": 415,
+        "end_offset": 851,
+        "start": 33.2,
+        "end": 68.08
+      }
+    ],
+    "word": [
+      {
+        "word": "The",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 1.92,
+        "end": 2.24
+      },
+      {
+        "word": "dangerous",
+        "start_offset": 48,
+        "end_offset": 62,
+        "start": 3.84,
+        "end": 4.96
+      },
+      {
+        "word": "pyramid",
+        "start_offset": 66,
+        "end_offset": 78,
+        "start": 5.28,
+        "end": 6.24
+      },
+      {
+        "word": "shape",
+        "start_offset": 78,
+        "end_offset": 86,
+        "start": 6.24,
+        "end": 6.88
+      },
+      {
+        "word": "for",
+        "start_offset": 97,
+        "end_offset": 100,
+        "start": 7.76,
+        "end": 8.0
+      },
+      {
+        "word": "use",
+        "start_offset": 103,
+        "end_offset": 106,
+        "start": 8.24,
+        "end": 8.48
+      },
+      {
+        "word": "today",
+        "start_offset": 109,
+        "end_offset": 117,
+        "start": 8.72,
+        "end": 9.36
+      },
+      {
+        "word": "would",
+        "start_offset": 137,
+        "end_offset": 141,
+        "start": 10.96,
+        "end": 11.28
+      },
+      {
+        "word": "be",
+        "start_offset": 145,
+        "end_offset": 149,
+        "start": 11.6,
+        "end": 11.92
+      },
+      {
+        "word": "a",
+        "start_offset": 164,
+        "end_offset": 168,
+        "start": 13.120000000000001,
+        "end": 13.44
+      },
+      {
+        "word": "four-sided",
+        "start_offset": 168,
+        "end_offset": 179,
+        "start": 13.44,
+        "end": 14.32
+      },
+      {
+        "word": "pyramid",
+        "start_offset": 182,
+        "end_offset": 194,
+        "start": 14.56,
+        "end": 15.52
+      },
+      {
+        "word": "that",
+        "start_offset": 218,
+        "end_offset": 222,
+        "start": 17.44,
+        "end": 17.76
+      },
+      {
+        "word": "was",
+        "start_offset": 222,
+        "end_offset": 226,
+        "start": 17.76,
+        "end": 18.080000000000002
+      },
+      {
+        "word": "large",
+        "start_offset": 258,
+        "end_offset": 268,
+        "start": 20.64,
+        "end": 21.44
+      },
+      {
+        "word": "enough",
+        "start_offset": 268,
+        "end_offset": 275,
+        "start": 21.44,
+        "end": 22.0
+      },
+      {
+        "word": "to",
+        "start_offset": 275,
+        "end_offset": 279,
+        "start": 22.0,
+        "end": 22.32
+      },
+      {
+        "word": "create",
+        "start_offset": 279,
+        "end_offset": 285,
+        "start": 22.32,
+        "end": 22.8
+      },
+      {
+        "word": "the",
+        "start_offset": 285,
+        "end_offset": 288,
+        "start": 22.8,
+        "end": 23.04
+      },
+      {
+        "word": "King's",
+        "start_offset": 288,
+        "end_offset": 294,
+        "start": 23.04,
+        "end": 23.52
+      },
+      {
+        "word": "Chamber",
+        "start_offset": 294,
+        "end_offset": 301,
+        "start": 23.52,
+        "end": 24.080000000000002
+      },
+      {
+        "word": "effect.",
+        "start_offset": 301,
+        "end_offset": 307,
+        "start": 24.080000000000002,
+        "end": 24.560000000000002
+      },
+      {
+        "word": "Is",
+        "start_offset": 308,
+        "end_offset": 312,
+        "start": 24.64,
+        "end": 24.96
+      },
+      {
+        "word": "that",
+        "start_offset": 312,
+        "end_offset": 315,
+        "start": 24.96,
+        "end": 25.2
+      },
+      {
+        "word": "statement",
+        "start_offset": 315,
+        "end_offset": 321,
+        "start": 25.2,
+        "end": 25.68
+      },
+      {
+        "word": "correct?",
+        "start_offset": 321,
+        "end_offset": 331,
+        "start": 25.68,
+        "end": 26.48
+      },
+      {
+        "word": "I",
+        "start_offset": 368,
+        "end_offset": 372,
+        "start": 29.44,
+        "end": 29.76
+      },
+      {
+        "word": "am",
+        "start_offset": 380,
+        "end_offset": 384,
+        "start": 30.400000000000002,
+        "end": 30.72
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 392,
+        "end_offset": 399,
+        "start": 31.36,
+        "end": 31.92
+      },
+      {
+        "word": "This",
+        "start_offset": 415,
+        "end_offset": 419,
+        "start": 33.2,
+        "end": 33.52
+      },
+      {
+        "word": "statement",
+        "start_offset": 431,
+        "end_offset": 439,
+        "start": 34.480000000000004,
+        "end": 35.12
+      },
+      {
+        "word": "is",
+        "start_offset": 451,
+        "end_offset": 455,
+        "start": 36.08,
+        "end": 36.4
+      },
+      {
+        "word": "correct",
+        "start_offset": 467,
+        "end_offset": 479,
+        "start": 37.36,
+        "end": 38.32
+      },
+      {
+        "word": "with",
+        "start_offset": 491,
+        "end_offset": 495,
+        "start": 39.28,
+        "end": 39.6
+      },
+      {
+        "word": "the",
+        "start_offset": 503,
+        "end_offset": 507,
+        "start": 40.24,
+        "end": 40.56
+      },
+      {
+        "word": "additional",
+        "start_offset": 511,
+        "end_offset": 527,
+        "start": 40.88,
+        "end": 42.160000000000004
+      },
+      {
+        "word": "understanding",
+        "start_offset": 543,
+        "end_offset": 563,
+        "start": 43.44,
+        "end": 45.04
+      },
+      {
+        "word": "that",
+        "start_offset": 575,
+        "end_offset": 579,
+        "start": 46.0,
+        "end": 46.32
+      },
+      {
+        "word": "the",
+        "start_offset": 587,
+        "end_offset": 591,
+        "start": 46.96,
+        "end": 47.28
+      },
+      {
+        "word": "seventy-six-degree",
+        "start_offset": 603,
+        "end_offset": 645,
+        "start": 48.24,
+        "end": 51.6
+      },
+      {
+        "word": "apex",
+        "start_offset": 657,
+        "end_offset": 668,
+        "start": 52.56,
+        "end": 53.44
+      },
+      {
+        "word": "angle",
+        "start_offset": 676,
+        "end_offset": 687,
+        "start": 54.08,
+        "end": 54.96
+      },
+      {
+        "word": "is",
+        "start_offset": 695,
+        "end_offset": 699,
+        "start": 55.6,
+        "end": 55.92
+      },
+      {
+        "word": "that",
+        "start_offset": 719,
+        "end_offset": 723,
+        "start": 57.52,
+        "end": 57.84
+      },
+      {
+        "word": "characteristic",
+        "start_offset": 739,
+        "end_offset": 763,
+        "start": 59.120000000000005,
+        "end": 61.04
+      },
+      {
+        "word": "of",
+        "start_offset": 779,
+        "end_offset": 783,
+        "start": 62.32,
+        "end": 62.64
+      },
+      {
+        "word": "the",
+        "start_offset": 795,
+        "end_offset": 799,
+        "start": 63.6,
+        "end": 63.92
+      },
+      {
+        "word": "powerful",
+        "start_offset": 811,
+        "end_offset": 827,
+        "start": 64.88,
+        "end": 66.16
+      },
+      {
+        "word": "shape.",
+        "start_offset": 843,
+        "end_offset": 851,
+        "start": 67.44,
+        "end": 68.08
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "057-30.mp3",
+    "audio_duration": 71.03,
+    "transcription_time": 0.13,
+    "rtfx": 533.94,
+    "timestamp": "2026-01-06T21:52:52.679539+00:00"
+  }
+}

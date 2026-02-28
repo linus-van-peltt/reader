@@ -1,0 +1,412 @@
+{
+  "text": "What would happen to the entity if he did not obey the quarantine after being hailed? I am Ra. To not obey quarantine after being hailed on the level of which we speak would be equivalent to your not stopping upon walking into a solid brick wall.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What would happen to the entity if he did not obey the quarantine after being hailed?",
+        "start_offset": 0,
+        "end_offset": 85,
+        "start": 3.001,
+        "end": 19.426
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 86,
+        "end_offset": 94,
+        "start": 19.446,
+        "end": 21.506
+      },
+      {
+        "segment": "To not obey quarantine after being hailed on the level of which we speak would be equivalent to your not stopping upon walking into a solid brick wall.",
+        "start_offset": 95,
+        "end_offset": 246,
+        "start": 21.526,
+        "end": 57.976
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 3.001,
+        "end": 3.221,
+        "score": -7.5861
+      },
+      {
+        "word": "would",
+        "start_offset": 5,
+        "end_offset": 10,
+        "start": 3.241,
+        "end": 3.381,
+        "score": -8.8679
+      },
+      {
+        "word": "happen",
+        "start_offset": 11,
+        "end_offset": 17,
+        "start": 3.401,
+        "end": 5.742,
+        "score": -8.3426
+      },
+      {
+        "word": "to",
+        "start_offset": 18,
+        "end_offset": 20,
+        "start": 5.762,
+        "end": 5.802,
+        "score": -8.9221
+      },
+      {
+        "word": "the",
+        "start_offset": 21,
+        "end_offset": 24,
+        "start": 5.822,
+        "end": 5.882,
+        "score": -7.7103
+      },
+      {
+        "word": "entity",
+        "start_offset": 25,
+        "end_offset": 31,
+        "start": 5.902,
+        "end": 6.122,
+        "score": -8.0312
+      },
+      {
+        "word": "if",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 6.302,
+        "end": 16.305,
+        "score": -8.4168
+      },
+      {
+        "word": "he",
+        "start_offset": 35,
+        "end_offset": 37,
+        "start": 16.325,
+        "end": 16.405,
+        "score": -5.2767
+      },
+      {
+        "word": "did",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 16.425,
+        "end": 16.705,
+        "score": -6.9053
+      },
+      {
+        "word": "not",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 17.745,
+        "end": 17.805,
+        "score": -5.9488
+      },
+      {
+        "word": "obey",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 18.565,
+        "end": 18.645,
+        "score": -7.2337
+      },
+      {
+        "word": "the",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 18.665,
+        "end": 18.725,
+        "score": -6.7449
+      },
+      {
+        "word": "quarantine",
+        "start_offset": 55,
+        "end_offset": 65,
+        "start": 18.845,
+        "end": 19.045,
+        "score": -6.7317
+      },
+      {
+        "word": "after",
+        "start_offset": 66,
+        "end_offset": 71,
+        "start": 19.065,
+        "end": 19.165,
+        "score": -7.1472
+      },
+      {
+        "word": "being",
+        "start_offset": 72,
+        "end_offset": 77,
+        "start": 19.185,
+        "end": 19.285,
+        "score": -7.8734
+      },
+      {
+        "word": "hailed?",
+        "start_offset": 78,
+        "end_offset": 85,
+        "start": 19.305,
+        "end": 19.426,
+        "score": -8.1701
+      },
+      {
+        "word": "I",
+        "start_offset": 86,
+        "end_offset": 87,
+        "start": 19.446,
+        "end": 19.466,
+        "score": -7.6561
+      },
+      {
+        "word": "am",
+        "start_offset": 88,
+        "end_offset": 90,
+        "start": 19.526,
+        "end": 21.386,
+        "score": -7.3684
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 91,
+        "end_offset": 94,
+        "start": 21.446,
+        "end": 21.506,
+        "score": -8.3272
+      },
+      {
+        "word": "To",
+        "start_offset": 95,
+        "end_offset": 97,
+        "start": 21.526,
+        "end": 21.786,
+        "score": -0.9091
+      },
+      {
+        "word": "not",
+        "start_offset": 98,
+        "end_offset": 101,
+        "start": 23.187,
+        "end": 23.567,
+        "score": -0.7219
+      },
+      {
+        "word": "obey",
+        "start_offset": 102,
+        "end_offset": 106,
+        "start": 24.347,
+        "end": 24.847,
+        "score": -2.2017
+      },
+      {
+        "word": "quarantine",
+        "start_offset": 107,
+        "end_offset": 117,
+        "start": 25.827,
+        "end": 26.828,
+        "score": -1.5388
+      },
+      {
+        "word": "after",
+        "start_offset": 118,
+        "end_offset": 123,
+        "start": 27.988,
+        "end": 28.468,
+        "score": -0.6999
+      },
+      {
+        "word": "being",
+        "start_offset": 124,
+        "end_offset": 129,
+        "start": 29.708,
+        "end": 30.129,
+        "score": -0.8898
+      },
+      {
+        "word": "hailed",
+        "start_offset": 130,
+        "end_offset": 136,
+        "start": 30.789,
+        "end": 31.369,
+        "score": -1.8221
+      },
+      {
+        "word": "on",
+        "start_offset": 137,
+        "end_offset": 139,
+        "start": 32.589,
+        "end": 32.769,
+        "score": -0.7732
+      },
+      {
+        "word": "the",
+        "start_offset": 140,
+        "end_offset": 143,
+        "start": 33.029,
+        "end": 33.149,
+        "score": -1.1476
+      },
+      {
+        "word": "level",
+        "start_offset": 144,
+        "end_offset": 149,
+        "start": 33.389,
+        "end": 33.83,
+        "score": -1.3415
+      },
+      {
+        "word": "of",
+        "start_offset": 150,
+        "end_offset": 152,
+        "start": 34.89,
+        "end": 34.99,
+        "score": -1.7687
+      },
+      {
+        "word": "which",
+        "start_offset": 153,
+        "end_offset": 158,
+        "start": 35.13,
+        "end": 35.51,
+        "score": -0.9261
+      },
+      {
+        "word": "we",
+        "start_offset": 159,
+        "end_offset": 161,
+        "start": 36.51,
+        "end": 36.61,
+        "score": -4.1728
+      },
+      {
+        "word": "speak",
+        "start_offset": 162,
+        "end_offset": 167,
+        "start": 37.531,
+        "end": 38.071,
+        "score": -3.1768
+      },
+      {
+        "word": "would",
+        "start_offset": 168,
+        "end_offset": 173,
+        "start": 39.291,
+        "end": 39.591,
+        "score": -0.7805
+      },
+      {
+        "word": "be",
+        "start_offset": 174,
+        "end_offset": 176,
+        "start": 40.271,
+        "end": 40.411,
+        "score": -0.7019
+      },
+      {
+        "word": "equivalent",
+        "start_offset": 177,
+        "end_offset": 187,
+        "start": 41.512,
+        "end": 42.732,
+        "score": -0.9558
+      },
+      {
+        "word": "to",
+        "start_offset": 188,
+        "end_offset": 190,
+        "start": 43.612,
+        "end": 43.832,
+        "score": -0.7888
+      },
+      {
+        "word": "your",
+        "start_offset": 191,
+        "end_offset": 195,
+        "start": 44.933,
+        "end": 45.273,
+        "score": -1.3041
+      },
+      {
+        "word": "not",
+        "start_offset": 196,
+        "end_offset": 199,
+        "start": 46.193,
+        "end": 46.573,
+        "score": -0.7184
+      },
+      {
+        "word": "stopping",
+        "start_offset": 200,
+        "end_offset": 208,
+        "start": 47.253,
+        "end": 48.034,
+        "score": -1.4351
+      },
+      {
+        "word": "upon",
+        "start_offset": 209,
+        "end_offset": 213,
+        "start": 48.754,
+        "end": 49.434,
+        "score": -2.0315
+      },
+      {
+        "word": "walking",
+        "start_offset": 214,
+        "end_offset": 221,
+        "start": 50.354,
+        "end": 50.954,
+        "score": -0.8033
+      },
+      {
+        "word": "into",
+        "start_offset": 222,
+        "end_offset": 226,
+        "start": 51.915,
+        "end": 52.275,
+        "score": -0.7187
+      },
+      {
+        "word": "a",
+        "start_offset": 227,
+        "end_offset": 228,
+        "start": 53.555,
+        "end": 53.575,
+        "score": -0.7313
+      },
+      {
+        "word": "solid",
+        "start_offset": 229,
+        "end_offset": 234,
+        "start": 54.756,
+        "end": 55.376,
+        "score": -0.7826
+      },
+      {
+        "word": "brick",
+        "start_offset": 235,
+        "end_offset": 240,
+        "start": 56.136,
+        "end": 56.596,
+        "score": -1.5464
+      },
+      {
+        "word": "wall.",
+        "start_offset": 241,
+        "end_offset": 246,
+        "start": 57.516,
+        "end": 57.976,
+        "score": -1.6269
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "012-06.mp3",
+    "audio_duration": 59.0367,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

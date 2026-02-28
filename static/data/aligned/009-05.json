@@ -1,0 +1,331 @@
+{
+  "text": "The original, the first entities on this planet— what was their origin? Where were they before they were on this planet? I am Ra. The first entities upon this planet were water, fire, air and earth.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "The original, the first entities on this planet— what was their origin?",
+        "start_offset": 0,
+        "end_offset": 71,
+        "start": 2.921,
+        "end": 9.462
+      },
+      {
+        "segment": "Where were they before they were on this planet?",
+        "start_offset": 72,
+        "end_offset": 120,
+        "start": 10.423,
+        "end": 21.325
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 121,
+        "end_offset": 129,
+        "start": 22.565,
+        "end": 24.326
+      },
+      {
+        "segment": "The first entities upon this planet were water, fire, air and earth.",
+        "start_offset": 130,
+        "end_offset": 198,
+        "start": 26.546,
+        "end": 47.592
+      }
+    ],
+    "word": [
+      {
+        "word": "The",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.921,
+        "end": 2.981,
+        "score": -7.3206
+      },
+      {
+        "word": "original,",
+        "start_offset": 4,
+        "end_offset": 13,
+        "start": 3.021,
+        "end": 3.341,
+        "score": -8.0584
+      },
+      {
+        "word": "the",
+        "start_offset": 14,
+        "end_offset": 17,
+        "start": 3.941,
+        "end": 4.001,
+        "score": -6.8003
+      },
+      {
+        "word": "first",
+        "start_offset": 18,
+        "end_offset": 23,
+        "start": 4.101,
+        "end": 4.461,
+        "score": -5.8447
+      },
+      {
+        "word": "entities",
+        "start_offset": 24,
+        "end_offset": 32,
+        "start": 4.901,
+        "end": 5.381,
+        "score": -5.2704
+      },
+      {
+        "word": "on",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 5.541,
+        "end": 5.701,
+        "score": -7.8756
+      },
+      {
+        "word": "this",
+        "start_offset": 36,
+        "end_offset": 40,
+        "start": 5.741,
+        "end": 5.921,
+        "score": -6.2447
+      },
+      {
+        "word": "planet—",
+        "start_offset": 41,
+        "end_offset": 48,
+        "start": 6.041,
+        "end": 6.362,
+        "score": -5.5988
+      },
+      {
+        "word": "what",
+        "start_offset": 49,
+        "end_offset": 53,
+        "start": 8.102,
+        "end": 8.342,
+        "score": -5.1739
+      },
+      {
+        "word": "was",
+        "start_offset": 54,
+        "end_offset": 57,
+        "start": 8.402,
+        "end": 8.642,
+        "score": -4.2501
+      },
+      {
+        "word": "their",
+        "start_offset": 58,
+        "end_offset": 63,
+        "start": 8.682,
+        "end": 8.842,
+        "score": -4.8072
+      },
+      {
+        "word": "origin?",
+        "start_offset": 64,
+        "end_offset": 71,
+        "start": 9.062,
+        "end": 9.462,
+        "score": -4.4228
+      },
+      {
+        "word": "Where",
+        "start_offset": 72,
+        "end_offset": 77,
+        "start": 10.423,
+        "end": 10.523,
+        "score": -6.849
+      },
+      {
+        "word": "were",
+        "start_offset": 78,
+        "end_offset": 82,
+        "start": 10.643,
+        "end": 10.723,
+        "score": -6.9681
+      },
+      {
+        "word": "they",
+        "start_offset": 83,
+        "end_offset": 87,
+        "start": 12.903,
+        "end": 13.023,
+        "score": -7.0347
+      },
+      {
+        "word": "before",
+        "start_offset": 88,
+        "end_offset": 94,
+        "start": 13.103,
+        "end": 13.983,
+        "score": -6.3231
+      },
+      {
+        "word": "they",
+        "start_offset": 95,
+        "end_offset": 99,
+        "start": 14.063,
+        "end": 14.183,
+        "score": -6.5642
+      },
+      {
+        "word": "were",
+        "start_offset": 100,
+        "end_offset": 104,
+        "start": 14.223,
+        "end": 14.323,
+        "score": -6.2948
+      },
+      {
+        "word": "on",
+        "start_offset": 105,
+        "end_offset": 107,
+        "start": 14.343,
+        "end": 14.383,
+        "score": -6.8542
+      },
+      {
+        "word": "this",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 14.403,
+        "end": 14.544,
+        "score": -5.9952
+      },
+      {
+        "word": "planet?",
+        "start_offset": 113,
+        "end_offset": 120,
+        "start": 20.925,
+        "end": 21.325,
+        "score": -7.3829
+      },
+      {
+        "word": "I",
+        "start_offset": 121,
+        "end_offset": 122,
+        "start": 22.565,
+        "end": 22.585,
+        "score": -7.3702
+      },
+      {
+        "word": "am",
+        "start_offset": 123,
+        "end_offset": 125,
+        "start": 22.605,
+        "end": 22.866,
+        "score": -1.4966
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 126,
+        "end_offset": 129,
+        "start": 24.206,
+        "end": 24.326,
+        "score": -0.9374
+      },
+      {
+        "word": "The",
+        "start_offset": 130,
+        "end_offset": 133,
+        "start": 26.546,
+        "end": 26.666,
+        "score": -0.7915
+      },
+      {
+        "word": "first",
+        "start_offset": 134,
+        "end_offset": 139,
+        "start": 27.827,
+        "end": 28.367,
+        "score": -0.8332
+      },
+      {
+        "word": "entities",
+        "start_offset": 140,
+        "end_offset": 148,
+        "start": 29.647,
+        "end": 30.847,
+        "score": -0.8002
+      },
+      {
+        "word": "upon",
+        "start_offset": 149,
+        "end_offset": 153,
+        "start": 31.888,
+        "end": 32.568,
+        "score": -0.939
+      },
+      {
+        "word": "this",
+        "start_offset": 154,
+        "end_offset": 158,
+        "start": 33.388,
+        "end": 33.748,
+        "score": -0.7794
+      },
+      {
+        "word": "planet",
+        "start_offset": 159,
+        "end_offset": 165,
+        "start": 34.808,
+        "end": 35.529,
+        "score": -0.8383
+      },
+      {
+        "word": "were",
+        "start_offset": 166,
+        "end_offset": 170,
+        "start": 37.009,
+        "end": 37.389,
+        "score": -1.0992
+      },
+      {
+        "word": "water,",
+        "start_offset": 171,
+        "end_offset": 177,
+        "start": 38.909,
+        "end": 39.47,
+        "score": -0.7514
+      },
+      {
+        "word": "fire,",
+        "start_offset": 178,
+        "end_offset": 183,
+        "start": 41.01,
+        "end": 41.49,
+        "score": -1.5672
+      },
+      {
+        "word": "air",
+        "start_offset": 184,
+        "end_offset": 187,
+        "start": 43.391,
+        "end": 43.691,
+        "score": -1.7847
+      },
+      {
+        "word": "and",
+        "start_offset": 188,
+        "end_offset": 191,
+        "start": 45.751,
+        "end": 46.111,
+        "score": -1.2957
+      },
+      {
+        "word": "earth.",
+        "start_offset": 192,
+        "end_offset": 198,
+        "start": 47.151,
+        "end": 47.592,
+        "score": -1.053
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "009-05.mp3",
+    "audio_duration": 49.0319,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,936 @@
+{
+  "text": "Is this then the root of what we call astrology? I am Ra. This will be the last full question of this session. The root of astrology, as you speak it, is one way of perceiving the primal distortions which may be predicted along probability/possibility lines given the, shall we say, cosmic orientations and configurations at the time of the entrance into the physical/mental complex of the spirit and at the time of the physical/mental/spiritual complex into the illusion. This then has the possibility of suggesting basic areas of distortion. There is no more than this. The part astrology plays is likened unto that of one root among many.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is this then the root of what we call astrology?",
+        "start_offset": 0,
+        "end_offset": 48,
+        "start": 3.22,
+        "end": 15.761
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 49,
+        "end_offset": 57,
+        "start": 15.781,
+        "end": 16.281
+      },
+      {
+        "segment": "This will be the last full question of this session.",
+        "start_offset": 58,
+        "end_offset": 110,
+        "start": 16.421,
+        "end": 24.602
+      },
+      {
+        "segment": "The root of astrology, as you speak it, is one way of perceiving the primal distortions which may be predicted along probability/possibility lines given the, shall we say, cosmic orientations and configurations at the time of the entrance into the physical/mental complex of the spirit and at the time of the physical/mental/spiritual complex into the illusion.",
+        "start_offset": 111,
+        "end_offset": 472,
+        "start": 26.202,
+        "end": 102.007
+      },
+      {
+        "segment": "This then has the possibility of suggesting basic areas of distortion.",
+        "start_offset": 473,
+        "end_offset": 543,
+        "start": 103.288,
+        "end": 116.248
+      },
+      {
+        "segment": "There is no more than this.",
+        "start_offset": 544,
+        "end_offset": 571,
+        "start": 118.029,
+        "end": 122.509
+      },
+      {
+        "segment": "The part astrology plays is likened unto that of one root among many.",
+        "start_offset": 572,
+        "end_offset": 641,
+        "start": 124.809,
+        "end": 138.19
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 3.22,
+        "end": 3.38,
+        "score": -8.2753
+      },
+      {
+        "word": "this",
+        "start_offset": 3,
+        "end_offset": 7,
+        "start": 3.46,
+        "end": 13.821,
+        "score": -5.6409
+      },
+      {
+        "word": "then",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 14.221,
+        "end": 14.541,
+        "score": -7.2444
+      },
+      {
+        "word": "the",
+        "start_offset": 13,
+        "end_offset": 16,
+        "start": 14.981,
+        "end": 15.041,
+        "score": -7.7405
+      },
+      {
+        "word": "root",
+        "start_offset": 17,
+        "end_offset": 21,
+        "start": 15.061,
+        "end": 15.161,
+        "score": -7.3613
+      },
+      {
+        "word": "of",
+        "start_offset": 22,
+        "end_offset": 24,
+        "start": 15.181,
+        "end": 15.261,
+        "score": -7.3338
+      },
+      {
+        "word": "what",
+        "start_offset": 25,
+        "end_offset": 29,
+        "start": 15.281,
+        "end": 15.361,
+        "score": -5.8022
+      },
+      {
+        "word": "we",
+        "start_offset": 30,
+        "end_offset": 32,
+        "start": 15.381,
+        "end": 15.421,
+        "score": -7.1774
+      },
+      {
+        "word": "call",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 15.441,
+        "end": 15.541,
+        "score": -9.6596
+      },
+      {
+        "word": "astrology?",
+        "start_offset": 38,
+        "end_offset": 48,
+        "start": 15.561,
+        "end": 15.761,
+        "score": -10.4447
+      },
+      {
+        "word": "I",
+        "start_offset": 49,
+        "end_offset": 50,
+        "start": 15.781,
+        "end": 15.801,
+        "score": -10.5856
+      },
+      {
+        "word": "am",
+        "start_offset": 51,
+        "end_offset": 53,
+        "start": 15.821,
+        "end": 15.861,
+        "score": -11.1224
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 54,
+        "end_offset": 57,
+        "start": 15.921,
+        "end": 16.281,
+        "score": -11.0135
+      },
+      {
+        "word": "This",
+        "start_offset": 58,
+        "end_offset": 62,
+        "start": 16.421,
+        "end": 16.761,
+        "score": -0.7178
+      },
+      {
+        "word": "will",
+        "start_offset": 63,
+        "end_offset": 67,
+        "start": 17.241,
+        "end": 17.481,
+        "score": -0.7948
+      },
+      {
+        "word": "be",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 17.601,
+        "end": 17.721,
+        "score": -0.7138
+      },
+      {
+        "word": "the",
+        "start_offset": 71,
+        "end_offset": 74,
+        "start": 18.301,
+        "end": 18.441,
+        "score": -0.7643
+      },
+      {
+        "word": "last",
+        "start_offset": 75,
+        "end_offset": 79,
+        "start": 18.941,
+        "end": 19.461,
+        "score": -0.7263
+      },
+      {
+        "word": "full",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 20.561,
+        "end": 20.902,
+        "score": -0.7799
+      },
+      {
+        "word": "question",
+        "start_offset": 85,
+        "end_offset": 93,
+        "start": 21.542,
+        "end": 22.242,
+        "score": -0.6957
+      },
+      {
+        "word": "of",
+        "start_offset": 94,
+        "end_offset": 96,
+        "start": 22.802,
+        "end": 23.002,
+        "score": -0.7005
+      },
+      {
+        "word": "this",
+        "start_offset": 97,
+        "end_offset": 101,
+        "start": 23.342,
+        "end": 23.702,
+        "score": -0.7107
+      },
+      {
+        "word": "session.",
+        "start_offset": 102,
+        "end_offset": 110,
+        "start": 24.102,
+        "end": 24.602,
+        "score": -0.7485
+      },
+      {
+        "word": "The",
+        "start_offset": 111,
+        "end_offset": 114,
+        "start": 26.202,
+        "end": 26.342,
+        "score": -0.7924
+      },
+      {
+        "word": "root",
+        "start_offset": 115,
+        "end_offset": 119,
+        "start": 27.502,
+        "end": 27.822,
+        "score": -0.8673
+      },
+      {
+        "word": "of",
+        "start_offset": 120,
+        "end_offset": 122,
+        "start": 28.462,
+        "end": 28.702,
+        "score": -0.7035
+      },
+      {
+        "word": "astrology,",
+        "start_offset": 123,
+        "end_offset": 133,
+        "start": 29.082,
+        "end": 30.042,
+        "score": -1.2184
+      },
+      {
+        "word": "as",
+        "start_offset": 134,
+        "end_offset": 136,
+        "start": 31.422,
+        "end": 31.702,
+        "score": -0.6979
+      },
+      {
+        "word": "you",
+        "start_offset": 137,
+        "end_offset": 140,
+        "start": 31.982,
+        "end": 32.122,
+        "score": -0.7
+      },
+      {
+        "word": "speak",
+        "start_offset": 141,
+        "end_offset": 146,
+        "start": 32.382,
+        "end": 32.822,
+        "score": -0.7261
+      },
+      {
+        "word": "it,",
+        "start_offset": 147,
+        "end_offset": 150,
+        "start": 33.002,
+        "end": 33.222,
+        "score": -0.7306
+      },
+      {
+        "word": "is",
+        "start_offset": 151,
+        "end_offset": 153,
+        "start": 34.663,
+        "end": 34.943,
+        "score": -0.7166
+      },
+      {
+        "word": "one",
+        "start_offset": 154,
+        "end_offset": 157,
+        "start": 35.503,
+        "end": 35.783,
+        "score": -0.7239
+      },
+      {
+        "word": "way",
+        "start_offset": 158,
+        "end_offset": 161,
+        "start": 37.443,
+        "end": 37.803,
+        "score": -0.7796
+      },
+      {
+        "word": "of",
+        "start_offset": 162,
+        "end_offset": 164,
+        "start": 38.363,
+        "end": 38.643,
+        "score": -0.8087
+      },
+      {
+        "word": "perceiving",
+        "start_offset": 165,
+        "end_offset": 175,
+        "start": 39.903,
+        "end": 41.223,
+        "score": -0.7321
+      },
+      {
+        "word": "the",
+        "start_offset": 176,
+        "end_offset": 179,
+        "start": 42.383,
+        "end": 42.523,
+        "score": -1.4047
+      },
+      {
+        "word": "primal",
+        "start_offset": 180,
+        "end_offset": 186,
+        "start": 44.603,
+        "end": 45.343,
+        "score": -0.7011
+      },
+      {
+        "word": "distortions",
+        "start_offset": 187,
+        "end_offset": 198,
+        "start": 45.863,
+        "end": 47.263,
+        "score": -0.7334
+      },
+      {
+        "word": "which",
+        "start_offset": 199,
+        "end_offset": 204,
+        "start": 48.664,
+        "end": 49.204,
+        "score": -0.7192
+      },
+      {
+        "word": "may",
+        "start_offset": 205,
+        "end_offset": 208,
+        "start": 50.084,
+        "end": 50.324,
+        "score": -0.6986
+      },
+      {
+        "word": "be",
+        "start_offset": 209,
+        "end_offset": 211,
+        "start": 50.584,
+        "end": 50.724,
+        "score": -0.7077
+      },
+      {
+        "word": "predicted",
+        "start_offset": 212,
+        "end_offset": 221,
+        "start": 52.504,
+        "end": 53.524,
+        "score": -0.6986
+      },
+      {
+        "word": "along",
+        "start_offset": 222,
+        "end_offset": 227,
+        "start": 53.844,
+        "end": 54.624,
+        "score": -0.7831
+      },
+      {
+        "word": "probability/possibility",
+        "start_offset": 228,
+        "end_offset": 251,
+        "start": 55.284,
+        "end": 58.064,
+        "score": -0.695
+      },
+      {
+        "word": "lines",
+        "start_offset": 252,
+        "end_offset": 257,
+        "start": 59.004,
+        "end": 59.764,
+        "score": -1.2004
+      },
+      {
+        "word": "given",
+        "start_offset": 258,
+        "end_offset": 263,
+        "start": 60.684,
+        "end": 61.284,
+        "score": -0.6975
+      },
+      {
+        "word": "the,",
+        "start_offset": 264,
+        "end_offset": 268,
+        "start": 62.305,
+        "end": 62.445,
+        "score": -1.0598
+      },
+      {
+        "word": "shall",
+        "start_offset": 269,
+        "end_offset": 274,
+        "start": 64.445,
+        "end": 64.725,
+        "score": -0.7665
+      },
+      {
+        "word": "we",
+        "start_offset": 275,
+        "end_offset": 277,
+        "start": 64.865,
+        "end": 64.985,
+        "score": -0.7022
+      },
+      {
+        "word": "say,",
+        "start_offset": 278,
+        "end_offset": 282,
+        "start": 65.305,
+        "end": 65.605,
+        "score": -0.7181
+      },
+      {
+        "word": "cosmic",
+        "start_offset": 283,
+        "end_offset": 289,
+        "start": 66.185,
+        "end": 67.125,
+        "score": -2.6609
+      },
+      {
+        "word": "orientations",
+        "start_offset": 290,
+        "end_offset": 302,
+        "start": 68.245,
+        "end": 69.945,
+        "score": -0.717
+      },
+      {
+        "word": "and",
+        "start_offset": 303,
+        "end_offset": 306,
+        "start": 70.125,
+        "end": 70.365,
+        "score": -0.6985
+      },
+      {
+        "word": "configurations",
+        "start_offset": 307,
+        "end_offset": 321,
+        "start": 70.485,
+        "end": 72.465,
+        "score": -0.7331
+      },
+      {
+        "word": "at",
+        "start_offset": 322,
+        "end_offset": 324,
+        "start": 74.565,
+        "end": 74.745,
+        "score": -0.7024
+      },
+      {
+        "word": "the",
+        "start_offset": 325,
+        "end_offset": 328,
+        "start": 75.005,
+        "end": 75.125,
+        "score": -0.7189
+      },
+      {
+        "word": "time",
+        "start_offset": 329,
+        "end_offset": 333,
+        "start": 75.325,
+        "end": 76.006,
+        "score": -0.7005
+      },
+      {
+        "word": "of",
+        "start_offset": 334,
+        "end_offset": 336,
+        "start": 76.766,
+        "end": 76.966,
+        "score": -6.5088
+      },
+      {
+        "word": "the",
+        "start_offset": 337,
+        "end_offset": 340,
+        "start": 77.266,
+        "end": 77.426,
+        "score": -0.7056
+      },
+      {
+        "word": "entrance",
+        "start_offset": 341,
+        "end_offset": 349,
+        "start": 78.486,
+        "end": 79.306,
+        "score": -0.7222
+      },
+      {
+        "word": "into",
+        "start_offset": 350,
+        "end_offset": 354,
+        "start": 80.266,
+        "end": 80.766,
+        "score": -0.7521
+      },
+      {
+        "word": "the",
+        "start_offset": 355,
+        "end_offset": 358,
+        "start": 81.606,
+        "end": 81.746,
+        "score": -0.9403
+      },
+      {
+        "word": "physical/mental",
+        "start_offset": 359,
+        "end_offset": 374,
+        "start": 83.026,
+        "end": 84.866,
+        "score": -0.7123
+      },
+      {
+        "word": "complex",
+        "start_offset": 375,
+        "end_offset": 382,
+        "start": 85.186,
+        "end": 86.006,
+        "score": -0.6971
+      },
+      {
+        "word": "of",
+        "start_offset": 383,
+        "end_offset": 385,
+        "start": 86.806,
+        "end": 86.946,
+        "score": -5.6202
+      },
+      {
+        "word": "the",
+        "start_offset": 386,
+        "end_offset": 389,
+        "start": 87.086,
+        "end": 87.206,
+        "score": -0.7613
+      },
+      {
+        "word": "spirit",
+        "start_offset": 390,
+        "end_offset": 396,
+        "start": 87.346,
+        "end": 88.006,
+        "score": -0.6946
+      },
+      {
+        "word": "and",
+        "start_offset": 397,
+        "end_offset": 400,
+        "start": 89.026,
+        "end": 89.226,
+        "score": -4.0522
+      },
+      {
+        "word": "at",
+        "start_offset": 401,
+        "end_offset": 403,
+        "start": 89.447,
+        "end": 89.647,
+        "score": -4.694
+      },
+      {
+        "word": "the",
+        "start_offset": 404,
+        "end_offset": 407,
+        "start": 89.907,
+        "end": 90.027,
+        "score": -0.7099
+      },
+      {
+        "word": "time",
+        "start_offset": 408,
+        "end_offset": 412,
+        "start": 90.187,
+        "end": 90.827,
+        "score": -0.77
+      },
+      {
+        "word": "of",
+        "start_offset": 413,
+        "end_offset": 415,
+        "start": 91.607,
+        "end": 91.807,
+        "score": -5.8316
+      },
+      {
+        "word": "the",
+        "start_offset": 416,
+        "end_offset": 419,
+        "start": 92.007,
+        "end": 92.187,
+        "score": -0.7413
+      },
+      {
+        "word": "physical/mental/spiritual",
+        "start_offset": 420,
+        "end_offset": 445,
+        "start": 92.807,
+        "end": 96.507,
+        "score": -0.7062
+      },
+      {
+        "word": "complex",
+        "start_offset": 446,
+        "end_offset": 453,
+        "start": 96.947,
+        "end": 97.867,
+        "score": -0.6945
+      },
+      {
+        "word": "into",
+        "start_offset": 454,
+        "end_offset": 458,
+        "start": 98.947,
+        "end": 99.327,
+        "score": -0.7007
+      },
+      {
+        "word": "the",
+        "start_offset": 459,
+        "end_offset": 462,
+        "start": 100.087,
+        "end": 100.227,
+        "score": -0.8081
+      },
+      {
+        "word": "illusion.",
+        "start_offset": 463,
+        "end_offset": 472,
+        "start": 101.187,
+        "end": 102.007,
+        "score": -0.7301
+      },
+      {
+        "word": "This",
+        "start_offset": 473,
+        "end_offset": 477,
+        "start": 103.288,
+        "end": 103.608,
+        "score": -0.7155
+      },
+      {
+        "word": "then",
+        "start_offset": 478,
+        "end_offset": 482,
+        "start": 103.928,
+        "end": 104.288,
+        "score": -0.7341
+      },
+      {
+        "word": "has",
+        "start_offset": 483,
+        "end_offset": 486,
+        "start": 104.908,
+        "end": 105.308,
+        "score": -1.7031
+      },
+      {
+        "word": "the",
+        "start_offset": 487,
+        "end_offset": 490,
+        "start": 105.748,
+        "end": 105.868,
+        "score": -2.684
+      },
+      {
+        "word": "possibility",
+        "start_offset": 491,
+        "end_offset": 502,
+        "start": 106.408,
+        "end": 107.648,
+        "score": -1.6361
+      },
+      {
+        "word": "of",
+        "start_offset": 503,
+        "end_offset": 505,
+        "start": 108.648,
+        "end": 108.808,
+        "score": -7.1244
+      },
+      {
+        "word": "suggesting",
+        "start_offset": 506,
+        "end_offset": 516,
+        "start": 109.028,
+        "end": 110.068,
+        "score": -1.9685
+      },
+      {
+        "word": "basic",
+        "start_offset": 517,
+        "end_offset": 522,
+        "start": 110.968,
+        "end": 111.688,
+        "score": -2.3775
+      },
+      {
+        "word": "areas",
+        "start_offset": 523,
+        "end_offset": 528,
+        "start": 112.608,
+        "end": 113.408,
+        "score": -1.6265
+      },
+      {
+        "word": "of",
+        "start_offset": 529,
+        "end_offset": 531,
+        "start": 114.648,
+        "end": 114.928,
+        "score": -5.6347
+      },
+      {
+        "word": "distortion.",
+        "start_offset": 532,
+        "end_offset": 543,
+        "start": 115.148,
+        "end": 116.248,
+        "score": -1.7107
+      },
+      {
+        "word": "There",
+        "start_offset": 544,
+        "end_offset": 549,
+        "start": 118.029,
+        "end": 118.289,
+        "score": -2.0984
+      },
+      {
+        "word": "is",
+        "start_offset": 550,
+        "end_offset": 552,
+        "start": 118.549,
+        "end": 118.829,
+        "score": -5.6637
+      },
+      {
+        "word": "no",
+        "start_offset": 553,
+        "end_offset": 555,
+        "start": 119.749,
+        "end": 119.869,
+        "score": -0.7025
+      },
+      {
+        "word": "more",
+        "start_offset": 556,
+        "end_offset": 560,
+        "start": 120.549,
+        "end": 120.929,
+        "score": -0.7238
+      },
+      {
+        "word": "than",
+        "start_offset": 561,
+        "end_offset": 565,
+        "start": 121.369,
+        "end": 121.669,
+        "score": -2.5933
+      },
+      {
+        "word": "this.",
+        "start_offset": 566,
+        "end_offset": 571,
+        "start": 122.069,
+        "end": 122.509,
+        "score": -2.7034
+      },
+      {
+        "word": "The",
+        "start_offset": 572,
+        "end_offset": 575,
+        "start": 124.809,
+        "end": 124.949,
+        "score": -0.8405
+      },
+      {
+        "word": "part",
+        "start_offset": 576,
+        "end_offset": 580,
+        "start": 125.489,
+        "end": 126.049,
+        "score": -0.6955
+      },
+      {
+        "word": "astrology",
+        "start_offset": 581,
+        "end_offset": 590,
+        "start": 126.729,
+        "end": 127.589,
+        "score": -2.2773
+      },
+      {
+        "word": "plays",
+        "start_offset": 591,
+        "end_offset": 596,
+        "start": 128.069,
+        "end": 128.689,
+        "score": -3.7293
+      },
+      {
+        "word": "is",
+        "start_offset": 597,
+        "end_offset": 599,
+        "start": 129.769,
+        "end": 130.009,
+        "score": -6.6643
+      },
+      {
+        "word": "likened",
+        "start_offset": 600,
+        "end_offset": 607,
+        "start": 130.449,
+        "end": 131.05,
+        "score": -0.7301
+      },
+      {
+        "word": "unto",
+        "start_offset": 608,
+        "end_offset": 612,
+        "start": 131.43,
+        "end": 131.81,
+        "score": -3.5641
+      },
+      {
+        "word": "that",
+        "start_offset": 613,
+        "end_offset": 617,
+        "start": 132.19,
+        "end": 132.61,
+        "score": -0.7912
+      },
+      {
+        "word": "of",
+        "start_offset": 618,
+        "end_offset": 620,
+        "start": 133.65,
+        "end": 133.85,
+        "score": -5.7803
+      },
+      {
+        "word": "one",
+        "start_offset": 621,
+        "end_offset": 624,
+        "start": 134.49,
+        "end": 134.71,
+        "score": -4.6711
+      },
+      {
+        "word": "root",
+        "start_offset": 625,
+        "end_offset": 629,
+        "start": 135.15,
+        "end": 135.49,
+        "score": -0.8936
+      },
+      {
+        "word": "among",
+        "start_offset": 630,
+        "end_offset": 635,
+        "start": 136.51,
+        "end": 137.07,
+        "score": -2.3369
+      },
+      {
+        "word": "many.",
+        "start_offset": 636,
+        "end_offset": 641,
+        "start": 137.87,
+        "end": 138.19,
+        "score": -2.484
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "019-21.mp3",
+    "audio_duration": 146.0506,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

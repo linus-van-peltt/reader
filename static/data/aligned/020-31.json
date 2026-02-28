@@ -1,0 +1,180 @@
+{
+  "text": "Are you speaking in part of the stone heads of Easter Island? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Are you speaking in part of the stone heads of Easter Island?",
+        "start_offset": 0,
+        "end_offset": 61,
+        "start": 3.043,
+        "end": 6.486
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 62,
+        "end_offset": 70,
+        "start": 13.712,
+        "end": 15.634
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 71,
+        "end_offset": 87,
+        "start": 17.595,
+        "end": 20.838
+      }
+    ],
+    "word": [
+      {
+        "word": "Are",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 3.043,
+        "end": 3.143,
+        "score": -3.4552
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 3.163,
+        "end": 3.243,
+        "score": -0.7131
+      },
+      {
+        "word": "speaking",
+        "start_offset": 8,
+        "end_offset": 16,
+        "start": 3.343,
+        "end": 3.823,
+        "score": -0.6968
+      },
+      {
+        "word": "in",
+        "start_offset": 17,
+        "end_offset": 19,
+        "start": 3.983,
+        "end": 4.084,
+        "score": -0.7087
+      },
+      {
+        "word": "part",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 4.144,
+        "end": 4.424,
+        "score": -0.7505
+      },
+      {
+        "word": "of",
+        "start_offset": 25,
+        "end_offset": 27,
+        "start": 4.564,
+        "end": 4.664,
+        "score": -0.6988
+      },
+      {
+        "word": "the",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 4.724,
+        "end": 4.824,
+        "score": -0.7364
+      },
+      {
+        "word": "stone",
+        "start_offset": 32,
+        "end_offset": 37,
+        "start": 4.924,
+        "end": 5.245,
+        "score": -0.709
+      },
+      {
+        "word": "heads",
+        "start_offset": 38,
+        "end_offset": 43,
+        "start": 5.305,
+        "end": 5.585,
+        "score": -0.7316
+      },
+      {
+        "word": "of",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 5.625,
+        "end": 5.705,
+        "score": -0.7884
+      },
+      {
+        "word": "Easter",
+        "start_offset": 47,
+        "end_offset": 53,
+        "start": 5.765,
+        "end": 6.005,
+        "score": -0.7126
+      },
+      {
+        "word": "Island?",
+        "start_offset": 54,
+        "end_offset": 61,
+        "start": 6.025,
+        "end": 6.486,
+        "score": -4.9638
+      },
+      {
+        "word": "I",
+        "start_offset": 62,
+        "end_offset": 63,
+        "start": 13.712,
+        "end": 13.732,
+        "score": -0.8562
+      },
+      {
+        "word": "am",
+        "start_offset": 64,
+        "end_offset": 66,
+        "start": 14.593,
+        "end": 14.853,
+        "score": -1.4666
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 67,
+        "end_offset": 70,
+        "start": 15.493,
+        "end": 15.634,
+        "score": -1.343
+      },
+      {
+        "word": "This",
+        "start_offset": 71,
+        "end_offset": 75,
+        "start": 17.595,
+        "end": 17.936,
+        "score": -0.7782
+      },
+      {
+        "word": "is",
+        "start_offset": 76,
+        "end_offset": 78,
+        "start": 18.896,
+        "end": 19.197,
+        "score": -0.7265
+      },
+      {
+        "word": "correct.",
+        "start_offset": 79,
+        "end_offset": 87,
+        "start": 20.057,
+        "end": 20.838,
+        "score": -0.7067
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "020-31.mp3",
+    "audio_duration": 23.04,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

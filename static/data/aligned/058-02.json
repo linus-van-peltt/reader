@@ -1,0 +1,602 @@
+{
+  "text": "Could you tell me the cause for the increase of the physical distortion? I am Ra. Physical distortions of this nature are begun, as we have said, due to overactivity of weak, as you call this distortion, portions of the body complex. The worsening is due to the nature of the distortion itself which you call arthritis. Once begun, the distortion will unpredictably remain and unpredictably worsen or lessen.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you tell me the cause for the increase of the physical distortion?",
+        "start_offset": 0,
+        "end_offset": 72,
+        "start": 5.161,
+        "end": 16.983
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 73,
+        "end_offset": 81,
+        "start": 17.003,
+        "end": 17.203
+      },
+      {
+        "segment": "Physical distortions of this nature are begun, as we have said, due to overactivity of weak, as you call this distortion, portions of the body complex.",
+        "start_offset": 82,
+        "end_offset": 233,
+        "start": 20.183,
+        "end": 65.291
+      },
+      {
+        "segment": "The worsening is due to the nature of the distortion itself which you call arthritis.",
+        "start_offset": 234,
+        "end_offset": 319,
+        "start": 67.451,
+        "end": 90.135
+      },
+      {
+        "segment": "Once begun, the distortion will unpredictably remain and unpredictably worsen or lessen.",
+        "start_offset": 320,
+        "end_offset": 408,
+        "start": 92.275,
+        "end": 120.92
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 5.161,
+        "end": 14.102,
+        "score": -8.5323
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 14.142,
+        "end": 14.522,
+        "score": -7.2057
+      },
+      {
+        "word": "tell",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 14.542,
+        "end": 14.642,
+        "score": -7.4974
+      },
+      {
+        "word": "me",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 14.662,
+        "end": 14.702,
+        "score": -8.3775
+      },
+      {
+        "word": "the",
+        "start_offset": 18,
+        "end_offset": 21,
+        "start": 14.722,
+        "end": 14.782,
+        "score": -8.8083
+      },
+      {
+        "word": "cause",
+        "start_offset": 22,
+        "end_offset": 27,
+        "start": 14.802,
+        "end": 14.942,
+        "score": -9.3699
+      },
+      {
+        "word": "for",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 15.243,
+        "end": 15.303,
+        "score": -10.1314
+      },
+      {
+        "word": "the",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 15.323,
+        "end": 15.423,
+        "score": -6.5474
+      },
+      {
+        "word": "increase",
+        "start_offset": 36,
+        "end_offset": 44,
+        "start": 15.663,
+        "end": 15.883,
+        "score": -7.5679
+      },
+      {
+        "word": "of",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 16.403,
+        "end": 16.443,
+        "score": -9.8378
+      },
+      {
+        "word": "the",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 16.463,
+        "end": 16.523,
+        "score": -7.2578
+      },
+      {
+        "word": "physical",
+        "start_offset": 52,
+        "end_offset": 60,
+        "start": 16.543,
+        "end": 16.743,
+        "score": -8.1321
+      },
+      {
+        "word": "distortion?",
+        "start_offset": 61,
+        "end_offset": 72,
+        "start": 16.783,
+        "end": 16.983,
+        "score": -7.1997
+      },
+      {
+        "word": "I",
+        "start_offset": 73,
+        "end_offset": 74,
+        "start": 17.003,
+        "end": 17.023,
+        "score": -7.9661
+      },
+      {
+        "word": "am",
+        "start_offset": 75,
+        "end_offset": 77,
+        "start": 17.083,
+        "end": 17.143,
+        "score": -8.9932
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 78,
+        "end_offset": 81,
+        "start": 17.163,
+        "end": 17.203,
+        "score": -8.836
+      },
+      {
+        "word": "Physical",
+        "start_offset": 82,
+        "end_offset": 90,
+        "start": 20.183,
+        "end": 21.204,
+        "score": -0.9948
+      },
+      {
+        "word": "distortions",
+        "start_offset": 91,
+        "end_offset": 102,
+        "start": 22.024,
+        "end": 23.504,
+        "score": -0.9734
+      },
+      {
+        "word": "of",
+        "start_offset": 103,
+        "end_offset": 105,
+        "start": 25.064,
+        "end": 25.444,
+        "score": -0.8858
+      },
+      {
+        "word": "this",
+        "start_offset": 106,
+        "end_offset": 110,
+        "start": 25.984,
+        "end": 26.344,
+        "score": -0.8207
+      },
+      {
+        "word": "nature",
+        "start_offset": 111,
+        "end_offset": 117,
+        "start": 26.884,
+        "end": 27.705,
+        "score": -0.7872
+      },
+      {
+        "word": "are",
+        "start_offset": 118,
+        "end_offset": 121,
+        "start": 29.905,
+        "end": 30.265,
+        "score": -1.3703
+      },
+      {
+        "word": "begun,",
+        "start_offset": 122,
+        "end_offset": 128,
+        "start": 30.565,
+        "end": 31.325,
+        "score": -1.0487
+      },
+      {
+        "word": "as",
+        "start_offset": 129,
+        "end_offset": 131,
+        "start": 32.645,
+        "end": 33.025,
+        "score": -0.7085
+      },
+      {
+        "word": "we",
+        "start_offset": 132,
+        "end_offset": 134,
+        "start": 33.446,
+        "end": 33.586,
+        "score": -0.7084
+      },
+      {
+        "word": "have",
+        "start_offset": 135,
+        "end_offset": 139,
+        "start": 34.186,
+        "end": 34.766,
+        "score": -0.7349
+      },
+      {
+        "word": "said,",
+        "start_offset": 140,
+        "end_offset": 145,
+        "start": 35.346,
+        "end": 35.966,
+        "score": -1.0534
+      },
+      {
+        "word": "due",
+        "start_offset": 146,
+        "end_offset": 149,
+        "start": 37.786,
+        "end": 38.206,
+        "score": -2.5513
+      },
+      {
+        "word": "to",
+        "start_offset": 150,
+        "end_offset": 152,
+        "start": 38.866,
+        "end": 39.166,
+        "score": -0.8321
+      },
+      {
+        "word": "overactivity",
+        "start_offset": 153,
+        "end_offset": 165,
+        "start": 41.947,
+        "end": 45.588,
+        "score": -1.2906
+      },
+      {
+        "word": "of",
+        "start_offset": 166,
+        "end_offset": 168,
+        "start": 47.748,
+        "end": 48.108,
+        "score": -0.9997
+      },
+      {
+        "word": "weak,",
+        "start_offset": 169,
+        "end_offset": 174,
+        "start": 50.328,
+        "end": 50.688,
+        "score": -0.8716
+      },
+      {
+        "word": "as",
+        "start_offset": 175,
+        "end_offset": 177,
+        "start": 51.869,
+        "end": 52.209,
+        "score": -0.7372
+      },
+      {
+        "word": "you",
+        "start_offset": 178,
+        "end_offset": 181,
+        "start": 52.829,
+        "end": 52.969,
+        "score": -0.761
+      },
+      {
+        "word": "call",
+        "start_offset": 182,
+        "end_offset": 186,
+        "start": 53.689,
+        "end": 54.209,
+        "score": -0.8075
+      },
+      {
+        "word": "this",
+        "start_offset": 187,
+        "end_offset": 191,
+        "start": 54.889,
+        "end": 55.289,
+        "score": -0.7975
+      },
+      {
+        "word": "distortion,",
+        "start_offset": 192,
+        "end_offset": 203,
+        "start": 56.309,
+        "end": 57.469,
+        "score": -0.8056
+      },
+      {
+        "word": "portions",
+        "start_offset": 204,
+        "end_offset": 212,
+        "start": 58.81,
+        "end": 59.87,
+        "score": -0.7681
+      },
+      {
+        "word": "of",
+        "start_offset": 213,
+        "end_offset": 215,
+        "start": 61.07,
+        "end": 61.37,
+        "score": -0.7186
+      },
+      {
+        "word": "the",
+        "start_offset": 216,
+        "end_offset": 219,
+        "start": 61.71,
+        "end": 61.85,
+        "score": -0.8481
+      },
+      {
+        "word": "body",
+        "start_offset": 220,
+        "end_offset": 224,
+        "start": 62.73,
+        "end": 63.19,
+        "score": -0.7021
+      },
+      {
+        "word": "complex.",
+        "start_offset": 225,
+        "end_offset": 233,
+        "start": 64.211,
+        "end": 65.291,
+        "score": -0.7012
+      },
+      {
+        "word": "The",
+        "start_offset": 234,
+        "end_offset": 237,
+        "start": 67.451,
+        "end": 67.591,
+        "score": -0.7838
+      },
+      {
+        "word": "worsening",
+        "start_offset": 238,
+        "end_offset": 247,
+        "start": 68.591,
+        "end": 69.832,
+        "score": -0.8132
+      },
+      {
+        "word": "is",
+        "start_offset": 248,
+        "end_offset": 250,
+        "start": 71.232,
+        "end": 71.552,
+        "score": -0.7202
+      },
+      {
+        "word": "due",
+        "start_offset": 251,
+        "end_offset": 254,
+        "start": 71.952,
+        "end": 72.292,
+        "score": -1.5332
+      },
+      {
+        "word": "to",
+        "start_offset": 255,
+        "end_offset": 257,
+        "start": 72.872,
+        "end": 73.132,
+        "score": -0.7285
+      },
+      {
+        "word": "the",
+        "start_offset": 258,
+        "end_offset": 261,
+        "start": 73.712,
+        "end": 73.852,
+        "score": -0.8406
+      },
+      {
+        "word": "nature",
+        "start_offset": 262,
+        "end_offset": 268,
+        "start": 74.492,
+        "end": 75.352,
+        "score": -0.7128
+      },
+      {
+        "word": "of",
+        "start_offset": 269,
+        "end_offset": 271,
+        "start": 76.653,
+        "end": 77.073,
+        "score": -0.7377
+      },
+      {
+        "word": "the",
+        "start_offset": 272,
+        "end_offset": 275,
+        "start": 77.773,
+        "end": 77.893,
+        "score": -0.794
+      },
+      {
+        "word": "distortion",
+        "start_offset": 276,
+        "end_offset": 286,
+        "start": 78.693,
+        "end": 80.073,
+        "score": -0.7635
+      },
+      {
+        "word": "itself",
+        "start_offset": 287,
+        "end_offset": 293,
+        "start": 81.273,
+        "end": 82.434,
+        "score": -1.6642
+      },
+      {
+        "word": "which",
+        "start_offset": 294,
+        "end_offset": 299,
+        "start": 83.794,
+        "end": 84.234,
+        "score": -0.711
+      },
+      {
+        "word": "you",
+        "start_offset": 300,
+        "end_offset": 303,
+        "start": 84.754,
+        "end": 84.934,
+        "score": -0.8094
+      },
+      {
+        "word": "call",
+        "start_offset": 304,
+        "end_offset": 308,
+        "start": 86.214,
+        "end": 86.774,
+        "score": -0.8181
+      },
+      {
+        "word": "arthritis.",
+        "start_offset": 309,
+        "end_offset": 319,
+        "start": 88.455,
+        "end": 90.135,
+        "score": -1.216
+      },
+      {
+        "word": "Once",
+        "start_offset": 320,
+        "end_offset": 324,
+        "start": 92.275,
+        "end": 92.695,
+        "score": -0.8456
+      },
+      {
+        "word": "begun,",
+        "start_offset": 325,
+        "end_offset": 331,
+        "start": 94.276,
+        "end": 95.136,
+        "score": -0.8651
+      },
+      {
+        "word": "the",
+        "start_offset": 332,
+        "end_offset": 335,
+        "start": 96.136,
+        "end": 96.256,
+        "score": -0.967
+      },
+      {
+        "word": "distortion",
+        "start_offset": 336,
+        "end_offset": 346,
+        "start": 98.576,
+        "end": 99.896,
+        "score": -0.7885
+      },
+      {
+        "word": "will",
+        "start_offset": 347,
+        "end_offset": 351,
+        "start": 102.457,
+        "end": 102.817,
+        "score": -0.9889
+      },
+      {
+        "word": "unpredictably",
+        "start_offset": 352,
+        "end_offset": 365,
+        "start": 104.697,
+        "end": 107.118,
+        "score": -1.4959
+      },
+      {
+        "word": "remain",
+        "start_offset": 366,
+        "end_offset": 372,
+        "start": 108.998,
+        "end": 109.818,
+        "score": -0.9864
+      },
+      {
+        "word": "and",
+        "start_offset": 373,
+        "end_offset": 376,
+        "start": 111.918,
+        "end": 112.279,
+        "score": -4.1856
+      },
+      {
+        "word": "unpredictably",
+        "start_offset": 377,
+        "end_offset": 390,
+        "start": 112.999,
+        "end": 115.459,
+        "score": -1.1978
+      },
+      {
+        "word": "worsen",
+        "start_offset": 391,
+        "end_offset": 397,
+        "start": 117.079,
+        "end": 117.739,
+        "score": -0.8483
+      },
+      {
+        "word": "or",
+        "start_offset": 398,
+        "end_offset": 400,
+        "start": 118.9,
+        "end": 119.1,
+        "score": -0.7437
+      },
+      {
+        "word": "lessen.",
+        "start_offset": 401,
+        "end_offset": 408,
+        "start": 120.32,
+        "end": 120.92,
+        "score": -0.8662
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "058-02.mp3",
+    "audio_duration": 126.0408,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

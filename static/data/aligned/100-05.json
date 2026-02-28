@@ -1,0 +1,331 @@
+{
+  "text": "Is it all right for Colonel Stevens to receive the information that Ra just gave to us? I am Ra. We find this information to be confirmation of already perceived ideas. Therefore, permission is freely given.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is it all right for Colonel Stevens to receive the information that Ra just gave to us?",
+        "start_offset": 0,
+        "end_offset": 87,
+        "start": 5.561,
+        "end": 17.544
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 88,
+        "end_offset": 96,
+        "start": 17.564,
+        "end": 20.585
+      },
+      {
+        "segment": "We find this information to be confirmation of already perceived ideas.",
+        "start_offset": 97,
+        "end_offset": 168,
+        "start": 32.488,
+        "end": 62.035
+      },
+      {
+        "segment": "Therefore, permission is freely given.",
+        "start_offset": 169,
+        "end_offset": 207,
+        "start": 65.676,
+        "end": 77.999
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 5.561,
+        "end": 5.601,
+        "score": -7.536
+      },
+      {
+        "word": "it",
+        "start_offset": 3,
+        "end_offset": 5,
+        "start": 5.661,
+        "end": 5.901,
+        "score": -6.3566
+      },
+      {
+        "word": "all",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 6.121,
+        "end": 6.221,
+        "score": -4.6986
+      },
+      {
+        "word": "right",
+        "start_offset": 10,
+        "end_offset": 15,
+        "start": 6.262,
+        "end": 6.462,
+        "score": -5.159
+      },
+      {
+        "word": "for",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 6.522,
+        "end": 6.702,
+        "score": -4.2833
+      },
+      {
+        "word": "Colonel",
+        "start_offset": 20,
+        "end_offset": 27,
+        "start": 7.962,
+        "end": 8.322,
+        "score": -6.2337
+      },
+      {
+        "word": "Stevens",
+        "start_offset": 28,
+        "end_offset": 35,
+        "start": 8.402,
+        "end": 9.002,
+        "score": -3.4667
+      },
+      {
+        "word": "to",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 9.062,
+        "end": 9.142,
+        "score": -3.2774
+      },
+      {
+        "word": "receive",
+        "start_offset": 39,
+        "end_offset": 46,
+        "start": 9.242,
+        "end": 9.662,
+        "score": -4.7777
+      },
+      {
+        "word": "the",
+        "start_offset": 47,
+        "end_offset": 50,
+        "start": 9.682,
+        "end": 9.742,
+        "score": -7.1972
+      },
+      {
+        "word": "information",
+        "start_offset": 51,
+        "end_offset": 62,
+        "start": 9.802,
+        "end": 10.402,
+        "score": -5.6003
+      },
+      {
+        "word": "that",
+        "start_offset": 63,
+        "end_offset": 67,
+        "start": 10.583,
+        "end": 10.763,
+        "score": -8.185
+      },
+      {
+        "word": "Ra",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 10.803,
+        "end": 10.903,
+        "score": -5.952
+      },
+      {
+        "word": "just",
+        "start_offset": 71,
+        "end_offset": 75,
+        "start": 11.063,
+        "end": 11.283,
+        "score": -5.0714
+      },
+      {
+        "word": "gave",
+        "start_offset": 76,
+        "end_offset": 80,
+        "start": 11.343,
+        "end": 11.643,
+        "score": -7.6026
+      },
+      {
+        "word": "to",
+        "start_offset": 81,
+        "end_offset": 83,
+        "start": 17.164,
+        "end": 17.344,
+        "score": -6.1753
+      },
+      {
+        "word": "us?",
+        "start_offset": 84,
+        "end_offset": 87,
+        "start": 17.504,
+        "end": 17.544,
+        "score": -9.0133
+      },
+      {
+        "word": "I",
+        "start_offset": 88,
+        "end_offset": 89,
+        "start": 17.564,
+        "end": 17.584,
+        "score": -1.9798
+      },
+      {
+        "word": "am",
+        "start_offset": 90,
+        "end_offset": 92,
+        "start": 18.764,
+        "end": 19.005,
+        "score": -2.7601
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 93,
+        "end_offset": 96,
+        "start": 20.425,
+        "end": 20.585,
+        "score": -3.2777
+      },
+      {
+        "word": "We",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 32.488,
+        "end": 32.688,
+        "score": -1.1123
+      },
+      {
+        "word": "find",
+        "start_offset": 100,
+        "end_offset": 104,
+        "start": 33.588,
+        "end": 34.088,
+        "score": -0.785
+      },
+      {
+        "word": "this",
+        "start_offset": 105,
+        "end_offset": 109,
+        "start": 34.848,
+        "end": 35.228,
+        "score": -0.7828
+      },
+      {
+        "word": "information",
+        "start_offset": 110,
+        "end_offset": 121,
+        "start": 37.609,
+        "end": 39.469,
+        "score": -0.7262
+      },
+      {
+        "word": "to",
+        "start_offset": 122,
+        "end_offset": 124,
+        "start": 40.67,
+        "end": 40.81,
+        "score": -0.7251
+      },
+      {
+        "word": "be",
+        "start_offset": 125,
+        "end_offset": 127,
+        "start": 42.01,
+        "end": 42.13,
+        "score": -0.8895
+      },
+      {
+        "word": "confirmation",
+        "start_offset": 128,
+        "end_offset": 140,
+        "start": 45.431,
+        "end": 47.891,
+        "score": -0.8348
+      },
+      {
+        "word": "of",
+        "start_offset": 141,
+        "end_offset": 143,
+        "start": 49.492,
+        "end": 49.752,
+        "score": -0.7717
+      },
+      {
+        "word": "already",
+        "start_offset": 144,
+        "end_offset": 151,
+        "start": 53.073,
+        "end": 54.493,
+        "score": -0.7583
+      },
+      {
+        "word": "perceived",
+        "start_offset": 152,
+        "end_offset": 161,
+        "start": 56.634,
+        "end": 57.834,
+        "score": -0.728
+      },
+      {
+        "word": "ideas.",
+        "start_offset": 162,
+        "end_offset": 168,
+        "start": 61.415,
+        "end": 62.035,
+        "score": -0.7526
+      },
+      {
+        "word": "Therefore,",
+        "start_offset": 169,
+        "end_offset": 179,
+        "start": 65.676,
+        "end": 66.336,
+        "score": -0.8034
+      },
+      {
+        "word": "permission",
+        "start_offset": 180,
+        "end_offset": 190,
+        "start": 70.197,
+        "end": 71.777,
+        "score": -0.7905
+      },
+      {
+        "word": "is",
+        "start_offset": 191,
+        "end_offset": 193,
+        "start": 72.197,
+        "end": 72.437,
+        "score": -0.7727
+      },
+      {
+        "word": "freely",
+        "start_offset": 194,
+        "end_offset": 200,
+        "start": 76.598,
+        "end": 77.038,
+        "score": -0.72
+      },
+      {
+        "word": "given.",
+        "start_offset": 201,
+        "end_offset": 207,
+        "start": 77.659,
+        "end": 77.999,
+        "score": -0.7161
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "100-05.mp3",
+    "audio_duration": 80.0392,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

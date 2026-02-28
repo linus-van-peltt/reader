@@ -1,0 +1,109 @@
+{
+  "text": "Thank you. Would you please make the instrument cough again?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 0,
+        "end_offset": 10,
+        "start": 1.583,
+        "end": 1.884
+      },
+      {
+        "segment": "Would you please make the instrument cough again?",
+        "start_offset": 11,
+        "end_offset": 60,
+        "start": 3.408,
+        "end": 5.312
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 1.583,
+        "end": 1.784,
+        "score": -5.1104
+      },
+      {
+        "word": "you.",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 1.804,
+        "end": 1.884,
+        "score": -6.0641
+      },
+      {
+        "word": "Would",
+        "start_offset": 11,
+        "end_offset": 16,
+        "start": 3.408,
+        "end": 3.568,
+        "score": -1.1979
+      },
+      {
+        "word": "you",
+        "start_offset": 17,
+        "end_offset": 20,
+        "start": 3.588,
+        "end": 3.668,
+        "score": -0.7306
+      },
+      {
+        "word": "please",
+        "start_offset": 21,
+        "end_offset": 27,
+        "start": 3.708,
+        "end": 3.949,
+        "score": -2.7398
+      },
+      {
+        "word": "make",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 3.969,
+        "end": 4.149,
+        "score": -2.7053
+      },
+      {
+        "word": "the",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 4.169,
+        "end": 4.229,
+        "score": -1.374
+      },
+      {
+        "word": "instrument",
+        "start_offset": 37,
+        "end_offset": 47,
+        "start": 4.289,
+        "end": 4.67,
+        "score": -0.9048
+      },
+      {
+        "word": "cough",
+        "start_offset": 48,
+        "end_offset": 53,
+        "start": 4.71,
+        "end": 5.011,
+        "score": -3.1186
+      },
+      {
+        "word": "again?",
+        "start_offset": 54,
+        "end_offset": 60,
+        "start": 5.051,
+        "end": 5.312,
+        "score": -0.9685
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "028-17.mp3",
+    "audio_duration": 7.2359,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

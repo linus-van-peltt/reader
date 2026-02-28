@@ -1,0 +1,226 @@
+{
+  "text": "Good to you. Uh ask a little more about this other possibility myself. I am law. Each responsibility is an honor. Each honor a responsibility.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Good to you.",
+        "start_offset": 32,
+        "end_offset": 41,
+        "start": 2.56,
+        "end": 3.2800000000000002
+      },
+      {
+        "segment": "Uh ask a little more about this other possibility myself.",
+        "start_offset": 68,
+        "end_offset": 136,
+        "start": 5.44,
+        "end": 10.88
+      },
+      {
+        "segment": "I am law.",
+        "start_offset": 206,
+        "end_offset": 240,
+        "start": 16.48,
+        "end": 19.2
+      },
+      {
+        "segment": "Each responsibility is an honor.",
+        "start_offset": 269,
+        "end_offset": 339,
+        "start": 21.52,
+        "end": 27.12
+      },
+      {
+        "segment": "Each honor a responsibility.",
+        "start_offset": 354,
+        "end_offset": 410,
+        "start": 28.32,
+        "end": 32.8
+      }
+    ],
+    "word": [
+      {
+        "word": "Good",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 2.56,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "to",
+        "start_offset": 36,
+        "end_offset": 37,
+        "start": 2.88,
+        "end": 2.96
+      },
+      {
+        "word": "you.",
+        "start_offset": 39,
+        "end_offset": 41,
+        "start": 3.12,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "Uh",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 5.44,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "ask",
+        "start_offset": 78,
+        "end_offset": 80,
+        "start": 6.24,
+        "end": 6.4
+      },
+      {
+        "word": "a",
+        "start_offset": 84,
+        "end_offset": 86,
+        "start": 6.72,
+        "end": 6.88
+      },
+      {
+        "word": "little",
+        "start_offset": 86,
+        "end_offset": 89,
+        "start": 6.88,
+        "end": 7.12
+      },
+      {
+        "word": "more",
+        "start_offset": 89,
+        "end_offset": 93,
+        "start": 7.12,
+        "end": 7.44
+      },
+      {
+        "word": "about",
+        "start_offset": 93,
+        "end_offset": 97,
+        "start": 7.44,
+        "end": 7.76
+      },
+      {
+        "word": "this",
+        "start_offset": 97,
+        "end_offset": 101,
+        "start": 7.76,
+        "end": 8.08
+      },
+      {
+        "word": "other",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 8.72,
+        "end": 8.88
+      },
+      {
+        "word": "possibility",
+        "start_offset": 121,
+        "end_offset": 129,
+        "start": 9.68,
+        "end": 10.32
+      },
+      {
+        "word": "myself.",
+        "start_offset": 132,
+        "end_offset": 136,
+        "start": 10.56,
+        "end": 10.88
+      },
+      {
+        "word": "I",
+        "start_offset": 206,
+        "end_offset": 210,
+        "start": 16.48,
+        "end": 16.8
+      },
+      {
+        "word": "am",
+        "start_offset": 218,
+        "end_offset": 222,
+        "start": 17.44,
+        "end": 17.76
+      },
+      {
+        "word": "law.",
+        "start_offset": 234,
+        "end_offset": 240,
+        "start": 18.72,
+        "end": 19.2
+      },
+      {
+        "word": "Each",
+        "start_offset": 269,
+        "end_offset": 277,
+        "start": 21.52,
+        "end": 22.16
+      },
+      {
+        "word": "responsibility",
+        "start_offset": 285,
+        "end_offset": 303,
+        "start": 22.8,
+        "end": 24.240000000000002
+      },
+      {
+        "word": "is",
+        "start_offset": 315,
+        "end_offset": 319,
+        "start": 25.2,
+        "end": 25.52
+      },
+      {
+        "word": "an",
+        "start_offset": 326,
+        "end_offset": 330,
+        "start": 26.080000000000002,
+        "end": 26.400000000000002
+      },
+      {
+        "word": "honor.",
+        "start_offset": 333,
+        "end_offset": 339,
+        "start": 26.64,
+        "end": 27.12
+      },
+      {
+        "word": "Each",
+        "start_offset": 354,
+        "end_offset": 362,
+        "start": 28.32,
+        "end": 28.96
+      },
+      {
+        "word": "honor",
+        "start_offset": 366,
+        "end_offset": 376,
+        "start": 29.28,
+        "end": 30.080000000000002
+      },
+      {
+        "word": "a",
+        "start_offset": 381,
+        "end_offset": 384,
+        "start": 30.48,
+        "end": 30.72
+      },
+      {
+        "word": "responsibility.",
+        "start_offset": 391,
+        "end_offset": 410,
+        "start": 31.28,
+        "end": 32.8
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-42.mp3",
+    "audio_duration": 40.05,
+    "transcription_time": 0.1,
+    "rtfx": 391.4,
+    "timestamp": "2026-01-06T21:47:38.207767+00:00"
+  }
+}

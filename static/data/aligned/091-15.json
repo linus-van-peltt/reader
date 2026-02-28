@@ -1,0 +1,372 @@
+{
+  "text": "Is it common for Logoi to have twenty-two archetypes or is this relatively unique with respect to our Logos? I am Ra. The system of sevens is the most articulated system yet discovered by any experiment by any Logos in our octave.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is it common for Logoi to have twenty-two archetypes or is this relatively unique with respect to our Logos?",
+        "start_offset": 0,
+        "end_offset": 108,
+        "start": 2.52,
+        "end": 13.202
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 109,
+        "end_offset": 117,
+        "start": 16.622,
+        "end": 18.683
+      },
+      {
+        "segment": "The system of sevens is the most articulated system yet discovered by any experiment by any Logos in our octave.",
+        "start_offset": 118,
+        "end_offset": 230,
+        "start": 21.143,
+        "end": 54.847
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.52,
+        "end": 2.66,
+        "score": -0.9392
+      },
+      {
+        "word": "it",
+        "start_offset": 3,
+        "end_offset": 5,
+        "start": 2.72,
+        "end": 2.84,
+        "score": -0.9349
+      },
+      {
+        "word": "common",
+        "start_offset": 6,
+        "end_offset": 12,
+        "start": 3.62,
+        "end": 4.061,
+        "score": -0.8324
+      },
+      {
+        "word": "for",
+        "start_offset": 13,
+        "end_offset": 16,
+        "start": 5.321,
+        "end": 5.641,
+        "score": -1.7077
+      },
+      {
+        "word": "Logoi",
+        "start_offset": 17,
+        "end_offset": 22,
+        "start": 6.921,
+        "end": 7.341,
+        "score": -2.6384
+      },
+      {
+        "word": "to",
+        "start_offset": 23,
+        "end_offset": 25,
+        "start": 7.361,
+        "end": 7.421,
+        "score": -2.8891
+      },
+      {
+        "word": "have",
+        "start_offset": 26,
+        "end_offset": 30,
+        "start": 7.481,
+        "end": 7.641,
+        "score": -3.9988
+      },
+      {
+        "word": "twenty-two",
+        "start_offset": 31,
+        "end_offset": 41,
+        "start": 7.681,
+        "end": 8.081,
+        "score": -6.8994
+      },
+      {
+        "word": "archetypes",
+        "start_offset": 42,
+        "end_offset": 52,
+        "start": 8.261,
+        "end": 8.841,
+        "score": -2.1198
+      },
+      {
+        "word": "or",
+        "start_offset": 53,
+        "end_offset": 55,
+        "start": 9.101,
+        "end": 9.201,
+        "score": -2.325
+      },
+      {
+        "word": "is",
+        "start_offset": 56,
+        "end_offset": 58,
+        "start": 9.221,
+        "end": 9.281,
+        "score": -3.1396
+      },
+      {
+        "word": "this",
+        "start_offset": 59,
+        "end_offset": 63,
+        "start": 9.341,
+        "end": 9.581,
+        "score": -1.1114
+      },
+      {
+        "word": "relatively",
+        "start_offset": 64,
+        "end_offset": 74,
+        "start": 10.121,
+        "end": 10.761,
+        "score": -1.0272
+      },
+      {
+        "word": "unique",
+        "start_offset": 75,
+        "end_offset": 81,
+        "start": 11.642,
+        "end": 11.942,
+        "score": -2.9456
+      },
+      {
+        "word": "with",
+        "start_offset": 82,
+        "end_offset": 86,
+        "start": 11.962,
+        "end": 12.082,
+        "score": -4.6645
+      },
+      {
+        "word": "respect",
+        "start_offset": 87,
+        "end_offset": 94,
+        "start": 12.102,
+        "end": 12.442,
+        "score": -0.8497
+      },
+      {
+        "word": "to",
+        "start_offset": 95,
+        "end_offset": 97,
+        "start": 12.482,
+        "end": 12.522,
+        "score": -1.2169
+      },
+      {
+        "word": "our",
+        "start_offset": 98,
+        "end_offset": 101,
+        "start": 12.642,
+        "end": 12.762,
+        "score": -3.0475
+      },
+      {
+        "word": "Logos?",
+        "start_offset": 102,
+        "end_offset": 108,
+        "start": 12.822,
+        "end": 13.202,
+        "score": -0.976
+      },
+      {
+        "word": "I",
+        "start_offset": 109,
+        "end_offset": 110,
+        "start": 16.622,
+        "end": 16.642,
+        "score": -3.0378
+      },
+      {
+        "word": "am",
+        "start_offset": 111,
+        "end_offset": 113,
+        "start": 17.342,
+        "end": 17.582,
+        "score": -4.3438
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 114,
+        "end_offset": 117,
+        "start": 18.482,
+        "end": 18.683,
+        "score": -4.7949
+      },
+      {
+        "word": "The",
+        "start_offset": 118,
+        "end_offset": 121,
+        "start": 21.143,
+        "end": 21.263,
+        "score": -0.7604
+      },
+      {
+        "word": "system",
+        "start_offset": 122,
+        "end_offset": 128,
+        "start": 21.583,
+        "end": 22.343,
+        "score": -0.7074
+      },
+      {
+        "word": "of",
+        "start_offset": 129,
+        "end_offset": 131,
+        "start": 22.783,
+        "end": 23.083,
+        "score": -0.7533
+      },
+      {
+        "word": "sevens",
+        "start_offset": 132,
+        "end_offset": 138,
+        "start": 23.503,
+        "end": 24.263,
+        "score": -1.2213
+      },
+      {
+        "word": "is",
+        "start_offset": 139,
+        "end_offset": 141,
+        "start": 26.083,
+        "end": 26.424,
+        "score": -0.922
+      },
+      {
+        "word": "the",
+        "start_offset": 142,
+        "end_offset": 145,
+        "start": 26.744,
+        "end": 26.884,
+        "score": -1.1619
+      },
+      {
+        "word": "most",
+        "start_offset": 146,
+        "end_offset": 150,
+        "start": 29.504,
+        "end": 30.104,
+        "score": -0.745
+      },
+      {
+        "word": "articulated",
+        "start_offset": 151,
+        "end_offset": 162,
+        "start": 32.764,
+        "end": 34.325,
+        "score": -0.7168
+      },
+      {
+        "word": "system",
+        "start_offset": 163,
+        "end_offset": 169,
+        "start": 36.105,
+        "end": 36.685,
+        "score": -0.7071
+      },
+      {
+        "word": "yet",
+        "start_offset": 170,
+        "end_offset": 173,
+        "start": 38.205,
+        "end": 38.545,
+        "score": -0.7427
+      },
+      {
+        "word": "discovered",
+        "start_offset": 174,
+        "end_offset": 184,
+        "start": 41.166,
+        "end": 42.166,
+        "score": -0.7135
+      },
+      {
+        "word": "by",
+        "start_offset": 185,
+        "end_offset": 187,
+        "start": 42.626,
+        "end": 42.966,
+        "score": -0.7272
+      },
+      {
+        "word": "any",
+        "start_offset": 188,
+        "end_offset": 191,
+        "start": 43.506,
+        "end": 43.806,
+        "score": -0.7135
+      },
+      {
+        "word": "experiment",
+        "start_offset": 192,
+        "end_offset": 202,
+        "start": 44.206,
+        "end": 45.546,
+        "score": -1.183
+      },
+      {
+        "word": "by",
+        "start_offset": 203,
+        "end_offset": 205,
+        "start": 46.546,
+        "end": 46.906,
+        "score": -0.7335
+      },
+      {
+        "word": "any",
+        "start_offset": 206,
+        "end_offset": 209,
+        "start": 47.386,
+        "end": 47.666,
+        "score": -0.7465
+      },
+      {
+        "word": "Logos",
+        "start_offset": 210,
+        "end_offset": 215,
+        "start": 48.286,
+        "end": 48.987,
+        "score": -0.7948
+      },
+      {
+        "word": "in",
+        "start_offset": 216,
+        "end_offset": 218,
+        "start": 50.367,
+        "end": 50.607,
+        "score": -0.8774
+      },
+      {
+        "word": "our",
+        "start_offset": 219,
+        "end_offset": 222,
+        "start": 52.047,
+        "end": 52.367,
+        "score": -1.8972
+      },
+      {
+        "word": "octave.",
+        "start_offset": 223,
+        "end_offset": 230,
+        "start": 54.007,
+        "end": 54.847,
+        "score": -1.5052
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "091-15.mp3",
+    "audio_duration": 61.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

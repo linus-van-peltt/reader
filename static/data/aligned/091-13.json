@@ -1,0 +1,507 @@
+{
+  "text": "How many different planets have supplied the individuals that now inhabit this planet in this third density? I am Ra. This is perceived by us to be unimportant information, but harmless. There are three major planetary influences upon your planetary sphere, besides those of your own second-density derivation, and thirteen minor planetary groups in addition to the above.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "How many different planets have supplied the individuals that now inhabit this planet in this third density?",
+        "start_offset": 0,
+        "end_offset": 108,
+        "start": 2.04,
+        "end": 20.582
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 109,
+        "end_offset": 117,
+        "start": 21.482,
+        "end": 22.822
+      },
+      {
+        "segment": "This is perceived by us to be unimportant information, but harmless.",
+        "start_offset": 118,
+        "end_offset": 186,
+        "start": 25.082,
+        "end": 41.464
+      },
+      {
+        "segment": "There are three major planetary influences upon your planetary sphere, besides those of your own second-density derivation, and thirteen minor planetary groups in addition to the above.",
+        "start_offset": 187,
+        "end_offset": 372,
+        "start": 42.764,
+        "end": 89.688
+      }
+    ],
+    "word": [
+      {
+        "word": "How",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.04,
+        "end": 2.22,
+        "score": -2.0721
+      },
+      {
+        "word": "many",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 2.3,
+        "end": 2.54,
+        "score": -1.1919
+      },
+      {
+        "word": "different",
+        "start_offset": 9,
+        "end_offset": 18,
+        "start": 2.66,
+        "end": 3.04,
+        "score": -1.8155
+      },
+      {
+        "word": "planets",
+        "start_offset": 19,
+        "end_offset": 26,
+        "start": 3.1,
+        "end": 3.58,
+        "score": -1.6545
+      },
+      {
+        "word": "have",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 3.66,
+        "end": 3.84,
+        "score": -1.711
+      },
+      {
+        "word": "supplied",
+        "start_offset": 32,
+        "end_offset": 40,
+        "start": 3.88,
+        "end": 4.46,
+        "score": -3.1242
+      },
+      {
+        "word": "the",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 6.681,
+        "end": 6.781,
+        "score": -6.2614
+      },
+      {
+        "word": "individuals",
+        "start_offset": 45,
+        "end_offset": 56,
+        "start": 8.141,
+        "end": 8.841,
+        "score": -3.138
+      },
+      {
+        "word": "that",
+        "start_offset": 57,
+        "end_offset": 61,
+        "start": 8.861,
+        "end": 9.001,
+        "score": -5.6599
+      },
+      {
+        "word": "now",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 9.021,
+        "end": 9.241,
+        "score": -7.0132
+      },
+      {
+        "word": "inhabit",
+        "start_offset": 66,
+        "end_offset": 73,
+        "start": 9.261,
+        "end": 9.761,
+        "score": -5.4395
+      },
+      {
+        "word": "this",
+        "start_offset": 74,
+        "end_offset": 78,
+        "start": 10.401,
+        "end": 10.601,
+        "score": -6.8498
+      },
+      {
+        "word": "planet",
+        "start_offset": 79,
+        "end_offset": 85,
+        "start": 10.681,
+        "end": 11.101,
+        "score": -6.8284
+      },
+      {
+        "word": "in",
+        "start_offset": 86,
+        "end_offset": 88,
+        "start": 11.461,
+        "end": 11.561,
+        "score": -6.6617
+      },
+      {
+        "word": "this",
+        "start_offset": 89,
+        "end_offset": 93,
+        "start": 11.881,
+        "end": 12.061,
+        "score": -7.189
+      },
+      {
+        "word": "third",
+        "start_offset": 94,
+        "end_offset": 99,
+        "start": 12.121,
+        "end": 12.361,
+        "score": -7.514
+      },
+      {
+        "word": "density?",
+        "start_offset": 100,
+        "end_offset": 108,
+        "start": 12.401,
+        "end": 20.582,
+        "score": -6.0762
+      },
+      {
+        "word": "I",
+        "start_offset": 109,
+        "end_offset": 110,
+        "start": 21.482,
+        "end": 21.502,
+        "score": -1.7441
+      },
+      {
+        "word": "am",
+        "start_offset": 111,
+        "end_offset": 113,
+        "start": 21.642,
+        "end": 21.722,
+        "score": -6.789
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 114,
+        "end_offset": 117,
+        "start": 22.722,
+        "end": 22.822,
+        "score": -8.4506
+      },
+      {
+        "word": "This",
+        "start_offset": 118,
+        "end_offset": 122,
+        "start": 25.082,
+        "end": 25.422,
+        "score": -1.6928
+      },
+      {
+        "word": "is",
+        "start_offset": 123,
+        "end_offset": 125,
+        "start": 25.722,
+        "end": 26.102,
+        "score": -1.5406
+      },
+      {
+        "word": "perceived",
+        "start_offset": 126,
+        "end_offset": 135,
+        "start": 28.703,
+        "end": 29.443,
+        "score": -0.763
+      },
+      {
+        "word": "by",
+        "start_offset": 136,
+        "end_offset": 138,
+        "start": 29.603,
+        "end": 29.903,
+        "score": -0.739
+      },
+      {
+        "word": "us",
+        "start_offset": 139,
+        "end_offset": 141,
+        "start": 30.143,
+        "end": 30.423,
+        "score": -0.8928
+      },
+      {
+        "word": "to",
+        "start_offset": 142,
+        "end_offset": 144,
+        "start": 30.763,
+        "end": 30.883,
+        "score": -0.7456
+      },
+      {
+        "word": "be",
+        "start_offset": 145,
+        "end_offset": 147,
+        "start": 31.303,
+        "end": 31.403,
+        "score": -0.7345
+      },
+      {
+        "word": "unimportant",
+        "start_offset": 148,
+        "end_offset": 159,
+        "start": 32.263,
+        "end": 33.763,
+        "score": -0.7212
+      },
+      {
+        "word": "information,",
+        "start_offset": 160,
+        "end_offset": 172,
+        "start": 35.043,
+        "end": 36.423,
+        "score": -0.7078
+      },
+      {
+        "word": "but",
+        "start_offset": 173,
+        "end_offset": 176,
+        "start": 39.844,
+        "end": 40.124,
+        "score": -2.2291
+      },
+      {
+        "word": "harmless.",
+        "start_offset": 177,
+        "end_offset": 186,
+        "start": 40.584,
+        "end": 41.464,
+        "score": -2.8871
+      },
+      {
+        "word": "There",
+        "start_offset": 187,
+        "end_offset": 192,
+        "start": 42.764,
+        "end": 43.104,
+        "score": -0.8298
+      },
+      {
+        "word": "are",
+        "start_offset": 193,
+        "end_offset": 196,
+        "start": 44.424,
+        "end": 44.704,
+        "score": -0.8193
+      },
+      {
+        "word": "three",
+        "start_offset": 197,
+        "end_offset": 202,
+        "start": 45.564,
+        "end": 46.064,
+        "score": -0.7467
+      },
+      {
+        "word": "major",
+        "start_offset": 203,
+        "end_offset": 208,
+        "start": 47.384,
+        "end": 47.904,
+        "score": -0.7677
+      },
+      {
+        "word": "planetary",
+        "start_offset": 209,
+        "end_offset": 218,
+        "start": 48.744,
+        "end": 50.204,
+        "score": -0.92
+      },
+      {
+        "word": "influences",
+        "start_offset": 219,
+        "end_offset": 229,
+        "start": 51.545,
+        "end": 52.925,
+        "score": -0.739
+      },
+      {
+        "word": "upon",
+        "start_offset": 230,
+        "end_offset": 234,
+        "start": 55.165,
+        "end": 55.785,
+        "score": -1.3501
+      },
+      {
+        "word": "your",
+        "start_offset": 235,
+        "end_offset": 239,
+        "start": 56.345,
+        "end": 56.765,
+        "score": -1.8723
+      },
+      {
+        "word": "planetary",
+        "start_offset": 240,
+        "end_offset": 249,
+        "start": 56.965,
+        "end": 58.305,
+        "score": -0.9784
+      },
+      {
+        "word": "sphere,",
+        "start_offset": 250,
+        "end_offset": 257,
+        "start": 59.125,
+        "end": 59.625,
+        "score": -1.4397
+      },
+      {
+        "word": "besides",
+        "start_offset": 258,
+        "end_offset": 265,
+        "start": 61.425,
+        "end": 62.345,
+        "score": -0.784
+      },
+      {
+        "word": "those",
+        "start_offset": 266,
+        "end_offset": 271,
+        "start": 62.846,
+        "end": 63.346,
+        "score": -0.8129
+      },
+      {
+        "word": "of",
+        "start_offset": 272,
+        "end_offset": 274,
+        "start": 64.026,
+        "end": 64.326,
+        "score": -0.7595
+      },
+      {
+        "word": "your",
+        "start_offset": 275,
+        "end_offset": 279,
+        "start": 64.626,
+        "end": 64.966,
+        "score": -1.1552
+      },
+      {
+        "word": "own",
+        "start_offset": 280,
+        "end_offset": 283,
+        "start": 65.586,
+        "end": 65.866,
+        "score": -1.1731
+      },
+      {
+        "word": "second-density",
+        "start_offset": 284,
+        "end_offset": 298,
+        "start": 66.866,
+        "end": 69.486,
+        "score": -0.8074
+      },
+      {
+        "word": "derivation,",
+        "start_offset": 299,
+        "end_offset": 310,
+        "start": 70.746,
+        "end": 72.006,
+        "score": -0.8596
+      },
+      {
+        "word": "and",
+        "start_offset": 311,
+        "end_offset": 314,
+        "start": 73.586,
+        "end": 73.987,
+        "score": -0.7514
+      },
+      {
+        "word": "thirteen",
+        "start_offset": 315,
+        "end_offset": 323,
+        "start": 75.007,
+        "end": 76.007,
+        "score": -1.4917
+      },
+      {
+        "word": "minor",
+        "start_offset": 324,
+        "end_offset": 329,
+        "start": 77.307,
+        "end": 77.887,
+        "score": -1.0475
+      },
+      {
+        "word": "planetary",
+        "start_offset": 330,
+        "end_offset": 339,
+        "start": 78.947,
+        "end": 80.307,
+        "score": -1.0107
+      },
+      {
+        "word": "groups",
+        "start_offset": 340,
+        "end_offset": 346,
+        "start": 81.687,
+        "end": 82.347,
+        "score": -1.0199
+      },
+      {
+        "word": "in",
+        "start_offset": 347,
+        "end_offset": 349,
+        "start": 83.627,
+        "end": 83.867,
+        "score": -0.7355
+      },
+      {
+        "word": "addition",
+        "start_offset": 350,
+        "end_offset": 358,
+        "start": 84.107,
+        "end": 84.987,
+        "score": -1.1521
+      },
+      {
+        "word": "to",
+        "start_offset": 359,
+        "end_offset": 361,
+        "start": 85.788,
+        "end": 85.928,
+        "score": -1.1137
+      },
+      {
+        "word": "the",
+        "start_offset": 362,
+        "end_offset": 365,
+        "start": 88.348,
+        "end": 88.488,
+        "score": -0.8694
+      },
+      {
+        "word": "above.",
+        "start_offset": 366,
+        "end_offset": 372,
+        "start": 88.808,
+        "end": 89.688,
+        "score": -1.6091
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "091-13.mp3",
+    "audio_duration": 93.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

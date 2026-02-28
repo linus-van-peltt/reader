@@ -1,0 +1,233 @@
+{
+  "text": "I am proud. Your assumption is correct unless you feel that a certain question is necessary. This instrument is the best literature by approximately in this length column.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I am proud.",
+        "start_offset": 124,
+        "end_offset": 149,
+        "start": 9.92,
+        "end": 11.92
+      },
+      {
+        "segment": "Your assumption is correct unless you feel that a certain question is necessary.",
+        "start_offset": 183,
+        "end_offset": 322,
+        "start": 14.64,
+        "end": 25.76
+      },
+      {
+        "segment": "This instrument is the best literature by approximately in this length column.",
+        "start_offset": 340,
+        "end_offset": 489,
+        "start": 27.2,
+        "end": 39.12
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 124,
+        "end_offset": 128,
+        "start": 9.92,
+        "end": 10.24
+      },
+      {
+        "word": "am",
+        "start_offset": 132,
+        "end_offset": 136,
+        "start": 10.56,
+        "end": 10.88
+      },
+      {
+        "word": "proud.",
+        "start_offset": 140,
+        "end_offset": 149,
+        "start": 11.200000000000001,
+        "end": 11.92
+      },
+      {
+        "word": "Your",
+        "start_offset": 183,
+        "end_offset": 191,
+        "start": 14.64,
+        "end": 15.280000000000001
+      },
+      {
+        "word": "assumption",
+        "start_offset": 194,
+        "end_offset": 206,
+        "start": 15.52,
+        "end": 16.48
+      },
+      {
+        "word": "is",
+        "start_offset": 210,
+        "end_offset": 214,
+        "start": 16.8,
+        "end": 17.12
+      },
+      {
+        "word": "correct",
+        "start_offset": 214,
+        "end_offset": 226,
+        "start": 17.12,
+        "end": 18.080000000000002
+      },
+      {
+        "word": "unless",
+        "start_offset": 234,
+        "end_offset": 246,
+        "start": 18.72,
+        "end": 19.68
+      },
+      {
+        "word": "you",
+        "start_offset": 246,
+        "end_offset": 250,
+        "start": 19.68,
+        "end": 20.0
+      },
+      {
+        "word": "feel",
+        "start_offset": 250,
+        "end_offset": 258,
+        "start": 20.0,
+        "end": 20.64
+      },
+      {
+        "word": "that",
+        "start_offset": 266,
+        "end_offset": 270,
+        "start": 21.28,
+        "end": 21.6
+      },
+      {
+        "word": "a",
+        "start_offset": 278,
+        "end_offset": 282,
+        "start": 22.240000000000002,
+        "end": 22.56
+      },
+      {
+        "word": "certain",
+        "start_offset": 282,
+        "end_offset": 290,
+        "start": 22.56,
+        "end": 23.2
+      },
+      {
+        "word": "question",
+        "start_offset": 298,
+        "end_offset": 306,
+        "start": 23.84,
+        "end": 24.48
+      },
+      {
+        "word": "is",
+        "start_offset": 310,
+        "end_offset": 314,
+        "start": 24.8,
+        "end": 25.12
+      },
+      {
+        "word": "necessary.",
+        "start_offset": 314,
+        "end_offset": 322,
+        "start": 25.12,
+        "end": 25.76
+      },
+      {
+        "word": "This",
+        "start_offset": 340,
+        "end_offset": 344,
+        "start": 27.2,
+        "end": 27.52
+      },
+      {
+        "word": "instrument",
+        "start_offset": 348,
+        "end_offset": 360,
+        "start": 27.84,
+        "end": 28.8
+      },
+      {
+        "word": "is",
+        "start_offset": 364,
+        "end_offset": 368,
+        "start": 29.12,
+        "end": 29.44
+      },
+      {
+        "word": "the",
+        "start_offset": 378,
+        "end_offset": 382,
+        "start": 30.240000000000002,
+        "end": 30.560000000000002
+      },
+      {
+        "word": "best",
+        "start_offset": 382,
+        "end_offset": 386,
+        "start": 30.560000000000002,
+        "end": 30.88
+      },
+      {
+        "word": "literature",
+        "start_offset": 393,
+        "end_offset": 403,
+        "start": 31.44,
+        "end": 32.24
+      },
+      {
+        "word": "by",
+        "start_offset": 411,
+        "end_offset": 415,
+        "start": 32.88,
+        "end": 33.2
+      },
+      {
+        "word": "approximately",
+        "start_offset": 425,
+        "end_offset": 443,
+        "start": 34.0,
+        "end": 35.44
+      },
+      {
+        "word": "in",
+        "start_offset": 446,
+        "end_offset": 448,
+        "start": 35.68,
+        "end": 35.84
+      },
+      {
+        "word": "this",
+        "start_offset": 451,
+        "end_offset": 455,
+        "start": 36.08,
+        "end": 36.4
+      },
+      {
+        "word": "length",
+        "start_offset": 462,
+        "end_offset": 469,
+        "start": 36.96,
+        "end": 37.52
+      },
+      {
+        "word": "column.",
+        "start_offset": 483,
+        "end_offset": 489,
+        "start": 38.64,
+        "end": 39.12
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "004-21.mp3",
+    "audio_duration": 41.04,
+    "transcription_time": 0.11,
+    "rtfx": 382.63,
+    "timestamp": "2026-01-06T21:45:54.657717+00:00"
+  }
+}

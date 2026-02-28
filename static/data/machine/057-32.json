@@ -1,0 +1,464 @@
+{
+  "text": "I'll restate the question. I am assuming then that it might be dangerous to use a 76-degree angled pyramid. And I will ask what angle less than 76 degrees would be roughly the first angle that would not produce this dangerous effect. I am your assumption is correct. The lesser angle may be any angle less than seventy degrees.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I'll restate the question.",
+        "start_offset": 4,
+        "end_offset": 26,
+        "start": 0.32,
+        "end": 2.08
+      },
+      {
+        "segment": "I am assuming then that it might be dangerous to use a 76-degree angled pyramid.",
+        "start_offset": 28,
+        "end_offset": 208,
+        "start": 2.24,
+        "end": 16.64
+      },
+      {
+        "segment": "And I will ask what angle less than 76 degrees would be roughly the first angle that would not produce this dangerous effect.",
+        "start_offset": 213,
+        "end_offset": 373,
+        "start": 17.04,
+        "end": 29.84
+      },
+      {
+        "segment": "I am your assumption is correct.",
+        "start_offset": 429,
+        "end_offset": 546,
+        "start": 34.32,
+        "end": 43.68
+      },
+      {
+        "segment": "The lesser angle may be any angle less than seventy degrees.",
+        "start_offset": 567,
+        "end_offset": 783,
+        "start": 45.36,
+        "end": 62.64
+      }
+    ],
+    "word": [
+      {
+        "word": "I'll",
+        "start_offset": 4,
+        "end_offset": 11,
+        "start": 0.32,
+        "end": 0.88
+      },
+      {
+        "word": "restate",
+        "start_offset": 11,
+        "end_offset": 18,
+        "start": 0.88,
+        "end": 1.44
+      },
+      {
+        "word": "the",
+        "start_offset": 18,
+        "end_offset": 21,
+        "start": 1.44,
+        "end": 1.68
+      },
+      {
+        "word": "question.",
+        "start_offset": 21,
+        "end_offset": 26,
+        "start": 1.68,
+        "end": 2.08
+      },
+      {
+        "word": "I",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 2.24,
+        "end": 2.48
+      },
+      {
+        "word": "am",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 2.48,
+        "end": 2.72
+      },
+      {
+        "word": "assuming",
+        "start_offset": 34,
+        "end_offset": 41,
+        "start": 2.72,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "then",
+        "start_offset": 44,
+        "end_offset": 48,
+        "start": 3.52,
+        "end": 3.84
+      },
+      {
+        "word": "that",
+        "start_offset": 55,
+        "end_offset": 59,
+        "start": 4.4,
+        "end": 4.72
+      },
+      {
+        "word": "it",
+        "start_offset": 79,
+        "end_offset": 83,
+        "start": 6.32,
+        "end": 6.640000000000001
+      },
+      {
+        "word": "might",
+        "start_offset": 94,
+        "end_offset": 101,
+        "start": 7.5200000000000005,
+        "end": 8.08
+      },
+      {
+        "word": "be",
+        "start_offset": 101,
+        "end_offset": 104,
+        "start": 8.08,
+        "end": 8.32
+      },
+      {
+        "word": "dangerous",
+        "start_offset": 104,
+        "end_offset": 118,
+        "start": 8.32,
+        "end": 9.44
+      },
+      {
+        "word": "to",
+        "start_offset": 130,
+        "end_offset": 134,
+        "start": 10.4,
+        "end": 10.72
+      },
+      {
+        "word": "use",
+        "start_offset": 134,
+        "end_offset": 138,
+        "start": 10.72,
+        "end": 11.040000000000001
+      },
+      {
+        "word": "a",
+        "start_offset": 146,
+        "end_offset": 150,
+        "start": 11.68,
+        "end": 12.0
+      },
+      {
+        "word": "76-degree",
+        "start_offset": 150,
+        "end_offset": 175,
+        "start": 12.0,
+        "end": 14.0
+      },
+      {
+        "word": "angled",
+        "start_offset": 186,
+        "end_offset": 193,
+        "start": 14.88,
+        "end": 15.44
+      },
+      {
+        "word": "pyramid.",
+        "start_offset": 195,
+        "end_offset": 208,
+        "start": 15.6,
+        "end": 16.64
+      },
+      {
+        "word": "And",
+        "start_offset": 213,
+        "end_offset": 217,
+        "start": 17.04,
+        "end": 17.36
+      },
+      {
+        "word": "I",
+        "start_offset": 217,
+        "end_offset": 221,
+        "start": 17.36,
+        "end": 17.68
+      },
+      {
+        "word": "will",
+        "start_offset": 221,
+        "end_offset": 225,
+        "start": 17.68,
+        "end": 18.0
+      },
+      {
+        "word": "ask",
+        "start_offset": 225,
+        "end_offset": 233,
+        "start": 18.0,
+        "end": 18.64
+      },
+      {
+        "word": "what",
+        "start_offset": 247,
+        "end_offset": 251,
+        "start": 19.76,
+        "end": 20.080000000000002
+      },
+      {
+        "word": "angle",
+        "start_offset": 255,
+        "end_offset": 263,
+        "start": 20.400000000000002,
+        "end": 21.04
+      },
+      {
+        "word": "less",
+        "start_offset": 277,
+        "end_offset": 285,
+        "start": 22.16,
+        "end": 22.8
+      },
+      {
+        "word": "than",
+        "start_offset": 285,
+        "end_offset": 289,
+        "start": 22.8,
+        "end": 23.12
+      },
+      {
+        "word": "76",
+        "start_offset": 289,
+        "end_offset": 299,
+        "start": 23.12,
+        "end": 23.92
+      },
+      {
+        "word": "degrees",
+        "start_offset": 301,
+        "end_offset": 310,
+        "start": 24.080000000000002,
+        "end": 24.8
+      },
+      {
+        "word": "would",
+        "start_offset": 310,
+        "end_offset": 313,
+        "start": 24.8,
+        "end": 25.04
+      },
+      {
+        "word": "be",
+        "start_offset": 313,
+        "end_offset": 316,
+        "start": 25.04,
+        "end": 25.28
+      },
+      {
+        "word": "roughly",
+        "start_offset": 316,
+        "end_offset": 323,
+        "start": 25.28,
+        "end": 25.84
+      },
+      {
+        "word": "the",
+        "start_offset": 323,
+        "end_offset": 326,
+        "start": 25.84,
+        "end": 26.080000000000002
+      },
+      {
+        "word": "first",
+        "start_offset": 326,
+        "end_offset": 329,
+        "start": 26.080000000000002,
+        "end": 26.32
+      },
+      {
+        "word": "angle",
+        "start_offset": 329,
+        "end_offset": 335,
+        "start": 26.32,
+        "end": 26.8
+      },
+      {
+        "word": "that",
+        "start_offset": 335,
+        "end_offset": 338,
+        "start": 26.8,
+        "end": 27.04
+      },
+      {
+        "word": "would",
+        "start_offset": 338,
+        "end_offset": 342,
+        "start": 27.04,
+        "end": 27.36
+      },
+      {
+        "word": "not",
+        "start_offset": 342,
+        "end_offset": 345,
+        "start": 27.36,
+        "end": 27.6
+      },
+      {
+        "word": "produce",
+        "start_offset": 345,
+        "end_offset": 353,
+        "start": 27.6,
+        "end": 28.240000000000002
+      },
+      {
+        "word": "this",
+        "start_offset": 353,
+        "end_offset": 356,
+        "start": 28.240000000000002,
+        "end": 28.48
+      },
+      {
+        "word": "dangerous",
+        "start_offset": 356,
+        "end_offset": 365,
+        "start": 28.48,
+        "end": 29.2
+      },
+      {
+        "word": "effect.",
+        "start_offset": 365,
+        "end_offset": 373,
+        "start": 29.2,
+        "end": 29.84
+      },
+      {
+        "word": "I",
+        "start_offset": 429,
+        "end_offset": 433,
+        "start": 34.32,
+        "end": 34.64
+      },
+      {
+        "word": "am",
+        "start_offset": 441,
+        "end_offset": 443,
+        "start": 35.28,
+        "end": 35.44
+      },
+      {
+        "word": "your",
+        "start_offset": 478,
+        "end_offset": 482,
+        "start": 38.24,
+        "end": 38.56
+      },
+      {
+        "word": "assumption",
+        "start_offset": 494,
+        "end_offset": 506,
+        "start": 39.52,
+        "end": 40.480000000000004
+      },
+      {
+        "word": "is",
+        "start_offset": 522,
+        "end_offset": 526,
+        "start": 41.76,
+        "end": 42.08
+      },
+      {
+        "word": "correct.",
+        "start_offset": 534,
+        "end_offset": 546,
+        "start": 42.72,
+        "end": 43.68
+      },
+      {
+        "word": "The",
+        "start_offset": 567,
+        "end_offset": 571,
+        "start": 45.36,
+        "end": 45.68
+      },
+      {
+        "word": "lesser",
+        "start_offset": 591,
+        "end_offset": 606,
+        "start": 47.28,
+        "end": 48.480000000000004
+      },
+      {
+        "word": "angle",
+        "start_offset": 625,
+        "end_offset": 633,
+        "start": 50.0,
+        "end": 50.64
+      },
+      {
+        "word": "may",
+        "start_offset": 645,
+        "end_offset": 649,
+        "start": 51.6,
+        "end": 51.92
+      },
+      {
+        "word": "be",
+        "start_offset": 657,
+        "end_offset": 661,
+        "start": 52.56,
+        "end": 52.88
+      },
+      {
+        "word": "any",
+        "start_offset": 677,
+        "end_offset": 681,
+        "start": 54.160000000000004,
+        "end": 54.480000000000004
+      },
+      {
+        "word": "angle",
+        "start_offset": 693,
+        "end_offset": 705,
+        "start": 55.44,
+        "end": 56.4
+      },
+      {
+        "word": "less",
+        "start_offset": 713,
+        "end_offset": 721,
+        "start": 57.04,
+        "end": 57.68
+      },
+      {
+        "word": "than",
+        "start_offset": 725,
+        "end_offset": 729,
+        "start": 58.0,
+        "end": 58.32
+      },
+      {
+        "word": "seventy",
+        "start_offset": 745,
+        "end_offset": 757,
+        "start": 59.6,
+        "end": 60.56
+      },
+      {
+        "word": "degrees.",
+        "start_offset": 769,
+        "end_offset": 783,
+        "start": 61.52,
+        "end": 62.64
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "057-32.mp3",
+    "audio_duration": 66.04,
+    "transcription_time": 0.13,
+    "rtfx": 505.18,
+    "timestamp": "2026-01-06T21:52:53.106827+00:00"
+  }
+}

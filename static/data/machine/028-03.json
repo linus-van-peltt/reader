@@ -1,0 +1,317 @@
+{
+  "text": "The slide that occurred as a consequence of vibration, which is a consequence of love. If I'm going to ask you if that statement is right, is that right? Correct. I am wrong. This statement is a correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "The slide that occurred as a consequence of vibration, which is a consequence of love.",
+        "start_offset": 35,
+        "end_offset": 305,
+        "start": 2.8000000000000003,
+        "end": 24.400000000000002
+      },
+      {
+        "segment": "If I'm going to ask you if that statement is right, is that right?",
+        "start_offset": 307,
+        "end_offset": 342,
+        "start": 24.560000000000002,
+        "end": 27.36
+      },
+      {
+        "segment": "Correct.",
+        "start_offset": 345,
+        "end_offset": 355,
+        "start": 27.6,
+        "end": 28.400000000000002
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 411,
+        "end_offset": 444,
+        "start": 32.88,
+        "end": 35.52
+      },
+      {
+        "segment": "This statement is a correct.",
+        "start_offset": 477,
+        "end_offset": 542,
+        "start": 38.160000000000004,
+        "end": 43.36
+      }
+    ],
+    "word": [
+      {
+        "word": "The",
+        "start_offset": 35,
+        "end_offset": 39,
+        "start": 2.8000000000000003,
+        "end": 3.12
+      },
+      {
+        "word": "slide",
+        "start_offset": 111,
+        "end_offset": 120,
+        "start": 8.88,
+        "end": 9.6
+      },
+      {
+        "word": "that",
+        "start_offset": 124,
+        "end_offset": 128,
+        "start": 9.92,
+        "end": 10.24
+      },
+      {
+        "word": "occurred",
+        "start_offset": 155,
+        "end_offset": 169,
+        "start": 12.4,
+        "end": 13.52
+      },
+      {
+        "word": "as",
+        "start_offset": 181,
+        "end_offset": 185,
+        "start": 14.48,
+        "end": 14.8
+      },
+      {
+        "word": "a",
+        "start_offset": 201,
+        "end_offset": 205,
+        "start": 16.080000000000002,
+        "end": 16.4
+      },
+      {
+        "word": "consequence",
+        "start_offset": 205,
+        "end_offset": 219,
+        "start": 16.4,
+        "end": 17.52
+      },
+      {
+        "word": "of",
+        "start_offset": 223,
+        "end_offset": 227,
+        "start": 17.84,
+        "end": 18.16
+      },
+      {
+        "word": "vibration,",
+        "start_offset": 247,
+        "end_offset": 262,
+        "start": 19.76,
+        "end": 20.96
+      },
+      {
+        "word": "which",
+        "start_offset": 282,
+        "end_offset": 286,
+        "start": 22.56,
+        "end": 22.88
+      },
+      {
+        "word": "is",
+        "start_offset": 286,
+        "end_offset": 288,
+        "start": 22.88,
+        "end": 23.04
+      },
+      {
+        "word": "a",
+        "start_offset": 288,
+        "end_offset": 290,
+        "start": 23.04,
+        "end": 23.2
+      },
+      {
+        "word": "consequence",
+        "start_offset": 290,
+        "end_offset": 298,
+        "start": 23.2,
+        "end": 23.84
+      },
+      {
+        "word": "of",
+        "start_offset": 298,
+        "end_offset": 302,
+        "start": 23.84,
+        "end": 24.16
+      },
+      {
+        "word": "love.",
+        "start_offset": 302,
+        "end_offset": 305,
+        "start": 24.16,
+        "end": 24.400000000000002
+      },
+      {
+        "word": "If",
+        "start_offset": 307,
+        "end_offset": 310,
+        "start": 24.560000000000002,
+        "end": 24.8
+      },
+      {
+        "word": "I'm",
+        "start_offset": 311,
+        "end_offset": 314,
+        "start": 24.88,
+        "end": 25.12
+      },
+      {
+        "word": "going",
+        "start_offset": 314,
+        "end_offset": 315,
+        "start": 25.12,
+        "end": 25.2
+      },
+      {
+        "word": "to",
+        "start_offset": 315,
+        "end_offset": 315,
+        "start": 25.2,
+        "end": 25.2
+      },
+      {
+        "word": "ask",
+        "start_offset": 315,
+        "end_offset": 317,
+        "start": 25.2,
+        "end": 25.36
+      },
+      {
+        "word": "you",
+        "start_offset": 317,
+        "end_offset": 318,
+        "start": 25.36,
+        "end": 25.44
+      },
+      {
+        "word": "if",
+        "start_offset": 319,
+        "end_offset": 320,
+        "start": 25.52,
+        "end": 25.6
+      },
+      {
+        "word": "that",
+        "start_offset": 320,
+        "end_offset": 322,
+        "start": 25.6,
+        "end": 25.76
+      },
+      {
+        "word": "statement",
+        "start_offset": 322,
+        "end_offset": 325,
+        "start": 25.76,
+        "end": 26.0
+      },
+      {
+        "word": "is",
+        "start_offset": 327,
+        "end_offset": 330,
+        "start": 26.16,
+        "end": 26.400000000000002
+      },
+      {
+        "word": "right,",
+        "start_offset": 330,
+        "end_offset": 332,
+        "start": 26.400000000000002,
+        "end": 26.560000000000002
+      },
+      {
+        "word": "is",
+        "start_offset": 334,
+        "end_offset": 336,
+        "start": 26.72,
+        "end": 26.88
+      },
+      {
+        "word": "that",
+        "start_offset": 336,
+        "end_offset": 339,
+        "start": 26.88,
+        "end": 27.12
+      },
+      {
+        "word": "right?",
+        "start_offset": 339,
+        "end_offset": 342,
+        "start": 27.12,
+        "end": 27.36
+      },
+      {
+        "word": "Correct.",
+        "start_offset": 345,
+        "end_offset": 355,
+        "start": 27.6,
+        "end": 28.400000000000002
+      },
+      {
+        "word": "I",
+        "start_offset": 411,
+        "end_offset": 415,
+        "start": 32.88,
+        "end": 33.2
+      },
+      {
+        "word": "am",
+        "start_offset": 423,
+        "end_offset": 427,
+        "start": 33.84,
+        "end": 34.160000000000004
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 435,
+        "end_offset": 444,
+        "start": 34.800000000000004,
+        "end": 35.52
+      },
+      {
+        "word": "This",
+        "start_offset": 477,
+        "end_offset": 481,
+        "start": 38.160000000000004,
+        "end": 38.480000000000004
+      },
+      {
+        "word": "statement",
+        "start_offset": 489,
+        "end_offset": 501,
+        "start": 39.12,
+        "end": 40.08
+      },
+      {
+        "word": "is",
+        "start_offset": 521,
+        "end_offset": 525,
+        "start": 41.68,
+        "end": 42.0
+      },
+      {
+        "word": "a",
+        "start_offset": 526,
+        "end_offset": 530,
+        "start": 42.08,
+        "end": 42.4
+      },
+      {
+        "word": "correct.",
+        "start_offset": 530,
+        "end_offset": 542,
+        "start": 42.4,
+        "end": 43.36
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "028-03.mp3",
+    "audio_duration": 44.04,
+    "transcription_time": 0.11,
+    "rtfx": 393.46,
+    "timestamp": "2026-01-06T21:49:21.336950+00:00"
+  }
+}

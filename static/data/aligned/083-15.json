@@ -1,0 +1,188 @@
+{
+  "text": "Is the veil supposed to be what I would call semi-permeable? I am Ra. The veil is indeed so.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is the veil supposed to be what I would call semi-permeable?",
+        "start_offset": 0,
+        "end_offset": 60,
+        "start": 2.901,
+        "end": 6.342
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 61,
+        "end_offset": 69,
+        "start": 11.504,
+        "end": 13.204
+      },
+      {
+        "segment": "The veil is indeed so.",
+        "start_offset": 70,
+        "end_offset": 92,
+        "start": 15.845,
+        "end": 20.827
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.901,
+        "end": 3.021,
+        "score": -0.9244
+      },
+      {
+        "word": "the",
+        "start_offset": 3,
+        "end_offset": 6,
+        "start": 3.081,
+        "end": 3.181,
+        "score": -1.0184
+      },
+      {
+        "word": "veil",
+        "start_offset": 7,
+        "end_offset": 11,
+        "start": 3.281,
+        "end": 3.661,
+        "score": -1.6295
+      },
+      {
+        "word": "supposed",
+        "start_offset": 12,
+        "end_offset": 20,
+        "start": 3.801,
+        "end": 4.221,
+        "score": -0.7249
+      },
+      {
+        "word": "to",
+        "start_offset": 21,
+        "end_offset": 23,
+        "start": 4.261,
+        "end": 4.321,
+        "score": -0.7091
+      },
+      {
+        "word": "be",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 4.361,
+        "end": 4.441,
+        "score": -0.7084
+      },
+      {
+        "word": "what",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 4.562,
+        "end": 4.702,
+        "score": -0.719
+      },
+      {
+        "word": "I",
+        "start_offset": 32,
+        "end_offset": 33,
+        "start": 4.802,
+        "end": 4.822,
+        "score": -0.6987
+      },
+      {
+        "word": "would",
+        "start_offset": 34,
+        "end_offset": 39,
+        "start": 4.842,
+        "end": 4.982,
+        "score": -0.8282
+      },
+      {
+        "word": "call",
+        "start_offset": 40,
+        "end_offset": 44,
+        "start": 5.022,
+        "end": 5.262,
+        "score": -0.6981
+      },
+      {
+        "word": "semi-permeable?",
+        "start_offset": 45,
+        "end_offset": 60,
+        "start": 5.362,
+        "end": 6.342,
+        "score": -1.02
+      },
+      {
+        "word": "I",
+        "start_offset": 61,
+        "end_offset": 62,
+        "start": 11.504,
+        "end": 11.524,
+        "score": -1.4643
+      },
+      {
+        "word": "am",
+        "start_offset": 63,
+        "end_offset": 65,
+        "start": 12.204,
+        "end": 12.464,
+        "score": -1.8448
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 66,
+        "end_offset": 69,
+        "start": 13.104,
+        "end": 13.204,
+        "score": -1.5367
+      },
+      {
+        "word": "The",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 15.845,
+        "end": 15.985,
+        "score": -1.4364
+      },
+      {
+        "word": "veil",
+        "start_offset": 74,
+        "end_offset": 78,
+        "start": 16.766,
+        "end": 17.146,
+        "score": -1.5611
+      },
+      {
+        "word": "is",
+        "start_offset": 79,
+        "end_offset": 81,
+        "start": 17.866,
+        "end": 18.186,
+        "score": -0.7413
+      },
+      {
+        "word": "indeed",
+        "start_offset": 82,
+        "end_offset": 88,
+        "start": 18.886,
+        "end": 19.587,
+        "score": -0.6985
+      },
+      {
+        "word": "so.",
+        "start_offset": 89,
+        "end_offset": 92,
+        "start": 20.687,
+        "end": 20.827,
+        "score": -0.7148
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "083-15.mp3",
+    "audio_duration": 22.0474,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

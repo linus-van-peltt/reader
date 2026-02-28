@@ -1,0 +1,427 @@
+{
+  "text": "Could you first please give me the condition of the instrument? I am Ra. The instrument's distortion towards physical energy complex deficit has slightly increased since the last asking. The vital energy levels have had significant calls upon them and are somewhat less than the last asking also.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you first please give me the condition of the instrument?",
+        "start_offset": 0,
+        "end_offset": 63,
+        "start": 1.44,
+        "end": 20.663
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 64,
+        "end_offset": 72,
+        "start": 20.723,
+        "end": 21.043
+      },
+      {
+        "segment": "The instrument's distortion towards physical energy complex deficit has slightly increased since the last asking.",
+        "start_offset": 73,
+        "end_offset": 186,
+        "start": 22.243,
+        "end": 46.387
+      },
+      {
+        "segment": "The vital energy levels have had significant calls upon them and are somewhat less than the last asking also.",
+        "start_offset": 187,
+        "end_offset": 296,
+        "start": 48.727,
+        "end": 84.512
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 1.44,
+        "end": 4.161,
+        "score": -7.3788
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 11.122,
+        "end": 11.322,
+        "score": -5.3354
+      },
+      {
+        "word": "first",
+        "start_offset": 10,
+        "end_offset": 15,
+        "start": 11.522,
+        "end": 11.682,
+        "score": -6.7062
+      },
+      {
+        "word": "please",
+        "start_offset": 16,
+        "end_offset": 22,
+        "start": 12.362,
+        "end": 13.822,
+        "score": -6.158
+      },
+      {
+        "word": "give",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 13.842,
+        "end": 14.022,
+        "score": -5.7606
+      },
+      {
+        "word": "me",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 14.182,
+        "end": 14.222,
+        "score": -6.3796
+      },
+      {
+        "word": "the",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 14.262,
+        "end": 14.342,
+        "score": -6.1913
+      },
+      {
+        "word": "condition",
+        "start_offset": 35,
+        "end_offset": 44,
+        "start": 14.622,
+        "end": 17.142,
+        "score": -5.9515
+      },
+      {
+        "word": "of",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 17.162,
+        "end": 17.262,
+        "score": -9.2439
+      },
+      {
+        "word": "the",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 19.243,
+        "end": 19.383,
+        "score": -7.1637
+      },
+      {
+        "word": "instrument?",
+        "start_offset": 52,
+        "end_offset": 63,
+        "start": 19.423,
+        "end": 20.663,
+        "score": -1.4633
+      },
+      {
+        "word": "I",
+        "start_offset": 64,
+        "end_offset": 65,
+        "start": 20.723,
+        "end": 20.743,
+        "score": -5.3079
+      },
+      {
+        "word": "am",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 20.903,
+        "end": 20.943,
+        "score": -4.265
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 20.963,
+        "end": 21.043,
+        "score": -6.3074
+      },
+      {
+        "word": "The",
+        "start_offset": 73,
+        "end_offset": 76,
+        "start": 22.243,
+        "end": 22.343,
+        "score": -2.8231
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 77,
+        "end_offset": 89,
+        "start": 22.443,
+        "end": 23.123,
+        "score": -4.4916
+      },
+      {
+        "word": "distortion",
+        "start_offset": 90,
+        "end_offset": 100,
+        "start": 23.943,
+        "end": 24.644,
+        "score": -4.446
+      },
+      {
+        "word": "towards",
+        "start_offset": 101,
+        "end_offset": 108,
+        "start": 24.844,
+        "end": 27.024,
+        "score": -4.8328
+      },
+      {
+        "word": "physical",
+        "start_offset": 109,
+        "end_offset": 117,
+        "start": 27.064,
+        "end": 27.964,
+        "score": -2.505
+      },
+      {
+        "word": "energy",
+        "start_offset": 118,
+        "end_offset": 124,
+        "start": 28.944,
+        "end": 29.604,
+        "score": -1.5617
+      },
+      {
+        "word": "complex",
+        "start_offset": 125,
+        "end_offset": 132,
+        "start": 31.545,
+        "end": 32.545,
+        "score": -2.7514
+      },
+      {
+        "word": "deficit",
+        "start_offset": 133,
+        "end_offset": 140,
+        "start": 33.345,
+        "end": 34.305,
+        "score": -2.3967
+      },
+      {
+        "word": "has",
+        "start_offset": 141,
+        "end_offset": 144,
+        "start": 35.925,
+        "end": 36.625,
+        "score": -1.8515
+      },
+      {
+        "word": "slightly",
+        "start_offset": 145,
+        "end_offset": 153,
+        "start": 37.385,
+        "end": 38.105,
+        "score": -3.818
+      },
+      {
+        "word": "increased",
+        "start_offset": 154,
+        "end_offset": 163,
+        "start": 38.906,
+        "end": 40.226,
+        "score": -3.3374
+      },
+      {
+        "word": "since",
+        "start_offset": 164,
+        "end_offset": 169,
+        "start": 41.886,
+        "end": 42.586,
+        "score": -3.4713
+      },
+      {
+        "word": "the",
+        "start_offset": 170,
+        "end_offset": 173,
+        "start": 42.706,
+        "end": 42.826,
+        "score": -4.1833
+      },
+      {
+        "word": "last",
+        "start_offset": 174,
+        "end_offset": 178,
+        "start": 43.466,
+        "end": 44.166,
+        "score": -1.1806
+      },
+      {
+        "word": "asking.",
+        "start_offset": 179,
+        "end_offset": 186,
+        "start": 45.667,
+        "end": 46.387,
+        "score": -1.6484
+      },
+      {
+        "word": "The",
+        "start_offset": 187,
+        "end_offset": 190,
+        "start": 48.727,
+        "end": 48.867,
+        "score": -4.0256
+      },
+      {
+        "word": "vital",
+        "start_offset": 191,
+        "end_offset": 196,
+        "start": 50.267,
+        "end": 50.927,
+        "score": -1.4778
+      },
+      {
+        "word": "energy",
+        "start_offset": 197,
+        "end_offset": 203,
+        "start": 52.288,
+        "end": 53.008,
+        "score": -1.4457
+      },
+      {
+        "word": "levels",
+        "start_offset": 204,
+        "end_offset": 210,
+        "start": 53.968,
+        "end": 54.708,
+        "score": -3.2786
+      },
+      {
+        "word": "have",
+        "start_offset": 211,
+        "end_offset": 215,
+        "start": 56.308,
+        "end": 57.048,
+        "score": -3.8566
+      },
+      {
+        "word": "had",
+        "start_offset": 216,
+        "end_offset": 219,
+        "start": 57.508,
+        "end": 58.068,
+        "score": -2.0813
+      },
+      {
+        "word": "significant",
+        "start_offset": 220,
+        "end_offset": 231,
+        "start": 59.969,
+        "end": 62.089,
+        "score": -2.0957
+      },
+      {
+        "word": "calls",
+        "start_offset": 232,
+        "end_offset": 237,
+        "start": 64.869,
+        "end": 65.569,
+        "score": -2.9463
+      },
+      {
+        "word": "upon",
+        "start_offset": 238,
+        "end_offset": 242,
+        "start": 66.83,
+        "end": 67.39,
+        "score": -3.4463
+      },
+      {
+        "word": "them",
+        "start_offset": 243,
+        "end_offset": 247,
+        "start": 67.67,
+        "end": 68.09,
+        "score": -3.5801
+      },
+      {
+        "word": "and",
+        "start_offset": 248,
+        "end_offset": 251,
+        "start": 69.59,
+        "end": 69.93,
+        "score": -3.0103
+      },
+      {
+        "word": "are",
+        "start_offset": 252,
+        "end_offset": 255,
+        "start": 72.03,
+        "end": 73.351,
+        "score": -3.6456
+      },
+      {
+        "word": "somewhat",
+        "start_offset": 256,
+        "end_offset": 264,
+        "start": 73.531,
+        "end": 75.051,
+        "score": -2.7152
+      },
+      {
+        "word": "less",
+        "start_offset": 265,
+        "end_offset": 269,
+        "start": 77.631,
+        "end": 78.271,
+        "score": -2.7971
+      },
+      {
+        "word": "than",
+        "start_offset": 270,
+        "end_offset": 274,
+        "start": 79.992,
+        "end": 80.352,
+        "score": -2.1676
+      },
+      {
+        "word": "the",
+        "start_offset": 275,
+        "end_offset": 278,
+        "start": 80.652,
+        "end": 80.752,
+        "score": -4.7153
+      },
+      {
+        "word": "last",
+        "start_offset": 279,
+        "end_offset": 283,
+        "start": 81.272,
+        "end": 81.812,
+        "score": -1.1992
+      },
+      {
+        "word": "asking",
+        "start_offset": 284,
+        "end_offset": 290,
+        "start": 81.952,
+        "end": 82.672,
+        "score": -1.5321
+      },
+      {
+        "word": "also.",
+        "start_offset": 291,
+        "end_offset": 296,
+        "start": 83.932,
+        "end": 84.512,
+        "score": -2.8288
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "086-01.mp3",
+    "audio_duration": 88.0327,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

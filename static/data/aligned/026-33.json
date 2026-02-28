@@ -1,0 +1,420 @@
+{
+  "text": "Then are all of the landings that have occurred except for the landing when Eisenhower was contacted, are all of those landings of the Orion group or similar type groups? I am Ra. Except for isolated instances of those of, shall we say, no affiliation, this is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then are all of the landings that have occurred except for the landing when Eisenhower was contacted, are all of those landings of the Orion group or similar type groups?",
+        "start_offset": 0,
+        "end_offset": 170,
+        "start": 2.461,
+        "end": 17.988
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 171,
+        "end_offset": 179,
+        "start": 21.87,
+        "end": 24.111
+      },
+      {
+        "segment": "Except for isolated instances of those of, shall we say, no affiliation, this is correct.",
+        "start_offset": 180,
+        "end_offset": 269,
+        "start": 25.952,
+        "end": 50.643
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.461,
+        "end": 2.661,
+        "score": -2.0906
+      },
+      {
+        "word": "are",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 2.841,
+        "end": 2.981,
+        "score": -2.6209
+      },
+      {
+        "word": "all",
+        "start_offset": 9,
+        "end_offset": 12,
+        "start": 3.722,
+        "end": 3.942,
+        "score": -1.4798
+      },
+      {
+        "word": "of",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 4.002,
+        "end": 4.062,
+        "score": -1.2618
+      },
+      {
+        "word": "the",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 4.122,
+        "end": 4.202,
+        "score": -1.1153
+      },
+      {
+        "word": "landings",
+        "start_offset": 20,
+        "end_offset": 28,
+        "start": 4.262,
+        "end": 4.942,
+        "score": -1.1392
+      },
+      {
+        "word": "that",
+        "start_offset": 29,
+        "end_offset": 33,
+        "start": 5.843,
+        "end": 5.983,
+        "score": -1.7844
+      },
+      {
+        "word": "have",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 6.023,
+        "end": 6.143,
+        "score": -1.7528
+      },
+      {
+        "word": "occurred",
+        "start_offset": 39,
+        "end_offset": 47,
+        "start": 6.183,
+        "end": 6.623,
+        "score": -1.4788
+      },
+      {
+        "word": "except",
+        "start_offset": 48,
+        "end_offset": 54,
+        "start": 6.723,
+        "end": 7.203,
+        "score": -2.2559
+      },
+      {
+        "word": "for",
+        "start_offset": 55,
+        "end_offset": 58,
+        "start": 8.244,
+        "end": 8.404,
+        "score": -1.9995
+      },
+      {
+        "word": "the",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 8.444,
+        "end": 8.544,
+        "score": -2.039
+      },
+      {
+        "word": "landing",
+        "start_offset": 63,
+        "end_offset": 70,
+        "start": 8.984,
+        "end": 9.484,
+        "score": -1.7911
+      },
+      {
+        "word": "when",
+        "start_offset": 71,
+        "end_offset": 75,
+        "start": 10.425,
+        "end": 10.565,
+        "score": -3.523
+      },
+      {
+        "word": "Eisenhower",
+        "start_offset": 76,
+        "end_offset": 86,
+        "start": 10.685,
+        "end": 11.225,
+        "score": -4.3457
+      },
+      {
+        "word": "was",
+        "start_offset": 87,
+        "end_offset": 90,
+        "start": 11.325,
+        "end": 11.425,
+        "score": -2.6455
+      },
+      {
+        "word": "contacted,",
+        "start_offset": 91,
+        "end_offset": 101,
+        "start": 11.505,
+        "end": 12.226,
+        "score": -1.5886
+      },
+      {
+        "word": "are",
+        "start_offset": 102,
+        "end_offset": 105,
+        "start": 13.446,
+        "end": 13.546,
+        "score": -2.2084
+      },
+      {
+        "word": "all",
+        "start_offset": 106,
+        "end_offset": 109,
+        "start": 13.646,
+        "end": 13.786,
+        "score": -1.3134
+      },
+      {
+        "word": "of",
+        "start_offset": 110,
+        "end_offset": 112,
+        "start": 13.826,
+        "end": 13.886,
+        "score": -1.211
+      },
+      {
+        "word": "those",
+        "start_offset": 113,
+        "end_offset": 118,
+        "start": 13.926,
+        "end": 14.126,
+        "score": -1.154
+      },
+      {
+        "word": "landings",
+        "start_offset": 119,
+        "end_offset": 127,
+        "start": 14.186,
+        "end": 14.687,
+        "score": -0.96
+      },
+      {
+        "word": "of",
+        "start_offset": 128,
+        "end_offset": 130,
+        "start": 14.927,
+        "end": 15.047,
+        "score": -1.3452
+      },
+      {
+        "word": "the",
+        "start_offset": 131,
+        "end_offset": 134,
+        "start": 15.127,
+        "end": 15.227,
+        "score": -1.1029
+      },
+      {
+        "word": "Orion",
+        "start_offset": 135,
+        "end_offset": 140,
+        "start": 15.367,
+        "end": 15.787,
+        "score": -1.8289
+      },
+      {
+        "word": "group",
+        "start_offset": 141,
+        "end_offset": 146,
+        "start": 15.867,
+        "end": 16.107,
+        "score": -1.6543
+      },
+      {
+        "word": "or",
+        "start_offset": 147,
+        "end_offset": 149,
+        "start": 16.768,
+        "end": 16.868,
+        "score": -1.1852
+      },
+      {
+        "word": "similar",
+        "start_offset": 150,
+        "end_offset": 157,
+        "start": 16.968,
+        "end": 17.328,
+        "score": -0.8427
+      },
+      {
+        "word": "type",
+        "start_offset": 158,
+        "end_offset": 162,
+        "start": 17.388,
+        "end": 17.628,
+        "score": -1.5994
+      },
+      {
+        "word": "groups?",
+        "start_offset": 163,
+        "end_offset": 170,
+        "start": 17.668,
+        "end": 17.988,
+        "score": -1.2835
+      },
+      {
+        "word": "I",
+        "start_offset": 171,
+        "end_offset": 172,
+        "start": 21.87,
+        "end": 21.89,
+        "score": -0.8444
+      },
+      {
+        "word": "am",
+        "start_offset": 173,
+        "end_offset": 175,
+        "start": 22.77,
+        "end": 23.171,
+        "score": -1.4302
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 176,
+        "end_offset": 179,
+        "start": 23.951,
+        "end": 24.111,
+        "score": -0.9073
+      },
+      {
+        "word": "Except",
+        "start_offset": 180,
+        "end_offset": 186,
+        "start": 25.952,
+        "end": 27.072,
+        "score": -1.0319
+      },
+      {
+        "word": "for",
+        "start_offset": 187,
+        "end_offset": 190,
+        "start": 27.753,
+        "end": 28.193,
+        "score": -0.9476
+      },
+      {
+        "word": "isolated",
+        "start_offset": 191,
+        "end_offset": 199,
+        "start": 29.533,
+        "end": 31.775,
+        "score": -0.7366
+      },
+      {
+        "word": "instances",
+        "start_offset": 200,
+        "end_offset": 209,
+        "start": 32.975,
+        "end": 34.516,
+        "score": -0.704
+      },
+      {
+        "word": "of",
+        "start_offset": 210,
+        "end_offset": 212,
+        "start": 35.816,
+        "end": 36.217,
+        "score": -0.7128
+      },
+      {
+        "word": "those",
+        "start_offset": 213,
+        "end_offset": 218,
+        "start": 37.057,
+        "end": 37.717,
+        "score": -0.7421
+      },
+      {
+        "word": "of,",
+        "start_offset": 219,
+        "end_offset": 222,
+        "start": 38.918,
+        "end": 39.198,
+        "score": -0.7672
+      },
+      {
+        "word": "shall",
+        "start_offset": 223,
+        "end_offset": 228,
+        "start": 39.818,
+        "end": 40.258,
+        "score": -1.9486
+      },
+      {
+        "word": "we",
+        "start_offset": 229,
+        "end_offset": 231,
+        "start": 40.819,
+        "end": 40.999,
+        "score": -0.9773
+      },
+      {
+        "word": "say,",
+        "start_offset": 232,
+        "end_offset": 236,
+        "start": 41.659,
+        "end": 42.059,
+        "score": -1.2626
+      },
+      {
+        "word": "no",
+        "start_offset": 237,
+        "end_offset": 239,
+        "start": 43.2,
+        "end": 43.34,
+        "score": -0.7117
+      },
+      {
+        "word": "affiliation,",
+        "start_offset": 240,
+        "end_offset": 252,
+        "start": 44.24,
+        "end": 46.301,
+        "score": -1.2991
+      },
+      {
+        "word": "this",
+        "start_offset": 253,
+        "end_offset": 257,
+        "start": 47.462,
+        "end": 47.922,
+        "score": -0.735
+      },
+      {
+        "word": "is",
+        "start_offset": 258,
+        "end_offset": 260,
+        "start": 48.642,
+        "end": 49.022,
+        "score": -0.7181
+      },
+      {
+        "word": "correct.",
+        "start_offset": 261,
+        "end_offset": 269,
+        "start": 49.583,
+        "end": 50.643,
+        "score": -0.7079
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "026-33.mp3",
+    "audio_duration": 51.0433,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

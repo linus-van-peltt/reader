@@ -1,0 +1,310 @@
+{
+  "text": "I assume from this that our fifth density negative companion is still on R and R. Is this correct? I am raft, a density, a companion, is not accompanying you at this time. However, it is not resting.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I assume from this that our fifth density negative companion is still on R and R.",
+        "start_offset": 31,
+        "end_offset": 115,
+        "start": 2.48,
+        "end": 9.200000000000001
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 117,
+        "end_offset": 133,
+        "start": 9.36,
+        "end": 10.64
+      },
+      {
+        "segment": "I am raft, a density, a companion, is not accompanying you at this time.",
+        "start_offset": 232,
+        "end_offset": 487,
+        "start": 18.56,
+        "end": 38.96
+      },
+      {
+        "segment": "However, it is not resting.",
+        "start_offset": 539,
+        "end_offset": 626,
+        "start": 43.12,
+        "end": 50.08
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 2.48,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "assume",
+        "start_offset": 35,
+        "end_offset": 42,
+        "start": 2.8000000000000003,
+        "end": 3.36
+      },
+      {
+        "word": "from",
+        "start_offset": 42,
+        "end_offset": 44,
+        "start": 3.36,
+        "end": 3.52
+      },
+      {
+        "word": "this",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 3.52,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "that",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 3.7600000000000002,
+        "end": 3.92
+      },
+      {
+        "word": "our",
+        "start_offset": 49,
+        "end_offset": 51,
+        "start": 3.92,
+        "end": 4.08
+      },
+      {
+        "word": "fifth",
+        "start_offset": 51,
+        "end_offset": 56,
+        "start": 4.08,
+        "end": 4.48
+      },
+      {
+        "word": "density",
+        "start_offset": 56,
+        "end_offset": 63,
+        "start": 4.48,
+        "end": 5.04
+      },
+      {
+        "word": "negative",
+        "start_offset": 65,
+        "end_offset": 69,
+        "start": 5.2,
+        "end": 5.5200000000000005
+      },
+      {
+        "word": "companion",
+        "start_offset": 85,
+        "end_offset": 97,
+        "start": 6.8,
+        "end": 7.76
+      },
+      {
+        "word": "is",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 7.76,
+        "end": 7.92
+      },
+      {
+        "word": "still",
+        "start_offset": 99,
+        "end_offset": 103,
+        "start": 7.92,
+        "end": 8.24
+      },
+      {
+        "word": "on",
+        "start_offset": 103,
+        "end_offset": 106,
+        "start": 8.24,
+        "end": 8.48
+      },
+      {
+        "word": "R",
+        "start_offset": 106,
+        "end_offset": 109,
+        "start": 8.48,
+        "end": 8.72
+      },
+      {
+        "word": "and",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 8.72,
+        "end": 8.88
+      },
+      {
+        "word": "R.",
+        "start_offset": 113,
+        "end_offset": 115,
+        "start": 9.040000000000001,
+        "end": 9.200000000000001
+      },
+      {
+        "word": "Is",
+        "start_offset": 117,
+        "end_offset": 119,
+        "start": 9.36,
+        "end": 9.52
+      },
+      {
+        "word": "this",
+        "start_offset": 119,
+        "end_offset": 122,
+        "start": 9.52,
+        "end": 9.76
+      },
+      {
+        "word": "correct?",
+        "start_offset": 122,
+        "end_offset": 133,
+        "start": 9.76,
+        "end": 10.64
+      },
+      {
+        "word": "I",
+        "start_offset": 232,
+        "end_offset": 236,
+        "start": 18.56,
+        "end": 18.88
+      },
+      {
+        "word": "am",
+        "start_offset": 243,
+        "end_offset": 245,
+        "start": 19.44,
+        "end": 19.6
+      },
+      {
+        "word": "raft,",
+        "start_offset": 254,
+        "end_offset": 349,
+        "start": 20.32,
+        "end": 27.92
+      },
+      {
+        "word": "a",
+        "start_offset": 352,
+        "end_offset": 354,
+        "start": 28.16,
+        "end": 28.32
+      },
+      {
+        "word": "density,",
+        "start_offset": 356,
+        "end_offset": 364,
+        "start": 28.48,
+        "end": 29.12
+      },
+      {
+        "word": "a",
+        "start_offset": 366,
+        "end_offset": 368,
+        "start": 29.28,
+        "end": 29.44
+      },
+      {
+        "word": "companion,",
+        "start_offset": 370,
+        "end_offset": 381,
+        "start": 29.6,
+        "end": 30.48
+      },
+      {
+        "word": "is",
+        "start_offset": 405,
+        "end_offset": 409,
+        "start": 32.4,
+        "end": 32.72
+      },
+      {
+        "word": "not",
+        "start_offset": 431,
+        "end_offset": 435,
+        "start": 34.480000000000004,
+        "end": 34.800000000000004
+      },
+      {
+        "word": "accompanying",
+        "start_offset": 439,
+        "end_offset": 455,
+        "start": 35.12,
+        "end": 36.4
+      },
+      {
+        "word": "you",
+        "start_offset": 455,
+        "end_offset": 459,
+        "start": 36.4,
+        "end": 36.72
+      },
+      {
+        "word": "at",
+        "start_offset": 463,
+        "end_offset": 467,
+        "start": 37.04,
+        "end": 37.36
+      },
+      {
+        "word": "this",
+        "start_offset": 471,
+        "end_offset": 475,
+        "start": 37.68,
+        "end": 38.0
+      },
+      {
+        "word": "time.",
+        "start_offset": 483,
+        "end_offset": 487,
+        "start": 38.64,
+        "end": 38.96
+      },
+      {
+        "word": "However,",
+        "start_offset": 539,
+        "end_offset": 551,
+        "start": 43.12,
+        "end": 44.08
+      },
+      {
+        "word": "it",
+        "start_offset": 566,
+        "end_offset": 570,
+        "start": 45.28,
+        "end": 45.6
+      },
+      {
+        "word": "is",
+        "start_offset": 582,
+        "end_offset": 586,
+        "start": 46.56,
+        "end": 46.88
+      },
+      {
+        "word": "not",
+        "start_offset": 594,
+        "end_offset": 598,
+        "start": 47.52,
+        "end": 47.84
+      },
+      {
+        "word": "resting.",
+        "start_offset": 614,
+        "end_offset": 626,
+        "start": 49.120000000000005,
+        "end": 50.08
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "088-03.mp3",
+    "audio_duration": 58.04,
+    "transcription_time": 0.12,
+    "rtfx": 483.41,
+    "timestamp": "2026-01-06T21:58:05.047956+00:00"
+  }
+}

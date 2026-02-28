@@ -1,0 +1,86 @@
+{
+  "text": "RA 31, February 25th, 1981. We communicate now.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "RA 31, February 25th, 1981.",
+        "start_offset": 11,
+        "end_offset": 60,
+        "start": 0.88,
+        "end": 4.8
+      },
+      {
+        "segment": "We communicate now.",
+        "start_offset": 74,
+        "end_offset": 126,
+        "start": 5.92,
+        "end": 10.08
+      }
+    ],
+    "word": [
+      {
+        "word": "RA",
+        "start_offset": 11,
+        "end_offset": 15,
+        "start": 0.88,
+        "end": 1.2
+      },
+      {
+        "word": "31,",
+        "start_offset": 19,
+        "end_offset": 27,
+        "start": 1.52,
+        "end": 2.16
+      },
+      {
+        "word": "February",
+        "start_offset": 28,
+        "end_offset": 35,
+        "start": 2.24,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "25th,",
+        "start_offset": 35,
+        "end_offset": 43,
+        "start": 2.8000000000000003,
+        "end": 3.44
+      },
+      {
+        "word": "1981.",
+        "start_offset": 45,
+        "end_offset": 60,
+        "start": 3.6,
+        "end": 4.8
+      },
+      {
+        "word": "We",
+        "start_offset": 74,
+        "end_offset": 78,
+        "start": 5.92,
+        "end": 6.24
+      },
+      {
+        "word": "communicate",
+        "start_offset": 90,
+        "end_offset": 106,
+        "start": 7.2,
+        "end": 8.48
+      },
+      {
+        "word": "now.",
+        "start_offset": 122,
+        "end_offset": 126,
+        "start": 9.76,
+        "end": 10.08
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "031-00.mp3",
+    "audio_duration": 13.04,
+    "transcription_time": 0.08,
+    "rtfx": 154.88,
+    "timestamp": "2026-01-06T21:49:43.047047+00:00"
+  }
+}

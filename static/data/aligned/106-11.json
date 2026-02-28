@@ -1,0 +1,267 @@
+{
+  "text": "The humidity… we must do something about the humidity in the whole house then to make it good for the instrument. Is that correct? I am Ra. Yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "The humidity… we must do something about the humidity in the whole house then to make it good for the instrument.",
+        "start_offset": 0,
+        "end_offset": 113,
+        "start": 2.541,
+        "end": 7.644
+      },
+      {
+        "segment": "Is that correct?",
+        "start_offset": 114,
+        "end_offset": 130,
+        "start": 7.685,
+        "end": 8.245
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 131,
+        "end_offset": 139,
+        "start": 8.305,
+        "end": 16.71
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 140,
+        "end_offset": 144,
+        "start": 16.99,
+        "end": 17.09
+      }
+    ],
+    "word": [
+      {
+        "word": "The",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.541,
+        "end": 2.622,
+        "score": -2.4551
+      },
+      {
+        "word": "humidity…",
+        "start_offset": 4,
+        "end_offset": 13,
+        "start": 2.682,
+        "end": 3.182,
+        "score": -4.317
+      },
+      {
+        "word": "we",
+        "start_offset": 14,
+        "end_offset": 16,
+        "start": 3.962,
+        "end": 4.042,
+        "score": -2.2443
+      },
+      {
+        "word": "must",
+        "start_offset": 17,
+        "end_offset": 21,
+        "start": 4.122,
+        "end": 4.323,
+        "score": -0.9068
+      },
+      {
+        "word": "do",
+        "start_offset": 22,
+        "end_offset": 24,
+        "start": 4.343,
+        "end": 4.423,
+        "score": -4.5486
+      },
+      {
+        "word": "something",
+        "start_offset": 25,
+        "end_offset": 34,
+        "start": 4.503,
+        "end": 4.823,
+        "score": -0.7895
+      },
+      {
+        "word": "about",
+        "start_offset": 35,
+        "end_offset": 40,
+        "start": 4.843,
+        "end": 5.023,
+        "score": -4.7137
+      },
+      {
+        "word": "the",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 5.043,
+        "end": 5.103,
+        "score": -1.7049
+      },
+      {
+        "word": "humidity",
+        "start_offset": 45,
+        "end_offset": 53,
+        "start": 5.143,
+        "end": 5.503,
+        "score": -1.567
+      },
+      {
+        "word": "in",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 5.543,
+        "end": 5.583,
+        "score": -1.0374
+      },
+      {
+        "word": "the",
+        "start_offset": 57,
+        "end_offset": 60,
+        "start": 5.603,
+        "end": 5.663,
+        "score": -0.9882
+      },
+      {
+        "word": "whole",
+        "start_offset": 61,
+        "end_offset": 66,
+        "start": 5.783,
+        "end": 6.004,
+        "score": -1.1753
+      },
+      {
+        "word": "house",
+        "start_offset": 67,
+        "end_offset": 72,
+        "start": 6.044,
+        "end": 6.324,
+        "score": -1.2188
+      },
+      {
+        "word": "then",
+        "start_offset": 73,
+        "end_offset": 77,
+        "start": 6.364,
+        "end": 6.524,
+        "score": -2.8902
+      },
+      {
+        "word": "to",
+        "start_offset": 78,
+        "end_offset": 80,
+        "start": 6.544,
+        "end": 6.604,
+        "score": -3.0562
+      },
+      {
+        "word": "make",
+        "start_offset": 81,
+        "end_offset": 85,
+        "start": 6.644,
+        "end": 6.824,
+        "score": -1.2218
+      },
+      {
+        "word": "it",
+        "start_offset": 86,
+        "end_offset": 88,
+        "start": 6.844,
+        "end": 6.884,
+        "score": -1.8896
+      },
+      {
+        "word": "good",
+        "start_offset": 89,
+        "end_offset": 93,
+        "start": 6.924,
+        "end": 7.044,
+        "score": -4.7596
+      },
+      {
+        "word": "for",
+        "start_offset": 94,
+        "end_offset": 97,
+        "start": 7.084,
+        "end": 7.164,
+        "score": -1.7501
+      },
+      {
+        "word": "the",
+        "start_offset": 98,
+        "end_offset": 101,
+        "start": 7.184,
+        "end": 7.244,
+        "score": -3.7824
+      },
+      {
+        "word": "instrument.",
+        "start_offset": 102,
+        "end_offset": 113,
+        "start": 7.304,
+        "end": 7.644,
+        "score": -2.7922
+      },
+      {
+        "word": "Is",
+        "start_offset": 114,
+        "end_offset": 116,
+        "start": 7.685,
+        "end": 7.745,
+        "score": -1.0307
+      },
+      {
+        "word": "that",
+        "start_offset": 117,
+        "end_offset": 121,
+        "start": 7.765,
+        "end": 7.885,
+        "score": -3.7616
+      },
+      {
+        "word": "correct?",
+        "start_offset": 122,
+        "end_offset": 130,
+        "start": 7.905,
+        "end": 8.245,
+        "score": -2.5582
+      },
+      {
+        "word": "I",
+        "start_offset": 131,
+        "end_offset": 132,
+        "start": 8.305,
+        "end": 8.325,
+        "score": -5.8784
+      },
+      {
+        "word": "am",
+        "start_offset": 133,
+        "end_offset": 135,
+        "start": 10.946,
+        "end": 12.027,
+        "score": -5.8983
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 16.65,
+        "end": 16.71,
+        "score": -4.6217
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 140,
+        "end_offset": 144,
+        "start": 16.99,
+        "end": 17.09,
+        "score": -4.9273
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "106-11.mp3",
+    "audio_duration": 18.0506,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

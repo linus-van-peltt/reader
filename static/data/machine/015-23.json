@@ -1,0 +1,590 @@
+{
+  "text": "I am wow. This instrument requires a certain amount of manipulation of the physical or body complex due to a stiffness other than this. All is well, the energies being balanced. There is a slight distortion in the mental energy of this instrument due to concern for a love one as you call it. This is only slightly lowering the vital energies of the instrument. Given a manipulation, this instrument will be well for another working.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I am wow.",
+        "start_offset": 209,
+        "end_offset": 244,
+        "start": 16.72,
+        "end": 19.52
+      },
+      {
+        "segment": "This instrument requires a certain amount of manipulation of the physical or body complex due to a stiffness other than this.",
+        "start_offset": 256,
+        "end_offset": 626,
+        "start": 20.48,
+        "end": 50.08
+      },
+      {
+        "segment": "All is well, the energies being balanced.",
+        "start_offset": 645,
+        "end_offset": 743,
+        "start": 51.6,
+        "end": 59.44
+      },
+      {
+        "segment": "There is a slight distortion in the mental energy of this instrument due to concern for a love one as you call it.",
+        "start_offset": 754,
+        "end_offset": 1065,
+        "start": 60.32,
+        "end": 85.2
+      },
+      {
+        "segment": "This is only slightly lowering the vital energies of the instrument.",
+        "start_offset": 1076,
+        "end_offset": 1250,
+        "start": 86.08,
+        "end": 100.0
+      },
+      {
+        "segment": "Given a manipulation, this instrument will be well for another working.",
+        "start_offset": 1273,
+        "end_offset": 1480,
+        "start": 101.84,
+        "end": 118.4
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 209,
+        "end_offset": 213,
+        "start": 16.72,
+        "end": 17.04
+      },
+      {
+        "word": "am",
+        "start_offset": 217,
+        "end_offset": 221,
+        "start": 17.36,
+        "end": 17.68
+      },
+      {
+        "word": "wow.",
+        "start_offset": 235,
+        "end_offset": 244,
+        "start": 18.8,
+        "end": 19.52
+      },
+      {
+        "word": "This",
+        "start_offset": 256,
+        "end_offset": 260,
+        "start": 20.48,
+        "end": 20.8
+      },
+      {
+        "word": "instrument",
+        "start_offset": 268,
+        "end_offset": 280,
+        "start": 21.44,
+        "end": 22.400000000000002
+      },
+      {
+        "word": "requires",
+        "start_offset": 302,
+        "end_offset": 317,
+        "start": 24.16,
+        "end": 25.36
+      },
+      {
+        "word": "a",
+        "start_offset": 329,
+        "end_offset": 333,
+        "start": 26.32,
+        "end": 26.64
+      },
+      {
+        "word": "certain",
+        "start_offset": 341,
+        "end_offset": 349,
+        "start": 27.28,
+        "end": 27.92
+      },
+      {
+        "word": "amount",
+        "start_offset": 357,
+        "end_offset": 369,
+        "start": 28.560000000000002,
+        "end": 29.52
+      },
+      {
+        "word": "of",
+        "start_offset": 377,
+        "end_offset": 381,
+        "start": 30.16,
+        "end": 30.48
+      },
+      {
+        "word": "manipulation",
+        "start_offset": 389,
+        "end_offset": 409,
+        "start": 31.12,
+        "end": 32.72
+      },
+      {
+        "word": "of",
+        "start_offset": 421,
+        "end_offset": 425,
+        "start": 33.68,
+        "end": 34.0
+      },
+      {
+        "word": "the",
+        "start_offset": 429,
+        "end_offset": 433,
+        "start": 34.32,
+        "end": 34.64
+      },
+      {
+        "word": "physical",
+        "start_offset": 448,
+        "end_offset": 460,
+        "start": 35.84,
+        "end": 36.800000000000004
+      },
+      {
+        "word": "or",
+        "start_offset": 468,
+        "end_offset": 472,
+        "start": 37.44,
+        "end": 37.76
+      },
+      {
+        "word": "body",
+        "start_offset": 482,
+        "end_offset": 490,
+        "start": 38.56,
+        "end": 39.2
+      },
+      {
+        "word": "complex",
+        "start_offset": 498,
+        "end_offset": 506,
+        "start": 39.84,
+        "end": 40.480000000000004
+      },
+      {
+        "word": "due",
+        "start_offset": 522,
+        "end_offset": 526,
+        "start": 41.76,
+        "end": 42.08
+      },
+      {
+        "word": "to",
+        "start_offset": 534,
+        "end_offset": 538,
+        "start": 42.72,
+        "end": 43.04
+      },
+      {
+        "word": "a",
+        "start_offset": 554,
+        "end_offset": 558,
+        "start": 44.32,
+        "end": 44.64
+      },
+      {
+        "word": "stiffness",
+        "start_offset": 566,
+        "end_offset": 578,
+        "start": 45.28,
+        "end": 46.24
+      },
+      {
+        "word": "other",
+        "start_offset": 602,
+        "end_offset": 606,
+        "start": 48.160000000000004,
+        "end": 48.480000000000004
+      },
+      {
+        "word": "than",
+        "start_offset": 614,
+        "end_offset": 618,
+        "start": 49.120000000000005,
+        "end": 49.44
+      },
+      {
+        "word": "this.",
+        "start_offset": 622,
+        "end_offset": 626,
+        "start": 49.76,
+        "end": 50.08
+      },
+      {
+        "word": "All",
+        "start_offset": 645,
+        "end_offset": 649,
+        "start": 51.6,
+        "end": 51.92
+      },
+      {
+        "word": "is",
+        "start_offset": 657,
+        "end_offset": 661,
+        "start": 52.56,
+        "end": 52.88
+      },
+      {
+        "word": "well,",
+        "start_offset": 665,
+        "end_offset": 669,
+        "start": 53.2,
+        "end": 53.52
+      },
+      {
+        "word": "the",
+        "start_offset": 683,
+        "end_offset": 687,
+        "start": 54.64,
+        "end": 54.96
+      },
+      {
+        "word": "energies",
+        "start_offset": 695,
+        "end_offset": 707,
+        "start": 55.6,
+        "end": 56.56
+      },
+      {
+        "word": "being",
+        "start_offset": 715,
+        "end_offset": 723,
+        "start": 57.2,
+        "end": 57.84
+      },
+      {
+        "word": "balanced.",
+        "start_offset": 731,
+        "end_offset": 743,
+        "start": 58.480000000000004,
+        "end": 59.44
+      },
+      {
+        "word": "There",
+        "start_offset": 754,
+        "end_offset": 762,
+        "start": 60.32,
+        "end": 60.96
+      },
+      {
+        "word": "is",
+        "start_offset": 762,
+        "end_offset": 766,
+        "start": 60.96,
+        "end": 61.28
+      },
+      {
+        "word": "a",
+        "start_offset": 770,
+        "end_offset": 774,
+        "start": 61.6,
+        "end": 61.92
+      },
+      {
+        "word": "slight",
+        "start_offset": 778,
+        "end_offset": 790,
+        "start": 62.24,
+        "end": 63.2
+      },
+      {
+        "word": "distortion",
+        "start_offset": 794,
+        "end_offset": 810,
+        "start": 63.52,
+        "end": 64.8
+      },
+      {
+        "word": "in",
+        "start_offset": 818,
+        "end_offset": 822,
+        "start": 65.44,
+        "end": 65.76
+      },
+      {
+        "word": "the",
+        "start_offset": 830,
+        "end_offset": 834,
+        "start": 66.4,
+        "end": 66.72
+      },
+      {
+        "word": "mental",
+        "start_offset": 846,
+        "end_offset": 858,
+        "start": 67.68,
+        "end": 68.64
+      },
+      {
+        "word": "energy",
+        "start_offset": 862,
+        "end_offset": 870,
+        "start": 68.96000000000001,
+        "end": 69.60000000000001
+      },
+      {
+        "word": "of",
+        "start_offset": 878,
+        "end_offset": 882,
+        "start": 70.24,
+        "end": 70.56
+      },
+      {
+        "word": "this",
+        "start_offset": 890,
+        "end_offset": 894,
+        "start": 71.2,
+        "end": 71.52
+      },
+      {
+        "word": "instrument",
+        "start_offset": 906,
+        "end_offset": 918,
+        "start": 72.48,
+        "end": 73.44
+      },
+      {
+        "word": "due",
+        "start_offset": 930,
+        "end_offset": 933,
+        "start": 74.4,
+        "end": 74.64
+      },
+      {
+        "word": "to",
+        "start_offset": 941,
+        "end_offset": 945,
+        "start": 75.28,
+        "end": 75.60000000000001
+      },
+      {
+        "word": "concern",
+        "start_offset": 957,
+        "end_offset": 965,
+        "start": 76.56,
+        "end": 77.2
+      },
+      {
+        "word": "for",
+        "start_offset": 977,
+        "end_offset": 981,
+        "start": 78.16,
+        "end": 78.48
+      },
+      {
+        "word": "a",
+        "start_offset": 989,
+        "end_offset": 993,
+        "start": 79.12,
+        "end": 79.44
+      },
+      {
+        "word": "love",
+        "start_offset": 1000,
+        "end_offset": 1004,
+        "start": 80.0,
+        "end": 80.32000000000001
+      },
+      {
+        "word": "one",
+        "start_offset": 1017,
+        "end_offset": 1021,
+        "start": 81.36,
+        "end": 81.68
+      },
+      {
+        "word": "as",
+        "start_offset": 1033,
+        "end_offset": 1037,
+        "start": 82.64,
+        "end": 82.96000000000001
+      },
+      {
+        "word": "you",
+        "start_offset": 1041,
+        "end_offset": 1045,
+        "start": 83.28,
+        "end": 83.60000000000001
+      },
+      {
+        "word": "call",
+        "start_offset": 1049,
+        "end_offset": 1057,
+        "start": 83.92,
+        "end": 84.56
+      },
+      {
+        "word": "it.",
+        "start_offset": 1061,
+        "end_offset": 1065,
+        "start": 84.88,
+        "end": 85.2
+      },
+      {
+        "word": "This",
+        "start_offset": 1076,
+        "end_offset": 1080,
+        "start": 86.08,
+        "end": 86.4
+      },
+      {
+        "word": "is",
+        "start_offset": 1088,
+        "end_offset": 1092,
+        "start": 87.04,
+        "end": 87.36
+      },
+      {
+        "word": "only",
+        "start_offset": 1100,
+        "end_offset": 1104,
+        "start": 88.0,
+        "end": 88.32000000000001
+      },
+      {
+        "word": "slightly",
+        "start_offset": 1115,
+        "end_offset": 1129,
+        "start": 89.2,
+        "end": 90.32000000000001
+      },
+      {
+        "word": "lowering",
+        "start_offset": 1136,
+        "end_offset": 1146,
+        "start": 90.88,
+        "end": 91.68
+      },
+      {
+        "word": "the",
+        "start_offset": 1162,
+        "end_offset": 1166,
+        "start": 92.96000000000001,
+        "end": 93.28
+      },
+      {
+        "word": "vital",
+        "start_offset": 1178,
+        "end_offset": 1186,
+        "start": 94.24,
+        "end": 94.88
+      },
+      {
+        "word": "energies",
+        "start_offset": 1194,
+        "end_offset": 1210,
+        "start": 95.52,
+        "end": 96.8
+      },
+      {
+        "word": "of",
+        "start_offset": 1218,
+        "end_offset": 1222,
+        "start": 97.44,
+        "end": 97.76
+      },
+      {
+        "word": "the",
+        "start_offset": 1226,
+        "end_offset": 1230,
+        "start": 98.08,
+        "end": 98.4
+      },
+      {
+        "word": "instrument.",
+        "start_offset": 1238,
+        "end_offset": 1250,
+        "start": 99.04,
+        "end": 100.0
+      },
+      {
+        "word": "Given",
+        "start_offset": 1273,
+        "end_offset": 1285,
+        "start": 101.84,
+        "end": 102.8
+      },
+      {
+        "word": "a",
+        "start_offset": 1297,
+        "end_offset": 1301,
+        "start": 103.76,
+        "end": 104.08
+      },
+      {
+        "word": "manipulation,",
+        "start_offset": 1305,
+        "end_offset": 1323,
+        "start": 104.4,
+        "end": 105.84
+      },
+      {
+        "word": "this",
+        "start_offset": 1338,
+        "end_offset": 1342,
+        "start": 107.04,
+        "end": 107.36
+      },
+      {
+        "word": "instrument",
+        "start_offset": 1354,
+        "end_offset": 1366,
+        "start": 108.32000000000001,
+        "end": 109.28
+      },
+      {
+        "word": "will",
+        "start_offset": 1382,
+        "end_offset": 1386,
+        "start": 110.56,
+        "end": 110.88
+      },
+      {
+        "word": "be",
+        "start_offset": 1394,
+        "end_offset": 1398,
+        "start": 111.52,
+        "end": 111.84
+      },
+      {
+        "word": "well",
+        "start_offset": 1402,
+        "end_offset": 1405,
+        "start": 112.16,
+        "end": 112.4
+      },
+      {
+        "word": "for",
+        "start_offset": 1421,
+        "end_offset": 1424,
+        "start": 113.68,
+        "end": 113.92
+      },
+      {
+        "word": "another",
+        "start_offset": 1444,
+        "end_offset": 1456,
+        "start": 115.52,
+        "end": 116.48
+      },
+      {
+        "word": "working.",
+        "start_offset": 1472,
+        "end_offset": 1480,
+        "start": 117.76,
+        "end": 118.4
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "015-23.mp3",
+    "audio_duration": 119.04,
+    "transcription_time": 0.18,
+    "rtfx": 675.39,
+    "timestamp": "2026-01-06T21:47:28.241364+00:00"
+  }
+}

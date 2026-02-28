@@ -1,0 +1,379 @@
+{
+  "text": "Is the Earth solid all the way through from one side to the other? I am Ra. You may say that your sphere is of an honey-comb nature. The center is, however, solid if you would so call that which is molten.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is the Earth solid all the way through from one side to the other?",
+        "start_offset": 0,
+        "end_offset": 66,
+        "start": 2.681,
+        "end": 7.202
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 67,
+        "end_offset": 75,
+        "start": 10.943,
+        "end": 13.083
+      },
+      {
+        "segment": "You may say that your sphere is of an honey-comb nature.",
+        "start_offset": 76,
+        "end_offset": 132,
+        "start": 15.184,
+        "end": 28.747
+      },
+      {
+        "segment": "The center is, however, solid if you would so call that which is molten.",
+        "start_offset": 133,
+        "end_offset": 205,
+        "start": 30.107,
+        "end": 48.832
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.681,
+        "end": 2.741,
+        "score": -6.5295
+      },
+      {
+        "word": "the",
+        "start_offset": 3,
+        "end_offset": 6,
+        "start": 2.761,
+        "end": 2.861,
+        "score": -5.0944
+      },
+      {
+        "word": "Earth",
+        "start_offset": 7,
+        "end_offset": 12,
+        "start": 2.961,
+        "end": 3.201,
+        "score": -4.6132
+      },
+      {
+        "word": "solid",
+        "start_offset": 13,
+        "end_offset": 18,
+        "start": 3.281,
+        "end": 3.701,
+        "score": -6.1368
+      },
+      {
+        "word": "all",
+        "start_offset": 19,
+        "end_offset": 22,
+        "start": 3.921,
+        "end": 4.041,
+        "score": -7.9806
+      },
+      {
+        "word": "the",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 4.061,
+        "end": 4.141,
+        "score": -8.1537
+      },
+      {
+        "word": "way",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 4.161,
+        "end": 4.301,
+        "score": -8.4633
+      },
+      {
+        "word": "through",
+        "start_offset": 31,
+        "end_offset": 38,
+        "start": 4.781,
+        "end": 5.101,
+        "score": -7.4078
+      },
+      {
+        "word": "from",
+        "start_offset": 39,
+        "end_offset": 43,
+        "start": 5.141,
+        "end": 5.321,
+        "score": -5.6713
+      },
+      {
+        "word": "one",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 6.382,
+        "end": 6.522,
+        "score": -6.708
+      },
+      {
+        "word": "side",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 6.542,
+        "end": 6.782,
+        "score": -6.994
+      },
+      {
+        "word": "to",
+        "start_offset": 53,
+        "end_offset": 55,
+        "start": 6.802,
+        "end": 6.862,
+        "score": -5.6216
+      },
+      {
+        "word": "the",
+        "start_offset": 56,
+        "end_offset": 59,
+        "start": 6.882,
+        "end": 6.962,
+        "score": -5.4512
+      },
+      {
+        "word": "other?",
+        "start_offset": 60,
+        "end_offset": 66,
+        "start": 7.042,
+        "end": 7.202,
+        "score": -6.6869
+      },
+      {
+        "word": "I",
+        "start_offset": 67,
+        "end_offset": 68,
+        "start": 10.943,
+        "end": 10.963,
+        "score": -0.9246
+      },
+      {
+        "word": "am",
+        "start_offset": 69,
+        "end_offset": 71,
+        "start": 11.823,
+        "end": 12.083,
+        "score": -2.1967
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 72,
+        "end_offset": 75,
+        "start": 12.923,
+        "end": 13.083,
+        "score": -1.548
+      },
+      {
+        "word": "You",
+        "start_offset": 76,
+        "end_offset": 79,
+        "start": 15.184,
+        "end": 15.324,
+        "score": -0.7287
+      },
+      {
+        "word": "may",
+        "start_offset": 80,
+        "end_offset": 83,
+        "start": 16.124,
+        "end": 16.444,
+        "score": -0.6977
+      },
+      {
+        "word": "say",
+        "start_offset": 84,
+        "end_offset": 87,
+        "start": 17.124,
+        "end": 17.484,
+        "score": -0.7523
+      },
+      {
+        "word": "that",
+        "start_offset": 88,
+        "end_offset": 92,
+        "start": 17.984,
+        "end": 18.404,
+        "score": -0.7171
+      },
+      {
+        "word": "your",
+        "start_offset": 93,
+        "end_offset": 97,
+        "start": 19.605,
+        "end": 19.945,
+        "score": -0.7986
+      },
+      {
+        "word": "sphere",
+        "start_offset": 98,
+        "end_offset": 104,
+        "start": 20.625,
+        "end": 21.145,
+        "score": -1.3546
+      },
+      {
+        "word": "is",
+        "start_offset": 105,
+        "end_offset": 107,
+        "start": 21.845,
+        "end": 22.145,
+        "score": -0.7102
+      },
+      {
+        "word": "of",
+        "start_offset": 108,
+        "end_offset": 110,
+        "start": 23.046,
+        "end": 23.326,
+        "score": -0.8061
+      },
+      {
+        "word": "an",
+        "start_offset": 111,
+        "end_offset": 113,
+        "start": 24.646,
+        "end": 24.926,
+        "score": -0.7097
+      },
+      {
+        "word": "honey-comb",
+        "start_offset": 114,
+        "end_offset": 124,
+        "start": 25.586,
+        "end": 27.027,
+        "score": -2.3311
+      },
+      {
+        "word": "nature.",
+        "start_offset": 125,
+        "end_offset": 132,
+        "start": 28.127,
+        "end": 28.747,
+        "score": -0.7612
+      },
+      {
+        "word": "The",
+        "start_offset": 133,
+        "end_offset": 136,
+        "start": 30.107,
+        "end": 30.247,
+        "score": -0.7543
+      },
+      {
+        "word": "center",
+        "start_offset": 137,
+        "end_offset": 143,
+        "start": 31.188,
+        "end": 31.888,
+        "score": -0.8749
+      },
+      {
+        "word": "is,",
+        "start_offset": 144,
+        "end_offset": 147,
+        "start": 33.268,
+        "end": 33.628,
+        "score": -0.7066
+      },
+      {
+        "word": "however,",
+        "start_offset": 148,
+        "end_offset": 156,
+        "start": 34.708,
+        "end": 35.729,
+        "score": -0.7695
+      },
+      {
+        "word": "solid",
+        "start_offset": 157,
+        "end_offset": 162,
+        "start": 37.389,
+        "end": 38.249,
+        "score": -0.7252
+      },
+      {
+        "word": "if",
+        "start_offset": 163,
+        "end_offset": 165,
+        "start": 39.57,
+        "end": 39.79,
+        "score": -0.6959
+      },
+      {
+        "word": "you",
+        "start_offset": 166,
+        "end_offset": 169,
+        "start": 40.27,
+        "end": 40.41,
+        "score": -0.8039
+      },
+      {
+        "word": "would",
+        "start_offset": 170,
+        "end_offset": 175,
+        "start": 41.17,
+        "end": 41.55,
+        "score": -0.7534
+      },
+      {
+        "word": "so",
+        "start_offset": 176,
+        "end_offset": 178,
+        "start": 42.49,
+        "end": 42.61,
+        "score": -0.7002
+      },
+      {
+        "word": "call",
+        "start_offset": 179,
+        "end_offset": 183,
+        "start": 43.371,
+        "end": 43.911,
+        "score": -0.7272
+      },
+      {
+        "word": "that",
+        "start_offset": 184,
+        "end_offset": 188,
+        "start": 44.691,
+        "end": 45.051,
+        "score": -0.7723
+      },
+      {
+        "word": "which",
+        "start_offset": 189,
+        "end_offset": 194,
+        "start": 45.671,
+        "end": 46.031,
+        "score": -0.7217
+      },
+      {
+        "word": "is",
+        "start_offset": 195,
+        "end_offset": 197,
+        "start": 47.091,
+        "end": 47.391,
+        "score": -0.7095
+      },
+      {
+        "word": "molten.",
+        "start_offset": 198,
+        "end_offset": 205,
+        "start": 48.112,
+        "end": 48.832,
+        "score": -1.0243
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "060-21.mp3",
+    "audio_duration": 49.0319,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

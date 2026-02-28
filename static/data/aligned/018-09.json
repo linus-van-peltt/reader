@@ -1,0 +1,172 @@
+{
+  "text": "Who are these guides? I am Ra. These guides are what you call parents, teachers, and friends.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Who are these guides?",
+        "start_offset": 0,
+        "end_offset": 21,
+        "start": 1.32,
+        "end": 2.201
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 22,
+        "end_offset": 30,
+        "start": 5.562,
+        "end": 7.523
+      },
+      {
+        "segment": "These guides are what you call parents, teachers, and friends.",
+        "start_offset": 31,
+        "end_offset": 93,
+        "start": 9.223,
+        "end": 21.227
+      }
+    ],
+    "word": [
+      {
+        "word": "Who",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 1.32,
+        "end": 1.38,
+        "score": -4.537
+      },
+      {
+        "word": "are",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 1.4,
+        "end": 1.48,
+        "score": -2.5507
+      },
+      {
+        "word": "these",
+        "start_offset": 8,
+        "end_offset": 13,
+        "start": 1.501,
+        "end": 1.701,
+        "score": -1.9497
+      },
+      {
+        "word": "guides?",
+        "start_offset": 14,
+        "end_offset": 21,
+        "start": 1.761,
+        "end": 2.201,
+        "score": -2.3029
+      },
+      {
+        "word": "I",
+        "start_offset": 22,
+        "end_offset": 23,
+        "start": 5.562,
+        "end": 5.582,
+        "score": -0.8039
+      },
+      {
+        "word": "am",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 6.282,
+        "end": 6.522,
+        "score": -1.0586
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 7.402,
+        "end": 7.523,
+        "score": -0.8798
+      },
+      {
+        "word": "These",
+        "start_offset": 31,
+        "end_offset": 36,
+        "start": 9.223,
+        "end": 9.683,
+        "score": -0.7061
+      },
+      {
+        "word": "guides",
+        "start_offset": 37,
+        "end_offset": 43,
+        "start": 10.123,
+        "end": 10.704,
+        "score": -1.5936
+      },
+      {
+        "word": "are",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 12.224,
+        "end": 12.484,
+        "score": -0.7952
+      },
+      {
+        "word": "what",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 13.004,
+        "end": 13.244,
+        "score": -0.7053
+      },
+      {
+        "word": "you",
+        "start_offset": 53,
+        "end_offset": 56,
+        "start": 13.485,
+        "end": 13.605,
+        "score": -0.8098
+      },
+      {
+        "word": "call",
+        "start_offset": 57,
+        "end_offset": 61,
+        "start": 13.765,
+        "end": 14.185,
+        "score": -0.7023
+      },
+      {
+        "word": "parents,",
+        "start_offset": 62,
+        "end_offset": 70,
+        "start": 15.185,
+        "end": 15.925,
+        "score": -0.7224
+      },
+      {
+        "word": "teachers,",
+        "start_offset": 71,
+        "end_offset": 80,
+        "start": 17.486,
+        "end": 18.306,
+        "score": -0.7116
+      },
+      {
+        "word": "and",
+        "start_offset": 81,
+        "end_offset": 84,
+        "start": 20.007,
+        "end": 20.247,
+        "score": -0.7127
+      },
+      {
+        "word": "friends.",
+        "start_offset": 85,
+        "end_offset": 93,
+        "start": 20.627,
+        "end": 21.227,
+        "score": -0.8495
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "018-09.mp3",
+    "audio_duration": 22.0474,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

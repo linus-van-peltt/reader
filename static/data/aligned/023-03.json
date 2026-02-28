@@ -1,0 +1,547 @@
+{
+  "text": "What did they see, and how did this affect their attitudes? I am Ra. They saw what you would speak of as crystal-powered bell-shaped craft. This did not affect them due to their firm conviction that many wondrous things occurred as a normal part of a world, as you would call it, in which many, many deities had powerful control over supernatural events.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What did they see, and how did this affect their attitudes?",
+        "start_offset": 0,
+        "end_offset": 59,
+        "start": 2.44,
+        "end": 7.381
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 60,
+        "end_offset": 68,
+        "start": 13.481,
+        "end": 15.442
+      },
+      {
+        "segment": "They saw what you would speak of as crystal-powered bell-shaped craft.",
+        "start_offset": 69,
+        "end_offset": 139,
+        "start": 17.362,
+        "end": 36.064
+      },
+      {
+        "segment": "This did not affect them due to their firm conviction that many wondrous things occurred as a normal part of a world, as you would call it, in which many, many deities had powerful control over supernatural events.",
+        "start_offset": 140,
+        "end_offset": 354,
+        "start": 38.504,
+        "end": 96.61
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.44,
+        "end": 2.62,
+        "score": -1.7736
+      },
+      {
+        "word": "did",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 2.68,
+        "end": 2.82,
+        "score": -1.7154
+      },
+      {
+        "word": "they",
+        "start_offset": 9,
+        "end_offset": 13,
+        "start": 2.86,
+        "end": 3.02,
+        "score": -1.4892
+      },
+      {
+        "word": "see,",
+        "start_offset": 14,
+        "end_offset": 18,
+        "start": 3.16,
+        "end": 3.38,
+        "score": -1.8167
+      },
+      {
+        "word": "and",
+        "start_offset": 19,
+        "end_offset": 22,
+        "start": 3.52,
+        "end": 3.64,
+        "score": -2.1069
+      },
+      {
+        "word": "how",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 3.68,
+        "end": 3.84,
+        "score": -2.3056
+      },
+      {
+        "word": "did",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 3.9,
+        "end": 4.04,
+        "score": -1.5228
+      },
+      {
+        "word": "this",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 4.1,
+        "end": 4.32,
+        "score": -1.7057
+      },
+      {
+        "word": "affect",
+        "start_offset": 36,
+        "end_offset": 42,
+        "start": 4.52,
+        "end": 5.081,
+        "score": -1.9639
+      },
+      {
+        "word": "their",
+        "start_offset": 43,
+        "end_offset": 48,
+        "start": 5.821,
+        "end": 6.101,
+        "score": -2.2237
+      },
+      {
+        "word": "attitudes?",
+        "start_offset": 49,
+        "end_offset": 59,
+        "start": 6.681,
+        "end": 7.381,
+        "score": -3.1922
+      },
+      {
+        "word": "I",
+        "start_offset": 60,
+        "end_offset": 61,
+        "start": 13.481,
+        "end": 13.501,
+        "score": -0.727
+      },
+      {
+        "word": "am",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 14.341,
+        "end": 14.542,
+        "score": -2.6063
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 15.322,
+        "end": 15.442,
+        "score": -1.3002
+      },
+      {
+        "word": "They",
+        "start_offset": 69,
+        "end_offset": 73,
+        "start": 17.362,
+        "end": 17.622,
+        "score": -0.7197
+      },
+      {
+        "word": "saw",
+        "start_offset": 74,
+        "end_offset": 77,
+        "start": 18.102,
+        "end": 18.422,
+        "score": -0.7748
+      },
+      {
+        "word": "what",
+        "start_offset": 78,
+        "end_offset": 82,
+        "start": 19.982,
+        "end": 20.262,
+        "score": -0.7038
+      },
+      {
+        "word": "you",
+        "start_offset": 83,
+        "end_offset": 86,
+        "start": 20.702,
+        "end": 20.842,
+        "score": -0.7213
+      },
+      {
+        "word": "would",
+        "start_offset": 87,
+        "end_offset": 92,
+        "start": 22.162,
+        "end": 22.502,
+        "score": -0.8266
+      },
+      {
+        "word": "speak",
+        "start_offset": 93,
+        "end_offset": 98,
+        "start": 23.982,
+        "end": 24.463,
+        "score": -0.7152
+      },
+      {
+        "word": "of",
+        "start_offset": 99,
+        "end_offset": 101,
+        "start": 24.923,
+        "end": 25.223,
+        "score": -0.7185
+      },
+      {
+        "word": "as",
+        "start_offset": 102,
+        "end_offset": 104,
+        "start": 26.643,
+        "end": 27.023,
+        "score": -0.712
+      },
+      {
+        "word": "crystal-powered",
+        "start_offset": 105,
+        "end_offset": 120,
+        "start": 28.623,
+        "end": 30.843,
+        "score": -1.0952
+      },
+      {
+        "word": "bell-shaped",
+        "start_offset": 121,
+        "end_offset": 132,
+        "start": 32.323,
+        "end": 33.803,
+        "score": -0.8772
+      },
+      {
+        "word": "craft.",
+        "start_offset": 133,
+        "end_offset": 139,
+        "start": 35.364,
+        "end": 36.064,
+        "score": -0.6978
+      },
+      {
+        "word": "This",
+        "start_offset": 140,
+        "end_offset": 144,
+        "start": 38.504,
+        "end": 38.924,
+        "score": -0.7415
+      },
+      {
+        "word": "did",
+        "start_offset": 145,
+        "end_offset": 148,
+        "start": 39.744,
+        "end": 40.064,
+        "score": -0.6984
+      },
+      {
+        "word": "not",
+        "start_offset": 149,
+        "end_offset": 152,
+        "start": 40.584,
+        "end": 41.004,
+        "score": -0.6966
+      },
+      {
+        "word": "affect",
+        "start_offset": 153,
+        "end_offset": 159,
+        "start": 42.244,
+        "end": 43.084,
+        "score": -0.7102
+      },
+      {
+        "word": "them",
+        "start_offset": 160,
+        "end_offset": 164,
+        "start": 44.245,
+        "end": 44.605,
+        "score": -0.7354
+      },
+      {
+        "word": "due",
+        "start_offset": 165,
+        "end_offset": 168,
+        "start": 46.045,
+        "end": 46.385,
+        "score": -1.8133
+      },
+      {
+        "word": "to",
+        "start_offset": 169,
+        "end_offset": 171,
+        "start": 46.845,
+        "end": 47.025,
+        "score": -0.8465
+      },
+      {
+        "word": "their",
+        "start_offset": 172,
+        "end_offset": 177,
+        "start": 48.685,
+        "end": 49.085,
+        "score": -0.962
+      },
+      {
+        "word": "firm",
+        "start_offset": 178,
+        "end_offset": 182,
+        "start": 50.805,
+        "end": 51.245,
+        "score": -0.7006
+      },
+      {
+        "word": "conviction",
+        "start_offset": 183,
+        "end_offset": 193,
+        "start": 52.025,
+        "end": 53.125,
+        "score": -0.7045
+      },
+      {
+        "word": "that",
+        "start_offset": 194,
+        "end_offset": 198,
+        "start": 54.626,
+        "end": 54.946,
+        "score": -0.6987
+      },
+      {
+        "word": "many",
+        "start_offset": 199,
+        "end_offset": 203,
+        "start": 55.386,
+        "end": 55.706,
+        "score": -0.7362
+      },
+      {
+        "word": "wondrous",
+        "start_offset": 204,
+        "end_offset": 212,
+        "start": 57.226,
+        "end": 57.986,
+        "score": -0.7446
+      },
+      {
+        "word": "things",
+        "start_offset": 213,
+        "end_offset": 219,
+        "start": 59.086,
+        "end": 59.726,
+        "score": -0.7015
+      },
+      {
+        "word": "occurred",
+        "start_offset": 220,
+        "end_offset": 228,
+        "start": 60.826,
+        "end": 61.546,
+        "score": -1.1235
+      },
+      {
+        "word": "as",
+        "start_offset": 229,
+        "end_offset": 231,
+        "start": 62.907,
+        "end": 63.267,
+        "score": -0.701
+      },
+      {
+        "word": "a",
+        "start_offset": 232,
+        "end_offset": 233,
+        "start": 63.587,
+        "end": 63.607,
+        "score": -0.7059
+      },
+      {
+        "word": "normal",
+        "start_offset": 234,
+        "end_offset": 240,
+        "start": 64.267,
+        "end": 64.867,
+        "score": -0.6947
+      },
+      {
+        "word": "part",
+        "start_offset": 241,
+        "end_offset": 245,
+        "start": 65.847,
+        "end": 66.467,
+        "score": -0.7018
+      },
+      {
+        "word": "of",
+        "start_offset": 246,
+        "end_offset": 248,
+        "start": 67.727,
+        "end": 68.027,
+        "score": -0.7041
+      },
+      {
+        "word": "a",
+        "start_offset": 249,
+        "end_offset": 250,
+        "start": 69.487,
+        "end": 69.507,
+        "score": -0.7215
+      },
+      {
+        "word": "world,",
+        "start_offset": 251,
+        "end_offset": 257,
+        "start": 70.447,
+        "end": 71.087,
+        "score": -0.722
+      },
+      {
+        "word": "as",
+        "start_offset": 258,
+        "end_offset": 260,
+        "start": 72.267,
+        "end": 72.568,
+        "score": -4.7065
+      },
+      {
+        "word": "you",
+        "start_offset": 261,
+        "end_offset": 264,
+        "start": 72.928,
+        "end": 73.048,
+        "score": -0.7922
+      },
+      {
+        "word": "would",
+        "start_offset": 265,
+        "end_offset": 270,
+        "start": 73.368,
+        "end": 73.668,
+        "score": -0.7737
+      },
+      {
+        "word": "call",
+        "start_offset": 271,
+        "end_offset": 275,
+        "start": 74.368,
+        "end": 74.768,
+        "score": -0.7489
+      },
+      {
+        "word": "it,",
+        "start_offset": 276,
+        "end_offset": 279,
+        "start": 75.048,
+        "end": 75.268,
+        "score": -0.6987
+      },
+      {
+        "word": "in",
+        "start_offset": 280,
+        "end_offset": 282,
+        "start": 76.668,
+        "end": 76.888,
+        "score": -0.6974
+      },
+      {
+        "word": "which",
+        "start_offset": 283,
+        "end_offset": 288,
+        "start": 77.408,
+        "end": 77.848,
+        "score": -0.8019
+      },
+      {
+        "word": "many,",
+        "start_offset": 289,
+        "end_offset": 294,
+        "start": 79.008,
+        "end": 79.348,
+        "score": -0.7314
+      },
+      {
+        "word": "many",
+        "start_offset": 295,
+        "end_offset": 299,
+        "start": 80.288,
+        "end": 80.628,
+        "score": -0.7181
+      },
+      {
+        "word": "deities",
+        "start_offset": 300,
+        "end_offset": 307,
+        "start": 81.828,
+        "end": 82.749,
+        "score": -0.8684
+      },
+      {
+        "word": "had",
+        "start_offset": 308,
+        "end_offset": 311,
+        "start": 84.729,
+        "end": 85.049,
+        "score": -0.7316
+      },
+      {
+        "word": "powerful",
+        "start_offset": 312,
+        "end_offset": 320,
+        "start": 85.509,
+        "end": 86.549,
+        "score": -0.6955
+      },
+      {
+        "word": "control",
+        "start_offset": 321,
+        "end_offset": 328,
+        "start": 87.989,
+        "end": 88.909,
+        "score": -0.7381
+      },
+      {
+        "word": "over",
+        "start_offset": 329,
+        "end_offset": 333,
+        "start": 90.449,
+        "end": 90.889,
+        "score": -3.4168
+      },
+      {
+        "word": "supernatural",
+        "start_offset": 334,
+        "end_offset": 346,
+        "start": 92.29,
+        "end": 94.53,
+        "score": -0.7097
+      },
+      {
+        "word": "events.",
+        "start_offset": 347,
+        "end_offset": 354,
+        "start": 95.79,
+        "end": 96.61,
+        "score": -0.7215
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "023-03.mp3",
+    "audio_duration": 99.0302,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

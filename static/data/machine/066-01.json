@@ -1,0 +1,282 @@
+{
+  "text": "To give me an indication of the instrument's condition. The vital energies are somewhat depleted at this time, but not seriously so the physical energy level is extremely low. Otherwise it is as previously stated.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "To give me an indication of the instrument's condition.",
+        "start_offset": 5,
+        "end_offset": 46,
+        "start": 0.4,
+        "end": 3.68
+      },
+      {
+        "segment": "The vital energies are somewhat depleted at this time, but not seriously so the physical energy level is extremely low.",
+        "start_offset": 278,
+        "end_offset": 820,
+        "start": 22.240000000000002,
+        "end": 65.6
+      },
+      {
+        "segment": "Otherwise it is as previously stated.",
+        "start_offset": 874,
+        "end_offset": 976,
+        "start": 69.92,
+        "end": 78.08
+      }
+    ],
+    "word": [
+      {
+        "word": "To",
+        "start_offset": 5,
+        "end_offset": 6,
+        "start": 0.4,
+        "end": 0.48
+      },
+      {
+        "word": "give",
+        "start_offset": 8,
+        "end_offset": 11,
+        "start": 0.64,
+        "end": 0.88
+      },
+      {
+        "word": "me",
+        "start_offset": 11,
+        "end_offset": 13,
+        "start": 0.88,
+        "end": 1.04
+      },
+      {
+        "word": "an",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 1.04,
+        "end": 1.2
+      },
+      {
+        "word": "indication",
+        "start_offset": 18,
+        "end_offset": 24,
+        "start": 1.44,
+        "end": 1.92
+      },
+      {
+        "word": "of",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 1.92,
+        "end": 2.08
+      },
+      {
+        "word": "the",
+        "start_offset": 26,
+        "end_offset": 29,
+        "start": 2.08,
+        "end": 2.32
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 29,
+        "end_offset": 38,
+        "start": 2.32,
+        "end": 3.04
+      },
+      {
+        "word": "condition.",
+        "start_offset": 38,
+        "end_offset": 46,
+        "start": 3.04,
+        "end": 3.68
+      },
+      {
+        "word": "The",
+        "start_offset": 278,
+        "end_offset": 282,
+        "start": 22.240000000000002,
+        "end": 22.56
+      },
+      {
+        "word": "vital",
+        "start_offset": 302,
+        "end_offset": 312,
+        "start": 24.16,
+        "end": 24.96
+      },
+      {
+        "word": "energies",
+        "start_offset": 328,
+        "end_offset": 343,
+        "start": 26.240000000000002,
+        "end": 27.44
+      },
+      {
+        "word": "are",
+        "start_offset": 367,
+        "end_offset": 370,
+        "start": 29.36,
+        "end": 29.6
+      },
+      {
+        "word": "somewhat",
+        "start_offset": 402,
+        "end_offset": 412,
+        "start": 32.160000000000004,
+        "end": 32.96
+      },
+      {
+        "word": "depleted",
+        "start_offset": 432,
+        "end_offset": 448,
+        "start": 34.56,
+        "end": 35.84
+      },
+      {
+        "word": "at",
+        "start_offset": 472,
+        "end_offset": 476,
+        "start": 37.76,
+        "end": 38.08
+      },
+      {
+        "word": "this",
+        "start_offset": 480,
+        "end_offset": 484,
+        "start": 38.4,
+        "end": 38.72
+      },
+      {
+        "word": "time,",
+        "start_offset": 492,
+        "end_offset": 496,
+        "start": 39.36,
+        "end": 39.68
+      },
+      {
+        "word": "but",
+        "start_offset": 521,
+        "end_offset": 525,
+        "start": 41.68,
+        "end": 42.0
+      },
+      {
+        "word": "not",
+        "start_offset": 537,
+        "end_offset": 541,
+        "start": 42.96,
+        "end": 43.28
+      },
+      {
+        "word": "seriously",
+        "start_offset": 552,
+        "end_offset": 568,
+        "start": 44.160000000000004,
+        "end": 45.44
+      },
+      {
+        "word": "so",
+        "start_offset": 585,
+        "end_offset": 588,
+        "start": 46.800000000000004,
+        "end": 47.04
+      },
+      {
+        "word": "the",
+        "start_offset": 618,
+        "end_offset": 622,
+        "start": 49.44,
+        "end": 49.76
+      },
+      {
+        "word": "physical",
+        "start_offset": 638,
+        "end_offset": 650,
+        "start": 51.04,
+        "end": 52.0
+      },
+      {
+        "word": "energy",
+        "start_offset": 670,
+        "end_offset": 678,
+        "start": 53.6,
+        "end": 54.24
+      },
+      {
+        "word": "level",
+        "start_offset": 690,
+        "end_offset": 698,
+        "start": 55.2,
+        "end": 55.84
+      },
+      {
+        "word": "is",
+        "start_offset": 725,
+        "end_offset": 729,
+        "start": 58.0,
+        "end": 58.32
+      },
+      {
+        "word": "extremely",
+        "start_offset": 765,
+        "end_offset": 780,
+        "start": 61.2,
+        "end": 62.4
+      },
+      {
+        "word": "low.",
+        "start_offset": 812,
+        "end_offset": 820,
+        "start": 64.96000000000001,
+        "end": 65.6
+      },
+      {
+        "word": "Otherwise",
+        "start_offset": 874,
+        "end_offset": 889,
+        "start": 69.92,
+        "end": 71.12
+      },
+      {
+        "word": "it",
+        "start_offset": 901,
+        "end_offset": 905,
+        "start": 72.08,
+        "end": 72.4
+      },
+      {
+        "word": "is",
+        "start_offset": 909,
+        "end_offset": 913,
+        "start": 72.72,
+        "end": 73.04
+      },
+      {
+        "word": "as",
+        "start_offset": 925,
+        "end_offset": 929,
+        "start": 74.0,
+        "end": 74.32000000000001
+      },
+      {
+        "word": "previously",
+        "start_offset": 940,
+        "end_offset": 957,
+        "start": 75.2,
+        "end": 76.56
+      },
+      {
+        "word": "stated.",
+        "start_offset": 968,
+        "end_offset": 976,
+        "start": 77.44,
+        "end": 78.08
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "066-01.mp3",
+    "audio_duration": 83.04,
+    "transcription_time": 0.15,
+    "rtfx": 554.98,
+    "timestamp": "2026-01-06T21:54:10.920941+00:00"
+  }
+}

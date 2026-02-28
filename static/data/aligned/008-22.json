@@ -1,0 +1,212 @@
+{
+  "text": "What was the home or origin of the entities that took Charlie? I am Ra. These entities are of the Sirius galaxy.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What was the home or origin of the entities that took Charlie?",
+        "start_offset": 0,
+        "end_offset": 62,
+        "start": 2.281,
+        "end": 13.588
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 63,
+        "end_offset": 71,
+        "start": 13.608,
+        "end": 15.709
+      },
+      {
+        "segment": "These entities are of the Sirius galaxy.",
+        "start_offset": 72,
+        "end_offset": 112,
+        "start": 17.39,
+        "end": 30.098
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.281,
+        "end": 2.501,
+        "score": -5.4988
+      },
+      {
+        "word": "was",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 2.521,
+        "end": 2.662,
+        "score": -4.92
+      },
+      {
+        "word": "the",
+        "start_offset": 9,
+        "end_offset": 12,
+        "start": 2.762,
+        "end": 2.822,
+        "score": -5.7312
+      },
+      {
+        "word": "home",
+        "start_offset": 13,
+        "end_offset": 17,
+        "start": 6.184,
+        "end": 6.364,
+        "score": -5.1517
+      },
+      {
+        "word": "or",
+        "start_offset": 18,
+        "end_offset": 20,
+        "start": 6.384,
+        "end": 6.424,
+        "score": -6.0178
+      },
+      {
+        "word": "origin",
+        "start_offset": 21,
+        "end_offset": 27,
+        "start": 6.444,
+        "end": 6.784,
+        "score": -5.3182
+      },
+      {
+        "word": "of",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 6.824,
+        "end": 6.904,
+        "score": -8.776
+      },
+      {
+        "word": "the",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 6.944,
+        "end": 7.024,
+        "score": -5.8124
+      },
+      {
+        "word": "entities",
+        "start_offset": 35,
+        "end_offset": 43,
+        "start": 7.084,
+        "end": 7.344,
+        "score": -6.3842
+      },
+      {
+        "word": "that",
+        "start_offset": 44,
+        "end_offset": 48,
+        "start": 7.404,
+        "end": 7.624,
+        "score": -6.0818
+      },
+      {
+        "word": "took",
+        "start_offset": 49,
+        "end_offset": 53,
+        "start": 8.165,
+        "end": 8.325,
+        "score": -7.1676
+      },
+      {
+        "word": "Charlie?",
+        "start_offset": 54,
+        "end_offset": 62,
+        "start": 8.365,
+        "end": 13.588,
+        "score": -5.7116
+      },
+      {
+        "word": "I",
+        "start_offset": 63,
+        "end_offset": 64,
+        "start": 13.608,
+        "end": 13.628,
+        "score": -1.5133
+      },
+      {
+        "word": "am",
+        "start_offset": 65,
+        "end_offset": 67,
+        "start": 14.448,
+        "end": 14.749,
+        "score": -1.0699
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 68,
+        "end_offset": 71,
+        "start": 15.569,
+        "end": 15.709,
+        "score": -0.9412
+      },
+      {
+        "word": "These",
+        "start_offset": 72,
+        "end_offset": 77,
+        "start": 17.39,
+        "end": 17.89,
+        "score": -0.7674
+      },
+      {
+        "word": "entities",
+        "start_offset": 78,
+        "end_offset": 86,
+        "start": 18.791,
+        "end": 20.112,
+        "score": -1.3062
+      },
+      {
+        "word": "are",
+        "start_offset": 87,
+        "end_offset": 90,
+        "start": 22.613,
+        "end": 22.913,
+        "score": -0.8097
+      },
+      {
+        "word": "of",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 23.934,
+        "end": 24.234,
+        "score": -0.8874
+      },
+      {
+        "word": "the",
+        "start_offset": 94,
+        "end_offset": 97,
+        "start": 25.375,
+        "end": 25.535,
+        "score": -0.8019
+      },
+      {
+        "word": "Sirius",
+        "start_offset": 98,
+        "end_offset": 104,
+        "start": 27.236,
+        "end": 28.096,
+        "score": -1.5151
+      },
+      {
+        "word": "galaxy.",
+        "start_offset": 105,
+        "end_offset": 112,
+        "start": 29.377,
+        "end": 30.098,
+        "score": -0.9479
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "008-22.mp3",
+    "audio_duration": 37.0417,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

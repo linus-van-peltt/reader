@@ -1,0 +1,135 @@
+{
+  "text": "It was noticed that this occurs in small units during the night with gaps in between.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "It was noticed that this occurs in small units during the night with gaps in between.",
+        "start_offset": 32,
+        "end_offset": 195,
+        "start": 2.56,
+        "end": 15.6
+      }
+    ],
+    "word": [
+      {
+        "word": "It",
+        "start_offset": 32,
+        "end_offset": 36,
+        "start": 2.56,
+        "end": 2.88
+      },
+      {
+        "word": "was",
+        "start_offset": 36,
+        "end_offset": 40,
+        "start": 2.88,
+        "end": 3.2
+      },
+      {
+        "word": "noticed",
+        "start_offset": 40,
+        "end_offset": 47,
+        "start": 3.2,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "that",
+        "start_offset": 47,
+        "end_offset": 50,
+        "start": 3.7600000000000002,
+        "end": 4.0
+      },
+      {
+        "word": "this",
+        "start_offset": 50,
+        "end_offset": 53,
+        "start": 4.0,
+        "end": 4.24
+      },
+      {
+        "word": "occurs",
+        "start_offset": 53,
+        "end_offset": 64,
+        "start": 4.24,
+        "end": 5.12
+      },
+      {
+        "word": "in",
+        "start_offset": 75,
+        "end_offset": 79,
+        "start": 6.0,
+        "end": 6.32
+      },
+      {
+        "word": "small",
+        "start_offset": 115,
+        "end_offset": 123,
+        "start": 9.200000000000001,
+        "end": 9.84
+      },
+      {
+        "word": "units",
+        "start_offset": 123,
+        "end_offset": 131,
+        "start": 9.84,
+        "end": 10.48
+      },
+      {
+        "word": "during",
+        "start_offset": 142,
+        "end_offset": 148,
+        "start": 11.36,
+        "end": 11.84
+      },
+      {
+        "word": "the",
+        "start_offset": 148,
+        "end_offset": 151,
+        "start": 11.84,
+        "end": 12.08
+      },
+      {
+        "word": "night",
+        "start_offset": 151,
+        "end_offset": 157,
+        "start": 12.08,
+        "end": 12.56
+      },
+      {
+        "word": "with",
+        "start_offset": 157,
+        "end_offset": 161,
+        "start": 12.56,
+        "end": 12.88
+      },
+      {
+        "word": "gaps",
+        "start_offset": 180,
+        "end_offset": 187,
+        "start": 14.4,
+        "end": 14.96
+      },
+      {
+        "word": "in",
+        "start_offset": 187,
+        "end_offset": 189,
+        "start": 14.96,
+        "end": 15.120000000000001
+      },
+      {
+        "word": "between.",
+        "start_offset": 189,
+        "end_offset": 195,
+        "start": 15.120000000000001,
+        "end": 15.6
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "086-14.mp3",
+    "audio_duration": 16.04,
+    "transcription_time": 0.08,
+    "rtfx": 193.25,
+    "timestamp": "2026-01-06T21:57:48.018253+00:00"
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "text": "I assume that we should continue tomorrow. I am Ra. Your assumption is correct unless you feel that a certain question is necessary. This instrument is best nurtured by approximately this length of work.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I assume that we should continue tomorrow.",
+        "start_offset": 0,
+        "end_offset": 42,
+        "start": 8.244,
+        "end": 11.645
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 43,
+        "end_offset": 51,
+        "start": 11.665,
+        "end": 11.805
+      },
+      {
+        "segment": "Your assumption is correct unless you feel that a certain question is necessary.",
+        "start_offset": 52,
+        "end_offset": 132,
+        "start": 14.767,
+        "end": 25.732
+      },
+      {
+        "segment": "This instrument is best nurtured by approximately this length of work.",
+        "start_offset": 133,
+        "end_offset": 203,
+        "start": 27.032,
+        "end": 40.358
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 8.244,
+        "end": 8.264,
+        "score": -8.1763
+      },
+      {
+        "word": "assume",
+        "start_offset": 2,
+        "end_offset": 8,
+        "start": 8.384,
+        "end": 8.984,
+        "score": -8.0354
+      },
+      {
+        "word": "that",
+        "start_offset": 9,
+        "end_offset": 13,
+        "start": 9.804,
+        "end": 10.065,
+        "score": -4.9229
+      },
+      {
+        "word": "we",
+        "start_offset": 14,
+        "end_offset": 16,
+        "start": 10.105,
+        "end": 10.165,
+        "score": -7.1019
+      },
+      {
+        "word": "should",
+        "start_offset": 17,
+        "end_offset": 23,
+        "start": 10.265,
+        "end": 10.685,
+        "score": -7.1438
+      },
+      {
+        "word": "continue",
+        "start_offset": 24,
+        "end_offset": 32,
+        "start": 10.705,
+        "end": 10.965,
+        "score": -6.3926
+      },
+      {
+        "word": "tomorrow.",
+        "start_offset": 33,
+        "end_offset": 42,
+        "start": 10.985,
+        "end": 11.645,
+        "score": -5.6388
+      },
+      {
+        "word": "I",
+        "start_offset": 43,
+        "end_offset": 44,
+        "start": 11.665,
+        "end": 11.685,
+        "score": -7.0869
+      },
+      {
+        "word": "am",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 11.705,
+        "end": 11.745,
+        "score": -5.6286
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 11.765,
+        "end": 11.805,
+        "score": -6.1795
+      },
+      {
+        "word": "Your",
+        "start_offset": 52,
+        "end_offset": 56,
+        "start": 14.767,
+        "end": 15.067,
+        "score": -0.9169
+      },
+      {
+        "word": "assumption",
+        "start_offset": 57,
+        "end_offset": 67,
+        "start": 15.467,
+        "end": 16.207,
+        "score": -0.7324
+      },
+      {
+        "word": "is",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 16.788,
+        "end": 16.948,
+        "score": -0.7046
+      },
+      {
+        "word": "correct",
+        "start_offset": 71,
+        "end_offset": 78,
+        "start": 17.068,
+        "end": 17.708,
+        "score": -0.7012
+      },
+      {
+        "word": "unless",
+        "start_offset": 79,
+        "end_offset": 85,
+        "start": 18.728,
+        "end": 19.249,
+        "score": -0.8417
+      },
+      {
+        "word": "you",
+        "start_offset": 86,
+        "end_offset": 89,
+        "start": 19.709,
+        "end": 19.849,
+        "score": -0.7873
+      },
+      {
+        "word": "feel",
+        "start_offset": 90,
+        "end_offset": 94,
+        "start": 19.989,
+        "end": 20.329,
+        "score": -1.5751
+      },
+      {
+        "word": "that",
+        "start_offset": 95,
+        "end_offset": 99,
+        "start": 21.25,
+        "end": 21.55,
+        "score": -1.1071
+      },
+      {
+        "word": "a",
+        "start_offset": 100,
+        "end_offset": 101,
+        "start": 22.33,
+        "end": 22.35,
+        "score": -0.8885
+      },
+      {
+        "word": "certain",
+        "start_offset": 102,
+        "end_offset": 109,
+        "start": 22.55,
+        "end": 22.95,
+        "score": -0.7354
+      },
+      {
+        "word": "question",
+        "start_offset": 110,
+        "end_offset": 118,
+        "start": 23.871,
+        "end": 24.471,
+        "score": -0.7499
+      },
+      {
+        "word": "is",
+        "start_offset": 119,
+        "end_offset": 121,
+        "start": 24.811,
+        "end": 24.931,
+        "score": -0.7161
+      },
+      {
+        "word": "necessary.",
+        "start_offset": 122,
+        "end_offset": 132,
+        "start": 25.051,
+        "end": 25.732,
+        "score": -1.1897
+      },
+      {
+        "word": "This",
+        "start_offset": 133,
+        "end_offset": 137,
+        "start": 27.032,
+        "end": 27.332,
+        "score": -0.8839
+      },
+      {
+        "word": "instrument",
+        "start_offset": 138,
+        "end_offset": 148,
+        "start": 27.933,
+        "end": 28.573,
+        "score": -1.4801
+      },
+      {
+        "word": "is",
+        "start_offset": 149,
+        "end_offset": 151,
+        "start": 29.353,
+        "end": 29.553,
+        "score": -0.8357
+      },
+      {
+        "word": "best",
+        "start_offset": 152,
+        "end_offset": 156,
+        "start": 30.514,
+        "end": 30.894,
+        "score": -0.7566
+      },
+      {
+        "word": "nurtured",
+        "start_offset": 157,
+        "end_offset": 165,
+        "start": 31.574,
+        "end": 32.014,
+        "score": -2.3268
+      },
+      {
+        "word": "by",
+        "start_offset": 166,
+        "end_offset": 168,
+        "start": 32.895,
+        "end": 33.175,
+        "score": -1.0618
+      },
+      {
+        "word": "approximately",
+        "start_offset": 169,
+        "end_offset": 182,
+        "start": 34.055,
+        "end": 35.076,
+        "score": -0.7381
+      },
+      {
+        "word": "this",
+        "start_offset": 183,
+        "end_offset": 187,
+        "start": 35.996,
+        "end": 36.336,
+        "score": -1.0168
+      },
+      {
+        "word": "length",
+        "start_offset": 188,
+        "end_offset": 194,
+        "start": 36.997,
+        "end": 37.317,
+        "score": -2.911
+      },
+      {
+        "word": "of",
+        "start_offset": 195,
+        "end_offset": 197,
+        "start": 38.857,
+        "end": 38.977,
+        "score": -4.4283
+      },
+      {
+        "word": "work.",
+        "start_offset": 198,
+        "end_offset": 203,
+        "start": 40.138,
+        "end": 40.358,
+        "score": -5.504
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "004-21.mp3",
+    "audio_duration": 41.0384,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

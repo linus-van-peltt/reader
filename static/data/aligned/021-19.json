@@ -1,0 +1,189 @@
+{
+  "text": "What was their orientation? The orientation of these entities was such that the aid of the Confederation was not perceived.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What was their orientation?",
+        "start_offset": 0,
+        "end_offset": 27,
+        "start": 3.002,
+        "end": 4.243
+      },
+      {
+        "segment": "The orientation of these entities was such that the aid of the Confederation was not perceived.",
+        "start_offset": 28,
+        "end_offset": 123,
+        "start": 6.684,
+        "end": 25.076
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 3.002,
+        "end": 3.142,
+        "score": -6.9579
+      },
+      {
+        "word": "was",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 3.182,
+        "end": 3.342,
+        "score": -6.6699
+      },
+      {
+        "word": "their",
+        "start_offset": 9,
+        "end_offset": 14,
+        "start": 3.362,
+        "end": 3.482,
+        "score": -6.7199
+      },
+      {
+        "word": "orientation?",
+        "start_offset": 15,
+        "end_offset": 27,
+        "start": 3.602,
+        "end": 4.243,
+        "score": -7.4635
+      },
+      {
+        "word": "The",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 6.684,
+        "end": 6.824,
+        "score": -0.7003
+      },
+      {
+        "word": "orientation",
+        "start_offset": 32,
+        "end_offset": 43,
+        "start": 7.285,
+        "end": 8.825,
+        "score": -0.6947
+      },
+      {
+        "word": "of",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 9.386,
+        "end": 9.746,
+        "score": -0.6947
+      },
+      {
+        "word": "these",
+        "start_offset": 47,
+        "end_offset": 52,
+        "start": 10.286,
+        "end": 10.767,
+        "score": -0.7069
+      },
+      {
+        "word": "entities",
+        "start_offset": 53,
+        "end_offset": 61,
+        "start": 11.067,
+        "end": 12.087,
+        "score": -0.7001
+      },
+      {
+        "word": "was",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 13.068,
+        "end": 13.508,
+        "score": -0.6946
+      },
+      {
+        "word": "such",
+        "start_offset": 66,
+        "end_offset": 70,
+        "start": 13.809,
+        "end": 14.289,
+        "score": -0.8489
+      },
+      {
+        "word": "that",
+        "start_offset": 71,
+        "end_offset": 75,
+        "start": 15.35,
+        "end": 15.67,
+        "score": -2.4685
+      },
+      {
+        "word": "the",
+        "start_offset": 76,
+        "end_offset": 79,
+        "start": 15.99,
+        "end": 16.15,
+        "score": -0.6981
+      },
+      {
+        "word": "aid",
+        "start_offset": 80,
+        "end_offset": 83,
+        "start": 16.77,
+        "end": 17.151,
+        "score": -0.8194
+      },
+      {
+        "word": "of",
+        "start_offset": 84,
+        "end_offset": 86,
+        "start": 18.131,
+        "end": 18.371,
+        "score": -6.6526
+      },
+      {
+        "word": "the",
+        "start_offset": 87,
+        "end_offset": 90,
+        "start": 18.632,
+        "end": 18.772,
+        "score": -0.738
+      },
+      {
+        "word": "Confederation",
+        "start_offset": 91,
+        "end_offset": 104,
+        "start": 19.212,
+        "end": 20.853,
+        "score": -0.6987
+      },
+      {
+        "word": "was",
+        "start_offset": 105,
+        "end_offset": 108,
+        "start": 21.974,
+        "end": 22.474,
+        "score": -0.6952
+      },
+      {
+        "word": "not",
+        "start_offset": 109,
+        "end_offset": 112,
+        "start": 22.954,
+        "end": 23.354,
+        "score": -0.9042
+      },
+      {
+        "word": "perceived.",
+        "start_offset": 113,
+        "end_offset": 123,
+        "start": 23.815,
+        "end": 25.076,
+        "score": -0.7115
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "021-19.mp3",
+    "audio_duration": 27.0368,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

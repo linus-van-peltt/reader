@@ -1,0 +1,291 @@
+{
+  "text": "This would probably be possible in the higher densities such as the fifth density. Is this correct? I am Ra. In fifth-density harvest, polarization has very little to do with harvestability.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "This would probably be possible in the higher densities such as the fifth density.",
+        "start_offset": 0,
+        "end_offset": 82,
+        "start": 2.361,
+        "end": 11.145
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 83,
+        "end_offset": 99,
+        "start": 11.165,
+        "end": 16.067
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 100,
+        "end_offset": 108,
+        "start": 16.488,
+        "end": 18.769
+      },
+      {
+        "segment": "In fifth-density harvest, polarization has very little to do with harvestability.",
+        "start_offset": 109,
+        "end_offset": 190,
+        "start": 22.09,
+        "end": 45.181
+      }
+    ],
+    "word": [
+      {
+        "word": "This",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.361,
+        "end": 2.581,
+        "score": -1.3319
+      },
+      {
+        "word": "would",
+        "start_offset": 5,
+        "end_offset": 10,
+        "start": 2.661,
+        "end": 2.841,
+        "score": -1.1119
+      },
+      {
+        "word": "probably",
+        "start_offset": 11,
+        "end_offset": 19,
+        "start": 2.901,
+        "end": 3.482,
+        "score": -1.1062
+      },
+      {
+        "word": "be",
+        "start_offset": 20,
+        "end_offset": 22,
+        "start": 4.862,
+        "end": 4.942,
+        "score": -1.7285
+      },
+      {
+        "word": "possible",
+        "start_offset": 23,
+        "end_offset": 31,
+        "start": 5.142,
+        "end": 5.723,
+        "score": -1.4495
+      },
+      {
+        "word": "in",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 5.923,
+        "end": 6.043,
+        "score": -1.8189
+      },
+      {
+        "word": "the",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 8.524,
+        "end": 8.604,
+        "score": -3.742
+      },
+      {
+        "word": "higher",
+        "start_offset": 39,
+        "end_offset": 45,
+        "start": 8.644,
+        "end": 8.964,
+        "score": -6.9346
+      },
+      {
+        "word": "densities",
+        "start_offset": 46,
+        "end_offset": 55,
+        "start": 9.104,
+        "end": 9.724,
+        "score": -4.713
+      },
+      {
+        "word": "such",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 9.804,
+        "end": 10.045,
+        "score": -3.6458
+      },
+      {
+        "word": "as",
+        "start_offset": 61,
+        "end_offset": 63,
+        "start": 10.085,
+        "end": 10.185,
+        "score": -2.987
+      },
+      {
+        "word": "the",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 10.245,
+        "end": 10.325,
+        "score": -2.9125
+      },
+      {
+        "word": "fifth",
+        "start_offset": 68,
+        "end_offset": 73,
+        "start": 10.405,
+        "end": 10.645,
+        "score": -6.4601
+      },
+      {
+        "word": "density.",
+        "start_offset": 74,
+        "end_offset": 82,
+        "start": 10.725,
+        "end": 11.145,
+        "score": -5.886
+      },
+      {
+        "word": "Is",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 11.165,
+        "end": 11.225,
+        "score": -7.8583
+      },
+      {
+        "word": "this",
+        "start_offset": 86,
+        "end_offset": 90,
+        "start": 12.266,
+        "end": 12.446,
+        "score": -7.0297
+      },
+      {
+        "word": "correct?",
+        "start_offset": 91,
+        "end_offset": 99,
+        "start": 12.486,
+        "end": 16.067,
+        "score": -8.0378
+      },
+      {
+        "word": "I",
+        "start_offset": 100,
+        "end_offset": 101,
+        "start": 16.488,
+        "end": 16.508,
+        "score": -2.0596
+      },
+      {
+        "word": "am",
+        "start_offset": 102,
+        "end_offset": 104,
+        "start": 17.268,
+        "end": 17.668,
+        "score": -4.8176
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 105,
+        "end_offset": 108,
+        "start": 18.608,
+        "end": 18.769,
+        "score": -5.5472
+      },
+      {
+        "word": "In",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 22.09,
+        "end": 22.41,
+        "score": -0.7535
+      },
+      {
+        "word": "fifth-density",
+        "start_offset": 112,
+        "end_offset": 125,
+        "start": 23.051,
+        "end": 25.232,
+        "score": -0.8612
+      },
+      {
+        "word": "harvest,",
+        "start_offset": 126,
+        "end_offset": 134,
+        "start": 26.432,
+        "end": 27.352,
+        "score": -1.091
+      },
+      {
+        "word": "polarization",
+        "start_offset": 135,
+        "end_offset": 147,
+        "start": 30.014,
+        "end": 32.035,
+        "score": -0.7971
+      },
+      {
+        "word": "has",
+        "start_offset": 148,
+        "end_offset": 151,
+        "start": 33.455,
+        "end": 34.136,
+        "score": -0.7882
+      },
+      {
+        "word": "very",
+        "start_offset": 152,
+        "end_offset": 156,
+        "start": 36.837,
+        "end": 37.257,
+        "score": -0.889
+      },
+      {
+        "word": "little",
+        "start_offset": 157,
+        "end_offset": 163,
+        "start": 38.237,
+        "end": 38.678,
+        "score": -0.8672
+      },
+      {
+        "word": "to",
+        "start_offset": 164,
+        "end_offset": 166,
+        "start": 39.658,
+        "end": 39.818,
+        "score": -0.7342
+      },
+      {
+        "word": "do",
+        "start_offset": 167,
+        "end_offset": 169,
+        "start": 40.258,
+        "end": 40.358,
+        "score": -0.7497
+      },
+      {
+        "word": "with",
+        "start_offset": 170,
+        "end_offset": 174,
+        "start": 41.259,
+        "end": 41.579,
+        "score": -0.7768
+      },
+      {
+        "word": "harvestability.",
+        "start_offset": 175,
+        "end_offset": 190,
+        "start": 43.02,
+        "end": 45.181,
+        "score": -0.7246
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "071-03.mp3",
+    "audio_duration": 51.0433,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

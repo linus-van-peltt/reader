@@ -1,0 +1,187 @@
+{
+  "text": "This then creates, I would assume, the planetary or racial mind. Is this correct? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "This then creates, I would assume, the planetary or racial mind.",
+        "start_offset": 0,
+        "end_offset": 64,
+        "start": 6.406,
+        "end": 12.472
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 65,
+        "end_offset": 81,
+        "start": 12.952,
+        "end": 13.693
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 82,
+        "end_offset": 90,
+        "start": 20.499,
+        "end": 25.223
+      },
+      {
+        "segment": "No.",
+        "start_offset": 91,
+        "end_offset": 94,
+        "start": 25.484,
+        "end": 25.964
+      }
+    ],
+    "word": [
+      {
+        "word": "This",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 6.406,
+        "end": 6.646,
+        "score": -0.8086
+      },
+      {
+        "word": "then",
+        "start_offset": 5,
+        "end_offset": 9,
+        "start": 6.786,
+        "end": 7.067,
+        "score": -0.7873
+      },
+      {
+        "word": "creates,",
+        "start_offset": 10,
+        "end_offset": 18,
+        "start": 7.467,
+        "end": 8.047,
+        "score": -0.7721
+      },
+      {
+        "word": "I",
+        "start_offset": 19,
+        "end_offset": 20,
+        "start": 8.388,
+        "end": 8.408,
+        "score": -6.396
+      },
+      {
+        "word": "would",
+        "start_offset": 21,
+        "end_offset": 26,
+        "start": 8.528,
+        "end": 8.688,
+        "score": -2.2486
+      },
+      {
+        "word": "assume,",
+        "start_offset": 27,
+        "end_offset": 34,
+        "start": 8.728,
+        "end": 9.209,
+        "score": -0.8187
+      },
+      {
+        "word": "the",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 10.109,
+        "end": 10.209,
+        "score": -0.92
+      },
+      {
+        "word": "planetary",
+        "start_offset": 39,
+        "end_offset": 48,
+        "start": 10.27,
+        "end": 10.97,
+        "score": -0.8953
+      },
+      {
+        "word": "or",
+        "start_offset": 49,
+        "end_offset": 51,
+        "start": 11.411,
+        "end": 11.491,
+        "score": -0.8913
+      },
+      {
+        "word": "racial",
+        "start_offset": 52,
+        "end_offset": 58,
+        "start": 11.651,
+        "end": 12.051,
+        "score": -0.9563
+      },
+      {
+        "word": "mind.",
+        "start_offset": 59,
+        "end_offset": 64,
+        "start": 12.111,
+        "end": 12.472,
+        "score": -3.1921
+      },
+      {
+        "word": "Is",
+        "start_offset": 65,
+        "end_offset": 67,
+        "start": 12.952,
+        "end": 13.052,
+        "score": -0.7604
+      },
+      {
+        "word": "this",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 13.072,
+        "end": 13.232,
+        "score": -0.8948
+      },
+      {
+        "word": "correct?",
+        "start_offset": 73,
+        "end_offset": 81,
+        "start": 13.292,
+        "end": 13.693,
+        "score": -0.7073
+      },
+      {
+        "word": "I",
+        "start_offset": 82,
+        "end_offset": 83,
+        "start": 20.499,
+        "end": 20.519,
+        "score": -9.7452
+      },
+      {
+        "word": "am",
+        "start_offset": 84,
+        "end_offset": 86,
+        "start": 24.583,
+        "end": 24.663,
+        "score": -9.7904
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 87,
+        "end_offset": 90,
+        "start": 25.103,
+        "end": 25.223,
+        "score": -10.3504
+      },
+      {
+        "word": "No.",
+        "start_offset": 91,
+        "end_offset": 94,
+        "start": 25.484,
+        "end": 25.964,
+        "score": -10.242
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "091-05.mp3",
+    "audio_duration": 26.0441,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

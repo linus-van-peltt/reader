@@ -1,0 +1,970 @@
+{
+  "text": "Are there any foods that are helpful or harmful that the instrument might eat? I am Ra. This instrument has body complex distortion towards ill health in the distortion direction corrected best by ingestion of the foodstuffs of your grains and your vegetables, as you call them. However, this is extremely unimportant when regarded as an aid with equality to other aids such as attitude which this instrument has in abundance. It, however, aids the vital energies of this instrument, with less distortion towards ill health, to ingest foodstuffs in the above manner with occasional ingestion of what you call your meats, due to the instrument's need to lessen the distortion towards low vital energy.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Are there any foods that are helpful or harmful that the instrument might eat?",
+        "start_offset": 0,
+        "end_offset": 78,
+        "start": 2.2,
+        "end": 8.1
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 79,
+        "end_offset": 87,
+        "start": 15.501,
+        "end": 17.101
+      },
+      {
+        "segment": "This instrument has body complex distortion towards ill health in the distortion direction corrected best by ingestion of the foodstuffs of your grains and your vegetables, as you call them.",
+        "start_offset": 88,
+        "end_offset": 278,
+        "start": 19.661,
+        "end": 61.164
+      },
+      {
+        "segment": "However, this is extremely unimportant when regarded as an aid with equality to other aids such as attitude which this instrument has in abundance.",
+        "start_offset": 279,
+        "end_offset": 426,
+        "start": 62.324,
+        "end": 96.086
+      },
+      {
+        "segment": "It, however, aids the vital energies of this instrument, with less distortion towards ill health, to ingest foodstuffs in the above manner with occasional ingestion of what you call your meats, due to the instrument's need to lessen the distortion towards low vital energy.",
+        "start_offset": 427,
+        "end_offset": 700,
+        "start": 97.546,
+        "end": 147.969
+      }
+    ],
+    "word": [
+      {
+        "word": "Are",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.2,
+        "end": 2.32,
+        "score": -3.3698
+      },
+      {
+        "word": "there",
+        "start_offset": 4,
+        "end_offset": 9,
+        "start": 2.34,
+        "end": 2.5,
+        "score": -2.609
+      },
+      {
+        "word": "any",
+        "start_offset": 10,
+        "end_offset": 13,
+        "start": 2.6,
+        "end": 2.76,
+        "score": -4.1262
+      },
+      {
+        "word": "foods",
+        "start_offset": 14,
+        "end_offset": 19,
+        "start": 3.18,
+        "end": 3.66,
+        "score": -6.9253
+      },
+      {
+        "word": "that",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 3.84,
+        "end": 3.98,
+        "score": -5.4541
+      },
+      {
+        "word": "are",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 4.04,
+        "end": 4.18,
+        "score": -5.5529
+      },
+      {
+        "word": "helpful",
+        "start_offset": 29,
+        "end_offset": 36,
+        "start": 4.24,
+        "end": 4.66,
+        "score": -5.6885
+      },
+      {
+        "word": "or",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 4.84,
+        "end": 4.96,
+        "score": -6.9727
+      },
+      {
+        "word": "harmful",
+        "start_offset": 40,
+        "end_offset": 47,
+        "start": 5.06,
+        "end": 5.46,
+        "score": -4.7344
+      },
+      {
+        "word": "that",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 5.48,
+        "end": 6.06,
+        "score": -8.8042
+      },
+      {
+        "word": "the",
+        "start_offset": 53,
+        "end_offset": 56,
+        "start": 6.88,
+        "end": 6.96,
+        "score": -5.0303
+      },
+      {
+        "word": "instrument",
+        "start_offset": 57,
+        "end_offset": 67,
+        "start": 7.08,
+        "end": 7.52,
+        "score": -5.5751
+      },
+      {
+        "word": "might",
+        "start_offset": 68,
+        "end_offset": 73,
+        "start": 7.58,
+        "end": 7.8,
+        "score": -4.8222
+      },
+      {
+        "word": "eat?",
+        "start_offset": 74,
+        "end_offset": 78,
+        "start": 7.94,
+        "end": 8.1,
+        "score": -5.0424
+      },
+      {
+        "word": "I",
+        "start_offset": 79,
+        "end_offset": 80,
+        "start": 15.501,
+        "end": 15.521,
+        "score": -1.1056
+      },
+      {
+        "word": "am",
+        "start_offset": 81,
+        "end_offset": 83,
+        "start": 16.141,
+        "end": 16.361,
+        "score": -2.5296
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 84,
+        "end_offset": 87,
+        "start": 16.961,
+        "end": 17.101,
+        "score": -1.6316
+      },
+      {
+        "word": "This",
+        "start_offset": 88,
+        "end_offset": 92,
+        "start": 19.661,
+        "end": 20.001,
+        "score": -1.482
+      },
+      {
+        "word": "instrument",
+        "start_offset": 93,
+        "end_offset": 103,
+        "start": 20.601,
+        "end": 21.741,
+        "score": -1.0448
+      },
+      {
+        "word": "has",
+        "start_offset": 104,
+        "end_offset": 107,
+        "start": 23.281,
+        "end": 23.641,
+        "score": -0.7384
+      },
+      {
+        "word": "body",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 24.141,
+        "end": 24.561,
+        "score": -0.704
+      },
+      {
+        "word": "complex",
+        "start_offset": 113,
+        "end_offset": 120,
+        "start": 25.161,
+        "end": 25.942,
+        "score": -0.7679
+      },
+      {
+        "word": "distortion",
+        "start_offset": 121,
+        "end_offset": 131,
+        "start": 26.402,
+        "end": 27.342,
+        "score": -1.5463
+      },
+      {
+        "word": "towards",
+        "start_offset": 132,
+        "end_offset": 139,
+        "start": 28.602,
+        "end": 29.522,
+        "score": -2.4166
+      },
+      {
+        "word": "ill",
+        "start_offset": 140,
+        "end_offset": 143,
+        "start": 31.862,
+        "end": 32.102,
+        "score": -1.1294
+      },
+      {
+        "word": "health",
+        "start_offset": 144,
+        "end_offset": 150,
+        "start": 33.042,
+        "end": 33.522,
+        "score": -1.1615
+      },
+      {
+        "word": "in",
+        "start_offset": 151,
+        "end_offset": 153,
+        "start": 35.522,
+        "end": 35.722,
+        "score": -0.7285
+      },
+      {
+        "word": "the",
+        "start_offset": 154,
+        "end_offset": 157,
+        "start": 36.362,
+        "end": 36.502,
+        "score": -0.7463
+      },
+      {
+        "word": "distortion",
+        "start_offset": 158,
+        "end_offset": 168,
+        "start": 37.382,
+        "end": 38.302,
+        "score": -0.7602
+      },
+      {
+        "word": "direction",
+        "start_offset": 169,
+        "end_offset": 178,
+        "start": 38.622,
+        "end": 39.522,
+        "score": -0.7136
+      },
+      {
+        "word": "corrected",
+        "start_offset": 179,
+        "end_offset": 188,
+        "start": 40.622,
+        "end": 41.642,
+        "score": -0.7059
+      },
+      {
+        "word": "best",
+        "start_offset": 189,
+        "end_offset": 193,
+        "start": 42.202,
+        "end": 42.702,
+        "score": -0.7486
+      },
+      {
+        "word": "by",
+        "start_offset": 194,
+        "end_offset": 196,
+        "start": 43.923,
+        "end": 44.303,
+        "score": -0.8138
+      },
+      {
+        "word": "ingestion",
+        "start_offset": 197,
+        "end_offset": 206,
+        "start": 44.663,
+        "end": 45.743,
+        "score": -1.2428
+      },
+      {
+        "word": "of",
+        "start_offset": 207,
+        "end_offset": 209,
+        "start": 46.983,
+        "end": 47.303,
+        "score": -1.0761
+      },
+      {
+        "word": "the",
+        "start_offset": 210,
+        "end_offset": 213,
+        "start": 48.923,
+        "end": 49.063,
+        "score": -2.0348
+      },
+      {
+        "word": "foodstuffs",
+        "start_offset": 214,
+        "end_offset": 224,
+        "start": 50.283,
+        "end": 51.283,
+        "score": -0.8149
+      },
+      {
+        "word": "of",
+        "start_offset": 225,
+        "end_offset": 227,
+        "start": 52.263,
+        "end": 52.503,
+        "score": -0.7062
+      },
+      {
+        "word": "your",
+        "start_offset": 228,
+        "end_offset": 232,
+        "start": 52.803,
+        "end": 53.163,
+        "score": -0.7856
+      },
+      {
+        "word": "grains",
+        "start_offset": 233,
+        "end_offset": 239,
+        "start": 53.503,
+        "end": 54.183,
+        "score": -0.763
+      },
+      {
+        "word": "and",
+        "start_offset": 240,
+        "end_offset": 243,
+        "start": 55.443,
+        "end": 55.683,
+        "score": -0.7219
+      },
+      {
+        "word": "your",
+        "start_offset": 244,
+        "end_offset": 248,
+        "start": 55.903,
+        "end": 56.203,
+        "score": -0.7752
+      },
+      {
+        "word": "vegetables,",
+        "start_offset": 249,
+        "end_offset": 260,
+        "start": 56.603,
+        "end": 57.603,
+        "score": -0.7938
+      },
+      {
+        "word": "as",
+        "start_offset": 261,
+        "end_offset": 263,
+        "start": 59.083,
+        "end": 59.323,
+        "score": -0.7498
+      },
+      {
+        "word": "you",
+        "start_offset": 264,
+        "end_offset": 267,
+        "start": 59.763,
+        "end": 59.903,
+        "score": -0.7331
+      },
+      {
+        "word": "call",
+        "start_offset": 268,
+        "end_offset": 272,
+        "start": 60.163,
+        "end": 60.604,
+        "score": -1.178
+      },
+      {
+        "word": "them.",
+        "start_offset": 273,
+        "end_offset": 278,
+        "start": 60.844,
+        "end": 61.164,
+        "score": -0.858
+      },
+      {
+        "word": "However,",
+        "start_offset": 279,
+        "end_offset": 287,
+        "start": 62.324,
+        "end": 63.364,
+        "score": -0.8581
+      },
+      {
+        "word": "this",
+        "start_offset": 288,
+        "end_offset": 292,
+        "start": 64.324,
+        "end": 64.684,
+        "score": -0.8843
+      },
+      {
+        "word": "is",
+        "start_offset": 293,
+        "end_offset": 295,
+        "start": 65.284,
+        "end": 65.584,
+        "score": -1.0111
+      },
+      {
+        "word": "extremely",
+        "start_offset": 296,
+        "end_offset": 305,
+        "start": 67.004,
+        "end": 68.344,
+        "score": -0.7601
+      },
+      {
+        "word": "unimportant",
+        "start_offset": 306,
+        "end_offset": 317,
+        "start": 69.724,
+        "end": 71.364,
+        "score": -0.8353
+      },
+      {
+        "word": "when",
+        "start_offset": 318,
+        "end_offset": 322,
+        "start": 72.804,
+        "end": 73.104,
+        "score": -0.7115
+      },
+      {
+        "word": "regarded",
+        "start_offset": 323,
+        "end_offset": 331,
+        "start": 73.384,
+        "end": 74.324,
+        "score": -0.6968
+      },
+      {
+        "word": "as",
+        "start_offset": 332,
+        "end_offset": 334,
+        "start": 75.704,
+        "end": 76.124,
+        "score": -0.7275
+      },
+      {
+        "word": "an",
+        "start_offset": 335,
+        "end_offset": 337,
+        "start": 76.384,
+        "end": 76.584,
+        "score": -0.7385
+      },
+      {
+        "word": "aid",
+        "start_offset": 338,
+        "end_offset": 341,
+        "start": 76.844,
+        "end": 77.204,
+        "score": -1.1864
+      },
+      {
+        "word": "with",
+        "start_offset": 342,
+        "end_offset": 346,
+        "start": 79.385,
+        "end": 79.765,
+        "score": -0.7848
+      },
+      {
+        "word": "equality",
+        "start_offset": 347,
+        "end_offset": 355,
+        "start": 80.385,
+        "end": 81.365,
+        "score": -0.7155
+      },
+      {
+        "word": "to",
+        "start_offset": 356,
+        "end_offset": 358,
+        "start": 81.965,
+        "end": 82.125,
+        "score": -0.7416
+      },
+      {
+        "word": "other",
+        "start_offset": 359,
+        "end_offset": 364,
+        "start": 82.725,
+        "end": 83.125,
+        "score": -0.7034
+      },
+      {
+        "word": "aids",
+        "start_offset": 365,
+        "end_offset": 369,
+        "start": 83.765,
+        "end": 84.265,
+        "score": -1.0182
+      },
+      {
+        "word": "such",
+        "start_offset": 370,
+        "end_offset": 374,
+        "start": 85.205,
+        "end": 85.545,
+        "score": -0.7357
+      },
+      {
+        "word": "as",
+        "start_offset": 375,
+        "end_offset": 377,
+        "start": 85.965,
+        "end": 86.345,
+        "score": -0.7458
+      },
+      {
+        "word": "attitude",
+        "start_offset": 378,
+        "end_offset": 386,
+        "start": 87.845,
+        "end": 89.065,
+        "score": -0.7289
+      },
+      {
+        "word": "which",
+        "start_offset": 387,
+        "end_offset": 392,
+        "start": 90.125,
+        "end": 90.465,
+        "score": -0.7056
+      },
+      {
+        "word": "this",
+        "start_offset": 393,
+        "end_offset": 397,
+        "start": 90.765,
+        "end": 91.085,
+        "score": -0.7382
+      },
+      {
+        "word": "instrument",
+        "start_offset": 398,
+        "end_offset": 408,
+        "start": 91.425,
+        "end": 92.385,
+        "score": -0.7206
+      },
+      {
+        "word": "has",
+        "start_offset": 409,
+        "end_offset": 412,
+        "start": 93.285,
+        "end": 93.725,
+        "score": -0.81
+      },
+      {
+        "word": "in",
+        "start_offset": 413,
+        "end_offset": 415,
+        "start": 94.285,
+        "end": 94.485,
+        "score": -0.9001
+      },
+      {
+        "word": "abundance.",
+        "start_offset": 416,
+        "end_offset": 426,
+        "start": 94.925,
+        "end": 96.086,
+        "score": -1.1079
+      },
+      {
+        "word": "It,",
+        "start_offset": 427,
+        "end_offset": 430,
+        "start": 97.546,
+        "end": 97.706,
+        "score": -0.7237
+      },
+      {
+        "word": "however,",
+        "start_offset": 431,
+        "end_offset": 439,
+        "start": 98.026,
+        "end": 98.986,
+        "score": -0.7276
+      },
+      {
+        "word": "aids",
+        "start_offset": 440,
+        "end_offset": 444,
+        "start": 100.046,
+        "end": 100.526,
+        "score": -1.1369
+      },
+      {
+        "word": "the",
+        "start_offset": 445,
+        "end_offset": 448,
+        "start": 101.006,
+        "end": 101.146,
+        "score": -0.8814
+      },
+      {
+        "word": "vital",
+        "start_offset": 449,
+        "end_offset": 454,
+        "start": 102.146,
+        "end": 102.606,
+        "score": -0.802
+      },
+      {
+        "word": "energies",
+        "start_offset": 455,
+        "end_offset": 463,
+        "start": 103.026,
+        "end": 103.926,
+        "score": -1.0079
+      },
+      {
+        "word": "of",
+        "start_offset": 464,
+        "end_offset": 466,
+        "start": 104.666,
+        "end": 104.866,
+        "score": -0.7715
+      },
+      {
+        "word": "this",
+        "start_offset": 467,
+        "end_offset": 471,
+        "start": 105.166,
+        "end": 105.446,
+        "score": -0.7244
+      },
+      {
+        "word": "instrument,",
+        "start_offset": 472,
+        "end_offset": 483,
+        "start": 105.686,
+        "end": 106.626,
+        "score": -0.7296
+      },
+      {
+        "word": "with",
+        "start_offset": 484,
+        "end_offset": 488,
+        "start": 107.586,
+        "end": 107.946,
+        "score": -0.701
+      },
+      {
+        "word": "less",
+        "start_offset": 489,
+        "end_offset": 493,
+        "start": 108.606,
+        "end": 108.946,
+        "score": -0.7039
+      },
+      {
+        "word": "distortion",
+        "start_offset": 494,
+        "end_offset": 504,
+        "start": 109.226,
+        "end": 110.166,
+        "score": -1.5121
+      },
+      {
+        "word": "towards",
+        "start_offset": 505,
+        "end_offset": 512,
+        "start": 110.906,
+        "end": 111.626,
+        "score": -2.1113
+      },
+      {
+        "word": "ill",
+        "start_offset": 513,
+        "end_offset": 516,
+        "start": 112.126,
+        "end": 112.347,
+        "score": -1.1
+      },
+      {
+        "word": "health,",
+        "start_offset": 517,
+        "end_offset": 524,
+        "start": 112.727,
+        "end": 113.187,
+        "score": -1.0193
+      },
+      {
+        "word": "to",
+        "start_offset": 525,
+        "end_offset": 527,
+        "start": 114.087,
+        "end": 114.247,
+        "score": -4.6854
+      },
+      {
+        "word": "ingest",
+        "start_offset": 528,
+        "end_offset": 534,
+        "start": 114.707,
+        "end": 115.567,
+        "score": -2.2841
+      },
+      {
+        "word": "foodstuffs",
+        "start_offset": 535,
+        "end_offset": 545,
+        "start": 116.187,
+        "end": 117.127,
+        "score": -0.7679
+      },
+      {
+        "word": "in",
+        "start_offset": 546,
+        "end_offset": 548,
+        "start": 117.987,
+        "end": 118.167,
+        "score": -6.2176
+      },
+      {
+        "word": "the",
+        "start_offset": 549,
+        "end_offset": 552,
+        "start": 118.507,
+        "end": 118.607,
+        "score": -2.9905
+      },
+      {
+        "word": "above",
+        "start_offset": 553,
+        "end_offset": 558,
+        "start": 119.007,
+        "end": 119.607,
+        "score": -2.9986
+      },
+      {
+        "word": "manner",
+        "start_offset": 559,
+        "end_offset": 565,
+        "start": 120.047,
+        "end": 120.507,
+        "score": -2.3542
+      },
+      {
+        "word": "with",
+        "start_offset": 566,
+        "end_offset": 570,
+        "start": 121.467,
+        "end": 121.807,
+        "score": -0.7014
+      },
+      {
+        "word": "occasional",
+        "start_offset": 571,
+        "end_offset": 581,
+        "start": 122.207,
+        "end": 123.367,
+        "score": -0.8738
+      },
+      {
+        "word": "ingestion",
+        "start_offset": 582,
+        "end_offset": 591,
+        "start": 125.807,
+        "end": 126.887,
+        "score": -0.7924
+      },
+      {
+        "word": "of",
+        "start_offset": 592,
+        "end_offset": 594,
+        "start": 127.367,
+        "end": 127.587,
+        "score": -6.0392
+      },
+      {
+        "word": "what",
+        "start_offset": 595,
+        "end_offset": 599,
+        "start": 127.827,
+        "end": 128.087,
+        "score": -0.7533
+      },
+      {
+        "word": "you",
+        "start_offset": 600,
+        "end_offset": 603,
+        "start": 128.407,
+        "end": 128.527,
+        "score": -4.618
+      },
+      {
+        "word": "call",
+        "start_offset": 604,
+        "end_offset": 608,
+        "start": 129.487,
+        "end": 129.908,
+        "score": -0.7135
+      },
+      {
+        "word": "your",
+        "start_offset": 609,
+        "end_offset": 613,
+        "start": 130.188,
+        "end": 130.528,
+        "score": -0.7553
+      },
+      {
+        "word": "meats,",
+        "start_offset": 614,
+        "end_offset": 620,
+        "start": 131.028,
+        "end": 131.448,
+        "score": -2.5273
+      },
+      {
+        "word": "due",
+        "start_offset": 621,
+        "end_offset": 624,
+        "start": 132.688,
+        "end": 133.028,
+        "score": -1.6503
+      },
+      {
+        "word": "to",
+        "start_offset": 625,
+        "end_offset": 627,
+        "start": 133.328,
+        "end": 133.488,
+        "score": -0.744
+      },
+      {
+        "word": "the",
+        "start_offset": 628,
+        "end_offset": 631,
+        "start": 134.248,
+        "end": 134.368,
+        "score": -0.7179
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 632,
+        "end_offset": 644,
+        "start": 134.888,
+        "end": 135.888,
+        "score": -2.4458
+      },
+      {
+        "word": "need",
+        "start_offset": 645,
+        "end_offset": 649,
+        "start": 137.288,
+        "end": 137.708,
+        "score": -0.7559
+      },
+      {
+        "word": "to",
+        "start_offset": 650,
+        "end_offset": 652,
+        "start": 138.968,
+        "end": 139.108,
+        "score": -0.7182
+      },
+      {
+        "word": "lessen",
+        "start_offset": 653,
+        "end_offset": 659,
+        "start": 139.608,
+        "end": 140.208,
+        "score": -0.7278
+      },
+      {
+        "word": "the",
+        "start_offset": 660,
+        "end_offset": 663,
+        "start": 140.648,
+        "end": 140.768,
+        "score": -2.5478
+      },
+      {
+        "word": "distortion",
+        "start_offset": 664,
+        "end_offset": 674,
+        "start": 141.068,
+        "end": 142.108,
+        "score": -1.6583
+      },
+      {
+        "word": "towards",
+        "start_offset": 675,
+        "end_offset": 682,
+        "start": 142.968,
+        "end": 143.788,
+        "score": -1.8914
+      },
+      {
+        "word": "low",
+        "start_offset": 683,
+        "end_offset": 686,
+        "start": 144.668,
+        "end": 145.268,
+        "score": -3.0029
+      },
+      {
+        "word": "vital",
+        "start_offset": 687,
+        "end_offset": 692,
+        "start": 146.008,
+        "end": 146.608,
+        "score": -0.7724
+      },
+      {
+        "word": "energy.",
+        "start_offset": 693,
+        "end_offset": 700,
+        "start": 146.648,
+        "end": 147.969,
+        "score": -0.8514
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "018-04.mp3",
+    "audio_duration": 149.0286,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

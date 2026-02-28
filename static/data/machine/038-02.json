@@ -1,0 +1,926 @@
+{
+  "text": "Backtracking just a little bit today, I would like to know if the reason the nuclear energy was brought into this density forty or so years ago had anything to do with giving the entities that were here who had caused the destruction of Maldec another chance to use nuclear energy peacefully rather than destructively. Is this correct? I am Ra. This is incorrect in that it places cart before horse, as your people say the desire for this type of information attracted this data to your people. It was not given for a reason from outside influences. Rather, it was desired by your peoples from this point forward, your reasoning is correct in that entities had desired the second chance which you mentioned.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Backtracking just a little bit today, I would like to know if the reason the nuclear energy was brought into this density forty or so years ago had anything to do with giving the entities that were here who had caused the destruction of Maldec another chance to use nuclear energy peacefully rather than destructively.",
+        "start_offset": 76,
+        "end_offset": 688,
+        "start": 6.08,
+        "end": 55.04
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 700,
+        "end_offset": 720,
+        "start": 56.0,
+        "end": 57.6
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 788,
+        "end_offset": 820,
+        "start": 63.04,
+        "end": 65.6
+      },
+      {
+        "segment": "This is incorrect in that it places cart before horse, as your people say the desire for this type of information attracted this data to your people.",
+        "start_offset": 843,
+        "end_offset": 1418,
+        "start": 67.44,
+        "end": 113.44
+      },
+      {
+        "segment": "It was not given for a reason from outside influences.",
+        "start_offset": 1455,
+        "end_offset": 1651,
+        "start": 116.4,
+        "end": 132.08
+      },
+      {
+        "segment": "Rather, it was desired by your peoples from this point forward, your reasoning is correct in that entities had desired the second chance which you mentioned.",
+        "start_offset": 1685,
+        "end_offset": 2227,
+        "start": 134.8,
+        "end": 178.16
+      }
+    ],
+    "word": [
+      {
+        "word": "Backtracking",
+        "start_offset": 76,
+        "end_offset": 88,
+        "start": 6.08,
+        "end": 7.04
+      },
+      {
+        "word": "just",
+        "start_offset": 88,
+        "end_offset": 90,
+        "start": 7.04,
+        "end": 7.2
+      },
+      {
+        "word": "a",
+        "start_offset": 90,
+        "end_offset": 93,
+        "start": 7.2,
+        "end": 7.44
+      },
+      {
+        "word": "little",
+        "start_offset": 93,
+        "end_offset": 97,
+        "start": 7.44,
+        "end": 7.76
+      },
+      {
+        "word": "bit",
+        "start_offset": 97,
+        "end_offset": 98,
+        "start": 7.76,
+        "end": 7.84
+      },
+      {
+        "word": "today,",
+        "start_offset": 101,
+        "end_offset": 107,
+        "start": 8.08,
+        "end": 8.56
+      },
+      {
+        "word": "I",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 8.72,
+        "end": 8.88
+      },
+      {
+        "word": "would",
+        "start_offset": 146,
+        "end_offset": 150,
+        "start": 11.68,
+        "end": 12.0
+      },
+      {
+        "word": "like",
+        "start_offset": 154,
+        "end_offset": 158,
+        "start": 12.32,
+        "end": 12.64
+      },
+      {
+        "word": "to",
+        "start_offset": 162,
+        "end_offset": 166,
+        "start": 12.96,
+        "end": 13.280000000000001
+      },
+      {
+        "word": "know",
+        "start_offset": 166,
+        "end_offset": 170,
+        "start": 13.280000000000001,
+        "end": 13.6
+      },
+      {
+        "word": "if",
+        "start_offset": 170,
+        "end_offset": 174,
+        "start": 13.6,
+        "end": 13.92
+      },
+      {
+        "word": "the",
+        "start_offset": 190,
+        "end_offset": 194,
+        "start": 15.200000000000001,
+        "end": 15.52
+      },
+      {
+        "word": "reason",
+        "start_offset": 194,
+        "end_offset": 204,
+        "start": 15.52,
+        "end": 16.32
+      },
+      {
+        "word": "the",
+        "start_offset": 224,
+        "end_offset": 227,
+        "start": 17.92,
+        "end": 18.16
+      },
+      {
+        "word": "nuclear",
+        "start_offset": 250,
+        "end_offset": 263,
+        "start": 20.0,
+        "end": 21.04
+      },
+      {
+        "word": "energy",
+        "start_offset": 263,
+        "end_offset": 271,
+        "start": 21.04,
+        "end": 21.68
+      },
+      {
+        "word": "was",
+        "start_offset": 291,
+        "end_offset": 295,
+        "start": 23.28,
+        "end": 23.6
+      },
+      {
+        "word": "brought",
+        "start_offset": 305,
+        "end_offset": 317,
+        "start": 24.400000000000002,
+        "end": 25.36
+      },
+      {
+        "word": "into",
+        "start_offset": 317,
+        "end_offset": 321,
+        "start": 25.36,
+        "end": 25.68
+      },
+      {
+        "word": "this",
+        "start_offset": 345,
+        "end_offset": 349,
+        "start": 27.6,
+        "end": 27.92
+      },
+      {
+        "word": "density",
+        "start_offset": 353,
+        "end_offset": 364,
+        "start": 28.240000000000002,
+        "end": 29.12
+      },
+      {
+        "word": "forty",
+        "start_offset": 396,
+        "end_offset": 400,
+        "start": 31.68,
+        "end": 32.0
+      },
+      {
+        "word": "or",
+        "start_offset": 402,
+        "end_offset": 406,
+        "start": 32.160000000000004,
+        "end": 32.480000000000004
+      },
+      {
+        "word": "so",
+        "start_offset": 406,
+        "end_offset": 408,
+        "start": 32.480000000000004,
+        "end": 32.64
+      },
+      {
+        "word": "years",
+        "start_offset": 408,
+        "end_offset": 414,
+        "start": 32.64,
+        "end": 33.12
+      },
+      {
+        "word": "ago",
+        "start_offset": 414,
+        "end_offset": 422,
+        "start": 33.12,
+        "end": 33.76
+      },
+      {
+        "word": "had",
+        "start_offset": 444,
+        "end_offset": 447,
+        "start": 35.52,
+        "end": 35.76
+      },
+      {
+        "word": "anything",
+        "start_offset": 450,
+        "end_offset": 457,
+        "start": 36.0,
+        "end": 36.56
+      },
+      {
+        "word": "to",
+        "start_offset": 457,
+        "end_offset": 461,
+        "start": 36.56,
+        "end": 36.88
+      },
+      {
+        "word": "do",
+        "start_offset": 461,
+        "end_offset": 465,
+        "start": 36.88,
+        "end": 37.2
+      },
+      {
+        "word": "with",
+        "start_offset": 465,
+        "end_offset": 469,
+        "start": 37.2,
+        "end": 37.52
+      },
+      {
+        "word": "giving",
+        "start_offset": 481,
+        "end_offset": 492,
+        "start": 38.480000000000004,
+        "end": 39.36
+      },
+      {
+        "word": "the",
+        "start_offset": 492,
+        "end_offset": 496,
+        "start": 39.36,
+        "end": 39.68
+      },
+      {
+        "word": "entities",
+        "start_offset": 512,
+        "end_offset": 521,
+        "start": 40.96,
+        "end": 41.68
+      },
+      {
+        "word": "that",
+        "start_offset": 521,
+        "end_offset": 523,
+        "start": 41.68,
+        "end": 41.84
+      },
+      {
+        "word": "were",
+        "start_offset": 523,
+        "end_offset": 527,
+        "start": 41.84,
+        "end": 42.160000000000004
+      },
+      {
+        "word": "here",
+        "start_offset": 527,
+        "end_offset": 531,
+        "start": 42.160000000000004,
+        "end": 42.480000000000004
+      },
+      {
+        "word": "who",
+        "start_offset": 531,
+        "end_offset": 535,
+        "start": 42.480000000000004,
+        "end": 42.800000000000004
+      },
+      {
+        "word": "had",
+        "start_offset": 535,
+        "end_offset": 539,
+        "start": 42.800000000000004,
+        "end": 43.12
+      },
+      {
+        "word": "caused",
+        "start_offset": 547,
+        "end_offset": 555,
+        "start": 43.76,
+        "end": 44.4
+      },
+      {
+        "word": "the",
+        "start_offset": 566,
+        "end_offset": 569,
+        "start": 45.28,
+        "end": 45.52
+      },
+      {
+        "word": "destruction",
+        "start_offset": 569,
+        "end_offset": 576,
+        "start": 45.52,
+        "end": 46.08
+      },
+      {
+        "word": "of",
+        "start_offset": 576,
+        "end_offset": 579,
+        "start": 46.08,
+        "end": 46.32
+      },
+      {
+        "word": "Maldec",
+        "start_offset": 579,
+        "end_offset": 591,
+        "start": 46.32,
+        "end": 47.28
+      },
+      {
+        "word": "another",
+        "start_offset": 599,
+        "end_offset": 610,
+        "start": 47.92,
+        "end": 48.800000000000004
+      },
+      {
+        "word": "chance",
+        "start_offset": 610,
+        "end_offset": 618,
+        "start": 48.800000000000004,
+        "end": 49.44
+      },
+      {
+        "word": "to",
+        "start_offset": 626,
+        "end_offset": 630,
+        "start": 50.08,
+        "end": 50.4
+      },
+      {
+        "word": "use",
+        "start_offset": 630,
+        "end_offset": 634,
+        "start": 50.4,
+        "end": 50.72
+      },
+      {
+        "word": "nuclear",
+        "start_offset": 638,
+        "end_offset": 647,
+        "start": 51.04,
+        "end": 51.76
+      },
+      {
+        "word": "energy",
+        "start_offset": 647,
+        "end_offset": 654,
+        "start": 51.76,
+        "end": 52.32
+      },
+      {
+        "word": "peacefully",
+        "start_offset": 654,
+        "end_offset": 662,
+        "start": 52.32,
+        "end": 52.96
+      },
+      {
+        "word": "rather",
+        "start_offset": 662,
+        "end_offset": 668,
+        "start": 52.96,
+        "end": 53.44
+      },
+      {
+        "word": "than",
+        "start_offset": 668,
+        "end_offset": 672,
+        "start": 53.44,
+        "end": 53.76
+      },
+      {
+        "word": "destructively.",
+        "start_offset": 672,
+        "end_offset": 688,
+        "start": 53.76,
+        "end": 55.04
+      },
+      {
+        "word": "Is",
+        "start_offset": 700,
+        "end_offset": 704,
+        "start": 56.0,
+        "end": 56.32
+      },
+      {
+        "word": "this",
+        "start_offset": 704,
+        "end_offset": 708,
+        "start": 56.32,
+        "end": 56.64
+      },
+      {
+        "word": "correct?",
+        "start_offset": 710,
+        "end_offset": 720,
+        "start": 56.800000000000004,
+        "end": 57.6
+      },
+      {
+        "word": "I",
+        "start_offset": 788,
+        "end_offset": 792,
+        "start": 63.04,
+        "end": 63.36
+      },
+      {
+        "word": "am",
+        "start_offset": 800,
+        "end_offset": 804,
+        "start": 64.0,
+        "end": 64.32000000000001
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 816,
+        "end_offset": 820,
+        "start": 65.28,
+        "end": 65.6
+      },
+      {
+        "word": "This",
+        "start_offset": 843,
+        "end_offset": 847,
+        "start": 67.44,
+        "end": 67.76
+      },
+      {
+        "word": "is",
+        "start_offset": 859,
+        "end_offset": 863,
+        "start": 68.72,
+        "end": 69.04
+      },
+      {
+        "word": "incorrect",
+        "start_offset": 871,
+        "end_offset": 886,
+        "start": 69.68,
+        "end": 70.88
+      },
+      {
+        "word": "in",
+        "start_offset": 906,
+        "end_offset": 910,
+        "start": 72.48,
+        "end": 72.8
+      },
+      {
+        "word": "that",
+        "start_offset": 914,
+        "end_offset": 918,
+        "start": 73.12,
+        "end": 73.44
+      },
+      {
+        "word": "it",
+        "start_offset": 926,
+        "end_offset": 930,
+        "start": 74.08,
+        "end": 74.4
+      },
+      {
+        "word": "places",
+        "start_offset": 934,
+        "end_offset": 946,
+        "start": 74.72,
+        "end": 75.68
+      },
+      {
+        "word": "cart",
+        "start_offset": 962,
+        "end_offset": 970,
+        "start": 76.96000000000001,
+        "end": 77.60000000000001
+      },
+      {
+        "word": "before",
+        "start_offset": 977,
+        "end_offset": 989,
+        "start": 78.16,
+        "end": 79.12
+      },
+      {
+        "word": "horse,",
+        "start_offset": 993,
+        "end_offset": 1004,
+        "start": 79.44,
+        "end": 80.32000000000001
+      },
+      {
+        "word": "as",
+        "start_offset": 1020,
+        "end_offset": 1024,
+        "start": 81.60000000000001,
+        "end": 81.92
+      },
+      {
+        "word": "your",
+        "start_offset": 1040,
+        "end_offset": 1044,
+        "start": 83.2,
+        "end": 83.52
+      },
+      {
+        "word": "people",
+        "start_offset": 1048,
+        "end_offset": 1052,
+        "start": 83.84,
+        "end": 84.16
+      },
+      {
+        "word": "say",
+        "start_offset": 1068,
+        "end_offset": 1072,
+        "start": 85.44,
+        "end": 85.76
+      },
+      {
+        "word": "the",
+        "start_offset": 1111,
+        "end_offset": 1115,
+        "start": 88.88,
+        "end": 89.2
+      },
+      {
+        "word": "desire",
+        "start_offset": 1131,
+        "end_offset": 1139,
+        "start": 90.48,
+        "end": 91.12
+      },
+      {
+        "word": "for",
+        "start_offset": 1163,
+        "end_offset": 1167,
+        "start": 93.04,
+        "end": 93.36
+      },
+      {
+        "word": "this",
+        "start_offset": 1187,
+        "end_offset": 1191,
+        "start": 94.96000000000001,
+        "end": 95.28
+      },
+      {
+        "word": "type",
+        "start_offset": 1199,
+        "end_offset": 1207,
+        "start": 95.92,
+        "end": 96.56
+      },
+      {
+        "word": "of",
+        "start_offset": 1223,
+        "end_offset": 1227,
+        "start": 97.84,
+        "end": 98.16
+      },
+      {
+        "word": "information",
+        "start_offset": 1231,
+        "end_offset": 1243,
+        "start": 98.48,
+        "end": 99.44
+      },
+      {
+        "word": "attracted",
+        "start_offset": 1274,
+        "end_offset": 1288,
+        "start": 101.92,
+        "end": 103.04
+      },
+      {
+        "word": "this",
+        "start_offset": 1316,
+        "end_offset": 1319,
+        "start": 105.28,
+        "end": 105.52
+      },
+      {
+        "word": "data",
+        "start_offset": 1347,
+        "end_offset": 1358,
+        "start": 107.76,
+        "end": 108.64
+      },
+      {
+        "word": "to",
+        "start_offset": 1374,
+        "end_offset": 1378,
+        "start": 109.92,
+        "end": 110.24000000000001
+      },
+      {
+        "word": "your",
+        "start_offset": 1406,
+        "end_offset": 1410,
+        "start": 112.48,
+        "end": 112.8
+      },
+      {
+        "word": "people.",
+        "start_offset": 1414,
+        "end_offset": 1418,
+        "start": 113.12,
+        "end": 113.44
+      },
+      {
+        "word": "It",
+        "start_offset": 1455,
+        "end_offset": 1459,
+        "start": 116.4,
+        "end": 116.72
+      },
+      {
+        "word": "was",
+        "start_offset": 1471,
+        "end_offset": 1475,
+        "start": 117.68,
+        "end": 118.0
+      },
+      {
+        "word": "not",
+        "start_offset": 1479,
+        "end_offset": 1483,
+        "start": 118.32000000000001,
+        "end": 118.64
+      },
+      {
+        "word": "given",
+        "start_offset": 1487,
+        "end_offset": 1499,
+        "start": 118.96000000000001,
+        "end": 119.92
+      },
+      {
+        "word": "for",
+        "start_offset": 1519,
+        "end_offset": 1523,
+        "start": 121.52,
+        "end": 121.84
+      },
+      {
+        "word": "a",
+        "start_offset": 1531,
+        "end_offset": 1535,
+        "start": 122.48,
+        "end": 122.8
+      },
+      {
+        "word": "reason",
+        "start_offset": 1539,
+        "end_offset": 1551,
+        "start": 123.12,
+        "end": 124.08
+      },
+      {
+        "word": "from",
+        "start_offset": 1571,
+        "end_offset": 1575,
+        "start": 125.68,
+        "end": 126.0
+      },
+      {
+        "word": "outside",
+        "start_offset": 1591,
+        "end_offset": 1607,
+        "start": 127.28,
+        "end": 128.56
+      },
+      {
+        "word": "influences.",
+        "start_offset": 1635,
+        "end_offset": 1651,
+        "start": 130.8,
+        "end": 132.08
+      },
+      {
+        "word": "Rather,",
+        "start_offset": 1685,
+        "end_offset": 1696,
+        "start": 134.8,
+        "end": 135.68
+      },
+      {
+        "word": "it",
+        "start_offset": 1726,
+        "end_offset": 1730,
+        "start": 138.08,
+        "end": 138.4
+      },
+      {
+        "word": "was",
+        "start_offset": 1734,
+        "end_offset": 1738,
+        "start": 138.72,
+        "end": 139.04
+      },
+      {
+        "word": "desired",
+        "start_offset": 1746,
+        "end_offset": 1758,
+        "start": 139.68,
+        "end": 140.64000000000001
+      },
+      {
+        "word": "by",
+        "start_offset": 1778,
+        "end_offset": 1782,
+        "start": 142.24,
+        "end": 142.56
+      },
+      {
+        "word": "your",
+        "start_offset": 1786,
+        "end_offset": 1790,
+        "start": 142.88,
+        "end": 143.20000000000002
+      },
+      {
+        "word": "peoples",
+        "start_offset": 1798,
+        "end_offset": 1810,
+        "start": 143.84,
+        "end": 144.8
+      },
+      {
+        "word": "from",
+        "start_offset": 1847,
+        "end_offset": 1851,
+        "start": 147.76,
+        "end": 148.08
+      },
+      {
+        "word": "this",
+        "start_offset": 1859,
+        "end_offset": 1863,
+        "start": 148.72,
+        "end": 149.04
+      },
+      {
+        "word": "point",
+        "start_offset": 1871,
+        "end_offset": 1875,
+        "start": 149.68,
+        "end": 150.0
+      },
+      {
+        "word": "forward,",
+        "start_offset": 1887,
+        "end_offset": 1895,
+        "start": 150.96,
+        "end": 151.6
+      },
+      {
+        "word": "your",
+        "start_offset": 1919,
+        "end_offset": 1923,
+        "start": 153.52,
+        "end": 153.84
+      },
+      {
+        "word": "reasoning",
+        "start_offset": 1931,
+        "end_offset": 1945,
+        "start": 154.48,
+        "end": 155.6
+      },
+      {
+        "word": "is",
+        "start_offset": 1961,
+        "end_offset": 1965,
+        "start": 156.88,
+        "end": 157.20000000000002
+      },
+      {
+        "word": "correct",
+        "start_offset": 1973,
+        "end_offset": 1988,
+        "start": 157.84,
+        "end": 159.04
+      },
+      {
+        "word": "in",
+        "start_offset": 2008,
+        "end_offset": 2012,
+        "start": 160.64000000000001,
+        "end": 160.96
+      },
+      {
+        "word": "that",
+        "start_offset": 2016,
+        "end_offset": 2020,
+        "start": 161.28,
+        "end": 161.6
+      },
+      {
+        "word": "entities",
+        "start_offset": 2044,
+        "end_offset": 2056,
+        "start": 163.52,
+        "end": 164.48
+      },
+      {
+        "word": "had",
+        "start_offset": 2080,
+        "end_offset": 2084,
+        "start": 166.4,
+        "end": 166.72
+      },
+      {
+        "word": "desired",
+        "start_offset": 2096,
+        "end_offset": 2108,
+        "start": 167.68,
+        "end": 168.64000000000001
+      },
+      {
+        "word": "the",
+        "start_offset": 2124,
+        "end_offset": 2128,
+        "start": 169.92000000000002,
+        "end": 170.24
+      },
+      {
+        "word": "second",
+        "start_offset": 2132,
+        "end_offset": 2144,
+        "start": 170.56,
+        "end": 171.52
+      },
+      {
+        "word": "chance",
+        "start_offset": 2156,
+        "end_offset": 2164,
+        "start": 172.48,
+        "end": 173.12
+      },
+      {
+        "word": "which",
+        "start_offset": 2183,
+        "end_offset": 2187,
+        "start": 174.64000000000001,
+        "end": 174.96
+      },
+      {
+        "word": "you",
+        "start_offset": 2199,
+        "end_offset": 2203,
+        "start": 175.92000000000002,
+        "end": 176.24
+      },
+      {
+        "word": "mentioned.",
+        "start_offset": 2215,
+        "end_offset": 2227,
+        "start": 177.20000000000002,
+        "end": 178.16
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "038-02.mp3",
+    "audio_duration": 180.04,
+    "transcription_time": 0.25,
+    "rtfx": 734.36,
+    "timestamp": "2026-01-06T21:50:30.791549+00:00"
+  }
+}

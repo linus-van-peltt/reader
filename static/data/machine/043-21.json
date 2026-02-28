@@ -1,0 +1,247 @@
+{
+  "text": "What type of food would this be? I am Ra. You would call this type of food a nectar or ambrosia or a light broth of a golden white hue.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What type of food would this be?",
+        "start_offset": 16,
+        "end_offset": 45,
+        "start": 1.28,
+        "end": 3.6
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 98,
+        "end_offset": 129,
+        "start": 7.84,
+        "end": 10.32
+      },
+      {
+        "segment": "You would call this type of food a nectar or ambrosia or a light broth of a golden white hue.",
+        "start_offset": 148,
+        "end_offset": 463,
+        "start": 11.84,
+        "end": 37.04
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 16,
+        "end_offset": 22,
+        "start": 1.28,
+        "end": 1.76
+      },
+      {
+        "word": "type",
+        "start_offset": 22,
+        "end_offset": 25,
+        "start": 1.76,
+        "end": 2.0
+      },
+      {
+        "word": "of",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 2.0,
+        "end": 2.24
+      },
+      {
+        "word": "food",
+        "start_offset": 28,
+        "end_offset": 33,
+        "start": 2.24,
+        "end": 2.64
+      },
+      {
+        "word": "would",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 2.64,
+        "end": 2.96
+      },
+      {
+        "word": "this",
+        "start_offset": 37,
+        "end_offset": 41,
+        "start": 2.96,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "be?",
+        "start_offset": 41,
+        "end_offset": 45,
+        "start": 3.2800000000000002,
+        "end": 3.6
+      },
+      {
+        "word": "I",
+        "start_offset": 98,
+        "end_offset": 102,
+        "start": 7.84,
+        "end": 8.16
+      },
+      {
+        "word": "am",
+        "start_offset": 110,
+        "end_offset": 114,
+        "start": 8.8,
+        "end": 9.120000000000001
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 125,
+        "end_offset": 129,
+        "start": 10.0,
+        "end": 10.32
+      },
+      {
+        "word": "You",
+        "start_offset": 148,
+        "end_offset": 152,
+        "start": 11.84,
+        "end": 12.16
+      },
+      {
+        "word": "would",
+        "start_offset": 164,
+        "end_offset": 168,
+        "start": 13.120000000000001,
+        "end": 13.44
+      },
+      {
+        "word": "call",
+        "start_offset": 176,
+        "end_offset": 184,
+        "start": 14.08,
+        "end": 14.72
+      },
+      {
+        "word": "this",
+        "start_offset": 196,
+        "end_offset": 200,
+        "start": 15.68,
+        "end": 16.0
+      },
+      {
+        "word": "type",
+        "start_offset": 208,
+        "end_offset": 216,
+        "start": 16.64,
+        "end": 17.28
+      },
+      {
+        "word": "of",
+        "start_offset": 224,
+        "end_offset": 228,
+        "start": 17.92,
+        "end": 18.240000000000002
+      },
+      {
+        "word": "food",
+        "start_offset": 237,
+        "end_offset": 245,
+        "start": 18.96,
+        "end": 19.6
+      },
+      {
+        "word": "a",
+        "start_offset": 258,
+        "end_offset": 262,
+        "start": 20.64,
+        "end": 20.96
+      },
+      {
+        "word": "nectar",
+        "start_offset": 262,
+        "end_offset": 274,
+        "start": 20.96,
+        "end": 21.92
+      },
+      {
+        "word": "or",
+        "start_offset": 286,
+        "end_offset": 290,
+        "start": 22.88,
+        "end": 23.2
+      },
+      {
+        "word": "ambrosia",
+        "start_offset": 302,
+        "end_offset": 317,
+        "start": 24.16,
+        "end": 25.36
+      },
+      {
+        "word": "or",
+        "start_offset": 334,
+        "end_offset": 338,
+        "start": 26.72,
+        "end": 27.04
+      },
+      {
+        "word": "a",
+        "start_offset": 350,
+        "end_offset": 354,
+        "start": 28.0,
+        "end": 28.32
+      },
+      {
+        "word": "light",
+        "start_offset": 362,
+        "end_offset": 370,
+        "start": 28.96,
+        "end": 29.6
+      },
+      {
+        "word": "broth",
+        "start_offset": 382,
+        "end_offset": 394,
+        "start": 30.560000000000002,
+        "end": 31.52
+      },
+      {
+        "word": "of",
+        "start_offset": 406,
+        "end_offset": 410,
+        "start": 32.480000000000004,
+        "end": 32.8
+      },
+      {
+        "word": "a",
+        "start_offset": 417,
+        "end_offset": 421,
+        "start": 33.36,
+        "end": 33.68
+      },
+      {
+        "word": "golden",
+        "start_offset": 421,
+        "end_offset": 429,
+        "start": 33.68,
+        "end": 34.32
+      },
+      {
+        "word": "white",
+        "start_offset": 439,
+        "end_offset": 447,
+        "start": 35.12,
+        "end": 35.76
+      },
+      {
+        "word": "hue.",
+        "start_offset": 455,
+        "end_offset": 463,
+        "start": 36.4,
+        "end": 37.04
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "043-21.mp3",
+    "audio_duration": 39.03,
+    "transcription_time": 0.1,
+    "rtfx": 390.02,
+    "timestamp": "2026-01-06T21:51:13.017301+00:00"
+  }
+}

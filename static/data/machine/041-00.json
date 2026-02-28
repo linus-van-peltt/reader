@@ -1,0 +1,86 @@
+{
+  "text": "Raw forty one, March twentieth. We communicate now.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Raw forty one, March twentieth.",
+        "start_offset": 16,
+        "end_offset": 44,
+        "start": 1.28,
+        "end": 3.52
+      },
+      {
+        "segment": "We communicate now.",
+        "start_offset": 84,
+        "end_offset": 139,
+        "start": 6.72,
+        "end": 11.120000000000001
+      }
+    ],
+    "word": [
+      {
+        "word": "Raw",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 1.28,
+        "end": 1.6
+      },
+      {
+        "word": "forty",
+        "start_offset": 23,
+        "end_offset": 25,
+        "start": 1.84,
+        "end": 2.0
+      },
+      {
+        "word": "one,",
+        "start_offset": 27,
+        "end_offset": 28,
+        "start": 2.16,
+        "end": 2.24
+      },
+      {
+        "word": "March",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 2.48,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "twentieth.",
+        "start_offset": 35,
+        "end_offset": 44,
+        "start": 2.8000000000000003,
+        "end": 3.52
+      },
+      {
+        "word": "We",
+        "start_offset": 84,
+        "end_offset": 88,
+        "start": 6.72,
+        "end": 7.04
+      },
+      {
+        "word": "communicate",
+        "start_offset": 100,
+        "end_offset": 116,
+        "start": 8.0,
+        "end": 9.28
+      },
+      {
+        "word": "now.",
+        "start_offset": 135,
+        "end_offset": 139,
+        "start": 10.8,
+        "end": 11.120000000000001
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "041-00.mp3",
+    "audio_duration": 14.03,
+    "transcription_time": 0.09,
+    "rtfx": 160.8,
+    "timestamp": "2026-01-06T21:50:48.974275+00:00"
+  }
+}

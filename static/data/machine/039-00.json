@@ -1,0 +1,128 @@
+{
+  "text": "Sixteenth, Raw 39, March 16th. The light of the infinite Creator, I communicate how.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Sixteenth, Raw 39, March 16th.",
+        "start_offset": 21,
+        "end_offset": 55,
+        "start": 1.68,
+        "end": 4.4
+      },
+      {
+        "segment": "The light of the infinite Creator, I communicate how.",
+        "start_offset": 62,
+        "end_offset": 290,
+        "start": 4.96,
+        "end": 23.2
+      }
+    ],
+    "word": [
+      {
+        "word": "Sixteenth,",
+        "start_offset": 21,
+        "end_offset": 28,
+        "start": 1.68,
+        "end": 2.24
+      },
+      {
+        "word": "Raw",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 2.4,
+        "end": 2.64
+      },
+      {
+        "word": "39,",
+        "start_offset": 35,
+        "end_offset": 40,
+        "start": 2.8000000000000003,
+        "end": 3.2
+      },
+      {
+        "word": "March",
+        "start_offset": 43,
+        "end_offset": 47,
+        "start": 3.44,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "16th.",
+        "start_offset": 47,
+        "end_offset": 55,
+        "start": 3.7600000000000002,
+        "end": 4.4
+      },
+      {
+        "word": "The",
+        "start_offset": 62,
+        "end_offset": 66,
+        "start": 4.96,
+        "end": 5.28
+      },
+      {
+        "word": "light",
+        "start_offset": 70,
+        "end_offset": 81,
+        "start": 5.6000000000000005,
+        "end": 6.48
+      },
+      {
+        "word": "of",
+        "start_offset": 101,
+        "end_offset": 105,
+        "start": 8.08,
+        "end": 8.4
+      },
+      {
+        "word": "the",
+        "start_offset": 113,
+        "end_offset": 117,
+        "start": 9.040000000000001,
+        "end": 9.36
+      },
+      {
+        "word": "infinite",
+        "start_offset": 133,
+        "end_offset": 145,
+        "start": 10.64,
+        "end": 11.6
+      },
+      {
+        "word": "Creator,",
+        "start_offset": 157,
+        "end_offset": 168,
+        "start": 12.56,
+        "end": 13.44
+      },
+      {
+        "word": "I",
+        "start_offset": 250,
+        "end_offset": 254,
+        "start": 20.0,
+        "end": 20.32
+      },
+      {
+        "word": "communicate",
+        "start_offset": 258,
+        "end_offset": 273,
+        "start": 20.64,
+        "end": 21.84
+      },
+      {
+        "word": "how.",
+        "start_offset": 288,
+        "end_offset": 290,
+        "start": 23.04,
+        "end": 23.2
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "039-00.mp3",
+    "audio_duration": 25.05,
+    "transcription_time": 0.09,
+    "rtfx": 283.65,
+    "timestamp": "2026-01-06T21:50:35.469618+00:00"
+  }
+}

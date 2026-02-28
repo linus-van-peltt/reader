@@ -1,0 +1,467 @@
+{
+  "text": "Is this the reason for the instrument's feeling of uninterrupted weariness? I am Ra. There are portions of your space/time in which this may be said to be symptomatic of the psychic greeting reaction. However, the continual weariness is not due to psychic greeting but is rather an inevitable consequence of this contact.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is this the reason for the instrument's feeling of uninterrupted weariness?",
+        "start_offset": 0,
+        "end_offset": 75,
+        "start": 2.28,
+        "end": 7.921
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 76,
+        "end_offset": 84,
+        "start": 14.582,
+        "end": 16.502
+      },
+      {
+        "segment": "There are portions of your space/time in which this may be said to be symptomatic of the psychic greeting reaction.",
+        "start_offset": 85,
+        "end_offset": 200,
+        "start": 21.623,
+        "end": 58.108
+      },
+      {
+        "segment": "However, the continual weariness is not due to psychic greeting but is rather an inevitable consequence of this contact.",
+        "start_offset": 201,
+        "end_offset": 321,
+        "start": 60.808,
+        "end": 99.894
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.28,
+        "end": 2.36,
+        "score": -8.8733
+      },
+      {
+        "word": "this",
+        "start_offset": 3,
+        "end_offset": 7,
+        "start": 2.38,
+        "end": 2.6,
+        "score": -3.209
+      },
+      {
+        "word": "the",
+        "start_offset": 8,
+        "end_offset": 11,
+        "start": 2.68,
+        "end": 2.76,
+        "score": -2.9317
+      },
+      {
+        "word": "reason",
+        "start_offset": 12,
+        "end_offset": 18,
+        "start": 2.86,
+        "end": 3.26,
+        "score": -3.48
+      },
+      {
+        "word": "for",
+        "start_offset": 19,
+        "end_offset": 22,
+        "start": 3.4,
+        "end": 3.62,
+        "score": -3.6051
+      },
+      {
+        "word": "the",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 3.741,
+        "end": 3.841,
+        "score": -4.6405
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 27,
+        "end_offset": 39,
+        "start": 4.681,
+        "end": 5.201,
+        "score": -6.5356
+      },
+      {
+        "word": "feeling",
+        "start_offset": 40,
+        "end_offset": 47,
+        "start": 5.261,
+        "end": 5.601,
+        "score": -5.3908
+      },
+      {
+        "word": "of",
+        "start_offset": 48,
+        "end_offset": 50,
+        "start": 5.661,
+        "end": 5.741,
+        "score": -6.4417
+      },
+      {
+        "word": "uninterrupted",
+        "start_offset": 51,
+        "end_offset": 64,
+        "start": 5.901,
+        "end": 7.361,
+        "score": -4.0902
+      },
+      {
+        "word": "weariness?",
+        "start_offset": 65,
+        "end_offset": 75,
+        "start": 7.421,
+        "end": 7.921,
+        "score": -4.6871
+      },
+      {
+        "word": "I",
+        "start_offset": 76,
+        "end_offset": 77,
+        "start": 14.582,
+        "end": 14.602,
+        "score": -4.4852
+      },
+      {
+        "word": "am",
+        "start_offset": 78,
+        "end_offset": 80,
+        "start": 15.302,
+        "end": 16.382,
+        "score": -3.3835
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 81,
+        "end_offset": 84,
+        "start": 16.442,
+        "end": 16.502,
+        "score": -5.5282
+      },
+      {
+        "word": "There",
+        "start_offset": 85,
+        "end_offset": 90,
+        "start": 21.623,
+        "end": 22.043,
+        "score": -1.5685
+      },
+      {
+        "word": "are",
+        "start_offset": 91,
+        "end_offset": 94,
+        "start": 22.863,
+        "end": 23.183,
+        "score": -2.1753
+      },
+      {
+        "word": "portions",
+        "start_offset": 95,
+        "end_offset": 103,
+        "start": 24.423,
+        "end": 25.263,
+        "score": -1.0215
+      },
+      {
+        "word": "of",
+        "start_offset": 104,
+        "end_offset": 106,
+        "start": 26.764,
+        "end": 26.984,
+        "score": -1.8646
+      },
+      {
+        "word": "your",
+        "start_offset": 107,
+        "end_offset": 111,
+        "start": 29.004,
+        "end": 29.364,
+        "score": -1.3806
+      },
+      {
+        "word": "space/time",
+        "start_offset": 112,
+        "end_offset": 122,
+        "start": 30.524,
+        "end": 31.984,
+        "score": -0.7782
+      },
+      {
+        "word": "in",
+        "start_offset": 123,
+        "end_offset": 125,
+        "start": 33.665,
+        "end": 33.905,
+        "score": -1.2079
+      },
+      {
+        "word": "which",
+        "start_offset": 126,
+        "end_offset": 131,
+        "start": 35.465,
+        "end": 35.865,
+        "score": -2.7243
+      },
+      {
+        "word": "this",
+        "start_offset": 132,
+        "end_offset": 136,
+        "start": 37.225,
+        "end": 37.645,
+        "score": -1.3067
+      },
+      {
+        "word": "may",
+        "start_offset": 137,
+        "end_offset": 140,
+        "start": 39.465,
+        "end": 39.765,
+        "score": -0.7823
+      },
+      {
+        "word": "be",
+        "start_offset": 141,
+        "end_offset": 143,
+        "start": 40.526,
+        "end": 40.646,
+        "score": -0.7941
+      },
+      {
+        "word": "said",
+        "start_offset": 144,
+        "end_offset": 148,
+        "start": 41.066,
+        "end": 41.646,
+        "score": -2.4513
+      },
+      {
+        "word": "to",
+        "start_offset": 149,
+        "end_offset": 151,
+        "start": 42.006,
+        "end": 42.166,
+        "score": -0.8056
+      },
+      {
+        "word": "be",
+        "start_offset": 152,
+        "end_offset": 154,
+        "start": 42.666,
+        "end": 42.786,
+        "score": -1.0015
+      },
+      {
+        "word": "symptomatic",
+        "start_offset": 155,
+        "end_offset": 166,
+        "start": 46.046,
+        "end": 47.927,
+        "score": -0.9914
+      },
+      {
+        "word": "of",
+        "start_offset": 167,
+        "end_offset": 169,
+        "start": 50.047,
+        "end": 50.367,
+        "score": -1.5563
+      },
+      {
+        "word": "the",
+        "start_offset": 170,
+        "end_offset": 173,
+        "start": 50.647,
+        "end": 50.787,
+        "score": -2.6133
+      },
+      {
+        "word": "psychic",
+        "start_offset": 174,
+        "end_offset": 181,
+        "start": 52.307,
+        "end": 53.287,
+        "score": -2.4698
+      },
+      {
+        "word": "greeting",
+        "start_offset": 182,
+        "end_offset": 190,
+        "start": 54.888,
+        "end": 55.468,
+        "score": -0.9481
+      },
+      {
+        "word": "reaction.",
+        "start_offset": 191,
+        "end_offset": 200,
+        "start": 57.288,
+        "end": 58.108,
+        "score": -0.7786
+      },
+      {
+        "word": "However,",
+        "start_offset": 201,
+        "end_offset": 209,
+        "start": 60.808,
+        "end": 61.708,
+        "score": -0.7517
+      },
+      {
+        "word": "the",
+        "start_offset": 210,
+        "end_offset": 213,
+        "start": 65.369,
+        "end": 65.489,
+        "score": -1.4127
+      },
+      {
+        "word": "continual",
+        "start_offset": 214,
+        "end_offset": 223,
+        "start": 66.649,
+        "end": 68.289,
+        "score": -0.7201
+      },
+      {
+        "word": "weariness",
+        "start_offset": 224,
+        "end_offset": 233,
+        "start": 70.07,
+        "end": 70.99,
+        "score": -1.4036
+      },
+      {
+        "word": "is",
+        "start_offset": 234,
+        "end_offset": 236,
+        "start": 74.03,
+        "end": 74.35,
+        "score": -0.7663
+      },
+      {
+        "word": "not",
+        "start_offset": 237,
+        "end_offset": 240,
+        "start": 74.63,
+        "end": 74.99,
+        "score": -0.7443
+      },
+      {
+        "word": "due",
+        "start_offset": 241,
+        "end_offset": 244,
+        "start": 75.65,
+        "end": 75.89,
+        "score": -2.923
+      },
+      {
+        "word": "to",
+        "start_offset": 245,
+        "end_offset": 247,
+        "start": 77.791,
+        "end": 77.971,
+        "score": -1.7566
+      },
+      {
+        "word": "psychic",
+        "start_offset": 248,
+        "end_offset": 255,
+        "start": 79.551,
+        "end": 80.691,
+        "score": -2.5237
+      },
+      {
+        "word": "greeting",
+        "start_offset": 256,
+        "end_offset": 264,
+        "start": 81.931,
+        "end": 82.691,
+        "score": -1.0387
+      },
+      {
+        "word": "but",
+        "start_offset": 265,
+        "end_offset": 268,
+        "start": 84.532,
+        "end": 84.852,
+        "score": -0.8227
+      },
+      {
+        "word": "is",
+        "start_offset": 269,
+        "end_offset": 271,
+        "start": 85.612,
+        "end": 85.932,
+        "score": -0.7491
+      },
+      {
+        "word": "rather",
+        "start_offset": 272,
+        "end_offset": 278,
+        "start": 87.152,
+        "end": 87.632,
+        "score": -0.7207
+      },
+      {
+        "word": "an",
+        "start_offset": 279,
+        "end_offset": 281,
+        "start": 89.232,
+        "end": 89.612,
+        "score": -0.7852
+      },
+      {
+        "word": "inevitable",
+        "start_offset": 282,
+        "end_offset": 292,
+        "start": 89.712,
+        "end": 91.253,
+        "score": -0.8901
+      },
+      {
+        "word": "consequence",
+        "start_offset": 293,
+        "end_offset": 304,
+        "start": 92.513,
+        "end": 93.993,
+        "score": -0.8549
+      },
+      {
+        "word": "of",
+        "start_offset": 305,
+        "end_offset": 307,
+        "start": 96.113,
+        "end": 96.153,
+        "score": -4.7519
+      },
+      {
+        "word": "this",
+        "start_offset": 308,
+        "end_offset": 312,
+        "start": 98.033,
+        "end": 98.334,
+        "score": -0.8807
+      },
+      {
+        "word": "contact.",
+        "start_offset": 313,
+        "end_offset": 321,
+        "start": 98.954,
+        "end": 99.894,
+        "score": -0.9014
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "081-02.mp3",
+    "audio_duration": 116.0359,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

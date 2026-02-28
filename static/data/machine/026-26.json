@@ -1,0 +1,359 @@
+{
+  "text": "Can you tell me the condition of the entities who were Chaosai killed in Nagasaki and Hiroshima at this time? What is their condition? I am raising trauma have not yet fully begun the healing process. They are being helped as much as is possible.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me the condition of the entities who were Chaosai killed in Nagasaki and Hiroshima at this time?",
+        "start_offset": 23,
+        "end_offset": 175,
+        "start": 1.84,
+        "end": 14.0
+      },
+      {
+        "segment": "What is their condition?",
+        "start_offset": 177,
+        "end_offset": 201,
+        "start": 14.16,
+        "end": 16.080000000000002
+      },
+      {
+        "segment": "I am raising trauma have not yet fully begun the healing process.",
+        "start_offset": 264,
+        "end_offset": 573,
+        "start": 21.12,
+        "end": 45.84
+      },
+      {
+        "segment": "They are being helped as much as is possible.",
+        "start_offset": 612,
+        "end_offset": 768,
+        "start": 48.96,
+        "end": 61.44
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 1.84,
+        "end": 2.16
+      },
+      {
+        "word": "you",
+        "start_offset": 29,
+        "end_offset": 32,
+        "start": 2.32,
+        "end": 2.56
+      },
+      {
+        "word": "tell",
+        "start_offset": 32,
+        "end_offset": 40,
+        "start": 2.56,
+        "end": 3.2
+      },
+      {
+        "word": "me",
+        "start_offset": 40,
+        "end_offset": 44,
+        "start": 3.2,
+        "end": 3.52
+      },
+      {
+        "word": "the",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 4.48,
+        "end": 4.8
+      },
+      {
+        "word": "condition",
+        "start_offset": 60,
+        "end_offset": 68,
+        "start": 4.8,
+        "end": 5.44
+      },
+      {
+        "word": "of",
+        "start_offset": 71,
+        "end_offset": 74,
+        "start": 5.68,
+        "end": 5.92
+      },
+      {
+        "word": "the",
+        "start_offset": 74,
+        "end_offset": 78,
+        "start": 5.92,
+        "end": 6.24
+      },
+      {
+        "word": "entities",
+        "start_offset": 78,
+        "end_offset": 88,
+        "start": 6.24,
+        "end": 7.04
+      },
+      {
+        "word": "who",
+        "start_offset": 88,
+        "end_offset": 92,
+        "start": 7.04,
+        "end": 7.36
+      },
+      {
+        "word": "were",
+        "start_offset": 92,
+        "end_offset": 96,
+        "start": 7.36,
+        "end": 7.68
+      },
+      {
+        "word": "Chaosai",
+        "start_offset": 107,
+        "end_offset": 118,
+        "start": 8.56,
+        "end": 9.44
+      },
+      {
+        "word": "killed",
+        "start_offset": 120,
+        "end_offset": 130,
+        "start": 9.6,
+        "end": 10.4
+      },
+      {
+        "word": "in",
+        "start_offset": 133,
+        "end_offset": 136,
+        "start": 10.64,
+        "end": 10.88
+      },
+      {
+        "word": "Nagasaki",
+        "start_offset": 136,
+        "end_offset": 146,
+        "start": 10.88,
+        "end": 11.68
+      },
+      {
+        "word": "and",
+        "start_offset": 148,
+        "end_offset": 149,
+        "start": 11.84,
+        "end": 11.92
+      },
+      {
+        "word": "Hiroshima",
+        "start_offset": 149,
+        "end_offset": 163,
+        "start": 11.92,
+        "end": 13.040000000000001
+      },
+      {
+        "word": "at",
+        "start_offset": 165,
+        "end_offset": 168,
+        "start": 13.200000000000001,
+        "end": 13.44
+      },
+      {
+        "word": "this",
+        "start_offset": 168,
+        "end_offset": 172,
+        "start": 13.44,
+        "end": 13.76
+      },
+      {
+        "word": "time?",
+        "start_offset": 172,
+        "end_offset": 175,
+        "start": 13.76,
+        "end": 14.0
+      },
+      {
+        "word": "What",
+        "start_offset": 177,
+        "end_offset": 181,
+        "start": 14.16,
+        "end": 14.48
+      },
+      {
+        "word": "is",
+        "start_offset": 181,
+        "end_offset": 185,
+        "start": 14.48,
+        "end": 14.8
+      },
+      {
+        "word": "their",
+        "start_offset": 185,
+        "end_offset": 189,
+        "start": 14.8,
+        "end": 15.120000000000001
+      },
+      {
+        "word": "condition?",
+        "start_offset": 193,
+        "end_offset": 201,
+        "start": 15.44,
+        "end": 16.080000000000002
+      },
+      {
+        "word": "I",
+        "start_offset": 264,
+        "end_offset": 268,
+        "start": 21.12,
+        "end": 21.44
+      },
+      {
+        "word": "am",
+        "start_offset": 280,
+        "end_offset": 284,
+        "start": 22.400000000000002,
+        "end": 22.72
+      },
+      {
+        "word": "raising",
+        "start_offset": 299,
+        "end_offset": 399,
+        "start": 23.92,
+        "end": 31.92
+      },
+      {
+        "word": "trauma",
+        "start_offset": 407,
+        "end_offset": 415,
+        "start": 32.56,
+        "end": 33.2
+      },
+      {
+        "word": "have",
+        "start_offset": 442,
+        "end_offset": 446,
+        "start": 35.36,
+        "end": 35.68
+      },
+      {
+        "word": "not",
+        "start_offset": 454,
+        "end_offset": 458,
+        "start": 36.32,
+        "end": 36.64
+      },
+      {
+        "word": "yet",
+        "start_offset": 469,
+        "end_offset": 477,
+        "start": 37.52,
+        "end": 38.160000000000004
+      },
+      {
+        "word": "fully",
+        "start_offset": 489,
+        "end_offset": 501,
+        "start": 39.12,
+        "end": 40.08
+      },
+      {
+        "word": "begun",
+        "start_offset": 509,
+        "end_offset": 517,
+        "start": 40.72,
+        "end": 41.36
+      },
+      {
+        "word": "the",
+        "start_offset": 533,
+        "end_offset": 537,
+        "start": 42.64,
+        "end": 42.96
+      },
+      {
+        "word": "healing",
+        "start_offset": 541,
+        "end_offset": 553,
+        "start": 43.28,
+        "end": 44.24
+      },
+      {
+        "word": "process.",
+        "start_offset": 565,
+        "end_offset": 573,
+        "start": 45.2,
+        "end": 45.84
+      },
+      {
+        "word": "They",
+        "start_offset": 612,
+        "end_offset": 620,
+        "start": 48.96,
+        "end": 49.6
+      },
+      {
+        "word": "are",
+        "start_offset": 632,
+        "end_offset": 636,
+        "start": 50.56,
+        "end": 50.88
+      },
+      {
+        "word": "being",
+        "start_offset": 648,
+        "end_offset": 656,
+        "start": 51.84,
+        "end": 52.480000000000004
+      },
+      {
+        "word": "helped",
+        "start_offset": 676,
+        "end_offset": 688,
+        "start": 54.08,
+        "end": 55.04
+      },
+      {
+        "word": "as",
+        "start_offset": 700,
+        "end_offset": 704,
+        "start": 56.0,
+        "end": 56.32
+      },
+      {
+        "word": "much",
+        "start_offset": 708,
+        "end_offset": 712,
+        "start": 56.64,
+        "end": 56.96
+      },
+      {
+        "word": "as",
+        "start_offset": 732,
+        "end_offset": 736,
+        "start": 58.56,
+        "end": 58.88
+      },
+      {
+        "word": "is",
+        "start_offset": 744,
+        "end_offset": 748,
+        "start": 59.52,
+        "end": 59.84
+      },
+      {
+        "word": "possible.",
+        "start_offset": 756,
+        "end_offset": 768,
+        "start": 60.480000000000004,
+        "end": 61.44
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "026-26.mp3",
+    "audio_duration": 65.04,
+    "transcription_time": 0.13,
+    "rtfx": 512.89,
+    "timestamp": "2026-01-06T21:49:06.816456+00:00"
+  }
+}

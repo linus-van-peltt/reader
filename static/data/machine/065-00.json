@@ -1,0 +1,212 @@
+{
+  "text": "Raw number sixty-five, August eighth, nineteen eighty-one. I greet you in the lava and in the light of the one infinite creator. We communicate now.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Raw number sixty-five, August eighth, nineteen eighty-one.",
+        "start_offset": 56,
+        "end_offset": 106,
+        "start": 4.48,
+        "end": 8.48
+      },
+      {
+        "segment": "I greet you in the lava and in the light of the one infinite creator.",
+        "start_offset": 132,
+        "end_offset": 393,
+        "start": 10.56,
+        "end": 31.44
+      },
+      {
+        "segment": "We communicate now.",
+        "start_offset": 441,
+        "end_offset": 481,
+        "start": 35.28,
+        "end": 38.480000000000004
+      }
+    ],
+    "word": [
+      {
+        "word": "Raw",
+        "start_offset": 56,
+        "end_offset": 62,
+        "start": 4.48,
+        "end": 4.96
+      },
+      {
+        "word": "number",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 5.12,
+        "end": 5.36
+      },
+      {
+        "word": "sixty-five,",
+        "start_offset": 68,
+        "end_offset": 76,
+        "start": 5.44,
+        "end": 6.08
+      },
+      {
+        "word": "August",
+        "start_offset": 79,
+        "end_offset": 85,
+        "start": 6.32,
+        "end": 6.8
+      },
+      {
+        "word": "eighth,",
+        "start_offset": 85,
+        "end_offset": 92,
+        "start": 6.8,
+        "end": 7.36
+      },
+      {
+        "word": "nineteen",
+        "start_offset": 94,
+        "end_offset": 99,
+        "start": 7.5200000000000005,
+        "end": 7.92
+      },
+      {
+        "word": "eighty-one.",
+        "start_offset": 99,
+        "end_offset": 106,
+        "start": 7.92,
+        "end": 8.48
+      },
+      {
+        "word": "I",
+        "start_offset": 132,
+        "end_offset": 136,
+        "start": 10.56,
+        "end": 10.88
+      },
+      {
+        "word": "greet",
+        "start_offset": 144,
+        "end_offset": 152,
+        "start": 11.52,
+        "end": 12.16
+      },
+      {
+        "word": "you",
+        "start_offset": 156,
+        "end_offset": 160,
+        "start": 12.48,
+        "end": 12.8
+      },
+      {
+        "word": "in",
+        "start_offset": 184,
+        "end_offset": 188,
+        "start": 14.72,
+        "end": 15.040000000000001
+      },
+      {
+        "word": "the",
+        "start_offset": 192,
+        "end_offset": 196,
+        "start": 15.36,
+        "end": 15.68
+      },
+      {
+        "word": "lava",
+        "start_offset": 204,
+        "end_offset": 212,
+        "start": 16.32,
+        "end": 16.96
+      },
+      {
+        "word": "and",
+        "start_offset": 232,
+        "end_offset": 236,
+        "start": 18.56,
+        "end": 18.88
+      },
+      {
+        "word": "in",
+        "start_offset": 256,
+        "end_offset": 260,
+        "start": 20.48,
+        "end": 20.8
+      },
+      {
+        "word": "the",
+        "start_offset": 268,
+        "end_offset": 272,
+        "start": 21.44,
+        "end": 21.76
+      },
+      {
+        "word": "light",
+        "start_offset": 288,
+        "end_offset": 296,
+        "start": 23.04,
+        "end": 23.68
+      },
+      {
+        "word": "of",
+        "start_offset": 316,
+        "end_offset": 320,
+        "start": 25.28,
+        "end": 25.6
+      },
+      {
+        "word": "the",
+        "start_offset": 324,
+        "end_offset": 328,
+        "start": 25.92,
+        "end": 26.240000000000002
+      },
+      {
+        "word": "one",
+        "start_offset": 332,
+        "end_offset": 335,
+        "start": 26.560000000000002,
+        "end": 26.8
+      },
+      {
+        "word": "infinite",
+        "start_offset": 359,
+        "end_offset": 374,
+        "start": 28.72,
+        "end": 29.92
+      },
+      {
+        "word": "creator.",
+        "start_offset": 385,
+        "end_offset": 393,
+        "start": 30.8,
+        "end": 31.44
+      },
+      {
+        "word": "We",
+        "start_offset": 441,
+        "end_offset": 445,
+        "start": 35.28,
+        "end": 35.6
+      },
+      {
+        "word": "communicate",
+        "start_offset": 449,
+        "end_offset": 465,
+        "start": 35.92,
+        "end": 37.2
+      },
+      {
+        "word": "now.",
+        "start_offset": 477,
+        "end_offset": 481,
+        "start": 38.160000000000004,
+        "end": 38.480000000000004
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "065-00.mp3",
+    "audio_duration": 39.03,
+    "transcription_time": 0.1,
+    "rtfx": 386.63,
+    "timestamp": "2026-01-06T21:53:57.996740+00:00"
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "text": "Whose reactor? I am Ra. This was what you may call a \"drone\" sent by Confederation which malfunctioned. It was moved to an area where its destruction would not cause infringement upon the will of mind/body/spirit complexes. It was then detonated.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Whose reactor?",
+        "start_offset": 0,
+        "end_offset": 14,
+        "start": 2.681,
+        "end": 8.342
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 15,
+        "end_offset": 23,
+        "start": 8.362,
+        "end": 8.682
+      },
+      {
+        "segment": "This was what you may call a \"drone\" sent by Confederation which malfunctioned.",
+        "start_offset": 24,
+        "end_offset": 103,
+        "start": 10.103,
+        "end": 26.327
+      },
+      {
+        "segment": "It was moved to an area where its destruction would not cause infringement upon the will of mind/body/spirit complexes.",
+        "start_offset": 104,
+        "end_offset": 223,
+        "start": 27.968,
+        "end": 53.815
+      },
+      {
+        "segment": "It was then detonated.",
+        "start_offset": 224,
+        "end_offset": 246,
+        "start": 55.096,
+        "end": 57.976
+      }
+    ],
+    "word": [
+      {
+        "word": "Whose",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.681,
+        "end": 6.962,
+        "score": -8.0402
+      },
+      {
+        "word": "reactor?",
+        "start_offset": 6,
+        "end_offset": 14,
+        "start": 7.162,
+        "end": 8.342,
+        "score": -6.811
+      },
+      {
+        "word": "I",
+        "start_offset": 15,
+        "end_offset": 16,
+        "start": 8.362,
+        "end": 8.382,
+        "score": -8.2293
+      },
+      {
+        "word": "am",
+        "start_offset": 17,
+        "end_offset": 19,
+        "start": 8.462,
+        "end": 8.522,
+        "score": -5.7399
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 20,
+        "end_offset": 23,
+        "start": 8.622,
+        "end": 8.682,
+        "score": -6.8
+      },
+      {
+        "word": "This",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 10.103,
+        "end": 10.403,
+        "score": -0.7835
+      },
+      {
+        "word": "was",
+        "start_offset": 29,
+        "end_offset": 32,
+        "start": 10.743,
+        "end": 11.143,
+        "score": -0.9165
+      },
+      {
+        "word": "what",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 12.884,
+        "end": 13.124,
+        "score": -0.6994
+      },
+      {
+        "word": "you",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 13.384,
+        "end": 13.504,
+        "score": -0.7081
+      },
+      {
+        "word": "may",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 13.784,
+        "end": 13.964,
+        "score": -0.7077
+      },
+      {
+        "word": "call",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 14.124,
+        "end": 14.564,
+        "score": -0.7078
+      },
+      {
+        "word": "a",
+        "start_offset": 51,
+        "end_offset": 52,
+        "start": 15.264,
+        "end": 15.284,
+        "score": -0.7158
+      },
+      {
+        "word": "\"drone\"",
+        "start_offset": 53,
+        "end_offset": 60,
+        "start": 15.965,
+        "end": 16.525,
+        "score": -0.7984
+      },
+      {
+        "word": "sent",
+        "start_offset": 61,
+        "end_offset": 65,
+        "start": 18.125,
+        "end": 18.505,
+        "score": -0.72
+      },
+      {
+        "word": "by",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 19.305,
+        "end": 19.626,
+        "score": -0.7811
+      },
+      {
+        "word": "Confederation",
+        "start_offset": 69,
+        "end_offset": 82,
+        "start": 20.606,
+        "end": 21.946,
+        "score": -0.696
+      },
+      {
+        "word": "which",
+        "start_offset": 83,
+        "end_offset": 88,
+        "start": 24.067,
+        "end": 24.387,
+        "score": -0.806
+      },
+      {
+        "word": "malfunctioned.",
+        "start_offset": 89,
+        "end_offset": 103,
+        "start": 24.927,
+        "end": 26.327,
+        "score": -0.7871
+      },
+      {
+        "word": "It",
+        "start_offset": 104,
+        "end_offset": 106,
+        "start": 27.968,
+        "end": 28.128,
+        "score": -0.776
+      },
+      {
+        "word": "was",
+        "start_offset": 107,
+        "end_offset": 110,
+        "start": 28.488,
+        "end": 28.928,
+        "score": -0.8931
+      },
+      {
+        "word": "moved",
+        "start_offset": 111,
+        "end_offset": 116,
+        "start": 30.189,
+        "end": 30.669,
+        "score": -0.6958
+      },
+      {
+        "word": "to",
+        "start_offset": 117,
+        "end_offset": 119,
+        "start": 31.189,
+        "end": 31.349,
+        "score": -0.7009
+      },
+      {
+        "word": "an",
+        "start_offset": 120,
+        "end_offset": 122,
+        "start": 31.889,
+        "end": 32.069,
+        "score": -0.7238
+      },
+      {
+        "word": "area",
+        "start_offset": 123,
+        "end_offset": 127,
+        "start": 32.389,
+        "end": 32.869,
+        "score": -0.7098
+      },
+      {
+        "word": "where",
+        "start_offset": 128,
+        "end_offset": 133,
+        "start": 34.27,
+        "end": 34.61,
+        "score": -0.7691
+      },
+      {
+        "word": "its",
+        "start_offset": 134,
+        "end_offset": 137,
+        "start": 36.03,
+        "end": 36.37,
+        "score": -0.7794
+      },
+      {
+        "word": "destruction",
+        "start_offset": 138,
+        "end_offset": 149,
+        "start": 37.611,
+        "end": 38.651,
+        "score": -0.7029
+      },
+      {
+        "word": "would",
+        "start_offset": 150,
+        "end_offset": 155,
+        "start": 39.711,
+        "end": 40.011,
+        "score": -0.7828
+      },
+      {
+        "word": "not",
+        "start_offset": 156,
+        "end_offset": 159,
+        "start": 40.471,
+        "end": 40.812,
+        "score": -0.6987
+      },
+      {
+        "word": "cause",
+        "start_offset": 160,
+        "end_offset": 165,
+        "start": 41.432,
+        "end": 42.032,
+        "score": -0.8405
+      },
+      {
+        "word": "infringement",
+        "start_offset": 166,
+        "end_offset": 178,
+        "start": 44.052,
+        "end": 45.013,
+        "score": -0.7313
+      },
+      {
+        "word": "upon",
+        "start_offset": 179,
+        "end_offset": 183,
+        "start": 45.693,
+        "end": 46.233,
+        "score": -0.7032
+      },
+      {
+        "word": "the",
+        "start_offset": 184,
+        "end_offset": 187,
+        "start": 46.773,
+        "end": 46.893,
+        "score": -0.7916
+      },
+      {
+        "word": "will",
+        "start_offset": 188,
+        "end_offset": 192,
+        "start": 47.914,
+        "end": 48.254,
+        "score": -0.9454
+      },
+      {
+        "word": "of",
+        "start_offset": 193,
+        "end_offset": 195,
+        "start": 48.934,
+        "end": 49.134,
+        "score": -0.8837
+      },
+      {
+        "word": "mind/body/spirit",
+        "start_offset": 196,
+        "end_offset": 212,
+        "start": 50.114,
+        "end": 52.295,
+        "score": -1.176
+      },
+      {
+        "word": "complexes.",
+        "start_offset": 213,
+        "end_offset": 223,
+        "start": 52.815,
+        "end": 53.815,
+        "score": -1.4147
+      },
+      {
+        "word": "It",
+        "start_offset": 224,
+        "end_offset": 226,
+        "start": 55.096,
+        "end": 55.216,
+        "score": -0.7239
+      },
+      {
+        "word": "was",
+        "start_offset": 227,
+        "end_offset": 230,
+        "start": 55.396,
+        "end": 55.776,
+        "score": -0.7172
+      },
+      {
+        "word": "then",
+        "start_offset": 231,
+        "end_offset": 235,
+        "start": 56.096,
+        "end": 56.376,
+        "score": -0.7111
+      },
+      {
+        "word": "detonated.",
+        "start_offset": 236,
+        "end_offset": 246,
+        "start": 56.996,
+        "end": 57.976,
+        "score": -0.7481
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "017-04.mp3",
+    "audio_duration": 59.0367,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

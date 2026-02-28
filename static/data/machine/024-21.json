@@ -1,0 +1,86 @@
+{
+  "text": "Okay. Sorry about you if you have questions.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Okay.",
+        "start_offset": 14,
+        "end_offset": 18,
+        "start": 1.12,
+        "end": 1.44
+      },
+      {
+        "segment": "Sorry about you if you have questions.",
+        "start_offset": 31,
+        "end_offset": 58,
+        "start": 2.48,
+        "end": 4.64
+      }
+    ],
+    "word": [
+      {
+        "word": "Okay.",
+        "start_offset": 14,
+        "end_offset": 18,
+        "start": 1.12,
+        "end": 1.44
+      },
+      {
+        "word": "Sorry",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 2.48,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "about",
+        "start_offset": 36,
+        "end_offset": 37,
+        "start": 2.88,
+        "end": 2.96
+      },
+      {
+        "word": "you",
+        "start_offset": 43,
+        "end_offset": 44,
+        "start": 3.44,
+        "end": 3.52
+      },
+      {
+        "word": "if",
+        "start_offset": 45,
+        "end_offset": 46,
+        "start": 3.6,
+        "end": 3.68
+      },
+      {
+        "word": "you",
+        "start_offset": 46,
+        "end_offset": 47,
+        "start": 3.68,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "have",
+        "start_offset": 49,
+        "end_offset": 50,
+        "start": 3.92,
+        "end": 4.0
+      },
+      {
+        "word": "questions.",
+        "start_offset": 53,
+        "end_offset": 58,
+        "start": 4.24,
+        "end": 4.64
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "024-21.mp3",
+    "audio_duration": 5.54,
+    "transcription_time": 0.08,
+    "rtfx": 69.12,
+    "timestamp": "2026-01-06T21:48:53.901995+00:00"
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "text": "I am wrong. Their purpose is conquest, unlike those of the Confederation who wait for the calling. The so called Orion group calls itself to conquest.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I am wrong.",
+        "start_offset": 325,
+        "end_offset": 367,
+        "start": 26.0,
+        "end": 29.36
+      },
+      {
+        "segment": "Their purpose is conquest, unlike those of the Confederation who wait for the calling.",
+        "start_offset": 385,
+        "end_offset": 680,
+        "start": 30.8,
+        "end": 54.4
+      },
+      {
+        "segment": "The so called Orion group calls itself to conquest.",
+        "start_offset": 703,
+        "end_offset": 870,
+        "start": 56.24,
+        "end": 69.60000000000001
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 325,
+        "end_offset": 329,
+        "start": 26.0,
+        "end": 26.32
+      },
+      {
+        "word": "am",
+        "start_offset": 341,
+        "end_offset": 345,
+        "start": 27.28,
+        "end": 27.6
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 360,
+        "end_offset": 367,
+        "start": 28.8,
+        "end": 29.36
+      },
+      {
+        "word": "Their",
+        "start_offset": 385,
+        "end_offset": 393,
+        "start": 30.8,
+        "end": 31.44
+      },
+      {
+        "word": "purpose",
+        "start_offset": 412,
+        "end_offset": 424,
+        "start": 32.96,
+        "end": 33.92
+      },
+      {
+        "word": "is",
+        "start_offset": 432,
+        "end_offset": 436,
+        "start": 34.56,
+        "end": 34.88
+      },
+      {
+        "word": "conquest,",
+        "start_offset": 456,
+        "end_offset": 479,
+        "start": 36.480000000000004,
+        "end": 38.32
+      },
+      {
+        "word": "unlike",
+        "start_offset": 495,
+        "end_offset": 515,
+        "start": 39.6,
+        "end": 41.2
+      },
+      {
+        "word": "those",
+        "start_offset": 535,
+        "end_offset": 543,
+        "start": 42.800000000000004,
+        "end": 43.44
+      },
+      {
+        "word": "of",
+        "start_offset": 547,
+        "end_offset": 551,
+        "start": 43.76,
+        "end": 44.08
+      },
+      {
+        "word": "the",
+        "start_offset": 555,
+        "end_offset": 559,
+        "start": 44.4,
+        "end": 44.72
+      },
+      {
+        "word": "Confederation",
+        "start_offset": 567,
+        "end_offset": 589,
+        "start": 45.36,
+        "end": 47.12
+      },
+      {
+        "word": "who",
+        "start_offset": 604,
+        "end_offset": 608,
+        "start": 48.32,
+        "end": 48.64
+      },
+      {
+        "word": "wait",
+        "start_offset": 624,
+        "end_offset": 632,
+        "start": 49.92,
+        "end": 50.56
+      },
+      {
+        "word": "for",
+        "start_offset": 640,
+        "end_offset": 644,
+        "start": 51.2,
+        "end": 51.52
+      },
+      {
+        "word": "the",
+        "start_offset": 656,
+        "end_offset": 660,
+        "start": 52.480000000000004,
+        "end": 52.800000000000004
+      },
+      {
+        "word": "calling.",
+        "start_offset": 668,
+        "end_offset": 680,
+        "start": 53.44,
+        "end": 54.4
+      },
+      {
+        "word": "The",
+        "start_offset": 703,
+        "end_offset": 707,
+        "start": 56.24,
+        "end": 56.56
+      },
+      {
+        "word": "so",
+        "start_offset": 731,
+        "end_offset": 735,
+        "start": 58.480000000000004,
+        "end": 58.800000000000004
+      },
+      {
+        "word": "called",
+        "start_offset": 747,
+        "end_offset": 758,
+        "start": 59.76,
+        "end": 60.64
+      },
+      {
+        "word": "Orion",
+        "start_offset": 762,
+        "end_offset": 778,
+        "start": 60.96,
+        "end": 62.24
+      },
+      {
+        "word": "group",
+        "start_offset": 786,
+        "end_offset": 794,
+        "start": 62.88,
+        "end": 63.52
+      },
+      {
+        "word": "calls",
+        "start_offset": 814,
+        "end_offset": 826,
+        "start": 65.12,
+        "end": 66.08
+      },
+      {
+        "word": "itself",
+        "start_offset": 826,
+        "end_offset": 838,
+        "start": 66.08,
+        "end": 67.04
+      },
+      {
+        "word": "to",
+        "start_offset": 850,
+        "end_offset": 854,
+        "start": 68.0,
+        "end": 68.32000000000001
+      },
+      {
+        "word": "conquest.",
+        "start_offset": 858,
+        "end_offset": 870,
+        "start": 68.64,
+        "end": 69.60000000000001
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "008-12.mp3",
+    "audio_duration": 71.03,
+    "transcription_time": 0.13,
+    "rtfx": 560.47,
+    "timestamp": "2026-01-06T21:46:22.797493+00:00"
+  }
+}

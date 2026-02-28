@@ -1,0 +1,415 @@
+{
+  "text": "I'm at a loss to know what to request. Can you give me an idea of what uh area of intervening material I should work on? I am know how ever we shall be happy to answer the original query if it is still desired, if you first perceive that there is information lacking.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I'm at a loss to know what to request.",
+        "start_offset": 31,
+        "end_offset": 66,
+        "start": 2.48,
+        "end": 5.28
+      },
+      {
+        "segment": "Can you give me an idea of what uh area of intervening material I should work on?",
+        "start_offset": 122,
+        "end_offset": 229,
+        "start": 9.76,
+        "end": 18.32
+      },
+      {
+        "segment": "I am know how ever we shall be happy to answer the original query if it is still desired, if you first perceive that there is information lacking.",
+        "start_offset": 272,
+        "end_offset": 841,
+        "start": 21.76,
+        "end": 67.28
+      }
+    ],
+    "word": [
+      {
+        "word": "I'm",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 2.48,
+        "end": 2.72
+      },
+      {
+        "word": "at",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 2.96,
+        "end": 3.12
+      },
+      {
+        "word": "a",
+        "start_offset": 39,
+        "end_offset": 41,
+        "start": 3.12,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "loss",
+        "start_offset": 41,
+        "end_offset": 45,
+        "start": 3.2800000000000002,
+        "end": 3.6
+      },
+      {
+        "word": "to",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 3.6,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "know",
+        "start_offset": 47,
+        "end_offset": 50,
+        "start": 3.7600000000000002,
+        "end": 4.0
+      },
+      {
+        "word": "what",
+        "start_offset": 50,
+        "end_offset": 53,
+        "start": 4.0,
+        "end": 4.24
+      },
+      {
+        "word": "to",
+        "start_offset": 53,
+        "end_offset": 55,
+        "start": 4.24,
+        "end": 4.4
+      },
+      {
+        "word": "request.",
+        "start_offset": 55,
+        "end_offset": 66,
+        "start": 4.4,
+        "end": 5.28
+      },
+      {
+        "word": "Can",
+        "start_offset": 122,
+        "end_offset": 126,
+        "start": 9.76,
+        "end": 10.08
+      },
+      {
+        "word": "you",
+        "start_offset": 126,
+        "end_offset": 130,
+        "start": 10.08,
+        "end": 10.4
+      },
+      {
+        "word": "give",
+        "start_offset": 134,
+        "end_offset": 138,
+        "start": 10.72,
+        "end": 11.040000000000001
+      },
+      {
+        "word": "me",
+        "start_offset": 138,
+        "end_offset": 141,
+        "start": 11.040000000000001,
+        "end": 11.28
+      },
+      {
+        "word": "an",
+        "start_offset": 141,
+        "end_offset": 145,
+        "start": 11.28,
+        "end": 11.6
+      },
+      {
+        "word": "idea",
+        "start_offset": 145,
+        "end_offset": 153,
+        "start": 11.6,
+        "end": 12.24
+      },
+      {
+        "word": "of",
+        "start_offset": 156,
+        "end_offset": 160,
+        "start": 12.48,
+        "end": 12.8
+      },
+      {
+        "word": "what",
+        "start_offset": 160,
+        "end_offset": 164,
+        "start": 12.8,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "uh",
+        "start_offset": 165,
+        "end_offset": 168,
+        "start": 13.200000000000001,
+        "end": 13.44
+      },
+      {
+        "word": "area",
+        "start_offset": 171,
+        "end_offset": 176,
+        "start": 13.68,
+        "end": 14.08
+      },
+      {
+        "word": "of",
+        "start_offset": 176,
+        "end_offset": 179,
+        "start": 14.08,
+        "end": 14.32
+      },
+      {
+        "word": "intervening",
+        "start_offset": 179,
+        "end_offset": 189,
+        "start": 14.32,
+        "end": 15.120000000000001
+      },
+      {
+        "word": "material",
+        "start_offset": 189,
+        "end_offset": 197,
+        "start": 15.120000000000001,
+        "end": 15.76
+      },
+      {
+        "word": "I",
+        "start_offset": 211,
+        "end_offset": 215,
+        "start": 16.88,
+        "end": 17.2
+      },
+      {
+        "word": "should",
+        "start_offset": 215,
+        "end_offset": 221,
+        "start": 17.2,
+        "end": 17.68
+      },
+      {
+        "word": "work",
+        "start_offset": 221,
+        "end_offset": 225,
+        "start": 17.68,
+        "end": 18.0
+      },
+      {
+        "word": "on?",
+        "start_offset": 225,
+        "end_offset": 229,
+        "start": 18.0,
+        "end": 18.32
+      },
+      {
+        "word": "I",
+        "start_offset": 272,
+        "end_offset": 274,
+        "start": 21.76,
+        "end": 21.92
+      },
+      {
+        "word": "am",
+        "start_offset": 287,
+        "end_offset": 291,
+        "start": 22.96,
+        "end": 23.28
+      },
+      {
+        "word": "know",
+        "start_offset": 321,
+        "end_offset": 325,
+        "start": 25.68,
+        "end": 26.0
+      },
+      {
+        "word": "how",
+        "start_offset": 349,
+        "end_offset": 353,
+        "start": 27.92,
+        "end": 28.240000000000002
+      },
+      {
+        "word": "ever",
+        "start_offset": 357,
+        "end_offset": 361,
+        "start": 28.560000000000002,
+        "end": 28.88
+      },
+      {
+        "word": "we",
+        "start_offset": 380,
+        "end_offset": 384,
+        "start": 30.400000000000002,
+        "end": 30.72
+      },
+      {
+        "word": "shall",
+        "start_offset": 392,
+        "end_offset": 400,
+        "start": 31.36,
+        "end": 32.0
+      },
+      {
+        "word": "be",
+        "start_offset": 412,
+        "end_offset": 416,
+        "start": 32.96,
+        "end": 33.28
+      },
+      {
+        "word": "happy",
+        "start_offset": 452,
+        "end_offset": 466,
+        "start": 36.160000000000004,
+        "end": 37.28
+      },
+      {
+        "word": "to",
+        "start_offset": 470,
+        "end_offset": 474,
+        "start": 37.6,
+        "end": 37.92
+      },
+      {
+        "word": "answer",
+        "start_offset": 482,
+        "end_offset": 490,
+        "start": 38.56,
+        "end": 39.2
+      },
+      {
+        "word": "the",
+        "start_offset": 510,
+        "end_offset": 514,
+        "start": 40.800000000000004,
+        "end": 41.12
+      },
+      {
+        "word": "original",
+        "start_offset": 522,
+        "end_offset": 534,
+        "start": 41.76,
+        "end": 42.72
+      },
+      {
+        "word": "query",
+        "start_offset": 542,
+        "end_offset": 550,
+        "start": 43.36,
+        "end": 44.0
+      },
+      {
+        "word": "if",
+        "start_offset": 564,
+        "end_offset": 568,
+        "start": 45.12,
+        "end": 45.44
+      },
+      {
+        "word": "it",
+        "start_offset": 572,
+        "end_offset": 576,
+        "start": 45.76,
+        "end": 46.08
+      },
+      {
+        "word": "is",
+        "start_offset": 580,
+        "end_offset": 584,
+        "start": 46.4,
+        "end": 46.72
+      },
+      {
+        "word": "still",
+        "start_offset": 596,
+        "end_offset": 604,
+        "start": 47.68,
+        "end": 48.32
+      },
+      {
+        "word": "desired,",
+        "start_offset": 615,
+        "end_offset": 627,
+        "start": 49.2,
+        "end": 50.160000000000004
+      },
+      {
+        "word": "if",
+        "start_offset": 648,
+        "end_offset": 652,
+        "start": 51.84,
+        "end": 52.160000000000004
+      },
+      {
+        "word": "you",
+        "start_offset": 660,
+        "end_offset": 664,
+        "start": 52.800000000000004,
+        "end": 53.120000000000005
+      },
+      {
+        "word": "first",
+        "start_offset": 688,
+        "end_offset": 692,
+        "start": 55.04,
+        "end": 55.36
+      },
+      {
+        "word": "perceive",
+        "start_offset": 712,
+        "end_offset": 726,
+        "start": 56.96,
+        "end": 58.08
+      },
+      {
+        "word": "that",
+        "start_offset": 742,
+        "end_offset": 746,
+        "start": 59.36,
+        "end": 59.68
+      },
+      {
+        "word": "there",
+        "start_offset": 754,
+        "end_offset": 758,
+        "start": 60.32,
+        "end": 60.64
+      },
+      {
+        "word": "is",
+        "start_offset": 766,
+        "end_offset": 770,
+        "start": 61.28,
+        "end": 61.6
+      },
+      {
+        "word": "information",
+        "start_offset": 798,
+        "end_offset": 814,
+        "start": 63.84,
+        "end": 65.12
+      },
+      {
+        "word": "lacking.",
+        "start_offset": 829,
+        "end_offset": 841,
+        "start": 66.32000000000001,
+        "end": 67.28
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "086-17.mp3",
+    "audio_duration": 75.05,
+    "transcription_time": 0.13,
+    "rtfx": 574.5,
+    "timestamp": "2026-01-06T21:57:48.981493+00:00"
+  }
+}

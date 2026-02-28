@@ -1,0 +1,296 @@
+{
+  "text": "I'd like to ask a question first for the instrument herself. She requests to know if it would be advisable for her to walk alone now that she feels better. I am wrong. This is acceptable.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I'd like to ask a question first for the instrument herself.",
+        "start_offset": 29,
+        "end_offset": 77,
+        "start": 2.32,
+        "end": 6.16
+      },
+      {
+        "segment": "She requests to know if it would be advisable for her to walk alone now that she feels better.",
+        "start_offset": 81,
+        "end_offset": 180,
+        "start": 6.48,
+        "end": 14.4
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 260,
+        "end_offset": 296,
+        "start": 20.8,
+        "end": 23.68
+      },
+      {
+        "segment": "This is acceptable.",
+        "start_offset": 316,
+        "end_offset": 368,
+        "start": 25.28,
+        "end": 29.44
+      }
+    ],
+    "word": [
+      {
+        "word": "I'd",
+        "start_offset": 29,
+        "end_offset": 35,
+        "start": 2.32,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "like",
+        "start_offset": 35,
+        "end_offset": 37,
+        "start": 2.8000000000000003,
+        "end": 2.96
+      },
+      {
+        "word": "to",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 2.96,
+        "end": 3.12
+      },
+      {
+        "word": "ask",
+        "start_offset": 39,
+        "end_offset": 44,
+        "start": 3.12,
+        "end": 3.52
+      },
+      {
+        "word": "a",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 3.52,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "question",
+        "start_offset": 47,
+        "end_offset": 53,
+        "start": 3.7600000000000002,
+        "end": 4.24
+      },
+      {
+        "word": "first",
+        "start_offset": 53,
+        "end_offset": 57,
+        "start": 4.24,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "for",
+        "start_offset": 57,
+        "end_offset": 59,
+        "start": 4.5600000000000005,
+        "end": 4.72
+      },
+      {
+        "word": "the",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 4.72,
+        "end": 4.96
+      },
+      {
+        "word": "instrument",
+        "start_offset": 62,
+        "end_offset": 70,
+        "start": 4.96,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "herself.",
+        "start_offset": 70,
+        "end_offset": 77,
+        "start": 5.6000000000000005,
+        "end": 6.16
+      },
+      {
+        "word": "She",
+        "start_offset": 81,
+        "end_offset": 87,
+        "start": 6.48,
+        "end": 6.96
+      },
+      {
+        "word": "requests",
+        "start_offset": 87,
+        "end_offset": 100,
+        "start": 6.96,
+        "end": 8.0
+      },
+      {
+        "word": "to",
+        "start_offset": 104,
+        "end_offset": 108,
+        "start": 8.32,
+        "end": 8.64
+      },
+      {
+        "word": "know",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 8.64,
+        "end": 8.96
+      },
+      {
+        "word": "if",
+        "start_offset": 116,
+        "end_offset": 120,
+        "start": 9.28,
+        "end": 9.6
+      },
+      {
+        "word": "it",
+        "start_offset": 120,
+        "end_offset": 123,
+        "start": 9.6,
+        "end": 9.84
+      },
+      {
+        "word": "would",
+        "start_offset": 123,
+        "end_offset": 125,
+        "start": 9.84,
+        "end": 10.0
+      },
+      {
+        "word": "be",
+        "start_offset": 125,
+        "end_offset": 128,
+        "start": 10.0,
+        "end": 10.24
+      },
+      {
+        "word": "advisable",
+        "start_offset": 128,
+        "end_offset": 134,
+        "start": 10.24,
+        "end": 10.72
+      },
+      {
+        "word": "for",
+        "start_offset": 137,
+        "end_offset": 140,
+        "start": 10.96,
+        "end": 11.200000000000001
+      },
+      {
+        "word": "her",
+        "start_offset": 140,
+        "end_offset": 143,
+        "start": 11.200000000000001,
+        "end": 11.44
+      },
+      {
+        "word": "to",
+        "start_offset": 143,
+        "end_offset": 146,
+        "start": 11.44,
+        "end": 11.68
+      },
+      {
+        "word": "walk",
+        "start_offset": 146,
+        "end_offset": 150,
+        "start": 11.68,
+        "end": 12.0
+      },
+      {
+        "word": "alone",
+        "start_offset": 150,
+        "end_offset": 156,
+        "start": 12.0,
+        "end": 12.48
+      },
+      {
+        "word": "now",
+        "start_offset": 156,
+        "end_offset": 159,
+        "start": 12.48,
+        "end": 12.72
+      },
+      {
+        "word": "that",
+        "start_offset": 159,
+        "end_offset": 162,
+        "start": 12.72,
+        "end": 12.96
+      },
+      {
+        "word": "she",
+        "start_offset": 162,
+        "end_offset": 165,
+        "start": 12.96,
+        "end": 13.200000000000001
+      },
+      {
+        "word": "feels",
+        "start_offset": 165,
+        "end_offset": 172,
+        "start": 13.200000000000001,
+        "end": 13.76
+      },
+      {
+        "word": "better.",
+        "start_offset": 172,
+        "end_offset": 180,
+        "start": 13.76,
+        "end": 14.4
+      },
+      {
+        "word": "I",
+        "start_offset": 260,
+        "end_offset": 264,
+        "start": 20.8,
+        "end": 21.12
+      },
+      {
+        "word": "am",
+        "start_offset": 272,
+        "end_offset": 276,
+        "start": 21.76,
+        "end": 22.080000000000002
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 286,
+        "end_offset": 296,
+        "start": 22.88,
+        "end": 23.68
+      },
+      {
+        "word": "This",
+        "start_offset": 316,
+        "end_offset": 320,
+        "start": 25.28,
+        "end": 25.6
+      },
+      {
+        "word": "is",
+        "start_offset": 332,
+        "end_offset": 336,
+        "start": 26.560000000000002,
+        "end": 26.88
+      },
+      {
+        "word": "acceptable.",
+        "start_offset": 352,
+        "end_offset": 368,
+        "start": 28.16,
+        "end": 29.44
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "031-01.mp3",
+    "audio_duration": 32.03,
+    "transcription_time": 0.1,
+    "rtfx": 327.28,
+    "timestamp": "2026-01-06T21:49:43.183336+00:00"
+  }
+}

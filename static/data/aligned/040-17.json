@@ -1,0 +1,734 @@
+{
+  "text": "Thank you. I'll just ask if there's anything that we can do to make the instrument more comfortable or improve the contact? This instrument is well. You are conscientious. The appurtenances cause this instrument greater comfort in the distortion of the warmth of the body complex. I am Ra. I leave you, my friends, in the love and in the light of the One Infinite Creator. Go forth then rejoicing in the power and the peace of the One Infinite Creator. Adonai.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 0,
+        "end_offset": 10,
+        "start": 2.12,
+        "end": 2.58
+      },
+      {
+        "segment": "I'll just ask if there's anything that we can do to make the instrument more comfortable or improve the contact?",
+        "start_offset": 11,
+        "end_offset": 123,
+        "start": 2.62,
+        "end": 9.381
+      },
+      {
+        "segment": "This instrument is well.",
+        "start_offset": 124,
+        "end_offset": 148,
+        "start": 11.201,
+        "end": 17.202
+      },
+      {
+        "segment": "You are conscientious.",
+        "start_offset": 149,
+        "end_offset": 171,
+        "start": 18.782,
+        "end": 23.483
+      },
+      {
+        "segment": "The appurtenances cause this instrument greater comfort in the distortion of the warmth of the body complex.",
+        "start_offset": 172,
+        "end_offset": 280,
+        "start": 26.223,
+        "end": 53.727
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 281,
+        "end_offset": 289,
+        "start": 56.447,
+        "end": 59.508
+      },
+      {
+        "segment": "I leave you, my friends, in the love and in the light of the One Infinite Creator.",
+        "start_offset": 290,
+        "end_offset": 372,
+        "start": 62.448,
+        "end": 84.711
+      },
+      {
+        "segment": "Go forth then rejoicing in the power and the peace of the One Infinite Creator.",
+        "start_offset": 373,
+        "end_offset": 452,
+        "start": 86.491,
+        "end": 105.734
+      },
+      {
+        "segment": "Adonai.",
+        "start_offset": 453,
+        "end_offset": 460,
+        "start": 108.574,
+        "end": 109.274
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.12,
+        "end": 2.5,
+        "score": -10.8622
+      },
+      {
+        "word": "you.",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 2.52,
+        "end": 2.58,
+        "score": -11.7555
+      },
+      {
+        "word": "I'll",
+        "start_offset": 11,
+        "end_offset": 15,
+        "start": 2.62,
+        "end": 2.72,
+        "score": -11.8987
+      },
+      {
+        "word": "just",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 2.8,
+        "end": 2.98,
+        "score": -10.9037
+      },
+      {
+        "word": "ask",
+        "start_offset": 21,
+        "end_offset": 24,
+        "start": 3.02,
+        "end": 3.26,
+        "score": -9.064
+      },
+      {
+        "word": "if",
+        "start_offset": 25,
+        "end_offset": 27,
+        "start": 3.3,
+        "end": 3.38,
+        "score": -11.7148
+      },
+      {
+        "word": "there's",
+        "start_offset": 28,
+        "end_offset": 35,
+        "start": 3.42,
+        "end": 3.62,
+        "score": -9.638
+      },
+      {
+        "word": "anything",
+        "start_offset": 36,
+        "end_offset": 44,
+        "start": 3.66,
+        "end": 3.821,
+        "score": -10.9686
+      },
+      {
+        "word": "that",
+        "start_offset": 45,
+        "end_offset": 49,
+        "start": 3.841,
+        "end": 4.001,
+        "score": -10.4439
+      },
+      {
+        "word": "we",
+        "start_offset": 50,
+        "end_offset": 52,
+        "start": 4.381,
+        "end": 4.441,
+        "score": -10.3333
+      },
+      {
+        "word": "can",
+        "start_offset": 53,
+        "end_offset": 56,
+        "start": 4.501,
+        "end": 4.641,
+        "score": -10.3674
+      },
+      {
+        "word": "do",
+        "start_offset": 57,
+        "end_offset": 59,
+        "start": 4.661,
+        "end": 4.721,
+        "score": -10.8334
+      },
+      {
+        "word": "to",
+        "start_offset": 60,
+        "end_offset": 62,
+        "start": 4.781,
+        "end": 4.861,
+        "score": -10.7747
+      },
+      {
+        "word": "make",
+        "start_offset": 63,
+        "end_offset": 67,
+        "start": 4.881,
+        "end": 5.081,
+        "score": -9.069
+      },
+      {
+        "word": "the",
+        "start_offset": 68,
+        "end_offset": 71,
+        "start": 5.101,
+        "end": 5.161,
+        "score": -8.2103
+      },
+      {
+        "word": "instrument",
+        "start_offset": 72,
+        "end_offset": 82,
+        "start": 5.241,
+        "end": 5.621,
+        "score": -8.3497
+      },
+      {
+        "word": "more",
+        "start_offset": 83,
+        "end_offset": 87,
+        "start": 5.661,
+        "end": 5.821,
+        "score": -8.1819
+      },
+      {
+        "word": "comfortable",
+        "start_offset": 88,
+        "end_offset": 99,
+        "start": 5.861,
+        "end": 6.381,
+        "score": -8.0177
+      },
+      {
+        "word": "or",
+        "start_offset": 100,
+        "end_offset": 102,
+        "start": 6.401,
+        "end": 6.481,
+        "score": -7.2469
+      },
+      {
+        "word": "improve",
+        "start_offset": 103,
+        "end_offset": 110,
+        "start": 6.541,
+        "end": 6.901,
+        "score": -9.1685
+      },
+      {
+        "word": "the",
+        "start_offset": 111,
+        "end_offset": 114,
+        "start": 6.921,
+        "end": 6.981,
+        "score": -9.4904
+      },
+      {
+        "word": "contact?",
+        "start_offset": 115,
+        "end_offset": 123,
+        "start": 7.021,
+        "end": 9.381,
+        "score": -9.773
+      },
+      {
+        "word": "This",
+        "start_offset": 124,
+        "end_offset": 128,
+        "start": 11.201,
+        "end": 11.562,
+        "score": -0.8354
+      },
+      {
+        "word": "instrument",
+        "start_offset": 129,
+        "end_offset": 139,
+        "start": 12.402,
+        "end": 13.682,
+        "score": -0.7533
+      },
+      {
+        "word": "is",
+        "start_offset": 140,
+        "end_offset": 142,
+        "start": 15.042,
+        "end": 15.362,
+        "score": -0.7213
+      },
+      {
+        "word": "well.",
+        "start_offset": 143,
+        "end_offset": 148,
+        "start": 16.782,
+        "end": 17.202,
+        "score": -1.3417
+      },
+      {
+        "word": "You",
+        "start_offset": 149,
+        "end_offset": 152,
+        "start": 18.782,
+        "end": 18.942,
+        "score": -1.0137
+      },
+      {
+        "word": "are",
+        "start_offset": 153,
+        "end_offset": 156,
+        "start": 20.063,
+        "end": 20.363,
+        "score": -1.0672
+      },
+      {
+        "word": "conscientious.",
+        "start_offset": 157,
+        "end_offset": 171,
+        "start": 21.383,
+        "end": 23.483,
+        "score": -1.6213
+      },
+      {
+        "word": "The",
+        "start_offset": 172,
+        "end_offset": 175,
+        "start": 26.223,
+        "end": 26.363,
+        "score": -0.7689
+      },
+      {
+        "word": "appurtenances",
+        "start_offset": 176,
+        "end_offset": 189,
+        "start": 27.524,
+        "end": 29.604,
+        "score": -1.7483
+      },
+      {
+        "word": "cause",
+        "start_offset": 190,
+        "end_offset": 195,
+        "start": 30.824,
+        "end": 31.564,
+        "score": -0.7427
+      },
+      {
+        "word": "this",
+        "start_offset": 196,
+        "end_offset": 200,
+        "start": 32.324,
+        "end": 32.744,
+        "score": -0.7578
+      },
+      {
+        "word": "instrument",
+        "start_offset": 201,
+        "end_offset": 211,
+        "start": 34.024,
+        "end": 35.265,
+        "score": -0.7361
+      },
+      {
+        "word": "greater",
+        "start_offset": 212,
+        "end_offset": 219,
+        "start": 36.525,
+        "end": 37.305,
+        "score": -0.8368
+      },
+      {
+        "word": "comfort",
+        "start_offset": 220,
+        "end_offset": 227,
+        "start": 38.385,
+        "end": 39.405,
+        "score": -0.7445
+      },
+      {
+        "word": "in",
+        "start_offset": 228,
+        "end_offset": 230,
+        "start": 40.845,
+        "end": 41.105,
+        "score": -0.7095
+      },
+      {
+        "word": "the",
+        "start_offset": 231,
+        "end_offset": 234,
+        "start": 41.525,
+        "end": 41.665,
+        "score": -0.7672
+      },
+      {
+        "word": "distortion",
+        "start_offset": 235,
+        "end_offset": 245,
+        "start": 42.126,
+        "end": 43.406,
+        "score": -0.8218
+      },
+      {
+        "word": "of",
+        "start_offset": 246,
+        "end_offset": 248,
+        "start": 44.586,
+        "end": 44.966,
+        "score": -0.7457
+      },
+      {
+        "word": "the",
+        "start_offset": 249,
+        "end_offset": 252,
+        "start": 46.326,
+        "end": 46.466,
+        "score": -0.7963
+      },
+      {
+        "word": "warmth",
+        "start_offset": 253,
+        "end_offset": 259,
+        "start": 46.866,
+        "end": 47.626,
+        "score": -1.8984
+      },
+      {
+        "word": "of",
+        "start_offset": 260,
+        "end_offset": 262,
+        "start": 48.926,
+        "end": 49.266,
+        "score": -0.8517
+      },
+      {
+        "word": "the",
+        "start_offset": 263,
+        "end_offset": 266,
+        "start": 49.987,
+        "end": 50.127,
+        "score": -0.8695
+      },
+      {
+        "word": "body",
+        "start_offset": 267,
+        "end_offset": 271,
+        "start": 51.347,
+        "end": 51.847,
+        "score": -1.3105
+      },
+      {
+        "word": "complex.",
+        "start_offset": 272,
+        "end_offset": 280,
+        "start": 52.707,
+        "end": 53.727,
+        "score": -0.7149
+      },
+      {
+        "word": "I",
+        "start_offset": 281,
+        "end_offset": 282,
+        "start": 56.447,
+        "end": 56.467,
+        "score": -1.0075
+      },
+      {
+        "word": "am",
+        "start_offset": 283,
+        "end_offset": 285,
+        "start": 57.788,
+        "end": 58.128,
+        "score": -2.5569
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 286,
+        "end_offset": 289,
+        "start": 59.328,
+        "end": 59.508,
+        "score": -0.9194
+      },
+      {
+        "word": "I",
+        "start_offset": 290,
+        "end_offset": 291,
+        "start": 62.448,
+        "end": 62.468,
+        "score": -0.7534
+      },
+      {
+        "word": "leave",
+        "start_offset": 292,
+        "end_offset": 297,
+        "start": 63.288,
+        "end": 63.688,
+        "score": -2.9636
+      },
+      {
+        "word": "you,",
+        "start_offset": 298,
+        "end_offset": 302,
+        "start": 64.308,
+        "end": 64.448,
+        "score": -1.1104
+      },
+      {
+        "word": "my",
+        "start_offset": 303,
+        "end_offset": 305,
+        "start": 65.809,
+        "end": 66.209,
+        "score": -1.6135
+      },
+      {
+        "word": "friends,",
+        "start_offset": 306,
+        "end_offset": 314,
+        "start": 66.569,
+        "end": 67.169,
+        "score": -1.0618
+      },
+      {
+        "word": "in",
+        "start_offset": 315,
+        "end_offset": 317,
+        "start": 68.809,
+        "end": 69.089,
+        "score": -0.7649
+      },
+      {
+        "word": "the",
+        "start_offset": 318,
+        "end_offset": 321,
+        "start": 69.629,
+        "end": 69.769,
+        "score": -0.8297
+      },
+      {
+        "word": "love",
+        "start_offset": 322,
+        "end_offset": 326,
+        "start": 70.409,
+        "end": 70.989,
+        "score": -1.1427
+      },
+      {
+        "word": "and",
+        "start_offset": 327,
+        "end_offset": 330,
+        "start": 72.65,
+        "end": 73.05,
+        "score": -0.7479
+      },
+      {
+        "word": "in",
+        "start_offset": 331,
+        "end_offset": 333,
+        "start": 73.39,
+        "end": 73.65,
+        "score": -0.7406
+      },
+      {
+        "word": "the",
+        "start_offset": 334,
+        "end_offset": 337,
+        "start": 74.77,
+        "end": 74.89,
+        "score": -0.836
+      },
+      {
+        "word": "light",
+        "start_offset": 338,
+        "end_offset": 343,
+        "start": 75.59,
+        "end": 76.07,
+        "score": -0.8517
+      },
+      {
+        "word": "of",
+        "start_offset": 344,
+        "end_offset": 346,
+        "start": 77.53,
+        "end": 77.91,
+        "score": -0.744
+      },
+      {
+        "word": "the",
+        "start_offset": 347,
+        "end_offset": 350,
+        "start": 78.51,
+        "end": 78.67,
+        "score": -0.7616
+      },
+      {
+        "word": "One",
+        "start_offset": 351,
+        "end_offset": 354,
+        "start": 79.53,
+        "end": 79.911,
+        "score": -0.8255
+      },
+      {
+        "word": "Infinite",
+        "start_offset": 355,
+        "end_offset": 363,
+        "start": 81.311,
+        "end": 82.491,
+        "score": -0.9485
+      },
+      {
+        "word": "Creator.",
+        "start_offset": 364,
+        "end_offset": 372,
+        "start": 83.531,
+        "end": 84.711,
+        "score": -0.7815
+      },
+      {
+        "word": "Go",
+        "start_offset": 373,
+        "end_offset": 375,
+        "start": 86.491,
+        "end": 86.611,
+        "score": -0.758
+      },
+      {
+        "word": "forth",
+        "start_offset": 376,
+        "end_offset": 381,
+        "start": 86.991,
+        "end": 87.572,
+        "score": -0.8523
+      },
+      {
+        "word": "then",
+        "start_offset": 382,
+        "end_offset": 386,
+        "start": 88.152,
+        "end": 88.472,
+        "score": -0.8593
+      },
+      {
+        "word": "rejoicing",
+        "start_offset": 387,
+        "end_offset": 396,
+        "start": 89.852,
+        "end": 91.012,
+        "score": -0.7462
+      },
+      {
+        "word": "in",
+        "start_offset": 397,
+        "end_offset": 399,
+        "start": 92.392,
+        "end": 92.612,
+        "score": -5.37
+      },
+      {
+        "word": "the",
+        "start_offset": 400,
+        "end_offset": 403,
+        "start": 93.012,
+        "end": 93.132,
+        "score": -3.2914
+      },
+      {
+        "word": "power",
+        "start_offset": 404,
+        "end_offset": 409,
+        "start": 93.652,
+        "end": 94.292,
+        "score": -0.7181
+      },
+      {
+        "word": "and",
+        "start_offset": 410,
+        "end_offset": 413,
+        "start": 95.813,
+        "end": 96.213,
+        "score": -3.5289
+      },
+      {
+        "word": "the",
+        "start_offset": 414,
+        "end_offset": 417,
+        "start": 96.873,
+        "end": 97.013,
+        "score": -0.7815
+      },
+      {
+        "word": "peace",
+        "start_offset": 418,
+        "end_offset": 423,
+        "start": 97.313,
+        "end": 97.993,
+        "score": -1.4526
+      },
+      {
+        "word": "of",
+        "start_offset": 424,
+        "end_offset": 426,
+        "start": 99.313,
+        "end": 99.593,
+        "score": -6.4445
+      },
+      {
+        "word": "the",
+        "start_offset": 427,
+        "end_offset": 430,
+        "start": 99.973,
+        "end": 100.093,
+        "score": -2.521
+      },
+      {
+        "word": "One",
+        "start_offset": 431,
+        "end_offset": 434,
+        "start": 100.993,
+        "end": 101.273,
+        "score": -0.9768
+      },
+      {
+        "word": "Infinite",
+        "start_offset": 435,
+        "end_offset": 443,
+        "start": 102.453,
+        "end": 103.494,
+        "score": -1.075
+      },
+      {
+        "word": "Creator.",
+        "start_offset": 444,
+        "end_offset": 452,
+        "start": 104.494,
+        "end": 105.734,
+        "score": -0.7631
+      },
+      {
+        "word": "Adonai.",
+        "start_offset": 453,
+        "end_offset": 460,
+        "start": 108.574,
+        "end": 109.274,
+        "score": -2.7594
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "040-17.mp3",
+    "audio_duration": 158.0408,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

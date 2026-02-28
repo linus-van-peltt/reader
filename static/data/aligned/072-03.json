@@ -1,0 +1,188 @@
+{
+  "text": "Can you tell me what I can do to improve the effectiveness of the ritual? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me what I can do to improve the effectiveness of the ritual?",
+        "start_offset": 0,
+        "end_offset": 73,
+        "start": 2.841,
+        "end": 7.944
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 74,
+        "end_offset": 82,
+        "start": 7.964,
+        "end": 8.124
+      },
+      {
+        "segment": "No.",
+        "start_offset": 83,
+        "end_offset": 86,
+        "start": 8.144,
+        "end": 8.204
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.841,
+        "end": 3.061,
+        "score": -0.696
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 3.121,
+        "end": 3.221,
+        "score": -0.7105
+      },
+      {
+        "word": "tell",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 3.281,
+        "end": 3.462,
+        "score": -0.8506
+      },
+      {
+        "word": "me",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 3.522,
+        "end": 3.602,
+        "score": -0.7074
+      },
+      {
+        "word": "what",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 4.442,
+        "end": 4.622,
+        "score": -0.7089
+      },
+      {
+        "word": "I",
+        "start_offset": 21,
+        "end_offset": 22,
+        "start": 4.802,
+        "end": 4.822,
+        "score": -1.4565
+      },
+      {
+        "word": "can",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 4.882,
+        "end": 5.042,
+        "score": -0.6989
+      },
+      {
+        "word": "do",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 5.122,
+        "end": 5.242,
+        "score": -0.7031
+      },
+      {
+        "word": "to",
+        "start_offset": 30,
+        "end_offset": 32,
+        "start": 5.402,
+        "end": 5.523,
+        "score": -0.7096
+      },
+      {
+        "word": "improve",
+        "start_offset": 33,
+        "end_offset": 40,
+        "start": 5.683,
+        "end": 6.143,
+        "score": -2.1045
+      },
+      {
+        "word": "the",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 6.183,
+        "end": 6.243,
+        "score": -0.9608
+      },
+      {
+        "word": "effectiveness",
+        "start_offset": 45,
+        "end_offset": 58,
+        "start": 6.323,
+        "end": 7.043,
+        "score": -0.7754
+      },
+      {
+        "word": "of",
+        "start_offset": 59,
+        "end_offset": 61,
+        "start": 7.323,
+        "end": 7.403,
+        "score": -3.2639
+      },
+      {
+        "word": "the",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 7.443,
+        "end": 7.523,
+        "score": -1.6436
+      },
+      {
+        "word": "ritual?",
+        "start_offset": 66,
+        "end_offset": 73,
+        "start": 7.603,
+        "end": 7.944,
+        "score": -0.8507
+      },
+      {
+        "word": "I",
+        "start_offset": 74,
+        "end_offset": 75,
+        "start": 7.964,
+        "end": 7.984,
+        "score": -9.4071
+      },
+      {
+        "word": "am",
+        "start_offset": 76,
+        "end_offset": 78,
+        "start": 8.004,
+        "end": 8.044,
+        "score": -10.0449
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 79,
+        "end_offset": 82,
+        "start": 8.064,
+        "end": 8.124,
+        "score": -10.9994
+      },
+      {
+        "word": "No.",
+        "start_offset": 83,
+        "end_offset": 86,
+        "start": 8.144,
+        "end": 8.204,
+        "score": -10.6007
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "072-03.mp3",
+    "audio_duration": 25.0514,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

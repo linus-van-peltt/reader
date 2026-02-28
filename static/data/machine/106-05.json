@@ -1,0 +1,716 @@
+{
+  "text": "Well as I understand it, we must the best thing for us to do is the instrument to drink much more liquid. I would imagine the spring water would be best. And we will of course move I was uh we could move her out of here immediately uh tomorrow, say, if the uh if necessary. Uh would this be considerably better than than waiting two to three weeks for the allergies and everything else? I am such decisions are a matter for free will, choice, be aware of the strength of the group harmony.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Well as I understand it, we must the best thing for us to do is the instrument to drink much more liquid.",
+        "start_offset": 25,
+        "end_offset": 143,
+        "start": 2.0,
+        "end": 11.44
+      },
+      {
+        "segment": "I would imagine the spring water would be best.",
+        "start_offset": 146,
+        "end_offset": 176,
+        "start": 11.68,
+        "end": 14.08
+      },
+      {
+        "segment": "And we will of course move I was uh we could move her out of here immediately uh tomorrow, say, if the uh if necessary.",
+        "start_offset": 187,
+        "end_offset": 434,
+        "start": 14.96,
+        "end": 34.72
+      },
+      {
+        "segment": "Uh would this be considerably better than than waiting two to three weeks for the allergies and everything else?",
+        "start_offset": 438,
+        "end_offset": 560,
+        "start": 35.04,
+        "end": 44.800000000000004
+      },
+      {
+        "segment": "I am such decisions are a matter for free will, choice, be aware of the strength of the group harmony.",
+        "start_offset": 602,
+        "end_offset": 1092,
+        "start": 48.160000000000004,
+        "end": 87.36
+      }
+    ],
+    "word": [
+      {
+        "word": "Well",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 2.0,
+        "end": 2.24
+      },
+      {
+        "word": "as",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 2.56,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "I",
+        "start_offset": 35,
+        "end_offset": 37,
+        "start": 2.8000000000000003,
+        "end": 2.96
+      },
+      {
+        "word": "understand",
+        "start_offset": 37,
+        "end_offset": 44,
+        "start": 2.96,
+        "end": 3.52
+      },
+      {
+        "word": "it,",
+        "start_offset": 44,
+        "end_offset": 48,
+        "start": 3.52,
+        "end": 3.84
+      },
+      {
+        "word": "we",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 4.08,
+        "end": 4.32
+      },
+      {
+        "word": "must",
+        "start_offset": 54,
+        "end_offset": 58,
+        "start": 4.32,
+        "end": 4.64
+      },
+      {
+        "word": "the",
+        "start_offset": 60,
+        "end_offset": 64,
+        "start": 4.8,
+        "end": 5.12
+      },
+      {
+        "word": "best",
+        "start_offset": 64,
+        "end_offset": 68,
+        "start": 5.12,
+        "end": 5.44
+      },
+      {
+        "word": "thing",
+        "start_offset": 71,
+        "end_offset": 75,
+        "start": 5.68,
+        "end": 6.0
+      },
+      {
+        "word": "for",
+        "start_offset": 75,
+        "end_offset": 78,
+        "start": 6.0,
+        "end": 6.24
+      },
+      {
+        "word": "us",
+        "start_offset": 78,
+        "end_offset": 80,
+        "start": 6.24,
+        "end": 6.4
+      },
+      {
+        "word": "to",
+        "start_offset": 80,
+        "end_offset": 83,
+        "start": 6.4,
+        "end": 6.640000000000001
+      },
+      {
+        "word": "do",
+        "start_offset": 83,
+        "end_offset": 86,
+        "start": 6.640000000000001,
+        "end": 6.88
+      },
+      {
+        "word": "is",
+        "start_offset": 86,
+        "end_offset": 90,
+        "start": 6.88,
+        "end": 7.2
+      },
+      {
+        "word": "the",
+        "start_offset": 108,
+        "end_offset": 110,
+        "start": 8.64,
+        "end": 8.8
+      },
+      {
+        "word": "instrument",
+        "start_offset": 110,
+        "end_offset": 116,
+        "start": 8.8,
+        "end": 9.28
+      },
+      {
+        "word": "to",
+        "start_offset": 116,
+        "end_offset": 119,
+        "start": 9.28,
+        "end": 9.52
+      },
+      {
+        "word": "drink",
+        "start_offset": 119,
+        "end_offset": 127,
+        "start": 9.52,
+        "end": 10.16
+      },
+      {
+        "word": "much",
+        "start_offset": 130,
+        "end_offset": 134,
+        "start": 10.4,
+        "end": 10.72
+      },
+      {
+        "word": "more",
+        "start_offset": 134,
+        "end_offset": 137,
+        "start": 10.72,
+        "end": 10.96
+      },
+      {
+        "word": "liquid.",
+        "start_offset": 137,
+        "end_offset": 143,
+        "start": 10.96,
+        "end": 11.44
+      },
+      {
+        "word": "I",
+        "start_offset": 146,
+        "end_offset": 148,
+        "start": 11.68,
+        "end": 11.84
+      },
+      {
+        "word": "would",
+        "start_offset": 148,
+        "end_offset": 150,
+        "start": 11.84,
+        "end": 12.0
+      },
+      {
+        "word": "imagine",
+        "start_offset": 150,
+        "end_offset": 154,
+        "start": 12.0,
+        "end": 12.32
+      },
+      {
+        "word": "the",
+        "start_offset": 154,
+        "end_offset": 156,
+        "start": 12.32,
+        "end": 12.48
+      },
+      {
+        "word": "spring",
+        "start_offset": 156,
+        "end_offset": 159,
+        "start": 12.48,
+        "end": 12.72
+      },
+      {
+        "word": "water",
+        "start_offset": 160,
+        "end_offset": 165,
+        "start": 12.8,
+        "end": 13.200000000000001
+      },
+      {
+        "word": "would",
+        "start_offset": 165,
+        "end_offset": 168,
+        "start": 13.200000000000001,
+        "end": 13.44
+      },
+      {
+        "word": "be",
+        "start_offset": 168,
+        "end_offset": 172,
+        "start": 13.44,
+        "end": 13.76
+      },
+      {
+        "word": "best.",
+        "start_offset": 172,
+        "end_offset": 176,
+        "start": 13.76,
+        "end": 14.08
+      },
+      {
+        "word": "And",
+        "start_offset": 187,
+        "end_offset": 191,
+        "start": 14.96,
+        "end": 15.280000000000001
+      },
+      {
+        "word": "we",
+        "start_offset": 206,
+        "end_offset": 210,
+        "start": 16.48,
+        "end": 16.8
+      },
+      {
+        "word": "will",
+        "start_offset": 210,
+        "end_offset": 213,
+        "start": 16.8,
+        "end": 17.04
+      },
+      {
+        "word": "of",
+        "start_offset": 214,
+        "end_offset": 216,
+        "start": 17.12,
+        "end": 17.28
+      },
+      {
+        "word": "course",
+        "start_offset": 216,
+        "end_offset": 220,
+        "start": 17.28,
+        "end": 17.6
+      },
+      {
+        "word": "move",
+        "start_offset": 223,
+        "end_offset": 231,
+        "start": 17.84,
+        "end": 18.48
+      },
+      {
+        "word": "I",
+        "start_offset": 241,
+        "end_offset": 244,
+        "start": 19.28,
+        "end": 19.52
+      },
+      {
+        "word": "was",
+        "start_offset": 244,
+        "end_offset": 247,
+        "start": 19.52,
+        "end": 19.76
+      },
+      {
+        "word": "uh",
+        "start_offset": 269,
+        "end_offset": 273,
+        "start": 21.52,
+        "end": 21.84
+      },
+      {
+        "word": "we",
+        "start_offset": 301,
+        "end_offset": 305,
+        "start": 24.080000000000002,
+        "end": 24.400000000000002
+      },
+      {
+        "word": "could",
+        "start_offset": 305,
+        "end_offset": 309,
+        "start": 24.400000000000002,
+        "end": 24.72
+      },
+      {
+        "word": "move",
+        "start_offset": 312,
+        "end_offset": 316,
+        "start": 24.96,
+        "end": 25.28
+      },
+      {
+        "word": "her",
+        "start_offset": 316,
+        "end_offset": 318,
+        "start": 25.28,
+        "end": 25.44
+      },
+      {
+        "word": "out",
+        "start_offset": 318,
+        "end_offset": 320,
+        "start": 25.44,
+        "end": 25.6
+      },
+      {
+        "word": "of",
+        "start_offset": 320,
+        "end_offset": 323,
+        "start": 25.6,
+        "end": 25.84
+      },
+      {
+        "word": "here",
+        "start_offset": 323,
+        "end_offset": 326,
+        "start": 25.84,
+        "end": 26.080000000000002
+      },
+      {
+        "word": "immediately",
+        "start_offset": 326,
+        "end_offset": 334,
+        "start": 26.080000000000002,
+        "end": 26.72
+      },
+      {
+        "word": "uh",
+        "start_offset": 335,
+        "end_offset": 337,
+        "start": 26.8,
+        "end": 26.96
+      },
+      {
+        "word": "tomorrow,",
+        "start_offset": 339,
+        "end_offset": 346,
+        "start": 27.12,
+        "end": 27.68
+      },
+      {
+        "word": "say,",
+        "start_offset": 350,
+        "end_offset": 354,
+        "start": 28.0,
+        "end": 28.32
+      },
+      {
+        "word": "if",
+        "start_offset": 361,
+        "end_offset": 365,
+        "start": 28.88,
+        "end": 29.2
+      },
+      {
+        "word": "the",
+        "start_offset": 377,
+        "end_offset": 381,
+        "start": 30.16,
+        "end": 30.48
+      },
+      {
+        "word": "uh",
+        "start_offset": 382,
+        "end_offset": 386,
+        "start": 30.560000000000002,
+        "end": 30.88
+      },
+      {
+        "word": "if",
+        "start_offset": 420,
+        "end_offset": 424,
+        "start": 33.6,
+        "end": 33.92
+      },
+      {
+        "word": "necessary.",
+        "start_offset": 426,
+        "end_offset": 434,
+        "start": 34.08,
+        "end": 34.72
+      },
+      {
+        "word": "Uh",
+        "start_offset": 438,
+        "end_offset": 441,
+        "start": 35.04,
+        "end": 35.28
+      },
+      {
+        "word": "would",
+        "start_offset": 444,
+        "end_offset": 448,
+        "start": 35.52,
+        "end": 35.84
+      },
+      {
+        "word": "this",
+        "start_offset": 448,
+        "end_offset": 452,
+        "start": 35.84,
+        "end": 36.160000000000004
+      },
+      {
+        "word": "be",
+        "start_offset": 452,
+        "end_offset": 456,
+        "start": 36.160000000000004,
+        "end": 36.480000000000004
+      },
+      {
+        "word": "considerably",
+        "start_offset": 456,
+        "end_offset": 466,
+        "start": 36.480000000000004,
+        "end": 37.28
+      },
+      {
+        "word": "better",
+        "start_offset": 466,
+        "end_offset": 470,
+        "start": 37.28,
+        "end": 37.6
+      },
+      {
+        "word": "than",
+        "start_offset": 470,
+        "end_offset": 473,
+        "start": 37.6,
+        "end": 37.84
+      },
+      {
+        "word": "than",
+        "start_offset": 473,
+        "end_offset": 476,
+        "start": 37.84,
+        "end": 38.08
+      },
+      {
+        "word": "waiting",
+        "start_offset": 476,
+        "end_offset": 483,
+        "start": 38.08,
+        "end": 38.64
+      },
+      {
+        "word": "two",
+        "start_offset": 483,
+        "end_offset": 486,
+        "start": 38.64,
+        "end": 38.88
+      },
+      {
+        "word": "to",
+        "start_offset": 486,
+        "end_offset": 488,
+        "start": 38.88,
+        "end": 39.04
+      },
+      {
+        "word": "three",
+        "start_offset": 488,
+        "end_offset": 494,
+        "start": 39.04,
+        "end": 39.52
+      },
+      {
+        "word": "weeks",
+        "start_offset": 494,
+        "end_offset": 502,
+        "start": 39.52,
+        "end": 40.160000000000004
+      },
+      {
+        "word": "for",
+        "start_offset": 527,
+        "end_offset": 531,
+        "start": 42.160000000000004,
+        "end": 42.480000000000004
+      },
+      {
+        "word": "the",
+        "start_offset": 531,
+        "end_offset": 534,
+        "start": 42.480000000000004,
+        "end": 42.72
+      },
+      {
+        "word": "allergies",
+        "start_offset": 534,
+        "end_offset": 541,
+        "start": 42.72,
+        "end": 43.28
+      },
+      {
+        "word": "and",
+        "start_offset": 541,
+        "end_offset": 542,
+        "start": 43.28,
+        "end": 43.36
+      },
+      {
+        "word": "everything",
+        "start_offset": 544,
+        "end_offset": 552,
+        "start": 43.52,
+        "end": 44.160000000000004
+      },
+      {
+        "word": "else?",
+        "start_offset": 552,
+        "end_offset": 560,
+        "start": 44.160000000000004,
+        "end": 44.800000000000004
+      },
+      {
+        "word": "I",
+        "start_offset": 602,
+        "end_offset": 605,
+        "start": 48.160000000000004,
+        "end": 48.4
+      },
+      {
+        "word": "am",
+        "start_offset": 629,
+        "end_offset": 632,
+        "start": 50.32,
+        "end": 50.56
+      },
+      {
+        "word": "such",
+        "start_offset": 731,
+        "end_offset": 739,
+        "start": 58.480000000000004,
+        "end": 59.120000000000005
+      },
+      {
+        "word": "decisions",
+        "start_offset": 747,
+        "end_offset": 763,
+        "start": 59.76,
+        "end": 61.04
+      },
+      {
+        "word": "are",
+        "start_offset": 775,
+        "end_offset": 779,
+        "start": 62.0,
+        "end": 62.32
+      },
+      {
+        "word": "a",
+        "start_offset": 795,
+        "end_offset": 799,
+        "start": 63.6,
+        "end": 63.92
+      },
+      {
+        "word": "matter",
+        "start_offset": 811,
+        "end_offset": 819,
+        "start": 64.88,
+        "end": 65.52
+      },
+      {
+        "word": "for",
+        "start_offset": 835,
+        "end_offset": 839,
+        "start": 66.8,
+        "end": 67.12
+      },
+      {
+        "word": "free",
+        "start_offset": 855,
+        "end_offset": 863,
+        "start": 68.4,
+        "end": 69.04
+      },
+      {
+        "word": "will,",
+        "start_offset": 878,
+        "end_offset": 882,
+        "start": 70.24,
+        "end": 70.56
+      },
+      {
+        "word": "choice,",
+        "start_offset": 895,
+        "end_offset": 903,
+        "start": 71.60000000000001,
+        "end": 72.24
+      },
+      {
+        "word": "be",
+        "start_offset": 926,
+        "end_offset": 930,
+        "start": 74.08,
+        "end": 74.4
+      },
+      {
+        "word": "aware",
+        "start_offset": 938,
+        "end_offset": 950,
+        "start": 75.04,
+        "end": 76.0
+      },
+      {
+        "word": "of",
+        "start_offset": 966,
+        "end_offset": 970,
+        "start": 77.28,
+        "end": 77.60000000000001
+      },
+      {
+        "word": "the",
+        "start_offset": 974,
+        "end_offset": 978,
+        "start": 77.92,
+        "end": 78.24
+      },
+      {
+        "word": "strength",
+        "start_offset": 994,
+        "end_offset": 1010,
+        "start": 79.52,
+        "end": 80.8
+      },
+      {
+        "word": "of",
+        "start_offset": 1022,
+        "end_offset": 1026,
+        "start": 81.76,
+        "end": 82.08
+      },
+      {
+        "word": "the",
+        "start_offset": 1038,
+        "end_offset": 1042,
+        "start": 83.04,
+        "end": 83.36
+      },
+      {
+        "word": "group",
+        "start_offset": 1058,
+        "end_offset": 1066,
+        "start": 84.64,
+        "end": 85.28
+      },
+      {
+        "word": "harmony.",
+        "start_offset": 1078,
+        "end_offset": 1092,
+        "start": 86.24,
+        "end": 87.36
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "106-05.mp3",
+    "audio_duration": 90.04,
+    "transcription_time": 0.16,
+    "rtfx": 574.66,
+    "timestamp": "2026-01-06T22:01:09.535163+00:00"
+  }
+}

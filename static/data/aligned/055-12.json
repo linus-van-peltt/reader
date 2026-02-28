@@ -1,0 +1,259 @@
+{
+  "text": "Then would the healing work be done in the King's Chamber? I am Ra. This is correct. We may note that such terminology is not our own.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then would the healing work be done in the King's Chamber?",
+        "start_offset": 0,
+        "end_offset": 58,
+        "start": 2.161,
+        "end": 7.602
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 59,
+        "end_offset": 67,
+        "start": 11.463,
+        "end": 13.423
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 68,
+        "end_offset": 84,
+        "start": 14.964,
+        "end": 19.305
+      },
+      {
+        "segment": "We may note that such terminology is not our own.",
+        "start_offset": 85,
+        "end_offset": 134,
+        "start": 20.565,
+        "end": 35.149
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.161,
+        "end": 2.441,
+        "score": -1.4655
+      },
+      {
+        "word": "would",
+        "start_offset": 5,
+        "end_offset": 10,
+        "start": 5.281,
+        "end": 5.421,
+        "score": -5.493
+      },
+      {
+        "word": "the",
+        "start_offset": 11,
+        "end_offset": 14,
+        "start": 5.461,
+        "end": 5.541,
+        "score": -1.7536
+      },
+      {
+        "word": "healing",
+        "start_offset": 15,
+        "end_offset": 22,
+        "start": 5.621,
+        "end": 5.961,
+        "score": -1.2324
+      },
+      {
+        "word": "work",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 6.042,
+        "end": 6.222,
+        "score": -1.6706
+      },
+      {
+        "word": "be",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 6.282,
+        "end": 6.362,
+        "score": -1.5173
+      },
+      {
+        "word": "done",
+        "start_offset": 31,
+        "end_offset": 35,
+        "start": 6.442,
+        "end": 6.622,
+        "score": -1.9211
+      },
+      {
+        "word": "in",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 6.662,
+        "end": 6.722,
+        "score": -1.1458
+      },
+      {
+        "word": "the",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 6.742,
+        "end": 6.822,
+        "score": -1.3271
+      },
+      {
+        "word": "King's",
+        "start_offset": 43,
+        "end_offset": 49,
+        "start": 6.882,
+        "end": 7.202,
+        "score": -1.1695
+      },
+      {
+        "word": "Chamber?",
+        "start_offset": 50,
+        "end_offset": 58,
+        "start": 7.262,
+        "end": 7.602,
+        "score": -3.0674
+      },
+      {
+        "word": "I",
+        "start_offset": 59,
+        "end_offset": 60,
+        "start": 11.463,
+        "end": 11.483,
+        "score": -0.7599
+      },
+      {
+        "word": "am",
+        "start_offset": 61,
+        "end_offset": 63,
+        "start": 12.123,
+        "end": 12.463,
+        "score": -0.9428
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 13.223,
+        "end": 13.423,
+        "score": -4.6479
+      },
+      {
+        "word": "This",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 14.964,
+        "end": 15.464,
+        "score": -0.8475
+      },
+      {
+        "word": "is",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 16.684,
+        "end": 17.044,
+        "score": -0.7445
+      },
+      {
+        "word": "correct.",
+        "start_offset": 76,
+        "end_offset": 84,
+        "start": 18.065,
+        "end": 19.305,
+        "score": -0.7178
+      },
+      {
+        "word": "We",
+        "start_offset": 85,
+        "end_offset": 87,
+        "start": 20.565,
+        "end": 20.725,
+        "score": -1.4326
+      },
+      {
+        "word": "may",
+        "start_offset": 88,
+        "end_offset": 91,
+        "start": 21.585,
+        "end": 21.985,
+        "score": -0.7397
+      },
+      {
+        "word": "note",
+        "start_offset": 92,
+        "end_offset": 96,
+        "start": 22.746,
+        "end": 23.266,
+        "score": -1.8567
+      },
+      {
+        "word": "that",
+        "start_offset": 97,
+        "end_offset": 101,
+        "start": 24.206,
+        "end": 24.666,
+        "score": -0.7995
+      },
+      {
+        "word": "such",
+        "start_offset": 102,
+        "end_offset": 106,
+        "start": 25.546,
+        "end": 26.287,
+        "score": -0.8633
+      },
+      {
+        "word": "terminology",
+        "start_offset": 107,
+        "end_offset": 118,
+        "start": 27.327,
+        "end": 29.507,
+        "score": -0.9228
+      },
+      {
+        "word": "is",
+        "start_offset": 119,
+        "end_offset": 121,
+        "start": 30.968,
+        "end": 31.428,
+        "score": -0.7165
+      },
+      {
+        "word": "not",
+        "start_offset": 122,
+        "end_offset": 125,
+        "start": 32.148,
+        "end": 32.668,
+        "score": -0.7056
+      },
+      {
+        "word": "our",
+        "start_offset": 126,
+        "end_offset": 129,
+        "start": 33.608,
+        "end": 33.988,
+        "score": -0.8428
+      },
+      {
+        "word": "own.",
+        "start_offset": 130,
+        "end_offset": 134,
+        "start": 34.889,
+        "end": 35.149,
+        "score": -2.6919
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "055-12.mp3",
+    "audio_duration": 36.049,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

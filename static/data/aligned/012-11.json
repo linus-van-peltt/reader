@@ -1,0 +1,284 @@
+{
+  "text": "Does that also apply to answering who was contacting the group that I originally was in, in 1962? I am Ra. This query may be answered. The group contacted was the Confederation.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Does that also apply to answering who was contacting the group that I originally was in, in I am Ra.",
+        "start_offset": 0,
+        "end_offset": 106,
+        "start": 2.181,
+        "end": 25.549
+      },
+      {
+        "segment": "This query may be answered.",
+        "start_offset": 107,
+        "end_offset": 134,
+        "start": 25.589,
+        "end": 33.371
+      },
+      {
+        "segment": "The group contacted was the Confederation.",
+        "start_offset": 135,
+        "end_offset": 177,
+        "start": 33.451,
+        "end": 42.734
+      }
+    ],
+    "word": [
+      {
+        "word": "Does",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.181,
+        "end": 2.361,
+        "score": -6.5966
+      },
+      {
+        "word": "that",
+        "start_offset": 5,
+        "end_offset": 9,
+        "start": 2.381,
+        "end": 2.561,
+        "score": -6.626
+      },
+      {
+        "word": "also",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 2.601,
+        "end": 2.861,
+        "score": -5.6986
+      },
+      {
+        "word": "apply",
+        "start_offset": 15,
+        "end_offset": 20,
+        "start": 2.961,
+        "end": 3.661,
+        "score": -7.623
+      },
+      {
+        "word": "to",
+        "start_offset": 21,
+        "end_offset": 23,
+        "start": 7.222,
+        "end": 7.322,
+        "score": -7.3183
+      },
+      {
+        "word": "answering",
+        "start_offset": 24,
+        "end_offset": 33,
+        "start": 7.483,
+        "end": 17.886,
+        "score": -6.8743
+      },
+      {
+        "word": "who",
+        "start_offset": 34,
+        "end_offset": 37,
+        "start": 17.926,
+        "end": 17.986,
+        "score": -5.1082
+      },
+      {
+        "word": "was",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 18.006,
+        "end": 18.206,
+        "score": -5.9273
+      },
+      {
+        "word": "contacting",
+        "start_offset": 42,
+        "end_offset": 52,
+        "start": 18.246,
+        "end": 19.407,
+        "score": -5.2391
+      },
+      {
+        "word": "the",
+        "start_offset": 53,
+        "end_offset": 56,
+        "start": 19.487,
+        "end": 19.607,
+        "score": -2.8553
+      },
+      {
+        "word": "group",
+        "start_offset": 57,
+        "end_offset": 62,
+        "start": 19.667,
+        "end": 20.487,
+        "score": -6.3827
+      },
+      {
+        "word": "that",
+        "start_offset": 63,
+        "end_offset": 67,
+        "start": 20.527,
+        "end": 20.687,
+        "score": -5.1825
+      },
+      {
+        "word": "I",
+        "start_offset": 68,
+        "end_offset": 69,
+        "start": 20.707,
+        "end": 20.727,
+        "score": -6.5976
+      },
+      {
+        "word": "originally",
+        "start_offset": 70,
+        "end_offset": 80,
+        "start": 20.747,
+        "end": 20.967,
+        "score": -6.3232
+      },
+      {
+        "word": "was",
+        "start_offset": 81,
+        "end_offset": 84,
+        "start": 20.987,
+        "end": 21.107,
+        "score": -7.7735
+      },
+      {
+        "word": "in,",
+        "start_offset": 85,
+        "end_offset": 88,
+        "start": 21.127,
+        "end": 21.187,
+        "score": -7.2864
+      },
+      {
+        "word": "in",
+        "start_offset": 89,
+        "end_offset": 91,
+        "start": 21.247,
+        "end": 21.287,
+        "score": -6.9508
+      },
+      {
+        "word": "I",
+        "start_offset": 98,
+        "end_offset": 99,
+        "start": 22.968,
+        "end": 22.988,
+        "score": -7.5645
+      },
+      {
+        "word": "am",
+        "start_offset": 100,
+        "end_offset": 102,
+        "start": 25.429,
+        "end": 25.469,
+        "score": -5.5579
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 103,
+        "end_offset": 106,
+        "start": 25.509,
+        "end": 25.549,
+        "score": -3.8442
+      },
+      {
+        "word": "This",
+        "start_offset": 107,
+        "end_offset": 111,
+        "start": 25.589,
+        "end": 25.949,
+        "score": -2.5712
+      },
+      {
+        "word": "query",
+        "start_offset": 112,
+        "end_offset": 117,
+        "start": 26.529,
+        "end": 27.129,
+        "score": -2.3217
+      },
+      {
+        "word": "may",
+        "start_offset": 118,
+        "end_offset": 121,
+        "start": 28.249,
+        "end": 28.57,
+        "score": -1.4362
+      },
+      {
+        "word": "be",
+        "start_offset": 122,
+        "end_offset": 124,
+        "start": 29.41,
+        "end": 29.51,
+        "score": -2.4766
+      },
+      {
+        "word": "answered.",
+        "start_offset": 125,
+        "end_offset": 134,
+        "start": 30.93,
+        "end": 33.371,
+        "score": -3.5981
+      },
+      {
+        "word": "The",
+        "start_offset": 135,
+        "end_offset": 138,
+        "start": 33.451,
+        "end": 33.591,
+        "score": -4.2126
+      },
+      {
+        "word": "group",
+        "start_offset": 139,
+        "end_offset": 144,
+        "start": 34.832,
+        "end": 35.292,
+        "score": -1.699
+      },
+      {
+        "word": "contacted",
+        "start_offset": 145,
+        "end_offset": 154,
+        "start": 36.232,
+        "end": 37.313,
+        "score": -1.9976
+      },
+      {
+        "word": "was",
+        "start_offset": 155,
+        "end_offset": 158,
+        "start": 38.513,
+        "end": 38.933,
+        "score": -0.8629
+      },
+      {
+        "word": "the",
+        "start_offset": 159,
+        "end_offset": 162,
+        "start": 39.933,
+        "end": 40.073,
+        "score": -3.2008
+      },
+      {
+        "word": "Confederation.",
+        "start_offset": 163,
+        "end_offset": 177,
+        "start": 41.134,
+        "end": 42.734,
+        "score": -1.8109
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "012-11.mp3",
+    "audio_duration": 45.0351,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

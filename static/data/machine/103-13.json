@@ -1,0 +1,457 @@
+{
+  "text": "Think about that. Yes. Yeah. I'll come back to that. We were thinking of replacing the sword in the right hand with the magical sphere and a downward scepter in the left hand. Similar to card five, the subjecator, as more appropriate for this card. Draw a comment on that, please. Hi. And well.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Think about that.",
+        "start_offset": 43,
+        "end_offset": 52,
+        "start": 3.44,
+        "end": 4.16
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 153,
+        "end_offset": 159,
+        "start": 12.24,
+        "end": 12.72
+      },
+      {
+        "segment": "Yeah.",
+        "start_offset": 189,
+        "end_offset": 197,
+        "start": 15.120000000000001,
+        "end": 15.76
+      },
+      {
+        "segment": "I'll come back to that.",
+        "start_offset": 259,
+        "end_offset": 278,
+        "start": 20.72,
+        "end": 22.240000000000002
+      },
+      {
+        "segment": "We were thinking of replacing the sword in the right hand with the magical sphere and a downward scepter in the left hand.",
+        "start_offset": 318,
+        "end_offset": 508,
+        "start": 25.44,
+        "end": 40.64
+      },
+      {
+        "segment": "Similar to card five, the subjecator, as more appropriate for this card.",
+        "start_offset": 514,
+        "end_offset": 602,
+        "start": 41.12,
+        "end": 48.160000000000004
+      },
+      {
+        "segment": "Draw a comment on that, please.",
+        "start_offset": 623,
+        "end_offset": 644,
+        "start": 49.84,
+        "end": 51.52
+      },
+      {
+        "segment": "Hi.",
+        "start_offset": 698,
+        "end_offset": 702,
+        "start": 55.84,
+        "end": 56.160000000000004
+      },
+      {
+        "segment": "And well.",
+        "start_offset": 709,
+        "end_offset": 722,
+        "start": 56.72,
+        "end": 57.76
+      }
+    ],
+    "word": [
+      {
+        "word": "Think",
+        "start_offset": 43,
+        "end_offset": 45,
+        "start": 3.44,
+        "end": 3.6
+      },
+      {
+        "word": "about",
+        "start_offset": 46,
+        "end_offset": 47,
+        "start": 3.68,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "that.",
+        "start_offset": 50,
+        "end_offset": 52,
+        "start": 4.0,
+        "end": 4.16
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 153,
+        "end_offset": 159,
+        "start": 12.24,
+        "end": 12.72
+      },
+      {
+        "word": "Yeah.",
+        "start_offset": 189,
+        "end_offset": 197,
+        "start": 15.120000000000001,
+        "end": 15.76
+      },
+      {
+        "word": "I'll",
+        "start_offset": 259,
+        "end_offset": 265,
+        "start": 20.72,
+        "end": 21.2
+      },
+      {
+        "word": "come",
+        "start_offset": 265,
+        "end_offset": 267,
+        "start": 21.2,
+        "end": 21.36
+      },
+      {
+        "word": "back",
+        "start_offset": 267,
+        "end_offset": 270,
+        "start": 21.36,
+        "end": 21.6
+      },
+      {
+        "word": "to",
+        "start_offset": 270,
+        "end_offset": 274,
+        "start": 21.6,
+        "end": 21.92
+      },
+      {
+        "word": "that.",
+        "start_offset": 274,
+        "end_offset": 278,
+        "start": 21.92,
+        "end": 22.240000000000002
+      },
+      {
+        "word": "We",
+        "start_offset": 318,
+        "end_offset": 322,
+        "start": 25.44,
+        "end": 25.76
+      },
+      {
+        "word": "were",
+        "start_offset": 322,
+        "end_offset": 325,
+        "start": 25.76,
+        "end": 26.0
+      },
+      {
+        "word": "thinking",
+        "start_offset": 329,
+        "end_offset": 337,
+        "start": 26.32,
+        "end": 26.96
+      },
+      {
+        "word": "of",
+        "start_offset": 337,
+        "end_offset": 341,
+        "start": 26.96,
+        "end": 27.28
+      },
+      {
+        "word": "replacing",
+        "start_offset": 341,
+        "end_offset": 357,
+        "start": 27.28,
+        "end": 28.560000000000002
+      },
+      {
+        "word": "the",
+        "start_offset": 359,
+        "end_offset": 363,
+        "start": 28.72,
+        "end": 29.04
+      },
+      {
+        "word": "sword",
+        "start_offset": 363,
+        "end_offset": 371,
+        "start": 29.04,
+        "end": 29.68
+      },
+      {
+        "word": "in",
+        "start_offset": 373,
+        "end_offset": 376,
+        "start": 29.84,
+        "end": 30.080000000000002
+      },
+      {
+        "word": "the",
+        "start_offset": 376,
+        "end_offset": 379,
+        "start": 30.080000000000002,
+        "end": 30.32
+      },
+      {
+        "word": "right",
+        "start_offset": 379,
+        "end_offset": 383,
+        "start": 30.32,
+        "end": 30.64
+      },
+      {
+        "word": "hand",
+        "start_offset": 383,
+        "end_offset": 387,
+        "start": 30.64,
+        "end": 30.96
+      },
+      {
+        "word": "with",
+        "start_offset": 391,
+        "end_offset": 395,
+        "start": 31.28,
+        "end": 31.6
+      },
+      {
+        "word": "the",
+        "start_offset": 403,
+        "end_offset": 407,
+        "start": 32.24,
+        "end": 32.56
+      },
+      {
+        "word": "magical",
+        "start_offset": 407,
+        "end_offset": 418,
+        "start": 32.56,
+        "end": 33.44
+      },
+      {
+        "word": "sphere",
+        "start_offset": 422,
+        "end_offset": 434,
+        "start": 33.76,
+        "end": 34.72
+      },
+      {
+        "word": "and",
+        "start_offset": 447,
+        "end_offset": 451,
+        "start": 35.76,
+        "end": 36.08
+      },
+      {
+        "word": "a",
+        "start_offset": 459,
+        "end_offset": 463,
+        "start": 36.72,
+        "end": 37.04
+      },
+      {
+        "word": "downward",
+        "start_offset": 463,
+        "end_offset": 471,
+        "start": 37.04,
+        "end": 37.68
+      },
+      {
+        "word": "scepter",
+        "start_offset": 481,
+        "end_offset": 491,
+        "start": 38.480000000000004,
+        "end": 39.28
+      },
+      {
+        "word": "in",
+        "start_offset": 491,
+        "end_offset": 494,
+        "start": 39.28,
+        "end": 39.52
+      },
+      {
+        "word": "the",
+        "start_offset": 494,
+        "end_offset": 497,
+        "start": 39.52,
+        "end": 39.76
+      },
+      {
+        "word": "left",
+        "start_offset": 497,
+        "end_offset": 504,
+        "start": 39.76,
+        "end": 40.32
+      },
+      {
+        "word": "hand.",
+        "start_offset": 504,
+        "end_offset": 508,
+        "start": 40.32,
+        "end": 40.64
+      },
+      {
+        "word": "Similar",
+        "start_offset": 514,
+        "end_offset": 521,
+        "start": 41.12,
+        "end": 41.68
+      },
+      {
+        "word": "to",
+        "start_offset": 521,
+        "end_offset": 525,
+        "start": 41.68,
+        "end": 42.0
+      },
+      {
+        "word": "card",
+        "start_offset": 525,
+        "end_offset": 530,
+        "start": 42.0,
+        "end": 42.4
+      },
+      {
+        "word": "five,",
+        "start_offset": 530,
+        "end_offset": 534,
+        "start": 42.4,
+        "end": 42.72
+      },
+      {
+        "word": "the",
+        "start_offset": 535,
+        "end_offset": 536,
+        "start": 42.800000000000004,
+        "end": 42.88
+      },
+      {
+        "word": "subjecator,",
+        "start_offset": 538,
+        "end_offset": 551,
+        "start": 43.04,
+        "end": 44.08
+      },
+      {
+        "word": "as",
+        "start_offset": 567,
+        "end_offset": 571,
+        "start": 45.36,
+        "end": 45.68
+      },
+      {
+        "word": "more",
+        "start_offset": 573,
+        "end_offset": 577,
+        "start": 45.84,
+        "end": 46.160000000000004
+      },
+      {
+        "word": "appropriate",
+        "start_offset": 577,
+        "end_offset": 586,
+        "start": 46.160000000000004,
+        "end": 46.88
+      },
+      {
+        "word": "for",
+        "start_offset": 586,
+        "end_offset": 590,
+        "start": 46.88,
+        "end": 47.2
+      },
+      {
+        "word": "this",
+        "start_offset": 590,
+        "end_offset": 594,
+        "start": 47.2,
+        "end": 47.52
+      },
+      {
+        "word": "card.",
+        "start_offset": 594,
+        "end_offset": 602,
+        "start": 47.52,
+        "end": 48.160000000000004
+      },
+      {
+        "word": "Draw",
+        "start_offset": 623,
+        "end_offset": 626,
+        "start": 49.84,
+        "end": 50.08
+      },
+      {
+        "word": "a",
+        "start_offset": 626,
+        "end_offset": 627,
+        "start": 50.08,
+        "end": 50.160000000000004
+      },
+      {
+        "word": "comment",
+        "start_offset": 627,
+        "end_offset": 632,
+        "start": 50.160000000000004,
+        "end": 50.56
+      },
+      {
+        "word": "on",
+        "start_offset": 632,
+        "end_offset": 634,
+        "start": 50.56,
+        "end": 50.72
+      },
+      {
+        "word": "that,",
+        "start_offset": 634,
+        "end_offset": 635,
+        "start": 50.72,
+        "end": 50.800000000000004
+      },
+      {
+        "word": "please.",
+        "start_offset": 637,
+        "end_offset": 644,
+        "start": 50.96,
+        "end": 51.52
+      },
+      {
+        "word": "Hi.",
+        "start_offset": 698,
+        "end_offset": 702,
+        "start": 55.84,
+        "end": 56.160000000000004
+      },
+      {
+        "word": "And",
+        "start_offset": 709,
+        "end_offset": 713,
+        "start": 56.72,
+        "end": 57.04
+      },
+      {
+        "word": "well.",
+        "start_offset": 719,
+        "end_offset": 722,
+        "start": 57.52,
+        "end": 57.76
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "103-13.mp3",
+    "audio_duration": 93.05,
+    "transcription_time": 0.15,
+    "rtfx": 615.16,
+    "timestamp": "2026-01-06T22:00:43.678805+00:00"
+  }
+}

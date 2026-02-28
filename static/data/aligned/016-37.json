@@ -1,0 +1,515 @@
+{
+  "text": "Can you tell me if the progression of life in the other galaxies is similar to progression in this one? I am Ra. The progression is somewhat close to the same, asymptotically approaching congruency throughout infinity. The free choosing of what you call galactic systems causes variations of an extremely minor nature from one of your galaxies to another.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me if the progression of life in the other galaxies is similar to progression in this one?",
+        "start_offset": 0,
+        "end_offset": 103,
+        "start": 7.801,
+        "end": 17.321
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 104,
+        "end_offset": 112,
+        "start": 17.361,
+        "end": 18.021
+      },
+      {
+        "segment": "The progression is somewhat close to the same, asymptotically approaching congruency throughout infinity.",
+        "start_offset": 113,
+        "end_offset": 218,
+        "start": 18.041,
+        "end": 41.183
+      },
+      {
+        "segment": "The free choosing of what you call galactic systems causes variations of an extremely minor nature from one of your galaxies to another.",
+        "start_offset": 219,
+        "end_offset": 355,
+        "start": 42.583,
+        "end": 71.866
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 7.801,
+        "end": 7.981,
+        "score": -10.2997
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 10.741,
+        "end": 10.981,
+        "score": -10.1439
+      },
+      {
+        "word": "tell",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 11.261,
+        "end": 11.621,
+        "score": -9.2143
+      },
+      {
+        "word": "me",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 13.821,
+        "end": 13.941,
+        "score": -6.6649
+      },
+      {
+        "word": "if",
+        "start_offset": 16,
+        "end_offset": 18,
+        "start": 14.121,
+        "end": 14.201,
+        "score": -5.0609
+      },
+      {
+        "word": "the",
+        "start_offset": 19,
+        "end_offset": 22,
+        "start": 14.761,
+        "end": 14.881,
+        "score": -6.9761
+      },
+      {
+        "word": "progression",
+        "start_offset": 23,
+        "end_offset": 34,
+        "start": 14.901,
+        "end": 15.721,
+        "score": -8.8119
+      },
+      {
+        "word": "of",
+        "start_offset": 35,
+        "end_offset": 37,
+        "start": 15.801,
+        "end": 15.841,
+        "score": -9.6983
+      },
+      {
+        "word": "life",
+        "start_offset": 38,
+        "end_offset": 42,
+        "start": 15.861,
+        "end": 15.941,
+        "score": -6.8611
+      },
+      {
+        "word": "in",
+        "start_offset": 43,
+        "end_offset": 45,
+        "start": 15.981,
+        "end": 16.021,
+        "score": -6.4701
+      },
+      {
+        "word": "the",
+        "start_offset": 46,
+        "end_offset": 49,
+        "start": 16.061,
+        "end": 16.121,
+        "score": -8.7327
+      },
+      {
+        "word": "other",
+        "start_offset": 50,
+        "end_offset": 55,
+        "start": 16.141,
+        "end": 16.241,
+        "score": -5.9348
+      },
+      {
+        "word": "galaxies",
+        "start_offset": 56,
+        "end_offset": 64,
+        "start": 16.261,
+        "end": 16.421,
+        "score": -7.2244
+      },
+      {
+        "word": "is",
+        "start_offset": 65,
+        "end_offset": 67,
+        "start": 16.441,
+        "end": 16.481,
+        "score": -7.5254
+      },
+      {
+        "word": "similar",
+        "start_offset": 68,
+        "end_offset": 75,
+        "start": 16.501,
+        "end": 16.641,
+        "score": -7.8716
+      },
+      {
+        "word": "to",
+        "start_offset": 76,
+        "end_offset": 78,
+        "start": 16.661,
+        "end": 16.701,
+        "score": -8.1028
+      },
+      {
+        "word": "progression",
+        "start_offset": 79,
+        "end_offset": 90,
+        "start": 16.721,
+        "end": 17.021,
+        "score": -8.8898
+      },
+      {
+        "word": "in",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 17.041,
+        "end": 17.081,
+        "score": -9.2
+      },
+      {
+        "word": "this",
+        "start_offset": 94,
+        "end_offset": 98,
+        "start": 17.101,
+        "end": 17.221,
+        "score": -8.9015
+      },
+      {
+        "word": "one?",
+        "start_offset": 99,
+        "end_offset": 103,
+        "start": 17.241,
+        "end": 17.321,
+        "score": -9.0281
+      },
+      {
+        "word": "I",
+        "start_offset": 104,
+        "end_offset": 105,
+        "start": 17.361,
+        "end": 17.381,
+        "score": -8.8768
+      },
+      {
+        "word": "am",
+        "start_offset": 106,
+        "end_offset": 108,
+        "start": 17.861,
+        "end": 17.921,
+        "score": -7.7749
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 109,
+        "end_offset": 112,
+        "start": 17.941,
+        "end": 18.021,
+        "score": -8.7838
+      },
+      {
+        "word": "The",
+        "start_offset": 113,
+        "end_offset": 116,
+        "start": 18.041,
+        "end": 18.161,
+        "score": -1.2671
+      },
+      {
+        "word": "progression",
+        "start_offset": 117,
+        "end_offset": 128,
+        "start": 19.782,
+        "end": 20.722,
+        "score": -0.7231
+      },
+      {
+        "word": "is",
+        "start_offset": 129,
+        "end_offset": 131,
+        "start": 21.822,
+        "end": 22.142,
+        "score": -0.7182
+      },
+      {
+        "word": "somewhat",
+        "start_offset": 132,
+        "end_offset": 140,
+        "start": 23.482,
+        "end": 24.522,
+        "score": -0.7896
+      },
+      {
+        "word": "close",
+        "start_offset": 141,
+        "end_offset": 146,
+        "start": 25.402,
+        "end": 26.082,
+        "score": -0.7595
+      },
+      {
+        "word": "to",
+        "start_offset": 147,
+        "end_offset": 149,
+        "start": 26.782,
+        "end": 26.962,
+        "score": -0.725
+      },
+      {
+        "word": "the",
+        "start_offset": 150,
+        "end_offset": 153,
+        "start": 27.662,
+        "end": 27.782,
+        "score": -1.1858
+      },
+      {
+        "word": "same,",
+        "start_offset": 154,
+        "end_offset": 159,
+        "start": 28.742,
+        "end": 30.562,
+        "score": -2.6487
+      },
+      {
+        "word": "asymptotically",
+        "start_offset": 160,
+        "end_offset": 174,
+        "start": 30.722,
+        "end": 33.803,
+        "score": -3.1514
+      },
+      {
+        "word": "approaching",
+        "start_offset": 175,
+        "end_offset": 186,
+        "start": 34.903,
+        "end": 35.703,
+        "score": -1.2959
+      },
+      {
+        "word": "congruency",
+        "start_offset": 187,
+        "end_offset": 197,
+        "start": 36.443,
+        "end": 37.803,
+        "score": -1.3311
+      },
+      {
+        "word": "throughout",
+        "start_offset": 198,
+        "end_offset": 208,
+        "start": 38.823,
+        "end": 39.563,
+        "score": -1.0131
+      },
+      {
+        "word": "infinity.",
+        "start_offset": 209,
+        "end_offset": 218,
+        "start": 40.243,
+        "end": 41.183,
+        "score": -1.4897
+      },
+      {
+        "word": "The",
+        "start_offset": 219,
+        "end_offset": 222,
+        "start": 42.583,
+        "end": 42.703,
+        "score": -1.3142
+      },
+      {
+        "word": "free",
+        "start_offset": 223,
+        "end_offset": 227,
+        "start": 43.843,
+        "end": 44.204,
+        "score": -0.9119
+      },
+      {
+        "word": "choosing",
+        "start_offset": 228,
+        "end_offset": 236,
+        "start": 45.204,
+        "end": 45.844,
+        "score": -1.5695
+      },
+      {
+        "word": "of",
+        "start_offset": 237,
+        "end_offset": 239,
+        "start": 46.664,
+        "end": 46.884,
+        "score": -0.7847
+      },
+      {
+        "word": "what",
+        "start_offset": 240,
+        "end_offset": 244,
+        "start": 48.624,
+        "end": 48.864,
+        "score": -0.8021
+      },
+      {
+        "word": "you",
+        "start_offset": 245,
+        "end_offset": 248,
+        "start": 49.244,
+        "end": 49.384,
+        "score": -0.759
+      },
+      {
+        "word": "call",
+        "start_offset": 249,
+        "end_offset": 253,
+        "start": 49.764,
+        "end": 50.204,
+        "score": -0.8261
+      },
+      {
+        "word": "galactic",
+        "start_offset": 254,
+        "end_offset": 262,
+        "start": 50.724,
+        "end": 51.804,
+        "score": -0.7888
+      },
+      {
+        "word": "systems",
+        "start_offset": 263,
+        "end_offset": 270,
+        "start": 53.444,
+        "end": 54.224,
+        "score": -0.9208
+      },
+      {
+        "word": "causes",
+        "start_offset": 271,
+        "end_offset": 277,
+        "start": 54.904,
+        "end": 55.644,
+        "score": -0.716
+      },
+      {
+        "word": "variations",
+        "start_offset": 278,
+        "end_offset": 288,
+        "start": 56.425,
+        "end": 57.645,
+        "score": -0.7017
+      },
+      {
+        "word": "of",
+        "start_offset": 289,
+        "end_offset": 291,
+        "start": 58.305,
+        "end": 58.505,
+        "score": -0.91
+      },
+      {
+        "word": "an",
+        "start_offset": 292,
+        "end_offset": 294,
+        "start": 58.885,
+        "end": 59.105,
+        "score": -0.7422
+      },
+      {
+        "word": "extremely",
+        "start_offset": 295,
+        "end_offset": 304,
+        "start": 59.405,
+        "end": 60.565,
+        "score": -0.9737
+      },
+      {
+        "word": "minor",
+        "start_offset": 305,
+        "end_offset": 310,
+        "start": 60.865,
+        "end": 61.545,
+        "score": -2.5543
+      },
+      {
+        "word": "nature",
+        "start_offset": 311,
+        "end_offset": 317,
+        "start": 62.385,
+        "end": 63.025,
+        "score": -1.1616
+      },
+      {
+        "word": "from",
+        "start_offset": 318,
+        "end_offset": 322,
+        "start": 64.185,
+        "end": 64.605,
+        "score": -0.7611
+      },
+      {
+        "word": "one",
+        "start_offset": 323,
+        "end_offset": 326,
+        "start": 67.085,
+        "end": 67.305,
+        "score": -0.7109
+      },
+      {
+        "word": "of",
+        "start_offset": 327,
+        "end_offset": 329,
+        "start": 67.565,
+        "end": 67.785,
+        "score": -0.7125
+      },
+      {
+        "word": "your",
+        "start_offset": 330,
+        "end_offset": 334,
+        "start": 68.005,
+        "end": 68.265,
+        "score": -1.0199
+      },
+      {
+        "word": "galaxies",
+        "start_offset": 335,
+        "end_offset": 343,
+        "start": 68.725,
+        "end": 69.746,
+        "score": -0.789
+      },
+      {
+        "word": "to",
+        "start_offset": 344,
+        "end_offset": 346,
+        "start": 70.366,
+        "end": 70.526,
+        "score": -0.918
+      },
+      {
+        "word": "another.",
+        "start_offset": 347,
+        "end_offset": 355,
+        "start": 71.186,
+        "end": 71.866,
+        "score": -1.5655
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-37.mp3",
+    "audio_duration": 72.0457,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

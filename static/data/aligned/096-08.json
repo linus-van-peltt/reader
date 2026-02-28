@@ -1,0 +1,690 @@
+{
+  "text": "What was the origin of this malfunction? I am Ra. There are two difficulties with the machine. Firstly, this instrument has a strong effect upon electromagnetic and electronic machines and instruments, and likely, if continued use of these is desired, should request that another handle the machines. Also, there was some difficulty from physical interference due to the material you call tape catching upon adjoining, what you would call, buttons when the \"play\" button, as you call it, is depressed.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What was the origin of this malfunction?",
+        "start_offset": 0,
+        "end_offset": 40,
+        "start": 1.8,
+        "end": 10.301
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 41,
+        "end_offset": 49,
+        "start": 11.441,
+        "end": 14.821
+      },
+      {
+        "segment": "There are two difficulties with the machine.",
+        "start_offset": 50,
+        "end_offset": 94,
+        "start": 14.961,
+        "end": 26.902
+      },
+      {
+        "segment": "Firstly, this instrument has a strong effect upon electromagnetic and electronic machines and instruments, and likely, if continued use of these is desired, should request that another handle the machines.",
+        "start_offset": 95,
+        "end_offset": 300,
+        "start": 29.222,
+        "end": 88.866
+      },
+      {
+        "segment": "Also, there was some difficulty from physical interference due to the material you call tape catching upon adjoining, what you would call, buttons when the \"play\" button, as you call it, is depressed.",
+        "start_offset": 301,
+        "end_offset": 501,
+        "start": 91.847,
+        "end": 143.11
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 1.8,
+        "end": 1.94,
+        "score": -5.375
+      },
+      {
+        "word": "was",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 2.02,
+        "end": 2.26,
+        "score": -5.2295
+      },
+      {
+        "word": "the",
+        "start_offset": 9,
+        "end_offset": 12,
+        "start": 2.34,
+        "end": 2.46,
+        "score": -5.6779
+      },
+      {
+        "word": "origin",
+        "start_offset": 13,
+        "end_offset": 19,
+        "start": 3.3,
+        "end": 3.64,
+        "score": -3.966
+      },
+      {
+        "word": "of",
+        "start_offset": 20,
+        "end_offset": 22,
+        "start": 3.72,
+        "end": 3.8,
+        "score": -4.3972
+      },
+      {
+        "word": "this",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 3.84,
+        "end": 4.08,
+        "score": -5.4182
+      },
+      {
+        "word": "malfunction?",
+        "start_offset": 28,
+        "end_offset": 40,
+        "start": 5.72,
+        "end": 10.301,
+        "score": -6.7795
+      },
+      {
+        "word": "I",
+        "start_offset": 41,
+        "end_offset": 42,
+        "start": 11.441,
+        "end": 11.461,
+        "score": -7.2488
+      },
+      {
+        "word": "am",
+        "start_offset": 43,
+        "end_offset": 45,
+        "start": 11.601,
+        "end": 11.741,
+        "score": -5.1431
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 46,
+        "end_offset": 49,
+        "start": 11.761,
+        "end": 14.821,
+        "score": -5.7365
+      },
+      {
+        "word": "There",
+        "start_offset": 50,
+        "end_offset": 55,
+        "start": 14.961,
+        "end": 15.261,
+        "score": -0.8093
+      },
+      {
+        "word": "are",
+        "start_offset": 56,
+        "end_offset": 59,
+        "start": 16.301,
+        "end": 16.561,
+        "score": -1.235
+      },
+      {
+        "word": "two",
+        "start_offset": 60,
+        "end_offset": 63,
+        "start": 17.601,
+        "end": 17.881,
+        "score": -2.3549
+      },
+      {
+        "word": "difficulties",
+        "start_offset": 64,
+        "end_offset": 76,
+        "start": 19.841,
+        "end": 21.222,
+        "score": -2.0835
+      },
+      {
+        "word": "with",
+        "start_offset": 77,
+        "end_offset": 81,
+        "start": 22.022,
+        "end": 22.342,
+        "score": -0.8857
+      },
+      {
+        "word": "the",
+        "start_offset": 82,
+        "end_offset": 85,
+        "start": 24.922,
+        "end": 25.042,
+        "score": -0.992
+      },
+      {
+        "word": "machine.",
+        "start_offset": 86,
+        "end_offset": 94,
+        "start": 26.242,
+        "end": 26.902,
+        "score": -1.6772
+      },
+      {
+        "word": "Firstly,",
+        "start_offset": 95,
+        "end_offset": 103,
+        "start": 29.222,
+        "end": 29.842,
+        "score": -0.7514
+      },
+      {
+        "word": "this",
+        "start_offset": 104,
+        "end_offset": 108,
+        "start": 31.582,
+        "end": 31.942,
+        "score": -0.7538
+      },
+      {
+        "word": "instrument",
+        "start_offset": 109,
+        "end_offset": 119,
+        "start": 32.962,
+        "end": 34.062,
+        "score": -0.738
+      },
+      {
+        "word": "has",
+        "start_offset": 120,
+        "end_offset": 123,
+        "start": 35.883,
+        "end": 36.343,
+        "score": -0.8887
+      },
+      {
+        "word": "a",
+        "start_offset": 124,
+        "end_offset": 125,
+        "start": 38.583,
+        "end": 38.603,
+        "score": -1.3404
+      },
+      {
+        "word": "strong",
+        "start_offset": 126,
+        "end_offset": 132,
+        "start": 42.263,
+        "end": 42.743,
+        "score": -0.7143
+      },
+      {
+        "word": "effect",
+        "start_offset": 133,
+        "end_offset": 139,
+        "start": 43.283,
+        "end": 43.943,
+        "score": -0.7198
+      },
+      {
+        "word": "upon",
+        "start_offset": 140,
+        "end_offset": 144,
+        "start": 44.683,
+        "end": 45.203,
+        "score": -2.6901
+      },
+      {
+        "word": "electromagnetic",
+        "start_offset": 145,
+        "end_offset": 160,
+        "start": 48.444,
+        "end": 50.364,
+        "score": -0.7033
+      },
+      {
+        "word": "and",
+        "start_offset": 161,
+        "end_offset": 164,
+        "start": 50.604,
+        "end": 50.844,
+        "score": -0.7158
+      },
+      {
+        "word": "electronic",
+        "start_offset": 165,
+        "end_offset": 175,
+        "start": 51.044,
+        "end": 52.244,
+        "score": -0.7228
+      },
+      {
+        "word": "machines",
+        "start_offset": 176,
+        "end_offset": 184,
+        "start": 55.544,
+        "end": 56.324,
+        "score": -1.6385
+      },
+      {
+        "word": "and",
+        "start_offset": 185,
+        "end_offset": 188,
+        "start": 57.104,
+        "end": 57.384,
+        "score": -0.7585
+      },
+      {
+        "word": "instruments,",
+        "start_offset": 189,
+        "end_offset": 201,
+        "start": 57.904,
+        "end": 58.964,
+        "score": -0.78
+      },
+      {
+        "word": "and",
+        "start_offset": 202,
+        "end_offset": 205,
+        "start": 61.064,
+        "end": 61.324,
+        "score": -0.8923
+      },
+      {
+        "word": "likely,",
+        "start_offset": 206,
+        "end_offset": 213,
+        "start": 62.685,
+        "end": 63.205,
+        "score": -0.7347
+      },
+      {
+        "word": "if",
+        "start_offset": 214,
+        "end_offset": 216,
+        "start": 66.425,
+        "end": 66.605,
+        "score": -0.7651
+      },
+      {
+        "word": "continued",
+        "start_offset": 217,
+        "end_offset": 226,
+        "start": 70.345,
+        "end": 71.385,
+        "score": -0.7403
+      },
+      {
+        "word": "use",
+        "start_offset": 227,
+        "end_offset": 230,
+        "start": 71.985,
+        "end": 72.285,
+        "score": -0.7807
+      },
+      {
+        "word": "of",
+        "start_offset": 231,
+        "end_offset": 233,
+        "start": 72.585,
+        "end": 72.825,
+        "score": -1.0946
+      },
+      {
+        "word": "these",
+        "start_offset": 234,
+        "end_offset": 239,
+        "start": 73.085,
+        "end": 73.465,
+        "score": -1.3519
+      },
+      {
+        "word": "is",
+        "start_offset": 240,
+        "end_offset": 242,
+        "start": 73.665,
+        "end": 73.905,
+        "score": -0.7736
+      },
+      {
+        "word": "desired,",
+        "start_offset": 243,
+        "end_offset": 251,
+        "start": 74.605,
+        "end": 75.405,
+        "score": -0.735
+      },
+      {
+        "word": "should",
+        "start_offset": 252,
+        "end_offset": 258,
+        "start": 76.886,
+        "end": 77.226,
+        "score": -0.8422
+      },
+      {
+        "word": "request",
+        "start_offset": 259,
+        "end_offset": 266,
+        "start": 80.506,
+        "end": 81.246,
+        "score": -0.7059
+      },
+      {
+        "word": "that",
+        "start_offset": 267,
+        "end_offset": 271,
+        "start": 81.626,
+        "end": 81.926,
+        "score": -0.7116
+      },
+      {
+        "word": "another",
+        "start_offset": 272,
+        "end_offset": 279,
+        "start": 82.726,
+        "end": 83.346,
+        "score": -0.7298
+      },
+      {
+        "word": "handle",
+        "start_offset": 280,
+        "end_offset": 286,
+        "start": 84.326,
+        "end": 84.846,
+        "score": -0.7276
+      },
+      {
+        "word": "the",
+        "start_offset": 287,
+        "end_offset": 290,
+        "start": 85.766,
+        "end": 85.906,
+        "score": -0.904
+      },
+      {
+        "word": "machines.",
+        "start_offset": 291,
+        "end_offset": 300,
+        "start": 88.026,
+        "end": 88.866,
+        "score": -1.7392
+      },
+      {
+        "word": "Also,",
+        "start_offset": 301,
+        "end_offset": 306,
+        "start": 91.847,
+        "end": 92.307,
+        "score": -0.7122
+      },
+      {
+        "word": "there",
+        "start_offset": 307,
+        "end_offset": 312,
+        "start": 94.007,
+        "end": 94.307,
+        "score": -0.8118
+      },
+      {
+        "word": "was",
+        "start_offset": 313,
+        "end_offset": 316,
+        "start": 94.787,
+        "end": 95.127,
+        "score": -0.7062
+      },
+      {
+        "word": "some",
+        "start_offset": 317,
+        "end_offset": 321,
+        "start": 95.887,
+        "end": 96.207,
+        "score": -0.7065
+      },
+      {
+        "word": "difficulty",
+        "start_offset": 322,
+        "end_offset": 332,
+        "start": 98.767,
+        "end": 99.847,
+        "score": -2.0272
+      },
+      {
+        "word": "from",
+        "start_offset": 333,
+        "end_offset": 337,
+        "start": 100.727,
+        "end": 101.047,
+        "score": -0.7261
+      },
+      {
+        "word": "physical",
+        "start_offset": 338,
+        "end_offset": 346,
+        "start": 102.047,
+        "end": 103.047,
+        "score": -1.3408
+      },
+      {
+        "word": "interference",
+        "start_offset": 347,
+        "end_offset": 359,
+        "start": 104.148,
+        "end": 105.488,
+        "score": -1.3746
+      },
+      {
+        "word": "due",
+        "start_offset": 360,
+        "end_offset": 363,
+        "start": 106.468,
+        "end": 106.788,
+        "score": -2.3463
+      },
+      {
+        "word": "to",
+        "start_offset": 364,
+        "end_offset": 366,
+        "start": 107.388,
+        "end": 107.548,
+        "score": -0.9962
+      },
+      {
+        "word": "the",
+        "start_offset": 367,
+        "end_offset": 370,
+        "start": 108.288,
+        "end": 108.408,
+        "score": -0.9351
+      },
+      {
+        "word": "material",
+        "start_offset": 371,
+        "end_offset": 379,
+        "start": 111.448,
+        "end": 112.488,
+        "score": -0.8383
+      },
+      {
+        "word": "you",
+        "start_offset": 380,
+        "end_offset": 383,
+        "start": 113.088,
+        "end": 113.248,
+        "score": -0.8976
+      },
+      {
+        "word": "call",
+        "start_offset": 384,
+        "end_offset": 388,
+        "start": 113.728,
+        "end": 114.088,
+        "score": -1.1778
+      },
+      {
+        "word": "tape",
+        "start_offset": 389,
+        "end_offset": 393,
+        "start": 115.008,
+        "end": 115.428,
+        "score": -0.765
+      },
+      {
+        "word": "catching",
+        "start_offset": 394,
+        "end_offset": 402,
+        "start": 117.849,
+        "end": 118.389,
+        "score": -0.7431
+      },
+      {
+        "word": "upon",
+        "start_offset": 403,
+        "end_offset": 407,
+        "start": 119.289,
+        "end": 119.809,
+        "score": -1.5984
+      },
+      {
+        "word": "adjoining,",
+        "start_offset": 408,
+        "end_offset": 418,
+        "start": 120.589,
+        "end": 121.509,
+        "score": -1.534
+      },
+      {
+        "word": "what",
+        "start_offset": 419,
+        "end_offset": 423,
+        "start": 125.909,
+        "end": 126.109,
+        "score": -0.7333
+      },
+      {
+        "word": "you",
+        "start_offset": 424,
+        "end_offset": 427,
+        "start": 126.349,
+        "end": 126.469,
+        "score": -0.7257
+      },
+      {
+        "word": "would",
+        "start_offset": 428,
+        "end_offset": 433,
+        "start": 126.629,
+        "end": 126.849,
+        "score": -0.7538
+      },
+      {
+        "word": "call,",
+        "start_offset": 434,
+        "end_offset": 439,
+        "start": 126.969,
+        "end": 127.309,
+        "score": -0.7044
+      },
+      {
+        "word": "buttons",
+        "start_offset": 440,
+        "end_offset": 447,
+        "start": 128.049,
+        "end": 128.689,
+        "score": -1.2251
+      },
+      {
+        "word": "when",
+        "start_offset": 448,
+        "end_offset": 452,
+        "start": 131.71,
+        "end": 132.01,
+        "score": -0.8482
+      },
+      {
+        "word": "the",
+        "start_offset": 453,
+        "end_offset": 456,
+        "start": 132.57,
+        "end": 132.69,
+        "score": -0.9037
+      },
+      {
+        "word": "\"play\"",
+        "start_offset": 457,
+        "end_offset": 463,
+        "start": 134.01,
+        "end": 134.43,
+        "score": -0.7258
+      },
+      {
+        "word": "button,",
+        "start_offset": 464,
+        "end_offset": 471,
+        "start": 136.49,
+        "end": 136.91,
+        "score": -1.2145
+      },
+      {
+        "word": "as",
+        "start_offset": 472,
+        "end_offset": 474,
+        "start": 137.55,
+        "end": 137.79,
+        "score": -3.9521
+      },
+      {
+        "word": "you",
+        "start_offset": 475,
+        "end_offset": 478,
+        "start": 138.07,
+        "end": 138.19,
+        "score": -0.8033
+      },
+      {
+        "word": "call",
+        "start_offset": 479,
+        "end_offset": 483,
+        "start": 138.45,
+        "end": 138.77,
+        "score": -0.76
+      },
+      {
+        "word": "it,",
+        "start_offset": 484,
+        "end_offset": 487,
+        "start": 139.01,
+        "end": 139.19,
+        "score": -0.745
+      },
+      {
+        "word": "is",
+        "start_offset": 488,
+        "end_offset": 490,
+        "start": 141.57,
+        "end": 141.81,
+        "score": -0.7425
+      },
+      {
+        "word": "depressed.",
+        "start_offset": 491,
+        "end_offset": 501,
+        "start": 142.33,
+        "end": 143.11,
+        "score": -0.8072
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "096-08.mp3",
+    "audio_duration": 146.0506,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

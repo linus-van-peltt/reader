@@ -1,0 +1,212 @@
+{
+  "text": "Could you tell me how that works? I am Ra. The closest analogy would be a random number generator within certain limits.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you tell me how that works?",
+        "start_offset": 0,
+        "end_offset": 33,
+        "start": 1.941,
+        "end": 8.983
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 34,
+        "end_offset": 42,
+        "start": 9.003,
+        "end": 10.643
+      },
+      {
+        "segment": "The closest analogy would be a random number generator within certain limits.",
+        "start_offset": 43,
+        "end_offset": 120,
+        "start": 10.783,
+        "end": 27.788
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 1.941,
+        "end": 2.321,
+        "score": -7.1072
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 2.341,
+        "end": 2.481,
+        "score": -6.9877
+      },
+      {
+        "word": "tell",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 2.501,
+        "end": 2.681,
+        "score": -6.8037
+      },
+      {
+        "word": "me",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 2.741,
+        "end": 2.841,
+        "score": -6.4395
+      },
+      {
+        "word": "how",
+        "start_offset": 18,
+        "end_offset": 21,
+        "start": 6.642,
+        "end": 6.842,
+        "score": -5.8446
+      },
+      {
+        "word": "that",
+        "start_offset": 22,
+        "end_offset": 26,
+        "start": 7.002,
+        "end": 7.862,
+        "score": -3.3146
+      },
+      {
+        "word": "works?",
+        "start_offset": 27,
+        "end_offset": 33,
+        "start": 8.702,
+        "end": 8.983,
+        "score": -5.5759
+      },
+      {
+        "word": "I",
+        "start_offset": 34,
+        "end_offset": 35,
+        "start": 9.003,
+        "end": 9.023,
+        "score": -5.9112
+      },
+      {
+        "word": "am",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 9.043,
+        "end": 9.083,
+        "score": -5.8443
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 9.103,
+        "end": 10.643,
+        "score": -5.3399
+      },
+      {
+        "word": "The",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 10.783,
+        "end": 10.963,
+        "score": -0.8475
+      },
+      {
+        "word": "closest",
+        "start_offset": 47,
+        "end_offset": 54,
+        "start": 12.784,
+        "end": 13.644,
+        "score": -0.719
+      },
+      {
+        "word": "analogy",
+        "start_offset": 55,
+        "end_offset": 62,
+        "start": 15.304,
+        "end": 16.065,
+        "score": -0.7608
+      },
+      {
+        "word": "would",
+        "start_offset": 63,
+        "end_offset": 68,
+        "start": 16.825,
+        "end": 17.145,
+        "score": -1.1615
+      },
+      {
+        "word": "be",
+        "start_offset": 69,
+        "end_offset": 71,
+        "start": 17.585,
+        "end": 17.705,
+        "score": -0.701
+      },
+      {
+        "word": "a",
+        "start_offset": 72,
+        "end_offset": 73,
+        "start": 18.845,
+        "end": 18.865,
+        "score": -0.704
+      },
+      {
+        "word": "random",
+        "start_offset": 74,
+        "end_offset": 80,
+        "start": 19.826,
+        "end": 20.406,
+        "score": -0.8464
+      },
+      {
+        "word": "number",
+        "start_offset": 81,
+        "end_offset": 87,
+        "start": 21.146,
+        "end": 21.606,
+        "score": -0.706
+      },
+      {
+        "word": "generator",
+        "start_offset": 88,
+        "end_offset": 97,
+        "start": 22.606,
+        "end": 23.447,
+        "score": -0.8997
+      },
+      {
+        "word": "within",
+        "start_offset": 98,
+        "end_offset": 104,
+        "start": 24.687,
+        "end": 25.107,
+        "score": -0.7319
+      },
+      {
+        "word": "certain",
+        "start_offset": 105,
+        "end_offset": 112,
+        "start": 25.807,
+        "end": 26.287,
+        "score": -0.7035
+      },
+      {
+        "word": "limits.",
+        "start_offset": 113,
+        "end_offset": 120,
+        "start": 27.228,
+        "end": 27.788,
+        "score": -0.6999
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-04.mp3",
+    "audio_duration": 29.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

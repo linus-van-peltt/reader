@@ -1,0 +1,107 @@
+{
+  "text": "Is it also used for healing? I am raw. No",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is it also used for healing?",
+        "start_offset": 16,
+        "end_offset": 44,
+        "start": 1.28,
+        "end": 3.52
+      },
+      {
+        "segment": "I am raw.",
+        "start_offset": 84,
+        "end_offset": 121,
+        "start": 6.72,
+        "end": 9.68
+      },
+      {
+        "segment": "No",
+        "start_offset": 150,
+        "end_offset": 154,
+        "start": 12.0,
+        "end": 12.32
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 1.28,
+        "end": 1.6
+      },
+      {
+        "word": "it",
+        "start_offset": 20,
+        "end_offset": 23,
+        "start": 1.6,
+        "end": 1.84
+      },
+      {
+        "word": "also",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 1.84,
+        "end": 2.16
+      },
+      {
+        "word": "used",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 2.16,
+        "end": 2.4
+      },
+      {
+        "word": "for",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 2.4,
+        "end": 2.64
+      },
+      {
+        "word": "healing?",
+        "start_offset": 33,
+        "end_offset": 44,
+        "start": 2.64,
+        "end": 3.52
+      },
+      {
+        "word": "I",
+        "start_offset": 84,
+        "end_offset": 88,
+        "start": 6.72,
+        "end": 7.04
+      },
+      {
+        "word": "am",
+        "start_offset": 96,
+        "end_offset": 100,
+        "start": 7.68,
+        "end": 8.0
+      },
+      {
+        "word": "raw.",
+        "start_offset": 111,
+        "end_offset": 121,
+        "start": 8.88,
+        "end": 9.68
+      },
+      {
+        "word": "No",
+        "start_offset": 150,
+        "end_offset": 154,
+        "start": 12.0,
+        "end": 12.32
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "058-22.mp3",
+    "audio_duration": 28.03,
+    "transcription_time": 0.09,
+    "rtfx": 318.6,
+    "timestamp": "2026-01-06T21:53:00.658386+00:00"
+  }
+}

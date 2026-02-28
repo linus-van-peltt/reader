@@ -1,0 +1,310 @@
+{
+  "text": "Yeah. Your service is giving the law of life. Do you work with any plants other than earth as a plant or just earth? I am wrong. We work only with this planetary sphere and this time.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Yeah.",
+        "start_offset": 39,
+        "end_offset": 45,
+        "start": 3.12,
+        "end": 3.6
+      },
+      {
+        "segment": "Your service is giving the law of life.",
+        "start_offset": 63,
+        "end_offset": 111,
+        "start": 5.04,
+        "end": 8.88
+      },
+      {
+        "segment": "Do you work with any plants other than earth as a plant or just earth?",
+        "start_offset": 129,
+        "end_offset": 201,
+        "start": 10.32,
+        "end": 16.080000000000002
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 231,
+        "end_offset": 262,
+        "start": 18.48,
+        "end": 20.96
+      },
+      {
+        "segment": "We work only with this planetary sphere and this time.",
+        "start_offset": 285,
+        "end_offset": 448,
+        "start": 22.8,
+        "end": 35.84
+      }
+    ],
+    "word": [
+      {
+        "word": "Yeah.",
+        "start_offset": 39,
+        "end_offset": 45,
+        "start": 3.12,
+        "end": 3.6
+      },
+      {
+        "word": "Your",
+        "start_offset": 63,
+        "end_offset": 65,
+        "start": 5.04,
+        "end": 5.2
+      },
+      {
+        "word": "service",
+        "start_offset": 70,
+        "end_offset": 78,
+        "start": 5.6000000000000005,
+        "end": 6.24
+      },
+      {
+        "word": "is",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 6.96,
+        "end": 7.12
+      },
+      {
+        "word": "giving",
+        "start_offset": 93,
+        "end_offset": 98,
+        "start": 7.44,
+        "end": 7.84
+      },
+      {
+        "word": "the",
+        "start_offset": 98,
+        "end_offset": 100,
+        "start": 7.84,
+        "end": 8.0
+      },
+      {
+        "word": "law",
+        "start_offset": 100,
+        "end_offset": 103,
+        "start": 8.0,
+        "end": 8.24
+      },
+      {
+        "word": "of",
+        "start_offset": 103,
+        "end_offset": 104,
+        "start": 8.24,
+        "end": 8.32
+      },
+      {
+        "word": "life.",
+        "start_offset": 106,
+        "end_offset": 111,
+        "start": 8.48,
+        "end": 8.88
+      },
+      {
+        "word": "Do",
+        "start_offset": 129,
+        "end_offset": 133,
+        "start": 10.32,
+        "end": 10.64
+      },
+      {
+        "word": "you",
+        "start_offset": 133,
+        "end_offset": 137,
+        "start": 10.64,
+        "end": 10.96
+      },
+      {
+        "word": "work",
+        "start_offset": 137,
+        "end_offset": 141,
+        "start": 10.96,
+        "end": 11.28
+      },
+      {
+        "word": "with",
+        "start_offset": 144,
+        "end_offset": 148,
+        "start": 11.52,
+        "end": 11.84
+      },
+      {
+        "word": "any",
+        "start_offset": 150,
+        "end_offset": 154,
+        "start": 12.0,
+        "end": 12.32
+      },
+      {
+        "word": "plants",
+        "start_offset": 154,
+        "end_offset": 158,
+        "start": 12.32,
+        "end": 12.64
+      },
+      {
+        "word": "other",
+        "start_offset": 160,
+        "end_offset": 162,
+        "start": 12.8,
+        "end": 12.96
+      },
+      {
+        "word": "than",
+        "start_offset": 163,
+        "end_offset": 164,
+        "start": 13.040000000000001,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "earth",
+        "start_offset": 168,
+        "end_offset": 172,
+        "start": 13.44,
+        "end": 13.76
+      },
+      {
+        "word": "as",
+        "start_offset": 173,
+        "end_offset": 174,
+        "start": 13.84,
+        "end": 13.92
+      },
+      {
+        "word": "a",
+        "start_offset": 176,
+        "end_offset": 177,
+        "start": 14.08,
+        "end": 14.16
+      },
+      {
+        "word": "plant",
+        "start_offset": 180,
+        "end_offset": 184,
+        "start": 14.4,
+        "end": 14.72
+      },
+      {
+        "word": "or",
+        "start_offset": 189,
+        "end_offset": 192,
+        "start": 15.120000000000001,
+        "end": 15.36
+      },
+      {
+        "word": "just",
+        "start_offset": 192,
+        "end_offset": 194,
+        "start": 15.36,
+        "end": 15.52
+      },
+      {
+        "word": "earth?",
+        "start_offset": 198,
+        "end_offset": 201,
+        "start": 15.84,
+        "end": 16.080000000000002
+      },
+      {
+        "word": "I",
+        "start_offset": 231,
+        "end_offset": 235,
+        "start": 18.48,
+        "end": 18.8
+      },
+      {
+        "word": "am",
+        "start_offset": 243,
+        "end_offset": 247,
+        "start": 19.44,
+        "end": 19.76
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 255,
+        "end_offset": 262,
+        "start": 20.400000000000002,
+        "end": 20.96
+      },
+      {
+        "word": "We",
+        "start_offset": 285,
+        "end_offset": 289,
+        "start": 22.8,
+        "end": 23.12
+      },
+      {
+        "word": "work",
+        "start_offset": 301,
+        "end_offset": 305,
+        "start": 24.080000000000002,
+        "end": 24.400000000000002
+      },
+      {
+        "word": "only",
+        "start_offset": 321,
+        "end_offset": 325,
+        "start": 25.68,
+        "end": 26.0
+      },
+      {
+        "word": "with",
+        "start_offset": 337,
+        "end_offset": 341,
+        "start": 26.96,
+        "end": 27.28
+      },
+      {
+        "word": "this",
+        "start_offset": 357,
+        "end_offset": 361,
+        "start": 28.560000000000002,
+        "end": 28.88
+      },
+      {
+        "word": "planetary",
+        "start_offset": 373,
+        "end_offset": 388,
+        "start": 29.84,
+        "end": 31.04
+      },
+      {
+        "word": "sphere",
+        "start_offset": 396,
+        "end_offset": 408,
+        "start": 31.68,
+        "end": 32.64
+      },
+      {
+        "word": "and",
+        "start_offset": 416,
+        "end_offset": 420,
+        "start": 33.28,
+        "end": 33.6
+      },
+      {
+        "word": "this",
+        "start_offset": 428,
+        "end_offset": 432,
+        "start": 34.24,
+        "end": 34.56
+      },
+      {
+        "word": "time.",
+        "start_offset": 444,
+        "end_offset": 448,
+        "start": 35.52,
+        "end": 35.84
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "014-23.mp3",
+    "audio_duration": 37.04,
+    "transcription_time": 0.1,
+    "rtfx": 364.84,
+    "timestamp": "2026-01-06T21:47:17.439563+00:00"
+  }
+}

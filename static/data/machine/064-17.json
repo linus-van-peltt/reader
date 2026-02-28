@@ -1,0 +1,240 @@
+{
+  "text": "Dr. Monroe I understand brought a four-toned Bigfoot cast figure the other day. Uh could you tell me which form of Bigfoot that cast was? And we again",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Dr.",
+        "start_offset": 74,
+        "end_offset": 79,
+        "start": 5.92,
+        "end": 6.32
+      },
+      {
+        "segment": "Monroe I understand brought a four-toned Bigfoot cast figure the other day.",
+        "start_offset": 81,
+        "end_offset": 177,
+        "start": 6.48,
+        "end": 14.16
+      },
+      {
+        "segment": "Uh could you tell me which form of Bigfoot that cast was?",
+        "start_offset": 188,
+        "end_offset": 257,
+        "start": 15.040000000000001,
+        "end": 20.56
+      },
+      {
+        "segment": "And we again",
+        "start_offset": 293,
+        "end_offset": 348,
+        "start": 23.44,
+        "end": 27.84
+      }
+    ],
+    "word": [
+      {
+        "word": "Dr.",
+        "start_offset": 74,
+        "end_offset": 79,
+        "start": 5.92,
+        "end": 6.32
+      },
+      {
+        "word": "Monroe",
+        "start_offset": 81,
+        "end_offset": 89,
+        "start": 6.48,
+        "end": 7.12
+      },
+      {
+        "word": "I",
+        "start_offset": 90,
+        "end_offset": 91,
+        "start": 7.2,
+        "end": 7.28
+      },
+      {
+        "word": "understand",
+        "start_offset": 91,
+        "end_offset": 95,
+        "start": 7.28,
+        "end": 7.6000000000000005
+      },
+      {
+        "word": "brought",
+        "start_offset": 97,
+        "end_offset": 101,
+        "start": 7.76,
+        "end": 8.08
+      },
+      {
+        "word": "a",
+        "start_offset": 101,
+        "end_offset": 103,
+        "start": 8.08,
+        "end": 8.24
+      },
+      {
+        "word": "four-toned",
+        "start_offset": 103,
+        "end_offset": 118,
+        "start": 8.24,
+        "end": 9.44
+      },
+      {
+        "word": "Bigfoot",
+        "start_offset": 125,
+        "end_offset": 139,
+        "start": 10.0,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "cast",
+        "start_offset": 147,
+        "end_offset": 152,
+        "start": 11.76,
+        "end": 12.16
+      },
+      {
+        "word": "figure",
+        "start_offset": 154,
+        "end_offset": 160,
+        "start": 12.32,
+        "end": 12.8
+      },
+      {
+        "word": "the",
+        "start_offset": 162,
+        "end_offset": 165,
+        "start": 12.96,
+        "end": 13.200000000000001
+      },
+      {
+        "word": "other",
+        "start_offset": 165,
+        "end_offset": 169,
+        "start": 13.200000000000001,
+        "end": 13.52
+      },
+      {
+        "word": "day.",
+        "start_offset": 169,
+        "end_offset": 177,
+        "start": 13.52,
+        "end": 14.16
+      },
+      {
+        "word": "Uh",
+        "start_offset": 188,
+        "end_offset": 195,
+        "start": 15.040000000000001,
+        "end": 15.6
+      },
+      {
+        "word": "could",
+        "start_offset": 199,
+        "end_offset": 203,
+        "start": 15.92,
+        "end": 16.240000000000002
+      },
+      {
+        "word": "you",
+        "start_offset": 207,
+        "end_offset": 211,
+        "start": 16.56,
+        "end": 16.88
+      },
+      {
+        "word": "tell",
+        "start_offset": 211,
+        "end_offset": 216,
+        "start": 16.88,
+        "end": 17.28
+      },
+      {
+        "word": "me",
+        "start_offset": 216,
+        "end_offset": 220,
+        "start": 17.28,
+        "end": 17.6
+      },
+      {
+        "word": "which",
+        "start_offset": 220,
+        "end_offset": 224,
+        "start": 17.6,
+        "end": 17.92
+      },
+      {
+        "word": "form",
+        "start_offset": 224,
+        "end_offset": 226,
+        "start": 17.92,
+        "end": 18.080000000000002
+      },
+      {
+        "word": "of",
+        "start_offset": 229,
+        "end_offset": 230,
+        "start": 18.32,
+        "end": 18.400000000000002
+      },
+      {
+        "word": "Bigfoot",
+        "start_offset": 232,
+        "end_offset": 239,
+        "start": 18.56,
+        "end": 19.12
+      },
+      {
+        "word": "that",
+        "start_offset": 239,
+        "end_offset": 243,
+        "start": 19.12,
+        "end": 19.44
+      },
+      {
+        "word": "cast",
+        "start_offset": 243,
+        "end_offset": 249,
+        "start": 19.44,
+        "end": 19.92
+      },
+      {
+        "word": "was?",
+        "start_offset": 253,
+        "end_offset": 257,
+        "start": 20.240000000000002,
+        "end": 20.56
+      },
+      {
+        "word": "And",
+        "start_offset": 293,
+        "end_offset": 295,
+        "start": 23.44,
+        "end": 23.6
+      },
+      {
+        "word": "we",
+        "start_offset": 332,
+        "end_offset": 336,
+        "start": 26.560000000000002,
+        "end": 26.88
+      },
+      {
+        "word": "again",
+        "start_offset": 342,
+        "end_offset": 348,
+        "start": 27.36,
+        "end": 27.84
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "064-17.mp3",
+    "audio_duration": 29.05,
+    "transcription_time": 0.09,
+    "rtfx": 309.07,
+    "timestamp": "2026-01-06T21:53:56.297465+00:00"
+  }
+}

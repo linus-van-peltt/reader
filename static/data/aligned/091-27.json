@@ -1,0 +1,346 @@
+{
+  "text": "The cup may represent the mixture of positive and negative passions. Would Ra comment, please? I am Ra. The otic portions of this instrument's physical vehicle did not perceive a significant portion of your query. Please re-query.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "The cup may represent the mixture of positive and negative passions.",
+        "start_offset": 0,
+        "end_offset": 68,
+        "start": 2.78,
+        "end": 9.641
+      },
+      {
+        "segment": "Would Ra comment, please?",
+        "start_offset": 69,
+        "end_offset": 94,
+        "start": 10.181,
+        "end": 21.202
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 95,
+        "end_offset": 103,
+        "start": 21.222,
+        "end": 26.022
+      },
+      {
+        "segment": "The otic portions of this instrument's physical vehicle did not perceive a significant portion of your query.",
+        "start_offset": 104,
+        "end_offset": 213,
+        "start": 26.143,
+        "end": 48.105
+      },
+      {
+        "segment": "Please re-query.",
+        "start_offset": 214,
+        "end_offset": 230,
+        "start": 49.125,
+        "end": 51.545
+      }
+    ],
+    "word": [
+      {
+        "word": "The",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.78,
+        "end": 2.9,
+        "score": -3.992
+      },
+      {
+        "word": "cup",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 4.94,
+        "end": 5.14,
+        "score": -7.4291
+      },
+      {
+        "word": "may",
+        "start_offset": 8,
+        "end_offset": 11,
+        "start": 5.2,
+        "end": 5.341,
+        "score": -9.2034
+      },
+      {
+        "word": "represent",
+        "start_offset": 12,
+        "end_offset": 21,
+        "start": 6.861,
+        "end": 7.261,
+        "score": -5.5183
+      },
+      {
+        "word": "the",
+        "start_offset": 22,
+        "end_offset": 25,
+        "start": 7.281,
+        "end": 7.361,
+        "score": -5.1161
+      },
+      {
+        "word": "mixture",
+        "start_offset": 26,
+        "end_offset": 33,
+        "start": 7.401,
+        "end": 7.781,
+        "score": -6.1195
+      },
+      {
+        "word": "of",
+        "start_offset": 34,
+        "end_offset": 36,
+        "start": 7.801,
+        "end": 7.841,
+        "score": -9.8875
+      },
+      {
+        "word": "positive",
+        "start_offset": 37,
+        "end_offset": 45,
+        "start": 7.861,
+        "end": 8.401,
+        "score": -5.0136
+      },
+      {
+        "word": "and",
+        "start_offset": 46,
+        "end_offset": 49,
+        "start": 8.421,
+        "end": 8.521,
+        "score": -4.9151
+      },
+      {
+        "word": "negative",
+        "start_offset": 50,
+        "end_offset": 58,
+        "start": 8.541,
+        "end": 9.001,
+        "score": -5.122
+      },
+      {
+        "word": "passions.",
+        "start_offset": 59,
+        "end_offset": 68,
+        "start": 9.061,
+        "end": 9.641,
+        "score": -5.6158
+      },
+      {
+        "word": "Would",
+        "start_offset": 69,
+        "end_offset": 74,
+        "start": 10.181,
+        "end": 10.321,
+        "score": -8.9567
+      },
+      {
+        "word": "Ra",
+        "start_offset": 75,
+        "end_offset": 77,
+        "start": 10.341,
+        "end": 10.381,
+        "score": -7.4002
+      },
+      {
+        "word": "comment,",
+        "start_offset": 78,
+        "end_offset": 86,
+        "start": 10.421,
+        "end": 10.861,
+        "score": -6.4153
+      },
+      {
+        "word": "please?",
+        "start_offset": 87,
+        "end_offset": 94,
+        "start": 20.942,
+        "end": 21.202,
+        "score": -7.0655
+      },
+      {
+        "word": "I",
+        "start_offset": 95,
+        "end_offset": 96,
+        "start": 21.222,
+        "end": 21.242,
+        "score": -4.8592
+      },
+      {
+        "word": "am",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 22.022,
+        "end": 22.242,
+        "score": -6.3467
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 100,
+        "end_offset": 103,
+        "start": 23.242,
+        "end": 26.022,
+        "score": -5.5309
+      },
+      {
+        "word": "The",
+        "start_offset": 104,
+        "end_offset": 107,
+        "start": 26.143,
+        "end": 26.263,
+        "score": -2.2458
+      },
+      {
+        "word": "otic",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 29.043,
+        "end": 29.383,
+        "score": -1.8166
+      },
+      {
+        "word": "portions",
+        "start_offset": 113,
+        "end_offset": 121,
+        "start": 30.063,
+        "end": 30.743,
+        "score": -0.7472
+      },
+      {
+        "word": "of",
+        "start_offset": 122,
+        "end_offset": 124,
+        "start": 31.123,
+        "end": 31.363,
+        "score": -0.9566
+      },
+      {
+        "word": "this",
+        "start_offset": 125,
+        "end_offset": 129,
+        "start": 32.123,
+        "end": 32.463,
+        "score": -0.8356
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 130,
+        "end_offset": 142,
+        "start": 33.423,
+        "end": 34.543,
+        "score": -1.3381
+      },
+      {
+        "word": "physical",
+        "start_offset": 143,
+        "end_offset": 151,
+        "start": 36.003,
+        "end": 36.844,
+        "score": -1.2669
+      },
+      {
+        "word": "vehicle",
+        "start_offset": 152,
+        "end_offset": 159,
+        "start": 37.924,
+        "end": 39.584,
+        "score": -2.1598
+      },
+      {
+        "word": "did",
+        "start_offset": 160,
+        "end_offset": 163,
+        "start": 39.684,
+        "end": 39.944,
+        "score": -0.7236
+      },
+      {
+        "word": "not",
+        "start_offset": 164,
+        "end_offset": 167,
+        "start": 40.504,
+        "end": 40.824,
+        "score": -0.7003
+      },
+      {
+        "word": "perceive",
+        "start_offset": 168,
+        "end_offset": 176,
+        "start": 41.264,
+        "end": 42.084,
+        "score": -0.9356
+      },
+      {
+        "word": "a",
+        "start_offset": 177,
+        "end_offset": 178,
+        "start": 43.464,
+        "end": 43.484,
+        "score": -0.8547
+      },
+      {
+        "word": "significant",
+        "start_offset": 179,
+        "end_offset": 190,
+        "start": 43.744,
+        "end": 45.024,
+        "score": -0.7084
+      },
+      {
+        "word": "portion",
+        "start_offset": 191,
+        "end_offset": 198,
+        "start": 45.444,
+        "end": 46.044,
+        "score": -0.74
+      },
+      {
+        "word": "of",
+        "start_offset": 199,
+        "end_offset": 201,
+        "start": 46.344,
+        "end": 46.604,
+        "score": -1.0065
+      },
+      {
+        "word": "your",
+        "start_offset": 202,
+        "end_offset": 206,
+        "start": 46.864,
+        "end": 47.145,
+        "score": -1.7086
+      },
+      {
+        "word": "query.",
+        "start_offset": 207,
+        "end_offset": 213,
+        "start": 47.645,
+        "end": 48.105,
+        "score": -1.7656
+      },
+      {
+        "word": "Please",
+        "start_offset": 214,
+        "end_offset": 220,
+        "start": 49.125,
+        "end": 49.665,
+        "score": -1.537
+      },
+      {
+        "word": "re-query.",
+        "start_offset": 221,
+        "end_offset": 230,
+        "start": 50.305,
+        "end": 51.545,
+        "score": -1.5579
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "091-27.mp3",
+    "audio_duration": 64.0261,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

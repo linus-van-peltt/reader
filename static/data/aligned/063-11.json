@@ -1,0 +1,212 @@
+{
+  "text": "Does that number include the harvestable third density who are coming to this planet for the fourth-density experience? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Does that number include the harvestable third density who are coming to this planet for the fourth-density experience?",
+        "start_offset": 0,
+        "end_offset": 119,
+        "start": 2.842,
+        "end": 13.591
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 120,
+        "end_offset": 128,
+        "start": 15.773,
+        "end": 19.195
+      },
+      {
+        "segment": "No.",
+        "start_offset": 129,
+        "end_offset": 132,
+        "start": 19.215,
+        "end": 19.295
+      }
+    ],
+    "word": [
+      {
+        "word": "Does",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.842,
+        "end": 3.042,
+        "score": -0.9409
+      },
+      {
+        "word": "that",
+        "start_offset": 5,
+        "end_offset": 9,
+        "start": 3.102,
+        "end": 3.343,
+        "score": -0.7625
+      },
+      {
+        "word": "number",
+        "start_offset": 10,
+        "end_offset": 16,
+        "start": 3.463,
+        "end": 3.803,
+        "score": -0.6953
+      },
+      {
+        "word": "include",
+        "start_offset": 17,
+        "end_offset": 24,
+        "start": 3.943,
+        "end": 4.584,
+        "score": -0.7
+      },
+      {
+        "word": "the",
+        "start_offset": 25,
+        "end_offset": 28,
+        "start": 5.925,
+        "end": 6.045,
+        "score": -0.7291
+      },
+      {
+        "word": "harvestable",
+        "start_offset": 29,
+        "end_offset": 40,
+        "start": 6.145,
+        "end": 6.905,
+        "score": -1.3845
+      },
+      {
+        "word": "third",
+        "start_offset": 41,
+        "end_offset": 46,
+        "start": 7.906,
+        "end": 8.207,
+        "score": -0.7286
+      },
+      {
+        "word": "density",
+        "start_offset": 47,
+        "end_offset": 54,
+        "start": 8.347,
+        "end": 8.907,
+        "score": -1.1522
+      },
+      {
+        "word": "who",
+        "start_offset": 55,
+        "end_offset": 58,
+        "start": 10.248,
+        "end": 10.348,
+        "score": -0.881
+      },
+      {
+        "word": "are",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 10.448,
+        "end": 10.548,
+        "score": -0.7444
+      },
+      {
+        "word": "coming",
+        "start_offset": 63,
+        "end_offset": 69,
+        "start": 10.789,
+        "end": 11.049,
+        "score": -0.6948
+      },
+      {
+        "word": "to",
+        "start_offset": 70,
+        "end_offset": 72,
+        "start": 11.069,
+        "end": 11.129,
+        "score": -0.7059
+      },
+      {
+        "word": "this",
+        "start_offset": 73,
+        "end_offset": 77,
+        "start": 11.169,
+        "end": 11.309,
+        "score": -0.701
+      },
+      {
+        "word": "planet",
+        "start_offset": 78,
+        "end_offset": 84,
+        "start": 11.389,
+        "end": 11.729,
+        "score": -0.7679
+      },
+      {
+        "word": "for",
+        "start_offset": 85,
+        "end_offset": 88,
+        "start": 11.829,
+        "end": 12.01,
+        "score": -0.7107
+      },
+      {
+        "word": "the",
+        "start_offset": 89,
+        "end_offset": 92,
+        "start": 12.07,
+        "end": 12.15,
+        "score": -0.7552
+      },
+      {
+        "word": "fourth-density",
+        "start_offset": 93,
+        "end_offset": 107,
+        "start": 12.19,
+        "end": 12.83,
+        "score": -1.2309
+      },
+      {
+        "word": "experience?",
+        "start_offset": 108,
+        "end_offset": 119,
+        "start": 12.95,
+        "end": 13.591,
+        "score": -0.726
+      },
+      {
+        "word": "I",
+        "start_offset": 120,
+        "end_offset": 121,
+        "start": 15.773,
+        "end": 15.793,
+        "score": -6.6211
+      },
+      {
+        "word": "am",
+        "start_offset": 122,
+        "end_offset": 124,
+        "start": 19.055,
+        "end": 19.115,
+        "score": -8.1203
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 125,
+        "end_offset": 128,
+        "start": 19.135,
+        "end": 19.195,
+        "score": -9.4357
+      },
+      {
+        "word": "No.",
+        "start_offset": 129,
+        "end_offset": 132,
+        "start": 19.215,
+        "end": 19.295,
+        "score": -8.2352
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "063-11.mp3",
+    "audio_duration": 20.0359,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

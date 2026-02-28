@@ -1,0 +1,180 @@
+{
+  "text": "The names you spoke of, are they Mark Probert and Henry Puharich? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "The names you spoke of, are they Mark Probert and Henry Puharich?",
+        "start_offset": 0,
+        "end_offset": 65,
+        "start": 2.481,
+        "end": 6.762
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 66,
+        "end_offset": 74,
+        "start": 10.824,
+        "end": 13.184
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 75,
+        "end_offset": 91,
+        "start": 15.005,
+        "end": 19.106
+      }
+    ],
+    "word": [
+      {
+        "word": "The",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.481,
+        "end": 2.581,
+        "score": -0.827
+      },
+      {
+        "word": "names",
+        "start_offset": 4,
+        "end_offset": 9,
+        "start": 2.681,
+        "end": 3.121,
+        "score": -0.7784
+      },
+      {
+        "word": "you",
+        "start_offset": 10,
+        "end_offset": 13,
+        "start": 3.181,
+        "end": 3.361,
+        "score": -3.1708
+      },
+      {
+        "word": "spoke",
+        "start_offset": 14,
+        "end_offset": 19,
+        "start": 3.441,
+        "end": 3.821,
+        "score": -0.7286
+      },
+      {
+        "word": "of,",
+        "start_offset": 20,
+        "end_offset": 23,
+        "start": 3.861,
+        "end": 3.981,
+        "score": -4.3479
+      },
+      {
+        "word": "are",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 4.041,
+        "end": 4.101,
+        "score": -3.4913
+      },
+      {
+        "word": "they",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 4.121,
+        "end": 4.301,
+        "score": -2.0083
+      },
+      {
+        "word": "Mark",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 4.882,
+        "end": 5.122,
+        "score": -0.7594
+      },
+      {
+        "word": "Probert",
+        "start_offset": 38,
+        "end_offset": 45,
+        "start": 5.222,
+        "end": 5.622,
+        "score": -1.3007
+      },
+      {
+        "word": "and",
+        "start_offset": 46,
+        "end_offset": 49,
+        "start": 5.662,
+        "end": 5.782,
+        "score": -0.7944
+      },
+      {
+        "word": "Henry",
+        "start_offset": 50,
+        "end_offset": 55,
+        "start": 5.822,
+        "end": 6.082,
+        "score": -0.7036
+      },
+      {
+        "word": "Puharich?",
+        "start_offset": 56,
+        "end_offset": 65,
+        "start": 6.162,
+        "end": 6.762,
+        "score": -1.5578
+      },
+      {
+        "word": "I",
+        "start_offset": 66,
+        "end_offset": 67,
+        "start": 10.824,
+        "end": 10.844,
+        "score": -1.3711
+      },
+      {
+        "word": "am",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 11.604,
+        "end": 11.804,
+        "score": -2.4968
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 71,
+        "end_offset": 74,
+        "start": 13.084,
+        "end": 13.184,
+        "score": -1.3109
+      },
+      {
+        "word": "This",
+        "start_offset": 75,
+        "end_offset": 79,
+        "start": 15.005,
+        "end": 15.365,
+        "score": -0.9968
+      },
+      {
+        "word": "is",
+        "start_offset": 80,
+        "end_offset": 82,
+        "start": 16.706,
+        "end": 16.966,
+        "score": -0.8174
+      },
+      {
+        "word": "correct.",
+        "start_offset": 83,
+        "end_offset": 91,
+        "start": 18.146,
+        "end": 19.106,
+        "score": -0.9987
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "007-11.mp3",
+    "audio_duration": 22.0474,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

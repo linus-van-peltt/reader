@@ -1,0 +1,474 @@
+{
+  "text": "I think I made an error in asking that question, getting ahead of the process that you were describing. Would it be helpful to fill in that great leap that I mistakenly made? I am Ra. I attempted to bridge the gap. However, you may question me in any manner you deem appropriate.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I think I made an error in asking that question, getting ahead of the process that you were describing.",
+        "start_offset": 0,
+        "end_offset": 103,
+        "start": 1.64,
+        "end": 24.463
+      },
+      {
+        "segment": "Would it be helpful to fill in that great leap that I mistakenly made?",
+        "start_offset": 104,
+        "end_offset": 174,
+        "start": 24.483,
+        "end": 37.065
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 175,
+        "end_offset": 183,
+        "start": 37.185,
+        "end": 37.905
+      },
+      {
+        "segment": "I attempted to bridge the gap.",
+        "start_offset": 184,
+        "end_offset": 214,
+        "start": 37.985,
+        "end": 39.005
+      },
+      {
+        "segment": "However, you may question me in any manner you deem appropriate.",
+        "start_offset": 215,
+        "end_offset": 279,
+        "start": 40.265,
+        "end": 56.928
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 1.64,
+        "end": 1.66,
+        "score": -8.428
+      },
+      {
+        "word": "think",
+        "start_offset": 2,
+        "end_offset": 7,
+        "start": 2.82,
+        "end": 2.98,
+        "score": -6.6772
+      },
+      {
+        "word": "I",
+        "start_offset": 8,
+        "end_offset": 9,
+        "start": 3.02,
+        "end": 3.04,
+        "score": -5.4503
+      },
+      {
+        "word": "made",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 3.12,
+        "end": 3.3,
+        "score": -6.5219
+      },
+      {
+        "word": "an",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 3.32,
+        "end": 3.38,
+        "score": -7.6824
+      },
+      {
+        "word": "error",
+        "start_offset": 18,
+        "end_offset": 23,
+        "start": 3.42,
+        "end": 3.62,
+        "score": -7.8225
+      },
+      {
+        "word": "in",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 3.961,
+        "end": 4.001,
+        "score": -7.4468
+      },
+      {
+        "word": "asking",
+        "start_offset": 27,
+        "end_offset": 33,
+        "start": 4.041,
+        "end": 4.421,
+        "score": -7.1753
+      },
+      {
+        "word": "that",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 4.461,
+        "end": 5.841,
+        "score": -8.0762
+      },
+      {
+        "word": "question,",
+        "start_offset": 39,
+        "end_offset": 48,
+        "start": 8.261,
+        "end": 9.141,
+        "score": -7.3763
+      },
+      {
+        "word": "getting",
+        "start_offset": 49,
+        "end_offset": 56,
+        "start": 9.161,
+        "end": 9.981,
+        "score": -6.8674
+      },
+      {
+        "word": "ahead",
+        "start_offset": 57,
+        "end_offset": 62,
+        "start": 10.041,
+        "end": 10.261,
+        "score": -7.7396
+      },
+      {
+        "word": "of",
+        "start_offset": 63,
+        "end_offset": 65,
+        "start": 12.682,
+        "end": 13.202,
+        "score": -10.0202
+      },
+      {
+        "word": "the",
+        "start_offset": 66,
+        "end_offset": 69,
+        "start": 14.902,
+        "end": 14.982,
+        "score": -6.8775
+      },
+      {
+        "word": "process",
+        "start_offset": 70,
+        "end_offset": 77,
+        "start": 15.122,
+        "end": 16.002,
+        "score": -7.4459
+      },
+      {
+        "word": "that",
+        "start_offset": 78,
+        "end_offset": 82,
+        "start": 16.042,
+        "end": 21.843,
+        "score": -6.0175
+      },
+      {
+        "word": "you",
+        "start_offset": 83,
+        "end_offset": 86,
+        "start": 22.023,
+        "end": 22.723,
+        "score": -8.1099
+      },
+      {
+        "word": "were",
+        "start_offset": 87,
+        "end_offset": 91,
+        "start": 22.743,
+        "end": 23.023,
+        "score": -6.4958
+      },
+      {
+        "word": "describing.",
+        "start_offset": 92,
+        "end_offset": 103,
+        "start": 23.043,
+        "end": 24.463,
+        "score": -7.4365
+      },
+      {
+        "word": "Would",
+        "start_offset": 104,
+        "end_offset": 109,
+        "start": 24.483,
+        "end": 24.663,
+        "score": -6.0082
+      },
+      {
+        "word": "it",
+        "start_offset": 110,
+        "end_offset": 112,
+        "start": 24.683,
+        "end": 24.723,
+        "score": -7.6462
+      },
+      {
+        "word": "be",
+        "start_offset": 113,
+        "end_offset": 115,
+        "start": 28.804,
+        "end": 28.924,
+        "score": -6.7656
+      },
+      {
+        "word": "helpful",
+        "start_offset": 116,
+        "end_offset": 123,
+        "start": 29.144,
+        "end": 31.584,
+        "score": -7.9586
+      },
+      {
+        "word": "to",
+        "start_offset": 124,
+        "end_offset": 126,
+        "start": 31.944,
+        "end": 31.984,
+        "score": -5.0282
+      },
+      {
+        "word": "fill",
+        "start_offset": 127,
+        "end_offset": 131,
+        "start": 32.024,
+        "end": 32.244,
+        "score": -8.2532
+      },
+      {
+        "word": "in",
+        "start_offset": 132,
+        "end_offset": 134,
+        "start": 32.264,
+        "end": 32.304,
+        "score": -3.9844
+      },
+      {
+        "word": "that",
+        "start_offset": 135,
+        "end_offset": 139,
+        "start": 32.524,
+        "end": 32.784,
+        "score": -3.9755
+      },
+      {
+        "word": "great",
+        "start_offset": 140,
+        "end_offset": 145,
+        "start": 32.804,
+        "end": 32.904,
+        "score": -7.3503
+      },
+      {
+        "word": "leap",
+        "start_offset": 146,
+        "end_offset": 150,
+        "start": 32.964,
+        "end": 33.104,
+        "score": -6.0335
+      },
+      {
+        "word": "that",
+        "start_offset": 151,
+        "end_offset": 155,
+        "start": 33.764,
+        "end": 35.145,
+        "score": -3.1179
+      },
+      {
+        "word": "I",
+        "start_offset": 156,
+        "end_offset": 157,
+        "start": 35.245,
+        "end": 35.265,
+        "score": -4.3909
+      },
+      {
+        "word": "mistakenly",
+        "start_offset": 158,
+        "end_offset": 168,
+        "start": 35.305,
+        "end": 36.005,
+        "score": -6.0003
+      },
+      {
+        "word": "made?",
+        "start_offset": 169,
+        "end_offset": 174,
+        "start": 36.045,
+        "end": 37.065,
+        "score": -4.3243
+      },
+      {
+        "word": "I",
+        "start_offset": 175,
+        "end_offset": 176,
+        "start": 37.185,
+        "end": 37.205,
+        "score": -3.2083
+      },
+      {
+        "word": "am",
+        "start_offset": 177,
+        "end_offset": 179,
+        "start": 37.805,
+        "end": 37.845,
+        "score": -6.0703
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 180,
+        "end_offset": 183,
+        "start": 37.865,
+        "end": 37.905,
+        "score": -6.6939
+      },
+      {
+        "word": "I",
+        "start_offset": 184,
+        "end_offset": 185,
+        "start": 37.985,
+        "end": 38.005,
+        "score": -7.5603
+      },
+      {
+        "word": "attempted",
+        "start_offset": 186,
+        "end_offset": 195,
+        "start": 38.025,
+        "end": 38.505,
+        "score": -6.7903
+      },
+      {
+        "word": "to",
+        "start_offset": 196,
+        "end_offset": 198,
+        "start": 38.525,
+        "end": 38.565,
+        "score": -7.6369
+      },
+      {
+        "word": "bridge",
+        "start_offset": 199,
+        "end_offset": 205,
+        "start": 38.585,
+        "end": 38.725,
+        "score": -7.0086
+      },
+      {
+        "word": "the",
+        "start_offset": 206,
+        "end_offset": 209,
+        "start": 38.825,
+        "end": 38.885,
+        "score": -4.9925
+      },
+      {
+        "word": "gap.",
+        "start_offset": 210,
+        "end_offset": 214,
+        "start": 38.905,
+        "end": 39.005,
+        "score": -6.4949
+      },
+      {
+        "word": "However,",
+        "start_offset": 215,
+        "end_offset": 223,
+        "start": 40.265,
+        "end": 41.766,
+        "score": -1.1585
+      },
+      {
+        "word": "you",
+        "start_offset": 224,
+        "end_offset": 227,
+        "start": 43.186,
+        "end": 43.326,
+        "score": -2.4624
+      },
+      {
+        "word": "may",
+        "start_offset": 228,
+        "end_offset": 231,
+        "start": 44.186,
+        "end": 44.486,
+        "score": -1.4328
+      },
+      {
+        "word": "question",
+        "start_offset": 232,
+        "end_offset": 240,
+        "start": 45.186,
+        "end": 46.166,
+        "score": -3.182
+      },
+      {
+        "word": "me",
+        "start_offset": 241,
+        "end_offset": 243,
+        "start": 47.446,
+        "end": 47.566,
+        "score": -1.3583
+      },
+      {
+        "word": "in",
+        "start_offset": 244,
+        "end_offset": 246,
+        "start": 49.167,
+        "end": 49.387,
+        "score": -1.3209
+      },
+      {
+        "word": "any",
+        "start_offset": 247,
+        "end_offset": 250,
+        "start": 50.127,
+        "end": 50.407,
+        "score": -1.0317
+      },
+      {
+        "word": "manner",
+        "start_offset": 251,
+        "end_offset": 257,
+        "start": 51.527,
+        "end": 51.967,
+        "score": -1.3079
+      },
+      {
+        "word": "you",
+        "start_offset": 258,
+        "end_offset": 261,
+        "start": 53.067,
+        "end": 53.207,
+        "score": -2.5912
+      },
+      {
+        "word": "deem",
+        "start_offset": 262,
+        "end_offset": 266,
+        "start": 54.227,
+        "end": 54.467,
+        "score": -3.8032
+      },
+      {
+        "word": "appropriate.",
+        "start_offset": 267,
+        "end_offset": 279,
+        "start": 55.527,
+        "end": 56.928,
+        "score": -1.854
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "013-10.mp3",
+    "audio_duration": 68.049,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

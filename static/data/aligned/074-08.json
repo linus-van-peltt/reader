@@ -1,0 +1,736 @@
+{
+  "text": "Would you answer it please? I am Ra. We would be happy to answer this query. We understood the previous query as being of other import. The indigo ray is the ray of the adept. A great deal of the answer you seek is in this sentence. There is an identification between the crystallization of that energy center and the improvement of the working of the mind/body/spirit as it begins to transcend space/time balancing and to enter the combined realms of space/time and time/space.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would you answer it please?",
+        "start_offset": 0,
+        "end_offset": 27,
+        "start": 3.0,
+        "end": 5.9
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 28,
+        "end_offset": 36,
+        "start": 5.92,
+        "end": 8.88
+      },
+      {
+        "segment": "We would be happy to answer this query.",
+        "start_offset": 37,
+        "end_offset": 76,
+        "start": 8.92,
+        "end": 20.761
+      },
+      {
+        "segment": "We understood the previous query as being of other import.",
+        "start_offset": 77,
+        "end_offset": 135,
+        "start": 23.241,
+        "end": 42.422
+      },
+      {
+        "segment": "The indigo ray is the ray of the adept.",
+        "start_offset": 136,
+        "end_offset": 175,
+        "start": 48.482,
+        "end": 61.383
+      },
+      {
+        "segment": "A great deal of the answer you seek is in this sentence.",
+        "start_offset": 176,
+        "end_offset": 232,
+        "start": 63.883,
+        "end": 83.924
+      },
+      {
+        "segment": "There is an identification between the crystallization of that energy center and the improvement of the working of the mind/body/spirit as it begins to transcend space/time balancing and to enter the combined realms of space/time and time/space.",
+        "start_offset": 233,
+        "end_offset": 478,
+        "start": 86.044,
+        "end": 166.988
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 3.0,
+        "end": 3.2,
+        "score": -9.0299
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 3.4,
+        "end": 3.46,
+        "score": -7.6162
+      },
+      {
+        "word": "answer",
+        "start_offset": 10,
+        "end_offset": 16,
+        "start": 4.2,
+        "end": 5.52,
+        "score": -4.2459
+      },
+      {
+        "word": "it",
+        "start_offset": 17,
+        "end_offset": 19,
+        "start": 5.72,
+        "end": 5.76,
+        "score": -5.3813
+      },
+      {
+        "word": "please?",
+        "start_offset": 20,
+        "end_offset": 27,
+        "start": 5.78,
+        "end": 5.9,
+        "score": -7.2511
+      },
+      {
+        "word": "I",
+        "start_offset": 28,
+        "end_offset": 29,
+        "start": 5.92,
+        "end": 5.94,
+        "score": -8.4658
+      },
+      {
+        "word": "am",
+        "start_offset": 30,
+        "end_offset": 32,
+        "start": 5.96,
+        "end": 6.0,
+        "score": -8.9861
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 6.08,
+        "end": 8.88,
+        "score": -8.9591
+      },
+      {
+        "word": "We",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 8.92,
+        "end": 9.08,
+        "score": -0.9417
+      },
+      {
+        "word": "would",
+        "start_offset": 40,
+        "end_offset": 45,
+        "start": 10.421,
+        "end": 10.801,
+        "score": -0.8868
+      },
+      {
+        "word": "be",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 11.581,
+        "end": 11.701,
+        "score": -0.7535
+      },
+      {
+        "word": "happy",
+        "start_offset": 49,
+        "end_offset": 54,
+        "start": 13.381,
+        "end": 13.821,
+        "score": -1.1881
+      },
+      {
+        "word": "to",
+        "start_offset": 55,
+        "end_offset": 57,
+        "start": 15.341,
+        "end": 15.461,
+        "score": -1.2991
+      },
+      {
+        "word": "answer",
+        "start_offset": 58,
+        "end_offset": 64,
+        "start": 17.081,
+        "end": 17.701,
+        "score": -1.9334
+      },
+      {
+        "word": "this",
+        "start_offset": 65,
+        "end_offset": 69,
+        "start": 18.721,
+        "end": 19.061,
+        "score": -0.9136
+      },
+      {
+        "word": "query.",
+        "start_offset": 70,
+        "end_offset": 76,
+        "start": 20.261,
+        "end": 20.761,
+        "score": -1.3421
+      },
+      {
+        "word": "We",
+        "start_offset": 77,
+        "end_offset": 79,
+        "start": 23.241,
+        "end": 23.401,
+        "score": -0.9952
+      },
+      {
+        "word": "understood",
+        "start_offset": 80,
+        "end_offset": 90,
+        "start": 26.201,
+        "end": 27.381,
+        "score": -0.7324
+      },
+      {
+        "word": "the",
+        "start_offset": 91,
+        "end_offset": 94,
+        "start": 28.281,
+        "end": 28.421,
+        "score": -0.8408
+      },
+      {
+        "word": "previous",
+        "start_offset": 95,
+        "end_offset": 103,
+        "start": 29.781,
+        "end": 30.622,
+        "score": -1.6337
+      },
+      {
+        "word": "query",
+        "start_offset": 104,
+        "end_offset": 109,
+        "start": 32.122,
+        "end": 32.622,
+        "score": -1.152
+      },
+      {
+        "word": "as",
+        "start_offset": 110,
+        "end_offset": 112,
+        "start": 34.042,
+        "end": 34.382,
+        "score": -0.8036
+      },
+      {
+        "word": "being",
+        "start_offset": 113,
+        "end_offset": 118,
+        "start": 35.462,
+        "end": 35.922,
+        "score": -0.9064
+      },
+      {
+        "word": "of",
+        "start_offset": 119,
+        "end_offset": 121,
+        "start": 37.702,
+        "end": 37.922,
+        "score": -0.795
+      },
+      {
+        "word": "other",
+        "start_offset": 122,
+        "end_offset": 127,
+        "start": 39.402,
+        "end": 39.742,
+        "score": -0.7478
+      },
+      {
+        "word": "import.",
+        "start_offset": 128,
+        "end_offset": 135,
+        "start": 41.682,
+        "end": 42.422,
+        "score": -1.0224
+      },
+      {
+        "word": "The",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 48.482,
+        "end": 48.622,
+        "score": -0.8566
+      },
+      {
+        "word": "indigo",
+        "start_offset": 140,
+        "end_offset": 146,
+        "start": 50.623,
+        "end": 51.423,
+        "score": -0.9806
+      },
+      {
+        "word": "ray",
+        "start_offset": 147,
+        "end_offset": 150,
+        "start": 52.543,
+        "end": 52.863,
+        "score": -1.016
+      },
+      {
+        "word": "is",
+        "start_offset": 151,
+        "end_offset": 153,
+        "start": 55.103,
+        "end": 55.503,
+        "score": -0.728
+      },
+      {
+        "word": "the",
+        "start_offset": 154,
+        "end_offset": 157,
+        "start": 55.783,
+        "end": 55.903,
+        "score": -0.7675
+      },
+      {
+        "word": "ray",
+        "start_offset": 158,
+        "end_offset": 161,
+        "start": 56.363,
+        "end": 56.723,
+        "score": -0.9793
+      },
+      {
+        "word": "of",
+        "start_offset": 162,
+        "end_offset": 164,
+        "start": 58.243,
+        "end": 58.583,
+        "score": -0.7664
+      },
+      {
+        "word": "the",
+        "start_offset": 165,
+        "end_offset": 168,
+        "start": 59.083,
+        "end": 59.203,
+        "score": -0.7944
+      },
+      {
+        "word": "adept.",
+        "start_offset": 169,
+        "end_offset": 175,
+        "start": 60.683,
+        "end": 61.383,
+        "score": -1.485
+      },
+      {
+        "word": "A",
+        "start_offset": 176,
+        "end_offset": 177,
+        "start": 63.883,
+        "end": 63.903,
+        "score": -1.033
+      },
+      {
+        "word": "great",
+        "start_offset": 178,
+        "end_offset": 183,
+        "start": 65.303,
+        "end": 65.823,
+        "score": -0.9003
+      },
+      {
+        "word": "deal",
+        "start_offset": 184,
+        "end_offset": 188,
+        "start": 67.203,
+        "end": 67.583,
+        "score": -0.8857
+      },
+      {
+        "word": "of",
+        "start_offset": 189,
+        "end_offset": 191,
+        "start": 69.043,
+        "end": 69.343,
+        "score": -0.7712
+      },
+      {
+        "word": "the",
+        "start_offset": 192,
+        "end_offset": 195,
+        "start": 70.584,
+        "end": 70.724,
+        "score": -0.8816
+      },
+      {
+        "word": "answer",
+        "start_offset": 196,
+        "end_offset": 202,
+        "start": 72.624,
+        "end": 73.344,
+        "score": -1.8827
+      },
+      {
+        "word": "you",
+        "start_offset": 203,
+        "end_offset": 206,
+        "start": 74.384,
+        "end": 74.584,
+        "score": -0.9578
+      },
+      {
+        "word": "seek",
+        "start_offset": 207,
+        "end_offset": 211,
+        "start": 76.244,
+        "end": 76.704,
+        "score": -0.8247
+      },
+      {
+        "word": "is",
+        "start_offset": 212,
+        "end_offset": 214,
+        "start": 77.684,
+        "end": 78.084,
+        "score": -3.095
+      },
+      {
+        "word": "in",
+        "start_offset": 215,
+        "end_offset": 217,
+        "start": 79.284,
+        "end": 79.544,
+        "score": -0.8436
+      },
+      {
+        "word": "this",
+        "start_offset": 218,
+        "end_offset": 222,
+        "start": 80.544,
+        "end": 80.964,
+        "score": -0.8218
+      },
+      {
+        "word": "sentence.",
+        "start_offset": 223,
+        "end_offset": 232,
+        "start": 83.104,
+        "end": 83.924,
+        "score": -0.7827
+      },
+      {
+        "word": "There",
+        "start_offset": 233,
+        "end_offset": 238,
+        "start": 86.044,
+        "end": 86.404,
+        "score": -0.7771
+      },
+      {
+        "word": "is",
+        "start_offset": 239,
+        "end_offset": 241,
+        "start": 87.524,
+        "end": 87.864,
+        "score": -0.7332
+      },
+      {
+        "word": "an",
+        "start_offset": 242,
+        "end_offset": 244,
+        "start": 88.884,
+        "end": 89.224,
+        "score": -0.7825
+      },
+      {
+        "word": "identification",
+        "start_offset": 245,
+        "end_offset": 259,
+        "start": 90.885,
+        "end": 92.985,
+        "score": -0.7213
+      },
+      {
+        "word": "between",
+        "start_offset": 260,
+        "end_offset": 267,
+        "start": 94.845,
+        "end": 95.805,
+        "score": -2.0347
+      },
+      {
+        "word": "the",
+        "start_offset": 268,
+        "end_offset": 271,
+        "start": 97.025,
+        "end": 97.185,
+        "score": -2.1837
+      },
+      {
+        "word": "crystallization",
+        "start_offset": 272,
+        "end_offset": 287,
+        "start": 98.925,
+        "end": 101.285,
+        "score": -1.2458
+      },
+      {
+        "word": "of",
+        "start_offset": 288,
+        "end_offset": 290,
+        "start": 103.245,
+        "end": 103.645,
+        "score": -0.7465
+      },
+      {
+        "word": "that",
+        "start_offset": 291,
+        "end_offset": 295,
+        "start": 104.705,
+        "end": 105.165,
+        "score": -0.7385
+      },
+      {
+        "word": "energy",
+        "start_offset": 296,
+        "end_offset": 302,
+        "start": 106.465,
+        "end": 107.205,
+        "score": -0.7133
+      },
+      {
+        "word": "center",
+        "start_offset": 303,
+        "end_offset": 309,
+        "start": 108.565,
+        "end": 109.125,
+        "score": -0.773
+      },
+      {
+        "word": "and",
+        "start_offset": 310,
+        "end_offset": 313,
+        "start": 110.746,
+        "end": 111.166,
+        "score": -0.9449
+      },
+      {
+        "word": "the",
+        "start_offset": 314,
+        "end_offset": 317,
+        "start": 112.286,
+        "end": 112.446,
+        "score": -1.0577
+      },
+      {
+        "word": "improvement",
+        "start_offset": 318,
+        "end_offset": 329,
+        "start": 114.386,
+        "end": 116.106,
+        "score": -0.8184
+      },
+      {
+        "word": "of",
+        "start_offset": 330,
+        "end_offset": 332,
+        "start": 117.866,
+        "end": 118.286,
+        "score": -5.4772
+      },
+      {
+        "word": "the",
+        "start_offset": 333,
+        "end_offset": 336,
+        "start": 119.106,
+        "end": 119.246,
+        "score": -0.811
+      },
+      {
+        "word": "working",
+        "start_offset": 337,
+        "end_offset": 344,
+        "start": 120.646,
+        "end": 121.366,
+        "score": -0.7796
+      },
+      {
+        "word": "of",
+        "start_offset": 345,
+        "end_offset": 347,
+        "start": 122.946,
+        "end": 123.306,
+        "score": -4.6666
+      },
+      {
+        "word": "the",
+        "start_offset": 348,
+        "end_offset": 351,
+        "start": 124.126,
+        "end": 124.266,
+        "score": -0.7685
+      },
+      {
+        "word": "mind/body/spirit",
+        "start_offset": 352,
+        "end_offset": 368,
+        "start": 125.606,
+        "end": 129.507,
+        "score": -0.7062
+      },
+      {
+        "word": "as",
+        "start_offset": 369,
+        "end_offset": 371,
+        "start": 130.867,
+        "end": 131.287,
+        "score": -3.8128
+      },
+      {
+        "word": "it",
+        "start_offset": 372,
+        "end_offset": 374,
+        "start": 132.247,
+        "end": 132.467,
+        "score": -5.7087
+      },
+      {
+        "word": "begins",
+        "start_offset": 375,
+        "end_offset": 381,
+        "start": 133.487,
+        "end": 134.587,
+        "score": -0.861
+      },
+      {
+        "word": "to",
+        "start_offset": 382,
+        "end_offset": 384,
+        "start": 135.847,
+        "end": 136.067,
+        "score": -0.7772
+      },
+      {
+        "word": "transcend",
+        "start_offset": 385,
+        "end_offset": 394,
+        "start": 137.807,
+        "end": 139.447,
+        "score": -1.361
+      },
+      {
+        "word": "space/time",
+        "start_offset": 395,
+        "end_offset": 405,
+        "start": 140.707,
+        "end": 142.787,
+        "score": -0.7776
+      },
+      {
+        "word": "balancing",
+        "start_offset": 406,
+        "end_offset": 415,
+        "start": 144.187,
+        "end": 145.407,
+        "score": -0.8558
+      },
+      {
+        "word": "and",
+        "start_offset": 416,
+        "end_offset": 419,
+        "start": 146.667,
+        "end": 147.227,
+        "score": -1.3792
+      },
+      {
+        "word": "to",
+        "start_offset": 420,
+        "end_offset": 422,
+        "start": 147.987,
+        "end": 148.187,
+        "score": -0.9857
+      },
+      {
+        "word": "enter",
+        "start_offset": 423,
+        "end_offset": 428,
+        "start": 149.848,
+        "end": 150.448,
+        "score": -0.7173
+      },
+      {
+        "word": "the",
+        "start_offset": 429,
+        "end_offset": 432,
+        "start": 151.368,
+        "end": 151.508,
+        "score": -0.8171
+      },
+      {
+        "word": "combined",
+        "start_offset": 433,
+        "end_offset": 441,
+        "start": 152.908,
+        "end": 154.408,
+        "score": -0.7246
+      },
+      {
+        "word": "realms",
+        "start_offset": 442,
+        "end_offset": 448,
+        "start": 155.328,
+        "end": 156.348,
+        "score": -3.2863
+      },
+      {
+        "word": "of",
+        "start_offset": 449,
+        "end_offset": 451,
+        "start": 156.468,
+        "end": 158.108,
+        "score": -3.633
+      },
+      {
+        "word": "space/time",
+        "start_offset": 452,
+        "end_offset": 462,
+        "start": 159.828,
+        "end": 161.708,
+        "score": -0.7686
+      },
+      {
+        "word": "and",
+        "start_offset": 463,
+        "end_offset": 466,
+        "start": 162.968,
+        "end": 163.428,
+        "score": -0.7559
+      },
+      {
+        "word": "time/space.",
+        "start_offset": 467,
+        "end_offset": 478,
+        "start": 164.288,
+        "end": 166.988,
+        "score": -0.9772
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "074-08.mp3",
+    "audio_duration": 188.0294,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

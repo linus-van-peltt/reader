@@ -1,0 +1,156 @@
+{
+  "text": "Is it possible to over-energize the instrument with sexual energy transfers? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is it possible to over-energize the instrument with sexual energy transfers?",
+        "start_offset": 0,
+        "end_offset": 76,
+        "start": 3.042,
+        "end": 7.185
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 77,
+        "end_offset": 85,
+        "start": 7.205,
+        "end": 7.345
+      },
+      {
+        "segment": "No.",
+        "start_offset": 86,
+        "end_offset": 89,
+        "start": 16.512,
+        "end": 16.632
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 3.042,
+        "end": 3.102,
+        "score": -1.0388
+      },
+      {
+        "word": "it",
+        "start_offset": 3,
+        "end_offset": 5,
+        "start": 3.162,
+        "end": 3.222,
+        "score": -1.129
+      },
+      {
+        "word": "possible",
+        "start_offset": 6,
+        "end_offset": 14,
+        "start": 3.302,
+        "end": 3.763,
+        "score": -0.7285
+      },
+      {
+        "word": "to",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 3.783,
+        "end": 3.843,
+        "score": -1.3377
+      },
+      {
+        "word": "over-energize",
+        "start_offset": 18,
+        "end_offset": 31,
+        "start": 4.003,
+        "end": 4.883,
+        "score": -2.787
+      },
+      {
+        "word": "the",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 4.923,
+        "end": 5.003,
+        "score": -0.7424
+      },
+      {
+        "word": "instrument",
+        "start_offset": 36,
+        "end_offset": 46,
+        "start": 5.104,
+        "end": 5.504,
+        "score": -0.727
+      },
+      {
+        "word": "with",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 5.584,
+        "end": 5.724,
+        "score": -1.7598
+      },
+      {
+        "word": "sexual",
+        "start_offset": 52,
+        "end_offset": 58,
+        "start": 5.764,
+        "end": 6.164,
+        "score": -0.755
+      },
+      {
+        "word": "energy",
+        "start_offset": 59,
+        "end_offset": 65,
+        "start": 6.224,
+        "end": 6.485,
+        "score": -1.827
+      },
+      {
+        "word": "transfers?",
+        "start_offset": 66,
+        "end_offset": 76,
+        "start": 6.585,
+        "end": 7.185,
+        "score": -0.8397
+      },
+      {
+        "word": "I",
+        "start_offset": 77,
+        "end_offset": 78,
+        "start": 7.205,
+        "end": 7.225,
+        "score": -6.7727
+      },
+      {
+        "word": "am",
+        "start_offset": 79,
+        "end_offset": 81,
+        "start": 7.245,
+        "end": 7.285,
+        "score": -8.7526
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 82,
+        "end_offset": 85,
+        "start": 7.305,
+        "end": 7.345,
+        "score": -7.8962
+      },
+      {
+        "word": "No.",
+        "start_offset": 86,
+        "end_offset": 89,
+        "start": 16.512,
+        "end": 16.632,
+        "score": -7.9538
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "072-16.mp3",
+    "audio_duration": 17.0319,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

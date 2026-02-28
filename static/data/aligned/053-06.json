@@ -1,0 +1,355 @@
+{
+  "text": "Thank you. Can you tell me of various techniques used by the service-to-others or positively oriented Confederation contacts with the people of this planet, the various forms of and techniques of them making contact? I am Ra. We could.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 0,
+        "end_offset": 10,
+        "start": 1.98,
+        "end": 6.041
+      },
+      {
+        "segment": "Can you tell me of various techniques used by the service-to-others or positively oriented Confederation contacts with the people of this planet, the various forms of and techniques of them making contact?",
+        "start_offset": 11,
+        "end_offset": 216,
+        "start": 6.061,
+        "end": 41.508
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 217,
+        "end_offset": 225,
+        "start": 47.369,
+        "end": 50.13
+      },
+      {
+        "segment": "We could.",
+        "start_offset": 226,
+        "end_offset": 235,
+        "start": 53.071,
+        "end": 54.811
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 1.98,
+        "end": 2.22,
+        "score": -2.7046
+      },
+      {
+        "word": "you.",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 2.28,
+        "end": 6.041,
+        "score": -8.2168
+      },
+      {
+        "word": "Can",
+        "start_offset": 11,
+        "end_offset": 14,
+        "start": 6.061,
+        "end": 6.281,
+        "score": -1.5295
+      },
+      {
+        "word": "you",
+        "start_offset": 15,
+        "end_offset": 18,
+        "start": 6.341,
+        "end": 6.421,
+        "score": -2.0925
+      },
+      {
+        "word": "tell",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 11.542,
+        "end": 11.822,
+        "score": -0.812
+      },
+      {
+        "word": "me",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 11.902,
+        "end": 12.002,
+        "score": -0.7181
+      },
+      {
+        "word": "of",
+        "start_offset": 27,
+        "end_offset": 29,
+        "start": 12.302,
+        "end": 12.483,
+        "score": -0.7335
+      },
+      {
+        "word": "various",
+        "start_offset": 30,
+        "end_offset": 37,
+        "start": 14.083,
+        "end": 14.543,
+        "score": -0.6976
+      },
+      {
+        "word": "techniques",
+        "start_offset": 38,
+        "end_offset": 48,
+        "start": 14.643,
+        "end": 15.363,
+        "score": -0.7612
+      },
+      {
+        "word": "used",
+        "start_offset": 49,
+        "end_offset": 53,
+        "start": 16.523,
+        "end": 16.803,
+        "score": -0.7108
+      },
+      {
+        "word": "by",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 16.883,
+        "end": 17.183,
+        "score": -0.8648
+      },
+      {
+        "word": "the",
+        "start_offset": 57,
+        "end_offset": 60,
+        "start": 18.264,
+        "end": 18.384,
+        "score": -1.067
+      },
+      {
+        "word": "service-to-others",
+        "start_offset": 61,
+        "end_offset": 78,
+        "start": 20.284,
+        "end": 21.604,
+        "score": -0.7057
+      },
+      {
+        "word": "or",
+        "start_offset": 79,
+        "end_offset": 81,
+        "start": 21.764,
+        "end": 21.864,
+        "score": -3.3687
+      },
+      {
+        "word": "positively",
+        "start_offset": 82,
+        "end_offset": 92,
+        "start": 21.944,
+        "end": 22.565,
+        "score": -0.6979
+      },
+      {
+        "word": "oriented",
+        "start_offset": 93,
+        "end_offset": 101,
+        "start": 22.645,
+        "end": 23.125,
+        "score": -0.706
+      },
+      {
+        "word": "Confederation",
+        "start_offset": 102,
+        "end_offset": 115,
+        "start": 23.945,
+        "end": 24.885,
+        "score": -0.7014
+      },
+      {
+        "word": "contacts",
+        "start_offset": 116,
+        "end_offset": 124,
+        "start": 26.905,
+        "end": 27.806,
+        "score": -0.7183
+      },
+      {
+        "word": "with",
+        "start_offset": 125,
+        "end_offset": 129,
+        "start": 29.306,
+        "end": 29.566,
+        "score": -0.7438
+      },
+      {
+        "word": "the",
+        "start_offset": 130,
+        "end_offset": 133,
+        "start": 29.886,
+        "end": 29.966,
+        "score": -4.4529
+      },
+      {
+        "word": "people",
+        "start_offset": 134,
+        "end_offset": 140,
+        "start": 30.006,
+        "end": 30.346,
+        "score": -0.709
+      },
+      {
+        "word": "of",
+        "start_offset": 141,
+        "end_offset": 143,
+        "start": 30.406,
+        "end": 30.466,
+        "score": -0.7484
+      },
+      {
+        "word": "this",
+        "start_offset": 144,
+        "end_offset": 148,
+        "start": 30.506,
+        "end": 30.666,
+        "score": -0.7471
+      },
+      {
+        "word": "planet,",
+        "start_offset": 149,
+        "end_offset": 156,
+        "start": 30.746,
+        "end": 31.146,
+        "score": -0.7793
+      },
+      {
+        "word": "the",
+        "start_offset": 157,
+        "end_offset": 160,
+        "start": 31.286,
+        "end": 31.366,
+        "score": -4.3924
+      },
+      {
+        "word": "various",
+        "start_offset": 161,
+        "end_offset": 168,
+        "start": 31.706,
+        "end": 32.226,
+        "score": -0.7204
+      },
+      {
+        "word": "forms",
+        "start_offset": 169,
+        "end_offset": 174,
+        "start": 33.387,
+        "end": 33.907,
+        "score": -0.715
+      },
+      {
+        "word": "of",
+        "start_offset": 175,
+        "end_offset": 177,
+        "start": 34.067,
+        "end": 34.187,
+        "score": -0.8679
+      },
+      {
+        "word": "and",
+        "start_offset": 178,
+        "end_offset": 181,
+        "start": 34.387,
+        "end": 34.547,
+        "score": -1.1789
+      },
+      {
+        "word": "techniques",
+        "start_offset": 182,
+        "end_offset": 192,
+        "start": 35.027,
+        "end": 35.647,
+        "score": -0.792
+      },
+      {
+        "word": "of",
+        "start_offset": 193,
+        "end_offset": 195,
+        "start": 36.607,
+        "end": 36.707,
+        "score": -0.9782
+      },
+      {
+        "word": "them",
+        "start_offset": 196,
+        "end_offset": 200,
+        "start": 36.787,
+        "end": 37.087,
+        "score": -0.8865
+      },
+      {
+        "word": "making",
+        "start_offset": 201,
+        "end_offset": 207,
+        "start": 38.528,
+        "end": 38.988,
+        "score": -0.7556
+      },
+      {
+        "word": "contact?",
+        "start_offset": 208,
+        "end_offset": 216,
+        "start": 40.868,
+        "end": 41.508,
+        "score": -0.8687
+      },
+      {
+        "word": "I",
+        "start_offset": 217,
+        "end_offset": 218,
+        "start": 47.369,
+        "end": 47.39,
+        "score": -1.192
+      },
+      {
+        "word": "am",
+        "start_offset": 219,
+        "end_offset": 221,
+        "start": 48.45,
+        "end": 48.75,
+        "score": -1.612
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 222,
+        "end_offset": 225,
+        "start": 50.01,
+        "end": 50.13,
+        "score": -1.8591
+      },
+      {
+        "word": "We",
+        "start_offset": 226,
+        "end_offset": 228,
+        "start": 53.071,
+        "end": 53.231,
+        "score": -1.8906
+      },
+      {
+        "word": "could.",
+        "start_offset": 229,
+        "end_offset": 235,
+        "start": 54.411,
+        "end": 54.811,
+        "score": -2.3962
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "053-06.mp3",
+    "audio_duration": 57.0514,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

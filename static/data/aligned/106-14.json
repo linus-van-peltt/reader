@@ -1,0 +1,267 @@
+{
+  "text": "What is Peter's last name? I am not familiar with who he is. I am Ra. The name by which this entity chooses to be known is Inman.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What is Peter's last name?",
+        "start_offset": 0,
+        "end_offset": 26,
+        "start": 2.74,
+        "end": 4.161
+      },
+      {
+        "segment": "I am not familiar with who he is.",
+        "start_offset": 27,
+        "end_offset": 60,
+        "start": 4.361,
+        "end": 18.283
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 61,
+        "end_offset": 69,
+        "start": 18.303,
+        "end": 20.063
+      },
+      {
+        "segment": "The name by which this entity chooses to be known is Inman.",
+        "start_offset": 70,
+        "end_offset": 129,
+        "start": 22.243,
+        "end": 44.006
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.74,
+        "end": 2.88,
+        "score": -5.8848
+      },
+      {
+        "word": "is",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 2.9,
+        "end": 2.98,
+        "score": -4.0894
+      },
+      {
+        "word": "Peter's",
+        "start_offset": 8,
+        "end_offset": 15,
+        "start": 3.04,
+        "end": 3.34,
+        "score": -5.95
+      },
+      {
+        "word": "last",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 3.44,
+        "end": 3.701,
+        "score": -5.9061
+      },
+      {
+        "word": "name?",
+        "start_offset": 21,
+        "end_offset": 26,
+        "start": 3.881,
+        "end": 4.161,
+        "score": -5.7766
+      },
+      {
+        "word": "I",
+        "start_offset": 27,
+        "end_offset": 28,
+        "start": 4.361,
+        "end": 4.381,
+        "score": -5.5532
+      },
+      {
+        "word": "am",
+        "start_offset": 29,
+        "end_offset": 31,
+        "start": 10.922,
+        "end": 11.142,
+        "score": -2.1745
+      },
+      {
+        "word": "not",
+        "start_offset": 32,
+        "end_offset": 35,
+        "start": 11.162,
+        "end": 11.222,
+        "score": -7.1226
+      },
+      {
+        "word": "familiar",
+        "start_offset": 36,
+        "end_offset": 44,
+        "start": 13.302,
+        "end": 15.342,
+        "score": -5.175
+      },
+      {
+        "word": "with",
+        "start_offset": 45,
+        "end_offset": 49,
+        "start": 15.362,
+        "end": 17.882,
+        "score": -6.2983
+      },
+      {
+        "word": "who",
+        "start_offset": 50,
+        "end_offset": 53,
+        "start": 17.902,
+        "end": 17.963,
+        "score": -5.0994
+      },
+      {
+        "word": "he",
+        "start_offset": 54,
+        "end_offset": 56,
+        "start": 18.063,
+        "end": 18.103,
+        "score": -5.8748
+      },
+      {
+        "word": "is.",
+        "start_offset": 57,
+        "end_offset": 60,
+        "start": 18.163,
+        "end": 18.283,
+        "score": -4.5198
+      },
+      {
+        "word": "I",
+        "start_offset": 61,
+        "end_offset": 62,
+        "start": 18.303,
+        "end": 18.323,
+        "score": -5.1705
+      },
+      {
+        "word": "am",
+        "start_offset": 63,
+        "end_offset": 65,
+        "start": 18.343,
+        "end": 18.383,
+        "score": -8.0818
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 66,
+        "end_offset": 69,
+        "start": 18.403,
+        "end": 20.063,
+        "score": -8.7346
+      },
+      {
+        "word": "The",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 22.243,
+        "end": 22.343,
+        "score": -4.9447
+      },
+      {
+        "word": "name",
+        "start_offset": 74,
+        "end_offset": 78,
+        "start": 22.443,
+        "end": 22.883,
+        "score": -0.8445
+      },
+      {
+        "word": "by",
+        "start_offset": 79,
+        "end_offset": 81,
+        "start": 24.723,
+        "end": 25.063,
+        "score": -1.3294
+      },
+      {
+        "word": "which",
+        "start_offset": 82,
+        "end_offset": 87,
+        "start": 26.344,
+        "end": 26.704,
+        "score": -0.8639
+      },
+      {
+        "word": "this",
+        "start_offset": 88,
+        "end_offset": 92,
+        "start": 27.504,
+        "end": 27.944,
+        "score": -1.0153
+      },
+      {
+        "word": "entity",
+        "start_offset": 93,
+        "end_offset": 99,
+        "start": 30.204,
+        "end": 31.264,
+        "score": -2.4599
+      },
+      {
+        "word": "chooses",
+        "start_offset": 100,
+        "end_offset": 107,
+        "start": 33.125,
+        "end": 34.005,
+        "score": -2.1659
+      },
+      {
+        "word": "to",
+        "start_offset": 108,
+        "end_offset": 110,
+        "start": 35.245,
+        "end": 35.445,
+        "score": -0.7653
+      },
+      {
+        "word": "be",
+        "start_offset": 111,
+        "end_offset": 113,
+        "start": 36.405,
+        "end": 36.545,
+        "score": -1.0373
+      },
+      {
+        "word": "known",
+        "start_offset": 114,
+        "end_offset": 119,
+        "start": 38.705,
+        "end": 39.145,
+        "score": -2.0643
+      },
+      {
+        "word": "is",
+        "start_offset": 120,
+        "end_offset": 122,
+        "start": 40.166,
+        "end": 40.466,
+        "score": -0.975
+      },
+      {
+        "word": "Inman.",
+        "start_offset": 123,
+        "end_offset": 129,
+        "start": 42.266,
+        "end": 44.006,
+        "score": -1.4164
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "106-14.mp3",
+    "audio_duration": 47.0466,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

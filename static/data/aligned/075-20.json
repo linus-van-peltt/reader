@@ -1,0 +1,203 @@
+{
+  "text": "You are speaking of this other person now that is singing the Mass? This is correct? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "You are speaking of this other person now that is singing the Mass?",
+        "start_offset": 0,
+        "end_offset": 67,
+        "start": 2.021,
+        "end": 6.344
+      },
+      {
+        "segment": "This is correct?",
+        "start_offset": 68,
+        "end_offset": 84,
+        "start": 6.384,
+        "end": 7.045
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 85,
+        "end_offset": 93,
+        "start": 10.928,
+        "end": 12.949
+      },
+      {
+        "segment": "No.",
+        "start_offset": 94,
+        "end_offset": 97,
+        "start": 14.61,
+        "end": 14.75
+      }
+    ],
+    "word": [
+      {
+        "word": "You",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.021,
+        "end": 2.101,
+        "score": -4.5344
+      },
+      {
+        "word": "are",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 2.162,
+        "end": 2.222,
+        "score": -1.2883
+      },
+      {
+        "word": "speaking",
+        "start_offset": 8,
+        "end_offset": 16,
+        "start": 2.262,
+        "end": 2.702,
+        "score": -0.7066
+      },
+      {
+        "word": "of",
+        "start_offset": 17,
+        "end_offset": 19,
+        "start": 2.742,
+        "end": 2.802,
+        "score": -0.7493
+      },
+      {
+        "word": "this",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 2.842,
+        "end": 3.042,
+        "score": -1.7313
+      },
+      {
+        "word": "other",
+        "start_offset": 25,
+        "end_offset": 30,
+        "start": 3.102,
+        "end": 3.302,
+        "score": -1.2511
+      },
+      {
+        "word": "person",
+        "start_offset": 31,
+        "end_offset": 37,
+        "start": 3.342,
+        "end": 3.703,
+        "score": -0.787
+      },
+      {
+        "word": "now",
+        "start_offset": 38,
+        "end_offset": 41,
+        "start": 3.783,
+        "end": 4.023,
+        "score": -1.6623
+      },
+      {
+        "word": "that",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 4.223,
+        "end": 4.443,
+        "score": -0.9974
+      },
+      {
+        "word": "is",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 5.444,
+        "end": 5.544,
+        "score": -0.8817
+      },
+      {
+        "word": "singing",
+        "start_offset": 50,
+        "end_offset": 57,
+        "start": 5.604,
+        "end": 5.924,
+        "score": -1.3242
+      },
+      {
+        "word": "the",
+        "start_offset": 58,
+        "end_offset": 61,
+        "start": 5.944,
+        "end": 6.004,
+        "score": -5.586
+      },
+      {
+        "word": "Mass?",
+        "start_offset": 62,
+        "end_offset": 67,
+        "start": 6.064,
+        "end": 6.344,
+        "score": -1.8272
+      },
+      {
+        "word": "This",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 6.384,
+        "end": 6.505,
+        "score": -2.6499
+      },
+      {
+        "word": "is",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 6.545,
+        "end": 6.585,
+        "score": -4.0409
+      },
+      {
+        "word": "correct?",
+        "start_offset": 76,
+        "end_offset": 84,
+        "start": 6.665,
+        "end": 7.045,
+        "score": -2.3761
+      },
+      {
+        "word": "I",
+        "start_offset": 85,
+        "end_offset": 86,
+        "start": 10.928,
+        "end": 10.948,
+        "score": -2.8201
+      },
+      {
+        "word": "am",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 11.888,
+        "end": 12.128,
+        "score": -4.5876
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 90,
+        "end_offset": 93,
+        "start": 12.889,
+        "end": 12.949,
+        "score": -7.028
+      },
+      {
+        "word": "No.",
+        "start_offset": 94,
+        "end_offset": 97,
+        "start": 14.61,
+        "end": 14.75,
+        "score": -6.746
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "075-20.mp3",
+    "audio_duration": 17.0319,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

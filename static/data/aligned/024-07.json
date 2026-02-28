@@ -1,0 +1,86 @@
+{
+  "text": "Could you create another cough for us, please?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you create another cough for us, please?",
+        "start_offset": 0,
+        "end_offset": 46,
+        "start": 2.902,
+        "end": 4.904
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.902,
+        "end": 3.122,
+        "score": -3.6015
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 3.182,
+        "end": 3.242,
+        "score": -5.2235
+      },
+      {
+        "word": "create",
+        "start_offset": 10,
+        "end_offset": 16,
+        "start": 3.663,
+        "end": 3.943,
+        "score": -2.4735
+      },
+      {
+        "word": "another",
+        "start_offset": 17,
+        "end_offset": 24,
+        "start": 3.963,
+        "end": 4.203,
+        "score": -3.7227
+      },
+      {
+        "word": "cough",
+        "start_offset": 25,
+        "end_offset": 30,
+        "start": 4.243,
+        "end": 4.423,
+        "score": -5.1872
+      },
+      {
+        "word": "for",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 4.443,
+        "end": 4.543,
+        "score": -3.8918
+      },
+      {
+        "word": "us,",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 4.563,
+        "end": 4.603,
+        "score": -6.6365
+      },
+      {
+        "word": "please?",
+        "start_offset": 39,
+        "end_offset": 46,
+        "start": 4.623,
+        "end": 4.904,
+        "score": -3.907
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "024-07.mp3",
+    "audio_duration": 8.0457,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "text": "Could you first please give me the condition of the instrument? I am Ra. The readings are somewhat less distorted towards physical bankruptcy and vital energy loss than at the previous asking. There is still considerable bias in these readings.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you first please give me the condition of the instrument?",
+        "start_offset": 0,
+        "end_offset": 63,
+        "start": 0.36,
+        "end": 11.602
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 64,
+        "end_offset": 72,
+        "start": 11.622,
+        "end": 12.202
+      },
+      {
+        "segment": "The readings are somewhat less distorted towards physical bankruptcy and vital energy loss than at the previous asking.",
+        "start_offset": 73,
+        "end_offset": 192,
+        "start": 17.783,
+        "end": 55.651
+      },
+      {
+        "segment": "There is still considerable bias in these readings.",
+        "start_offset": 193,
+        "end_offset": 244,
+        "start": 57.891,
+        "end": 76.434
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 0.36,
+        "end": 1.56,
+        "score": -10.1722
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 1.58,
+        "end": 1.88,
+        "score": -9.3696
+      },
+      {
+        "word": "first",
+        "start_offset": 10,
+        "end_offset": 15,
+        "start": 1.9,
+        "end": 2.28,
+        "score": -7.1125
+      },
+      {
+        "word": "please",
+        "start_offset": 16,
+        "end_offset": 22,
+        "start": 9.422,
+        "end": 9.742,
+        "score": -6.6231
+      },
+      {
+        "word": "give",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 9.762,
+        "end": 9.842,
+        "score": -7.6771
+      },
+      {
+        "word": "me",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 9.862,
+        "end": 9.982,
+        "score": -8.1164
+      },
+      {
+        "word": "the",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 10.262,
+        "end": 10.382,
+        "score": -5.5669
+      },
+      {
+        "word": "condition",
+        "start_offset": 35,
+        "end_offset": 44,
+        "start": 10.442,
+        "end": 11.162,
+        "score": -7.3519
+      },
+      {
+        "word": "of",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 11.182,
+        "end": 11.222,
+        "score": -8.3449
+      },
+      {
+        "word": "the",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 11.242,
+        "end": 11.302,
+        "score": -7.1055
+      },
+      {
+        "word": "instrument?",
+        "start_offset": 52,
+        "end_offset": 63,
+        "start": 11.322,
+        "end": 11.602,
+        "score": -6.6157
+      },
+      {
+        "word": "I",
+        "start_offset": 64,
+        "end_offset": 65,
+        "start": 11.622,
+        "end": 11.642,
+        "score": -8.4649
+      },
+      {
+        "word": "am",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 11.682,
+        "end": 11.722,
+        "score": -8.1349
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 11.782,
+        "end": 12.202,
+        "score": -9.1059
+      },
+      {
+        "word": "The",
+        "start_offset": 73,
+        "end_offset": 76,
+        "start": 17.783,
+        "end": 17.923,
+        "score": -0.8799
+      },
+      {
+        "word": "readings",
+        "start_offset": 77,
+        "end_offset": 85,
+        "start": 22.164,
+        "end": 23.104,
+        "score": -0.7669
+      },
+      {
+        "word": "are",
+        "start_offset": 86,
+        "end_offset": 89,
+        "start": 23.424,
+        "end": 23.765,
+        "score": -0.8004
+      },
+      {
+        "word": "somewhat",
+        "start_offset": 90,
+        "end_offset": 98,
+        "start": 24.885,
+        "end": 26.205,
+        "score": -0.7963
+      },
+      {
+        "word": "less",
+        "start_offset": 99,
+        "end_offset": 103,
+        "start": 27.905,
+        "end": 28.345,
+        "score": -0.7937
+      },
+      {
+        "word": "distorted",
+        "start_offset": 104,
+        "end_offset": 113,
+        "start": 29.406,
+        "end": 30.586,
+        "score": -0.7401
+      },
+      {
+        "word": "towards",
+        "start_offset": 114,
+        "end_offset": 121,
+        "start": 35.087,
+        "end": 35.927,
+        "score": -0.7809
+      },
+      {
+        "word": "physical",
+        "start_offset": 122,
+        "end_offset": 130,
+        "start": 36.847,
+        "end": 38.527,
+        "score": -1.8499
+      },
+      {
+        "word": "bankruptcy",
+        "start_offset": 131,
+        "end_offset": 141,
+        "start": 38.687,
+        "end": 39.748,
+        "score": -1.7792
+      },
+      {
+        "word": "and",
+        "start_offset": 142,
+        "end_offset": 145,
+        "start": 41.808,
+        "end": 42.248,
+        "score": -0.8174
+      },
+      {
+        "word": "vital",
+        "start_offset": 146,
+        "end_offset": 151,
+        "start": 43.108,
+        "end": 44.088,
+        "score": -0.7821
+      },
+      {
+        "word": "energy",
+        "start_offset": 152,
+        "end_offset": 158,
+        "start": 44.108,
+        "end": 44.949,
+        "score": -8.7831
+      },
+      {
+        "word": "loss",
+        "start_offset": 159,
+        "end_offset": 163,
+        "start": 44.989,
+        "end": 45.549,
+        "score": -1.9565
+      },
+      {
+        "word": "than",
+        "start_offset": 164,
+        "end_offset": 168,
+        "start": 45.569,
+        "end": 47.329,
+        "score": -4.9177
+      },
+      {
+        "word": "at",
+        "start_offset": 169,
+        "end_offset": 171,
+        "start": 49.129,
+        "end": 49.449,
+        "score": -0.7719
+      },
+      {
+        "word": "the",
+        "start_offset": 172,
+        "end_offset": 175,
+        "start": 50.009,
+        "end": 50.15,
+        "score": -0.8227
+      },
+      {
+        "word": "previous",
+        "start_offset": 176,
+        "end_offset": 184,
+        "start": 51.53,
+        "end": 53.11,
+        "score": -1.856
+      },
+      {
+        "word": "asking.",
+        "start_offset": 185,
+        "end_offset": 192,
+        "start": 54.79,
+        "end": 55.651,
+        "score": -1.4231
+      },
+      {
+        "word": "There",
+        "start_offset": 193,
+        "end_offset": 198,
+        "start": 57.891,
+        "end": 58.251,
+        "score": -1.0863
+      },
+      {
+        "word": "is",
+        "start_offset": 199,
+        "end_offset": 201,
+        "start": 59.831,
+        "end": 60.171,
+        "score": -0.8582
+      },
+      {
+        "word": "still",
+        "start_offset": 202,
+        "end_offset": 207,
+        "start": 61.872,
+        "end": 62.712,
+        "score": -0.9948
+      },
+      {
+        "word": "considerable",
+        "start_offset": 208,
+        "end_offset": 220,
+        "start": 62.932,
+        "end": 65.232,
+        "score": -0.7098
+      },
+      {
+        "word": "bias",
+        "start_offset": 221,
+        "end_offset": 225,
+        "start": 69.213,
+        "end": 70.033,
+        "score": -1.3707
+      },
+      {
+        "word": "in",
+        "start_offset": 226,
+        "end_offset": 228,
+        "start": 73.854,
+        "end": 74.094,
+        "score": -0.9821
+      },
+      {
+        "word": "these",
+        "start_offset": 229,
+        "end_offset": 234,
+        "start": 74.494,
+        "end": 75.174,
+        "score": -2.7529
+      },
+      {
+        "word": "readings.",
+        "start_offset": 235,
+        "end_offset": 244,
+        "start": 75.654,
+        "end": 76.434,
+        "score": -0.7298
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "104-01.mp3",
+    "audio_duration": 84.0359,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

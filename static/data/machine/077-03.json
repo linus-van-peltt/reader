@@ -1,0 +1,198 @@
+{
+  "text": "Is there anything that we could do to help protect the instrument from these attacks prior to the session? Hi. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there anything that we could do to help protect the instrument from these attacks prior to the session?",
+        "start_offset": 20,
+        "end_offset": 130,
+        "start": 1.6,
+        "end": 10.4
+      },
+      {
+        "segment": "Hi.",
+        "start_offset": 173,
+        "end_offset": 177,
+        "start": 13.84,
+        "end": 14.16
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 233,
+        "end_offset": 279,
+        "start": 18.64,
+        "end": 22.32
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 1.6,
+        "end": 1.92
+      },
+      {
+        "word": "there",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 1.92,
+        "end": 2.16
+      },
+      {
+        "word": "anything",
+        "start_offset": 27,
+        "end_offset": 32,
+        "start": 2.16,
+        "end": 2.56
+      },
+      {
+        "word": "that",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 2.56,
+        "end": 2.72
+      },
+      {
+        "word": "we",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 2.72,
+        "end": 3.04
+      },
+      {
+        "word": "could",
+        "start_offset": 38,
+        "end_offset": 42,
+        "start": 3.04,
+        "end": 3.36
+      },
+      {
+        "word": "do",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 3.36,
+        "end": 3.68
+      },
+      {
+        "word": "to",
+        "start_offset": 54,
+        "end_offset": 58,
+        "start": 4.32,
+        "end": 4.64
+      },
+      {
+        "word": "help",
+        "start_offset": 78,
+        "end_offset": 85,
+        "start": 6.24,
+        "end": 6.8
+      },
+      {
+        "word": "protect",
+        "start_offset": 85,
+        "end_offset": 91,
+        "start": 6.8,
+        "end": 7.28
+      },
+      {
+        "word": "the",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 7.28,
+        "end": 7.44
+      },
+      {
+        "word": "instrument",
+        "start_offset": 93,
+        "end_offset": 99,
+        "start": 7.44,
+        "end": 7.92
+      },
+      {
+        "word": "from",
+        "start_offset": 99,
+        "end_offset": 103,
+        "start": 7.92,
+        "end": 8.24
+      },
+      {
+        "word": "these",
+        "start_offset": 103,
+        "end_offset": 106,
+        "start": 8.24,
+        "end": 8.48
+      },
+      {
+        "word": "attacks",
+        "start_offset": 106,
+        "end_offset": 113,
+        "start": 8.48,
+        "end": 9.040000000000001
+      },
+      {
+        "word": "prior",
+        "start_offset": 113,
+        "end_offset": 116,
+        "start": 9.040000000000001,
+        "end": 9.28
+      },
+      {
+        "word": "to",
+        "start_offset": 116,
+        "end_offset": 118,
+        "start": 9.28,
+        "end": 9.44
+      },
+      {
+        "word": "the",
+        "start_offset": 118,
+        "end_offset": 121,
+        "start": 9.44,
+        "end": 9.68
+      },
+      {
+        "word": "session?",
+        "start_offset": 121,
+        "end_offset": 130,
+        "start": 9.68,
+        "end": 10.4
+      },
+      {
+        "word": "Hi.",
+        "start_offset": 173,
+        "end_offset": 177,
+        "start": 13.84,
+        "end": 14.16
+      },
+      {
+        "word": "This",
+        "start_offset": 233,
+        "end_offset": 237,
+        "start": 18.64,
+        "end": 18.96
+      },
+      {
+        "word": "is",
+        "start_offset": 245,
+        "end_offset": 249,
+        "start": 19.6,
+        "end": 19.92
+      },
+      {
+        "word": "correct.",
+        "start_offset": 269,
+        "end_offset": 279,
+        "start": 21.52,
+        "end": 22.32
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "077-03.mp3",
+    "audio_duration": 23.04,
+    "transcription_time": 0.09,
+    "rtfx": 266.49,
+    "timestamp": "2026-01-06T21:56:04.975672+00:00"
+  }
+}

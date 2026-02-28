@@ -1,0 +1,65 @@
+{
+  "text": "2881 RAW 11, January 2881 RAW",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "2881 RAW 11, January 2881 RAW",
+        "start_offset": 32,
+        "end_offset": 71,
+        "start": 2.56,
+        "end": 5.68
+      }
+    ],
+    "word": [
+      {
+        "word": "2881",
+        "start_offset": 32,
+        "end_offset": 43,
+        "start": 2.56,
+        "end": 3.44
+      },
+      {
+        "word": "RAW",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 3.52,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "11,",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 3.92,
+        "end": 4.16
+      },
+      {
+        "word": "January",
+        "start_offset": 53,
+        "end_offset": 57,
+        "start": 4.24,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "2881",
+        "start_offset": 58,
+        "end_offset": 67,
+        "start": 4.64,
+        "end": 5.36
+      },
+      {
+        "word": "RAW",
+        "start_offset": 68,
+        "end_offset": 71,
+        "start": 5.44,
+        "end": 5.68
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "011-00.mp3",
+    "audio_duration": 6.03,
+    "transcription_time": 0.08,
+    "rtfx": 71.38,
+    "timestamp": "2026-01-06T21:46:44.164528+00:00"
+  }
+}

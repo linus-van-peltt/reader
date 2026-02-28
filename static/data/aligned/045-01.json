@@ -1,0 +1,410 @@
+{
+  "text": "Could you give us an estimate of the instrument's physical condition for communications now that she is rested? I am Ra. This instrument's condition as regards the bodily complex is extremely poor. This instrument is not rested. However, this instrument was eager for our contact.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you give us an estimate of the instrument's physical condition for communications now that she is rested?",
+        "start_offset": 0,
+        "end_offset": 111,
+        "start": 0.76,
+        "end": 9.383
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 112,
+        "end_offset": 120,
+        "start": 16.805,
+        "end": 19.245
+      },
+      {
+        "segment": "This instrument's condition as regards the bodily complex is extremely poor.",
+        "start_offset": 121,
+        "end_offset": 197,
+        "start": 23.167,
+        "end": 43.512
+      },
+      {
+        "segment": "This instrument is not rested.",
+        "start_offset": 198,
+        "end_offset": 228,
+        "start": 46.573,
+        "end": 55.216
+      },
+      {
+        "segment": "However, this instrument was eager for our contact.",
+        "start_offset": 229,
+        "end_offset": 280,
+        "start": 58.676,
+        "end": 75.721
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 0.76,
+        "end": 0.92,
+        "score": -2.5819
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 0.96,
+        "end": 1.04,
+        "score": -1.2878
+      },
+      {
+        "word": "give",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 1.1,
+        "end": 1.34,
+        "score": -0.9158
+      },
+      {
+        "word": "us",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 1.38,
+        "end": 1.48,
+        "score": -1.3056
+      },
+      {
+        "word": "an",
+        "start_offset": 18,
+        "end_offset": 20,
+        "start": 1.64,
+        "end": 1.74,
+        "score": -3.7777
+      },
+      {
+        "word": "estimate",
+        "start_offset": 21,
+        "end_offset": 29,
+        "start": 2.441,
+        "end": 2.961,
+        "score": -3.0509
+      },
+      {
+        "word": "of",
+        "start_offset": 30,
+        "end_offset": 32,
+        "start": 3.101,
+        "end": 3.181,
+        "score": -6.5598
+      },
+      {
+        "word": "the",
+        "start_offset": 33,
+        "end_offset": 36,
+        "start": 3.201,
+        "end": 3.301,
+        "score": -2.4935
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 37,
+        "end_offset": 49,
+        "start": 4.001,
+        "end": 4.601,
+        "score": -3.3333
+      },
+      {
+        "word": "physical",
+        "start_offset": 50,
+        "end_offset": 58,
+        "start": 5.442,
+        "end": 5.842,
+        "score": -4.3702
+      },
+      {
+        "word": "condition",
+        "start_offset": 59,
+        "end_offset": 68,
+        "start": 5.922,
+        "end": 6.442,
+        "score": -3.2492
+      },
+      {
+        "word": "for",
+        "start_offset": 69,
+        "end_offset": 72,
+        "start": 6.642,
+        "end": 6.862,
+        "score": -2.5919
+      },
+      {
+        "word": "communications",
+        "start_offset": 73,
+        "end_offset": 87,
+        "start": 7.442,
+        "end": 8.262,
+        "score": -2.5954
+      },
+      {
+        "word": "now",
+        "start_offset": 88,
+        "end_offset": 91,
+        "start": 8.342,
+        "end": 8.482,
+        "score": -3.6193
+      },
+      {
+        "word": "that",
+        "start_offset": 92,
+        "end_offset": 96,
+        "start": 8.502,
+        "end": 8.622,
+        "score": -6.3258
+      },
+      {
+        "word": "she",
+        "start_offset": 97,
+        "end_offset": 100,
+        "start": 8.642,
+        "end": 8.742,
+        "score": -5.385
+      },
+      {
+        "word": "is",
+        "start_offset": 101,
+        "end_offset": 103,
+        "start": 8.802,
+        "end": 8.902,
+        "score": -4.4181
+      },
+      {
+        "word": "rested?",
+        "start_offset": 104,
+        "end_offset": 111,
+        "start": 8.963,
+        "end": 9.383,
+        "score": -2.2951
+      },
+      {
+        "word": "I",
+        "start_offset": 112,
+        "end_offset": 113,
+        "start": 16.805,
+        "end": 16.825,
+        "score": -1.0463
+      },
+      {
+        "word": "am",
+        "start_offset": 114,
+        "end_offset": 116,
+        "start": 17.905,
+        "end": 18.165,
+        "score": -1.9841
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 117,
+        "end_offset": 120,
+        "start": 19.125,
+        "end": 19.245,
+        "score": -1.1484
+      },
+      {
+        "word": "This",
+        "start_offset": 121,
+        "end_offset": 125,
+        "start": 23.167,
+        "end": 23.527,
+        "score": -1.0016
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 126,
+        "end_offset": 138,
+        "start": 24.507,
+        "end": 25.767,
+        "score": -1.5133
+      },
+      {
+        "word": "condition",
+        "start_offset": 139,
+        "end_offset": 148,
+        "start": 27.868,
+        "end": 28.668,
+        "score": -0.709
+      },
+      {
+        "word": "as",
+        "start_offset": 149,
+        "end_offset": 151,
+        "start": 30.048,
+        "end": 30.429,
+        "score": -0.7158
+      },
+      {
+        "word": "regards",
+        "start_offset": 152,
+        "end_offset": 159,
+        "start": 30.789,
+        "end": 31.549,
+        "score": -0.7348
+      },
+      {
+        "word": "the",
+        "start_offset": 160,
+        "end_offset": 163,
+        "start": 33.049,
+        "end": 33.189,
+        "score": -0.8633
+      },
+      {
+        "word": "bodily",
+        "start_offset": 164,
+        "end_offset": 170,
+        "start": 34.19,
+        "end": 34.83,
+        "score": -1.4305
+      },
+      {
+        "word": "complex",
+        "start_offset": 171,
+        "end_offset": 178,
+        "start": 35.89,
+        "end": 36.81,
+        "score": -0.7179
+      },
+      {
+        "word": "is",
+        "start_offset": 179,
+        "end_offset": 181,
+        "start": 38.671,
+        "end": 38.951,
+        "score": -0.7484
+      },
+      {
+        "word": "extremely",
+        "start_offset": 182,
+        "end_offset": 191,
+        "start": 39.851,
+        "end": 41.052,
+        "score": -0.9583
+      },
+      {
+        "word": "poor.",
+        "start_offset": 192,
+        "end_offset": 197,
+        "start": 43.172,
+        "end": 43.512,
+        "score": -2.1595
+      },
+      {
+        "word": "This",
+        "start_offset": 198,
+        "end_offset": 202,
+        "start": 46.573,
+        "end": 46.933,
+        "score": -0.7803
+      },
+      {
+        "word": "instrument",
+        "start_offset": 203,
+        "end_offset": 213,
+        "start": 48.194,
+        "end": 49.214,
+        "score": -1.0223
+      },
+      {
+        "word": "is",
+        "start_offset": 214,
+        "end_offset": 216,
+        "start": 51.634,
+        "end": 51.935,
+        "score": -0.7294
+      },
+      {
+        "word": "not",
+        "start_offset": 217,
+        "end_offset": 220,
+        "start": 52.635,
+        "end": 52.995,
+        "score": -0.7096
+      },
+      {
+        "word": "rested.",
+        "start_offset": 221,
+        "end_offset": 228,
+        "start": 54.615,
+        "end": 55.216,
+        "score": -0.708
+      },
+      {
+        "word": "However,",
+        "start_offset": 229,
+        "end_offset": 237,
+        "start": 58.676,
+        "end": 59.897,
+        "score": -0.7186
+      },
+      {
+        "word": "this",
+        "start_offset": 238,
+        "end_offset": 242,
+        "start": 63.038,
+        "end": 63.398,
+        "score": -1.0233
+      },
+      {
+        "word": "instrument",
+        "start_offset": 243,
+        "end_offset": 253,
+        "start": 64.558,
+        "end": 65.478,
+        "score": -1.0371
+      },
+      {
+        "word": "was",
+        "start_offset": 254,
+        "end_offset": 257,
+        "start": 68.099,
+        "end": 68.459,
+        "score": -0.8028
+      },
+      {
+        "word": "eager",
+        "start_offset": 258,
+        "end_offset": 263,
+        "start": 70.12,
+        "end": 70.44,
+        "score": -0.9989
+      },
+      {
+        "word": "for",
+        "start_offset": 264,
+        "end_offset": 267,
+        "start": 71.66,
+        "end": 72.02,
+        "score": -1.2684
+      },
+      {
+        "word": "our",
+        "start_offset": 268,
+        "end_offset": 271,
+        "start": 73.061,
+        "end": 73.361,
+        "score": -1.7231
+      },
+      {
+        "word": "contact.",
+        "start_offset": 272,
+        "end_offset": 280,
+        "start": 74.741,
+        "end": 75.721,
+        "score": -0.7288
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "045-01.mp3",
+    "audio_duration": 83.0433,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

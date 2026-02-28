@@ -1,0 +1,402 @@
+{
+  "text": "Is the pyramid shape that Jim has constructed in our yard functioning properly? Is it aligned properly and built properly? I am Ra. It is built within good tolerances though not perfect. However, its alignment should be as this resting place for maximum efficacy.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is the pyramid shape that Jim has constructed in our yard functioning properly?",
+        "start_offset": 0,
+        "end_offset": 79,
+        "start": 3.021,
+        "end": 11.224
+      },
+      {
+        "segment": "Is it aligned properly and built properly?",
+        "start_offset": 80,
+        "end_offset": 122,
+        "start": 11.664,
+        "end": 19.607
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 123,
+        "end_offset": 131,
+        "start": 19.987,
+        "end": 22.448
+      },
+      {
+        "segment": "It is built within good tolerances though not perfect.",
+        "start_offset": 132,
+        "end_offset": 186,
+        "start": 24.188,
+        "end": 37.953
+      },
+      {
+        "segment": "However, its alignment should be as this resting place for maximum efficacy.",
+        "start_offset": 187,
+        "end_offset": 263,
+        "start": 39.213,
+        "end": 60.04
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 3.021,
+        "end": 3.121,
+        "score": -3.7366
+      },
+      {
+        "word": "the",
+        "start_offset": 3,
+        "end_offset": 6,
+        "start": 3.221,
+        "end": 3.321,
+        "score": -3.4994
+      },
+      {
+        "word": "pyramid",
+        "start_offset": 7,
+        "end_offset": 14,
+        "start": 4.401,
+        "end": 4.882,
+        "score": -2.3819
+      },
+      {
+        "word": "shape",
+        "start_offset": 15,
+        "end_offset": 20,
+        "start": 5.002,
+        "end": 5.342,
+        "score": -2.984
+      },
+      {
+        "word": "that",
+        "start_offset": 21,
+        "end_offset": 25,
+        "start": 5.422,
+        "end": 5.602,
+        "score": -5.4681
+      },
+      {
+        "word": "Jim",
+        "start_offset": 26,
+        "end_offset": 29,
+        "start": 6.482,
+        "end": 6.722,
+        "score": -3.3163
+      },
+      {
+        "word": "has",
+        "start_offset": 30,
+        "end_offset": 33,
+        "start": 6.802,
+        "end": 6.962,
+        "score": -5.2635
+      },
+      {
+        "word": "constructed",
+        "start_offset": 34,
+        "end_offset": 45,
+        "start": 7.022,
+        "end": 7.723,
+        "score": -3.8958
+      },
+      {
+        "word": "in",
+        "start_offset": 46,
+        "end_offset": 48,
+        "start": 8.683,
+        "end": 8.723,
+        "score": -5.2075
+      },
+      {
+        "word": "our",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 8.783,
+        "end": 8.903,
+        "score": -5.7062
+      },
+      {
+        "word": "yard",
+        "start_offset": 53,
+        "end_offset": 57,
+        "start": 9.023,
+        "end": 9.463,
+        "score": -2.8926
+      },
+      {
+        "word": "functioning",
+        "start_offset": 58,
+        "end_offset": 69,
+        "start": 10.143,
+        "end": 10.644,
+        "score": -4.4351
+      },
+      {
+        "word": "properly?",
+        "start_offset": 70,
+        "end_offset": 79,
+        "start": 10.704,
+        "end": 11.224,
+        "score": -5.3246
+      },
+      {
+        "word": "Is",
+        "start_offset": 80,
+        "end_offset": 82,
+        "start": 11.664,
+        "end": 11.784,
+        "score": -4.4031
+      },
+      {
+        "word": "it",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 11.844,
+        "end": 11.924,
+        "score": -4.8778
+      },
+      {
+        "word": "aligned",
+        "start_offset": 86,
+        "end_offset": 93,
+        "start": 11.964,
+        "end": 12.364,
+        "score": -5.6182
+      },
+      {
+        "word": "properly",
+        "start_offset": 94,
+        "end_offset": 102,
+        "start": 12.424,
+        "end": 12.924,
+        "score": -5.3094
+      },
+      {
+        "word": "and",
+        "start_offset": 103,
+        "end_offset": 106,
+        "start": 13.625,
+        "end": 13.805,
+        "score": -4.4028
+      },
+      {
+        "word": "built",
+        "start_offset": 107,
+        "end_offset": 112,
+        "start": 14.005,
+        "end": 14.225,
+        "score": -5.6662
+      },
+      {
+        "word": "properly?",
+        "start_offset": 113,
+        "end_offset": 122,
+        "start": 14.305,
+        "end": 19.607,
+        "score": -6.0722
+      },
+      {
+        "word": "I",
+        "start_offset": 123,
+        "end_offset": 124,
+        "start": 19.987,
+        "end": 20.007,
+        "score": -1.8096
+      },
+      {
+        "word": "am",
+        "start_offset": 125,
+        "end_offset": 127,
+        "start": 20.907,
+        "end": 21.187,
+        "score": -2.8404
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 128,
+        "end_offset": 131,
+        "start": 22.308,
+        "end": 22.448,
+        "score": -1.4821
+      },
+      {
+        "word": "It",
+        "start_offset": 132,
+        "end_offset": 134,
+        "start": 24.188,
+        "end": 24.448,
+        "score": -2.0466
+      },
+      {
+        "word": "is",
+        "start_offset": 135,
+        "end_offset": 137,
+        "start": 25.349,
+        "end": 25.689,
+        "score": -0.9646
+      },
+      {
+        "word": "built",
+        "start_offset": 138,
+        "end_offset": 143,
+        "start": 26.969,
+        "end": 27.369,
+        "score": -0.8309
+      },
+      {
+        "word": "within",
+        "start_offset": 144,
+        "end_offset": 150,
+        "start": 28.43,
+        "end": 29.05,
+        "score": -0.7291
+      },
+      {
+        "word": "good",
+        "start_offset": 151,
+        "end_offset": 155,
+        "start": 30.15,
+        "end": 30.47,
+        "score": -0.7017
+      },
+      {
+        "word": "tolerances",
+        "start_offset": 156,
+        "end_offset": 166,
+        "start": 31.551,
+        "end": 33.271,
+        "score": -0.7105
+      },
+      {
+        "word": "though",
+        "start_offset": 167,
+        "end_offset": 173,
+        "start": 34.472,
+        "end": 34.832,
+        "score": -1.084
+      },
+      {
+        "word": "not",
+        "start_offset": 174,
+        "end_offset": 177,
+        "start": 35.772,
+        "end": 36.192,
+        "score": -0.6992
+      },
+      {
+        "word": "perfect.",
+        "start_offset": 178,
+        "end_offset": 186,
+        "start": 37.072,
+        "end": 37.953,
+        "score": -0.7011
+      },
+      {
+        "word": "However,",
+        "start_offset": 187,
+        "end_offset": 195,
+        "start": 39.213,
+        "end": 40.674,
+        "score": -0.8044
+      },
+      {
+        "word": "its",
+        "start_offset": 196,
+        "end_offset": 199,
+        "start": 41.894,
+        "end": 42.214,
+        "score": -0.7686
+      },
+      {
+        "word": "alignment",
+        "start_offset": 200,
+        "end_offset": 209,
+        "start": 43.195,
+        "end": 44.375,
+        "score": -1.335
+      },
+      {
+        "word": "should",
+        "start_offset": 210,
+        "end_offset": 216,
+        "start": 46.256,
+        "end": 46.596,
+        "score": -1.0695
+      },
+      {
+        "word": "be",
+        "start_offset": 217,
+        "end_offset": 219,
+        "start": 46.896,
+        "end": 47.036,
+        "score": -0.7491
+      },
+      {
+        "word": "as",
+        "start_offset": 220,
+        "end_offset": 222,
+        "start": 48.256,
+        "end": 48.636,
+        "score": -0.7152
+      },
+      {
+        "word": "this",
+        "start_offset": 223,
+        "end_offset": 227,
+        "start": 50.037,
+        "end": 50.497,
+        "score": -0.7288
+      },
+      {
+        "word": "resting",
+        "start_offset": 228,
+        "end_offset": 235,
+        "start": 51.197,
+        "end": 51.937,
+        "score": -0.6989
+      },
+      {
+        "word": "place",
+        "start_offset": 236,
+        "end_offset": 241,
+        "start": 52.638,
+        "end": 53.298,
+        "score": -0.8271
+      },
+      {
+        "word": "for",
+        "start_offset": 242,
+        "end_offset": 245,
+        "start": 54.418,
+        "end": 54.838,
+        "score": -0.7065
+      },
+      {
+        "word": "maximum",
+        "start_offset": 246,
+        "end_offset": 253,
+        "start": 55.919,
+        "end": 57.119,
+        "score": -0.707
+      },
+      {
+        "word": "efficacy.",
+        "start_offset": 254,
+        "end_offset": 263,
+        "start": 58.66,
+        "end": 60.04,
+        "score": -1.7085
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "059-21.mp3",
+    "audio_duration": 62.0409,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

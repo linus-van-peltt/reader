@@ -1,0 +1,323 @@
+{
+  "text": "Now as I understand it, what you suggest as far as the tarot goes is to study the writings that we have available and from those formulate questions. Is this correct? I am Ra. No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Now as I understand it, what you suggest as far as the tarot goes is to study the writings that we have available and from those formulate questions.",
+        "start_offset": 0,
+        "end_offset": 149,
+        "start": 2.321,
+        "end": 20.969
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 150,
+        "end_offset": 166,
+        "start": 23.65,
+        "end": 24.311
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 167,
+        "end_offset": 175,
+        "start": 24.331,
+        "end": 29.793
+      },
+      {
+        "segment": "No.",
+        "start_offset": 176,
+        "end_offset": 179,
+        "start": 29.813,
+        "end": 30.573
+      }
+    ],
+    "word": [
+      {
+        "word": "Now",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.321,
+        "end": 2.461,
+        "score": -3.7336
+      },
+      {
+        "word": "as",
+        "start_offset": 4,
+        "end_offset": 6,
+        "start": 2.541,
+        "end": 2.681,
+        "score": -2.2262
+      },
+      {
+        "word": "I",
+        "start_offset": 7,
+        "end_offset": 8,
+        "start": 3.301,
+        "end": 3.321,
+        "score": -4.722
+      },
+      {
+        "word": "understand",
+        "start_offset": 9,
+        "end_offset": 19,
+        "start": 3.421,
+        "end": 3.902,
+        "score": -0.7449
+      },
+      {
+        "word": "it,",
+        "start_offset": 20,
+        "end_offset": 23,
+        "start": 3.962,
+        "end": 4.022,
+        "score": -1.0186
+      },
+      {
+        "word": "what",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 4.102,
+        "end": 4.242,
+        "score": -0.7856
+      },
+      {
+        "word": "you",
+        "start_offset": 29,
+        "end_offset": 32,
+        "start": 4.302,
+        "end": 4.442,
+        "score": -5.8007
+      },
+      {
+        "word": "suggest",
+        "start_offset": 33,
+        "end_offset": 40,
+        "start": 4.462,
+        "end": 4.962,
+        "score": -0.7841
+      },
+      {
+        "word": "as",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 6.423,
+        "end": 6.463,
+        "score": -4.475
+      },
+      {
+        "word": "far",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 6.543,
+        "end": 6.763,
+        "score": -1.4949
+      },
+      {
+        "word": "as",
+        "start_offset": 48,
+        "end_offset": 50,
+        "start": 6.783,
+        "end": 6.883,
+        "score": -3.4665
+      },
+      {
+        "word": "the",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 6.963,
+        "end": 7.083,
+        "score": -1.0394
+      },
+      {
+        "word": "tarot",
+        "start_offset": 55,
+        "end_offset": 60,
+        "start": 8.564,
+        "end": 8.944,
+        "score": -2.64
+      },
+      {
+        "word": "goes",
+        "start_offset": 61,
+        "end_offset": 65,
+        "start": 9.044,
+        "end": 9.364,
+        "score": -1.609
+      },
+      {
+        "word": "is",
+        "start_offset": 66,
+        "end_offset": 68,
+        "start": 9.484,
+        "end": 9.604,
+        "score": -0.7238
+      },
+      {
+        "word": "to",
+        "start_offset": 69,
+        "end_offset": 71,
+        "start": 9.704,
+        "end": 9.804,
+        "score": -0.7095
+      },
+      {
+        "word": "study",
+        "start_offset": 72,
+        "end_offset": 77,
+        "start": 10.885,
+        "end": 11.265,
+        "score": -0.7129
+      },
+      {
+        "word": "the",
+        "start_offset": 78,
+        "end_offset": 81,
+        "start": 11.405,
+        "end": 11.545,
+        "score": -0.8064
+      },
+      {
+        "word": "writings",
+        "start_offset": 82,
+        "end_offset": 90,
+        "start": 13.166,
+        "end": 13.806,
+        "score": -0.8685
+      },
+      {
+        "word": "that",
+        "start_offset": 91,
+        "end_offset": 95,
+        "start": 14.346,
+        "end": 14.506,
+        "score": -0.7404
+      },
+      {
+        "word": "we",
+        "start_offset": 96,
+        "end_offset": 98,
+        "start": 14.526,
+        "end": 14.606,
+        "score": -0.7213
+      },
+      {
+        "word": "have",
+        "start_offset": 99,
+        "end_offset": 103,
+        "start": 14.686,
+        "end": 14.886,
+        "score": -0.7086
+      },
+      {
+        "word": "available",
+        "start_offset": 104,
+        "end_offset": 113,
+        "start": 14.926,
+        "end": 15.507,
+        "score": -0.7451
+      },
+      {
+        "word": "and",
+        "start_offset": 114,
+        "end_offset": 117,
+        "start": 16.887,
+        "end": 17.007,
+        "score": -0.743
+      },
+      {
+        "word": "from",
+        "start_offset": 118,
+        "end_offset": 122,
+        "start": 17.067,
+        "end": 17.328,
+        "score": -0.7168
+      },
+      {
+        "word": "those",
+        "start_offset": 123,
+        "end_offset": 128,
+        "start": 17.688,
+        "end": 18.088,
+        "score": -0.737
+      },
+      {
+        "word": "formulate",
+        "start_offset": 129,
+        "end_offset": 138,
+        "start": 18.808,
+        "end": 19.388,
+        "score": -0.7196
+      },
+      {
+        "word": "questions.",
+        "start_offset": 139,
+        "end_offset": 149,
+        "start": 20.309,
+        "end": 20.969,
+        "score": -0.8699
+      },
+      {
+        "word": "Is",
+        "start_offset": 150,
+        "end_offset": 152,
+        "start": 23.65,
+        "end": 23.75,
+        "score": -3.2632
+      },
+      {
+        "word": "this",
+        "start_offset": 153,
+        "end_offset": 157,
+        "start": 23.77,
+        "end": 23.91,
+        "score": -3.6369
+      },
+      {
+        "word": "correct?",
+        "start_offset": 158,
+        "end_offset": 166,
+        "start": 23.97,
+        "end": 24.311,
+        "score": -2.6577
+      },
+      {
+        "word": "I",
+        "start_offset": 167,
+        "end_offset": 168,
+        "start": 24.331,
+        "end": 24.351,
+        "score": -7.9348
+      },
+      {
+        "word": "am",
+        "start_offset": 169,
+        "end_offset": 171,
+        "start": 29.693,
+        "end": 29.733,
+        "score": -7.6487
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 172,
+        "end_offset": 175,
+        "start": 29.753,
+        "end": 29.793,
+        "score": -8.0012
+      },
+      {
+        "word": "No.",
+        "start_offset": 176,
+        "end_offset": 179,
+        "start": 29.813,
+        "end": 30.573,
+        "score": -8.2408
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "089-24.mp3",
+    "audio_duration": 31.0335,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

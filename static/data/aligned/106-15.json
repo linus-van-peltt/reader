@@ -1,0 +1,387 @@
+{
+  "text": "Would Ra recommend… Let me put it this way: Would Ra think that surgery in my case would be of any help? I am Ra. We assume you speak of the colonic indisposition and its potential aid by your chirurgeons. Is this correct?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would Ra recommend… Let me put it this way: Would Ra think that surgery in my case would be of any help?",
+        "start_offset": 0,
+        "end_offset": 104,
+        "start": 12.383,
+        "end": 24.646
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 105,
+        "end_offset": 113,
+        "start": 31.288,
+        "end": 34.769
+      },
+      {
+        "segment": "We assume you speak of the colonic indisposition and its potential aid by your chirurgeons.",
+        "start_offset": 114,
+        "end_offset": 205,
+        "start": 42.431,
+        "end": 77.1
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 206,
+        "end_offset": 222,
+        "start": 79.661,
+        "end": 85.042
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 12.383,
+        "end": 12.583,
+        "score": -4.8685
+      },
+      {
+        "word": "Ra",
+        "start_offset": 6,
+        "end_offset": 8,
+        "start": 12.663,
+        "end": 12.763,
+        "score": -3.1155
+      },
+      {
+        "word": "recommend…",
+        "start_offset": 9,
+        "end_offset": 19,
+        "start": 12.983,
+        "end": 13.584,
+        "score": -3.5649
+      },
+      {
+        "word": "Let",
+        "start_offset": 20,
+        "end_offset": 23,
+        "start": 13.704,
+        "end": 14.844,
+        "score": -4.5694
+      },
+      {
+        "word": "me",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 15.544,
+        "end": 15.644,
+        "score": -4.1158
+      },
+      {
+        "word": "put",
+        "start_offset": 27,
+        "end_offset": 30,
+        "start": 16.024,
+        "end": 16.204,
+        "score": -5.3999
+      },
+      {
+        "word": "it",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 16.224,
+        "end": 16.324,
+        "score": -3.2567
+      },
+      {
+        "word": "this",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 16.524,
+        "end": 16.684,
+        "score": -3.7545
+      },
+      {
+        "word": "way:",
+        "start_offset": 39,
+        "end_offset": 43,
+        "start": 16.744,
+        "end": 16.844,
+        "score": -4.9128
+      },
+      {
+        "word": "Would",
+        "start_offset": 44,
+        "end_offset": 49,
+        "start": 19.265,
+        "end": 19.785,
+        "score": -5.9463
+      },
+      {
+        "word": "Ra",
+        "start_offset": 50,
+        "end_offset": 52,
+        "start": 19.825,
+        "end": 19.945,
+        "score": -2.0721
+      },
+      {
+        "word": "think",
+        "start_offset": 53,
+        "end_offset": 58,
+        "start": 20.085,
+        "end": 20.325,
+        "score": -3.7818
+      },
+      {
+        "word": "that",
+        "start_offset": 59,
+        "end_offset": 63,
+        "start": 20.525,
+        "end": 20.725,
+        "score": -5.691
+      },
+      {
+        "word": "surgery",
+        "start_offset": 64,
+        "end_offset": 71,
+        "start": 21.346,
+        "end": 21.906,
+        "score": -2.7577
+      },
+      {
+        "word": "in",
+        "start_offset": 72,
+        "end_offset": 74,
+        "start": 22.486,
+        "end": 22.526,
+        "score": -4.98
+      },
+      {
+        "word": "my",
+        "start_offset": 75,
+        "end_offset": 77,
+        "start": 22.566,
+        "end": 22.646,
+        "score": -4.1529
+      },
+      {
+        "word": "case",
+        "start_offset": 78,
+        "end_offset": 82,
+        "start": 22.786,
+        "end": 23.086,
+        "score": -3.5151
+      },
+      {
+        "word": "would",
+        "start_offset": 83,
+        "end_offset": 88,
+        "start": 23.106,
+        "end": 23.206,
+        "score": -5.8349
+      },
+      {
+        "word": "be",
+        "start_offset": 89,
+        "end_offset": 91,
+        "start": 23.246,
+        "end": 23.366,
+        "score": -2.8439
+      },
+      {
+        "word": "of",
+        "start_offset": 92,
+        "end_offset": 94,
+        "start": 23.406,
+        "end": 23.486,
+        "score": -7.0651
+      },
+      {
+        "word": "any",
+        "start_offset": 95,
+        "end_offset": 98,
+        "start": 23.566,
+        "end": 23.686,
+        "score": -3.6153
+      },
+      {
+        "word": "help?",
+        "start_offset": 99,
+        "end_offset": 104,
+        "start": 24.446,
+        "end": 24.646,
+        "score": -5.3622
+      },
+      {
+        "word": "I",
+        "start_offset": 105,
+        "end_offset": 106,
+        "start": 31.288,
+        "end": 31.308,
+        "score": -2.1201
+      },
+      {
+        "word": "am",
+        "start_offset": 107,
+        "end_offset": 109,
+        "start": 32.788,
+        "end": 33.029,
+        "score": -3.0293
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 110,
+        "end_offset": 113,
+        "start": 34.629,
+        "end": 34.769,
+        "score": -4.1061
+      },
+      {
+        "word": "We",
+        "start_offset": 114,
+        "end_offset": 116,
+        "start": 42.431,
+        "end": 42.591,
+        "score": -1.3673
+      },
+      {
+        "word": "assume",
+        "start_offset": 117,
+        "end_offset": 123,
+        "start": 43.731,
+        "end": 44.632,
+        "score": -2.5579
+      },
+      {
+        "word": "you",
+        "start_offset": 124,
+        "end_offset": 127,
+        "start": 45.932,
+        "end": 46.092,
+        "score": -2.5653
+      },
+      {
+        "word": "speak",
+        "start_offset": 128,
+        "end_offset": 133,
+        "start": 47.552,
+        "end": 48.292,
+        "score": -1.0656
+      },
+      {
+        "word": "of",
+        "start_offset": 134,
+        "end_offset": 136,
+        "start": 48.653,
+        "end": 49.033,
+        "score": -4.5243
+      },
+      {
+        "word": "the",
+        "start_offset": 137,
+        "end_offset": 140,
+        "start": 51.913,
+        "end": 52.053,
+        "score": -1.9835
+      },
+      {
+        "word": "colonic",
+        "start_offset": 141,
+        "end_offset": 148,
+        "start": 54.094,
+        "end": 56.295,
+        "score": -1.3133
+      },
+      {
+        "word": "indisposition",
+        "start_offset": 149,
+        "end_offset": 162,
+        "start": 58.155,
+        "end": 60.356,
+        "score": -1.3878
+      },
+      {
+        "word": "and",
+        "start_offset": 163,
+        "end_offset": 166,
+        "start": 62.396,
+        "end": 62.756,
+        "score": -2.2693
+      },
+      {
+        "word": "its",
+        "start_offset": 167,
+        "end_offset": 170,
+        "start": 63.816,
+        "end": 64.177,
+        "score": -3.2963
+      },
+      {
+        "word": "potential",
+        "start_offset": 171,
+        "end_offset": 180,
+        "start": 67.057,
+        "end": 68.218,
+        "score": -2.2039
+      },
+      {
+        "word": "aid",
+        "start_offset": 181,
+        "end_offset": 184,
+        "start": 71.538,
+        "end": 71.919,
+        "score": -1.7345
+      },
+      {
+        "word": "by",
+        "start_offset": 185,
+        "end_offset": 187,
+        "start": 72.919,
+        "end": 73.319,
+        "score": -2.6984
+      },
+      {
+        "word": "your",
+        "start_offset": 188,
+        "end_offset": 192,
+        "start": 74.639,
+        "end": 74.999,
+        "score": -2.3074
+      },
+      {
+        "word": "chirurgeons.",
+        "start_offset": 193,
+        "end_offset": 205,
+        "start": 75.84,
+        "end": 77.1,
+        "score": -2.8175
+      },
+      {
+        "word": "Is",
+        "start_offset": 206,
+        "end_offset": 208,
+        "start": 79.661,
+        "end": 80.001,
+        "score": -2.132
+      },
+      {
+        "word": "this",
+        "start_offset": 209,
+        "end_offset": 213,
+        "start": 82.481,
+        "end": 82.861,
+        "score": -2.0763
+      },
+      {
+        "word": "correct?",
+        "start_offset": 214,
+        "end_offset": 222,
+        "start": 84.382,
+        "end": 85.042,
+        "score": -2.904
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "106-15.mp3",
+    "audio_duration": 85.3421,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

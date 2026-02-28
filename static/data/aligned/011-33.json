@@ -1,0 +1,322 @@
+{
+  "text": "Thank you. I am Ra. I leave you in the love and the light of the One Infinite Creator. Go forth, then, rejoicing in the power and the peace of the One Creator. Adonai.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thank you.",
+        "start_offset": 0,
+        "end_offset": 10,
+        "start": 6.361,
+        "end": 7.681
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 11,
+        "end_offset": 19,
+        "start": 7.781,
+        "end": 9.061
+      },
+      {
+        "segment": "I leave you in the love and the light of the One Infinite Creator.",
+        "start_offset": 20,
+        "end_offset": 86,
+        "start": 11.161,
+        "end": 30.863
+      },
+      {
+        "segment": "Go forth, then, rejoicing in the power and the peace of the One Creator.",
+        "start_offset": 87,
+        "end_offset": 159,
+        "start": 32.663,
+        "end": 46.524
+      },
+      {
+        "segment": "Adonai.",
+        "start_offset": 160,
+        "end_offset": 167,
+        "start": 49.284,
+        "end": 88.508
+      }
+    ],
+    "word": [
+      {
+        "word": "Thank",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 6.361,
+        "end": 6.521,
+        "score": -8.2202
+      },
+      {
+        "word": "you.",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 6.661,
+        "end": 7.681,
+        "score": -6.6118
+      },
+      {
+        "word": "I",
+        "start_offset": 11,
+        "end_offset": 12,
+        "start": 7.781,
+        "end": 7.801,
+        "score": -6.9464
+      },
+      {
+        "word": "am",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 7.821,
+        "end": 7.861,
+        "score": -4.8454
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 8.941,
+        "end": 9.061,
+        "score": -1.0466
+      },
+      {
+        "word": "I",
+        "start_offset": 20,
+        "end_offset": 21,
+        "start": 11.161,
+        "end": 11.181,
+        "score": -0.7421
+      },
+      {
+        "word": "leave",
+        "start_offset": 22,
+        "end_offset": 27,
+        "start": 12.401,
+        "end": 12.921,
+        "score": -0.8739
+      },
+      {
+        "word": "you",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 13.621,
+        "end": 13.781,
+        "score": -1.3384
+      },
+      {
+        "word": "in",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 15.061,
+        "end": 15.241,
+        "score": -1.074
+      },
+      {
+        "word": "the",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 16.121,
+        "end": 16.241,
+        "score": -0.8946
+      },
+      {
+        "word": "love",
+        "start_offset": 39,
+        "end_offset": 43,
+        "start": 17.522,
+        "end": 17.922,
+        "score": -0.9518
+      },
+      {
+        "word": "and",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 19.442,
+        "end": 19.722,
+        "score": -1.4234
+      },
+      {
+        "word": "the",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 20.482,
+        "end": 20.602,
+        "score": -1.2319
+      },
+      {
+        "word": "light",
+        "start_offset": 52,
+        "end_offset": 57,
+        "start": 21.962,
+        "end": 22.402,
+        "score": -0.838
+      },
+      {
+        "word": "of",
+        "start_offset": 58,
+        "end_offset": 60,
+        "start": 23.822,
+        "end": 24.082,
+        "score": -0.8096
+      },
+      {
+        "word": "the",
+        "start_offset": 61,
+        "end_offset": 64,
+        "start": 25.182,
+        "end": 25.322,
+        "score": -0.8586
+      },
+      {
+        "word": "One",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 26.582,
+        "end": 26.822,
+        "score": -1.627
+      },
+      {
+        "word": "Infinite",
+        "start_offset": 69,
+        "end_offset": 77,
+        "start": 28.342,
+        "end": 29.183,
+        "score": -1.2903
+      },
+      {
+        "word": "Creator.",
+        "start_offset": 78,
+        "end_offset": 86,
+        "start": 29.943,
+        "end": 30.863,
+        "score": -0.9021
+      },
+      {
+        "word": "Go",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 32.663,
+        "end": 32.783,
+        "score": -0.8689
+      },
+      {
+        "word": "forth,",
+        "start_offset": 90,
+        "end_offset": 96,
+        "start": 33.563,
+        "end": 34.063,
+        "score": -0.7894
+      },
+      {
+        "word": "then,",
+        "start_offset": 97,
+        "end_offset": 102,
+        "start": 34.903,
+        "end": 35.163,
+        "score": -0.7619
+      },
+      {
+        "word": "rejoicing",
+        "start_offset": 103,
+        "end_offset": 112,
+        "start": 36.663,
+        "end": 37.583,
+        "score": -0.7219
+      },
+      {
+        "word": "in",
+        "start_offset": 113,
+        "end_offset": 115,
+        "start": 38.843,
+        "end": 38.983,
+        "score": -0.7445
+      },
+      {
+        "word": "the",
+        "start_offset": 116,
+        "end_offset": 119,
+        "start": 39.143,
+        "end": 39.263,
+        "score": -0.8414
+      },
+      {
+        "word": "power",
+        "start_offset": 120,
+        "end_offset": 125,
+        "start": 39.483,
+        "end": 40.084,
+        "score": -0.8006
+      },
+      {
+        "word": "and",
+        "start_offset": 126,
+        "end_offset": 129,
+        "start": 41.624,
+        "end": 41.784,
+        "score": -0.979
+      },
+      {
+        "word": "the",
+        "start_offset": 130,
+        "end_offset": 133,
+        "start": 41.844,
+        "end": 41.944,
+        "score": -0.9109
+      },
+      {
+        "word": "peace",
+        "start_offset": 134,
+        "end_offset": 139,
+        "start": 42.064,
+        "end": 42.644,
+        "score": -1.2079
+      },
+      {
+        "word": "of",
+        "start_offset": 140,
+        "end_offset": 142,
+        "start": 44.304,
+        "end": 44.444,
+        "score": -0.7451
+      },
+      {
+        "word": "the",
+        "start_offset": 143,
+        "end_offset": 146,
+        "start": 44.524,
+        "end": 44.624,
+        "score": -0.9436
+      },
+      {
+        "word": "One",
+        "start_offset": 147,
+        "end_offset": 150,
+        "start": 44.824,
+        "end": 45.044,
+        "score": -0.8618
+      },
+      {
+        "word": "Creator.",
+        "start_offset": 151,
+        "end_offset": 159,
+        "start": 45.744,
+        "end": 46.524,
+        "score": -0.7679
+      },
+      {
+        "word": "Adonai.",
+        "start_offset": 160,
+        "end_offset": 167,
+        "start": 49.284,
+        "end": 88.508,
+        "score": -2.5402
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "011-33.mp3",
+    "audio_duration": 93.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

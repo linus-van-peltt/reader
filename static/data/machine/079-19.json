@@ -1,0 +1,240 @@
+{
+  "text": "Could you tell me what you mean by the significator must become a complex? I am to be complex is to consist of more than one characteristic element or concept.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you tell me what you mean by the significator must become a complex?",
+        "start_offset": 32,
+        "end_offset": 108,
+        "start": 2.56,
+        "end": 8.64
+      },
+      {
+        "segment": "I am to be complex is to consist of more than one characteristic element or concept.",
+        "start_offset": 204,
+        "end_offset": 560,
+        "start": 16.32,
+        "end": 44.800000000000004
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 32,
+        "end_offset": 37,
+        "start": 2.56,
+        "end": 2.96
+      },
+      {
+        "word": "you",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 2.96,
+        "end": 3.12
+      },
+      {
+        "word": "tell",
+        "start_offset": 39,
+        "end_offset": 43,
+        "start": 3.12,
+        "end": 3.44
+      },
+      {
+        "word": "me",
+        "start_offset": 43,
+        "end_offset": 47,
+        "start": 3.44,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "what",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 3.7600000000000002,
+        "end": 4.08
+      },
+      {
+        "word": "you",
+        "start_offset": 51,
+        "end_offset": 55,
+        "start": 4.08,
+        "end": 4.4
+      },
+      {
+        "word": "mean",
+        "start_offset": 58,
+        "end_offset": 64,
+        "start": 4.64,
+        "end": 5.12
+      },
+      {
+        "word": "by",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 5.12,
+        "end": 5.36
+      },
+      {
+        "word": "the",
+        "start_offset": 67,
+        "end_offset": 71,
+        "start": 5.36,
+        "end": 5.68
+      },
+      {
+        "word": "significator",
+        "start_offset": 71,
+        "end_offset": 83,
+        "start": 5.68,
+        "end": 6.640000000000001
+      },
+      {
+        "word": "must",
+        "start_offset": 85,
+        "end_offset": 89,
+        "start": 6.8,
+        "end": 7.12
+      },
+      {
+        "word": "become",
+        "start_offset": 89,
+        "end_offset": 96,
+        "start": 7.12,
+        "end": 7.68
+      },
+      {
+        "word": "a",
+        "start_offset": 96,
+        "end_offset": 100,
+        "start": 7.68,
+        "end": 8.0
+      },
+      {
+        "word": "complex?",
+        "start_offset": 100,
+        "end_offset": 108,
+        "start": 8.0,
+        "end": 8.64
+      },
+      {
+        "word": "I",
+        "start_offset": 204,
+        "end_offset": 208,
+        "start": 16.32,
+        "end": 16.64
+      },
+      {
+        "word": "am",
+        "start_offset": 214,
+        "end_offset": 217,
+        "start": 17.12,
+        "end": 17.36
+      },
+      {
+        "word": "to",
+        "start_offset": 289,
+        "end_offset": 293,
+        "start": 23.12,
+        "end": 23.44
+      },
+      {
+        "word": "be",
+        "start_offset": 297,
+        "end_offset": 301,
+        "start": 23.76,
+        "end": 24.080000000000002
+      },
+      {
+        "word": "complex",
+        "start_offset": 305,
+        "end_offset": 313,
+        "start": 24.400000000000002,
+        "end": 25.04
+      },
+      {
+        "word": "is",
+        "start_offset": 333,
+        "end_offset": 337,
+        "start": 26.64,
+        "end": 26.96
+      },
+      {
+        "word": "to",
+        "start_offset": 349,
+        "end_offset": 353,
+        "start": 27.92,
+        "end": 28.240000000000002
+      },
+      {
+        "word": "consist",
+        "start_offset": 357,
+        "end_offset": 365,
+        "start": 28.560000000000002,
+        "end": 29.2
+      },
+      {
+        "word": "of",
+        "start_offset": 381,
+        "end_offset": 385,
+        "start": 30.48,
+        "end": 30.8
+      },
+      {
+        "word": "more",
+        "start_offset": 389,
+        "end_offset": 393,
+        "start": 31.12,
+        "end": 31.44
+      },
+      {
+        "word": "than",
+        "start_offset": 401,
+        "end_offset": 405,
+        "start": 32.08,
+        "end": 32.4
+      },
+      {
+        "word": "one",
+        "start_offset": 425,
+        "end_offset": 429,
+        "start": 34.0,
+        "end": 34.32
+      },
+      {
+        "word": "characteristic",
+        "start_offset": 449,
+        "end_offset": 473,
+        "start": 35.92,
+        "end": 37.84
+      },
+      {
+        "word": "element",
+        "start_offset": 493,
+        "end_offset": 497,
+        "start": 39.44,
+        "end": 39.76
+      },
+      {
+        "word": "or",
+        "start_offset": 528,
+        "end_offset": 532,
+        "start": 42.24,
+        "end": 42.56
+      },
+      {
+        "word": "concept.",
+        "start_offset": 548,
+        "end_offset": 560,
+        "start": 43.84,
+        "end": 44.800000000000004
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "079-19.mp3",
+    "audio_duration": 58.04,
+    "transcription_time": 0.12,
+    "rtfx": 497.51,
+    "timestamp": "2026-01-06T21:56:32.958203+00:00"
+  }
+}

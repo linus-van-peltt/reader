@@ -1,0 +1,571 @@
+{
+  "text": "Was this training the same type of initiatory training that was done with the Egyptians? I am Ra. This training was different in that the social complex was more, shall we say, sophisticated and less contradictory and barbarous in its ways of thinking. Therefore the temples were temples of learning rather than the attempt being made to totally separate and put upon a pedestal the healers.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Was this training the same type of initiatory training that was done with the Egyptians?",
+        "start_offset": 0,
+        "end_offset": 88,
+        "start": 3.0,
+        "end": 9.921
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 89,
+        "end_offset": 97,
+        "start": 14.542,
+        "end": 16.202
+      },
+      {
+        "segment": "This training was different in that the social complex was more, shall we say, sophisticated and less contradictory and barbarous in its ways of thinking.",
+        "start_offset": 98,
+        "end_offset": 252,
+        "start": 17.842,
+        "end": 51.427
+      },
+      {
+        "segment": "Therefore the temples were temples of learning rather than the attempt being made to totally separate and put upon a pedestal the healers.",
+        "start_offset": 253,
+        "end_offset": 391,
+        "start": 52.867,
+        "end": 81.01
+      }
+    ],
+    "word": [
+      {
+        "word": "Was",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 3.0,
+        "end": 3.2,
+        "score": -4.7227
+      },
+      {
+        "word": "this",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 3.28,
+        "end": 3.52,
+        "score": -5.7018
+      },
+      {
+        "word": "training",
+        "start_offset": 9,
+        "end_offset": 17,
+        "start": 4.301,
+        "end": 4.781,
+        "score": -5.3812
+      },
+      {
+        "word": "the",
+        "start_offset": 18,
+        "end_offset": 21,
+        "start": 4.881,
+        "end": 4.961,
+        "score": -5.7999
+      },
+      {
+        "word": "same",
+        "start_offset": 22,
+        "end_offset": 26,
+        "start": 5.061,
+        "end": 5.281,
+        "score": -5.2526
+      },
+      {
+        "word": "type",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 5.341,
+        "end": 5.641,
+        "score": -5.7782
+      },
+      {
+        "word": "of",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 5.741,
+        "end": 5.821,
+        "score": -3.6879
+      },
+      {
+        "word": "initiatory",
+        "start_offset": 35,
+        "end_offset": 45,
+        "start": 5.861,
+        "end": 6.561,
+        "score": -3.5307
+      },
+      {
+        "word": "training",
+        "start_offset": 46,
+        "end_offset": 54,
+        "start": 6.641,
+        "end": 7.081,
+        "score": -4.9644
+      },
+      {
+        "word": "that",
+        "start_offset": 55,
+        "end_offset": 59,
+        "start": 7.281,
+        "end": 7.461,
+        "score": -7.7047
+      },
+      {
+        "word": "was",
+        "start_offset": 60,
+        "end_offset": 63,
+        "start": 8.281,
+        "end": 8.441,
+        "score": -4.4383
+      },
+      {
+        "word": "done",
+        "start_offset": 64,
+        "end_offset": 68,
+        "start": 8.521,
+        "end": 8.801,
+        "score": -5.2158
+      },
+      {
+        "word": "with",
+        "start_offset": 69,
+        "end_offset": 73,
+        "start": 9.001,
+        "end": 9.141,
+        "score": -3.9923
+      },
+      {
+        "word": "the",
+        "start_offset": 74,
+        "end_offset": 77,
+        "start": 9.161,
+        "end": 9.241,
+        "score": -5.6138
+      },
+      {
+        "word": "Egyptians?",
+        "start_offset": 78,
+        "end_offset": 88,
+        "start": 9.301,
+        "end": 9.921,
+        "score": -5.5326
+      },
+      {
+        "word": "I",
+        "start_offset": 89,
+        "end_offset": 90,
+        "start": 14.542,
+        "end": 14.562,
+        "score": -0.914
+      },
+      {
+        "word": "am",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 15.242,
+        "end": 15.522,
+        "score": -3.1532
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 94,
+        "end_offset": 97,
+        "start": 16.062,
+        "end": 16.202,
+        "score": -1.2226
+      },
+      {
+        "word": "This",
+        "start_offset": 98,
+        "end_offset": 102,
+        "start": 17.842,
+        "end": 18.202,
+        "score": -0.7113
+      },
+      {
+        "word": "training",
+        "start_offset": 103,
+        "end_offset": 111,
+        "start": 18.642,
+        "end": 19.323,
+        "score": -0.6983
+      },
+      {
+        "word": "was",
+        "start_offset": 112,
+        "end_offset": 115,
+        "start": 20.423,
+        "end": 20.843,
+        "score": -0.7018
+      },
+      {
+        "word": "different",
+        "start_offset": 116,
+        "end_offset": 125,
+        "start": 21.303,
+        "end": 22.263,
+        "score": -0.7102
+      },
+      {
+        "word": "in",
+        "start_offset": 126,
+        "end_offset": 128,
+        "start": 23.483,
+        "end": 23.703,
+        "score": -0.7187
+      },
+      {
+        "word": "that",
+        "start_offset": 129,
+        "end_offset": 133,
+        "start": 24.003,
+        "end": 24.343,
+        "score": -0.809
+      },
+      {
+        "word": "the",
+        "start_offset": 134,
+        "end_offset": 137,
+        "start": 24.643,
+        "end": 24.783,
+        "score": -0.82
+      },
+      {
+        "word": "social",
+        "start_offset": 138,
+        "end_offset": 144,
+        "start": 27.104,
+        "end": 27.864,
+        "score": -0.696
+      },
+      {
+        "word": "complex",
+        "start_offset": 145,
+        "end_offset": 152,
+        "start": 28.324,
+        "end": 29.304,
+        "score": -0.6949
+      },
+      {
+        "word": "was",
+        "start_offset": 153,
+        "end_offset": 156,
+        "start": 30.804,
+        "end": 31.304,
+        "score": -0.6973
+      },
+      {
+        "word": "more,",
+        "start_offset": 157,
+        "end_offset": 162,
+        "start": 31.804,
+        "end": 32.244,
+        "score": -0.7537
+      },
+      {
+        "word": "shall",
+        "start_offset": 163,
+        "end_offset": 168,
+        "start": 32.724,
+        "end": 33.104,
+        "score": -0.7712
+      },
+      {
+        "word": "we",
+        "start_offset": 169,
+        "end_offset": 171,
+        "start": 33.384,
+        "end": 33.504,
+        "score": -0.7064
+      },
+      {
+        "word": "say,",
+        "start_offset": 172,
+        "end_offset": 176,
+        "start": 33.784,
+        "end": 34.144,
+        "score": -0.7022
+      },
+      {
+        "word": "sophisticated",
+        "start_offset": 177,
+        "end_offset": 190,
+        "start": 35.245,
+        "end": 37.165,
+        "score": -0.867
+      },
+      {
+        "word": "and",
+        "start_offset": 191,
+        "end_offset": 194,
+        "start": 38.425,
+        "end": 38.725,
+        "score": -0.7071
+      },
+      {
+        "word": "less",
+        "start_offset": 195,
+        "end_offset": 199,
+        "start": 39.045,
+        "end": 39.505,
+        "score": -0.6989
+      },
+      {
+        "word": "contradictory",
+        "start_offset": 200,
+        "end_offset": 213,
+        "start": 40.425,
+        "end": 42.145,
+        "score": -0.7054
+      },
+      {
+        "word": "and",
+        "start_offset": 214,
+        "end_offset": 217,
+        "start": 43.646,
+        "end": 44.046,
+        "score": -0.7038
+      },
+      {
+        "word": "barbarous",
+        "start_offset": 218,
+        "end_offset": 227,
+        "start": 45.206,
+        "end": 46.306,
+        "score": -1.5288
+      },
+      {
+        "word": "in",
+        "start_offset": 228,
+        "end_offset": 230,
+        "start": 47.526,
+        "end": 47.726,
+        "score": -0.6956
+      },
+      {
+        "word": "its",
+        "start_offset": 231,
+        "end_offset": 234,
+        "start": 48.126,
+        "end": 48.386,
+        "score": -0.6991
+      },
+      {
+        "word": "ways",
+        "start_offset": 235,
+        "end_offset": 239,
+        "start": 48.686,
+        "end": 49.266,
+        "score": -0.7297
+      },
+      {
+        "word": "of",
+        "start_offset": 240,
+        "end_offset": 242,
+        "start": 50.287,
+        "end": 50.427,
+        "score": -7.0156
+      },
+      {
+        "word": "thinking.",
+        "start_offset": 243,
+        "end_offset": 252,
+        "start": 50.707,
+        "end": 51.427,
+        "score": -0.7115
+      },
+      {
+        "word": "Therefore",
+        "start_offset": 253,
+        "end_offset": 262,
+        "start": 52.867,
+        "end": 53.927,
+        "score": -0.8047
+      },
+      {
+        "word": "the",
+        "start_offset": 263,
+        "end_offset": 266,
+        "start": 55.347,
+        "end": 55.487,
+        "score": -0.8386
+      },
+      {
+        "word": "temples",
+        "start_offset": 267,
+        "end_offset": 274,
+        "start": 56.007,
+        "end": 56.987,
+        "score": -0.7237
+      },
+      {
+        "word": "were",
+        "start_offset": 275,
+        "end_offset": 279,
+        "start": 57.968,
+        "end": 58.248,
+        "score": -0.7097
+      },
+      {
+        "word": "temples",
+        "start_offset": 280,
+        "end_offset": 287,
+        "start": 58.368,
+        "end": 59.328,
+        "score": -0.7128
+      },
+      {
+        "word": "of",
+        "start_offset": 288,
+        "end_offset": 290,
+        "start": 60.228,
+        "end": 60.448,
+        "score": -0.6982
+      },
+      {
+        "word": "learning",
+        "start_offset": 291,
+        "end_offset": 299,
+        "start": 60.748,
+        "end": 61.408,
+        "score": -0.7574
+      },
+      {
+        "word": "rather",
+        "start_offset": 300,
+        "end_offset": 306,
+        "start": 62.628,
+        "end": 63.248,
+        "score": -0.7981
+      },
+      {
+        "word": "than",
+        "start_offset": 307,
+        "end_offset": 311,
+        "start": 63.828,
+        "end": 64.288,
+        "score": -4.2442
+      },
+      {
+        "word": "the",
+        "start_offset": 312,
+        "end_offset": 315,
+        "start": 65.528,
+        "end": 65.689,
+        "score": -0.8018
+      },
+      {
+        "word": "attempt",
+        "start_offset": 316,
+        "end_offset": 323,
+        "start": 68.069,
+        "end": 68.829,
+        "score": -0.723
+      },
+      {
+        "word": "being",
+        "start_offset": 324,
+        "end_offset": 329,
+        "start": 69.089,
+        "end": 69.529,
+        "score": -0.6956
+      },
+      {
+        "word": "made",
+        "start_offset": 330,
+        "end_offset": 334,
+        "start": 69.829,
+        "end": 70.369,
+        "score": -0.7432
+      },
+      {
+        "word": "to",
+        "start_offset": 335,
+        "end_offset": 337,
+        "start": 71.269,
+        "end": 71.429,
+        "score": -0.6951
+      },
+      {
+        "word": "totally",
+        "start_offset": 338,
+        "end_offset": 345,
+        "start": 71.829,
+        "end": 72.649,
+        "score": -0.7298
+      },
+      {
+        "word": "separate",
+        "start_offset": 346,
+        "end_offset": 354,
+        "start": 73.209,
+        "end": 74.17,
+        "score": -0.6958
+      },
+      {
+        "word": "and",
+        "start_offset": 355,
+        "end_offset": 358,
+        "start": 74.97,
+        "end": 75.15,
+        "score": -4.1129
+      },
+      {
+        "word": "put",
+        "start_offset": 359,
+        "end_offset": 362,
+        "start": 75.33,
+        "end": 75.69,
+        "score": -0.6942
+      },
+      {
+        "word": "upon",
+        "start_offset": 363,
+        "end_offset": 367,
+        "start": 76.01,
+        "end": 76.61,
+        "score": -2.8132
+      },
+      {
+        "word": "a",
+        "start_offset": 368,
+        "end_offset": 369,
+        "start": 76.93,
+        "end": 76.95,
+        "score": -0.7016
+      },
+      {
+        "word": "pedestal",
+        "start_offset": 370,
+        "end_offset": 378,
+        "start": 77.25,
+        "end": 78.19,
+        "score": -1.2042
+      },
+      {
+        "word": "the",
+        "start_offset": 379,
+        "end_offset": 382,
+        "start": 79.61,
+        "end": 79.75,
+        "score": -0.8094
+      },
+      {
+        "word": "healers.",
+        "start_offset": 383,
+        "end_offset": 391,
+        "start": 80.17,
+        "end": 81.01,
+        "score": -0.9912
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "022-22.mp3",
+    "audio_duration": 82.0506,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

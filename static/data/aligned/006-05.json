@@ -1,0 +1,125 @@
+{
+  "text": "How did you journey from Venus to this planet? We used thought.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "How did you journey from Venus to this planet?",
+        "start_offset": 0,
+        "end_offset": 46,
+        "start": 2.662,
+        "end": 8.147
+      },
+      {
+        "segment": "We used thought.",
+        "start_offset": 47,
+        "end_offset": 63,
+        "start": 11.85,
+        "end": 15.273
+      }
+    ],
+    "word": [
+      {
+        "word": "How",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.662,
+        "end": 2.802,
+        "score": -4.551
+      },
+      {
+        "word": "did",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 3.883,
+        "end": 4.044,
+        "score": -3.439
+      },
+      {
+        "word": "you",
+        "start_offset": 8,
+        "end_offset": 11,
+        "start": 4.084,
+        "end": 4.164,
+        "score": -5.2286
+      },
+      {
+        "word": "journey",
+        "start_offset": 12,
+        "end_offset": 19,
+        "start": 4.224,
+        "end": 4.564,
+        "score": -4.5706
+      },
+      {
+        "word": "from",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 4.624,
+        "end": 4.744,
+        "score": -5.2258
+      },
+      {
+        "word": "Venus",
+        "start_offset": 25,
+        "end_offset": 30,
+        "start": 4.784,
+        "end": 4.964,
+        "score": -5.0815
+      },
+      {
+        "word": "to",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 5.144,
+        "end": 5.225,
+        "score": -4.6568
+      },
+      {
+        "word": "this",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 5.285,
+        "end": 5.445,
+        "score": -4.2689
+      },
+      {
+        "word": "planet?",
+        "start_offset": 39,
+        "end_offset": 46,
+        "start": 7.807,
+        "end": 8.147,
+        "score": -4.3079
+      },
+      {
+        "word": "We",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 11.85,
+        "end": 11.97,
+        "score": -2.6126
+      },
+      {
+        "word": "used",
+        "start_offset": 50,
+        "end_offset": 54,
+        "start": 13.312,
+        "end": 13.792,
+        "score": -1.5811
+      },
+      {
+        "word": "thought.",
+        "start_offset": 55,
+        "end_offset": 63,
+        "start": 14.913,
+        "end": 15.273,
+        "score": -3.2785
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "006-05.mp3",
+    "audio_duration": 23.04,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

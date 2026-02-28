@@ -1,0 +1,135 @@
+{
+  "text": "I mean uh say which of us are of which group? I am Rob No.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I mean uh say which of us are of which group?",
+        "start_offset": 12,
+        "end_offset": 52,
+        "start": 0.96,
+        "end": 4.16
+      },
+      {
+        "segment": "I am Rob No.",
+        "start_offset": 105,
+        "end_offset": 177,
+        "start": 8.4,
+        "end": 14.16
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 12,
+        "end_offset": 14,
+        "start": 0.96,
+        "end": 1.12
+      },
+      {
+        "word": "mean",
+        "start_offset": 14,
+        "end_offset": 17,
+        "start": 1.12,
+        "end": 1.36
+      },
+      {
+        "word": "uh",
+        "start_offset": 20,
+        "end_offset": 23,
+        "start": 1.6,
+        "end": 1.84
+      },
+      {
+        "word": "say",
+        "start_offset": 26,
+        "end_offset": 29,
+        "start": 2.08,
+        "end": 2.32
+      },
+      {
+        "word": "which",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 2.48,
+        "end": 2.72
+      },
+      {
+        "word": "of",
+        "start_offset": 34,
+        "end_offset": 35,
+        "start": 2.72,
+        "end": 2.8000000000000003
+      },
+      {
+        "word": "us",
+        "start_offset": 35,
+        "end_offset": 37,
+        "start": 2.8000000000000003,
+        "end": 2.96
+      },
+      {
+        "word": "are",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 2.96,
+        "end": 3.12
+      },
+      {
+        "word": "of",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 3.12,
+        "end": 3.36
+      },
+      {
+        "word": "which",
+        "start_offset": 42,
+        "end_offset": 45,
+        "start": 3.36,
+        "end": 3.6
+      },
+      {
+        "word": "group?",
+        "start_offset": 45,
+        "end_offset": 52,
+        "start": 3.6,
+        "end": 4.16
+      },
+      {
+        "word": "I",
+        "start_offset": 105,
+        "end_offset": 109,
+        "start": 8.4,
+        "end": 8.72
+      },
+      {
+        "word": "am",
+        "start_offset": 129,
+        "end_offset": 133,
+        "start": 10.32,
+        "end": 10.64
+      },
+      {
+        "word": "Rob",
+        "start_offset": 144,
+        "end_offset": 148,
+        "start": 11.52,
+        "end": 11.84
+      },
+      {
+        "word": "No.",
+        "start_offset": 175,
+        "end_offset": 177,
+        "start": 14.0,
+        "end": 14.16
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "045-06.mp3",
+    "audio_duration": 20.53,
+    "transcription_time": 0.09,
+    "rtfx": 234.37,
+    "timestamp": "2026-01-06T21:51:23.428104+00:00"
+  }
+}

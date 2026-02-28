@@ -1,0 +1,387 @@
+{
+  "text": "Where is the Ark of the Covenant now? Where is it located? I am Ra. We refrain from answering this query due to the fact that it does still exist and is not that which we would infringe upon your peoples by locating.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Where is the Ark of the Covenant now?",
+        "start_offset": 0,
+        "end_offset": 37,
+        "start": 2.481,
+        "end": 4.621
+      },
+      {
+        "segment": "Where is it located?",
+        "start_offset": 38,
+        "end_offset": 58,
+        "start": 4.641,
+        "end": 6.982
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 59,
+        "end_offset": 67,
+        "start": 11.463,
+        "end": 13.924
+      },
+      {
+        "segment": "We refrain from answering this query due to the fact that it does still exist and is not that which we would infringe upon your peoples by locating.",
+        "start_offset": 68,
+        "end_offset": 216,
+        "start": 16.065,
+        "end": 56.996
+      }
+    ],
+    "word": [
+      {
+        "word": "Where",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.481,
+        "end": 2.721,
+        "score": -6.1834
+      },
+      {
+        "word": "is",
+        "start_offset": 6,
+        "end_offset": 8,
+        "start": 2.741,
+        "end": 2.881,
+        "score": -5.5374
+      },
+      {
+        "word": "the",
+        "start_offset": 9,
+        "end_offset": 12,
+        "start": 3.321,
+        "end": 3.421,
+        "score": -5.84
+      },
+      {
+        "word": "Ark",
+        "start_offset": 13,
+        "end_offset": 16,
+        "start": 3.641,
+        "end": 3.841,
+        "score": -4.9907
+      },
+      {
+        "word": "of",
+        "start_offset": 17,
+        "end_offset": 19,
+        "start": 3.901,
+        "end": 3.961,
+        "score": -6.4855
+      },
+      {
+        "word": "the",
+        "start_offset": 20,
+        "end_offset": 23,
+        "start": 4.001,
+        "end": 4.061,
+        "score": -5.0008
+      },
+      {
+        "word": "Covenant",
+        "start_offset": 24,
+        "end_offset": 32,
+        "start": 4.141,
+        "end": 4.541,
+        "score": -7.0739
+      },
+      {
+        "word": "now?",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 4.561,
+        "end": 4.621,
+        "score": -9.0492
+      },
+      {
+        "word": "Where",
+        "start_offset": 38,
+        "end_offset": 43,
+        "start": 4.641,
+        "end": 4.761,
+        "score": -8.9909
+      },
+      {
+        "word": "is",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 4.841,
+        "end": 4.881,
+        "score": -8.8868
+      },
+      {
+        "word": "it",
+        "start_offset": 47,
+        "end_offset": 49,
+        "start": 4.921,
+        "end": 6.362,
+        "score": -9.4013
+      },
+      {
+        "word": "located?",
+        "start_offset": 50,
+        "end_offset": 58,
+        "start": 6.422,
+        "end": 6.982,
+        "score": -7.9087
+      },
+      {
+        "word": "I",
+        "start_offset": 59,
+        "end_offset": 60,
+        "start": 11.463,
+        "end": 11.483,
+        "score": -0.8972
+      },
+      {
+        "word": "am",
+        "start_offset": 61,
+        "end_offset": 63,
+        "start": 12.404,
+        "end": 12.704,
+        "score": -1.0259
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 13.764,
+        "end": 13.924,
+        "score": -1.8391
+      },
+      {
+        "word": "We",
+        "start_offset": 68,
+        "end_offset": 70,
+        "start": 16.065,
+        "end": 16.205,
+        "score": -0.7243
+      },
+      {
+        "word": "refrain",
+        "start_offset": 71,
+        "end_offset": 78,
+        "start": 17.265,
+        "end": 18.165,
+        "score": -0.7493
+      },
+      {
+        "word": "from",
+        "start_offset": 79,
+        "end_offset": 83,
+        "start": 19.526,
+        "end": 19.906,
+        "score": -0.7173
+      },
+      {
+        "word": "answering",
+        "start_offset": 84,
+        "end_offset": 93,
+        "start": 21.306,
+        "end": 22.546,
+        "score": -1.0727
+      },
+      {
+        "word": "this",
+        "start_offset": 94,
+        "end_offset": 98,
+        "start": 23.767,
+        "end": 24.167,
+        "score": -0.7799
+      },
+      {
+        "word": "query",
+        "start_offset": 99,
+        "end_offset": 104,
+        "start": 25.027,
+        "end": 25.547,
+        "score": -1.1077
+      },
+      {
+        "word": "due",
+        "start_offset": 105,
+        "end_offset": 108,
+        "start": 26.848,
+        "end": 27.188,
+        "score": -1.095
+      },
+      {
+        "word": "to",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 27.708,
+        "end": 27.888,
+        "score": -0.6999
+      },
+      {
+        "word": "the",
+        "start_offset": 112,
+        "end_offset": 115,
+        "start": 28.668,
+        "end": 28.808,
+        "score": -0.7371
+      },
+      {
+        "word": "fact",
+        "start_offset": 116,
+        "end_offset": 120,
+        "start": 29.468,
+        "end": 29.969,
+        "score": -0.7167
+      },
+      {
+        "word": "that",
+        "start_offset": 121,
+        "end_offset": 125,
+        "start": 30.829,
+        "end": 31.149,
+        "score": -0.9132
+      },
+      {
+        "word": "it",
+        "start_offset": 126,
+        "end_offset": 128,
+        "start": 31.869,
+        "end": 32.049,
+        "score": -0.7517
+      },
+      {
+        "word": "does",
+        "start_offset": 129,
+        "end_offset": 133,
+        "start": 32.869,
+        "end": 33.309,
+        "score": -0.7542
+      },
+      {
+        "word": "still",
+        "start_offset": 134,
+        "end_offset": 139,
+        "start": 34.23,
+        "end": 34.65,
+        "score": -0.7045
+      },
+      {
+        "word": "exist",
+        "start_offset": 140,
+        "end_offset": 145,
+        "start": 35.81,
+        "end": 36.71,
+        "score": -0.7082
+      },
+      {
+        "word": "and",
+        "start_offset": 146,
+        "end_offset": 149,
+        "start": 38.071,
+        "end": 38.451,
+        "score": -0.8611
+      },
+      {
+        "word": "is",
+        "start_offset": 150,
+        "end_offset": 152,
+        "start": 39.671,
+        "end": 39.991,
+        "score": -0.766
+      },
+      {
+        "word": "not",
+        "start_offset": 153,
+        "end_offset": 156,
+        "start": 41.832,
+        "end": 42.232,
+        "score": -0.8762
+      },
+      {
+        "word": "that",
+        "start_offset": 157,
+        "end_offset": 161,
+        "start": 43.612,
+        "end": 43.972,
+        "score": -0.8092
+      },
+      {
+        "word": "which",
+        "start_offset": 162,
+        "end_offset": 167,
+        "start": 44.453,
+        "end": 44.913,
+        "score": -0.875
+      },
+      {
+        "word": "we",
+        "start_offset": 168,
+        "end_offset": 170,
+        "start": 45.993,
+        "end": 46.133,
+        "score": -0.7081
+      },
+      {
+        "word": "would",
+        "start_offset": 171,
+        "end_offset": 176,
+        "start": 46.773,
+        "end": 47.173,
+        "score": -0.8221
+      },
+      {
+        "word": "infringe",
+        "start_offset": 177,
+        "end_offset": 185,
+        "start": 48.214,
+        "end": 49.294,
+        "score": -0.854
+      },
+      {
+        "word": "upon",
+        "start_offset": 186,
+        "end_offset": 190,
+        "start": 50.414,
+        "end": 51.074,
+        "score": -0.7923
+      },
+      {
+        "word": "your",
+        "start_offset": 191,
+        "end_offset": 195,
+        "start": 51.795,
+        "end": 52.135,
+        "score": -0.8658
+      },
+      {
+        "word": "peoples",
+        "start_offset": 196,
+        "end_offset": 203,
+        "start": 52.995,
+        "end": 53.715,
+        "score": -0.7444
+      },
+      {
+        "word": "by",
+        "start_offset": 204,
+        "end_offset": 206,
+        "start": 54.856,
+        "end": 55.236,
+        "score": -1.239
+      },
+      {
+        "word": "locating.",
+        "start_offset": 207,
+        "end_offset": 216,
+        "start": 55.916,
+        "end": 56.996,
+        "score": -0.722
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "060-19.mp3",
+    "audio_duration": 59.0367,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,555 @@
+{
+  "text": "How many applications of thirty minutes or less during a diurnal period would be appropriate? I am Ra. In most cases, no more than one. In a few cases, especially where the energy will be used for spiritual work, experimentation with two shorter periods might be possible, but any feeling of sudden weariness would be a sure sign that the entity had been over-radiated.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "How many applications of thirty minutes or less during a diurnal period would be appropriate?",
+        "start_offset": 0,
+        "end_offset": 93,
+        "start": 2.321,
+        "end": 13.224
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 94,
+        "end_offset": 102,
+        "start": 13.464,
+        "end": 15.164
+      },
+      {
+        "segment": "In most cases, no more than one.",
+        "start_offset": 103,
+        "end_offset": 135,
+        "start": 17.985,
+        "end": 23.907
+      },
+      {
+        "segment": "In a few cases, especially where the energy will be used for spiritual work, experimentation with two shorter periods might be possible, but any feeling of sudden weariness would be a sure sign that the entity had been over-radiated.",
+        "start_offset": 136,
+        "end_offset": 369,
+        "start": 26.627,
+        "end": 81.183
+      }
+    ],
+    "word": [
+      {
+        "word": "How",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.321,
+        "end": 2.441,
+        "score": -5.7519
+      },
+      {
+        "word": "many",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 2.501,
+        "end": 2.741,
+        "score": -3.2178
+      },
+      {
+        "word": "applications",
+        "start_offset": 9,
+        "end_offset": 21,
+        "start": 3.581,
+        "end": 4.381,
+        "score": -5.7629
+      },
+      {
+        "word": "of",
+        "start_offset": 22,
+        "end_offset": 24,
+        "start": 4.421,
+        "end": 4.501,
+        "score": -5.2224
+      },
+      {
+        "word": "thirty",
+        "start_offset": 25,
+        "end_offset": 31,
+        "start": 4.581,
+        "end": 4.821,
+        "score": -6.7103
+      },
+      {
+        "word": "minutes",
+        "start_offset": 32,
+        "end_offset": 39,
+        "start": 4.921,
+        "end": 5.462,
+        "score": -4.8875
+      },
+      {
+        "word": "or",
+        "start_offset": 40,
+        "end_offset": 42,
+        "start": 5.862,
+        "end": 5.962,
+        "score": -5.0347
+      },
+      {
+        "word": "less",
+        "start_offset": 43,
+        "end_offset": 47,
+        "start": 6.082,
+        "end": 6.362,
+        "score": -5.5556
+      },
+      {
+        "word": "during",
+        "start_offset": 48,
+        "end_offset": 54,
+        "start": 6.542,
+        "end": 6.842,
+        "score": -3.2478
+      },
+      {
+        "word": "a",
+        "start_offset": 55,
+        "end_offset": 56,
+        "start": 6.922,
+        "end": 6.942,
+        "score": -5.6467
+      },
+      {
+        "word": "diurnal",
+        "start_offset": 57,
+        "end_offset": 64,
+        "start": 7.062,
+        "end": 7.582,
+        "score": -5.1621
+      },
+      {
+        "word": "period",
+        "start_offset": 65,
+        "end_offset": 71,
+        "start": 7.702,
+        "end": 8.122,
+        "score": -5.2381
+      },
+      {
+        "word": "would",
+        "start_offset": 72,
+        "end_offset": 77,
+        "start": 8.182,
+        "end": 8.342,
+        "score": -6.6185
+      },
+      {
+        "word": "be",
+        "start_offset": 78,
+        "end_offset": 80,
+        "start": 8.382,
+        "end": 8.462,
+        "score": -6.2938
+      },
+      {
+        "word": "appropriate?",
+        "start_offset": 81,
+        "end_offset": 93,
+        "start": 8.542,
+        "end": 13.224,
+        "score": -5.7225
+      },
+      {
+        "word": "I",
+        "start_offset": 94,
+        "end_offset": 95,
+        "start": 13.464,
+        "end": 13.484,
+        "score": -2.5959
+      },
+      {
+        "word": "am",
+        "start_offset": 96,
+        "end_offset": 98,
+        "start": 14.184,
+        "end": 14.424,
+        "score": -5.4638
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 99,
+        "end_offset": 102,
+        "start": 15.044,
+        "end": 15.164,
+        "score": -4.9473
+      },
+      {
+        "word": "In",
+        "start_offset": 103,
+        "end_offset": 105,
+        "start": 17.985,
+        "end": 18.165,
+        "score": -0.7181
+      },
+      {
+        "word": "most",
+        "start_offset": 106,
+        "end_offset": 110,
+        "start": 18.785,
+        "end": 19.205,
+        "score": -0.7348
+      },
+      {
+        "word": "cases,",
+        "start_offset": 111,
+        "end_offset": 117,
+        "start": 19.806,
+        "end": 20.366,
+        "score": -0.6984
+      },
+      {
+        "word": "no",
+        "start_offset": 118,
+        "end_offset": 120,
+        "start": 20.906,
+        "end": 21.026,
+        "score": -0.7588
+      },
+      {
+        "word": "more",
+        "start_offset": 121,
+        "end_offset": 125,
+        "start": 21.526,
+        "end": 21.846,
+        "score": -0.8011
+      },
+      {
+        "word": "than",
+        "start_offset": 126,
+        "end_offset": 130,
+        "start": 22.046,
+        "end": 22.326,
+        "score": -0.7916
+      },
+      {
+        "word": "one.",
+        "start_offset": 131,
+        "end_offset": 135,
+        "start": 23.707,
+        "end": 23.907,
+        "score": -1.6921
+      },
+      {
+        "word": "In",
+        "start_offset": 136,
+        "end_offset": 138,
+        "start": 26.627,
+        "end": 26.868,
+        "score": -0.822
+      },
+      {
+        "word": "a",
+        "start_offset": 139,
+        "end_offset": 140,
+        "start": 27.368,
+        "end": 27.388,
+        "score": -0.8006
+      },
+      {
+        "word": "few",
+        "start_offset": 141,
+        "end_offset": 144,
+        "start": 27.928,
+        "end": 28.208,
+        "score": -1.0669
+      },
+      {
+        "word": "cases,",
+        "start_offset": 145,
+        "end_offset": 151,
+        "start": 29.288,
+        "end": 29.828,
+        "score": -0.699
+      },
+      {
+        "word": "especially",
+        "start_offset": 152,
+        "end_offset": 162,
+        "start": 30.989,
+        "end": 31.969,
+        "score": -1.054
+      },
+      {
+        "word": "where",
+        "start_offset": 163,
+        "end_offset": 168,
+        "start": 33.049,
+        "end": 33.349,
+        "score": -0.8493
+      },
+      {
+        "word": "the",
+        "start_offset": 169,
+        "end_offset": 172,
+        "start": 34.29,
+        "end": 34.41,
+        "score": -0.9022
+      },
+      {
+        "word": "energy",
+        "start_offset": 173,
+        "end_offset": 179,
+        "start": 35.85,
+        "end": 36.27,
+        "score": -0.7016
+      },
+      {
+        "word": "will",
+        "start_offset": 180,
+        "end_offset": 184,
+        "start": 36.99,
+        "end": 37.29,
+        "score": -0.729
+      },
+      {
+        "word": "be",
+        "start_offset": 185,
+        "end_offset": 187,
+        "start": 37.671,
+        "end": 37.771,
+        "score": -0.7049
+      },
+      {
+        "word": "used",
+        "start_offset": 188,
+        "end_offset": 192,
+        "start": 38.431,
+        "end": 38.831,
+        "score": -0.6997
+      },
+      {
+        "word": "for",
+        "start_offset": 193,
+        "end_offset": 196,
+        "start": 39.111,
+        "end": 39.431,
+        "score": -0.9616
+      },
+      {
+        "word": "spiritual",
+        "start_offset": 197,
+        "end_offset": 206,
+        "start": 41.172,
+        "end": 42.212,
+        "score": -0.709
+      },
+      {
+        "word": "work,",
+        "start_offset": 207,
+        "end_offset": 212,
+        "start": 42.832,
+        "end": 43.152,
+        "score": -0.7031
+      },
+      {
+        "word": "experimentation",
+        "start_offset": 213,
+        "end_offset": 228,
+        "start": 45.893,
+        "end": 47.713,
+        "score": -0.8538
+      },
+      {
+        "word": "with",
+        "start_offset": 229,
+        "end_offset": 233,
+        "start": 48.974,
+        "end": 49.294,
+        "score": -0.9523
+      },
+      {
+        "word": "two",
+        "start_offset": 234,
+        "end_offset": 237,
+        "start": 50.694,
+        "end": 50.974,
+        "score": -1.2257
+      },
+      {
+        "word": "shorter",
+        "start_offset": 238,
+        "end_offset": 245,
+        "start": 51.634,
+        "end": 52.095,
+        "score": -0.7277
+      },
+      {
+        "word": "periods",
+        "start_offset": 246,
+        "end_offset": 253,
+        "start": 52.855,
+        "end": 53.495,
+        "score": -0.7187
+      },
+      {
+        "word": "might",
+        "start_offset": 254,
+        "end_offset": 259,
+        "start": 54.755,
+        "end": 55.135,
+        "score": -1.196
+      },
+      {
+        "word": "be",
+        "start_offset": 260,
+        "end_offset": 262,
+        "start": 56.196,
+        "end": 56.316,
+        "score": -0.7534
+      },
+      {
+        "word": "possible,",
+        "start_offset": 263,
+        "end_offset": 272,
+        "start": 57.716,
+        "end": 58.396,
+        "score": -0.7141
+      },
+      {
+        "word": "but",
+        "start_offset": 273,
+        "end_offset": 276,
+        "start": 59.517,
+        "end": 59.837,
+        "score": -0.7209
+      },
+      {
+        "word": "any",
+        "start_offset": 277,
+        "end_offset": 280,
+        "start": 61.057,
+        "end": 61.277,
+        "score": -0.7286
+      },
+      {
+        "word": "feeling",
+        "start_offset": 281,
+        "end_offset": 288,
+        "start": 62.638,
+        "end": 63.118,
+        "score": -0.7128
+      },
+      {
+        "word": "of",
+        "start_offset": 289,
+        "end_offset": 291,
+        "start": 63.538,
+        "end": 63.758,
+        "score": -0.7564
+      },
+      {
+        "word": "sudden",
+        "start_offset": 292,
+        "end_offset": 298,
+        "start": 64.918,
+        "end": 65.358,
+        "score": -1.1765
+      },
+      {
+        "word": "weariness",
+        "start_offset": 299,
+        "end_offset": 308,
+        "start": 66.139,
+        "end": 66.799,
+        "score": -0.7547
+      },
+      {
+        "word": "would",
+        "start_offset": 309,
+        "end_offset": 314,
+        "start": 68.099,
+        "end": 68.379,
+        "score": -0.76
+      },
+      {
+        "word": "be",
+        "start_offset": 315,
+        "end_offset": 317,
+        "start": 68.559,
+        "end": 68.659,
+        "score": -0.7021
+      },
+      {
+        "word": "a",
+        "start_offset": 318,
+        "end_offset": 319,
+        "start": 69.279,
+        "end": 69.299,
+        "score": -0.7181
+      },
+      {
+        "word": "sure",
+        "start_offset": 320,
+        "end_offset": 324,
+        "start": 69.7,
+        "end": 70.08,
+        "score": -0.7532
+      },
+      {
+        "word": "sign",
+        "start_offset": 325,
+        "end_offset": 329,
+        "start": 70.38,
+        "end": 70.82,
+        "score": -0.9454
+      },
+      {
+        "word": "that",
+        "start_offset": 330,
+        "end_offset": 334,
+        "start": 71.22,
+        "end": 71.52,
+        "score": -0.7931
+      },
+      {
+        "word": "the",
+        "start_offset": 335,
+        "end_offset": 338,
+        "start": 72.78,
+        "end": 72.9,
+        "score": -1.3155
+      },
+      {
+        "word": "entity",
+        "start_offset": 339,
+        "end_offset": 345,
+        "start": 75.721,
+        "end": 76.121,
+        "score": -0.7228
+      },
+      {
+        "word": "had",
+        "start_offset": 346,
+        "end_offset": 349,
+        "start": 76.602,
+        "end": 76.942,
+        "score": -0.927
+      },
+      {
+        "word": "been",
+        "start_offset": 350,
+        "end_offset": 354,
+        "start": 77.262,
+        "end": 77.602,
+        "score": -0.7655
+      },
+      {
+        "word": "over-radiated.",
+        "start_offset": 355,
+        "end_offset": 369,
+        "start": 78.482,
+        "end": 81.183,
+        "score": -0.7474
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "066-27.mp3",
+    "audio_duration": 83.0433,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

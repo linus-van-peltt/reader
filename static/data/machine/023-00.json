@@ -1,0 +1,114 @@
+{
+  "text": "February eleventh. Raw twenty-three, February eleventh. We communicate now. Uh-huh.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "February eleventh.",
+        "start_offset": 27,
+        "end_offset": 38,
+        "start": 2.16,
+        "end": 3.04
+      },
+      {
+        "segment": "Raw twenty-three, February eleventh.",
+        "start_offset": 42,
+        "end_offset": 75,
+        "start": 3.36,
+        "end": 6.0
+      },
+      {
+        "segment": "We communicate now.",
+        "start_offset": 143,
+        "end_offset": 191,
+        "start": 11.44,
+        "end": 15.280000000000001
+      },
+      {
+        "segment": "Uh-huh.",
+        "start_offset": 210,
+        "end_offset": 216,
+        "start": 16.8,
+        "end": 17.28
+      }
+    ],
+    "word": [
+      {
+        "word": "February",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 2.16,
+        "end": 2.48
+      },
+      {
+        "word": "eleventh.",
+        "start_offset": 33,
+        "end_offset": 38,
+        "start": 2.64,
+        "end": 3.04
+      },
+      {
+        "word": "Raw",
+        "start_offset": 42,
+        "end_offset": 46,
+        "start": 3.36,
+        "end": 3.68
+      },
+      {
+        "word": "twenty-three,",
+        "start_offset": 49,
+        "end_offset": 56,
+        "start": 3.92,
+        "end": 4.48
+      },
+      {
+        "word": "February",
+        "start_offset": 58,
+        "end_offset": 66,
+        "start": 4.64,
+        "end": 5.28
+      },
+      {
+        "word": "eleventh.",
+        "start_offset": 66,
+        "end_offset": 75,
+        "start": 5.28,
+        "end": 6.0
+      },
+      {
+        "word": "We",
+        "start_offset": 143,
+        "end_offset": 147,
+        "start": 11.44,
+        "end": 11.76
+      },
+      {
+        "word": "communicate",
+        "start_offset": 159,
+        "end_offset": 175,
+        "start": 12.72,
+        "end": 14.0
+      },
+      {
+        "word": "now.",
+        "start_offset": 187,
+        "end_offset": 191,
+        "start": 14.96,
+        "end": 15.280000000000001
+      },
+      {
+        "word": "Uh-huh.",
+        "start_offset": 210,
+        "end_offset": 216,
+        "start": 16.8,
+        "end": 17.28
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "023-00.mp3",
+    "audio_duration": 18.05,
+    "transcription_time": 0.09,
+    "rtfx": 209.54,
+    "timestamp": "2026-01-06T21:48:39.848746+00:00"
+  }
+}

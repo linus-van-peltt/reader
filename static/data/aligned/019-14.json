@@ -1,0 +1,659 @@
+{
+  "text": "Then we have second-density beings who have primarily motivation towards service to self and possibly a little bit of service to others with respect to their immediate families going into third density and carrying this bias with them but being in a position now where this bias will slowly be modified to one which is aimed toward a social complex and then ultimately toward union with the all. Am I correct? I am Ra. You are correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then we have second-density beings who have primarily motivation towards service to self and possibly a little bit of service to others with respect to their immediate families going into third density and carrying this bias with them but being in a position now where this bias will slowly be modified to one which is aimed toward a social complex and then ultimately toward union with the all.",
+        "start_offset": 0,
+        "end_offset": 395,
+        "start": 2.161,
+        "end": 37.429
+      },
+      {
+        "segment": "Am I correct?",
+        "start_offset": 396,
+        "end_offset": 409,
+        "start": 37.749,
+        "end": 38.449
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 410,
+        "end_offset": 418,
+        "start": 41.69,
+        "end": 43.35
+      },
+      {
+        "segment": "You are correct.",
+        "start_offset": 419,
+        "end_offset": 435,
+        "start": 45.091,
+        "end": 47.812
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.161,
+        "end": 2.381,
+        "score": -0.7318
+      },
+      {
+        "word": "we",
+        "start_offset": 5,
+        "end_offset": 7,
+        "start": 2.461,
+        "end": 2.541,
+        "score": -0.7051
+      },
+      {
+        "word": "have",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 2.641,
+        "end": 2.941,
+        "score": -0.709
+      },
+      {
+        "word": "second-density",
+        "start_offset": 13,
+        "end_offset": 27,
+        "start": 4.521,
+        "end": 5.281,
+        "score": -0.7157
+      },
+      {
+        "word": "beings",
+        "start_offset": 28,
+        "end_offset": 34,
+        "start": 5.381,
+        "end": 5.921,
+        "score": -0.7346
+      },
+      {
+        "word": "who",
+        "start_offset": 35,
+        "end_offset": 38,
+        "start": 5.981,
+        "end": 6.081,
+        "score": -0.7134
+      },
+      {
+        "word": "have",
+        "start_offset": 39,
+        "end_offset": 43,
+        "start": 7.042,
+        "end": 7.302,
+        "score": -0.7898
+      },
+      {
+        "word": "primarily",
+        "start_offset": 44,
+        "end_offset": 53,
+        "start": 7.862,
+        "end": 8.522,
+        "score": -0.8037
+      },
+      {
+        "word": "motivation",
+        "start_offset": 54,
+        "end_offset": 64,
+        "start": 8.722,
+        "end": 9.442,
+        "score": -0.6988
+      },
+      {
+        "word": "towards",
+        "start_offset": 65,
+        "end_offset": 72,
+        "start": 9.982,
+        "end": 10.322,
+        "score": -1.0608
+      },
+      {
+        "word": "service",
+        "start_offset": 73,
+        "end_offset": 80,
+        "start": 10.403,
+        "end": 10.783,
+        "score": -0.6996
+      },
+      {
+        "word": "to",
+        "start_offset": 81,
+        "end_offset": 83,
+        "start": 10.803,
+        "end": 10.863,
+        "score": -0.929
+      },
+      {
+        "word": "self",
+        "start_offset": 84,
+        "end_offset": 88,
+        "start": 11.003,
+        "end": 11.323,
+        "score": -0.8269
+      },
+      {
+        "word": "and",
+        "start_offset": 89,
+        "end_offset": 92,
+        "start": 12.463,
+        "end": 12.563,
+        "score": -0.7312
+      },
+      {
+        "word": "possibly",
+        "start_offset": 93,
+        "end_offset": 101,
+        "start": 12.603,
+        "end": 13.123,
+        "score": -0.6969
+      },
+      {
+        "word": "a",
+        "start_offset": 102,
+        "end_offset": 103,
+        "start": 13.603,
+        "end": 13.623,
+        "score": -0.7339
+      },
+      {
+        "word": "little",
+        "start_offset": 104,
+        "end_offset": 110,
+        "start": 13.683,
+        "end": 13.863,
+        "score": -1.1656
+      },
+      {
+        "word": "bit",
+        "start_offset": 111,
+        "end_offset": 114,
+        "start": 13.883,
+        "end": 14.023,
+        "score": -0.6963
+      },
+      {
+        "word": "of",
+        "start_offset": 115,
+        "end_offset": 117,
+        "start": 14.063,
+        "end": 14.123,
+        "score": -0.7061
+      },
+      {
+        "word": "service",
+        "start_offset": 118,
+        "end_offset": 125,
+        "start": 14.203,
+        "end": 14.584,
+        "score": -0.7259
+      },
+      {
+        "word": "to",
+        "start_offset": 126,
+        "end_offset": 128,
+        "start": 14.604,
+        "end": 14.664,
+        "score": -0.7023
+      },
+      {
+        "word": "others",
+        "start_offset": 129,
+        "end_offset": 135,
+        "start": 14.804,
+        "end": 15.124,
+        "score": -0.6973
+      },
+      {
+        "word": "with",
+        "start_offset": 136,
+        "end_offset": 140,
+        "start": 15.544,
+        "end": 15.684,
+        "score": -0.6982
+      },
+      {
+        "word": "respect",
+        "start_offset": 141,
+        "end_offset": 148,
+        "start": 15.724,
+        "end": 16.124,
+        "score": -0.7004
+      },
+      {
+        "word": "to",
+        "start_offset": 149,
+        "end_offset": 151,
+        "start": 16.164,
+        "end": 16.204,
+        "score": -0.7035
+      },
+      {
+        "word": "their",
+        "start_offset": 152,
+        "end_offset": 157,
+        "start": 16.244,
+        "end": 16.364,
+        "score": -0.7243
+      },
+      {
+        "word": "immediate",
+        "start_offset": 158,
+        "end_offset": 167,
+        "start": 16.404,
+        "end": 16.904,
+        "score": -0.697
+      },
+      {
+        "word": "families",
+        "start_offset": 168,
+        "end_offset": 176,
+        "start": 16.944,
+        "end": 17.504,
+        "score": -0.7061
+      },
+      {
+        "word": "going",
+        "start_offset": 177,
+        "end_offset": 182,
+        "start": 18.124,
+        "end": 18.364,
+        "score": -0.7643
+      },
+      {
+        "word": "into",
+        "start_offset": 183,
+        "end_offset": 187,
+        "start": 18.404,
+        "end": 18.544,
+        "score": -0.6989
+      },
+      {
+        "word": "third",
+        "start_offset": 188,
+        "end_offset": 193,
+        "start": 18.625,
+        "end": 18.885,
+        "score": -0.7166
+      },
+      {
+        "word": "density",
+        "start_offset": 194,
+        "end_offset": 201,
+        "start": 18.945,
+        "end": 19.365,
+        "score": -0.6979
+      },
+      {
+        "word": "and",
+        "start_offset": 202,
+        "end_offset": 205,
+        "start": 19.505,
+        "end": 19.605,
+        "score": -0.9126
+      },
+      {
+        "word": "carrying",
+        "start_offset": 206,
+        "end_offset": 214,
+        "start": 19.645,
+        "end": 20.085,
+        "score": -0.7404
+      },
+      {
+        "word": "this",
+        "start_offset": 215,
+        "end_offset": 219,
+        "start": 20.125,
+        "end": 20.285,
+        "score": -0.8636
+      },
+      {
+        "word": "bias",
+        "start_offset": 220,
+        "end_offset": 224,
+        "start": 20.385,
+        "end": 20.765,
+        "score": -1.5461
+      },
+      {
+        "word": "with",
+        "start_offset": 225,
+        "end_offset": 229,
+        "start": 20.865,
+        "end": 21.045,
+        "score": -0.7241
+      },
+      {
+        "word": "them",
+        "start_offset": 230,
+        "end_offset": 234,
+        "start": 21.085,
+        "end": 21.265,
+        "score": -0.7724
+      },
+      {
+        "word": "but",
+        "start_offset": 235,
+        "end_offset": 238,
+        "start": 21.785,
+        "end": 21.945,
+        "score": -0.6965
+      },
+      {
+        "word": "being",
+        "start_offset": 239,
+        "end_offset": 244,
+        "start": 22.025,
+        "end": 22.285,
+        "score": -0.6991
+      },
+      {
+        "word": "in",
+        "start_offset": 245,
+        "end_offset": 247,
+        "start": 22.325,
+        "end": 22.385,
+        "score": -0.7194
+      },
+      {
+        "word": "a",
+        "start_offset": 248,
+        "end_offset": 249,
+        "start": 22.425,
+        "end": 22.445,
+        "score": -0.7127
+      },
+      {
+        "word": "position",
+        "start_offset": 250,
+        "end_offset": 258,
+        "start": 22.505,
+        "end": 23.006,
+        "score": -0.7015
+      },
+      {
+        "word": "now",
+        "start_offset": 259,
+        "end_offset": 262,
+        "start": 23.086,
+        "end": 23.386,
+        "score": -0.6979
+      },
+      {
+        "word": "where",
+        "start_offset": 263,
+        "end_offset": 268,
+        "start": 23.826,
+        "end": 23.966,
+        "score": -0.7075
+      },
+      {
+        "word": "this",
+        "start_offset": 269,
+        "end_offset": 273,
+        "start": 23.986,
+        "end": 24.146,
+        "score": -0.7099
+      },
+      {
+        "word": "bias",
+        "start_offset": 274,
+        "end_offset": 278,
+        "start": 24.226,
+        "end": 24.646,
+        "score": -3.6607
+      },
+      {
+        "word": "will",
+        "start_offset": 279,
+        "end_offset": 283,
+        "start": 24.746,
+        "end": 24.926,
+        "score": -0.7288
+      },
+      {
+        "word": "slowly",
+        "start_offset": 284,
+        "end_offset": 290,
+        "start": 24.986,
+        "end": 25.406,
+        "score": -0.7975
+      },
+      {
+        "word": "be",
+        "start_offset": 291,
+        "end_offset": 293,
+        "start": 25.466,
+        "end": 25.546,
+        "score": -0.696
+      },
+      {
+        "word": "modified",
+        "start_offset": 294,
+        "end_offset": 302,
+        "start": 25.666,
+        "end": 26.346,
+        "score": -0.7718
+      },
+      {
+        "word": "to",
+        "start_offset": 303,
+        "end_offset": 305,
+        "start": 26.706,
+        "end": 26.786,
+        "score": -0.7247
+      },
+      {
+        "word": "one",
+        "start_offset": 306,
+        "end_offset": 309,
+        "start": 26.987,
+        "end": 27.187,
+        "score": -0.766
+      },
+      {
+        "word": "which",
+        "start_offset": 310,
+        "end_offset": 315,
+        "start": 27.267,
+        "end": 27.527,
+        "score": -1.0932
+      },
+      {
+        "word": "is",
+        "start_offset": 316,
+        "end_offset": 318,
+        "start": 29.067,
+        "end": 29.167,
+        "score": -0.9876
+      },
+      {
+        "word": "aimed",
+        "start_offset": 319,
+        "end_offset": 324,
+        "start": 29.347,
+        "end": 29.647,
+        "score": -0.8509
+      },
+      {
+        "word": "toward",
+        "start_offset": 325,
+        "end_offset": 331,
+        "start": 29.707,
+        "end": 30.127,
+        "score": -1.5325
+      },
+      {
+        "word": "a",
+        "start_offset": 332,
+        "end_offset": 333,
+        "start": 32.288,
+        "end": 32.308,
+        "score": -1.096
+      },
+      {
+        "word": "social",
+        "start_offset": 334,
+        "end_offset": 340,
+        "start": 32.428,
+        "end": 32.808,
+        "score": -0.7029
+      },
+      {
+        "word": "complex",
+        "start_offset": 341,
+        "end_offset": 348,
+        "start": 32.888,
+        "end": 33.528,
+        "score": -0.8779
+      },
+      {
+        "word": "and",
+        "start_offset": 349,
+        "end_offset": 352,
+        "start": 33.788,
+        "end": 33.908,
+        "score": -0.9626
+      },
+      {
+        "word": "then",
+        "start_offset": 353,
+        "end_offset": 357,
+        "start": 33.948,
+        "end": 34.168,
+        "score": -3.4091
+      },
+      {
+        "word": "ultimately",
+        "start_offset": 358,
+        "end_offset": 368,
+        "start": 34.448,
+        "end": 34.968,
+        "score": -0.7361
+      },
+      {
+        "word": "toward",
+        "start_offset": 369,
+        "end_offset": 375,
+        "start": 35.088,
+        "end": 35.409,
+        "score": -0.794
+      },
+      {
+        "word": "union",
+        "start_offset": 376,
+        "end_offset": 381,
+        "start": 36.449,
+        "end": 36.709,
+        "score": -0.6965
+      },
+      {
+        "word": "with",
+        "start_offset": 382,
+        "end_offset": 386,
+        "start": 36.769,
+        "end": 36.929,
+        "score": -0.7291
+      },
+      {
+        "word": "the",
+        "start_offset": 387,
+        "end_offset": 390,
+        "start": 36.969,
+        "end": 37.069,
+        "score": -0.9355
+      },
+      {
+        "word": "all.",
+        "start_offset": 391,
+        "end_offset": 395,
+        "start": 37.249,
+        "end": 37.429,
+        "score": -1.1832
+      },
+      {
+        "word": "Am",
+        "start_offset": 396,
+        "end_offset": 398,
+        "start": 37.749,
+        "end": 37.869,
+        "score": -1.0557
+      },
+      {
+        "word": "I",
+        "start_offset": 399,
+        "end_offset": 400,
+        "start": 37.969,
+        "end": 37.989,
+        "score": -2.7833
+      },
+      {
+        "word": "correct?",
+        "start_offset": 401,
+        "end_offset": 409,
+        "start": 38.029,
+        "end": 38.449,
+        "score": -0.7017
+      },
+      {
+        "word": "I",
+        "start_offset": 410,
+        "end_offset": 411,
+        "start": 41.69,
+        "end": 41.71,
+        "score": -1.6332
+      },
+      {
+        "word": "am",
+        "start_offset": 412,
+        "end_offset": 414,
+        "start": 42.21,
+        "end": 42.53,
+        "score": -2.4141
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 415,
+        "end_offset": 418,
+        "start": 43.21,
+        "end": 43.35,
+        "score": -1.6425
+      },
+      {
+        "word": "You",
+        "start_offset": 419,
+        "end_offset": 422,
+        "start": 45.091,
+        "end": 45.251,
+        "score": -1.2479
+      },
+      {
+        "word": "are",
+        "start_offset": 423,
+        "end_offset": 426,
+        "start": 46.151,
+        "end": 46.391,
+        "score": -1.1697
+      },
+      {
+        "word": "correct.",
+        "start_offset": 427,
+        "end_offset": 435,
+        "start": 46.931,
+        "end": 47.812,
+        "score": -0.9703
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "019-14.mp3",
+    "audio_duration": 49.0319,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

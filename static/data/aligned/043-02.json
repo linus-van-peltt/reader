@@ -1,0 +1,433 @@
+{
+  "text": "Is it this? A two inch fold in the sheet is located three inches from the crown of the instrument's head and is laid flat on the bed. Is that it? I am Ra. This is correct. Please increase the distance from the crown of the head.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is it this?",
+        "start_offset": 0,
+        "end_offset": 11,
+        "start": 2.08,
+        "end": 2.38
+      },
+      {
+        "segment": "A two inch fold in the sheet is located three inches from the crown of the instrument's head and is laid flat on the bed.",
+        "start_offset": 12,
+        "end_offset": 133,
+        "start": 2.4,
+        "end": 27.344
+      },
+      {
+        "segment": "Is that it?",
+        "start_offset": 134,
+        "end_offset": 145,
+        "start": 27.364,
+        "end": 27.644
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 146,
+        "end_offset": 154,
+        "start": 27.684,
+        "end": 28.384
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 155,
+        "end_offset": 171,
+        "start": 28.544,
+        "end": 31.724
+      },
+      {
+        "segment": "Please increase the distance from the crown of the head.",
+        "start_offset": 172,
+        "end_offset": 228,
+        "start": 32.965,
+        "end": 43.906
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.08,
+        "end": 2.12,
+        "score": -6.7034
+      },
+      {
+        "word": "it",
+        "start_offset": 3,
+        "end_offset": 5,
+        "start": 2.16,
+        "end": 2.26,
+        "score": -6.481
+      },
+      {
+        "word": "this?",
+        "start_offset": 6,
+        "end_offset": 11,
+        "start": 2.28,
+        "end": 2.38,
+        "score": -5.7214
+      },
+      {
+        "word": "A",
+        "start_offset": 12,
+        "end_offset": 13,
+        "start": 2.4,
+        "end": 2.42,
+        "score": -6.9327
+      },
+      {
+        "word": "two",
+        "start_offset": 14,
+        "end_offset": 17,
+        "start": 2.44,
+        "end": 2.5,
+        "score": -7.4439
+      },
+      {
+        "word": "inch",
+        "start_offset": 18,
+        "end_offset": 22,
+        "start": 2.52,
+        "end": 2.72,
+        "score": -6.8549
+      },
+      {
+        "word": "fold",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 5.201,
+        "end": 5.281,
+        "score": -8.5111
+      },
+      {
+        "word": "in",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 5.301,
+        "end": 5.361,
+        "score": -6.6021
+      },
+      {
+        "word": "the",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 5.381,
+        "end": 5.441,
+        "score": -7.8259
+      },
+      {
+        "word": "sheet",
+        "start_offset": 35,
+        "end_offset": 40,
+        "start": 5.521,
+        "end": 5.641,
+        "score": -6.368
+      },
+      {
+        "word": "is",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 5.701,
+        "end": 5.801,
+        "score": -8.2643
+      },
+      {
+        "word": "located",
+        "start_offset": 44,
+        "end_offset": 51,
+        "start": 20.643,
+        "end": 20.803,
+        "score": -7.9894
+      },
+      {
+        "word": "three",
+        "start_offset": 52,
+        "end_offset": 57,
+        "start": 20.823,
+        "end": 20.943,
+        "score": -6.7788
+      },
+      {
+        "word": "inches",
+        "start_offset": 58,
+        "end_offset": 64,
+        "start": 20.963,
+        "end": 21.103,
+        "score": -8.0821
+      },
+      {
+        "word": "from",
+        "start_offset": 65,
+        "end_offset": 69,
+        "start": 21.123,
+        "end": 21.663,
+        "score": -9.8488
+      },
+      {
+        "word": "the",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 21.683,
+        "end": 21.763,
+        "score": -5.9055
+      },
+      {
+        "word": "crown",
+        "start_offset": 74,
+        "end_offset": 79,
+        "start": 21.843,
+        "end": 24.583,
+        "score": -8.8895
+      },
+      {
+        "word": "of",
+        "start_offset": 80,
+        "end_offset": 82,
+        "start": 24.603,
+        "end": 24.663,
+        "score": -9.2483
+      },
+      {
+        "word": "the",
+        "start_offset": 83,
+        "end_offset": 86,
+        "start": 24.683,
+        "end": 24.743,
+        "score": -5.8511
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 87,
+        "end_offset": 99,
+        "start": 25.023,
+        "end": 25.844,
+        "score": -7.4803
+      },
+      {
+        "word": "head",
+        "start_offset": 100,
+        "end_offset": 104,
+        "start": 25.864,
+        "end": 25.944,
+        "score": -8.6678
+      },
+      {
+        "word": "and",
+        "start_offset": 105,
+        "end_offset": 108,
+        "start": 25.964,
+        "end": 26.044,
+        "score": -5.2253
+      },
+      {
+        "word": "is",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 26.064,
+        "end": 26.144,
+        "score": -9.4912
+      },
+      {
+        "word": "laid",
+        "start_offset": 112,
+        "end_offset": 116,
+        "start": 26.904,
+        "end": 26.984,
+        "score": -7.5185
+      },
+      {
+        "word": "flat",
+        "start_offset": 117,
+        "end_offset": 121,
+        "start": 27.004,
+        "end": 27.104,
+        "score": -7.1391
+      },
+      {
+        "word": "on",
+        "start_offset": 122,
+        "end_offset": 124,
+        "start": 27.124,
+        "end": 27.164,
+        "score": -6.9934
+      },
+      {
+        "word": "the",
+        "start_offset": 125,
+        "end_offset": 128,
+        "start": 27.184,
+        "end": 27.244,
+        "score": -3.7259
+      },
+      {
+        "word": "bed.",
+        "start_offset": 129,
+        "end_offset": 133,
+        "start": 27.264,
+        "end": 27.344,
+        "score": -8.1496
+      },
+      {
+        "word": "Is",
+        "start_offset": 134,
+        "end_offset": 136,
+        "start": 27.364,
+        "end": 27.404,
+        "score": -8.0486
+      },
+      {
+        "word": "that",
+        "start_offset": 137,
+        "end_offset": 141,
+        "start": 27.444,
+        "end": 27.544,
+        "score": -7.7734
+      },
+      {
+        "word": "it?",
+        "start_offset": 142,
+        "end_offset": 145,
+        "start": 27.584,
+        "end": 27.644,
+        "score": -8.2179
+      },
+      {
+        "word": "I",
+        "start_offset": 146,
+        "end_offset": 147,
+        "start": 27.684,
+        "end": 27.704,
+        "score": -8.7879
+      },
+      {
+        "word": "am",
+        "start_offset": 148,
+        "end_offset": 150,
+        "start": 27.724,
+        "end": 27.764,
+        "score": -9.0329
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 151,
+        "end_offset": 154,
+        "start": 27.864,
+        "end": 28.384,
+        "score": -8.659
+      },
+      {
+        "word": "This",
+        "start_offset": 155,
+        "end_offset": 159,
+        "start": 28.544,
+        "end": 28.944,
+        "score": -0.8955
+      },
+      {
+        "word": "is",
+        "start_offset": 160,
+        "end_offset": 162,
+        "start": 29.844,
+        "end": 30.124,
+        "score": -0.7506
+      },
+      {
+        "word": "correct.",
+        "start_offset": 163,
+        "end_offset": 171,
+        "start": 30.824,
+        "end": 31.724,
+        "score": -0.707
+      },
+      {
+        "word": "Please",
+        "start_offset": 172,
+        "end_offset": 178,
+        "start": 32.965,
+        "end": 33.585,
+        "score": -1.2838
+      },
+      {
+        "word": "increase",
+        "start_offset": 179,
+        "end_offset": 187,
+        "start": 34.505,
+        "end": 35.345,
+        "score": -0.9363
+      },
+      {
+        "word": "the",
+        "start_offset": 188,
+        "end_offset": 191,
+        "start": 36.365,
+        "end": 36.485,
+        "score": -0.7967
+      },
+      {
+        "word": "distance",
+        "start_offset": 192,
+        "end_offset": 200,
+        "start": 37.025,
+        "end": 37.905,
+        "score": -0.7355
+      },
+      {
+        "word": "from",
+        "start_offset": 201,
+        "end_offset": 205,
+        "start": 38.845,
+        "end": 39.305,
+        "score": -0.7183
+      },
+      {
+        "word": "the",
+        "start_offset": 206,
+        "end_offset": 209,
+        "start": 39.886,
+        "end": 40.026,
+        "score": -0.7527
+      },
+      {
+        "word": "crown",
+        "start_offset": 210,
+        "end_offset": 215,
+        "start": 40.306,
+        "end": 40.946,
+        "score": -0.876
+      },
+      {
+        "word": "of",
+        "start_offset": 216,
+        "end_offset": 218,
+        "start": 42.006,
+        "end": 42.346,
+        "score": -0.7498
+      },
+      {
+        "word": "the",
+        "start_offset": 219,
+        "end_offset": 222,
+        "start": 42.806,
+        "end": 42.926,
+        "score": -0.8492
+      },
+      {
+        "word": "head.",
+        "start_offset": 223,
+        "end_offset": 228,
+        "start": 43.546,
+        "end": 43.906,
+        "score": -1.7157
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "043-02.mp3",
+    "audio_duration": 47.0466,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

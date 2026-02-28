@@ -1,0 +1,569 @@
+{
+  "text": "How about the seven bodily energy centers? Are they related to archetypes in some way? I am Ra. The same may be said of these. It is informative to view the relationships but stifling to insist upon the limitations of congruency. Recall at all times, if you would use this term, that the archetypes are a portion of the resources of the mind complex.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "How about the seven bodily energy centers?",
+        "start_offset": 0,
+        "end_offset": 42,
+        "start": 2.841,
+        "end": 5.421
+      },
+      {
+        "segment": "Are they related to archetypes in some way?",
+        "start_offset": 43,
+        "end_offset": 86,
+        "start": 5.881,
+        "end": 10.402
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 87,
+        "end_offset": 95,
+        "start": 15.003,
+        "end": 17.023
+      },
+      {
+        "segment": "The same may be said of these.",
+        "start_offset": 96,
+        "end_offset": 126,
+        "start": 19.284,
+        "end": 24.144
+      },
+      {
+        "segment": "It is informative to view the relationships but stifling to insist upon the limitations of congruency.",
+        "start_offset": 127,
+        "end_offset": 229,
+        "start": 26.145,
+        "end": 51.75
+      },
+      {
+        "segment": "Recall at all times, if you would use this term, that the archetypes are a portion of the resources of the mind complex.",
+        "start_offset": 230,
+        "end_offset": 350,
+        "start": 53.53,
+        "end": 85.516
+      }
+    ],
+    "word": [
+      {
+        "word": "How",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.841,
+        "end": 2.901,
+        "score": -9.73
+      },
+      {
+        "word": "about",
+        "start_offset": 4,
+        "end_offset": 9,
+        "start": 2.921,
+        "end": 3.201,
+        "score": -6.4484
+      },
+      {
+        "word": "the",
+        "start_offset": 10,
+        "end_offset": 13,
+        "start": 3.261,
+        "end": 3.341,
+        "score": -4.5202
+      },
+      {
+        "word": "seven",
+        "start_offset": 14,
+        "end_offset": 19,
+        "start": 3.481,
+        "end": 3.801,
+        "score": -5.4675
+      },
+      {
+        "word": "bodily",
+        "start_offset": 20,
+        "end_offset": 26,
+        "start": 3.921,
+        "end": 4.341,
+        "score": -6.0651
+      },
+      {
+        "word": "energy",
+        "start_offset": 27,
+        "end_offset": 33,
+        "start": 4.561,
+        "end": 4.881,
+        "score": -5.3379
+      },
+      {
+        "word": "centers?",
+        "start_offset": 34,
+        "end_offset": 42,
+        "start": 4.981,
+        "end": 5.421,
+        "score": -6.4696
+      },
+      {
+        "word": "Are",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 5.881,
+        "end": 5.941,
+        "score": -9.281
+      },
+      {
+        "word": "they",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 5.961,
+        "end": 6.081,
+        "score": -3.5448
+      },
+      {
+        "word": "related",
+        "start_offset": 52,
+        "end_offset": 59,
+        "start": 6.181,
+        "end": 6.621,
+        "score": -2.7653
+      },
+      {
+        "word": "to",
+        "start_offset": 60,
+        "end_offset": 62,
+        "start": 6.721,
+        "end": 6.821,
+        "score": -2.257
+      },
+      {
+        "word": "archetypes",
+        "start_offset": 63,
+        "end_offset": 73,
+        "start": 9.002,
+        "end": 9.602,
+        "score": -4.0123
+      },
+      {
+        "word": "in",
+        "start_offset": 74,
+        "end_offset": 76,
+        "start": 9.642,
+        "end": 9.762,
+        "score": -4.1288
+      },
+      {
+        "word": "some",
+        "start_offset": 77,
+        "end_offset": 81,
+        "start": 9.922,
+        "end": 10.122,
+        "score": -3.6241
+      },
+      {
+        "word": "way?",
+        "start_offset": 82,
+        "end_offset": 86,
+        "start": 10.202,
+        "end": 10.402,
+        "score": -3.4606
+      },
+      {
+        "word": "I",
+        "start_offset": 87,
+        "end_offset": 88,
+        "start": 15.003,
+        "end": 15.023,
+        "score": -1.2631
+      },
+      {
+        "word": "am",
+        "start_offset": 89,
+        "end_offset": 91,
+        "start": 15.823,
+        "end": 16.843,
+        "score": -1.4502
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 92,
+        "end_offset": 95,
+        "start": 16.943,
+        "end": 17.023,
+        "score": -2.0596
+      },
+      {
+        "word": "The",
+        "start_offset": 96,
+        "end_offset": 99,
+        "start": 19.284,
+        "end": 19.424,
+        "score": -0.7147
+      },
+      {
+        "word": "same",
+        "start_offset": 100,
+        "end_offset": 104,
+        "start": 19.744,
+        "end": 20.204,
+        "score": -0.6996
+      },
+      {
+        "word": "may",
+        "start_offset": 105,
+        "end_offset": 108,
+        "start": 20.884,
+        "end": 21.144,
+        "score": -0.6983
+      },
+      {
+        "word": "be",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 21.604,
+        "end": 21.704,
+        "score": -0.6994
+      },
+      {
+        "word": "said",
+        "start_offset": 112,
+        "end_offset": 116,
+        "start": 21.944,
+        "end": 22.324,
+        "score": -0.7076
+      },
+      {
+        "word": "of",
+        "start_offset": 117,
+        "end_offset": 119,
+        "start": 23.044,
+        "end": 23.304,
+        "score": -0.7488
+      },
+      {
+        "word": "these.",
+        "start_offset": 120,
+        "end_offset": 126,
+        "start": 23.544,
+        "end": 24.144,
+        "score": -0.7898
+      },
+      {
+        "word": "It",
+        "start_offset": 127,
+        "end_offset": 129,
+        "start": 26.145,
+        "end": 26.285,
+        "score": -0.7074
+      },
+      {
+        "word": "is",
+        "start_offset": 130,
+        "end_offset": 132,
+        "start": 26.505,
+        "end": 26.825,
+        "score": -0.7008
+      },
+      {
+        "word": "informative",
+        "start_offset": 133,
+        "end_offset": 144,
+        "start": 27.725,
+        "end": 29.245,
+        "score": -0.7063
+      },
+      {
+        "word": "to",
+        "start_offset": 145,
+        "end_offset": 147,
+        "start": 30.266,
+        "end": 30.466,
+        "score": -0.7642
+      },
+      {
+        "word": "view",
+        "start_offset": 148,
+        "end_offset": 152,
+        "start": 31.406,
+        "end": 31.766,
+        "score": -0.8725
+      },
+      {
+        "word": "the",
+        "start_offset": 153,
+        "end_offset": 156,
+        "start": 33.226,
+        "end": 33.366,
+        "score": -0.7849
+      },
+      {
+        "word": "relationships",
+        "start_offset": 157,
+        "end_offset": 170,
+        "start": 34.466,
+        "end": 35.887,
+        "score": -0.7293
+      },
+      {
+        "word": "but",
+        "start_offset": 171,
+        "end_offset": 174,
+        "start": 37.367,
+        "end": 37.687,
+        "score": -0.7103
+      },
+      {
+        "word": "stifling",
+        "start_offset": 175,
+        "end_offset": 183,
+        "start": 38.607,
+        "end": 39.567,
+        "score": -0.7142
+      },
+      {
+        "word": "to",
+        "start_offset": 184,
+        "end_offset": 186,
+        "start": 40.788,
+        "end": 40.948,
+        "score": -0.7396
+      },
+      {
+        "word": "insist",
+        "start_offset": 187,
+        "end_offset": 193,
+        "start": 42.048,
+        "end": 42.908,
+        "score": -0.6983
+      },
+      {
+        "word": "upon",
+        "start_offset": 194,
+        "end_offset": 198,
+        "start": 43.968,
+        "end": 44.588,
+        "score": -2.283
+      },
+      {
+        "word": "the",
+        "start_offset": 199,
+        "end_offset": 202,
+        "start": 45.848,
+        "end": 45.968,
+        "score": -0.7307
+      },
+      {
+        "word": "limitations",
+        "start_offset": 203,
+        "end_offset": 214,
+        "start": 46.269,
+        "end": 47.829,
+        "score": -0.7031
+      },
+      {
+        "word": "of",
+        "start_offset": 215,
+        "end_offset": 217,
+        "start": 49.169,
+        "end": 49.449,
+        "score": -0.7104
+      },
+      {
+        "word": "congruency.",
+        "start_offset": 218,
+        "end_offset": 229,
+        "start": 50.349,
+        "end": 51.75,
+        "score": -0.775
+      },
+      {
+        "word": "Recall",
+        "start_offset": 230,
+        "end_offset": 236,
+        "start": 53.53,
+        "end": 54.31,
+        "score": -0.7356
+      },
+      {
+        "word": "at",
+        "start_offset": 237,
+        "end_offset": 239,
+        "start": 55.41,
+        "end": 55.63,
+        "score": -0.7037
+      },
+      {
+        "word": "all",
+        "start_offset": 240,
+        "end_offset": 243,
+        "start": 55.85,
+        "end": 56.15,
+        "score": -0.7316
+      },
+      {
+        "word": "times,",
+        "start_offset": 244,
+        "end_offset": 250,
+        "start": 57.751,
+        "end": 58.531,
+        "score": -0.7033
+      },
+      {
+        "word": "if",
+        "start_offset": 251,
+        "end_offset": 253,
+        "start": 59.391,
+        "end": 59.571,
+        "score": -6.5883
+      },
+      {
+        "word": "you",
+        "start_offset": 254,
+        "end_offset": 257,
+        "start": 59.751,
+        "end": 59.911,
+        "score": -0.7096
+      },
+      {
+        "word": "would",
+        "start_offset": 258,
+        "end_offset": 263,
+        "start": 60.991,
+        "end": 61.311,
+        "score": -1.2399
+      },
+      {
+        "word": "use",
+        "start_offset": 264,
+        "end_offset": 267,
+        "start": 61.511,
+        "end": 61.891,
+        "score": -0.7205
+      },
+      {
+        "word": "this",
+        "start_offset": 268,
+        "end_offset": 272,
+        "start": 62.512,
+        "end": 62.832,
+        "score": -0.7407
+      },
+      {
+        "word": "term,",
+        "start_offset": 273,
+        "end_offset": 278,
+        "start": 63.332,
+        "end": 63.732,
+        "score": -0.7079
+      },
+      {
+        "word": "that",
+        "start_offset": 279,
+        "end_offset": 283,
+        "start": 66.172,
+        "end": 66.532,
+        "score": -0.8246
+      },
+      {
+        "word": "the",
+        "start_offset": 284,
+        "end_offset": 287,
+        "start": 67.532,
+        "end": 67.672,
+        "score": -0.7751
+      },
+      {
+        "word": "archetypes",
+        "start_offset": 288,
+        "end_offset": 298,
+        "start": 69.473,
+        "end": 71.013,
+        "score": -1.3418
+      },
+      {
+        "word": "are",
+        "start_offset": 299,
+        "end_offset": 302,
+        "start": 72.893,
+        "end": 73.233,
+        "score": -1.5497
+      },
+      {
+        "word": "a",
+        "start_offset": 303,
+        "end_offset": 304,
+        "start": 73.634,
+        "end": 73.654,
+        "score": -0.8274
+      },
+      {
+        "word": "portion",
+        "start_offset": 305,
+        "end_offset": 312,
+        "start": 74.674,
+        "end": 75.314,
+        "score": -0.7178
+      },
+      {
+        "word": "of",
+        "start_offset": 313,
+        "end_offset": 315,
+        "start": 76.794,
+        "end": 77.074,
+        "score": -0.706
+      },
+      {
+        "word": "the",
+        "start_offset": 316,
+        "end_offset": 319,
+        "start": 77.374,
+        "end": 77.514,
+        "score": -0.7953
+      },
+      {
+        "word": "resources",
+        "start_offset": 320,
+        "end_offset": 329,
+        "start": 77.974,
+        "end": 79.155,
+        "score": -0.7201
+      },
+      {
+        "word": "of",
+        "start_offset": 330,
+        "end_offset": 332,
+        "start": 80.615,
+        "end": 80.975,
+        "score": -0.8173
+      },
+      {
+        "word": "the",
+        "start_offset": 333,
+        "end_offset": 336,
+        "start": 81.395,
+        "end": 81.515,
+        "score": -1.0186
+      },
+      {
+        "word": "mind",
+        "start_offset": 337,
+        "end_offset": 341,
+        "start": 83.155,
+        "end": 83.835,
+        "score": -0.7542
+      },
+      {
+        "word": "complex.",
+        "start_offset": 342,
+        "end_offset": 350,
+        "start": 84.596,
+        "end": 85.516,
+        "score": -0.7242
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "078-31.mp3",
+    "audio_duration": 91.0367,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

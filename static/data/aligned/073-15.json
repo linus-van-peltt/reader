@@ -1,0 +1,370 @@
+{
+  "text": "You said that if the entity says that no working comes from it but only through it it is also infringing. Is that correct? I am Ra. This is incorrect. We said that in that event there is no infringement.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "You said that if the entity says that no working comes from it but only through it it is also infringing.",
+        "start_offset": 0,
+        "end_offset": 105,
+        "start": 2.981,
+        "end": 9.784
+      },
+      {
+        "segment": "Is that correct?",
+        "start_offset": 106,
+        "end_offset": 122,
+        "start": 10.165,
+        "end": 10.845
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 123,
+        "end_offset": 131,
+        "start": 13.166,
+        "end": 15.707
+      },
+      {
+        "segment": "This is incorrect.",
+        "start_offset": 132,
+        "end_offset": 150,
+        "start": 17.208,
+        "end": 22.03
+      },
+      {
+        "segment": "We said that in that event there is no infringement.",
+        "start_offset": 151,
+        "end_offset": 203,
+        "start": 23.41,
+        "end": 37.657
+      }
+    ],
+    "word": [
+      {
+        "word": "You",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.981,
+        "end": 3.041,
+        "score": -6.4101
+      },
+      {
+        "word": "said",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 3.141,
+        "end": 3.362,
+        "score": -1.5464
+      },
+      {
+        "word": "that",
+        "start_offset": 9,
+        "end_offset": 13,
+        "start": 3.422,
+        "end": 3.602,
+        "score": -2.5624
+      },
+      {
+        "word": "if",
+        "start_offset": 14,
+        "end_offset": 16,
+        "start": 3.622,
+        "end": 3.922,
+        "score": -10.4017
+      },
+      {
+        "word": "the",
+        "start_offset": 17,
+        "end_offset": 20,
+        "start": 3.942,
+        "end": 4.022,
+        "score": -1.2055
+      },
+      {
+        "word": "entity",
+        "start_offset": 21,
+        "end_offset": 27,
+        "start": 4.302,
+        "end": 4.562,
+        "score": -1.0315
+      },
+      {
+        "word": "says",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 4.662,
+        "end": 4.902,
+        "score": -0.72
+      },
+      {
+        "word": "that",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 4.922,
+        "end": 5.062,
+        "score": -0.7631
+      },
+      {
+        "word": "no",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 5.122,
+        "end": 5.222,
+        "score": -0.7098
+      },
+      {
+        "word": "working",
+        "start_offset": 41,
+        "end_offset": 48,
+        "start": 5.342,
+        "end": 5.743,
+        "score": -0.7241
+      },
+      {
+        "word": "comes",
+        "start_offset": 49,
+        "end_offset": 54,
+        "start": 5.963,
+        "end": 6.243,
+        "score": -1.5635
+      },
+      {
+        "word": "from",
+        "start_offset": 55,
+        "end_offset": 59,
+        "start": 6.303,
+        "end": 6.503,
+        "score": -0.825
+      },
+      {
+        "word": "it",
+        "start_offset": 60,
+        "end_offset": 62,
+        "start": 6.563,
+        "end": 6.663,
+        "score": -0.8566
+      },
+      {
+        "word": "but",
+        "start_offset": 63,
+        "end_offset": 66,
+        "start": 6.923,
+        "end": 7.103,
+        "score": -0.7027
+      },
+      {
+        "word": "only",
+        "start_offset": 67,
+        "end_offset": 71,
+        "start": 7.243,
+        "end": 7.483,
+        "score": -0.7082
+      },
+      {
+        "word": "through",
+        "start_offset": 72,
+        "end_offset": 79,
+        "start": 7.583,
+        "end": 7.824,
+        "score": -0.884
+      },
+      {
+        "word": "it",
+        "start_offset": 80,
+        "end_offset": 82,
+        "start": 7.864,
+        "end": 7.964,
+        "score": -0.852
+      },
+      {
+        "word": "it",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 8.464,
+        "end": 8.544,
+        "score": -0.7161
+      },
+      {
+        "word": "is",
+        "start_offset": 86,
+        "end_offset": 88,
+        "start": 8.604,
+        "end": 8.704,
+        "score": -0.7292
+      },
+      {
+        "word": "also",
+        "start_offset": 89,
+        "end_offset": 93,
+        "start": 8.904,
+        "end": 9.164,
+        "score": -0.7198
+      },
+      {
+        "word": "infringing.",
+        "start_offset": 94,
+        "end_offset": 105,
+        "start": 9.244,
+        "end": 9.784,
+        "score": -0.8122
+      },
+      {
+        "word": "Is",
+        "start_offset": 106,
+        "end_offset": 108,
+        "start": 10.165,
+        "end": 10.245,
+        "score": -2.6605
+      },
+      {
+        "word": "that",
+        "start_offset": 109,
+        "end_offset": 113,
+        "start": 10.305,
+        "end": 10.405,
+        "score": -3.4243
+      },
+      {
+        "word": "correct?",
+        "start_offset": 114,
+        "end_offset": 122,
+        "start": 10.465,
+        "end": 10.845,
+        "score": -2.7437
+      },
+      {
+        "word": "I",
+        "start_offset": 123,
+        "end_offset": 124,
+        "start": 13.166,
+        "end": 13.186,
+        "score": -3.8297
+      },
+      {
+        "word": "am",
+        "start_offset": 125,
+        "end_offset": 127,
+        "start": 14.346,
+        "end": 14.607,
+        "score": -6.844
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 128,
+        "end_offset": 131,
+        "start": 15.547,
+        "end": 15.707,
+        "score": -8.4204
+      },
+      {
+        "word": "This",
+        "start_offset": 132,
+        "end_offset": 136,
+        "start": 17.208,
+        "end": 17.588,
+        "score": -0.8959
+      },
+      {
+        "word": "is",
+        "start_offset": 137,
+        "end_offset": 139,
+        "start": 18.428,
+        "end": 18.788,
+        "score": -0.8518
+      },
+      {
+        "word": "incorrect.",
+        "start_offset": 140,
+        "end_offset": 150,
+        "start": 20.069,
+        "end": 22.03,
+        "score": -0.8573
+      },
+      {
+        "word": "We",
+        "start_offset": 151,
+        "end_offset": 153,
+        "start": 23.41,
+        "end": 23.551,
+        "score": -0.8065
+      },
+      {
+        "word": "said",
+        "start_offset": 154,
+        "end_offset": 158,
+        "start": 24.311,
+        "end": 24.751,
+        "score": -0.7111
+      },
+      {
+        "word": "that",
+        "start_offset": 159,
+        "end_offset": 163,
+        "start": 25.451,
+        "end": 25.832,
+        "score": -0.7736
+      },
+      {
+        "word": "in",
+        "start_offset": 164,
+        "end_offset": 166,
+        "start": 26.792,
+        "end": 27.052,
+        "score": -0.7956
+      },
+      {
+        "word": "that",
+        "start_offset": 167,
+        "end_offset": 171,
+        "start": 27.973,
+        "end": 28.353,
+        "score": -1.0582
+      },
+      {
+        "word": "event",
+        "start_offset": 172,
+        "end_offset": 177,
+        "start": 29.413,
+        "end": 30.073,
+        "score": -0.7401
+      },
+      {
+        "word": "there",
+        "start_offset": 178,
+        "end_offset": 183,
+        "start": 31.314,
+        "end": 31.714,
+        "score": -0.9067
+      },
+      {
+        "word": "is",
+        "start_offset": 184,
+        "end_offset": 186,
+        "start": 32.715,
+        "end": 33.075,
+        "score": -0.7222
+      },
+      {
+        "word": "no",
+        "start_offset": 187,
+        "end_offset": 189,
+        "start": 34.155,
+        "end": 34.335,
+        "score": -0.7591
+      },
+      {
+        "word": "infringement.",
+        "start_offset": 190,
+        "end_offset": 203,
+        "start": 35.876,
+        "end": 37.657,
+        "score": -0.7463
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "073-15.mp3",
+    "audio_duration": 41.0384,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

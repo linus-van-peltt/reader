@@ -1,0 +1,339 @@
+{
+  "text": "Then I'm assuming what you're saying is that the guardians transferred the race here after the race had died from the physical as we know it on Mars. Is that correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Then I'm assuming what you're saying is that the guardians transferred the race here after the race had died from the physical as we know it on Mars.",
+        "start_offset": 0,
+        "end_offset": 149,
+        "start": 2.821,
+        "end": 18.523
+      },
+      {
+        "segment": "Is that correct?",
+        "start_offset": 150,
+        "end_offset": 166,
+        "start": 21.284,
+        "end": 22.024
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 167,
+        "end_offset": 175,
+        "start": 24.724,
+        "end": 26.945
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 176,
+        "end_offset": 192,
+        "start": 28.765,
+        "end": 32.686
+      }
+    ],
+    "word": [
+      {
+        "word": "Then",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.821,
+        "end": 3.081,
+        "score": -3.1397
+      },
+      {
+        "word": "I'm",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 3.401,
+        "end": 3.461,
+        "score": -5.1108
+      },
+      {
+        "word": "assuming",
+        "start_offset": 9,
+        "end_offset": 17,
+        "start": 3.481,
+        "end": 3.881,
+        "score": -3.4939
+      },
+      {
+        "word": "what",
+        "start_offset": 18,
+        "end_offset": 22,
+        "start": 3.921,
+        "end": 4.041,
+        "score": -2.6123
+      },
+      {
+        "word": "you're",
+        "start_offset": 23,
+        "end_offset": 29,
+        "start": 4.121,
+        "end": 4.241,
+        "score": -5.8461
+      },
+      {
+        "word": "saying",
+        "start_offset": 30,
+        "end_offset": 36,
+        "start": 4.261,
+        "end": 4.521,
+        "score": -2.449
+      },
+      {
+        "word": "is",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 4.541,
+        "end": 4.601,
+        "score": -3.9679
+      },
+      {
+        "word": "that",
+        "start_offset": 40,
+        "end_offset": 44,
+        "start": 4.621,
+        "end": 4.761,
+        "score": -3.6879
+      },
+      {
+        "word": "the",
+        "start_offset": 45,
+        "end_offset": 48,
+        "start": 4.801,
+        "end": 4.881,
+        "score": -1.5021
+      },
+      {
+        "word": "guardians",
+        "start_offset": 49,
+        "end_offset": 58,
+        "start": 4.961,
+        "end": 5.541,
+        "score": -1.0895
+      },
+      {
+        "word": "transferred",
+        "start_offset": 59,
+        "end_offset": 70,
+        "start": 7.281,
+        "end": 8.021,
+        "score": -1.4619
+      },
+      {
+        "word": "the",
+        "start_offset": 71,
+        "end_offset": 74,
+        "start": 8.221,
+        "end": 8.301,
+        "score": -1.2947
+      },
+      {
+        "word": "race",
+        "start_offset": 75,
+        "end_offset": 79,
+        "start": 8.381,
+        "end": 8.722,
+        "score": -0.852
+      },
+      {
+        "word": "here",
+        "start_offset": 80,
+        "end_offset": 84,
+        "start": 8.802,
+        "end": 9.062,
+        "score": -1.107
+      },
+      {
+        "word": "after",
+        "start_offset": 85,
+        "end_offset": 90,
+        "start": 14.183,
+        "end": 14.383,
+        "score": -3.858
+      },
+      {
+        "word": "the",
+        "start_offset": 91,
+        "end_offset": 94,
+        "start": 14.483,
+        "end": 14.543,
+        "score": -4.4039
+      },
+      {
+        "word": "race",
+        "start_offset": 95,
+        "end_offset": 99,
+        "start": 14.643,
+        "end": 14.983,
+        "score": -1.0038
+      },
+      {
+        "word": "had",
+        "start_offset": 100,
+        "end_offset": 103,
+        "start": 15.003,
+        "end": 15.143,
+        "score": -3.134
+      },
+      {
+        "word": "died",
+        "start_offset": 104,
+        "end_offset": 108,
+        "start": 15.703,
+        "end": 15.843,
+        "score": -3.4143
+      },
+      {
+        "word": "from",
+        "start_offset": 109,
+        "end_offset": 113,
+        "start": 16.623,
+        "end": 16.743,
+        "score": -4.3561
+      },
+      {
+        "word": "the",
+        "start_offset": 114,
+        "end_offset": 117,
+        "start": 16.783,
+        "end": 16.883,
+        "score": -4.7137
+      },
+      {
+        "word": "physical",
+        "start_offset": 118,
+        "end_offset": 126,
+        "start": 16.943,
+        "end": 17.363,
+        "score": -3.0484
+      },
+      {
+        "word": "as",
+        "start_offset": 127,
+        "end_offset": 129,
+        "start": 17.383,
+        "end": 17.463,
+        "score": -3.164
+      },
+      {
+        "word": "we",
+        "start_offset": 130,
+        "end_offset": 132,
+        "start": 17.483,
+        "end": 17.523,
+        "score": -4.1665
+      },
+      {
+        "word": "know",
+        "start_offset": 133,
+        "end_offset": 137,
+        "start": 17.603,
+        "end": 17.823,
+        "score": -4.3938
+      },
+      {
+        "word": "it",
+        "start_offset": 138,
+        "end_offset": 140,
+        "start": 17.863,
+        "end": 17.923,
+        "score": -3.9973
+      },
+      {
+        "word": "on",
+        "start_offset": 141,
+        "end_offset": 143,
+        "start": 18.183,
+        "end": 18.303,
+        "score": -2.6275
+      },
+      {
+        "word": "Mars.",
+        "start_offset": 144,
+        "end_offset": 149,
+        "start": 18.323,
+        "end": 18.523,
+        "score": -2.6664
+      },
+      {
+        "word": "Is",
+        "start_offset": 150,
+        "end_offset": 152,
+        "start": 21.284,
+        "end": 21.404,
+        "score": -4.9419
+      },
+      {
+        "word": "that",
+        "start_offset": 153,
+        "end_offset": 157,
+        "start": 21.424,
+        "end": 21.604,
+        "score": -4.114
+      },
+      {
+        "word": "correct?",
+        "start_offset": 158,
+        "end_offset": 166,
+        "start": 21.624,
+        "end": 22.024,
+        "score": -3.5297
+      },
+      {
+        "word": "I",
+        "start_offset": 167,
+        "end_offset": 168,
+        "start": 24.724,
+        "end": 24.744,
+        "score": -1.0557
+      },
+      {
+        "word": "am",
+        "start_offset": 169,
+        "end_offset": 171,
+        "start": 25.665,
+        "end": 25.885,
+        "score": -3.3085
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 172,
+        "end_offset": 175,
+        "start": 26.825,
+        "end": 26.945,
+        "score": -1.1036
+      },
+      {
+        "word": "This",
+        "start_offset": 176,
+        "end_offset": 180,
+        "start": 28.765,
+        "end": 29.125,
+        "score": -2.0429
+      },
+      {
+        "word": "is",
+        "start_offset": 181,
+        "end_offset": 183,
+        "start": 30.365,
+        "end": 30.645,
+        "score": -0.7785
+      },
+      {
+        "word": "correct.",
+        "start_offset": 184,
+        "end_offset": 192,
+        "start": 31.826,
+        "end": 32.686,
+        "score": -0.8304
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "009-08.mp3",
+    "audio_duration": 39.0269,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

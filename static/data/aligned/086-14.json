@@ -1,0 +1,259 @@
+{
+  "text": "It was noticed that this occurs in small units during the night with gaps in between. Is there any particular reason for this? I am Ra. Yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "It was noticed that this occurs in small units during the night with gaps in between.",
+        "start_offset": 0,
+        "end_offset": 85,
+        "start": 2.863,
+        "end": 14.918
+      },
+      {
+        "segment": "Is there any particular reason for this?",
+        "start_offset": 86,
+        "end_offset": 126,
+        "start": 14.938,
+        "end": 15.799
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 127,
+        "end_offset": 135,
+        "start": 15.819,
+        "end": 15.959
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 136,
+        "end_offset": 140,
+        "start": 15.979,
+        "end": 16.039
+      }
+    ],
+    "word": [
+      {
+        "word": "It",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 2.863,
+        "end": 2.964,
+        "score": -0.7017
+      },
+      {
+        "word": "was",
+        "start_offset": 3,
+        "end_offset": 6,
+        "start": 3.024,
+        "end": 3.184,
+        "score": -0.6984
+      },
+      {
+        "word": "noticed",
+        "start_offset": 7,
+        "end_offset": 14,
+        "start": 3.244,
+        "end": 3.624,
+        "score": -1.2315
+      },
+      {
+        "word": "that",
+        "start_offset": 15,
+        "end_offset": 19,
+        "start": 3.644,
+        "end": 3.785,
+        "score": -0.7145
+      },
+      {
+        "word": "this",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 3.825,
+        "end": 4.005,
+        "score": -0.6986
+      },
+      {
+        "word": "occurs",
+        "start_offset": 25,
+        "end_offset": 31,
+        "start": 4.085,
+        "end": 4.606,
+        "score": -0.7073
+      },
+      {
+        "word": "in",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 6.007,
+        "end": 6.187,
+        "score": -1.085
+      },
+      {
+        "word": "small",
+        "start_offset": 35,
+        "end_offset": 40,
+        "start": 9.291,
+        "end": 9.672,
+        "score": -0.7083
+      },
+      {
+        "word": "units",
+        "start_offset": 41,
+        "end_offset": 46,
+        "start": 9.872,
+        "end": 10.272,
+        "score": -0.7702
+      },
+      {
+        "word": "during",
+        "start_offset": 47,
+        "end_offset": 53,
+        "start": 11.594,
+        "end": 11.874,
+        "score": -0.6974
+      },
+      {
+        "word": "the",
+        "start_offset": 54,
+        "end_offset": 57,
+        "start": 11.894,
+        "end": 11.974,
+        "score": -0.8319
+      },
+      {
+        "word": "night",
+        "start_offset": 58,
+        "end_offset": 63,
+        "start": 12.014,
+        "end": 12.335,
+        "score": -0.7626
+      },
+      {
+        "word": "with",
+        "start_offset": 64,
+        "end_offset": 68,
+        "start": 12.415,
+        "end": 12.635,
+        "score": -0.7602
+      },
+      {
+        "word": "gaps",
+        "start_offset": 69,
+        "end_offset": 73,
+        "start": 12.655,
+        "end": 12.735,
+        "score": -11.1982
+      },
+      {
+        "word": "in",
+        "start_offset": 74,
+        "end_offset": 76,
+        "start": 14.377,
+        "end": 14.617,
+        "score": -10.0256
+      },
+      {
+        "word": "between.",
+        "start_offset": 77,
+        "end_offset": 85,
+        "start": 14.638,
+        "end": 14.918,
+        "score": -8.821
+      },
+      {
+        "word": "Is",
+        "start_offset": 86,
+        "end_offset": 88,
+        "start": 14.938,
+        "end": 14.978,
+        "score": -8.1609
+      },
+      {
+        "word": "there",
+        "start_offset": 89,
+        "end_offset": 94,
+        "start": 14.998,
+        "end": 15.098,
+        "score": -6.7435
+      },
+      {
+        "word": "any",
+        "start_offset": 95,
+        "end_offset": 98,
+        "start": 15.138,
+        "end": 15.198,
+        "score": -6.7815
+      },
+      {
+        "word": "particular",
+        "start_offset": 99,
+        "end_offset": 109,
+        "start": 15.218,
+        "end": 15.479,
+        "score": -5.5605
+      },
+      {
+        "word": "reason",
+        "start_offset": 110,
+        "end_offset": 116,
+        "start": 15.499,
+        "end": 15.619,
+        "score": -7.1356
+      },
+      {
+        "word": "for",
+        "start_offset": 117,
+        "end_offset": 120,
+        "start": 15.639,
+        "end": 15.699,
+        "score": -8.6394
+      },
+      {
+        "word": "this?",
+        "start_offset": 121,
+        "end_offset": 126,
+        "start": 15.719,
+        "end": 15.799,
+        "score": -8.0332
+      },
+      {
+        "word": "I",
+        "start_offset": 127,
+        "end_offset": 128,
+        "start": 15.819,
+        "end": 15.839,
+        "score": -8.0732
+      },
+      {
+        "word": "am",
+        "start_offset": 129,
+        "end_offset": 131,
+        "start": 15.859,
+        "end": 15.899,
+        "score": -8.5027
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 132,
+        "end_offset": 135,
+        "start": 15.919,
+        "end": 15.959,
+        "score": -8.435
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 136,
+        "end_offset": 140,
+        "start": 15.979,
+        "end": 16.039,
+        "score": -8.6486
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "086-14.mp3",
+    "audio_duration": 16.0392,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

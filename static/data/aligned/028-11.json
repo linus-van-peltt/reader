@@ -1,0 +1,523 @@
+{
+  "text": "Could you tell me what you mean by an apparent paradox? I am Ra. It would seem that if one Logos creates the intelligent energy ways for a large system there would not be the necessity or possibility of the further sub-Logos differentiation. However, within limits, this is precisely the case, and it is perceptive that this has been seen.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you tell me what you mean by an apparent paradox?",
+        "start_offset": 0,
+        "end_offset": 55,
+        "start": 2.921,
+        "end": 5.461
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 56,
+        "end_offset": 64,
+        "start": 10.123,
+        "end": 12.583
+      },
+      {
+        "segment": "It would seem that if one Logos creates the intelligent energy ways for a large system there would not be the necessity or possibility of the further sub-Logos differentiation.",
+        "start_offset": 65,
+        "end_offset": 241,
+        "start": 14.504,
+        "end": 68.138
+      },
+      {
+        "segment": "However, within limits, this is precisely the case, and it is perceptive that this has been seen.",
+        "start_offset": 242,
+        "end_offset": 339,
+        "start": 69.818,
+        "end": 96.085
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.921,
+        "end": 3.101,
+        "score": -9.0482
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 3.121,
+        "end": 3.181,
+        "score": -8.0993
+      },
+      {
+        "word": "tell",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 3.241,
+        "end": 3.421,
+        "score": -6.6132
+      },
+      {
+        "word": "me",
+        "start_offset": 15,
+        "end_offset": 17,
+        "start": 3.441,
+        "end": 3.501,
+        "score": -6.0489
+      },
+      {
+        "word": "what",
+        "start_offset": 18,
+        "end_offset": 22,
+        "start": 3.561,
+        "end": 3.701,
+        "score": -6.5064
+      },
+      {
+        "word": "you",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 3.741,
+        "end": 3.801,
+        "score": -8.1714
+      },
+      {
+        "word": "mean",
+        "start_offset": 27,
+        "end_offset": 31,
+        "start": 3.841,
+        "end": 4.081,
+        "score": -7.3449
+      },
+      {
+        "word": "by",
+        "start_offset": 32,
+        "end_offset": 34,
+        "start": 4.161,
+        "end": 4.341,
+        "score": -6.7124
+      },
+      {
+        "word": "an",
+        "start_offset": 35,
+        "end_offset": 37,
+        "start": 4.361,
+        "end": 4.401,
+        "score": -8.7094
+      },
+      {
+        "word": "apparent",
+        "start_offset": 38,
+        "end_offset": 46,
+        "start": 4.421,
+        "end": 4.801,
+        "score": -8.0568
+      },
+      {
+        "word": "paradox?",
+        "start_offset": 47,
+        "end_offset": 55,
+        "start": 4.841,
+        "end": 5.461,
+        "score": -8.8865
+      },
+      {
+        "word": "I",
+        "start_offset": 56,
+        "end_offset": 57,
+        "start": 10.123,
+        "end": 10.143,
+        "score": -0.7324
+      },
+      {
+        "word": "am",
+        "start_offset": 58,
+        "end_offset": 60,
+        "start": 11.023,
+        "end": 11.383,
+        "score": -1.0526
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 61,
+        "end_offset": 64,
+        "start": 12.403,
+        "end": 12.583,
+        "score": -1.1249
+      },
+      {
+        "word": "It",
+        "start_offset": 65,
+        "end_offset": 67,
+        "start": 14.504,
+        "end": 14.764,
+        "score": -0.71
+      },
+      {
+        "word": "would",
+        "start_offset": 68,
+        "end_offset": 73,
+        "start": 15.364,
+        "end": 15.804,
+        "score": -0.8273
+      },
+      {
+        "word": "seem",
+        "start_offset": 74,
+        "end_offset": 78,
+        "start": 16.944,
+        "end": 17.424,
+        "score": -1.4016
+      },
+      {
+        "word": "that",
+        "start_offset": 79,
+        "end_offset": 83,
+        "start": 18.805,
+        "end": 19.205,
+        "score": -0.7134
+      },
+      {
+        "word": "if",
+        "start_offset": 84,
+        "end_offset": 86,
+        "start": 20.545,
+        "end": 20.865,
+        "score": -1.0032
+      },
+      {
+        "word": "one",
+        "start_offset": 87,
+        "end_offset": 90,
+        "start": 21.786,
+        "end": 22.106,
+        "score": -0.702
+      },
+      {
+        "word": "Logos",
+        "start_offset": 91,
+        "end_offset": 96,
+        "start": 23.366,
+        "end": 24.286,
+        "score": -0.7156
+      },
+      {
+        "word": "creates",
+        "start_offset": 97,
+        "end_offset": 104,
+        "start": 25.507,
+        "end": 27.007,
+        "score": -1.3747
+      },
+      {
+        "word": "the",
+        "start_offset": 105,
+        "end_offset": 108,
+        "start": 28.447,
+        "end": 28.587,
+        "score": -0.7161
+      },
+      {
+        "word": "intelligent",
+        "start_offset": 109,
+        "end_offset": 120,
+        "start": 29.548,
+        "end": 31.128,
+        "score": -0.7004
+      },
+      {
+        "word": "energy",
+        "start_offset": 121,
+        "end_offset": 127,
+        "start": 32.448,
+        "end": 33.149,
+        "score": -0.7055
+      },
+      {
+        "word": "ways",
+        "start_offset": 128,
+        "end_offset": 132,
+        "start": 34.449,
+        "end": 35.209,
+        "score": -0.8303
+      },
+      {
+        "word": "for",
+        "start_offset": 133,
+        "end_offset": 136,
+        "start": 37.01,
+        "end": 37.45,
+        "score": -0.7192
+      },
+      {
+        "word": "a",
+        "start_offset": 137,
+        "end_offset": 138,
+        "start": 38.57,
+        "end": 38.59,
+        "score": -0.7204
+      },
+      {
+        "word": "large",
+        "start_offset": 139,
+        "end_offset": 144,
+        "start": 39.35,
+        "end": 40.03,
+        "score": -0.7172
+      },
+      {
+        "word": "system",
+        "start_offset": 145,
+        "end_offset": 151,
+        "start": 41.871,
+        "end": 42.591,
+        "score": -0.6961
+      },
+      {
+        "word": "there",
+        "start_offset": 152,
+        "end_offset": 157,
+        "start": 44.371,
+        "end": 44.751,
+        "score": -0.7234
+      },
+      {
+        "word": "would",
+        "start_offset": 158,
+        "end_offset": 163,
+        "start": 45.152,
+        "end": 45.512,
+        "score": -0.7409
+      },
+      {
+        "word": "not",
+        "start_offset": 164,
+        "end_offset": 167,
+        "start": 45.992,
+        "end": 46.412,
+        "score": -0.6962
+      },
+      {
+        "word": "be",
+        "start_offset": 168,
+        "end_offset": 170,
+        "start": 46.992,
+        "end": 47.132,
+        "score": -0.6978
+      },
+      {
+        "word": "the",
+        "start_offset": 171,
+        "end_offset": 174,
+        "start": 48.893,
+        "end": 49.053,
+        "score": -0.7317
+      },
+      {
+        "word": "necessity",
+        "start_offset": 175,
+        "end_offset": 184,
+        "start": 49.933,
+        "end": 51.313,
+        "score": -0.7077
+      },
+      {
+        "word": "or",
+        "start_offset": 185,
+        "end_offset": 187,
+        "start": 52.554,
+        "end": 52.814,
+        "score": -0.6976
+      },
+      {
+        "word": "possibility",
+        "start_offset": 188,
+        "end_offset": 199,
+        "start": 53.574,
+        "end": 55.514,
+        "score": -0.6983
+      },
+      {
+        "word": "of",
+        "start_offset": 200,
+        "end_offset": 202,
+        "start": 57.295,
+        "end": 57.675,
+        "score": -0.7104
+      },
+      {
+        "word": "the",
+        "start_offset": 203,
+        "end_offset": 206,
+        "start": 59.015,
+        "end": 59.175,
+        "score": -0.7258
+      },
+      {
+        "word": "further",
+        "start_offset": 207,
+        "end_offset": 214,
+        "start": 60.135,
+        "end": 60.836,
+        "score": -0.7461
+      },
+      {
+        "word": "sub-Logos",
+        "start_offset": 215,
+        "end_offset": 224,
+        "start": 62.656,
+        "end": 64.817,
+        "score": -0.7113
+      },
+      {
+        "word": "differentiation.",
+        "start_offset": 225,
+        "end_offset": 241,
+        "start": 65.797,
+        "end": 68.138,
+        "score": -0.7777
+      },
+      {
+        "word": "However,",
+        "start_offset": 242,
+        "end_offset": 250,
+        "start": 69.818,
+        "end": 71.318,
+        "score": -0.7018
+      },
+      {
+        "word": "within",
+        "start_offset": 251,
+        "end_offset": 257,
+        "start": 73.259,
+        "end": 74.279,
+        "score": -0.7081
+      },
+      {
+        "word": "limits,",
+        "start_offset": 258,
+        "end_offset": 265,
+        "start": 75.039,
+        "end": 75.859,
+        "score": -0.723
+      },
+      {
+        "word": "this",
+        "start_offset": 266,
+        "end_offset": 270,
+        "start": 76.94,
+        "end": 77.36,
+        "score": -0.7094
+      },
+      {
+        "word": "is",
+        "start_offset": 271,
+        "end_offset": 273,
+        "start": 77.96,
+        "end": 78.32,
+        "score": -0.6999
+      },
+      {
+        "word": "precisely",
+        "start_offset": 274,
+        "end_offset": 283,
+        "start": 78.78,
+        "end": 80.241,
+        "score": -2.0071
+      },
+      {
+        "word": "the",
+        "start_offset": 284,
+        "end_offset": 287,
+        "start": 81.401,
+        "end": 81.561,
+        "score": -0.7774
+      },
+      {
+        "word": "case,",
+        "start_offset": 288,
+        "end_offset": 293,
+        "start": 82.121,
+        "end": 82.921,
+        "score": -0.824
+      },
+      {
+        "word": "and",
+        "start_offset": 294,
+        "end_offset": 297,
+        "start": 84.262,
+        "end": 84.622,
+        "score": -0.7043
+      },
+      {
+        "word": "it",
+        "start_offset": 298,
+        "end_offset": 300,
+        "start": 85.922,
+        "end": 86.182,
+        "score": -0.7153
+      },
+      {
+        "word": "is",
+        "start_offset": 301,
+        "end_offset": 303,
+        "start": 86.922,
+        "end": 87.302,
+        "score": -0.7056
+      },
+      {
+        "word": "perceptive",
+        "start_offset": 304,
+        "end_offset": 314,
+        "start": 88.123,
+        "end": 89.723,
+        "score": -0.772
+      },
+      {
+        "word": "that",
+        "start_offset": 315,
+        "end_offset": 319,
+        "start": 90.863,
+        "end": 91.303,
+        "score": -0.7634
+      },
+      {
+        "word": "this",
+        "start_offset": 320,
+        "end_offset": 324,
+        "start": 92.004,
+        "end": 92.424,
+        "score": -0.7127
+      },
+      {
+        "word": "has",
+        "start_offset": 325,
+        "end_offset": 328,
+        "start": 93.204,
+        "end": 93.684,
+        "score": -0.7002
+      },
+      {
+        "word": "been",
+        "start_offset": 329,
+        "end_offset": 333,
+        "start": 94.524,
+        "end": 94.944,
+        "score": -0.933
+      },
+      {
+        "word": "seen.",
+        "start_offset": 334,
+        "end_offset": 339,
+        "start": 95.645,
+        "end": 96.085,
+        "score": -1.0032
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "028-11.mp3",
+    "audio_duration": 97.0449,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

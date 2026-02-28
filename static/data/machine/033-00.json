@@ -1,0 +1,79 @@
+{
+  "text": "Thirty-three March first. Raw thirty-three March first.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Thirty-three March first.",
+        "start_offset": 8,
+        "end_offset": 26,
+        "start": 0.64,
+        "end": 2.08
+      },
+      {
+        "segment": "Raw thirty-three March first.",
+        "start_offset": 34,
+        "end_offset": 55,
+        "start": 2.72,
+        "end": 4.4
+      }
+    ],
+    "word": [
+      {
+        "word": "Thirty-three",
+        "start_offset": 8,
+        "end_offset": 19,
+        "start": 0.64,
+        "end": 1.52
+      },
+      {
+        "word": "March",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 1.6,
+        "end": 1.92
+      },
+      {
+        "word": "first.",
+        "start_offset": 25,
+        "end_offset": 26,
+        "start": 2.0,
+        "end": 2.08
+      },
+      {
+        "word": "Raw",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 2.72,
+        "end": 3.04
+      },
+      {
+        "word": "thirty-three",
+        "start_offset": 40,
+        "end_offset": 47,
+        "start": 3.2,
+        "end": 3.7600000000000002
+      },
+      {
+        "word": "March",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 3.92,
+        "end": 4.16
+      },
+      {
+        "word": "first.",
+        "start_offset": 53,
+        "end_offset": 55,
+        "start": 4.24,
+        "end": 4.4
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "033-00.mp3",
+    "audio_duration": 5.04,
+    "transcription_time": 0.08,
+    "rtfx": 62.03,
+    "timestamp": "2026-01-06T21:49:56.880963+00:00"
+  }
+}

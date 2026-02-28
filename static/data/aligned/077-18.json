@@ -1,0 +1,283 @@
+{
+  "text": "I guess, under the first distortion, it was the free will of the Logos to choose to evolve without free will. Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I guess, under the first distortion, it was the free will of the Logos to choose to evolve without free will.",
+        "start_offset": 0,
+        "end_offset": 109,
+        "start": 3.043,
+        "end": 13.151
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 110,
+        "end_offset": 126,
+        "start": 13.392,
+        "end": 14.092
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 127,
+        "end_offset": 135,
+        "start": 15.874,
+        "end": 17.815
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 136,
+        "end_offset": 152,
+        "start": 19.137,
+        "end": 22.059
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 3.043,
+        "end": 3.063,
+        "score": -1.0056
+      },
+      {
+        "word": "guess,",
+        "start_offset": 2,
+        "end_offset": 8,
+        "start": 3.183,
+        "end": 3.583,
+        "score": -1.3001
+      },
+      {
+        "word": "under",
+        "start_offset": 9,
+        "end_offset": 14,
+        "start": 4.604,
+        "end": 4.784,
+        "score": -0.7608
+      },
+      {
+        "word": "the",
+        "start_offset": 15,
+        "end_offset": 18,
+        "start": 4.824,
+        "end": 4.904,
+        "score": -0.7255
+      },
+      {
+        "word": "first",
+        "start_offset": 19,
+        "end_offset": 24,
+        "start": 4.964,
+        "end": 5.265,
+        "score": -0.7586
+      },
+      {
+        "word": "distortion,",
+        "start_offset": 25,
+        "end_offset": 36,
+        "start": 5.305,
+        "end": 5.985,
+        "score": -0.8541
+      },
+      {
+        "word": "it",
+        "start_offset": 37,
+        "end_offset": 39,
+        "start": 6.125,
+        "end": 6.205,
+        "score": -0.6961
+      },
+      {
+        "word": "was",
+        "start_offset": 40,
+        "end_offset": 43,
+        "start": 6.265,
+        "end": 6.466,
+        "score": -0.7223
+      },
+      {
+        "word": "the",
+        "start_offset": 44,
+        "end_offset": 47,
+        "start": 6.526,
+        "end": 6.626,
+        "score": -0.708
+      },
+      {
+        "word": "free",
+        "start_offset": 48,
+        "end_offset": 52,
+        "start": 6.706,
+        "end": 6.966,
+        "score": -0.6955
+      },
+      {
+        "word": "will",
+        "start_offset": 53,
+        "end_offset": 57,
+        "start": 7.066,
+        "end": 7.366,
+        "score": -0.7009
+      },
+      {
+        "word": "of",
+        "start_offset": 58,
+        "end_offset": 60,
+        "start": 7.607,
+        "end": 7.767,
+        "score": -0.6965
+      },
+      {
+        "word": "the",
+        "start_offset": 61,
+        "end_offset": 64,
+        "start": 7.947,
+        "end": 8.047,
+        "score": -0.7176
+      },
+      {
+        "word": "Logos",
+        "start_offset": 65,
+        "end_offset": 70,
+        "start": 8.187,
+        "end": 8.728,
+        "score": -0.7542
+      },
+      {
+        "word": "to",
+        "start_offset": 71,
+        "end_offset": 73,
+        "start": 8.808,
+        "end": 8.888,
+        "score": -0.7075
+      },
+      {
+        "word": "choose",
+        "start_offset": 74,
+        "end_offset": 80,
+        "start": 9.008,
+        "end": 9.548,
+        "score": -1.6325
+      },
+      {
+        "word": "to",
+        "start_offset": 81,
+        "end_offset": 83,
+        "start": 10.229,
+        "end": 10.349,
+        "score": -0.7161
+      },
+      {
+        "word": "evolve",
+        "start_offset": 84,
+        "end_offset": 90,
+        "start": 11.35,
+        "end": 12.01,
+        "score": -0.7176
+      },
+      {
+        "word": "without",
+        "start_offset": 91,
+        "end_offset": 98,
+        "start": 12.231,
+        "end": 12.611,
+        "score": -0.7126
+      },
+      {
+        "word": "free",
+        "start_offset": 99,
+        "end_offset": 103,
+        "start": 12.671,
+        "end": 12.891,
+        "score": -0.6967
+      },
+      {
+        "word": "will.",
+        "start_offset": 104,
+        "end_offset": 109,
+        "start": 12.951,
+        "end": 13.151,
+        "score": -0.7893
+      },
+      {
+        "word": "Is",
+        "start_offset": 110,
+        "end_offset": 112,
+        "start": 13.392,
+        "end": 13.472,
+        "score": -3.962
+      },
+      {
+        "word": "this",
+        "start_offset": 113,
+        "end_offset": 117,
+        "start": 13.492,
+        "end": 13.652,
+        "score": -3.7897
+      },
+      {
+        "word": "correct?",
+        "start_offset": 118,
+        "end_offset": 126,
+        "start": 13.692,
+        "end": 14.092,
+        "score": -0.7261
+      },
+      {
+        "word": "I",
+        "start_offset": 127,
+        "end_offset": 128,
+        "start": 15.874,
+        "end": 15.894,
+        "score": -0.9319
+      },
+      {
+        "word": "am",
+        "start_offset": 129,
+        "end_offset": 131,
+        "start": 16.775,
+        "end": 16.975,
+        "score": -1.4975
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 132,
+        "end_offset": 135,
+        "start": 17.695,
+        "end": 17.815,
+        "score": -1.9577
+      },
+      {
+        "word": "This",
+        "start_offset": 136,
+        "end_offset": 140,
+        "start": 19.137,
+        "end": 19.477,
+        "score": -0.7334
+      },
+      {
+        "word": "is",
+        "start_offset": 141,
+        "end_offset": 143,
+        "start": 20.418,
+        "end": 20.638,
+        "score": -0.7063
+      },
+      {
+        "word": "correct.",
+        "start_offset": 144,
+        "end_offset": 152,
+        "start": 21.319,
+        "end": 22.059,
+        "score": -0.7121
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "077-18.mp3",
+    "audio_duration": 23.04,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

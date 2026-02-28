@@ -1,0 +1,276 @@
+{
+  "text": "Now, has a Wanderer ever been so infringed upon by, shall I say, a negative adept or whoever and then placed in negative time/space? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Now, has a Wanderer ever been so infringed upon by, shall I say, a negative adept or whoever and then placed in negative time/space?",
+        "start_offset": 0,
+        "end_offset": 132,
+        "start": 2.28,
+        "end": 22.564
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 133,
+        "end_offset": 141,
+        "start": 29.425,
+        "end": 31.746
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 142,
+        "end_offset": 158,
+        "start": 33.386,
+        "end": 36.647
+      }
+    ],
+    "word": [
+      {
+        "word": "Now,",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.28,
+        "end": 2.5,
+        "score": -4.314
+      },
+      {
+        "word": "has",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 7.881,
+        "end": 8.061,
+        "score": -0.9007
+      },
+      {
+        "word": "a",
+        "start_offset": 9,
+        "end_offset": 10,
+        "start": 8.121,
+        "end": 8.141,
+        "score": -0.7224
+      },
+      {
+        "word": "Wanderer",
+        "start_offset": 11,
+        "end_offset": 19,
+        "start": 8.241,
+        "end": 8.762,
+        "score": -1.1344
+      },
+      {
+        "word": "ever",
+        "start_offset": 20,
+        "end_offset": 24,
+        "start": 8.922,
+        "end": 9.142,
+        "score": -0.7809
+      },
+      {
+        "word": "been",
+        "start_offset": 25,
+        "end_offset": 29,
+        "start": 9.222,
+        "end": 9.502,
+        "score": -1.4101
+      },
+      {
+        "word": "so",
+        "start_offset": 30,
+        "end_offset": 32,
+        "start": 10.382,
+        "end": 10.462,
+        "score": -0.8083
+      },
+      {
+        "word": "infringed",
+        "start_offset": 33,
+        "end_offset": 42,
+        "start": 10.602,
+        "end": 11.062,
+        "score": -1.3754
+      },
+      {
+        "word": "upon",
+        "start_offset": 43,
+        "end_offset": 47,
+        "start": 11.102,
+        "end": 11.482,
+        "score": -1.2405
+      },
+      {
+        "word": "by,",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 11.582,
+        "end": 11.802,
+        "score": -0.8613
+      },
+      {
+        "word": "shall",
+        "start_offset": 52,
+        "end_offset": 57,
+        "start": 16.143,
+        "end": 16.323,
+        "score": -1.171
+      },
+      {
+        "word": "I",
+        "start_offset": 58,
+        "end_offset": 59,
+        "start": 16.343,
+        "end": 16.363,
+        "score": -5.8657
+      },
+      {
+        "word": "say,",
+        "start_offset": 60,
+        "end_offset": 64,
+        "start": 16.403,
+        "end": 16.563,
+        "score": -2.0249
+      },
+      {
+        "word": "a",
+        "start_offset": 65,
+        "end_offset": 66,
+        "start": 16.583,
+        "end": 16.603,
+        "score": -5.1526
+      },
+      {
+        "word": "negative",
+        "start_offset": 67,
+        "end_offset": 75,
+        "start": 16.623,
+        "end": 17.183,
+        "score": -3.565
+      },
+      {
+        "word": "adept",
+        "start_offset": 76,
+        "end_offset": 81,
+        "start": 17.323,
+        "end": 17.663,
+        "score": -1.7487
+      },
+      {
+        "word": "or",
+        "start_offset": 82,
+        "end_offset": 84,
+        "start": 17.723,
+        "end": 17.763,
+        "score": -2.8989
+      },
+      {
+        "word": "whoever",
+        "start_offset": 85,
+        "end_offset": 92,
+        "start": 17.783,
+        "end": 18.163,
+        "score": -1.3565
+      },
+      {
+        "word": "and",
+        "start_offset": 93,
+        "end_offset": 96,
+        "start": 18.283,
+        "end": 18.423,
+        "score": -1.2545
+      },
+      {
+        "word": "then",
+        "start_offset": 97,
+        "end_offset": 101,
+        "start": 18.443,
+        "end": 18.663,
+        "score": -4.539
+      },
+      {
+        "word": "placed",
+        "start_offset": 102,
+        "end_offset": 108,
+        "start": 18.743,
+        "end": 19.143,
+        "score": -0.763
+      },
+      {
+        "word": "in",
+        "start_offset": 109,
+        "end_offset": 111,
+        "start": 19.223,
+        "end": 19.343,
+        "score": -0.7294
+      },
+      {
+        "word": "negative",
+        "start_offset": 112,
+        "end_offset": 120,
+        "start": 21.144,
+        "end": 21.604,
+        "score": -1.6663
+      },
+      {
+        "word": "time/space?",
+        "start_offset": 121,
+        "end_offset": 132,
+        "start": 21.644,
+        "end": 22.564,
+        "score": -0.7341
+      },
+      {
+        "word": "I",
+        "start_offset": 133,
+        "end_offset": 134,
+        "start": 29.425,
+        "end": 29.445,
+        "score": -2.1219
+      },
+      {
+        "word": "am",
+        "start_offset": 135,
+        "end_offset": 137,
+        "start": 30.525,
+        "end": 30.865,
+        "score": -1.7955
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 138,
+        "end_offset": 141,
+        "start": 31.626,
+        "end": 31.746,
+        "score": -1.6527
+      },
+      {
+        "word": "This",
+        "start_offset": 142,
+        "end_offset": 146,
+        "start": 33.386,
+        "end": 33.786,
+        "score": -1.6514
+      },
+      {
+        "word": "is",
+        "start_offset": 147,
+        "end_offset": 149,
+        "start": 34.766,
+        "end": 35.066,
+        "score": -1.4842
+      },
+      {
+        "word": "correct.",
+        "start_offset": 150,
+        "end_offset": 158,
+        "start": 35.806,
+        "end": 36.647,
+        "score": -1.8882
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "069-10.mp3",
+    "audio_duration": 39.0269,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

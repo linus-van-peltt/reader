@@ -1,0 +1,541 @@
+{
+  "text": "Does this threat, shall I say, still exist? And if so, is there something we can do to alleviate it? Hi. Yeah. This threat now alonger exists if you wish to phrase this a greeting in this manner of the communication which was affected by a scribe and then a by a questioner did close the opening and enable the instrument to begin assimilating the catalyst, it had a received.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Does this threat, shall I say, still exist?",
+        "start_offset": 36,
+        "end_offset": 94,
+        "start": 2.88,
+        "end": 7.5200000000000005
+      },
+      {
+        "segment": "And if so, is there something we can do to alleviate it?",
+        "start_offset": 99,
+        "end_offset": 157,
+        "start": 7.92,
+        "end": 12.56
+      },
+      {
+        "segment": "Hi.",
+        "start_offset": 197,
+        "end_offset": 200,
+        "start": 15.76,
+        "end": 16.0
+      },
+      {
+        "segment": "Yeah.",
+        "start_offset": 211,
+        "end_offset": 216,
+        "start": 16.88,
+        "end": 17.28
+      },
+      {
+        "segment": "This threat now alonger exists if you wish to phrase this a greeting in this manner of the communication which was affected by a scribe and then a by a questioner did close the opening and enable the instrument to begin assimilating the catalyst, it had a received.",
+        "start_offset": 291,
+        "end_offset": 1414,
+        "start": 23.28,
+        "end": 113.12
+      }
+    ],
+    "word": [
+      {
+        "word": "Does",
+        "start_offset": 36,
+        "end_offset": 44,
+        "start": 2.88,
+        "end": 3.52
+      },
+      {
+        "word": "this",
+        "start_offset": 44,
+        "end_offset": 48,
+        "start": 3.52,
+        "end": 3.84
+      },
+      {
+        "word": "threat,",
+        "start_offset": 56,
+        "end_offset": 65,
+        "start": 4.48,
+        "end": 5.2
+      },
+      {
+        "word": "shall",
+        "start_offset": 69,
+        "end_offset": 75,
+        "start": 5.5200000000000005,
+        "end": 6.0
+      },
+      {
+        "word": "I",
+        "start_offset": 77,
+        "end_offset": 79,
+        "start": 6.16,
+        "end": 6.32
+      },
+      {
+        "word": "say,",
+        "start_offset": 79,
+        "end_offset": 81,
+        "start": 6.32,
+        "end": 6.48
+      },
+      {
+        "word": "still",
+        "start_offset": 84,
+        "end_offset": 90,
+        "start": 6.72,
+        "end": 7.2
+      },
+      {
+        "word": "exist?",
+        "start_offset": 90,
+        "end_offset": 94,
+        "start": 7.2,
+        "end": 7.5200000000000005
+      },
+      {
+        "word": "And",
+        "start_offset": 99,
+        "end_offset": 103,
+        "start": 7.92,
+        "end": 8.24
+      },
+      {
+        "word": "if",
+        "start_offset": 103,
+        "end_offset": 107,
+        "start": 8.24,
+        "end": 8.56
+      },
+      {
+        "word": "so,",
+        "start_offset": 107,
+        "end_offset": 111,
+        "start": 8.56,
+        "end": 8.88
+      },
+      {
+        "word": "is",
+        "start_offset": 117,
+        "end_offset": 121,
+        "start": 9.36,
+        "end": 9.68
+      },
+      {
+        "word": "there",
+        "start_offset": 121,
+        "end_offset": 125,
+        "start": 9.68,
+        "end": 10.0
+      },
+      {
+        "word": "something",
+        "start_offset": 127,
+        "end_offset": 133,
+        "start": 10.16,
+        "end": 10.64
+      },
+      {
+        "word": "we",
+        "start_offset": 133,
+        "end_offset": 136,
+        "start": 10.64,
+        "end": 10.88
+      },
+      {
+        "word": "can",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 10.88,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "do",
+        "start_offset": 139,
+        "end_offset": 141,
+        "start": 11.120000000000001,
+        "end": 11.28
+      },
+      {
+        "word": "to",
+        "start_offset": 141,
+        "end_offset": 143,
+        "start": 11.28,
+        "end": 11.44
+      },
+      {
+        "word": "alleviate",
+        "start_offset": 143,
+        "end_offset": 153,
+        "start": 11.44,
+        "end": 12.24
+      },
+      {
+        "word": "it?",
+        "start_offset": 153,
+        "end_offset": 157,
+        "start": 12.24,
+        "end": 12.56
+      },
+      {
+        "word": "Hi.",
+        "start_offset": 197,
+        "end_offset": 200,
+        "start": 15.76,
+        "end": 16.0
+      },
+      {
+        "word": "Yeah.",
+        "start_offset": 211,
+        "end_offset": 216,
+        "start": 16.88,
+        "end": 17.28
+      },
+      {
+        "word": "This",
+        "start_offset": 291,
+        "end_offset": 295,
+        "start": 23.28,
+        "end": 23.6
+      },
+      {
+        "word": "threat",
+        "start_offset": 303,
+        "end_offset": 316,
+        "start": 24.240000000000002,
+        "end": 25.28
+      },
+      {
+        "word": "now",
+        "start_offset": 322,
+        "end_offset": 326,
+        "start": 25.76,
+        "end": 26.080000000000002
+      },
+      {
+        "word": "alonger",
+        "start_offset": 340,
+        "end_offset": 351,
+        "start": 27.2,
+        "end": 28.080000000000002
+      },
+      {
+        "word": "exists",
+        "start_offset": 362,
+        "end_offset": 370,
+        "start": 28.96,
+        "end": 29.6
+      },
+      {
+        "word": "if",
+        "start_offset": 386,
+        "end_offset": 390,
+        "start": 30.88,
+        "end": 31.2
+      },
+      {
+        "word": "you",
+        "start_offset": 394,
+        "end_offset": 398,
+        "start": 31.52,
+        "end": 31.84
+      },
+      {
+        "word": "wish",
+        "start_offset": 402,
+        "end_offset": 410,
+        "start": 32.160000000000004,
+        "end": 32.8
+      },
+      {
+        "word": "to",
+        "start_offset": 418,
+        "end_offset": 422,
+        "start": 33.44,
+        "end": 33.76
+      },
+      {
+        "word": "phrase",
+        "start_offset": 448,
+        "end_offset": 459,
+        "start": 35.84,
+        "end": 36.72
+      },
+      {
+        "word": "this",
+        "start_offset": 467,
+        "end_offset": 471,
+        "start": 37.36,
+        "end": 37.68
+      },
+      {
+        "word": "a",
+        "start_offset": 476,
+        "end_offset": 480,
+        "start": 38.08,
+        "end": 38.4
+      },
+      {
+        "word": "greeting",
+        "start_offset": 480,
+        "end_offset": 492,
+        "start": 38.4,
+        "end": 39.36
+      },
+      {
+        "word": "in",
+        "start_offset": 501,
+        "end_offset": 505,
+        "start": 40.08,
+        "end": 40.4
+      },
+      {
+        "word": "this",
+        "start_offset": 513,
+        "end_offset": 517,
+        "start": 41.04,
+        "end": 41.36
+      },
+      {
+        "word": "manner",
+        "start_offset": 533,
+        "end_offset": 541,
+        "start": 42.64,
+        "end": 43.28
+      },
+      {
+        "word": "of",
+        "start_offset": 569,
+        "end_offset": 572,
+        "start": 45.52,
+        "end": 45.76
+      },
+      {
+        "word": "the",
+        "start_offset": 572,
+        "end_offset": 576,
+        "start": 45.76,
+        "end": 46.08
+      },
+      {
+        "word": "communication",
+        "start_offset": 612,
+        "end_offset": 628,
+        "start": 48.96,
+        "end": 50.24
+      },
+      {
+        "word": "which",
+        "start_offset": 654,
+        "end_offset": 658,
+        "start": 52.32,
+        "end": 52.64
+      },
+      {
+        "word": "was",
+        "start_offset": 682,
+        "end_offset": 686,
+        "start": 54.56,
+        "end": 54.88
+      },
+      {
+        "word": "affected",
+        "start_offset": 698,
+        "end_offset": 710,
+        "start": 55.84,
+        "end": 56.800000000000004
+      },
+      {
+        "word": "by",
+        "start_offset": 722,
+        "end_offset": 726,
+        "start": 57.76,
+        "end": 58.08
+      },
+      {
+        "word": "a",
+        "start_offset": 771,
+        "end_offset": 774,
+        "start": 61.68,
+        "end": 61.92
+      },
+      {
+        "word": "scribe",
+        "start_offset": 774,
+        "end_offset": 785,
+        "start": 61.92,
+        "end": 62.800000000000004
+      },
+      {
+        "word": "and",
+        "start_offset": 805,
+        "end_offset": 809,
+        "start": 64.4,
+        "end": 64.72
+      },
+      {
+        "word": "then",
+        "start_offset": 839,
+        "end_offset": 842,
+        "start": 67.12,
+        "end": 67.36
+      },
+      {
+        "word": "a",
+        "start_offset": 853,
+        "end_offset": 855,
+        "start": 68.24,
+        "end": 68.4
+      },
+      {
+        "word": "by",
+        "start_offset": 857,
+        "end_offset": 859,
+        "start": 68.56,
+        "end": 68.72
+      },
+      {
+        "word": "a",
+        "start_offset": 884,
+        "end_offset": 886,
+        "start": 70.72,
+        "end": 70.88
+      },
+      {
+        "word": "questioner",
+        "start_offset": 890,
+        "end_offset": 902,
+        "start": 71.2,
+        "end": 72.16
+      },
+      {
+        "word": "did",
+        "start_offset": 925,
+        "end_offset": 929,
+        "start": 74.0,
+        "end": 74.32000000000001
+      },
+      {
+        "word": "close",
+        "start_offset": 995,
+        "end_offset": 1003,
+        "start": 79.60000000000001,
+        "end": 80.24
+      },
+      {
+        "word": "the",
+        "start_offset": 1010,
+        "end_offset": 1014,
+        "start": 80.8,
+        "end": 81.12
+      },
+      {
+        "word": "opening",
+        "start_offset": 1026,
+        "end_offset": 1037,
+        "start": 82.08,
+        "end": 82.96000000000001
+      },
+      {
+        "word": "and",
+        "start_offset": 1058,
+        "end_offset": 1062,
+        "start": 84.64,
+        "end": 84.96000000000001
+      },
+      {
+        "word": "enable",
+        "start_offset": 1070,
+        "end_offset": 1087,
+        "start": 85.60000000000001,
+        "end": 86.96000000000001
+      },
+      {
+        "word": "the",
+        "start_offset": 1119,
+        "end_offset": 1123,
+        "start": 89.52,
+        "end": 89.84
+      },
+      {
+        "word": "instrument",
+        "start_offset": 1139,
+        "end_offset": 1151,
+        "start": 91.12,
+        "end": 92.08
+      },
+      {
+        "word": "to",
+        "start_offset": 1175,
+        "end_offset": 1179,
+        "start": 94.0,
+        "end": 94.32000000000001
+      },
+      {
+        "word": "begin",
+        "start_offset": 1202,
+        "end_offset": 1208,
+        "start": 96.16,
+        "end": 96.64
+      },
+      {
+        "word": "assimilating",
+        "start_offset": 1260,
+        "end_offset": 1281,
+        "start": 100.8,
+        "end": 102.48
+      },
+      {
+        "word": "the",
+        "start_offset": 1309,
+        "end_offset": 1313,
+        "start": 104.72,
+        "end": 105.04
+      },
+      {
+        "word": "catalyst,",
+        "start_offset": 1329,
+        "end_offset": 1343,
+        "start": 106.32000000000001,
+        "end": 107.44
+      },
+      {
+        "word": "it",
+        "start_offset": 1369,
+        "end_offset": 1373,
+        "start": 109.52,
+        "end": 109.84
+      },
+      {
+        "word": "had",
+        "start_offset": 1392,
+        "end_offset": 1396,
+        "start": 111.36,
+        "end": 111.68
+      },
+      {
+        "word": "a",
+        "start_offset": 1398,
+        "end_offset": 1402,
+        "start": 111.84,
+        "end": 112.16
+      },
+      {
+        "word": "received.",
+        "start_offset": 1402,
+        "end_offset": 1414,
+        "start": 112.16,
+        "end": 113.12
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "096-03.mp3",
+    "audio_duration": 136.05,
+    "transcription_time": 0.19,
+    "rtfx": 724.16,
+    "timestamp": "2026-01-06T21:59:44.517683+00:00"
+  }
+}

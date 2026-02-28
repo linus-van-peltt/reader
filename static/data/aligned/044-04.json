@@ -1,0 +1,561 @@
+{
+  "text": "Can you tell me how I would hear a positively oriented signal? I am Ra. Two types there are of positive signal. First, in the right ear location the signal indicates a sign that you are being given some unworded message saying, \"Listen. Take heed. \" The other positive sign is the tone above the head which is a balanced confirmation of a thought.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me how I would hear a positively oriented signal?",
+        "start_offset": 0,
+        "end_offset": 62,
+        "start": 2.46,
+        "end": 6.801
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 63,
+        "end_offset": 71,
+        "start": 12.041,
+        "end": 14.201
+      },
+      {
+        "segment": "Two types there are of positive signal.",
+        "start_offset": 72,
+        "end_offset": 111,
+        "start": 16.581,
+        "end": 25.362
+      },
+      {
+        "segment": "First, in the right ear location the signal indicates a sign that you are being given some unworded message saying, \"Listen.",
+        "start_offset": 112,
+        "end_offset": 236,
+        "start": 26.642,
+        "end": 63.026
+      },
+      {
+        "segment": "Take heed.",
+        "start_offset": 237,
+        "end_offset": 247,
+        "start": 64.006,
+        "end": 65.686
+      },
+      {
+        "segment": "The other positive sign is the tone above the head which is a balanced confirmation of a thought.",
+        "start_offset": 250,
+        "end_offset": 347,
+        "start": 67.186,
+        "end": 92.068
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.46,
+        "end": 2.64,
+        "score": -5.5346
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 2.66,
+        "end": 2.72,
+        "score": -8.502
+      },
+      {
+        "word": "tell",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 2.8,
+        "end": 3.0,
+        "score": -9.014
+      },
+      {
+        "word": "me",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 3.02,
+        "end": 4.56,
+        "score": -6.4502
+      },
+      {
+        "word": "how",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 4.66,
+        "end": 4.8,
+        "score": -8.062
+      },
+      {
+        "word": "I",
+        "start_offset": 20,
+        "end_offset": 21,
+        "start": 4.82,
+        "end": 4.84,
+        "score": -6.6263
+      },
+      {
+        "word": "would",
+        "start_offset": 22,
+        "end_offset": 27,
+        "start": 4.86,
+        "end": 4.98,
+        "score": -8.896
+      },
+      {
+        "word": "hear",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 5.0,
+        "end": 5.14,
+        "score": -7.3968
+      },
+      {
+        "word": "a",
+        "start_offset": 33,
+        "end_offset": 34,
+        "start": 5.18,
+        "end": 5.2,
+        "score": -6.1389
+      },
+      {
+        "word": "positively",
+        "start_offset": 35,
+        "end_offset": 45,
+        "start": 5.26,
+        "end": 5.921,
+        "score": -8.1668
+      },
+      {
+        "word": "oriented",
+        "start_offset": 46,
+        "end_offset": 54,
+        "start": 6.001,
+        "end": 6.401,
+        "score": -7.9601
+      },
+      {
+        "word": "signal?",
+        "start_offset": 55,
+        "end_offset": 62,
+        "start": 6.441,
+        "end": 6.801,
+        "score": -7.0388
+      },
+      {
+        "word": "I",
+        "start_offset": 63,
+        "end_offset": 64,
+        "start": 12.041,
+        "end": 12.061,
+        "score": -0.8437
+      },
+      {
+        "word": "am",
+        "start_offset": 65,
+        "end_offset": 67,
+        "start": 12.961,
+        "end": 13.161,
+        "score": -4.6732
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 68,
+        "end_offset": 71,
+        "start": 14.081,
+        "end": 14.201,
+        "score": -0.8785
+      },
+      {
+        "word": "Two",
+        "start_offset": 72,
+        "end_offset": 75,
+        "start": 16.581,
+        "end": 16.941,
+        "score": -1.0705
+      },
+      {
+        "word": "types",
+        "start_offset": 76,
+        "end_offset": 81,
+        "start": 17.622,
+        "end": 18.242,
+        "score": -0.9672
+      },
+      {
+        "word": "there",
+        "start_offset": 82,
+        "end_offset": 87,
+        "start": 18.822,
+        "end": 19.222,
+        "score": -0.8141
+      },
+      {
+        "word": "are",
+        "start_offset": 88,
+        "end_offset": 91,
+        "start": 19.782,
+        "end": 20.102,
+        "score": -0.9916
+      },
+      {
+        "word": "of",
+        "start_offset": 92,
+        "end_offset": 94,
+        "start": 21.202,
+        "end": 21.522,
+        "score": -0.7587
+      },
+      {
+        "word": "positive",
+        "start_offset": 95,
+        "end_offset": 103,
+        "start": 22.382,
+        "end": 23.682,
+        "score": -0.7184
+      },
+      {
+        "word": "signal.",
+        "start_offset": 104,
+        "end_offset": 111,
+        "start": 24.682,
+        "end": 25.362,
+        "score": -0.6955
+      },
+      {
+        "word": "First,",
+        "start_offset": 112,
+        "end_offset": 118,
+        "start": 26.642,
+        "end": 27.302,
+        "score": -0.7113
+      },
+      {
+        "word": "in",
+        "start_offset": 119,
+        "end_offset": 121,
+        "start": 28.463,
+        "end": 28.723,
+        "score": -0.7006
+      },
+      {
+        "word": "the",
+        "start_offset": 122,
+        "end_offset": 125,
+        "start": 29.223,
+        "end": 29.343,
+        "score": -0.9702
+      },
+      {
+        "word": "right",
+        "start_offset": 126,
+        "end_offset": 131,
+        "start": 30.023,
+        "end": 30.483,
+        "score": -0.7892
+      },
+      {
+        "word": "ear",
+        "start_offset": 132,
+        "end_offset": 135,
+        "start": 31.543,
+        "end": 31.823,
+        "score": -1.1833
+      },
+      {
+        "word": "location",
+        "start_offset": 136,
+        "end_offset": 144,
+        "start": 32.643,
+        "end": 33.943,
+        "score": -0.7463
+      },
+      {
+        "word": "the",
+        "start_offset": 145,
+        "end_offset": 148,
+        "start": 35.643,
+        "end": 35.803,
+        "score": -0.7516
+      },
+      {
+        "word": "signal",
+        "start_offset": 149,
+        "end_offset": 155,
+        "start": 36.903,
+        "end": 37.583,
+        "score": -0.6953
+      },
+      {
+        "word": "indicates",
+        "start_offset": 156,
+        "end_offset": 165,
+        "start": 38.583,
+        "end": 39.784,
+        "score": -0.703
+      },
+      {
+        "word": "a",
+        "start_offset": 166,
+        "end_offset": 167,
+        "start": 41.024,
+        "end": 41.044,
+        "score": -0.7575
+      },
+      {
+        "word": "sign",
+        "start_offset": 168,
+        "end_offset": 172,
+        "start": 41.684,
+        "end": 42.364,
+        "score": -0.7757
+      },
+      {
+        "word": "that",
+        "start_offset": 173,
+        "end_offset": 177,
+        "start": 43.544,
+        "end": 43.964,
+        "score": -0.7625
+      },
+      {
+        "word": "you",
+        "start_offset": 178,
+        "end_offset": 181,
+        "start": 45.424,
+        "end": 45.564,
+        "score": -0.8169
+      },
+      {
+        "word": "are",
+        "start_offset": 182,
+        "end_offset": 185,
+        "start": 46.644,
+        "end": 47.024,
+        "score": -1.1032
+      },
+      {
+        "word": "being",
+        "start_offset": 186,
+        "end_offset": 191,
+        "start": 47.784,
+        "end": 48.284,
+        "score": -0.7225
+      },
+      {
+        "word": "given",
+        "start_offset": 192,
+        "end_offset": 197,
+        "start": 49.464,
+        "end": 50.024,
+        "score": -0.7065
+      },
+      {
+        "word": "some",
+        "start_offset": 198,
+        "end_offset": 202,
+        "start": 51.765,
+        "end": 52.405,
+        "score": -0.7716
+      },
+      {
+        "word": "unworded",
+        "start_offset": 203,
+        "end_offset": 211,
+        "start": 54.645,
+        "end": 56.265,
+        "score": -0.7055
+      },
+      {
+        "word": "message",
+        "start_offset": 212,
+        "end_offset": 219,
+        "start": 57.225,
+        "end": 57.925,
+        "score": -0.7866
+      },
+      {
+        "word": "saying,",
+        "start_offset": 220,
+        "end_offset": 227,
+        "start": 59.065,
+        "end": 59.745,
+        "score": -0.7538
+      },
+      {
+        "word": "\"Listen.",
+        "start_offset": 228,
+        "end_offset": 236,
+        "start": 62.505,
+        "end": 63.026,
+        "score": -1.0811
+      },
+      {
+        "word": "Take",
+        "start_offset": 237,
+        "end_offset": 241,
+        "start": 64.006,
+        "end": 64.526,
+        "score": -0.7095
+      },
+      {
+        "word": "heed.",
+        "start_offset": 242,
+        "end_offset": 247,
+        "start": 65.186,
+        "end": 65.686,
+        "score": -0.9689
+      },
+      {
+        "word": "The",
+        "start_offset": 250,
+        "end_offset": 253,
+        "start": 67.186,
+        "end": 67.326,
+        "score": -0.8161
+      },
+      {
+        "word": "other",
+        "start_offset": 254,
+        "end_offset": 259,
+        "start": 68.366,
+        "end": 68.746,
+        "score": -0.7061
+      },
+      {
+        "word": "positive",
+        "start_offset": 260,
+        "end_offset": 268,
+        "start": 69.666,
+        "end": 70.666,
+        "score": -0.7459
+      },
+      {
+        "word": "sign",
+        "start_offset": 269,
+        "end_offset": 273,
+        "start": 71.546,
+        "end": 72.066,
+        "score": -0.7494
+      },
+      {
+        "word": "is",
+        "start_offset": 274,
+        "end_offset": 276,
+        "start": 73.286,
+        "end": 73.626,
+        "score": -0.7123
+      },
+      {
+        "word": "the",
+        "start_offset": 277,
+        "end_offset": 280,
+        "start": 74.267,
+        "end": 74.407,
+        "score": -0.7382
+      },
+      {
+        "word": "tone",
+        "start_offset": 281,
+        "end_offset": 285,
+        "start": 75.227,
+        "end": 75.767,
+        "score": -0.936
+      },
+      {
+        "word": "above",
+        "start_offset": 286,
+        "end_offset": 291,
+        "start": 76.947,
+        "end": 77.747,
+        "score": -1.1084
+      },
+      {
+        "word": "the",
+        "start_offset": 292,
+        "end_offset": 295,
+        "start": 78.487,
+        "end": 78.607,
+        "score": -0.7696
+      },
+      {
+        "word": "head",
+        "start_offset": 296,
+        "end_offset": 300,
+        "start": 79.187,
+        "end": 79.607,
+        "score": -0.7273
+      },
+      {
+        "word": "which",
+        "start_offset": 301,
+        "end_offset": 306,
+        "start": 80.887,
+        "end": 81.347,
+        "score": -0.7288
+      },
+      {
+        "word": "is",
+        "start_offset": 307,
+        "end_offset": 309,
+        "start": 82.227,
+        "end": 82.607,
+        "score": -0.7113
+      },
+      {
+        "word": "a",
+        "start_offset": 310,
+        "end_offset": 311,
+        "start": 83.887,
+        "end": 83.907,
+        "score": -0.7216
+      },
+      {
+        "word": "balanced",
+        "start_offset": 312,
+        "end_offset": 320,
+        "start": 84.867,
+        "end": 85.748,
+        "score": -0.7015
+      },
+      {
+        "word": "confirmation",
+        "start_offset": 321,
+        "end_offset": 333,
+        "start": 86.448,
+        "end": 88.348,
+        "score": -0.724
+      },
+      {
+        "word": "of",
+        "start_offset": 334,
+        "end_offset": 336,
+        "start": 89.628,
+        "end": 89.968,
+        "score": -0.7905
+      },
+      {
+        "word": "a",
+        "start_offset": 337,
+        "end_offset": 338,
+        "start": 90.688,
+        "end": 90.708,
+        "score": -0.8259
+      },
+      {
+        "word": "thought.",
+        "start_offset": 339,
+        "end_offset": 347,
+        "start": 91.588,
+        "end": 92.068,
+        "score": -1.3115
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "044-04.mp3",
+    "audio_duration": 93.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

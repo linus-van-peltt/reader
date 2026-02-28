@@ -1,0 +1,72 @@
+{
+  "text": "Is there another clue at this time?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there another clue at this time?",
+        "start_offset": 104,
+        "end_offset": 180,
+        "start": 8.32,
+        "end": 14.4
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 104,
+        "end_offset": 108,
+        "start": 8.32,
+        "end": 8.64
+      },
+      {
+        "word": "there",
+        "start_offset": 112,
+        "end_offset": 116,
+        "start": 8.96,
+        "end": 9.28
+      },
+      {
+        "word": "another",
+        "start_offset": 132,
+        "end_offset": 144,
+        "start": 10.56,
+        "end": 11.52
+      },
+      {
+        "word": "clue",
+        "start_offset": 148,
+        "end_offset": 159,
+        "start": 11.84,
+        "end": 12.72
+      },
+      {
+        "word": "at",
+        "start_offset": 169,
+        "end_offset": 173,
+        "start": 13.52,
+        "end": 13.84
+      },
+      {
+        "word": "this",
+        "start_offset": 173,
+        "end_offset": 177,
+        "start": 13.84,
+        "end": 14.16
+      },
+      {
+        "word": "time?",
+        "start_offset": 177,
+        "end_offset": 180,
+        "start": 14.16,
+        "end": 14.4
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "001-08.mp3",
+    "audio_duration": 19.04,
+    "transcription_time": 0.09,
+    "rtfx": 203.7,
+    "timestamp": "2026-01-06T21:45:26.623956+00:00"
+  }
+}

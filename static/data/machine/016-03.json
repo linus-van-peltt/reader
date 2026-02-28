@@ -1,0 +1,240 @@
+{
+  "text": "with these windows that occurred right through once in a while. Does this have anything to do with this free will distortion for high and raw. This is cold.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "with these windows that occurred right through once in a while.",
+        "start_offset": 39,
+        "end_offset": 150,
+        "start": 3.12,
+        "end": 12.0
+      },
+      {
+        "segment": "Does this have anything to do with this free will distortion for high and raw.",
+        "start_offset": 166,
+        "end_offset": 294,
+        "start": 13.280000000000001,
+        "end": 23.52
+      },
+      {
+        "segment": "This is cold.",
+        "start_offset": 312,
+        "end_offset": 339,
+        "start": 24.96,
+        "end": 27.12
+      }
+    ],
+    "word": [
+      {
+        "word": "with",
+        "start_offset": 39,
+        "end_offset": 41,
+        "start": 3.12,
+        "end": 3.2800000000000002
+      },
+      {
+        "word": "these",
+        "start_offset": 44,
+        "end_offset": 48,
+        "start": 3.52,
+        "end": 3.84
+      },
+      {
+        "word": "windows",
+        "start_offset": 56,
+        "end_offset": 65,
+        "start": 4.48,
+        "end": 5.2
+      },
+      {
+        "word": "that",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 5.2,
+        "end": 5.44
+      },
+      {
+        "word": "occurred",
+        "start_offset": 68,
+        "end_offset": 74,
+        "start": 5.44,
+        "end": 5.92
+      },
+      {
+        "word": "right",
+        "start_offset": 103,
+        "end_offset": 105,
+        "start": 8.24,
+        "end": 8.4
+      },
+      {
+        "word": "through",
+        "start_offset": 126,
+        "end_offset": 134,
+        "start": 10.08,
+        "end": 10.72
+      },
+      {
+        "word": "once",
+        "start_offset": 137,
+        "end_offset": 141,
+        "start": 10.96,
+        "end": 11.28
+      },
+      {
+        "word": "in",
+        "start_offset": 141,
+        "end_offset": 143,
+        "start": 11.28,
+        "end": 11.44
+      },
+      {
+        "word": "a",
+        "start_offset": 143,
+        "end_offset": 145,
+        "start": 11.44,
+        "end": 11.6
+      },
+      {
+        "word": "while.",
+        "start_offset": 145,
+        "end_offset": 150,
+        "start": 11.6,
+        "end": 12.0
+      },
+      {
+        "word": "Does",
+        "start_offset": 166,
+        "end_offset": 169,
+        "start": 13.280000000000001,
+        "end": 13.52
+      },
+      {
+        "word": "this",
+        "start_offset": 169,
+        "end_offset": 172,
+        "start": 13.52,
+        "end": 13.76
+      },
+      {
+        "word": "have",
+        "start_offset": 172,
+        "end_offset": 175,
+        "start": 13.76,
+        "end": 14.0
+      },
+      {
+        "word": "anything",
+        "start_offset": 175,
+        "end_offset": 180,
+        "start": 14.0,
+        "end": 14.4
+      },
+      {
+        "word": "to",
+        "start_offset": 180,
+        "end_offset": 183,
+        "start": 14.4,
+        "end": 14.64
+      },
+      {
+        "word": "do",
+        "start_offset": 183,
+        "end_offset": 185,
+        "start": 14.64,
+        "end": 14.8
+      },
+      {
+        "word": "with",
+        "start_offset": 185,
+        "end_offset": 188,
+        "start": 14.8,
+        "end": 15.040000000000001
+      },
+      {
+        "word": "this",
+        "start_offset": 188,
+        "end_offset": 191,
+        "start": 15.040000000000001,
+        "end": 15.280000000000001
+      },
+      {
+        "word": "free",
+        "start_offset": 207,
+        "end_offset": 210,
+        "start": 16.56,
+        "end": 16.8
+      },
+      {
+        "word": "will",
+        "start_offset": 213,
+        "end_offset": 215,
+        "start": 17.04,
+        "end": 17.2
+      },
+      {
+        "word": "distortion",
+        "start_offset": 217,
+        "end_offset": 222,
+        "start": 17.36,
+        "end": 17.76
+      },
+      {
+        "word": "for",
+        "start_offset": 227,
+        "end_offset": 229,
+        "start": 18.16,
+        "end": 18.32
+      },
+      {
+        "word": "high",
+        "start_offset": 262,
+        "end_offset": 270,
+        "start": 20.96,
+        "end": 21.6
+      },
+      {
+        "word": "and",
+        "start_offset": 275,
+        "end_offset": 279,
+        "start": 22.0,
+        "end": 22.32
+      },
+      {
+        "word": "raw.",
+        "start_offset": 286,
+        "end_offset": 294,
+        "start": 22.88,
+        "end": 23.52
+      },
+      {
+        "word": "This",
+        "start_offset": 312,
+        "end_offset": 314,
+        "start": 24.96,
+        "end": 25.12
+      },
+      {
+        "word": "is",
+        "start_offset": 324,
+        "end_offset": 328,
+        "start": 25.92,
+        "end": 26.240000000000002
+      },
+      {
+        "word": "cold.",
+        "start_offset": 332,
+        "end_offset": 339,
+        "start": 26.560000000000002,
+        "end": 27.12
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-03.mp3",
+    "audio_duration": 28.03,
+    "transcription_time": 0.09,
+    "rtfx": 302.97,
+    "timestamp": "2026-01-06T21:47:29.818047+00:00"
+  }
+}

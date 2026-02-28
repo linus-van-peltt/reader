@@ -1,0 +1,363 @@
+{
+  "text": "Can you name the entity that they sent here twenty-six hundred years ago… two thousand six hundred years ago? The correct time frame is 3, 600 years. See Ra's statement opening session 17. I am Ra. This entity named by your peoples, Yahweh.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you name the entity that they sent here twenty-six hundred years ago… two thousand six hundred years ago?",
+        "start_offset": 0,
+        "end_offset": 109,
+        "start": 2.181,
+        "end": 6.562
+      },
+      {
+        "segment": "The correct time frame is years.",
+        "start_offset": 110,
+        "end_offset": 149,
+        "start": 6.582,
+        "end": 7.783
+      },
+      {
+        "segment": "See Ra's statement opening session I am Ra.",
+        "start_offset": 150,
+        "end_offset": 197,
+        "start": 7.803,
+        "end": 17.266
+      },
+      {
+        "segment": "This entity named by your peoples, Yahweh.",
+        "start_offset": 198,
+        "end_offset": 240,
+        "start": 17.306,
+        "end": 25.789
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.181,
+        "end": 2.321,
+        "score": -8.8316
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 2.341,
+        "end": 2.401,
+        "score": -6.5139
+      },
+      {
+        "word": "name",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 2.421,
+        "end": 2.501,
+        "score": -6.7292
+      },
+      {
+        "word": "the",
+        "start_offset": 13,
+        "end_offset": 16,
+        "start": 2.521,
+        "end": 2.581,
+        "score": -5.3078
+      },
+      {
+        "word": "entity",
+        "start_offset": 17,
+        "end_offset": 23,
+        "start": 2.601,
+        "end": 2.781,
+        "score": -4.9018
+      },
+      {
+        "word": "that",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 2.881,
+        "end": 3.181,
+        "score": -4.2836
+      },
+      {
+        "word": "they",
+        "start_offset": 29,
+        "end_offset": 33,
+        "start": 3.201,
+        "end": 3.301,
+        "score": -5.9509
+      },
+      {
+        "word": "sent",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 3.361,
+        "end": 3.561,
+        "score": -4.2122
+      },
+      {
+        "word": "here",
+        "start_offset": 39,
+        "end_offset": 43,
+        "start": 3.581,
+        "end": 3.681,
+        "score": -6.2577
+      },
+      {
+        "word": "twenty-six",
+        "start_offset": 44,
+        "end_offset": 54,
+        "start": 3.701,
+        "end": 3.921,
+        "score": -6.844
+      },
+      {
+        "word": "hundred",
+        "start_offset": 55,
+        "end_offset": 62,
+        "start": 3.941,
+        "end": 4.161,
+        "score": -6.4061
+      },
+      {
+        "word": "years",
+        "start_offset": 63,
+        "end_offset": 68,
+        "start": 4.181,
+        "end": 4.562,
+        "score": -6.1956
+      },
+      {
+        "word": "ago…",
+        "start_offset": 69,
+        "end_offset": 73,
+        "start": 4.622,
+        "end": 4.682,
+        "score": -6.7058
+      },
+      {
+        "word": "two",
+        "start_offset": 74,
+        "end_offset": 77,
+        "start": 4.702,
+        "end": 4.802,
+        "score": -6.383
+      },
+      {
+        "word": "thousand",
+        "start_offset": 78,
+        "end_offset": 86,
+        "start": 4.862,
+        "end": 5.142,
+        "score": -5.8815
+      },
+      {
+        "word": "six",
+        "start_offset": 87,
+        "end_offset": 90,
+        "start": 5.162,
+        "end": 5.242,
+        "score": -6.6527
+      },
+      {
+        "word": "hundred",
+        "start_offset": 91,
+        "end_offset": 98,
+        "start": 5.262,
+        "end": 5.542,
+        "score": -5.107
+      },
+      {
+        "word": "years",
+        "start_offset": 99,
+        "end_offset": 104,
+        "start": 5.562,
+        "end": 6.342,
+        "score": -6.5361
+      },
+      {
+        "word": "ago?",
+        "start_offset": 105,
+        "end_offset": 109,
+        "start": 6.382,
+        "end": 6.562,
+        "score": -5.7228
+      },
+      {
+        "word": "The",
+        "start_offset": 110,
+        "end_offset": 113,
+        "start": 6.582,
+        "end": 6.642,
+        "score": -5.7208
+      },
+      {
+        "word": "correct",
+        "start_offset": 114,
+        "end_offset": 121,
+        "start": 6.662,
+        "end": 6.842,
+        "score": -6.0285
+      },
+      {
+        "word": "time",
+        "start_offset": 122,
+        "end_offset": 126,
+        "start": 6.862,
+        "end": 6.962,
+        "score": -5.8522
+      },
+      {
+        "word": "frame",
+        "start_offset": 127,
+        "end_offset": 132,
+        "start": 7.262,
+        "end": 7.382,
+        "score": -7.1522
+      },
+      {
+        "word": "is",
+        "start_offset": 133,
+        "end_offset": 135,
+        "start": 7.422,
+        "end": 7.463,
+        "score": -6.387
+      },
+      {
+        "word": "years.",
+        "start_offset": 143,
+        "end_offset": 149,
+        "start": 7.483,
+        "end": 7.783,
+        "score": -4.8789
+      },
+      {
+        "word": "See",
+        "start_offset": 150,
+        "end_offset": 153,
+        "start": 7.803,
+        "end": 7.903,
+        "score": -5.2404
+      },
+      {
+        "word": "Ra's",
+        "start_offset": 154,
+        "end_offset": 158,
+        "start": 7.943,
+        "end": 13.364,
+        "score": -7.7098
+      },
+      {
+        "word": "statement",
+        "start_offset": 159,
+        "end_offset": 168,
+        "start": 13.385,
+        "end": 14.765,
+        "score": -5.8504
+      },
+      {
+        "word": "opening",
+        "start_offset": 169,
+        "end_offset": 176,
+        "start": 15.425,
+        "end": 15.745,
+        "score": -6.4281
+      },
+      {
+        "word": "session",
+        "start_offset": 177,
+        "end_offset": 184,
+        "start": 15.765,
+        "end": 15.945,
+        "score": -6.741
+      },
+      {
+        "word": "I",
+        "start_offset": 189,
+        "end_offset": 190,
+        "start": 15.985,
+        "end": 16.005,
+        "score": -7.3505
+      },
+      {
+        "word": "am",
+        "start_offset": 191,
+        "end_offset": 193,
+        "start": 16.025,
+        "end": 17.126,
+        "score": -5.931
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 194,
+        "end_offset": 197,
+        "start": 17.226,
+        "end": 17.266,
+        "score": -4.0066
+      },
+      {
+        "word": "This",
+        "start_offset": 198,
+        "end_offset": 202,
+        "start": 17.306,
+        "end": 17.626,
+        "score": -0.8552
+      },
+      {
+        "word": "entity",
+        "start_offset": 203,
+        "end_offset": 209,
+        "start": 18.466,
+        "end": 18.906,
+        "score": -1.1554
+      },
+      {
+        "word": "named",
+        "start_offset": 210,
+        "end_offset": 215,
+        "start": 20.187,
+        "end": 20.727,
+        "score": -1.2375
+      },
+      {
+        "word": "by",
+        "start_offset": 216,
+        "end_offset": 218,
+        "start": 21.447,
+        "end": 21.807,
+        "score": -1.2981
+      },
+      {
+        "word": "your",
+        "start_offset": 219,
+        "end_offset": 223,
+        "start": 22.688,
+        "end": 22.968,
+        "score": -1.446
+      },
+      {
+        "word": "peoples,",
+        "start_offset": 224,
+        "end_offset": 232,
+        "start": 23.648,
+        "end": 24.148,
+        "score": -3.7794
+      },
+      {
+        "word": "Yahweh.",
+        "start_offset": 233,
+        "end_offset": 240,
+        "start": 25.148,
+        "end": 25.789,
+        "score": -2.8313
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-14.mp3",
+    "audio_duration": 28.0294,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

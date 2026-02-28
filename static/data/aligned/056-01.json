@@ -1,0 +1,372 @@
+{
+  "text": "Would you first please give me an indication of the condition of the instrument? I am Ra. This instrument is severely distorted towards weakness of the mental and physical complexes at this time and is under psychic attack due to this opportunity.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would you first please give me an indication of the condition of the instrument?",
+        "start_offset": 0,
+        "end_offset": 80,
+        "start": 10.621,
+        "end": 14.481
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 81,
+        "end_offset": 89,
+        "start": 14.501,
+        "end": 14.961
+      },
+      {
+        "segment": "This instrument is severely distorted towards weakness of the mental and physical complexes at this time and is under psychic attack due to this opportunity.",
+        "start_offset": 90,
+        "end_offset": 247,
+        "start": 16.982,
+        "end": 69.147
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 10.621,
+        "end": 10.741,
+        "score": -8.2852
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 10.781,
+        "end": 10.921,
+        "score": -7.7743
+      },
+      {
+        "word": "first",
+        "start_offset": 10,
+        "end_offset": 15,
+        "start": 10.941,
+        "end": 11.041,
+        "score": -6.9753
+      },
+      {
+        "word": "please",
+        "start_offset": 16,
+        "end_offset": 22,
+        "start": 11.061,
+        "end": 11.301,
+        "score": -7.2267
+      },
+      {
+        "word": "give",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 11.321,
+        "end": 11.401,
+        "score": -6.8328
+      },
+      {
+        "word": "me",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 11.421,
+        "end": 11.461,
+        "score": -7.8908
+      },
+      {
+        "word": "an",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 12.321,
+        "end": 12.521,
+        "score": -5.1479
+      },
+      {
+        "word": "indication",
+        "start_offset": 34,
+        "end_offset": 44,
+        "start": 12.541,
+        "end": 13.721,
+        "score": -7.4542
+      },
+      {
+        "word": "of",
+        "start_offset": 45,
+        "end_offset": 47,
+        "start": 13.741,
+        "end": 13.781,
+        "score": -8.4231
+      },
+      {
+        "word": "the",
+        "start_offset": 48,
+        "end_offset": 51,
+        "start": 13.821,
+        "end": 13.881,
+        "score": -7.357
+      },
+      {
+        "word": "condition",
+        "start_offset": 52,
+        "end_offset": 61,
+        "start": 13.921,
+        "end": 14.101,
+        "score": -7.0238
+      },
+      {
+        "word": "of",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 14.121,
+        "end": 14.161,
+        "score": -7.4138
+      },
+      {
+        "word": "the",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 14.181,
+        "end": 14.241,
+        "score": -5.8463
+      },
+      {
+        "word": "instrument?",
+        "start_offset": 69,
+        "end_offset": 80,
+        "start": 14.261,
+        "end": 14.481,
+        "score": -8.3478
+      },
+      {
+        "word": "I",
+        "start_offset": 81,
+        "end_offset": 82,
+        "start": 14.501,
+        "end": 14.521,
+        "score": -8.4676
+      },
+      {
+        "word": "am",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 14.541,
+        "end": 14.621,
+        "score": -8.6358
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 86,
+        "end_offset": 89,
+        "start": 14.681,
+        "end": 14.961,
+        "score": -8.5538
+      },
+      {
+        "word": "This",
+        "start_offset": 90,
+        "end_offset": 94,
+        "start": 16.982,
+        "end": 17.422,
+        "score": -0.9032
+      },
+      {
+        "word": "instrument",
+        "start_offset": 95,
+        "end_offset": 105,
+        "start": 18.982,
+        "end": 20.242,
+        "score": -0.7257
+      },
+      {
+        "word": "is",
+        "start_offset": 106,
+        "end_offset": 108,
+        "start": 22.322,
+        "end": 22.722,
+        "score": -0.7411
+      },
+      {
+        "word": "severely",
+        "start_offset": 109,
+        "end_offset": 117,
+        "start": 23.722,
+        "end": 25.062,
+        "score": -1.0665
+      },
+      {
+        "word": "distorted",
+        "start_offset": 118,
+        "end_offset": 127,
+        "start": 26.763,
+        "end": 28.123,
+        "score": -0.717
+      },
+      {
+        "word": "towards",
+        "start_offset": 128,
+        "end_offset": 135,
+        "start": 29.723,
+        "end": 30.663,
+        "score": -2.8261
+      },
+      {
+        "word": "weakness",
+        "start_offset": 136,
+        "end_offset": 144,
+        "start": 33.043,
+        "end": 34.023,
+        "score": -0.7063
+      },
+      {
+        "word": "of",
+        "start_offset": 145,
+        "end_offset": 147,
+        "start": 35.643,
+        "end": 35.964,
+        "score": -0.8507
+      },
+      {
+        "word": "the",
+        "start_offset": 148,
+        "end_offset": 151,
+        "start": 36.324,
+        "end": 36.484,
+        "score": -0.7551
+      },
+      {
+        "word": "mental",
+        "start_offset": 152,
+        "end_offset": 158,
+        "start": 37.984,
+        "end": 38.664,
+        "score": -0.7026
+      },
+      {
+        "word": "and",
+        "start_offset": 159,
+        "end_offset": 162,
+        "start": 39.644,
+        "end": 40.044,
+        "score": -0.8741
+      },
+      {
+        "word": "physical",
+        "start_offset": 163,
+        "end_offset": 171,
+        "start": 41.404,
+        "end": 42.704,
+        "score": -1.0016
+      },
+      {
+        "word": "complexes",
+        "start_offset": 172,
+        "end_offset": 181,
+        "start": 43.944,
+        "end": 45.764,
+        "score": -0.7803
+      },
+      {
+        "word": "at",
+        "start_offset": 182,
+        "end_offset": 184,
+        "start": 47.705,
+        "end": 47.945,
+        "score": -0.7633
+      },
+      {
+        "word": "this",
+        "start_offset": 185,
+        "end_offset": 189,
+        "start": 48.565,
+        "end": 48.965,
+        "score": -0.7725
+      },
+      {
+        "word": "time",
+        "start_offset": 190,
+        "end_offset": 194,
+        "start": 49.685,
+        "end": 50.265,
+        "score": -0.8689
+      },
+      {
+        "word": "and",
+        "start_offset": 195,
+        "end_offset": 198,
+        "start": 51.685,
+        "end": 52.085,
+        "score": -0.8317
+      },
+      {
+        "word": "is",
+        "start_offset": 199,
+        "end_offset": 201,
+        "start": 52.765,
+        "end": 53.185,
+        "score": -0.766
+      },
+      {
+        "word": "under",
+        "start_offset": 202,
+        "end_offset": 207,
+        "start": 55.025,
+        "end": 55.725,
+        "score": -0.7264
+      },
+      {
+        "word": "psychic",
+        "start_offset": 208,
+        "end_offset": 215,
+        "start": 57.286,
+        "end": 58.406,
+        "score": -2.8043
+      },
+      {
+        "word": "attack",
+        "start_offset": 216,
+        "end_offset": 222,
+        "start": 59.846,
+        "end": 60.766,
+        "score": -1.3149
+      },
+      {
+        "word": "due",
+        "start_offset": 223,
+        "end_offset": 226,
+        "start": 62.086,
+        "end": 62.586,
+        "score": -2.0762
+      },
+      {
+        "word": "to",
+        "start_offset": 227,
+        "end_offset": 229,
+        "start": 63.286,
+        "end": 63.506,
+        "score": -2.751
+      },
+      {
+        "word": "this",
+        "start_offset": 230,
+        "end_offset": 234,
+        "start": 65.166,
+        "end": 65.686,
+        "score": -0.9497
+      },
+      {
+        "word": "opportunity.",
+        "start_offset": 235,
+        "end_offset": 247,
+        "start": 67.167,
+        "end": 69.147,
+        "score": -1.5332
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "056-01.mp3",
+    "audio_duration": 71.0269,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

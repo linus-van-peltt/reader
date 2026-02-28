@@ -1,0 +1,317 @@
+{
+  "text": "then every entity that exists would be a at least a some type of sub or subsublogos. Is this correct? I am wrong. This is correct down to the limits of any observation for the entire creation is alive.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "then every entity that exists would be a at least a some type of sub or subsublogos.",
+        "start_offset": 24,
+        "end_offset": 137,
+        "start": 1.92,
+        "end": 10.96
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 138,
+        "end_offset": 153,
+        "start": 11.040000000000001,
+        "end": 12.24
+      },
+      {
+        "segment": "I am wrong.",
+        "start_offset": 207,
+        "end_offset": 238,
+        "start": 16.56,
+        "end": 19.04
+      },
+      {
+        "segment": "This is correct down to the limits of any observation for the entire creation is alive.",
+        "start_offset": 253,
+        "end_offset": 531,
+        "start": 20.240000000000002,
+        "end": 42.480000000000004
+      }
+    ],
+    "word": [
+      {
+        "word": "then",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 1.92,
+        "end": 2.08
+      },
+      {
+        "word": "every",
+        "start_offset": 32,
+        "end_offset": 40,
+        "start": 2.56,
+        "end": 3.2
+      },
+      {
+        "word": "entity",
+        "start_offset": 40,
+        "end_offset": 48,
+        "start": 3.2,
+        "end": 3.84
+      },
+      {
+        "word": "that",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 5.44,
+        "end": 5.76
+      },
+      {
+        "word": "exists",
+        "start_offset": 75,
+        "end_offset": 83,
+        "start": 6.0,
+        "end": 6.640000000000001
+      },
+      {
+        "word": "would",
+        "start_offset": 83,
+        "end_offset": 86,
+        "start": 6.640000000000001,
+        "end": 6.88
+      },
+      {
+        "word": "be",
+        "start_offset": 86,
+        "end_offset": 88,
+        "start": 6.88,
+        "end": 7.04
+      },
+      {
+        "word": "a",
+        "start_offset": 88,
+        "end_offset": 91,
+        "start": 7.04,
+        "end": 7.28
+      },
+      {
+        "word": "at",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 7.28,
+        "end": 7.44
+      },
+      {
+        "word": "least",
+        "start_offset": 93,
+        "end_offset": 96,
+        "start": 7.44,
+        "end": 7.68
+      },
+      {
+        "word": "a",
+        "start_offset": 97,
+        "end_offset": 100,
+        "start": 7.76,
+        "end": 8.0
+      },
+      {
+        "word": "some",
+        "start_offset": 100,
+        "end_offset": 102,
+        "start": 8.0,
+        "end": 8.16
+      },
+      {
+        "word": "type",
+        "start_offset": 104,
+        "end_offset": 109,
+        "start": 8.32,
+        "end": 8.72
+      },
+      {
+        "word": "of",
+        "start_offset": 109,
+        "end_offset": 113,
+        "start": 8.72,
+        "end": 9.040000000000001
+      },
+      {
+        "word": "sub",
+        "start_offset": 113,
+        "end_offset": 117,
+        "start": 9.040000000000001,
+        "end": 9.36
+      },
+      {
+        "word": "or",
+        "start_offset": 119,
+        "end_offset": 122,
+        "start": 9.52,
+        "end": 9.76
+      },
+      {
+        "word": "subsublogos.",
+        "start_offset": 122,
+        "end_offset": 137,
+        "start": 9.76,
+        "end": 10.96
+      },
+      {
+        "word": "Is",
+        "start_offset": 138,
+        "end_offset": 140,
+        "start": 11.040000000000001,
+        "end": 11.200000000000001
+      },
+      {
+        "word": "this",
+        "start_offset": 140,
+        "end_offset": 143,
+        "start": 11.200000000000001,
+        "end": 11.44
+      },
+      {
+        "word": "correct?",
+        "start_offset": 143,
+        "end_offset": 153,
+        "start": 11.44,
+        "end": 12.24
+      },
+      {
+        "word": "I",
+        "start_offset": 207,
+        "end_offset": 211,
+        "start": 16.56,
+        "end": 16.88
+      },
+      {
+        "word": "am",
+        "start_offset": 219,
+        "end_offset": 223,
+        "start": 17.52,
+        "end": 17.84
+      },
+      {
+        "word": "wrong.",
+        "start_offset": 231,
+        "end_offset": 238,
+        "start": 18.48,
+        "end": 19.04
+      },
+      {
+        "word": "This",
+        "start_offset": 253,
+        "end_offset": 257,
+        "start": 20.240000000000002,
+        "end": 20.56
+      },
+      {
+        "word": "is",
+        "start_offset": 269,
+        "end_offset": 273,
+        "start": 21.52,
+        "end": 21.84
+      },
+      {
+        "word": "correct",
+        "start_offset": 281,
+        "end_offset": 293,
+        "start": 22.48,
+        "end": 23.44
+      },
+      {
+        "word": "down",
+        "start_offset": 311,
+        "end_offset": 315,
+        "start": 24.88,
+        "end": 25.2
+      },
+      {
+        "word": "to",
+        "start_offset": 323,
+        "end_offset": 327,
+        "start": 25.84,
+        "end": 26.16
+      },
+      {
+        "word": "the",
+        "start_offset": 335,
+        "end_offset": 339,
+        "start": 26.8,
+        "end": 27.12
+      },
+      {
+        "word": "limits",
+        "start_offset": 339,
+        "end_offset": 351,
+        "start": 27.12,
+        "end": 28.080000000000002
+      },
+      {
+        "word": "of",
+        "start_offset": 363,
+        "end_offset": 367,
+        "start": 29.04,
+        "end": 29.36
+      },
+      {
+        "word": "any",
+        "start_offset": 383,
+        "end_offset": 387,
+        "start": 30.64,
+        "end": 30.96
+      },
+      {
+        "word": "observation",
+        "start_offset": 403,
+        "end_offset": 419,
+        "start": 32.24,
+        "end": 33.52
+      },
+      {
+        "word": "for",
+        "start_offset": 437,
+        "end_offset": 441,
+        "start": 34.96,
+        "end": 35.28
+      },
+      {
+        "word": "the",
+        "start_offset": 449,
+        "end_offset": 453,
+        "start": 35.92,
+        "end": 36.24
+      },
+      {
+        "word": "entire",
+        "start_offset": 457,
+        "end_offset": 472,
+        "start": 36.56,
+        "end": 37.76
+      },
+      {
+        "word": "creation",
+        "start_offset": 484,
+        "end_offset": 496,
+        "start": 38.72,
+        "end": 39.68
+      },
+      {
+        "word": "is",
+        "start_offset": 515,
+        "end_offset": 519,
+        "start": 41.2,
+        "end": 41.52
+      },
+      {
+        "word": "alive.",
+        "start_offset": 523,
+        "end_offset": 531,
+        "start": 41.84,
+        "end": 42.480000000000004
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "029-08.mp3",
+    "audio_duration": 44.04,
+    "transcription_time": 0.11,
+    "rtfx": 413.5,
+    "timestamp": "2026-01-06T21:49:28.377417+00:00"
+  }
+}

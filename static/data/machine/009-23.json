@@ -1,0 +1,198 @@
+{
+  "text": "The plan to do a second session later today is clear. I have to ask believe this is possible and also present the streets.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "The plan to do a second session later today is clear.",
+        "start_offset": 43,
+        "end_offset": 140,
+        "start": 3.44,
+        "end": 11.200000000000001
+      },
+      {
+        "segment": "I have to ask believe this is possible and also present the streets.",
+        "start_offset": 153,
+        "end_offset": 237,
+        "start": 12.24,
+        "end": 18.96
+      }
+    ],
+    "word": [
+      {
+        "word": "The",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 3.44,
+        "end": 3.68
+      },
+      {
+        "word": "plan",
+        "start_offset": 76,
+        "end_offset": 78,
+        "start": 6.08,
+        "end": 6.24
+      },
+      {
+        "word": "to",
+        "start_offset": 82,
+        "end_offset": 84,
+        "start": 6.5600000000000005,
+        "end": 6.72
+      },
+      {
+        "word": "do",
+        "start_offset": 84,
+        "end_offset": 86,
+        "start": 6.72,
+        "end": 6.88
+      },
+      {
+        "word": "a",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 6.96,
+        "end": 7.12
+      },
+      {
+        "word": "second",
+        "start_offset": 91,
+        "end_offset": 95,
+        "start": 7.28,
+        "end": 7.6000000000000005
+      },
+      {
+        "word": "session",
+        "start_offset": 95,
+        "end_offset": 99,
+        "start": 7.6000000000000005,
+        "end": 7.92
+      },
+      {
+        "word": "later",
+        "start_offset": 103,
+        "end_offset": 106,
+        "start": 8.24,
+        "end": 8.48
+      },
+      {
+        "word": "today",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 8.64,
+        "end": 8.96
+      },
+      {
+        "word": "is",
+        "start_offset": 131,
+        "end_offset": 132,
+        "start": 10.48,
+        "end": 10.56
+      },
+      {
+        "word": "clear.",
+        "start_offset": 137,
+        "end_offset": 140,
+        "start": 10.96,
+        "end": 11.200000000000001
+      },
+      {
+        "word": "I",
+        "start_offset": 153,
+        "end_offset": 154,
+        "start": 12.24,
+        "end": 12.32
+      },
+      {
+        "word": "have",
+        "start_offset": 155,
+        "end_offset": 156,
+        "start": 12.4,
+        "end": 12.48
+      },
+      {
+        "word": "to",
+        "start_offset": 157,
+        "end_offset": 158,
+        "start": 12.56,
+        "end": 12.64
+      },
+      {
+        "word": "ask",
+        "start_offset": 160,
+        "end_offset": 163,
+        "start": 12.8,
+        "end": 13.040000000000001
+      },
+      {
+        "word": "believe",
+        "start_offset": 174,
+        "end_offset": 179,
+        "start": 13.92,
+        "end": 14.32
+      },
+      {
+        "word": "this",
+        "start_offset": 181,
+        "end_offset": 182,
+        "start": 14.48,
+        "end": 14.56
+      },
+      {
+        "word": "is",
+        "start_offset": 184,
+        "end_offset": 185,
+        "start": 14.72,
+        "end": 14.8
+      },
+      {
+        "word": "possible",
+        "start_offset": 189,
+        "end_offset": 194,
+        "start": 15.120000000000001,
+        "end": 15.52
+      },
+      {
+        "word": "and",
+        "start_offset": 197,
+        "end_offset": 198,
+        "start": 15.76,
+        "end": 15.84
+      },
+      {
+        "word": "also",
+        "start_offset": 199,
+        "end_offset": 200,
+        "start": 15.92,
+        "end": 16.0
+      },
+      {
+        "word": "present",
+        "start_offset": 205,
+        "end_offset": 208,
+        "start": 16.4,
+        "end": 16.64
+      },
+      {
+        "word": "the",
+        "start_offset": 217,
+        "end_offset": 218,
+        "start": 17.36,
+        "end": 17.44
+      },
+      {
+        "word": "streets.",
+        "start_offset": 234,
+        "end_offset": 237,
+        "start": 18.72,
+        "end": 18.96
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "009-23.mp3",
+    "audio_duration": 21.03,
+    "transcription_time": 0.09,
+    "rtfx": 228.58,
+    "timestamp": "2026-01-06T21:46:35.716829+00:00"
+  }
+}

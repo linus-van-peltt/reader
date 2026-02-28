@@ -1,0 +1,77 @@
+{
+  "text": "I assume positive? That is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I assume positive?",
+        "start_offset": 0,
+        "end_offset": 18,
+        "start": 1.081,
+        "end": 2.162
+      },
+      {
+        "segment": "That is correct.",
+        "start_offset": 19,
+        "end_offset": 35,
+        "start": 3.342,
+        "end": 7.525
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 1.081,
+        "end": 1.101,
+        "score": -3.4417
+      },
+      {
+        "word": "assume",
+        "start_offset": 2,
+        "end_offset": 8,
+        "start": 1.181,
+        "end": 1.521,
+        "score": -1.8453
+      },
+      {
+        "word": "positive?",
+        "start_offset": 9,
+        "end_offset": 18,
+        "start": 1.581,
+        "end": 2.162,
+        "score": -1.1845
+      },
+      {
+        "word": "That",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 3.342,
+        "end": 3.823,
+        "score": -0.7134
+      },
+      {
+        "word": "is",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 4.904,
+        "end": 5.344,
+        "score": -0.7271
+      },
+      {
+        "word": "correct.",
+        "start_offset": 27,
+        "end_offset": 35,
+        "start": 6.124,
+        "end": 7.525,
+        "score": -1.1282
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "026-18.mp3",
+    "audio_duration": 8.0457,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

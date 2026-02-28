@@ -1,0 +1,156 @@
+{
+  "text": "Is it necessary to eat food in fourth density? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is it necessary to eat food in fourth density?",
+        "start_offset": 0,
+        "end_offset": 46,
+        "start": 1.762,
+        "end": 5.245
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 47,
+        "end_offset": 55,
+        "start": 9.87,
+        "end": 12.032
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 56,
+        "end_offset": 72,
+        "start": 14.294,
+        "end": 17.678
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 1.762,
+        "end": 1.862,
+        "score": -0.7399
+      },
+      {
+        "word": "it",
+        "start_offset": 3,
+        "end_offset": 5,
+        "start": 1.922,
+        "end": 2.022,
+        "score": -0.7373
+      },
+      {
+        "word": "necessary",
+        "start_offset": 6,
+        "end_offset": 15,
+        "start": 2.102,
+        "end": 2.803,
+        "score": -0.6955
+      },
+      {
+        "word": "to",
+        "start_offset": 16,
+        "end_offset": 18,
+        "start": 2.943,
+        "end": 3.043,
+        "score": -0.6993
+      },
+      {
+        "word": "eat",
+        "start_offset": 19,
+        "end_offset": 22,
+        "start": 3.403,
+        "end": 3.584,
+        "score": -0.6953
+      },
+      {
+        "word": "food",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 3.764,
+        "end": 4.164,
+        "score": -0.6985
+      },
+      {
+        "word": "in",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 4.284,
+        "end": 4.344,
+        "score": -0.8205
+      },
+      {
+        "word": "fourth",
+        "start_offset": 31,
+        "end_offset": 37,
+        "start": 4.444,
+        "end": 4.725,
+        "score": -1.7622
+      },
+      {
+        "word": "density?",
+        "start_offset": 38,
+        "end_offset": 46,
+        "start": 4.785,
+        "end": 5.245,
+        "score": -3.037
+      },
+      {
+        "word": "I",
+        "start_offset": 47,
+        "end_offset": 48,
+        "start": 9.87,
+        "end": 9.89,
+        "score": -1.0025
+      },
+      {
+        "word": "am",
+        "start_offset": 49,
+        "end_offset": 51,
+        "start": 10.651,
+        "end": 11.011,
+        "score": -1.528
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 52,
+        "end_offset": 55,
+        "start": 11.852,
+        "end": 12.032,
+        "score": -1.0967
+      },
+      {
+        "word": "This",
+        "start_offset": 56,
+        "end_offset": 60,
+        "start": 14.294,
+        "end": 14.715,
+        "score": -0.7702
+      },
+      {
+        "word": "is",
+        "start_offset": 61,
+        "end_offset": 63,
+        "start": 15.696,
+        "end": 16.016,
+        "score": -0.7141
+      },
+      {
+        "word": "correct.",
+        "start_offset": 64,
+        "end_offset": 72,
+        "start": 16.897,
+        "end": 17.678,
+        "score": -0.734
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "043-17.mp3",
+    "audio_duration": 19.5396,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

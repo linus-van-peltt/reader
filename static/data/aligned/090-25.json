@@ -1,0 +1,308 @@
+{
+  "text": "What were these? I am Ra. One more; that is, the permeability of the densities so that there may be communication from density to density and from plane to plane or sub-density to sub-density.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What were these?",
+        "start_offset": 0,
+        "end_offset": 16,
+        "start": 0.96,
+        "end": 4.701
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 17,
+        "end_offset": 25,
+        "start": 4.981,
+        "end": 7.061
+      },
+      {
+        "segment": "One more; that is, the permeability of the densities so that there may be communication from density to density and from plane to plane or sub-density to sub-density.",
+        "start_offset": 26,
+        "end_offset": 192,
+        "start": 9.182,
+        "end": 48.91
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 0.96,
+        "end": 1.12,
+        "score": -5.349
+      },
+      {
+        "word": "were",
+        "start_offset": 5,
+        "end_offset": 9,
+        "start": 1.16,
+        "end": 1.3,
+        "score": -6.6028
+      },
+      {
+        "word": "these?",
+        "start_offset": 10,
+        "end_offset": 16,
+        "start": 1.32,
+        "end": 4.701,
+        "score": -6.0753
+      },
+      {
+        "word": "I",
+        "start_offset": 17,
+        "end_offset": 18,
+        "start": 4.981,
+        "end": 5.001,
+        "score": -2.5552
+      },
+      {
+        "word": "am",
+        "start_offset": 19,
+        "end_offset": 21,
+        "start": 5.661,
+        "end": 6.001,
+        "score": -4.9438
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 22,
+        "end_offset": 25,
+        "start": 6.921,
+        "end": 7.061,
+        "score": -2.3
+      },
+      {
+        "word": "One",
+        "start_offset": 26,
+        "end_offset": 29,
+        "start": 9.182,
+        "end": 9.502,
+        "score": -1.0158
+      },
+      {
+        "word": "more;",
+        "start_offset": 30,
+        "end_offset": 35,
+        "start": 10.222,
+        "end": 10.642,
+        "score": -0.9492
+      },
+      {
+        "word": "that",
+        "start_offset": 36,
+        "end_offset": 40,
+        "start": 12.383,
+        "end": 12.723,
+        "score": -0.9081
+      },
+      {
+        "word": "is,",
+        "start_offset": 41,
+        "end_offset": 44,
+        "start": 12.983,
+        "end": 13.343,
+        "score": -0.8451
+      },
+      {
+        "word": "the",
+        "start_offset": 45,
+        "end_offset": 48,
+        "start": 14.563,
+        "end": 14.703,
+        "score": -0.77
+      },
+      {
+        "word": "permeability",
+        "start_offset": 49,
+        "end_offset": 61,
+        "start": 15.463,
+        "end": 17.484,
+        "score": -0.9624
+      },
+      {
+        "word": "of",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 19.104,
+        "end": 19.424,
+        "score": -0.711
+      },
+      {
+        "word": "the",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 20.064,
+        "end": 20.224,
+        "score": -0.7946
+      },
+      {
+        "word": "densities",
+        "start_offset": 69,
+        "end_offset": 78,
+        "start": 21.265,
+        "end": 22.485,
+        "score": -0.7218
+      },
+      {
+        "word": "so",
+        "start_offset": 79,
+        "end_offset": 81,
+        "start": 23.465,
+        "end": 23.605,
+        "score": -0.6955
+      },
+      {
+        "word": "that",
+        "start_offset": 82,
+        "end_offset": 86,
+        "start": 24.305,
+        "end": 24.765,
+        "score": -0.7194
+      },
+      {
+        "word": "there",
+        "start_offset": 87,
+        "end_offset": 92,
+        "start": 25.085,
+        "end": 25.505,
+        "score": -0.7729
+      },
+      {
+        "word": "may",
+        "start_offset": 93,
+        "end_offset": 96,
+        "start": 25.986,
+        "end": 26.326,
+        "score": -0.6959
+      },
+      {
+        "word": "be",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 27.026,
+        "end": 27.146,
+        "score": -0.6997
+      },
+      {
+        "word": "communication",
+        "start_offset": 100,
+        "end_offset": 113,
+        "start": 28.726,
+        "end": 30.606,
+        "score": -0.8531
+      },
+      {
+        "word": "from",
+        "start_offset": 114,
+        "end_offset": 118,
+        "start": 31.727,
+        "end": 32.167,
+        "score": -0.6978
+      },
+      {
+        "word": "density",
+        "start_offset": 119,
+        "end_offset": 126,
+        "start": 32.487,
+        "end": 33.327,
+        "score": -0.7134
+      },
+      {
+        "word": "to",
+        "start_offset": 127,
+        "end_offset": 129,
+        "start": 34.407,
+        "end": 34.607,
+        "score": -0.7076
+      },
+      {
+        "word": "density",
+        "start_offset": 130,
+        "end_offset": 137,
+        "start": 35.468,
+        "end": 36.268,
+        "score": -0.7291
+      },
+      {
+        "word": "and",
+        "start_offset": 138,
+        "end_offset": 141,
+        "start": 37.528,
+        "end": 37.928,
+        "score": -0.7665
+      },
+      {
+        "word": "from",
+        "start_offset": 142,
+        "end_offset": 146,
+        "start": 38.108,
+        "end": 38.568,
+        "score": -0.6961
+      },
+      {
+        "word": "plane",
+        "start_offset": 147,
+        "end_offset": 152,
+        "start": 38.808,
+        "end": 39.548,
+        "score": -1.2633
+      },
+      {
+        "word": "to",
+        "start_offset": 153,
+        "end_offset": 155,
+        "start": 40.329,
+        "end": 40.509,
+        "score": -0.7076
+      },
+      {
+        "word": "plane",
+        "start_offset": 156,
+        "end_offset": 161,
+        "start": 40.949,
+        "end": 41.669,
+        "score": -1.12
+      },
+      {
+        "word": "or",
+        "start_offset": 162,
+        "end_offset": 164,
+        "start": 42.729,
+        "end": 43.009,
+        "score": -0.7007
+      },
+      {
+        "word": "sub-density",
+        "start_offset": 165,
+        "end_offset": 176,
+        "start": 43.689,
+        "end": 45.33,
+        "score": -0.7151
+      },
+      {
+        "word": "to",
+        "start_offset": 177,
+        "end_offset": 179,
+        "start": 46.41,
+        "end": 46.59,
+        "score": -0.705
+      },
+      {
+        "word": "sub-density.",
+        "start_offset": 180,
+        "end_offset": 192,
+        "start": 47.41,
+        "end": 48.91,
+        "score": -0.7051
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "090-25.mp3",
+    "audio_duration": 50.0506,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

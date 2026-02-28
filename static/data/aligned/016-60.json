@@ -1,0 +1,228 @@
+{
+  "text": "Would then the Wanderers, as they incarnate here, be high-priority targets, shall we say, of the Orion group? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Would then the Wanderers, as they incarnate here, be high-priority targets, shall we say, of the Orion group?",
+        "start_offset": 0,
+        "end_offset": 109,
+        "start": 2.362,
+        "end": 15.974
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 110,
+        "end_offset": 118,
+        "start": 16.134,
+        "end": 17.855
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 119,
+        "end_offset": 135,
+        "start": 19.277,
+        "end": 22.64
+      }
+    ],
+    "word": [
+      {
+        "word": "Would",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.362,
+        "end": 2.682,
+        "score": -3.6167
+      },
+      {
+        "word": "then",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 2.822,
+        "end": 3.003,
+        "score": -2.6715
+      },
+      {
+        "word": "the",
+        "start_offset": 11,
+        "end_offset": 14,
+        "start": 3.343,
+        "end": 3.443,
+        "score": -3.1021
+      },
+      {
+        "word": "Wanderers,",
+        "start_offset": 15,
+        "end_offset": 25,
+        "start": 4.964,
+        "end": 5.485,
+        "score": -3.0923
+      },
+      {
+        "word": "as",
+        "start_offset": 26,
+        "end_offset": 28,
+        "start": 5.625,
+        "end": 5.745,
+        "score": -1.2387
+      },
+      {
+        "word": "they",
+        "start_offset": 29,
+        "end_offset": 33,
+        "start": 5.785,
+        "end": 5.905,
+        "score": -3.6773
+      },
+      {
+        "word": "incarnate",
+        "start_offset": 34,
+        "end_offset": 43,
+        "start": 6.025,
+        "end": 6.686,
+        "score": -3.1081
+      },
+      {
+        "word": "here,",
+        "start_offset": 44,
+        "end_offset": 49,
+        "start": 6.706,
+        "end": 6.926,
+        "score": -2.6091
+      },
+      {
+        "word": "be",
+        "start_offset": 50,
+        "end_offset": 52,
+        "start": 9.608,
+        "end": 9.708,
+        "score": -3.431
+      },
+      {
+        "word": "high-priority",
+        "start_offset": 53,
+        "end_offset": 66,
+        "start": 9.748,
+        "end": 10.209,
+        "score": -4.2826
+      },
+      {
+        "word": "targets,",
+        "start_offset": 67,
+        "end_offset": 75,
+        "start": 10.309,
+        "end": 10.809,
+        "score": -1.807
+      },
+      {
+        "word": "shall",
+        "start_offset": 76,
+        "end_offset": 81,
+        "start": 10.909,
+        "end": 11.23,
+        "score": -3.0756
+      },
+      {
+        "word": "we",
+        "start_offset": 82,
+        "end_offset": 84,
+        "start": 11.25,
+        "end": 11.29,
+        "score": -5.1699
+      },
+      {
+        "word": "say,",
+        "start_offset": 85,
+        "end_offset": 89,
+        "start": 11.39,
+        "end": 11.63,
+        "score": -2.098
+      },
+      {
+        "word": "of",
+        "start_offset": 90,
+        "end_offset": 92,
+        "start": 11.79,
+        "end": 11.91,
+        "score": -2.8589
+      },
+      {
+        "word": "the",
+        "start_offset": 93,
+        "end_offset": 96,
+        "start": 11.99,
+        "end": 12.05,
+        "score": -3.4782
+      },
+      {
+        "word": "Orion",
+        "start_offset": 97,
+        "end_offset": 102,
+        "start": 12.09,
+        "end": 12.331,
+        "score": -3.7895
+      },
+      {
+        "word": "group?",
+        "start_offset": 103,
+        "end_offset": 109,
+        "start": 12.351,
+        "end": 15.974,
+        "score": -6.1708
+      },
+      {
+        "word": "I",
+        "start_offset": 110,
+        "end_offset": 111,
+        "start": 16.134,
+        "end": 16.154,
+        "score": -3.2267
+      },
+      {
+        "word": "am",
+        "start_offset": 112,
+        "end_offset": 114,
+        "start": 16.835,
+        "end": 16.975,
+        "score": -3.2952
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 115,
+        "end_offset": 118,
+        "start": 17.715,
+        "end": 17.855,
+        "score": -3.1838
+      },
+      {
+        "word": "This",
+        "start_offset": 119,
+        "end_offset": 123,
+        "start": 19.277,
+        "end": 19.657,
+        "score": -2.8388
+      },
+      {
+        "word": "is",
+        "start_offset": 124,
+        "end_offset": 126,
+        "start": 20.818,
+        "end": 21.018,
+        "score": -1.6116
+      },
+      {
+        "word": "correct.",
+        "start_offset": 127,
+        "end_offset": 135,
+        "start": 22.039,
+        "end": 22.64,
+        "score": -2.4905
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "016-60.mp3",
+    "audio_duration": 23.04,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

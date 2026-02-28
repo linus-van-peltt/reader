@@ -1,0 +1,889 @@
+{
+  "text": "What was the— the only question I was going to ask, that I can think of was— Could you give me the average life span of the Atlantean population? I am Ra. The average life span, as we have said, is misleading. The Atlanteans were, in the early part of their cultural experience, used to life spans from seventy 70 to one hundred forty 140 years, this being, of course, approximate. Due to increasing desire for power, the lifetime decreased rapidly in the later stages of this civilization and, thus, the healing and rejuvenating information was requested. Do you have any brief queries before we close?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What was the— the only question I was going to ask, that I can think of was— Could you give me the average life span of the Atlantean population?",
+        "start_offset": 0,
+        "end_offset": 145,
+        "start": 2.88,
+        "end": 20.702
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 146,
+        "end_offset": 154,
+        "start": 20.722,
+        "end": 20.862
+      },
+      {
+        "segment": "The average life span, as we have said, is misleading.",
+        "start_offset": 155,
+        "end_offset": 209,
+        "start": 21.902,
+        "end": 30.742
+      },
+      {
+        "segment": "The Atlanteans were, in the early part of their cultural experience, used to life spans from seventy to one hundred forty years, this being, of course, approximate.",
+        "start_offset": 210,
+        "end_offset": 381,
+        "start": 32.782,
+        "end": 66.325
+      },
+      {
+        "segment": "Due to increasing desire for power, the lifetime decreased rapidly in the later stages of this civilization and, thus, the healing and rejuvenating information was requested.",
+        "start_offset": 382,
+        "end_offset": 556,
+        "start": 67.645,
+        "end": 105.608
+      },
+      {
+        "segment": "Do you have any brief queries before we close?",
+        "start_offset": 557,
+        "end_offset": 603,
+        "start": 107.108,
+        "end": 116.129
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 2.88,
+        "end": 3.04,
+        "score": -6.8953
+      },
+      {
+        "word": "was",
+        "start_offset": 5,
+        "end_offset": 8,
+        "start": 3.26,
+        "end": 3.46,
+        "score": -8.469
+      },
+      {
+        "word": "the—",
+        "start_offset": 9,
+        "end_offset": 13,
+        "start": 4.12,
+        "end": 4.2,
+        "score": -9.6421
+      },
+      {
+        "word": "the",
+        "start_offset": 14,
+        "end_offset": 17,
+        "start": 4.22,
+        "end": 4.28,
+        "score": -10.2061
+      },
+      {
+        "word": "only",
+        "start_offset": 18,
+        "end_offset": 22,
+        "start": 4.3,
+        "end": 4.48,
+        "score": -10.4345
+      },
+      {
+        "word": "question",
+        "start_offset": 23,
+        "end_offset": 31,
+        "start": 4.74,
+        "end": 5.06,
+        "score": -8.3675
+      },
+      {
+        "word": "I",
+        "start_offset": 32,
+        "end_offset": 33,
+        "start": 5.16,
+        "end": 5.18,
+        "score": -9.827
+      },
+      {
+        "word": "was",
+        "start_offset": 34,
+        "end_offset": 37,
+        "start": 5.28,
+        "end": 5.42,
+        "score": -8.4457
+      },
+      {
+        "word": "going",
+        "start_offset": 38,
+        "end_offset": 43,
+        "start": 8.681,
+        "end": 9.521,
+        "score": -9.1906
+      },
+      {
+        "word": "to",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 9.801,
+        "end": 9.841,
+        "score": -10.4926
+      },
+      {
+        "word": "ask,",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 9.861,
+        "end": 10.001,
+        "score": -9.2142
+      },
+      {
+        "word": "that",
+        "start_offset": 52,
+        "end_offset": 56,
+        "start": 11.461,
+        "end": 12.401,
+        "score": -9.5161
+      },
+      {
+        "word": "I",
+        "start_offset": 57,
+        "end_offset": 58,
+        "start": 12.421,
+        "end": 12.441,
+        "score": -10.4881
+      },
+      {
+        "word": "can",
+        "start_offset": 59,
+        "end_offset": 62,
+        "start": 12.461,
+        "end": 12.661,
+        "score": -9.4552
+      },
+      {
+        "word": "think",
+        "start_offset": 63,
+        "end_offset": 68,
+        "start": 12.701,
+        "end": 12.941,
+        "score": -9.2342
+      },
+      {
+        "word": "of",
+        "start_offset": 69,
+        "end_offset": 71,
+        "start": 12.961,
+        "end": 13.001,
+        "score": -11.127
+      },
+      {
+        "word": "was—",
+        "start_offset": 72,
+        "end_offset": 76,
+        "start": 13.021,
+        "end": 13.141,
+        "score": -10.844
+      },
+      {
+        "word": "Could",
+        "start_offset": 77,
+        "end_offset": 82,
+        "start": 13.161,
+        "end": 13.561,
+        "score": -10.1144
+      },
+      {
+        "word": "you",
+        "start_offset": 83,
+        "end_offset": 86,
+        "start": 14.301,
+        "end": 15.781,
+        "score": -11.4754
+      },
+      {
+        "word": "give",
+        "start_offset": 87,
+        "end_offset": 91,
+        "start": 17.761,
+        "end": 18.901,
+        "score": -6.4878
+      },
+      {
+        "word": "me",
+        "start_offset": 92,
+        "end_offset": 94,
+        "start": 19.041,
+        "end": 19.101,
+        "score": -4.4216
+      },
+      {
+        "word": "the",
+        "start_offset": 95,
+        "end_offset": 98,
+        "start": 19.121,
+        "end": 19.721,
+        "score": -8.6109
+      },
+      {
+        "word": "average",
+        "start_offset": 99,
+        "end_offset": 106,
+        "start": 19.741,
+        "end": 19.881,
+        "score": -7.4206
+      },
+      {
+        "word": "life",
+        "start_offset": 107,
+        "end_offset": 111,
+        "start": 19.901,
+        "end": 19.981,
+        "score": -9.0508
+      },
+      {
+        "word": "span",
+        "start_offset": 112,
+        "end_offset": 116,
+        "start": 20.001,
+        "end": 20.081,
+        "score": -8.0828
+      },
+      {
+        "word": "of",
+        "start_offset": 117,
+        "end_offset": 119,
+        "start": 20.101,
+        "end": 20.141,
+        "score": -9.1011
+      },
+      {
+        "word": "the",
+        "start_offset": 120,
+        "end_offset": 123,
+        "start": 20.161,
+        "end": 20.221,
+        "score": -7.3345
+      },
+      {
+        "word": "Atlantean",
+        "start_offset": 124,
+        "end_offset": 133,
+        "start": 20.241,
+        "end": 20.462,
+        "score": -9.2807
+      },
+      {
+        "word": "population?",
+        "start_offset": 134,
+        "end_offset": 145,
+        "start": 20.482,
+        "end": 20.702,
+        "score": -10.3416
+      },
+      {
+        "word": "I",
+        "start_offset": 146,
+        "end_offset": 147,
+        "start": 20.722,
+        "end": 20.742,
+        "score": -9.9763
+      },
+      {
+        "word": "am",
+        "start_offset": 148,
+        "end_offset": 150,
+        "start": 20.762,
+        "end": 20.802,
+        "score": -11.2646
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 151,
+        "end_offset": 154,
+        "start": 20.822,
+        "end": 20.862,
+        "score": -10.2103
+      },
+      {
+        "word": "The",
+        "start_offset": 155,
+        "end_offset": 158,
+        "start": 21.902,
+        "end": 22.042,
+        "score": -0.786
+      },
+      {
+        "word": "average",
+        "start_offset": 159,
+        "end_offset": 166,
+        "start": 22.662,
+        "end": 23.322,
+        "score": -1.1491
+      },
+      {
+        "word": "life",
+        "start_offset": 167,
+        "end_offset": 171,
+        "start": 24.142,
+        "end": 24.522,
+        "score": -0.7429
+      },
+      {
+        "word": "span,",
+        "start_offset": 172,
+        "end_offset": 177,
+        "start": 24.662,
+        "end": 25.182,
+        "score": -0.6983
+      },
+      {
+        "word": "as",
+        "start_offset": 178,
+        "end_offset": 180,
+        "start": 26.342,
+        "end": 26.582,
+        "score": -0.6975
+      },
+      {
+        "word": "we",
+        "start_offset": 181,
+        "end_offset": 183,
+        "start": 26.722,
+        "end": 26.862,
+        "score": -0.6978
+      },
+      {
+        "word": "have",
+        "start_offset": 184,
+        "end_offset": 188,
+        "start": 27.102,
+        "end": 27.462,
+        "score": -0.6975
+      },
+      {
+        "word": "said,",
+        "start_offset": 189,
+        "end_offset": 194,
+        "start": 27.582,
+        "end": 27.982,
+        "score": -1.0063
+      },
+      {
+        "word": "is",
+        "start_offset": 195,
+        "end_offset": 197,
+        "start": 28.962,
+        "end": 29.222,
+        "score": -0.7023
+      },
+      {
+        "word": "misleading.",
+        "start_offset": 198,
+        "end_offset": 209,
+        "start": 29.642,
+        "end": 30.742,
+        "score": -1.8288
+      },
+      {
+        "word": "The",
+        "start_offset": 210,
+        "end_offset": 213,
+        "start": 32.782,
+        "end": 32.902,
+        "score": -0.7197
+      },
+      {
+        "word": "Atlanteans",
+        "start_offset": 214,
+        "end_offset": 224,
+        "start": 33.442,
+        "end": 35.183,
+        "score": -1.0559
+      },
+      {
+        "word": "were,",
+        "start_offset": 225,
+        "end_offset": 230,
+        "start": 36.063,
+        "end": 36.403,
+        "score": -0.7194
+      },
+      {
+        "word": "in",
+        "start_offset": 231,
+        "end_offset": 233,
+        "start": 37.603,
+        "end": 37.803,
+        "score": -0.7038
+      },
+      {
+        "word": "the",
+        "start_offset": 234,
+        "end_offset": 237,
+        "start": 38.723,
+        "end": 38.863,
+        "score": -0.7185
+      },
+      {
+        "word": "early",
+        "start_offset": 238,
+        "end_offset": 243,
+        "start": 39.343,
+        "end": 39.703,
+        "score": -0.795
+      },
+      {
+        "word": "part",
+        "start_offset": 244,
+        "end_offset": 248,
+        "start": 40.363,
+        "end": 40.943,
+        "score": -0.699
+      },
+      {
+        "word": "of",
+        "start_offset": 249,
+        "end_offset": 251,
+        "start": 41.983,
+        "end": 42.223,
+        "score": -0.7022
+      },
+      {
+        "word": "their",
+        "start_offset": 252,
+        "end_offset": 257,
+        "start": 42.603,
+        "end": 42.903,
+        "score": -2.6765
+      },
+      {
+        "word": "cultural",
+        "start_offset": 258,
+        "end_offset": 266,
+        "start": 43.383,
+        "end": 44.383,
+        "score": -0.6967
+      },
+      {
+        "word": "experience,",
+        "start_offset": 267,
+        "end_offset": 278,
+        "start": 45.283,
+        "end": 46.763,
+        "score": -0.7942
+      },
+      {
+        "word": "used",
+        "start_offset": 279,
+        "end_offset": 283,
+        "start": 48.744,
+        "end": 49.144,
+        "score": -0.7052
+      },
+      {
+        "word": "to",
+        "start_offset": 284,
+        "end_offset": 286,
+        "start": 49.624,
+        "end": 49.924,
+        "score": -1.0411
+      },
+      {
+        "word": "life",
+        "start_offset": 287,
+        "end_offset": 291,
+        "start": 50.484,
+        "end": 50.944,
+        "score": -0.7177
+      },
+      {
+        "word": "spans",
+        "start_offset": 292,
+        "end_offset": 297,
+        "start": 51.124,
+        "end": 51.904,
+        "score": -0.7313
+      },
+      {
+        "word": "from",
+        "start_offset": 298,
+        "end_offset": 302,
+        "start": 52.984,
+        "end": 53.404,
+        "score": -0.6958
+      },
+      {
+        "word": "seventy",
+        "start_offset": 303,
+        "end_offset": 310,
+        "start": 53.844,
+        "end": 54.504,
+        "score": -0.9482
+      },
+      {
+        "word": "to",
+        "start_offset": 314,
+        "end_offset": 316,
+        "start": 55.484,
+        "end": 55.644,
+        "score": -0.7261
+      },
+      {
+        "word": "one",
+        "start_offset": 317,
+        "end_offset": 320,
+        "start": 56.444,
+        "end": 56.664,
+        "score": -4.6312
+      },
+      {
+        "word": "hundred",
+        "start_offset": 321,
+        "end_offset": 328,
+        "start": 56.804,
+        "end": 57.424,
+        "score": -4.8794
+      },
+      {
+        "word": "forty",
+        "start_offset": 329,
+        "end_offset": 334,
+        "start": 58.124,
+        "end": 58.604,
+        "score": -2.8944
+      },
+      {
+        "word": "years,",
+        "start_offset": 339,
+        "end_offset": 345,
+        "start": 59.424,
+        "end": 60.024,
+        "score": -0.7134
+      },
+      {
+        "word": "this",
+        "start_offset": 346,
+        "end_offset": 350,
+        "start": 61.185,
+        "end": 61.505,
+        "score": -0.7674
+      },
+      {
+        "word": "being,",
+        "start_offset": 351,
+        "end_offset": 357,
+        "start": 61.965,
+        "end": 62.465,
+        "score": -0.771
+      },
+      {
+        "word": "of",
+        "start_offset": 358,
+        "end_offset": 360,
+        "start": 63.005,
+        "end": 63.225,
+        "score": -0.7167
+      },
+      {
+        "word": "course,",
+        "start_offset": 361,
+        "end_offset": 368,
+        "start": 63.425,
+        "end": 64.065,
+        "score": -0.9198
+      },
+      {
+        "word": "approximate.",
+        "start_offset": 369,
+        "end_offset": 381,
+        "start": 64.945,
+        "end": 66.325,
+        "score": -0.7575
+      },
+      {
+        "word": "Due",
+        "start_offset": 382,
+        "end_offset": 385,
+        "start": 67.645,
+        "end": 67.885,
+        "score": -2.2169
+      },
+      {
+        "word": "to",
+        "start_offset": 386,
+        "end_offset": 388,
+        "start": 68.685,
+        "end": 69.025,
+        "score": -1.2888
+      },
+      {
+        "word": "increasing",
+        "start_offset": 389,
+        "end_offset": 399,
+        "start": 69.905,
+        "end": 71.125,
+        "score": -0.8735
+      },
+      {
+        "word": "desire",
+        "start_offset": 400,
+        "end_offset": 406,
+        "start": 72.505,
+        "end": 73.365,
+        "score": -0.7269
+      },
+      {
+        "word": "for",
+        "start_offset": 407,
+        "end_offset": 410,
+        "start": 74.405,
+        "end": 74.806,
+        "score": -0.7594
+      },
+      {
+        "word": "power,",
+        "start_offset": 411,
+        "end_offset": 417,
+        "start": 75.566,
+        "end": 76.166,
+        "score": -0.7031
+      },
+      {
+        "word": "the",
+        "start_offset": 418,
+        "end_offset": 421,
+        "start": 78.066,
+        "end": 78.206,
+        "score": -0.8108
+      },
+      {
+        "word": "lifetime",
+        "start_offset": 422,
+        "end_offset": 430,
+        "start": 79.386,
+        "end": 80.466,
+        "score": -0.7046
+      },
+      {
+        "word": "decreased",
+        "start_offset": 431,
+        "end_offset": 440,
+        "start": 81.506,
+        "end": 82.586,
+        "score": -0.7468
+      },
+      {
+        "word": "rapidly",
+        "start_offset": 441,
+        "end_offset": 448,
+        "start": 83.586,
+        "end": 84.466,
+        "score": -0.7296
+      },
+      {
+        "word": "in",
+        "start_offset": 449,
+        "end_offset": 451,
+        "start": 85.966,
+        "end": 86.126,
+        "score": -6.5502
+      },
+      {
+        "word": "the",
+        "start_offset": 452,
+        "end_offset": 455,
+        "start": 86.446,
+        "end": 86.566,
+        "score": -3.3862
+      },
+      {
+        "word": "later",
+        "start_offset": 456,
+        "end_offset": 461,
+        "start": 86.946,
+        "end": 87.506,
+        "score": -1.9224
+      },
+      {
+        "word": "stages",
+        "start_offset": 462,
+        "end_offset": 468,
+        "start": 88.186,
+        "end": 89.087,
+        "score": -0.7002
+      },
+      {
+        "word": "of",
+        "start_offset": 469,
+        "end_offset": 471,
+        "start": 89.987,
+        "end": 90.147,
+        "score": -6.8009
+      },
+      {
+        "word": "this",
+        "start_offset": 472,
+        "end_offset": 476,
+        "start": 90.407,
+        "end": 90.747,
+        "score": -2.4231
+      },
+      {
+        "word": "civilization",
+        "start_offset": 477,
+        "end_offset": 489,
+        "start": 91.087,
+        "end": 92.587,
+        "score": -1.425
+      },
+      {
+        "word": "and,",
+        "start_offset": 490,
+        "end_offset": 494,
+        "start": 93.747,
+        "end": 94.007,
+        "score": -0.6983
+      },
+      {
+        "word": "thus,",
+        "start_offset": 495,
+        "end_offset": 500,
+        "start": 94.287,
+        "end": 94.767,
+        "score": -3.8278
+      },
+      {
+        "word": "the",
+        "start_offset": 501,
+        "end_offset": 504,
+        "start": 95.787,
+        "end": 95.907,
+        "score": -2.9113
+      },
+      {
+        "word": "healing",
+        "start_offset": 505,
+        "end_offset": 512,
+        "start": 96.307,
+        "end": 96.927,
+        "score": -0.8042
+      },
+      {
+        "word": "and",
+        "start_offset": 513,
+        "end_offset": 516,
+        "start": 97.827,
+        "end": 98.027,
+        "score": -4.0911
+      },
+      {
+        "word": "rejuvenating",
+        "start_offset": 517,
+        "end_offset": 529,
+        "start": 98.287,
+        "end": 99.867,
+        "score": -1.1271
+      },
+      {
+        "word": "information",
+        "start_offset": 530,
+        "end_offset": 541,
+        "start": 100.987,
+        "end": 102.268,
+        "score": -1.4632
+      },
+      {
+        "word": "was",
+        "start_offset": 542,
+        "end_offset": 545,
+        "start": 103.408,
+        "end": 103.888,
+        "score": -2.5186
+      },
+      {
+        "word": "requested.",
+        "start_offset": 546,
+        "end_offset": 556,
+        "start": 104.428,
+        "end": 105.608,
+        "score": -1.3639
+      },
+      {
+        "word": "Do",
+        "start_offset": 557,
+        "end_offset": 559,
+        "start": 107.108,
+        "end": 107.228,
+        "score": -0.799
+      },
+      {
+        "word": "you",
+        "start_offset": 560,
+        "end_offset": 563,
+        "start": 107.728,
+        "end": 107.868,
+        "score": -0.7877
+      },
+      {
+        "word": "have",
+        "start_offset": 564,
+        "end_offset": 568,
+        "start": 108.328,
+        "end": 108.688,
+        "score": -1.6197
+      },
+      {
+        "word": "any",
+        "start_offset": 569,
+        "end_offset": 572,
+        "start": 109.788,
+        "end": 110.008,
+        "score": -4.002
+      },
+      {
+        "word": "brief",
+        "start_offset": 573,
+        "end_offset": 578,
+        "start": 110.688,
+        "end": 111.188,
+        "score": -1.7895
+      },
+      {
+        "word": "queries",
+        "start_offset": 579,
+        "end_offset": 586,
+        "start": 111.668,
+        "end": 112.508,
+        "score": -1.0612
+      },
+      {
+        "word": "before",
+        "start_offset": 587,
+        "end_offset": 593,
+        "start": 113.468,
+        "end": 114.168,
+        "score": -2.3553
+      },
+      {
+        "word": "we",
+        "start_offset": 594,
+        "end_offset": 596,
+        "start": 114.628,
+        "end": 114.728,
+        "score": -5.023
+      },
+      {
+        "word": "close?",
+        "start_offset": 597,
+        "end_offset": 603,
+        "start": 115.409,
+        "end": 116.129,
+        "score": -3.4096
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "022-28.mp3",
+    "audio_duration": 117.0286,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "text": "She requests that you cause the instrument to cough about at least after each communication. Is this possible? I am Ra. This is possible.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "She requests that you cause the instrument to cough about at least after each communication.",
+        "start_offset": 0,
+        "end_offset": 92,
+        "start": 2.861,
+        "end": 14.503
+      },
+      {
+        "segment": "Is this possible?",
+        "start_offset": 93,
+        "end_offset": 110,
+        "start": 28.667,
+        "end": 29.407
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 111,
+        "end_offset": 119,
+        "start": 33.008,
+        "end": 34.728
+      },
+      {
+        "segment": "This is possible.",
+        "start_offset": 120,
+        "end_offset": 137,
+        "start": 36.608,
+        "end": 39.509
+      }
+    ],
+    "word": [
+      {
+        "word": "She",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.861,
+        "end": 2.961,
+        "score": -0.9611
+      },
+      {
+        "word": "requests",
+        "start_offset": 4,
+        "end_offset": 12,
+        "start": 3.061,
+        "end": 3.621,
+        "score": -0.7286
+      },
+      {
+        "word": "that",
+        "start_offset": 13,
+        "end_offset": 17,
+        "start": 3.681,
+        "end": 3.861,
+        "score": -0.8027
+      },
+      {
+        "word": "you",
+        "start_offset": 18,
+        "end_offset": 21,
+        "start": 3.941,
+        "end": 4.381,
+        "score": -6.7586
+      },
+      {
+        "word": "cause",
+        "start_offset": 22,
+        "end_offset": 27,
+        "start": 4.521,
+        "end": 4.821,
+        "score": -0.7314
+      },
+      {
+        "word": "the",
+        "start_offset": 28,
+        "end_offset": 31,
+        "start": 4.881,
+        "end": 4.981,
+        "score": -0.86
+      },
+      {
+        "word": "instrument",
+        "start_offset": 32,
+        "end_offset": 42,
+        "start": 5.461,
+        "end": 5.901,
+        "score": -0.7294
+      },
+      {
+        "word": "to",
+        "start_offset": 43,
+        "end_offset": 45,
+        "start": 5.961,
+        "end": 6.021,
+        "score": -0.7598
+      },
+      {
+        "word": "cough",
+        "start_offset": 46,
+        "end_offset": 51,
+        "start": 6.201,
+        "end": 6.842,
+        "score": -3.1637
+      },
+      {
+        "word": "about",
+        "start_offset": 52,
+        "end_offset": 57,
+        "start": 8.602,
+        "end": 9.042,
+        "score": -1.0496
+      },
+      {
+        "word": "at",
+        "start_offset": 58,
+        "end_offset": 60,
+        "start": 10.542,
+        "end": 10.622,
+        "score": -1.0454
+      },
+      {
+        "word": "least",
+        "start_offset": 61,
+        "end_offset": 66,
+        "start": 10.682,
+        "end": 10.942,
+        "score": -1.3141
+      },
+      {
+        "word": "after",
+        "start_offset": 67,
+        "end_offset": 72,
+        "start": 11.303,
+        "end": 11.603,
+        "score": -1.1119
+      },
+      {
+        "word": "each",
+        "start_offset": 73,
+        "end_offset": 77,
+        "start": 11.743,
+        "end": 11.963,
+        "score": -0.8951
+      },
+      {
+        "word": "communication.",
+        "start_offset": 78,
+        "end_offset": 92,
+        "start": 13.663,
+        "end": 14.503,
+        "score": -1.3653
+      },
+      {
+        "word": "Is",
+        "start_offset": 93,
+        "end_offset": 95,
+        "start": 28.667,
+        "end": 28.747,
+        "score": -2.8573
+      },
+      {
+        "word": "this",
+        "start_offset": 96,
+        "end_offset": 100,
+        "start": 28.787,
+        "end": 28.907,
+        "score": -2.9373
+      },
+      {
+        "word": "possible?",
+        "start_offset": 101,
+        "end_offset": 110,
+        "start": 28.987,
+        "end": 29.407,
+        "score": -2.8584
+      },
+      {
+        "word": "I",
+        "start_offset": 111,
+        "end_offset": 112,
+        "start": 33.008,
+        "end": 33.028,
+        "score": -0.8728
+      },
+      {
+        "word": "am",
+        "start_offset": 113,
+        "end_offset": 115,
+        "start": 33.628,
+        "end": 33.968,
+        "score": -0.909
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 116,
+        "end_offset": 119,
+        "start": 34.588,
+        "end": 34.728,
+        "score": -0.9092
+      },
+      {
+        "word": "This",
+        "start_offset": 120,
+        "end_offset": 124,
+        "start": 36.608,
+        "end": 36.968,
+        "score": -1.2109
+      },
+      {
+        "word": "is",
+        "start_offset": 125,
+        "end_offset": 127,
+        "start": 37.729,
+        "end": 38.009,
+        "score": -1.0919
+      },
+      {
+        "word": "possible.",
+        "start_offset": 128,
+        "end_offset": 137,
+        "start": 38.929,
+        "end": 39.509,
+        "score": -0.9862
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "024-03.mp3",
+    "audio_duration": 43.0498,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

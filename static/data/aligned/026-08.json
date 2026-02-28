@@ -1,0 +1,665 @@
+{
+  "text": "Can you tell me about what percentage is Orion-influenced in both the Old and the New Testaments? We prefer that this be left to the discretion of those who seek the Law of One. We are not speaking in order to judge. Such statements would be construed by some of those who may read this material as judgmental. We can only suggest a careful reading and inward digestion of the contents. The understandings will become obvious.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me about what percentage is Orion-influenced in both the Old and the New Testaments?",
+        "start_offset": 0,
+        "end_offset": 97,
+        "start": 1.38,
+        "end": 11.161
+      },
+      {
+        "segment": "We prefer that this be left to the discretion of those who seek the Law of One.",
+        "start_offset": 98,
+        "end_offset": 177,
+        "start": 15.221,
+        "end": 37.862
+      },
+      {
+        "segment": "We are not speaking in order to judge.",
+        "start_offset": 178,
+        "end_offset": 216,
+        "start": 40.342,
+        "end": 50.963
+      },
+      {
+        "segment": "Such statements would be construed by some of those who may read this material as judgmental.",
+        "start_offset": 217,
+        "end_offset": 310,
+        "start": 52.983,
+        "end": 75.964
+      },
+      {
+        "segment": "We can only suggest a careful reading and inward digestion of the contents.",
+        "start_offset": 311,
+        "end_offset": 386,
+        "start": 77.805,
+        "end": 98.386
+      },
+      {
+        "segment": "The understandings will become obvious.",
+        "start_offset": 387,
+        "end_offset": 426,
+        "start": 100.406,
+        "end": 110.007
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 1.38,
+        "end": 1.54,
+        "score": -4.2401
+      },
+      {
+        "word": "you",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 1.58,
+        "end": 1.64,
+        "score": -6.9946
+      },
+      {
+        "word": "tell",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 1.72,
+        "end": 1.9,
+        "score": -7.1137
+      },
+      {
+        "word": "me",
+        "start_offset": 13,
+        "end_offset": 15,
+        "start": 1.96,
+        "end": 2.04,
+        "score": -4.8238
+      },
+      {
+        "word": "about",
+        "start_offset": 16,
+        "end_offset": 21,
+        "start": 2.28,
+        "end": 2.64,
+        "score": -7.6236
+      },
+      {
+        "word": "what",
+        "start_offset": 22,
+        "end_offset": 26,
+        "start": 2.98,
+        "end": 3.14,
+        "score": -7.1332
+      },
+      {
+        "word": "percentage",
+        "start_offset": 27,
+        "end_offset": 37,
+        "start": 3.24,
+        "end": 3.98,
+        "score": -5.2138
+      },
+      {
+        "word": "is",
+        "start_offset": 38,
+        "end_offset": 40,
+        "start": 6.42,
+        "end": 6.56,
+        "score": -3.9247
+      },
+      {
+        "word": "Orion-influenced",
+        "start_offset": 41,
+        "end_offset": 57,
+        "start": 6.68,
+        "end": 9.101,
+        "score": -3.6208
+      },
+      {
+        "word": "in",
+        "start_offset": 58,
+        "end_offset": 60,
+        "start": 9.121,
+        "end": 9.281,
+        "score": -4.5285
+      },
+      {
+        "word": "both",
+        "start_offset": 61,
+        "end_offset": 65,
+        "start": 9.501,
+        "end": 9.701,
+        "score": -7.7754
+      },
+      {
+        "word": "the",
+        "start_offset": 66,
+        "end_offset": 69,
+        "start": 9.721,
+        "end": 9.821,
+        "score": -4.5933
+      },
+      {
+        "word": "Old",
+        "start_offset": 70,
+        "end_offset": 73,
+        "start": 9.961,
+        "end": 10.141,
+        "score": -5.1289
+      },
+      {
+        "word": "and",
+        "start_offset": 74,
+        "end_offset": 77,
+        "start": 10.181,
+        "end": 10.281,
+        "score": -6.0801
+      },
+      {
+        "word": "the",
+        "start_offset": 78,
+        "end_offset": 81,
+        "start": 10.381,
+        "end": 10.461,
+        "score": -4.1827
+      },
+      {
+        "word": "New",
+        "start_offset": 82,
+        "end_offset": 85,
+        "start": 10.481,
+        "end": 10.541,
+        "score": -8.6402
+      },
+      {
+        "word": "Testaments?",
+        "start_offset": 86,
+        "end_offset": 97,
+        "start": 10.561,
+        "end": 11.161,
+        "score": -4.5455
+      },
+      {
+        "word": "We",
+        "start_offset": 98,
+        "end_offset": 100,
+        "start": 15.221,
+        "end": 15.401,
+        "score": -0.738
+      },
+      {
+        "word": "prefer",
+        "start_offset": 101,
+        "end_offset": 107,
+        "start": 16.201,
+        "end": 17.441,
+        "score": -0.807
+      },
+      {
+        "word": "that",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 18.961,
+        "end": 19.321,
+        "score": -0.7088
+      },
+      {
+        "word": "this",
+        "start_offset": 113,
+        "end_offset": 117,
+        "start": 19.741,
+        "end": 20.301,
+        "score": -0.7149
+      },
+      {
+        "word": "be",
+        "start_offset": 118,
+        "end_offset": 120,
+        "start": 21.041,
+        "end": 21.201,
+        "score": -0.7031
+      },
+      {
+        "word": "left",
+        "start_offset": 121,
+        "end_offset": 125,
+        "start": 21.981,
+        "end": 22.621,
+        "score": -0.6961
+      },
+      {
+        "word": "to",
+        "start_offset": 126,
+        "end_offset": 128,
+        "start": 23.841,
+        "end": 24.141,
+        "score": -0.7319
+      },
+      {
+        "word": "the",
+        "start_offset": 129,
+        "end_offset": 132,
+        "start": 24.781,
+        "end": 24.941,
+        "score": -0.7089
+      },
+      {
+        "word": "discretion",
+        "start_offset": 133,
+        "end_offset": 143,
+        "start": 25.442,
+        "end": 27.102,
+        "score": -1.3766
+      },
+      {
+        "word": "of",
+        "start_offset": 144,
+        "end_offset": 146,
+        "start": 28.502,
+        "end": 28.922,
+        "score": -0.7326
+      },
+      {
+        "word": "those",
+        "start_offset": 147,
+        "end_offset": 152,
+        "start": 29.862,
+        "end": 30.502,
+        "score": -0.7298
+      },
+      {
+        "word": "who",
+        "start_offset": 153,
+        "end_offset": 156,
+        "start": 31.002,
+        "end": 31.162,
+        "score": -0.7517
+      },
+      {
+        "word": "seek",
+        "start_offset": 157,
+        "end_offset": 161,
+        "start": 31.922,
+        "end": 32.442,
+        "score": -0.7591
+      },
+      {
+        "word": "the",
+        "start_offset": 162,
+        "end_offset": 165,
+        "start": 33.582,
+        "end": 33.762,
+        "score": -0.7623
+      },
+      {
+        "word": "Law",
+        "start_offset": 166,
+        "end_offset": 169,
+        "start": 34.502,
+        "end": 34.902,
+        "score": -0.7762
+      },
+      {
+        "word": "of",
+        "start_offset": 170,
+        "end_offset": 172,
+        "start": 36.282,
+        "end": 36.582,
+        "score": -0.7583
+      },
+      {
+        "word": "One.",
+        "start_offset": 173,
+        "end_offset": 177,
+        "start": 37.462,
+        "end": 37.862,
+        "score": -0.9518
+      },
+      {
+        "word": "We",
+        "start_offset": 178,
+        "end_offset": 180,
+        "start": 40.342,
+        "end": 40.502,
+        "score": -0.7253
+      },
+      {
+        "word": "are",
+        "start_offset": 181,
+        "end_offset": 184,
+        "start": 41.402,
+        "end": 41.722,
+        "score": -0.8069
+      },
+      {
+        "word": "not",
+        "start_offset": 185,
+        "end_offset": 188,
+        "start": 42.383,
+        "end": 42.863,
+        "score": -0.7045
+      },
+      {
+        "word": "speaking",
+        "start_offset": 189,
+        "end_offset": 197,
+        "start": 44.003,
+        "end": 45.023,
+        "score": -0.7715
+      },
+      {
+        "word": "in",
+        "start_offset": 198,
+        "end_offset": 200,
+        "start": 46.223,
+        "end": 46.543,
+        "score": -0.7002
+      },
+      {
+        "word": "order",
+        "start_offset": 201,
+        "end_offset": 206,
+        "start": 47.183,
+        "end": 47.703,
+        "score": -0.7014
+      },
+      {
+        "word": "to",
+        "start_offset": 207,
+        "end_offset": 209,
+        "start": 48.923,
+        "end": 49.203,
+        "score": -0.9886
+      },
+      {
+        "word": "judge.",
+        "start_offset": 210,
+        "end_offset": 216,
+        "start": 50.163,
+        "end": 50.963,
+        "score": -0.8167
+      },
+      {
+        "word": "Such",
+        "start_offset": 217,
+        "end_offset": 221,
+        "start": 52.983,
+        "end": 53.463,
+        "score": -0.7315
+      },
+      {
+        "word": "statements",
+        "start_offset": 222,
+        "end_offset": 232,
+        "start": 53.963,
+        "end": 55.443,
+        "score": -0.7361
+      },
+      {
+        "word": "would",
+        "start_offset": 233,
+        "end_offset": 238,
+        "start": 56.523,
+        "end": 56.863,
+        "score": -0.7805
+      },
+      {
+        "word": "be",
+        "start_offset": 239,
+        "end_offset": 241,
+        "start": 57.363,
+        "end": 57.523,
+        "score": -0.6999
+      },
+      {
+        "word": "construed",
+        "start_offset": 242,
+        "end_offset": 251,
+        "start": 58.663,
+        "end": 60.364,
+        "score": -0.8878
+      },
+      {
+        "word": "by",
+        "start_offset": 252,
+        "end_offset": 254,
+        "start": 61.544,
+        "end": 61.904,
+        "score": -0.7059
+      },
+      {
+        "word": "some",
+        "start_offset": 255,
+        "end_offset": 259,
+        "start": 62.344,
+        "end": 62.864,
+        "score": -0.6981
+      },
+      {
+        "word": "of",
+        "start_offset": 260,
+        "end_offset": 262,
+        "start": 63.284,
+        "end": 63.564,
+        "score": -6.1114
+      },
+      {
+        "word": "those",
+        "start_offset": 263,
+        "end_offset": 268,
+        "start": 64.024,
+        "end": 64.824,
+        "score": -0.702
+      },
+      {
+        "word": "who",
+        "start_offset": 269,
+        "end_offset": 272,
+        "start": 65.864,
+        "end": 65.984,
+        "score": -0.7028
+      },
+      {
+        "word": "may",
+        "start_offset": 273,
+        "end_offset": 276,
+        "start": 66.744,
+        "end": 67.104,
+        "score": -0.7599
+      },
+      {
+        "word": "read",
+        "start_offset": 277,
+        "end_offset": 281,
+        "start": 67.844,
+        "end": 68.524,
+        "score": -0.8671
+      },
+      {
+        "word": "this",
+        "start_offset": 282,
+        "end_offset": 286,
+        "start": 69.504,
+        "end": 69.884,
+        "score": -0.7044
+      },
+      {
+        "word": "material",
+        "start_offset": 287,
+        "end_offset": 295,
+        "start": 70.224,
+        "end": 71.784,
+        "score": -0.6967
+      },
+      {
+        "word": "as",
+        "start_offset": 296,
+        "end_offset": 298,
+        "start": 73.224,
+        "end": 73.664,
+        "score": -0.7024
+      },
+      {
+        "word": "judgmental.",
+        "start_offset": 299,
+        "end_offset": 310,
+        "start": 74.284,
+        "end": 75.964,
+        "score": -0.7182
+      },
+      {
+        "word": "We",
+        "start_offset": 311,
+        "end_offset": 313,
+        "start": 77.805,
+        "end": 77.965,
+        "score": -0.7092
+      },
+      {
+        "word": "can",
+        "start_offset": 314,
+        "end_offset": 317,
+        "start": 78.765,
+        "end": 79.365,
+        "score": -0.7017
+      },
+      {
+        "word": "only",
+        "start_offset": 318,
+        "end_offset": 322,
+        "start": 80.085,
+        "end": 80.605,
+        "score": -0.7046
+      },
+      {
+        "word": "suggest",
+        "start_offset": 323,
+        "end_offset": 330,
+        "start": 81.605,
+        "end": 83.045,
+        "score": -0.821
+      },
+      {
+        "word": "a",
+        "start_offset": 331,
+        "end_offset": 332,
+        "start": 84.385,
+        "end": 84.405,
+        "score": -0.8561
+      },
+      {
+        "word": "careful",
+        "start_offset": 333,
+        "end_offset": 340,
+        "start": 84.965,
+        "end": 85.965,
+        "score": -0.9501
+      },
+      {
+        "word": "reading",
+        "start_offset": 341,
+        "end_offset": 348,
+        "start": 86.965,
+        "end": 87.705,
+        "score": -0.7027
+      },
+      {
+        "word": "and",
+        "start_offset": 349,
+        "end_offset": 352,
+        "start": 88.885,
+        "end": 89.245,
+        "score": -0.7026
+      },
+      {
+        "word": "inward",
+        "start_offset": 353,
+        "end_offset": 359,
+        "start": 89.905,
+        "end": 91.005,
+        "score": -0.7135
+      },
+      {
+        "word": "digestion",
+        "start_offset": 360,
+        "end_offset": 369,
+        "start": 92.005,
+        "end": 93.746,
+        "score": -0.7207
+      },
+      {
+        "word": "of",
+        "start_offset": 370,
+        "end_offset": 372,
+        "start": 94.946,
+        "end": 95.266,
+        "score": -0.71
+      },
+      {
+        "word": "the",
+        "start_offset": 373,
+        "end_offset": 376,
+        "start": 95.746,
+        "end": 95.926,
+        "score": -0.7602
+      },
+      {
+        "word": "contents.",
+        "start_offset": 377,
+        "end_offset": 386,
+        "start": 96.846,
+        "end": 98.386,
+        "score": -1.1005
+      },
+      {
+        "word": "The",
+        "start_offset": 387,
+        "end_offset": 390,
+        "start": 100.406,
+        "end": 100.566,
+        "score": -0.7541
+      },
+      {
+        "word": "understandings",
+        "start_offset": 391,
+        "end_offset": 405,
+        "start": 101.566,
+        "end": 104.026,
+        "score": -0.7416
+      },
+      {
+        "word": "will",
+        "start_offset": 406,
+        "end_offset": 410,
+        "start": 105.106,
+        "end": 105.446,
+        "score": -0.7612
+      },
+      {
+        "word": "become",
+        "start_offset": 411,
+        "end_offset": 417,
+        "start": 106.026,
+        "end": 107.126,
+        "score": -2.492
+      },
+      {
+        "word": "obvious.",
+        "start_offset": 418,
+        "end_offset": 426,
+        "start": 108.726,
+        "end": 110.007,
+        "score": -2.9449
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "026-08.mp3",
+    "audio_duration": 111.0466,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

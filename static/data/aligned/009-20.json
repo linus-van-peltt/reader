@@ -1,0 +1,307 @@
+{
+  "text": "Where are these body complexes located? I am Ra. These body complexes of the second race dwell in uninhabited deep forest. There are many in various places over the surface of your planet.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Where are these body complexes located?",
+        "start_offset": 0,
+        "end_offset": 39,
+        "start": 2.221,
+        "end": 12.644
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 40,
+        "end_offset": 48,
+        "start": 12.844,
+        "end": 15.144
+      },
+      {
+        "segment": "These body complexes of the second race dwell in uninhabited deep forest.",
+        "start_offset": 49,
+        "end_offset": 122,
+        "start": 17.225,
+        "end": 36.61
+      },
+      {
+        "segment": "There are many in various places over the surface of your planet.",
+        "start_offset": 123,
+        "end_offset": 188,
+        "start": 38.251,
+        "end": 58.337
+      }
+    ],
+    "word": [
+      {
+        "word": "Where",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 2.221,
+        "end": 2.441,
+        "score": -3.793
+      },
+      {
+        "word": "are",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 2.661,
+        "end": 2.841,
+        "score": -4.7717
+      },
+      {
+        "word": "these",
+        "start_offset": 10,
+        "end_offset": 15,
+        "start": 2.881,
+        "end": 3.241,
+        "score": -5.8847
+      },
+      {
+        "word": "body",
+        "start_offset": 16,
+        "end_offset": 20,
+        "start": 4.961,
+        "end": 5.161,
+        "score": -5.7919
+      },
+      {
+        "word": "complexes",
+        "start_offset": 21,
+        "end_offset": 30,
+        "start": 5.181,
+        "end": 5.422,
+        "score": -7.989
+      },
+      {
+        "word": "located?",
+        "start_offset": 31,
+        "end_offset": 39,
+        "start": 5.542,
+        "end": 12.644,
+        "score": -7.6615
+      },
+      {
+        "word": "I",
+        "start_offset": 40,
+        "end_offset": 41,
+        "start": 12.844,
+        "end": 12.864,
+        "score": -1.2192
+      },
+      {
+        "word": "am",
+        "start_offset": 42,
+        "end_offset": 44,
+        "start": 13.704,
+        "end": 13.924,
+        "score": -4.2242
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 45,
+        "end_offset": 48,
+        "start": 15.084,
+        "end": 15.144,
+        "score": -8.0252
+      },
+      {
+        "word": "These",
+        "start_offset": 49,
+        "end_offset": 54,
+        "start": 17.225,
+        "end": 17.745,
+        "score": -0.7467
+      },
+      {
+        "word": "body",
+        "start_offset": 55,
+        "end_offset": 59,
+        "start": 18.405,
+        "end": 18.765,
+        "score": -0.7535
+      },
+      {
+        "word": "complexes",
+        "start_offset": 60,
+        "end_offset": 69,
+        "start": 19.806,
+        "end": 20.966,
+        "score": -0.9098
+      },
+      {
+        "word": "of",
+        "start_offset": 70,
+        "end_offset": 72,
+        "start": 21.866,
+        "end": 22.066,
+        "score": -0.7006
+      },
+      {
+        "word": "the",
+        "start_offset": 73,
+        "end_offset": 76,
+        "start": 22.446,
+        "end": 22.626,
+        "score": -0.7802
+      },
+      {
+        "word": "second",
+        "start_offset": 77,
+        "end_offset": 83,
+        "start": 23.327,
+        "end": 23.907,
+        "score": -0.7188
+      },
+      {
+        "word": "race",
+        "start_offset": 84,
+        "end_offset": 88,
+        "start": 24.827,
+        "end": 25.347,
+        "score": -0.7655
+      },
+      {
+        "word": "dwell",
+        "start_offset": 89,
+        "end_offset": 94,
+        "start": 26.588,
+        "end": 27.068,
+        "score": -0.9016
+      },
+      {
+        "word": "in",
+        "start_offset": 95,
+        "end_offset": 97,
+        "start": 28.328,
+        "end": 28.528,
+        "score": -1.4115
+      },
+      {
+        "word": "uninhabited",
+        "start_offset": 98,
+        "end_offset": 109,
+        "start": 30.349,
+        "end": 32.989,
+        "score": -0.8336
+      },
+      {
+        "word": "deep",
+        "start_offset": 110,
+        "end_offset": 114,
+        "start": 34.57,
+        "end": 34.89,
+        "score": -1.0527
+      },
+      {
+        "word": "forest.",
+        "start_offset": 115,
+        "end_offset": 122,
+        "start": 35.95,
+        "end": 36.61,
+        "score": -0.8244
+      },
+      {
+        "word": "There",
+        "start_offset": 123,
+        "end_offset": 128,
+        "start": 38.251,
+        "end": 38.571,
+        "score": -0.778
+      },
+      {
+        "word": "are",
+        "start_offset": 129,
+        "end_offset": 132,
+        "start": 39.551,
+        "end": 39.791,
+        "score": -0.7437
+      },
+      {
+        "word": "many",
+        "start_offset": 133,
+        "end_offset": 137,
+        "start": 41.052,
+        "end": 41.352,
+        "score": -0.7298
+      },
+      {
+        "word": "in",
+        "start_offset": 138,
+        "end_offset": 140,
+        "start": 43.192,
+        "end": 43.372,
+        "score": -0.72
+      },
+      {
+        "word": "various",
+        "start_offset": 141,
+        "end_offset": 148,
+        "start": 44.173,
+        "end": 44.993,
+        "score": -0.8272
+      },
+      {
+        "word": "places",
+        "start_offset": 149,
+        "end_offset": 155,
+        "start": 46.053,
+        "end": 46.893,
+        "score": -0.7049
+      },
+      {
+        "word": "over",
+        "start_offset": 156,
+        "end_offset": 160,
+        "start": 50.014,
+        "end": 50.414,
+        "score": -0.7563
+      },
+      {
+        "word": "the",
+        "start_offset": 161,
+        "end_offset": 164,
+        "start": 51.415,
+        "end": 51.535,
+        "score": -0.783
+      },
+      {
+        "word": "surface",
+        "start_offset": 165,
+        "end_offset": 172,
+        "start": 53.135,
+        "end": 53.855,
+        "score": -0.8016
+      },
+      {
+        "word": "of",
+        "start_offset": 173,
+        "end_offset": 175,
+        "start": 54.876,
+        "end": 55.076,
+        "score": -0.7498
+      },
+      {
+        "word": "your",
+        "start_offset": 176,
+        "end_offset": 180,
+        "start": 56.076,
+        "end": 56.336,
+        "score": -1.8085
+      },
+      {
+        "word": "planet.",
+        "start_offset": 181,
+        "end_offset": 188,
+        "start": 57.576,
+        "end": 58.337,
+        "score": -0.7065
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "009-20.mp3",
+    "audio_duration": 59.0367,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

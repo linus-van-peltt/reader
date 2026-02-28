@@ -1,0 +1,602 @@
+{
+  "text": "What must be the entity's percentage, shall we say, if he is to be harvested for the negative? I am Ra. The entity who wishes to pursue the path of service to self must attain a grade of five, that is five percent service to others, ninety-five percent service to self. It must approach totality. The negative path is quite difficult to attain harvestability upon and requires great dedication.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "What must be the entity's percentage, shall we say, if he is to be harvested for the negative?",
+        "start_offset": 0,
+        "end_offset": 94,
+        "start": 0.92,
+        "end": 15.743
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 95,
+        "end_offset": 103,
+        "start": 15.763,
+        "end": 15.923
+      },
+      {
+        "segment": "The entity who wishes to pursue the path of service to self must attain a grade of five, that is five percent service to others, ninety-five percent service to self.",
+        "start_offset": 104,
+        "end_offset": 269,
+        "start": 15.943,
+        "end": 41.209
+      },
+      {
+        "segment": "It must approach totality.",
+        "start_offset": 270,
+        "end_offset": 296,
+        "start": 42.469,
+        "end": 45.45
+      },
+      {
+        "segment": "The negative path is quite difficult to attain harvestability upon and requires great dedication.",
+        "start_offset": 297,
+        "end_offset": 394,
+        "start": 46.63,
+        "end": 62.813
+      }
+    ],
+    "word": [
+      {
+        "word": "What",
+        "start_offset": 0,
+        "end_offset": 4,
+        "start": 0.92,
+        "end": 1.1,
+        "score": -9.3952
+      },
+      {
+        "word": "must",
+        "start_offset": 5,
+        "end_offset": 9,
+        "start": 1.14,
+        "end": 11.743,
+        "score": -10.3629
+      },
+      {
+        "word": "be",
+        "start_offset": 10,
+        "end_offset": 12,
+        "start": 11.763,
+        "end": 11.803,
+        "score": -10.2569
+      },
+      {
+        "word": "the",
+        "start_offset": 13,
+        "end_offset": 16,
+        "start": 11.823,
+        "end": 11.883,
+        "score": -8.9799
+      },
+      {
+        "word": "entity's",
+        "start_offset": 17,
+        "end_offset": 25,
+        "start": 11.903,
+        "end": 12.223,
+        "score": -8.4511
+      },
+      {
+        "word": "percentage,",
+        "start_offset": 26,
+        "end_offset": 37,
+        "start": 12.543,
+        "end": 12.903,
+        "score": -7.6336
+      },
+      {
+        "word": "shall",
+        "start_offset": 38,
+        "end_offset": 43,
+        "start": 12.923,
+        "end": 13.223,
+        "score": -10.4543
+      },
+      {
+        "word": "we",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 13.243,
+        "end": 13.283,
+        "score": -10.4352
+      },
+      {
+        "word": "say,",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 13.303,
+        "end": 13.363,
+        "score": -9.2213
+      },
+      {
+        "word": "if",
+        "start_offset": 52,
+        "end_offset": 54,
+        "start": 13.383,
+        "end": 13.423,
+        "score": -8.6618
+      },
+      {
+        "word": "he",
+        "start_offset": 55,
+        "end_offset": 57,
+        "start": 13.443,
+        "end": 13.483,
+        "score": -6.9579
+      },
+      {
+        "word": "is",
+        "start_offset": 58,
+        "end_offset": 60,
+        "start": 13.503,
+        "end": 13.563,
+        "score": -7.3476
+      },
+      {
+        "word": "to",
+        "start_offset": 61,
+        "end_offset": 63,
+        "start": 13.583,
+        "end": 13.623,
+        "score": -7.5508
+      },
+      {
+        "word": "be",
+        "start_offset": 64,
+        "end_offset": 66,
+        "start": 13.643,
+        "end": 13.683,
+        "score": -8.4791
+      },
+      {
+        "word": "harvested",
+        "start_offset": 67,
+        "end_offset": 76,
+        "start": 13.703,
+        "end": 13.883,
+        "score": -8.8055
+      },
+      {
+        "word": "for",
+        "start_offset": 77,
+        "end_offset": 80,
+        "start": 13.923,
+        "end": 14.023,
+        "score": -10.7137
+      },
+      {
+        "word": "the",
+        "start_offset": 81,
+        "end_offset": 84,
+        "start": 15.043,
+        "end": 15.163,
+        "score": -0.8693
+      },
+      {
+        "word": "negative?",
+        "start_offset": 85,
+        "end_offset": 94,
+        "start": 15.183,
+        "end": 15.743,
+        "score": -9.8988
+      },
+      {
+        "word": "I",
+        "start_offset": 95,
+        "end_offset": 96,
+        "start": 15.763,
+        "end": 15.783,
+        "score": -8.5013
+      },
+      {
+        "word": "am",
+        "start_offset": 97,
+        "end_offset": 99,
+        "start": 15.803,
+        "end": 15.843,
+        "score": -8.5254
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 100,
+        "end_offset": 103,
+        "start": 15.863,
+        "end": 15.923,
+        "score": -9.386
+      },
+      {
+        "word": "The",
+        "start_offset": 104,
+        "end_offset": 107,
+        "start": 15.943,
+        "end": 16.003,
+        "score": -5.5323
+      },
+      {
+        "word": "entity",
+        "start_offset": 108,
+        "end_offset": 114,
+        "start": 16.063,
+        "end": 16.344,
+        "score": -4.6237
+      },
+      {
+        "word": "who",
+        "start_offset": 115,
+        "end_offset": 118,
+        "start": 17.064,
+        "end": 17.184,
+        "score": -0.7036
+      },
+      {
+        "word": "wishes",
+        "start_offset": 119,
+        "end_offset": 125,
+        "start": 17.524,
+        "end": 18.064,
+        "score": -0.7143
+      },
+      {
+        "word": "to",
+        "start_offset": 126,
+        "end_offset": 128,
+        "start": 18.284,
+        "end": 18.424,
+        "score": -0.7675
+      },
+      {
+        "word": "pursue",
+        "start_offset": 129,
+        "end_offset": 135,
+        "start": 18.744,
+        "end": 19.484,
+        "score": -1.0822
+      },
+      {
+        "word": "the",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 20.944,
+        "end": 21.045,
+        "score": -0.7758
+      },
+      {
+        "word": "path",
+        "start_offset": 140,
+        "end_offset": 144,
+        "start": 21.225,
+        "end": 21.625,
+        "score": -0.8105
+      },
+      {
+        "word": "of",
+        "start_offset": 145,
+        "end_offset": 147,
+        "start": 21.825,
+        "end": 21.965,
+        "score": -0.6998
+      },
+      {
+        "word": "service",
+        "start_offset": 148,
+        "end_offset": 155,
+        "start": 22.105,
+        "end": 22.625,
+        "score": -0.7841
+      },
+      {
+        "word": "to",
+        "start_offset": 156,
+        "end_offset": 158,
+        "start": 22.865,
+        "end": 22.985,
+        "score": -0.7163
+      },
+      {
+        "word": "self",
+        "start_offset": 159,
+        "end_offset": 163,
+        "start": 23.325,
+        "end": 23.685,
+        "score": -1.1397
+      },
+      {
+        "word": "must",
+        "start_offset": 164,
+        "end_offset": 168,
+        "start": 24.665,
+        "end": 24.985,
+        "score": -0.6967
+      },
+      {
+        "word": "attain",
+        "start_offset": 169,
+        "end_offset": 175,
+        "start": 25.145,
+        "end": 25.706,
+        "score": -0.7258
+      },
+      {
+        "word": "a",
+        "start_offset": 176,
+        "end_offset": 177,
+        "start": 26.066,
+        "end": 26.086,
+        "score": -0.7031
+      },
+      {
+        "word": "grade",
+        "start_offset": 178,
+        "end_offset": 183,
+        "start": 26.266,
+        "end": 26.746,
+        "score": -1.0175
+      },
+      {
+        "word": "of",
+        "start_offset": 184,
+        "end_offset": 186,
+        "start": 27.546,
+        "end": 27.766,
+        "score": -0.7447
+      },
+      {
+        "word": "five,",
+        "start_offset": 187,
+        "end_offset": 192,
+        "start": 28.586,
+        "end": 29.126,
+        "score": -1.3731
+      },
+      {
+        "word": "that",
+        "start_offset": 193,
+        "end_offset": 197,
+        "start": 30.146,
+        "end": 30.387,
+        "score": -0.8021
+      },
+      {
+        "word": "is",
+        "start_offset": 198,
+        "end_offset": 200,
+        "start": 30.587,
+        "end": 30.827,
+        "score": -0.7749
+      },
+      {
+        "word": "five",
+        "start_offset": 201,
+        "end_offset": 205,
+        "start": 31.947,
+        "end": 32.367,
+        "score": -3.6164
+      },
+      {
+        "word": "percent",
+        "start_offset": 206,
+        "end_offset": 213,
+        "start": 32.487,
+        "end": 33.147,
+        "score": -2.2936
+      },
+      {
+        "word": "service",
+        "start_offset": 214,
+        "end_offset": 221,
+        "start": 34.087,
+        "end": 34.607,
+        "score": -0.7094
+      },
+      {
+        "word": "to",
+        "start_offset": 222,
+        "end_offset": 224,
+        "start": 34.827,
+        "end": 34.947,
+        "score": -0.7161
+      },
+      {
+        "word": "others,",
+        "start_offset": 225,
+        "end_offset": 232,
+        "start": 35.188,
+        "end": 35.648,
+        "score": -0.7022
+      },
+      {
+        "word": "ninety-five",
+        "start_offset": 233,
+        "end_offset": 244,
+        "start": 36.608,
+        "end": 37.568,
+        "score": -5.0239
+      },
+      {
+        "word": "percent",
+        "start_offset": 245,
+        "end_offset": 252,
+        "start": 37.948,
+        "end": 38.628,
+        "score": -2.1867
+      },
+      {
+        "word": "service",
+        "start_offset": 253,
+        "end_offset": 260,
+        "start": 39.488,
+        "end": 40.029,
+        "score": -0.7361
+      },
+      {
+        "word": "to",
+        "start_offset": 261,
+        "end_offset": 263,
+        "start": 40.329,
+        "end": 40.449,
+        "score": -1.2062
+      },
+      {
+        "word": "self.",
+        "start_offset": 264,
+        "end_offset": 269,
+        "start": 40.809,
+        "end": 41.209,
+        "score": -1.2971
+      },
+      {
+        "word": "It",
+        "start_offset": 270,
+        "end_offset": 272,
+        "start": 42.469,
+        "end": 42.629,
+        "score": -0.7022
+      },
+      {
+        "word": "must",
+        "start_offset": 273,
+        "end_offset": 277,
+        "start": 42.849,
+        "end": 43.189,
+        "score": -0.6983
+      },
+      {
+        "word": "approach",
+        "start_offset": 278,
+        "end_offset": 286,
+        "start": 43.409,
+        "end": 44.089,
+        "score": -0.7213
+      },
+      {
+        "word": "totality.",
+        "start_offset": 287,
+        "end_offset": 296,
+        "start": 44.49,
+        "end": 45.45,
+        "score": -0.696
+      },
+      {
+        "word": "The",
+        "start_offset": 297,
+        "end_offset": 300,
+        "start": 46.63,
+        "end": 46.77,
+        "score": -0.8501
+      },
+      {
+        "word": "negative",
+        "start_offset": 301,
+        "end_offset": 309,
+        "start": 47.43,
+        "end": 48.11,
+        "score": -0.705
+      },
+      {
+        "word": "path",
+        "start_offset": 310,
+        "end_offset": 314,
+        "start": 48.29,
+        "end": 48.75,
+        "score": -0.7463
+      },
+      {
+        "word": "is",
+        "start_offset": 315,
+        "end_offset": 317,
+        "start": 49.531,
+        "end": 49.771,
+        "score": -0.7166
+      },
+      {
+        "word": "quite",
+        "start_offset": 318,
+        "end_offset": 323,
+        "start": 50.351,
+        "end": 50.911,
+        "score": -1.3373
+      },
+      {
+        "word": "difficult",
+        "start_offset": 324,
+        "end_offset": 333,
+        "start": 51.371,
+        "end": 52.151,
+        "score": -0.7397
+      },
+      {
+        "word": "to",
+        "start_offset": 334,
+        "end_offset": 336,
+        "start": 53.071,
+        "end": 53.211,
+        "score": -0.9767
+      },
+      {
+        "word": "attain",
+        "start_offset": 337,
+        "end_offset": 343,
+        "start": 54.352,
+        "end": 54.952,
+        "score": -0.7749
+      },
+      {
+        "word": "harvestability",
+        "start_offset": 344,
+        "end_offset": 358,
+        "start": 55.352,
+        "end": 56.572,
+        "score": -0.7456
+      },
+      {
+        "word": "upon",
+        "start_offset": 359,
+        "end_offset": 363,
+        "start": 57.332,
+        "end": 57.892,
+        "score": -0.8939
+      },
+      {
+        "word": "and",
+        "start_offset": 364,
+        "end_offset": 367,
+        "start": 58.933,
+        "end": 59.153,
+        "score": -0.7909
+      },
+      {
+        "word": "requires",
+        "start_offset": 368,
+        "end_offset": 376,
+        "start": 59.273,
+        "end": 60.113,
+        "score": -0.7519
+      },
+      {
+        "word": "great",
+        "start_offset": 377,
+        "end_offset": 382,
+        "start": 60.793,
+        "end": 61.233,
+        "score": -0.7068
+      },
+      {
+        "word": "dedication.",
+        "start_offset": 383,
+        "end_offset": 394,
+        "start": 61.973,
+        "end": 62.813,
+        "score": -0.7573
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "017-32.mp3",
+    "audio_duration": 63.0335,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

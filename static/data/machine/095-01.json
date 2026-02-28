@@ -1,0 +1,149 @@
+{
+  "text": "Could you first please give me the condition of the instrument? I in his has previously stated.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you first please give me the condition of the instrument?",
+        "start_offset": 4,
+        "end_offset": 43,
+        "start": 0.32,
+        "end": 3.44
+      },
+      {
+        "segment": "I in his has previously stated.",
+        "start_offset": 129,
+        "end_offset": 269,
+        "start": 10.32,
+        "end": 21.52
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 4,
+        "end_offset": 8,
+        "start": 0.32,
+        "end": 0.64
+      },
+      {
+        "word": "you",
+        "start_offset": 8,
+        "end_offset": 9,
+        "start": 0.64,
+        "end": 0.72
+      },
+      {
+        "word": "first",
+        "start_offset": 11,
+        "end_offset": 13,
+        "start": 0.88,
+        "end": 1.04
+      },
+      {
+        "word": "please",
+        "start_offset": 14,
+        "end_offset": 17,
+        "start": 1.12,
+        "end": 1.36
+      },
+      {
+        "word": "give",
+        "start_offset": 17,
+        "end_offset": 20,
+        "start": 1.36,
+        "end": 1.6
+      },
+      {
+        "word": "me",
+        "start_offset": 20,
+        "end_offset": 21,
+        "start": 1.6,
+        "end": 1.68
+      },
+      {
+        "word": "the",
+        "start_offset": 21,
+        "end_offset": 22,
+        "start": 1.68,
+        "end": 1.76
+      },
+      {
+        "word": "condition",
+        "start_offset": 22,
+        "end_offset": 26,
+        "start": 1.76,
+        "end": 2.08
+      },
+      {
+        "word": "of",
+        "start_offset": 28,
+        "end_offset": 29,
+        "start": 2.24,
+        "end": 2.32
+      },
+      {
+        "word": "the",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 2.48,
+        "end": 2.64
+      },
+      {
+        "word": "instrument?",
+        "start_offset": 33,
+        "end_offset": 43,
+        "start": 2.64,
+        "end": 3.44
+      },
+      {
+        "word": "I",
+        "start_offset": 129,
+        "end_offset": 133,
+        "start": 10.32,
+        "end": 10.64
+      },
+      {
+        "word": "in",
+        "start_offset": 147,
+        "end_offset": 150,
+        "start": 11.76,
+        "end": 12.0
+      },
+      {
+        "word": "his",
+        "start_offset": 211,
+        "end_offset": 215,
+        "start": 16.88,
+        "end": 17.2
+      },
+      {
+        "word": "has",
+        "start_offset": 224,
+        "end_offset": 228,
+        "start": 17.92,
+        "end": 18.240000000000002
+      },
+      {
+        "word": "previously",
+        "start_offset": 239,
+        "end_offset": 257,
+        "start": 19.12,
+        "end": 20.56
+      },
+      {
+        "word": "stated.",
+        "start_offset": 261,
+        "end_offset": 269,
+        "start": 20.88,
+        "end": 21.52
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "095-01.mp3",
+    "audio_duration": 23.04,
+    "transcription_time": 0.09,
+    "rtfx": 263.66,
+    "timestamp": "2026-01-06T21:59:30.540019+00:00"
+  }
+}

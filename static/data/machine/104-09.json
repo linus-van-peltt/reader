@@ -1,0 +1,359 @@
+{
+  "text": "Well, does it seem that the cat will lose all of its vision in the near future or is the cat very near death? The one known as Gandalf will not lose eye, sight, or life on most possibility, probability, vortices for three of your seasons approximately.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Well, does it seem that the cat will lose all of its vision in the near future or is the cat very near death?",
+        "start_offset": 32,
+        "end_offset": 178,
+        "start": 2.56,
+        "end": 14.24
+      },
+      {
+        "segment": "The one known as Gandalf will not lose eye, sight, or life on most possibility, probability, vortices for three of your seasons approximately.",
+        "start_offset": 347,
+        "end_offset": 928,
+        "start": 27.76,
+        "end": 74.24
+      }
+    ],
+    "word": [
+      {
+        "word": "Well,",
+        "start_offset": 32,
+        "end_offset": 40,
+        "start": 2.56,
+        "end": 3.2
+      },
+      {
+        "word": "does",
+        "start_offset": 64,
+        "end_offset": 72,
+        "start": 5.12,
+        "end": 5.76
+      },
+      {
+        "word": "it",
+        "start_offset": 72,
+        "end_offset": 76,
+        "start": 5.76,
+        "end": 6.08
+      },
+      {
+        "word": "seem",
+        "start_offset": 79,
+        "end_offset": 84,
+        "start": 6.32,
+        "end": 6.72
+      },
+      {
+        "word": "that",
+        "start_offset": 84,
+        "end_offset": 87,
+        "start": 6.72,
+        "end": 6.96
+      },
+      {
+        "word": "the",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 6.96,
+        "end": 7.12
+      },
+      {
+        "word": "cat",
+        "start_offset": 89,
+        "end_offset": 93,
+        "start": 7.12,
+        "end": 7.44
+      },
+      {
+        "word": "will",
+        "start_offset": 93,
+        "end_offset": 97,
+        "start": 7.44,
+        "end": 7.76
+      },
+      {
+        "word": "lose",
+        "start_offset": 100,
+        "end_offset": 108,
+        "start": 8.0,
+        "end": 8.64
+      },
+      {
+        "word": "all",
+        "start_offset": 108,
+        "end_offset": 112,
+        "start": 8.64,
+        "end": 8.96
+      },
+      {
+        "word": "of",
+        "start_offset": 112,
+        "end_offset": 116,
+        "start": 8.96,
+        "end": 9.28
+      },
+      {
+        "word": "its",
+        "start_offset": 116,
+        "end_offset": 120,
+        "start": 9.28,
+        "end": 9.6
+      },
+      {
+        "word": "vision",
+        "start_offset": 120,
+        "end_offset": 128,
+        "start": 9.6,
+        "end": 10.24
+      },
+      {
+        "word": "in",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 10.88,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "the",
+        "start_offset": 139,
+        "end_offset": 142,
+        "start": 11.120000000000001,
+        "end": 11.36
+      },
+      {
+        "word": "near",
+        "start_offset": 142,
+        "end_offset": 147,
+        "start": 11.36,
+        "end": 11.76
+      },
+      {
+        "word": "future",
+        "start_offset": 147,
+        "end_offset": 151,
+        "start": 11.76,
+        "end": 12.08
+      },
+      {
+        "word": "or",
+        "start_offset": 153,
+        "end_offset": 155,
+        "start": 12.24,
+        "end": 12.4
+      },
+      {
+        "word": "is",
+        "start_offset": 155,
+        "end_offset": 157,
+        "start": 12.4,
+        "end": 12.56
+      },
+      {
+        "word": "the",
+        "start_offset": 157,
+        "end_offset": 159,
+        "start": 12.56,
+        "end": 12.72
+      },
+      {
+        "word": "cat",
+        "start_offset": 159,
+        "end_offset": 162,
+        "start": 12.72,
+        "end": 12.96
+      },
+      {
+        "word": "very",
+        "start_offset": 162,
+        "end_offset": 165,
+        "start": 12.96,
+        "end": 13.200000000000001
+      },
+      {
+        "word": "near",
+        "start_offset": 165,
+        "end_offset": 170,
+        "start": 13.200000000000001,
+        "end": 13.6
+      },
+      {
+        "word": "death?",
+        "start_offset": 170,
+        "end_offset": 178,
+        "start": 13.6,
+        "end": 14.24
+      },
+      {
+        "word": "The",
+        "start_offset": 347,
+        "end_offset": 350,
+        "start": 27.76,
+        "end": 28.0
+      },
+      {
+        "word": "one",
+        "start_offset": 354,
+        "end_offset": 358,
+        "start": 28.32,
+        "end": 28.64
+      },
+      {
+        "word": "known",
+        "start_offset": 362,
+        "end_offset": 372,
+        "start": 28.96,
+        "end": 29.76
+      },
+      {
+        "word": "as",
+        "start_offset": 372,
+        "end_offset": 376,
+        "start": 29.76,
+        "end": 30.080000000000002
+      },
+      {
+        "word": "Gandalf",
+        "start_offset": 381,
+        "end_offset": 396,
+        "start": 30.48,
+        "end": 31.68
+      },
+      {
+        "word": "will",
+        "start_offset": 444,
+        "end_offset": 448,
+        "start": 35.52,
+        "end": 35.84
+      },
+      {
+        "word": "not",
+        "start_offset": 456,
+        "end_offset": 460,
+        "start": 36.480000000000004,
+        "end": 36.800000000000004
+      },
+      {
+        "word": "lose",
+        "start_offset": 476,
+        "end_offset": 484,
+        "start": 38.08,
+        "end": 38.72
+      },
+      {
+        "word": "eye,",
+        "start_offset": 499,
+        "end_offset": 506,
+        "start": 39.92,
+        "end": 40.480000000000004
+      },
+      {
+        "word": "sight,",
+        "start_offset": 510,
+        "end_offset": 518,
+        "start": 40.800000000000004,
+        "end": 41.44
+      },
+      {
+        "word": "or",
+        "start_offset": 532,
+        "end_offset": 536,
+        "start": 42.56,
+        "end": 42.88
+      },
+      {
+        "word": "life",
+        "start_offset": 548,
+        "end_offset": 556,
+        "start": 43.84,
+        "end": 44.480000000000004
+      },
+      {
+        "word": "on",
+        "start_offset": 581,
+        "end_offset": 585,
+        "start": 46.480000000000004,
+        "end": 46.800000000000004
+      },
+      {
+        "word": "most",
+        "start_offset": 593,
+        "end_offset": 597,
+        "start": 47.44,
+        "end": 47.76
+      },
+      {
+        "word": "possibility,",
+        "start_offset": 617,
+        "end_offset": 633,
+        "start": 49.36,
+        "end": 50.64
+      },
+      {
+        "word": "probability,",
+        "start_offset": 650,
+        "end_offset": 669,
+        "start": 52.0,
+        "end": 53.52
+      },
+      {
+        "word": "vortices",
+        "start_offset": 687,
+        "end_offset": 702,
+        "start": 54.96,
+        "end": 56.160000000000004
+      },
+      {
+        "word": "for",
+        "start_offset": 725,
+        "end_offset": 729,
+        "start": 58.0,
+        "end": 58.32
+      },
+      {
+        "word": "three",
+        "start_offset": 815,
+        "end_offset": 823,
+        "start": 65.2,
+        "end": 65.84
+      },
+      {
+        "word": "of",
+        "start_offset": 827,
+        "end_offset": 831,
+        "start": 66.16,
+        "end": 66.48
+      },
+      {
+        "word": "your",
+        "start_offset": 835,
+        "end_offset": 839,
+        "start": 66.8,
+        "end": 67.12
+      },
+      {
+        "word": "seasons",
+        "start_offset": 851,
+        "end_offset": 863,
+        "start": 68.08,
+        "end": 69.04
+      },
+      {
+        "word": "approximately.",
+        "start_offset": 900,
+        "end_offset": 928,
+        "start": 72.0,
+        "end": 74.24
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "104-09.mp3",
+    "audio_duration": 77.04,
+    "transcription_time": 0.13,
+    "rtfx": 572.24,
+    "timestamp": "2026-01-06T22:00:50.945052+00:00"
+  }
+}

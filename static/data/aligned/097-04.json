@@ -1,0 +1,172 @@
+{
+  "text": "Is the reason for this lack of comment the first distortion? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is the reason for this lack of comment the first distortion?",
+        "start_offset": 0,
+        "end_offset": 60,
+        "start": 3.242,
+        "end": 5.684
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 61,
+        "end_offset": 69,
+        "start": 8.426,
+        "end": 10.808
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 70,
+        "end_offset": 86,
+        "start": 12.709,
+        "end": 16.511
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 3.242,
+        "end": 3.322,
+        "score": -1.07
+      },
+      {
+        "word": "the",
+        "start_offset": 3,
+        "end_offset": 6,
+        "start": 3.362,
+        "end": 3.422,
+        "score": -0.716
+      },
+      {
+        "word": "reason",
+        "start_offset": 7,
+        "end_offset": 13,
+        "start": 3.482,
+        "end": 3.743,
+        "score": -0.717
+      },
+      {
+        "word": "for",
+        "start_offset": 14,
+        "end_offset": 17,
+        "start": 3.783,
+        "end": 3.863,
+        "score": -0.7052
+      },
+      {
+        "word": "this",
+        "start_offset": 18,
+        "end_offset": 22,
+        "start": 3.903,
+        "end": 4.023,
+        "score": -0.7506
+      },
+      {
+        "word": "lack",
+        "start_offset": 23,
+        "end_offset": 27,
+        "start": 4.063,
+        "end": 4.243,
+        "score": -0.8382
+      },
+      {
+        "word": "of",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 4.303,
+        "end": 4.363,
+        "score": -0.7994
+      },
+      {
+        "word": "comment",
+        "start_offset": 31,
+        "end_offset": 38,
+        "start": 4.403,
+        "end": 4.783,
+        "score": -1.2025
+      },
+      {
+        "word": "the",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 4.823,
+        "end": 4.883,
+        "score": -0.7279
+      },
+      {
+        "word": "first",
+        "start_offset": 43,
+        "end_offset": 48,
+        "start": 4.923,
+        "end": 5.144,
+        "score": -0.7639
+      },
+      {
+        "word": "distortion?",
+        "start_offset": 49,
+        "end_offset": 60,
+        "start": 5.184,
+        "end": 5.684,
+        "score": -0.7941
+      },
+      {
+        "word": "I",
+        "start_offset": 61,
+        "end_offset": 62,
+        "start": 8.426,
+        "end": 8.446,
+        "score": -1.7648
+      },
+      {
+        "word": "am",
+        "start_offset": 63,
+        "end_offset": 65,
+        "start": 9.346,
+        "end": 9.607,
+        "score": -3.2606
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 66,
+        "end_offset": 69,
+        "start": 10.667,
+        "end": 10.808,
+        "score": -4.7318
+      },
+      {
+        "word": "This",
+        "start_offset": 70,
+        "end_offset": 74,
+        "start": 12.709,
+        "end": 13.109,
+        "score": -0.938
+      },
+      {
+        "word": "is",
+        "start_offset": 75,
+        "end_offset": 77,
+        "start": 14.01,
+        "end": 14.31,
+        "score": -0.8104
+      },
+      {
+        "word": "correct.",
+        "start_offset": 78,
+        "end_offset": 86,
+        "start": 15.751,
+        "end": 16.511,
+        "score": -0.7162
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "097-04.mp3",
+    "audio_duration": 30.0409,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

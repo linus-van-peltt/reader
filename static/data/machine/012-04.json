@@ -1,0 +1,128 @@
+{
+  "text": "Make such requests. I am la. Your query is unclear. Please restate.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Make such requests.",
+        "start_offset": 16,
+        "end_offset": 33,
+        "start": 1.28,
+        "end": 2.64
+      },
+      {
+        "segment": "I am la.",
+        "start_offset": 97,
+        "end_offset": 122,
+        "start": 7.76,
+        "end": 9.76
+      },
+      {
+        "segment": "Your query is unclear.",
+        "start_offset": 139,
+        "end_offset": 197,
+        "start": 11.120000000000001,
+        "end": 15.76
+      },
+      {
+        "segment": "Please restate.",
+        "start_offset": 209,
+        "end_offset": 241,
+        "start": 16.72,
+        "end": 19.28
+      }
+    ],
+    "word": [
+      {
+        "word": "Make",
+        "start_offset": 16,
+        "end_offset": 19,
+        "start": 1.28,
+        "end": 1.52
+      },
+      {
+        "word": "such",
+        "start_offset": 21,
+        "end_offset": 24,
+        "start": 1.68,
+        "end": 1.92
+      },
+      {
+        "word": "requests.",
+        "start_offset": 26,
+        "end_offset": 33,
+        "start": 2.08,
+        "end": 2.64
+      },
+      {
+        "word": "I",
+        "start_offset": 97,
+        "end_offset": 101,
+        "start": 7.76,
+        "end": 8.08
+      },
+      {
+        "word": "am",
+        "start_offset": 109,
+        "end_offset": 113,
+        "start": 8.72,
+        "end": 9.040000000000001
+      },
+      {
+        "word": "la.",
+        "start_offset": 119,
+        "end_offset": 122,
+        "start": 9.52,
+        "end": 9.76
+      },
+      {
+        "word": "Your",
+        "start_offset": 139,
+        "end_offset": 146,
+        "start": 11.120000000000001,
+        "end": 11.68
+      },
+      {
+        "word": "query",
+        "start_offset": 150,
+        "end_offset": 158,
+        "start": 12.0,
+        "end": 12.64
+      },
+      {
+        "word": "is",
+        "start_offset": 170,
+        "end_offset": 174,
+        "start": 13.6,
+        "end": 13.92
+      },
+      {
+        "word": "unclear.",
+        "start_offset": 182,
+        "end_offset": 197,
+        "start": 14.56,
+        "end": 15.76
+      },
+      {
+        "word": "Please",
+        "start_offset": 209,
+        "end_offset": 219,
+        "start": 16.72,
+        "end": 17.52
+      },
+      {
+        "word": "restate.",
+        "start_offset": 223,
+        "end_offset": 241,
+        "start": 17.84,
+        "end": 19.28
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "012-04.mp3",
+    "audio_duration": 20.04,
+    "transcription_time": 0.08,
+    "rtfx": 238.81,
+    "timestamp": "2026-01-06T21:46:54.295530+00:00"
+  }
+}

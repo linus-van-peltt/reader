@@ -1,0 +1,394 @@
+{
+  "text": "Could we please first have an indication of the instrument's condition? I am right. This instrument scans at present at extremely low physical energy and is under attack. This will continue for some of your weeks. However, the vital energy of this instrument is gradually restoring its former level.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could we please first have an indication of the instrument's condition?",
+        "start_offset": 16,
+        "end_offset": 96,
+        "start": 1.28,
+        "end": 7.68
+      },
+      {
+        "segment": "I am right.",
+        "start_offset": 244,
+        "end_offset": 272,
+        "start": 19.52,
+        "end": 21.76
+      },
+      {
+        "segment": "This instrument scans at present at extremely low physical energy and is under attack.",
+        "start_offset": 308,
+        "end_offset": 637,
+        "start": 24.64,
+        "end": 50.96
+      },
+      {
+        "segment": "This will continue for some of your weeks.",
+        "start_offset": 688,
+        "end_offset": 816,
+        "start": 55.04,
+        "end": 65.28
+      },
+      {
+        "segment": "However, the vital energy of this instrument is gradually restoring its former level.",
+        "start_offset": 857,
+        "end_offset": 1188,
+        "start": 68.56,
+        "end": 95.04
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 16,
+        "end_offset": 21,
+        "start": 1.28,
+        "end": 1.68
+      },
+      {
+        "word": "we",
+        "start_offset": 21,
+        "end_offset": 24,
+        "start": 1.68,
+        "end": 1.92
+      },
+      {
+        "word": "please",
+        "start_offset": 24,
+        "end_offset": 30,
+        "start": 1.92,
+        "end": 2.4
+      },
+      {
+        "word": "first",
+        "start_offset": 30,
+        "end_offset": 34,
+        "start": 2.4,
+        "end": 2.72
+      },
+      {
+        "word": "have",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 2.72,
+        "end": 3.04
+      },
+      {
+        "word": "an",
+        "start_offset": 54,
+        "end_offset": 58,
+        "start": 4.32,
+        "end": 4.64
+      },
+      {
+        "word": "indication",
+        "start_offset": 62,
+        "end_offset": 73,
+        "start": 4.96,
+        "end": 5.84
+      },
+      {
+        "word": "of",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 5.84,
+        "end": 6.0
+      },
+      {
+        "word": "the",
+        "start_offset": 75,
+        "end_offset": 78,
+        "start": 6.0,
+        "end": 6.24
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 78,
+        "end_offset": 88,
+        "start": 6.24,
+        "end": 7.04
+      },
+      {
+        "word": "condition?",
+        "start_offset": 88,
+        "end_offset": 96,
+        "start": 7.04,
+        "end": 7.68
+      },
+      {
+        "word": "I",
+        "start_offset": 244,
+        "end_offset": 248,
+        "start": 19.52,
+        "end": 19.84
+      },
+      {
+        "word": "am",
+        "start_offset": 257,
+        "end_offset": 260,
+        "start": 20.56,
+        "end": 20.8
+      },
+      {
+        "word": "right.",
+        "start_offset": 269,
+        "end_offset": 272,
+        "start": 21.52,
+        "end": 21.76
+      },
+      {
+        "word": "This",
+        "start_offset": 308,
+        "end_offset": 312,
+        "start": 24.64,
+        "end": 24.96
+      },
+      {
+        "word": "instrument",
+        "start_offset": 328,
+        "end_offset": 340,
+        "start": 26.240000000000002,
+        "end": 27.2
+      },
+      {
+        "word": "scans",
+        "start_offset": 368,
+        "end_offset": 376,
+        "start": 29.44,
+        "end": 30.080000000000002
+      },
+      {
+        "word": "at",
+        "start_offset": 400,
+        "end_offset": 404,
+        "start": 32.0,
+        "end": 32.32
+      },
+      {
+        "word": "present",
+        "start_offset": 408,
+        "end_offset": 416,
+        "start": 32.64,
+        "end": 33.28
+      },
+      {
+        "word": "at",
+        "start_offset": 444,
+        "end_offset": 448,
+        "start": 35.52,
+        "end": 35.84
+      },
+      {
+        "word": "extremely",
+        "start_offset": 458,
+        "end_offset": 473,
+        "start": 36.64,
+        "end": 37.84
+      },
+      {
+        "word": "low",
+        "start_offset": 477,
+        "end_offset": 488,
+        "start": 38.160000000000004,
+        "end": 39.04
+      },
+      {
+        "word": "physical",
+        "start_offset": 503,
+        "end_offset": 515,
+        "start": 40.24,
+        "end": 41.2
+      },
+      {
+        "word": "energy",
+        "start_offset": 531,
+        "end_offset": 539,
+        "start": 42.480000000000004,
+        "end": 43.12
+      },
+      {
+        "word": "and",
+        "start_offset": 567,
+        "end_offset": 571,
+        "start": 45.36,
+        "end": 45.68
+      },
+      {
+        "word": "is",
+        "start_offset": 579,
+        "end_offset": 583,
+        "start": 46.32,
+        "end": 46.64
+      },
+      {
+        "word": "under",
+        "start_offset": 603,
+        "end_offset": 607,
+        "start": 48.24,
+        "end": 48.56
+      },
+      {
+        "word": "attack.",
+        "start_offset": 626,
+        "end_offset": 637,
+        "start": 50.08,
+        "end": 50.96
+      },
+      {
+        "word": "This",
+        "start_offset": 688,
+        "end_offset": 692,
+        "start": 55.04,
+        "end": 55.36
+      },
+      {
+        "word": "will",
+        "start_offset": 704,
+        "end_offset": 708,
+        "start": 56.32,
+        "end": 56.64
+      },
+      {
+        "word": "continue",
+        "start_offset": 724,
+        "end_offset": 736,
+        "start": 57.92,
+        "end": 58.88
+      },
+      {
+        "word": "for",
+        "start_offset": 760,
+        "end_offset": 764,
+        "start": 60.800000000000004,
+        "end": 61.120000000000005
+      },
+      {
+        "word": "some",
+        "start_offset": 784,
+        "end_offset": 788,
+        "start": 62.72,
+        "end": 63.04
+      },
+      {
+        "word": "of",
+        "start_offset": 796,
+        "end_offset": 800,
+        "start": 63.68,
+        "end": 64.0
+      },
+      {
+        "word": "your",
+        "start_offset": 800,
+        "end_offset": 804,
+        "start": 64.0,
+        "end": 64.32000000000001
+      },
+      {
+        "word": "weeks.",
+        "start_offset": 808,
+        "end_offset": 816,
+        "start": 64.64,
+        "end": 65.28
+      },
+      {
+        "word": "However,",
+        "start_offset": 857,
+        "end_offset": 869,
+        "start": 68.56,
+        "end": 69.52
+      },
+      {
+        "word": "the",
+        "start_offset": 898,
+        "end_offset": 902,
+        "start": 71.84,
+        "end": 72.16
+      },
+      {
+        "word": "vital",
+        "start_offset": 910,
+        "end_offset": 918,
+        "start": 72.8,
+        "end": 73.44
+      },
+      {
+        "word": "energy",
+        "start_offset": 930,
+        "end_offset": 938,
+        "start": 74.4,
+        "end": 75.04
+      },
+      {
+        "word": "of",
+        "start_offset": 962,
+        "end_offset": 966,
+        "start": 76.96000000000001,
+        "end": 77.28
+      },
+      {
+        "word": "this",
+        "start_offset": 970,
+        "end_offset": 974,
+        "start": 77.60000000000001,
+        "end": 77.92
+      },
+      {
+        "word": "instrument",
+        "start_offset": 986,
+        "end_offset": 998,
+        "start": 78.88,
+        "end": 79.84
+      },
+      {
+        "word": "is",
+        "start_offset": 1022,
+        "end_offset": 1026,
+        "start": 81.76,
+        "end": 82.08
+      },
+      {
+        "word": "gradually",
+        "start_offset": 1046,
+        "end_offset": 1062,
+        "start": 83.68,
+        "end": 84.96000000000001
+      },
+      {
+        "word": "restoring",
+        "start_offset": 1090,
+        "end_offset": 1106,
+        "start": 87.2,
+        "end": 88.48
+      },
+      {
+        "word": "its",
+        "start_offset": 1129,
+        "end_offset": 1133,
+        "start": 90.32000000000001,
+        "end": 90.64
+      },
+      {
+        "word": "former",
+        "start_offset": 1153,
+        "end_offset": 1164,
+        "start": 92.24,
+        "end": 93.12
+      },
+      {
+        "word": "level.",
+        "start_offset": 1180,
+        "end_offset": 1188,
+        "start": 94.4,
+        "end": 95.04
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "046-01.mp3",
+    "audio_duration": 98.04,
+    "transcription_time": 0.15,
+    "rtfx": 633.79,
+    "timestamp": "2026-01-06T21:51:25.428891+00:00"
+  }
+}

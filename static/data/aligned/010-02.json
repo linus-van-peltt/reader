@@ -1,0 +1,181 @@
+{
+  "text": "Was the body complex available at that time what we refer to as the ape type? That is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Was the body complex available at that time what we refer to as the ape type?",
+        "start_offset": 0,
+        "end_offset": 77,
+        "start": 3.542,
+        "end": 8.023
+      },
+      {
+        "segment": "That is correct.",
+        "start_offset": 78,
+        "end_offset": 94,
+        "start": 11.365,
+        "end": 14.366
+      }
+    ],
+    "word": [
+      {
+        "word": "Was",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 3.542,
+        "end": 3.742,
+        "score": -2.2294
+      },
+      {
+        "word": "the",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 3.842,
+        "end": 3.942,
+        "score": -1.343
+      },
+      {
+        "word": "body",
+        "start_offset": 8,
+        "end_offset": 12,
+        "start": 4.022,
+        "end": 4.282,
+        "score": -1.082
+      },
+      {
+        "word": "complex",
+        "start_offset": 13,
+        "end_offset": 20,
+        "start": 4.362,
+        "end": 4.822,
+        "score": -3.1075
+      },
+      {
+        "word": "available",
+        "start_offset": 21,
+        "end_offset": 30,
+        "start": 4.922,
+        "end": 5.382,
+        "score": -0.7525
+      },
+      {
+        "word": "at",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 5.422,
+        "end": 5.482,
+        "score": -3.4289
+      },
+      {
+        "word": "that",
+        "start_offset": 34,
+        "end_offset": 38,
+        "start": 5.522,
+        "end": 5.722,
+        "score": -1.0725
+      },
+      {
+        "word": "time",
+        "start_offset": 39,
+        "end_offset": 43,
+        "start": 5.803,
+        "end": 6.043,
+        "score": -3.6109
+      },
+      {
+        "word": "what",
+        "start_offset": 44,
+        "end_offset": 48,
+        "start": 6.143,
+        "end": 6.303,
+        "score": -4.3039
+      },
+      {
+        "word": "we",
+        "start_offset": 49,
+        "end_offset": 51,
+        "start": 6.363,
+        "end": 6.443,
+        "score": -2.7211
+      },
+      {
+        "word": "refer",
+        "start_offset": 52,
+        "end_offset": 57,
+        "start": 6.523,
+        "end": 6.843,
+        "score": -2.8353
+      },
+      {
+        "word": "to",
+        "start_offset": 58,
+        "end_offset": 60,
+        "start": 6.903,
+        "end": 6.983,
+        "score": -1.6559
+      },
+      {
+        "word": "as",
+        "start_offset": 61,
+        "end_offset": 63,
+        "start": 7.123,
+        "end": 7.223,
+        "score": -2.0162
+      },
+      {
+        "word": "the",
+        "start_offset": 64,
+        "end_offset": 67,
+        "start": 7.303,
+        "end": 7.363,
+        "score": -3.3233
+      },
+      {
+        "word": "ape",
+        "start_offset": 68,
+        "end_offset": 71,
+        "start": 7.583,
+        "end": 7.743,
+        "score": -0.929
+      },
+      {
+        "word": "type?",
+        "start_offset": 72,
+        "end_offset": 77,
+        "start": 7.903,
+        "end": 8.023,
+        "score": -4.2347
+      },
+      {
+        "word": "That",
+        "start_offset": 78,
+        "end_offset": 82,
+        "start": 11.365,
+        "end": 11.645,
+        "score": -3.1444
+      },
+      {
+        "word": "is",
+        "start_offset": 83,
+        "end_offset": 85,
+        "start": 12.465,
+        "end": 12.706,
+        "score": -2.4652
+      },
+      {
+        "word": "correct.",
+        "start_offset": 86,
+        "end_offset": 94,
+        "start": 13.786,
+        "end": 14.366,
+        "score": -4.3216
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "010-02.mp3",
+    "audio_duration": 15.0466,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

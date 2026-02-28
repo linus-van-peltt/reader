@@ -1,0 +1,268 @@
+{
+  "text": "Is there anything that we can do about the instrument's stomach problem or constipation? I am Ra. The healing modes of which each is capable are already in use.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there anything that we can do about the instrument's stomach problem or constipation?",
+        "start_offset": 0,
+        "end_offset": 88,
+        "start": 1.921,
+        "end": 22.652
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 89,
+        "end_offset": 97,
+        "start": 22.672,
+        "end": 22.852
+      },
+      {
+        "segment": "The healing modes of which each is capable are already in use.",
+        "start_offset": 98,
+        "end_offset": 160,
+        "start": 22.872,
+        "end": 41.601
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 1.921,
+        "end": 2.561,
+        "score": -7.9868
+      },
+      {
+        "word": "there",
+        "start_offset": 3,
+        "end_offset": 8,
+        "start": 2.581,
+        "end": 2.681,
+        "score": -6.6677
+      },
+      {
+        "word": "anything",
+        "start_offset": 9,
+        "end_offset": 17,
+        "start": 2.701,
+        "end": 2.901,
+        "score": -6.6706
+      },
+      {
+        "word": "that",
+        "start_offset": 18,
+        "end_offset": 22,
+        "start": 2.921,
+        "end": 3.102,
+        "score": -5.7421
+      },
+      {
+        "word": "we",
+        "start_offset": 23,
+        "end_offset": 25,
+        "start": 3.122,
+        "end": 3.202,
+        "score": -5.2331
+      },
+      {
+        "word": "can",
+        "start_offset": 26,
+        "end_offset": 29,
+        "start": 3.262,
+        "end": 3.422,
+        "score": -4.8548
+      },
+      {
+        "word": "do",
+        "start_offset": 30,
+        "end_offset": 32,
+        "start": 3.462,
+        "end": 3.542,
+        "score": -6.9436
+      },
+      {
+        "word": "about",
+        "start_offset": 33,
+        "end_offset": 38,
+        "start": 3.622,
+        "end": 4.042,
+        "score": -6.5542
+      },
+      {
+        "word": "the",
+        "start_offset": 39,
+        "end_offset": 42,
+        "start": 4.062,
+        "end": 4.142,
+        "score": -7.1839
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 43,
+        "end_offset": 55,
+        "start": 4.162,
+        "end": 6.063,
+        "score": -6.6057
+      },
+      {
+        "word": "stomach",
+        "start_offset": 56,
+        "end_offset": 63,
+        "start": 7.284,
+        "end": 8.044,
+        "score": -6.627
+      },
+      {
+        "word": "problem",
+        "start_offset": 64,
+        "end_offset": 71,
+        "start": 15.548,
+        "end": 18.149,
+        "score": -5.6495
+      },
+      {
+        "word": "or",
+        "start_offset": 72,
+        "end_offset": 74,
+        "start": 18.249,
+        "end": 18.329,
+        "score": -4.9239
+      },
+      {
+        "word": "constipation?",
+        "start_offset": 75,
+        "end_offset": 88,
+        "start": 18.349,
+        "end": 22.652,
+        "score": -5.8415
+      },
+      {
+        "word": "I",
+        "start_offset": 89,
+        "end_offset": 90,
+        "start": 22.672,
+        "end": 22.692,
+        "score": -9.5934
+      },
+      {
+        "word": "am",
+        "start_offset": 91,
+        "end_offset": 93,
+        "start": 22.712,
+        "end": 22.772,
+        "score": -4.6972
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 94,
+        "end_offset": 97,
+        "start": 22.792,
+        "end": 22.852,
+        "score": -6.5906
+      },
+      {
+        "word": "The",
+        "start_offset": 98,
+        "end_offset": 101,
+        "start": 22.872,
+        "end": 22.932,
+        "score": -4.4507
+      },
+      {
+        "word": "healing",
+        "start_offset": 102,
+        "end_offset": 109,
+        "start": 22.952,
+        "end": 23.692,
+        "score": -2.4082
+      },
+      {
+        "word": "modes",
+        "start_offset": 110,
+        "end_offset": 115,
+        "start": 25.633,
+        "end": 26.233,
+        "score": -2.3419
+      },
+      {
+        "word": "of",
+        "start_offset": 116,
+        "end_offset": 118,
+        "start": 26.614,
+        "end": 26.914,
+        "score": -3.3355
+      },
+      {
+        "word": "which",
+        "start_offset": 119,
+        "end_offset": 124,
+        "start": 27.394,
+        "end": 27.834,
+        "score": -2.7197
+      },
+      {
+        "word": "each",
+        "start_offset": 125,
+        "end_offset": 129,
+        "start": 27.854,
+        "end": 29.595,
+        "score": -4.0494
+      },
+      {
+        "word": "is",
+        "start_offset": 130,
+        "end_offset": 132,
+        "start": 30.295,
+        "end": 30.636,
+        "score": -2.2062
+      },
+      {
+        "word": "capable",
+        "start_offset": 133,
+        "end_offset": 140,
+        "start": 32.056,
+        "end": 33.157,
+        "score": -2.5126
+      },
+      {
+        "word": "are",
+        "start_offset": 141,
+        "end_offset": 144,
+        "start": 35.618,
+        "end": 35.898,
+        "score": -3.9996
+      },
+      {
+        "word": "already",
+        "start_offset": 145,
+        "end_offset": 152,
+        "start": 37.259,
+        "end": 37.999,
+        "score": -0.915
+      },
+      {
+        "word": "in",
+        "start_offset": 153,
+        "end_offset": 155,
+        "start": 39.86,
+        "end": 40.08,
+        "score": -1.7161
+      },
+      {
+        "word": "use.",
+        "start_offset": 156,
+        "end_offset": 160,
+        "start": 41.161,
+        "end": 41.601,
+        "score": -3.7546
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "092-06.mp3",
+    "audio_duration": 44.0425,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

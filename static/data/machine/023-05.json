@@ -1,0 +1,198 @@
+{
+  "text": "Can you tell me your reason for being visible too? I am Rob. We allowed visibility because it did not make any difference.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can you tell me your reason for being visible too?",
+        "start_offset": 24,
+        "end_offset": 57,
+        "start": 1.92,
+        "end": 4.5600000000000005
+      },
+      {
+        "segment": "I am Rob.",
+        "start_offset": 111,
+        "end_offset": 139,
+        "start": 8.88,
+        "end": 11.120000000000001
+      },
+      {
+        "segment": "We allowed visibility because it did not make any difference.",
+        "start_offset": 167,
+        "end_offset": 368,
+        "start": 13.36,
+        "end": 29.44
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 24,
+        "end_offset": 28,
+        "start": 1.92,
+        "end": 2.24
+      },
+      {
+        "word": "you",
+        "start_offset": 29,
+        "end_offset": 31,
+        "start": 2.32,
+        "end": 2.48
+      },
+      {
+        "word": "tell",
+        "start_offset": 31,
+        "end_offset": 34,
+        "start": 2.48,
+        "end": 2.72
+      },
+      {
+        "word": "me",
+        "start_offset": 34,
+        "end_offset": 36,
+        "start": 2.72,
+        "end": 2.88
+      },
+      {
+        "word": "your",
+        "start_offset": 36,
+        "end_offset": 38,
+        "start": 2.88,
+        "end": 3.04
+      },
+      {
+        "word": "reason",
+        "start_offset": 38,
+        "end_offset": 42,
+        "start": 3.04,
+        "end": 3.36
+      },
+      {
+        "word": "for",
+        "start_offset": 42,
+        "end_offset": 43,
+        "start": 3.36,
+        "end": 3.44
+      },
+      {
+        "word": "being",
+        "start_offset": 43,
+        "end_offset": 46,
+        "start": 3.44,
+        "end": 3.68
+      },
+      {
+        "word": "visible",
+        "start_offset": 48,
+        "end_offset": 53,
+        "start": 3.84,
+        "end": 4.24
+      },
+      {
+        "word": "too?",
+        "start_offset": 54,
+        "end_offset": 57,
+        "start": 4.32,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "I",
+        "start_offset": 111,
+        "end_offset": 115,
+        "start": 8.88,
+        "end": 9.200000000000001
+      },
+      {
+        "word": "am",
+        "start_offset": 119,
+        "end_offset": 123,
+        "start": 9.52,
+        "end": 9.84
+      },
+      {
+        "word": "Rob.",
+        "start_offset": 135,
+        "end_offset": 139,
+        "start": 10.8,
+        "end": 11.120000000000001
+      },
+      {
+        "word": "We",
+        "start_offset": 167,
+        "end_offset": 171,
+        "start": 13.36,
+        "end": 13.68
+      },
+      {
+        "word": "allowed",
+        "start_offset": 191,
+        "end_offset": 203,
+        "start": 15.280000000000001,
+        "end": 16.240000000000002
+      },
+      {
+        "word": "visibility",
+        "start_offset": 211,
+        "end_offset": 228,
+        "start": 16.88,
+        "end": 18.240000000000002
+      },
+      {
+        "word": "because",
+        "start_offset": 248,
+        "end_offset": 252,
+        "start": 19.84,
+        "end": 20.16
+      },
+      {
+        "word": "it",
+        "start_offset": 276,
+        "end_offset": 280,
+        "start": 22.080000000000002,
+        "end": 22.400000000000002
+      },
+      {
+        "word": "did",
+        "start_offset": 284,
+        "end_offset": 288,
+        "start": 22.72,
+        "end": 23.04
+      },
+      {
+        "word": "not",
+        "start_offset": 300,
+        "end_offset": 304,
+        "start": 24.0,
+        "end": 24.32
+      },
+      {
+        "word": "make",
+        "start_offset": 324,
+        "end_offset": 328,
+        "start": 25.92,
+        "end": 26.240000000000002
+      },
+      {
+        "word": "any",
+        "start_offset": 344,
+        "end_offset": 348,
+        "start": 27.52,
+        "end": 27.84
+      },
+      {
+        "word": "difference.",
+        "start_offset": 356,
+        "end_offset": 368,
+        "start": 28.48,
+        "end": 29.44
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "023-05.mp3",
+    "audio_duration": 30.04,
+    "transcription_time": 0.09,
+    "rtfx": 317.99,
+    "timestamp": "2026-01-06T21:48:41.113936+00:00"
+  }
+}

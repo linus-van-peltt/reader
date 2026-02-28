@@ -1,0 +1,609 @@
+{
+  "text": "Are there any Confederation or Orion individuals living on Earth visible to us and important in our society at this time? Walking among us? I am Ra. There are no entities of either group walking among you at this time. However, the crusaders of Orion use two types of entities to do their bidding, shall we say. The first type is a thought-form; the second, a kind of robot.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Are there any Confederation or Orion individuals living on Earth visible to us and important in our society at this time?",
+        "start_offset": 0,
+        "end_offset": 121,
+        "start": 2.941,
+        "end": 20.725
+      },
+      {
+        "segment": "Walking among us?",
+        "start_offset": 122,
+        "end_offset": 139,
+        "start": 28.027,
+        "end": 30.168
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 140,
+        "end_offset": 148,
+        "start": 30.288,
+        "end": 30.688
+      },
+      {
+        "segment": "There are no entities of either group walking among you at this time.",
+        "start_offset": 149,
+        "end_offset": 218,
+        "start": 33.849,
+        "end": 51.873
+      },
+      {
+        "segment": "However, the crusaders of Orion use two types of entities to do their bidding, shall we say.",
+        "start_offset": 219,
+        "end_offset": 311,
+        "start": 53.014,
+        "end": 78.56
+      },
+      {
+        "segment": "The first type is a thought-form; the second, a kind of robot.",
+        "start_offset": 312,
+        "end_offset": 374,
+        "start": 79.901,
+        "end": 94.564
+      }
+    ],
+    "word": [
+      {
+        "word": "Are",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.941,
+        "end": 3.081,
+        "score": -7.3371
+      },
+      {
+        "word": "there",
+        "start_offset": 4,
+        "end_offset": 9,
+        "start": 3.121,
+        "end": 3.301,
+        "score": -5.6743
+      },
+      {
+        "word": "any",
+        "start_offset": 10,
+        "end_offset": 13,
+        "start": 3.581,
+        "end": 4.801,
+        "score": -9.5551
+      },
+      {
+        "word": "Confederation",
+        "start_offset": 14,
+        "end_offset": 27,
+        "start": 4.921,
+        "end": 5.701,
+        "score": -6.6998
+      },
+      {
+        "word": "or",
+        "start_offset": 28,
+        "end_offset": 30,
+        "start": 5.781,
+        "end": 5.842,
+        "score": -5.7154
+      },
+      {
+        "word": "Orion",
+        "start_offset": 31,
+        "end_offset": 36,
+        "start": 5.862,
+        "end": 5.962,
+        "score": -6.8344
+      },
+      {
+        "word": "individuals",
+        "start_offset": 37,
+        "end_offset": 48,
+        "start": 5.982,
+        "end": 6.222,
+        "score": -7.4746
+      },
+      {
+        "word": "living",
+        "start_offset": 49,
+        "end_offset": 55,
+        "start": 6.242,
+        "end": 6.582,
+        "score": -6.0006
+      },
+      {
+        "word": "on",
+        "start_offset": 56,
+        "end_offset": 58,
+        "start": 6.602,
+        "end": 6.642,
+        "score": -7.2504
+      },
+      {
+        "word": "Earth",
+        "start_offset": 59,
+        "end_offset": 64,
+        "start": 6.662,
+        "end": 8.662,
+        "score": -5.9726
+      },
+      {
+        "word": "visible",
+        "start_offset": 65,
+        "end_offset": 72,
+        "start": 8.682,
+        "end": 8.962,
+        "score": -7.4288
+      },
+      {
+        "word": "to",
+        "start_offset": 73,
+        "end_offset": 75,
+        "start": 9.022,
+        "end": 9.062,
+        "score": -8.14
+      },
+      {
+        "word": "us",
+        "start_offset": 76,
+        "end_offset": 78,
+        "start": 9.082,
+        "end": 9.182,
+        "score": -5.8333
+      },
+      {
+        "word": "and",
+        "start_offset": 79,
+        "end_offset": 82,
+        "start": 9.242,
+        "end": 9.863,
+        "score": -7.373
+      },
+      {
+        "word": "important",
+        "start_offset": 83,
+        "end_offset": 92,
+        "start": 11.063,
+        "end": 11.943,
+        "score": -7.2403
+      },
+      {
+        "word": "in",
+        "start_offset": 93,
+        "end_offset": 95,
+        "start": 11.983,
+        "end": 12.063,
+        "score": -7.36
+      },
+      {
+        "word": "our",
+        "start_offset": 96,
+        "end_offset": 99,
+        "start": 12.903,
+        "end": 12.983,
+        "score": -7.6785
+      },
+      {
+        "word": "society",
+        "start_offset": 100,
+        "end_offset": 107,
+        "start": 13.083,
+        "end": 15.944,
+        "score": -7.2121
+      },
+      {
+        "word": "at",
+        "start_offset": 108,
+        "end_offset": 110,
+        "start": 15.984,
+        "end": 16.124,
+        "score": -8.1636
+      },
+      {
+        "word": "this",
+        "start_offset": 111,
+        "end_offset": 115,
+        "start": 16.144,
+        "end": 16.344,
+        "score": -6.9765
+      },
+      {
+        "word": "time?",
+        "start_offset": 116,
+        "end_offset": 121,
+        "start": 16.664,
+        "end": 20.725,
+        "score": -7.0086
+      },
+      {
+        "word": "Walking",
+        "start_offset": 122,
+        "end_offset": 129,
+        "start": 28.027,
+        "end": 28.427,
+        "score": -5.9232
+      },
+      {
+        "word": "among",
+        "start_offset": 130,
+        "end_offset": 135,
+        "start": 28.467,
+        "end": 29.428,
+        "score": -5.9158
+      },
+      {
+        "word": "us?",
+        "start_offset": 136,
+        "end_offset": 139,
+        "start": 30.128,
+        "end": 30.168,
+        "score": -7.1072
+      },
+      {
+        "word": "I",
+        "start_offset": 140,
+        "end_offset": 141,
+        "start": 30.288,
+        "end": 30.308,
+        "score": -6.4871
+      },
+      {
+        "word": "am",
+        "start_offset": 142,
+        "end_offset": 144,
+        "start": 30.328,
+        "end": 30.528,
+        "score": -5.1104
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 145,
+        "end_offset": 148,
+        "start": 30.548,
+        "end": 30.688,
+        "score": -6.0273
+      },
+      {
+        "word": "There",
+        "start_offset": 149,
+        "end_offset": 154,
+        "start": 33.849,
+        "end": 34.169,
+        "score": -0.9756
+      },
+      {
+        "word": "are",
+        "start_offset": 155,
+        "end_offset": 158,
+        "start": 35.229,
+        "end": 35.529,
+        "score": -1.6843
+      },
+      {
+        "word": "no",
+        "start_offset": 159,
+        "end_offset": 161,
+        "start": 37.01,
+        "end": 37.15,
+        "score": -0.8027
+      },
+      {
+        "word": "entities",
+        "start_offset": 162,
+        "end_offset": 170,
+        "start": 38.55,
+        "end": 39.51,
+        "score": -0.9273
+      },
+      {
+        "word": "of",
+        "start_offset": 171,
+        "end_offset": 173,
+        "start": 40.69,
+        "end": 40.971,
+        "score": -0.8067
+      },
+      {
+        "word": "either",
+        "start_offset": 174,
+        "end_offset": 180,
+        "start": 42.211,
+        "end": 42.691,
+        "score": -1.0047
+      },
+      {
+        "word": "group",
+        "start_offset": 181,
+        "end_offset": 186,
+        "start": 43.851,
+        "end": 44.271,
+        "score": -1.0149
+      },
+      {
+        "word": "walking",
+        "start_offset": 187,
+        "end_offset": 194,
+        "start": 46.072,
+        "end": 46.732,
+        "score": -0.828
+      },
+      {
+        "word": "among",
+        "start_offset": 195,
+        "end_offset": 200,
+        "start": 47.512,
+        "end": 48.012,
+        "score": -0.7644
+      },
+      {
+        "word": "you",
+        "start_offset": 201,
+        "end_offset": 204,
+        "start": 48.332,
+        "end": 48.472,
+        "score": -0.8222
+      },
+      {
+        "word": "at",
+        "start_offset": 205,
+        "end_offset": 207,
+        "start": 49.873,
+        "end": 50.133,
+        "score": -0.7062
+      },
+      {
+        "word": "this",
+        "start_offset": 208,
+        "end_offset": 212,
+        "start": 50.533,
+        "end": 50.853,
+        "score": -0.7644
+      },
+      {
+        "word": "time.",
+        "start_offset": 213,
+        "end_offset": 218,
+        "start": 51.273,
+        "end": 51.873,
+        "score": -0.8504
+      },
+      {
+        "word": "However,",
+        "start_offset": 219,
+        "end_offset": 227,
+        "start": 53.014,
+        "end": 53.994,
+        "score": -0.7164
+      },
+      {
+        "word": "the",
+        "start_offset": 228,
+        "end_offset": 231,
+        "start": 55.234,
+        "end": 55.374,
+        "score": -1.7156
+      },
+      {
+        "word": "crusaders",
+        "start_offset": 232,
+        "end_offset": 241,
+        "start": 56.635,
+        "end": 58.075,
+        "score": -1.024
+      },
+      {
+        "word": "of",
+        "start_offset": 242,
+        "end_offset": 244,
+        "start": 58.975,
+        "end": 59.175,
+        "score": -0.7496
+      },
+      {
+        "word": "Orion",
+        "start_offset": 245,
+        "end_offset": 250,
+        "start": 59.775,
+        "end": 60.496,
+        "score": -2.1259
+      },
+      {
+        "word": "use",
+        "start_offset": 251,
+        "end_offset": 254,
+        "start": 62.096,
+        "end": 62.616,
+        "score": -0.7422
+      },
+      {
+        "word": "two",
+        "start_offset": 255,
+        "end_offset": 258,
+        "start": 63.336,
+        "end": 63.696,
+        "score": -1.3055
+      },
+      {
+        "word": "types",
+        "start_offset": 259,
+        "end_offset": 264,
+        "start": 64.837,
+        "end": 65.617,
+        "score": -0.9894
+      },
+      {
+        "word": "of",
+        "start_offset": 265,
+        "end_offset": 267,
+        "start": 66.597,
+        "end": 66.817,
+        "score": -0.8292
+      },
+      {
+        "word": "entities",
+        "start_offset": 268,
+        "end_offset": 276,
+        "start": 67.577,
+        "end": 68.438,
+        "score": -0.984
+      },
+      {
+        "word": "to",
+        "start_offset": 277,
+        "end_offset": 279,
+        "start": 69.878,
+        "end": 70.258,
+        "score": -2.2726
+      },
+      {
+        "word": "do",
+        "start_offset": 280,
+        "end_offset": 282,
+        "start": 72.119,
+        "end": 72.239,
+        "score": -0.828
+      },
+      {
+        "word": "their",
+        "start_offset": 283,
+        "end_offset": 288,
+        "start": 73.219,
+        "end": 73.559,
+        "score": -2.1364
+      },
+      {
+        "word": "bidding,",
+        "start_offset": 289,
+        "end_offset": 297,
+        "start": 75.299,
+        "end": 75.739,
+        "score": -1.3453
+      },
+      {
+        "word": "shall",
+        "start_offset": 298,
+        "end_offset": 303,
+        "start": 76.56,
+        "end": 76.98,
+        "score": -1.7094
+      },
+      {
+        "word": "we",
+        "start_offset": 304,
+        "end_offset": 306,
+        "start": 77.44,
+        "end": 77.56,
+        "score": -1.2118
+      },
+      {
+        "word": "say.",
+        "start_offset": 307,
+        "end_offset": 311,
+        "start": 78.22,
+        "end": 78.56,
+        "score": -2.7148
+      },
+      {
+        "word": "The",
+        "start_offset": 312,
+        "end_offset": 315,
+        "start": 79.901,
+        "end": 80.041,
+        "score": -0.8837
+      },
+      {
+        "word": "first",
+        "start_offset": 316,
+        "end_offset": 321,
+        "start": 80.381,
+        "end": 80.901,
+        "score": -0.7367
+      },
+      {
+        "word": "type",
+        "start_offset": 322,
+        "end_offset": 326,
+        "start": 81.481,
+        "end": 82.021,
+        "score": -1.2217
+      },
+      {
+        "word": "is",
+        "start_offset": 327,
+        "end_offset": 329,
+        "start": 82.741,
+        "end": 83.021,
+        "score": -0.7798
+      },
+      {
+        "word": "a",
+        "start_offset": 330,
+        "end_offset": 331,
+        "start": 83.922,
+        "end": 83.942,
+        "score": -0.7307
+      },
+      {
+        "word": "thought-form;",
+        "start_offset": 332,
+        "end_offset": 345,
+        "start": 84.542,
+        "end": 86.422,
+        "score": -1.6349
+      },
+      {
+        "word": "the",
+        "start_offset": 346,
+        "end_offset": 349,
+        "start": 87.583,
+        "end": 87.723,
+        "score": -0.9116
+      },
+      {
+        "word": "second,",
+        "start_offset": 350,
+        "end_offset": 357,
+        "start": 88.303,
+        "end": 88.943,
+        "score": -0.9471
+      },
+      {
+        "word": "a",
+        "start_offset": 358,
+        "end_offset": 359,
+        "start": 89.943,
+        "end": 89.963,
+        "score": -0.7574
+      },
+      {
+        "word": "kind",
+        "start_offset": 360,
+        "end_offset": 364,
+        "start": 90.323,
+        "end": 91.003,
+        "score": -0.785
+      },
+      {
+        "word": "of",
+        "start_offset": 365,
+        "end_offset": 367,
+        "start": 91.904,
+        "end": 92.104,
+        "score": -0.7774
+      },
+      {
+        "word": "robot.",
+        "start_offset": 368,
+        "end_offset": 374,
+        "start": 93.444,
+        "end": 94.564,
+        "score": -1.3088
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "012-18.mp3",
+    "audio_duration": 97.0449,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

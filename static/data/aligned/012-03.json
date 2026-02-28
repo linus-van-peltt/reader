@@ -1,0 +1,746 @@
+{
+  "text": "Is there any effort by the Confederation to stop the Orion chariots from arriving here? I am Ra. Every effort is made to quarantine this planet. However, the network of guardians, much like any other pattern of patrols on whatever level, does not hinder each and every entity from penetrating quarantine, for if request is made in light/love, the Law of One will be met with acquiescence. If the request is not made, due to the slipping through the net, then there is penetration of this net.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is there any effort by the Confederation to stop the Orion chariots from arriving here?",
+        "start_offset": 0,
+        "end_offset": 87,
+        "start": 0.64,
+        "end": 15.421
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 88,
+        "end_offset": 96,
+        "start": 15.441,
+        "end": 15.801
+      },
+      {
+        "segment": "Every effort is made to quarantine this planet.",
+        "start_offset": 97,
+        "end_offset": 144,
+        "start": 17.322,
+        "end": 28.923
+      },
+      {
+        "segment": "However, the network of guardians, much like any other pattern of patrols on whatever level, does not hinder each and every entity from penetrating quarantine, for if request is made in light/love, the Law of One will be met with acquiescence.",
+        "start_offset": 145,
+        "end_offset": 388,
+        "start": 30.383,
+        "end": 95.209
+      },
+      {
+        "segment": "If the request is not made, due to the slipping through the net, then there is penetration of this net.",
+        "start_offset": 389,
+        "end_offset": 492,
+        "start": 97.269,
+        "end": 120.011
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 0.64,
+        "end": 2.62,
+        "score": -7.5954
+      },
+      {
+        "word": "there",
+        "start_offset": 3,
+        "end_offset": 8,
+        "start": 3.98,
+        "end": 4.08,
+        "score": -7.5015
+      },
+      {
+        "word": "any",
+        "start_offset": 9,
+        "end_offset": 12,
+        "start": 4.1,
+        "end": 4.16,
+        "score": -7.8894
+      },
+      {
+        "word": "effort",
+        "start_offset": 13,
+        "end_offset": 19,
+        "start": 4.18,
+        "end": 4.38,
+        "score": -7.2259
+      },
+      {
+        "word": "by",
+        "start_offset": 20,
+        "end_offset": 22,
+        "start": 4.4,
+        "end": 4.44,
+        "score": -8.499
+      },
+      {
+        "word": "the",
+        "start_offset": 23,
+        "end_offset": 26,
+        "start": 4.46,
+        "end": 4.52,
+        "score": -5.3058
+      },
+      {
+        "word": "Confederation",
+        "start_offset": 27,
+        "end_offset": 40,
+        "start": 4.54,
+        "end": 4.8,
+        "score": -7.3811
+      },
+      {
+        "word": "to",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 4.82,
+        "end": 4.86,
+        "score": -7.666
+      },
+      {
+        "word": "stop",
+        "start_offset": 44,
+        "end_offset": 48,
+        "start": 4.88,
+        "end": 6.981,
+        "score": -5.7927
+      },
+      {
+        "word": "the",
+        "start_offset": 49,
+        "end_offset": 52,
+        "start": 7.701,
+        "end": 7.841,
+        "score": -4.8585
+      },
+      {
+        "word": "Orion",
+        "start_offset": 53,
+        "end_offset": 58,
+        "start": 7.861,
+        "end": 8.101,
+        "score": -7.0756
+      },
+      {
+        "word": "chariots",
+        "start_offset": 59,
+        "end_offset": 67,
+        "start": 8.141,
+        "end": 11.261,
+        "score": -6.1841
+      },
+      {
+        "word": "from",
+        "start_offset": 68,
+        "end_offset": 72,
+        "start": 11.281,
+        "end": 13.201,
+        "score": -7.203
+      },
+      {
+        "word": "arriving",
+        "start_offset": 73,
+        "end_offset": 81,
+        "start": 13.301,
+        "end": 14.501,
+        "score": -5.6891
+      },
+      {
+        "word": "here?",
+        "start_offset": 82,
+        "end_offset": 87,
+        "start": 14.541,
+        "end": 15.421,
+        "score": -5.9562
+      },
+      {
+        "word": "I",
+        "start_offset": 88,
+        "end_offset": 89,
+        "start": 15.441,
+        "end": 15.461,
+        "score": -8.1124
+      },
+      {
+        "word": "am",
+        "start_offset": 90,
+        "end_offset": 92,
+        "start": 15.501,
+        "end": 15.701,
+        "score": -3.7732
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 93,
+        "end_offset": 96,
+        "start": 15.721,
+        "end": 15.801,
+        "score": -7.1379
+      },
+      {
+        "word": "Every",
+        "start_offset": 97,
+        "end_offset": 102,
+        "start": 17.322,
+        "end": 17.702,
+        "score": -1.0206
+      },
+      {
+        "word": "effort",
+        "start_offset": 103,
+        "end_offset": 109,
+        "start": 18.622,
+        "end": 18.782,
+        "score": -6.4186
+      },
+      {
+        "word": "is",
+        "start_offset": 110,
+        "end_offset": 112,
+        "start": 20.202,
+        "end": 20.502,
+        "score": -1.0816
+      },
+      {
+        "word": "made",
+        "start_offset": 113,
+        "end_offset": 117,
+        "start": 21.442,
+        "end": 21.942,
+        "score": -1.4529
+      },
+      {
+        "word": "to",
+        "start_offset": 118,
+        "end_offset": 120,
+        "start": 22.962,
+        "end": 23.142,
+        "score": -1.481
+      },
+      {
+        "word": "quarantine",
+        "start_offset": 121,
+        "end_offset": 131,
+        "start": 24.362,
+        "end": 25.602,
+        "score": -2.9499
+      },
+      {
+        "word": "this",
+        "start_offset": 132,
+        "end_offset": 136,
+        "start": 26.823,
+        "end": 27.243,
+        "score": -1.3288
+      },
+      {
+        "word": "planet.",
+        "start_offset": 137,
+        "end_offset": 144,
+        "start": 28.223,
+        "end": 28.923,
+        "score": -2.1751
+      },
+      {
+        "word": "However,",
+        "start_offset": 145,
+        "end_offset": 153,
+        "start": 30.383,
+        "end": 31.483,
+        "score": -0.7226
+      },
+      {
+        "word": "the",
+        "start_offset": 154,
+        "end_offset": 157,
+        "start": 33.443,
+        "end": 33.603,
+        "score": -2.0099
+      },
+      {
+        "word": "network",
+        "start_offset": 158,
+        "end_offset": 165,
+        "start": 35.123,
+        "end": 36.323,
+        "score": -1.3112
+      },
+      {
+        "word": "of",
+        "start_offset": 166,
+        "end_offset": 168,
+        "start": 37.304,
+        "end": 37.504,
+        "score": -0.8851
+      },
+      {
+        "word": "guardians,",
+        "start_offset": 169,
+        "end_offset": 179,
+        "start": 38.524,
+        "end": 39.464,
+        "score": -1.9388
+      },
+      {
+        "word": "much",
+        "start_offset": 180,
+        "end_offset": 184,
+        "start": 41.144,
+        "end": 41.504,
+        "score": -0.7424
+      },
+      {
+        "word": "like",
+        "start_offset": 185,
+        "end_offset": 189,
+        "start": 41.984,
+        "end": 42.404,
+        "score": -2.5644
+      },
+      {
+        "word": "any",
+        "start_offset": 190,
+        "end_offset": 193,
+        "start": 43.344,
+        "end": 43.524,
+        "score": -4.6229
+      },
+      {
+        "word": "other",
+        "start_offset": 194,
+        "end_offset": 199,
+        "start": 44.604,
+        "end": 44.924,
+        "score": -0.7272
+      },
+      {
+        "word": "pattern",
+        "start_offset": 200,
+        "end_offset": 207,
+        "start": 46.104,
+        "end": 46.684,
+        "score": -0.9245
+      },
+      {
+        "word": "of",
+        "start_offset": 208,
+        "end_offset": 210,
+        "start": 47.424,
+        "end": 47.645,
+        "score": -0.8219
+      },
+      {
+        "word": "patrols",
+        "start_offset": 211,
+        "end_offset": 218,
+        "start": 49.185,
+        "end": 50.125,
+        "score": -0.7541
+      },
+      {
+        "word": "on",
+        "start_offset": 219,
+        "end_offset": 221,
+        "start": 50.905,
+        "end": 51.085,
+        "score": -0.7345
+      },
+      {
+        "word": "whatever",
+        "start_offset": 222,
+        "end_offset": 230,
+        "start": 51.925,
+        "end": 53.285,
+        "score": -0.7231
+      },
+      {
+        "word": "level,",
+        "start_offset": 231,
+        "end_offset": 237,
+        "start": 54.225,
+        "end": 54.625,
+        "score": -0.7619
+      },
+      {
+        "word": "does",
+        "start_offset": 238,
+        "end_offset": 242,
+        "start": 56.405,
+        "end": 56.805,
+        "score": -0.9543
+      },
+      {
+        "word": "not",
+        "start_offset": 243,
+        "end_offset": 246,
+        "start": 57.725,
+        "end": 58.025,
+        "score": -0.7784
+      },
+      {
+        "word": "hinder",
+        "start_offset": 247,
+        "end_offset": 253,
+        "start": 59.266,
+        "end": 59.686,
+        "score": -2.3934
+      },
+      {
+        "word": "each",
+        "start_offset": 254,
+        "end_offset": 258,
+        "start": 61.206,
+        "end": 61.506,
+        "score": -2.638
+      },
+      {
+        "word": "and",
+        "start_offset": 259,
+        "end_offset": 262,
+        "start": 62.146,
+        "end": 62.406,
+        "score": -1.1783
+      },
+      {
+        "word": "every",
+        "start_offset": 263,
+        "end_offset": 268,
+        "start": 63.446,
+        "end": 66.846,
+        "score": -2.3344
+      },
+      {
+        "word": "entity",
+        "start_offset": 269,
+        "end_offset": 275,
+        "start": 66.886,
+        "end": 67.366,
+        "score": -0.7234
+      },
+      {
+        "word": "from",
+        "start_offset": 276,
+        "end_offset": 280,
+        "start": 68.466,
+        "end": 68.847,
+        "score": -0.7602
+      },
+      {
+        "word": "penetrating",
+        "start_offset": 281,
+        "end_offset": 292,
+        "start": 70.267,
+        "end": 71.187,
+        "score": -2.6583
+      },
+      {
+        "word": "quarantine,",
+        "start_offset": 293,
+        "end_offset": 304,
+        "start": 72.067,
+        "end": 72.887,
+        "score": -3.3844
+      },
+      {
+        "word": "for",
+        "start_offset": 305,
+        "end_offset": 308,
+        "start": 75.027,
+        "end": 75.347,
+        "score": -2.8333
+      },
+      {
+        "word": "if",
+        "start_offset": 309,
+        "end_offset": 311,
+        "start": 76.567,
+        "end": 76.727,
+        "score": -0.7376
+      },
+      {
+        "word": "request",
+        "start_offset": 312,
+        "end_offset": 319,
+        "start": 78.187,
+        "end": 78.987,
+        "score": -0.7632
+      },
+      {
+        "word": "is",
+        "start_offset": 320,
+        "end_offset": 322,
+        "start": 79.408,
+        "end": 79.568,
+        "score": -0.7183
+      },
+      {
+        "word": "made",
+        "start_offset": 323,
+        "end_offset": 327,
+        "start": 79.688,
+        "end": 80.168,
+        "score": -0.7096
+      },
+      {
+        "word": "in",
+        "start_offset": 328,
+        "end_offset": 330,
+        "start": 81.188,
+        "end": 81.328,
+        "score": -0.7822
+      },
+      {
+        "word": "light/love,",
+        "start_offset": 331,
+        "end_offset": 342,
+        "start": 81.448,
+        "end": 84.488,
+        "score": -1.7973
+      },
+      {
+        "word": "the",
+        "start_offset": 343,
+        "end_offset": 346,
+        "start": 84.688,
+        "end": 84.848,
+        "score": -1.2198
+      },
+      {
+        "word": "Law",
+        "start_offset": 347,
+        "end_offset": 350,
+        "start": 86.628,
+        "end": 86.968,
+        "score": -0.8469
+      },
+      {
+        "word": "of",
+        "start_offset": 351,
+        "end_offset": 353,
+        "start": 87.508,
+        "end": 87.668,
+        "score": -0.9125
+      },
+      {
+        "word": "One",
+        "start_offset": 354,
+        "end_offset": 357,
+        "start": 87.928,
+        "end": 88.248,
+        "score": -2.7301
+      },
+      {
+        "word": "will",
+        "start_offset": 358,
+        "end_offset": 362,
+        "start": 89.548,
+        "end": 89.848,
+        "score": -0.7471
+      },
+      {
+        "word": "be",
+        "start_offset": 363,
+        "end_offset": 365,
+        "start": 90.589,
+        "end": 90.709,
+        "score": -0.9426
+      },
+      {
+        "word": "met",
+        "start_offset": 366,
+        "end_offset": 369,
+        "start": 91.009,
+        "end": 91.349,
+        "score": -0.844
+      },
+      {
+        "word": "with",
+        "start_offset": 370,
+        "end_offset": 374,
+        "start": 92.569,
+        "end": 92.889,
+        "score": -1.06
+      },
+      {
+        "word": "acquiescence.",
+        "start_offset": 375,
+        "end_offset": 388,
+        "start": 93.769,
+        "end": 95.209,
+        "score": -3.119
+      },
+      {
+        "word": "If",
+        "start_offset": 389,
+        "end_offset": 391,
+        "start": 97.269,
+        "end": 97.449,
+        "score": -0.7374
+      },
+      {
+        "word": "the",
+        "start_offset": 392,
+        "end_offset": 395,
+        "start": 99.049,
+        "end": 99.189,
+        "score": -1.1823
+      },
+      {
+        "word": "request",
+        "start_offset": 396,
+        "end_offset": 403,
+        "start": 100.309,
+        "end": 101.27,
+        "score": -1.5615
+      },
+      {
+        "word": "is",
+        "start_offset": 404,
+        "end_offset": 406,
+        "start": 102.15,
+        "end": 102.43,
+        "score": -1.1291
+      },
+      {
+        "word": "not",
+        "start_offset": 407,
+        "end_offset": 410,
+        "start": 102.87,
+        "end": 103.19,
+        "score": -0.7905
+      },
+      {
+        "word": "made,",
+        "start_offset": 411,
+        "end_offset": 416,
+        "start": 103.81,
+        "end": 104.21,
+        "score": -1.6791
+      },
+      {
+        "word": "due",
+        "start_offset": 417,
+        "end_offset": 420,
+        "start": 105.17,
+        "end": 105.39,
+        "score": -2.7307
+      },
+      {
+        "word": "to",
+        "start_offset": 421,
+        "end_offset": 423,
+        "start": 106.15,
+        "end": 106.41,
+        "score": -1.8704
+      },
+      {
+        "word": "the",
+        "start_offset": 424,
+        "end_offset": 427,
+        "start": 107.55,
+        "end": 107.67,
+        "score": -1.3099
+      },
+      {
+        "word": "slipping",
+        "start_offset": 428,
+        "end_offset": 436,
+        "start": 108.77,
+        "end": 109.35,
+        "score": -0.9832
+      },
+      {
+        "word": "through",
+        "start_offset": 437,
+        "end_offset": 444,
+        "start": 109.73,
+        "end": 110.07,
+        "score": -3.5785
+      },
+      {
+        "word": "the",
+        "start_offset": 445,
+        "end_offset": 448,
+        "start": 111.171,
+        "end": 111.271,
+        "score": -1.579
+      },
+      {
+        "word": "net,",
+        "start_offset": 449,
+        "end_offset": 453,
+        "start": 111.451,
+        "end": 111.811,
+        "score": -1.5111
+      },
+      {
+        "word": "then",
+        "start_offset": 454,
+        "end_offset": 458,
+        "start": 113.571,
+        "end": 113.891,
+        "score": -0.9583
+      },
+      {
+        "word": "there",
+        "start_offset": 459,
+        "end_offset": 464,
+        "start": 114.771,
+        "end": 115.071,
+        "score": -0.8445
+      },
+      {
+        "word": "is",
+        "start_offset": 465,
+        "end_offset": 467,
+        "start": 115.491,
+        "end": 115.751,
+        "score": -0.8849
+      },
+      {
+        "word": "penetration",
+        "start_offset": 468,
+        "end_offset": 479,
+        "start": 116.451,
+        "end": 117.471,
+        "score": -0.7384
+      },
+      {
+        "word": "of",
+        "start_offset": 480,
+        "end_offset": 482,
+        "start": 118.591,
+        "end": 118.751,
+        "score": -0.8557
+      },
+      {
+        "word": "this",
+        "start_offset": 483,
+        "end_offset": 487,
+        "start": 119.111,
+        "end": 119.471,
+        "score": -1.5203
+      },
+      {
+        "word": "net.",
+        "start_offset": 488,
+        "end_offset": 492,
+        "start": 119.791,
+        "end": 120.011,
+        "score": -2.6348
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "012-03.mp3",
+    "audio_duration": 121.0514,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

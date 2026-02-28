@@ -1,0 +1,78 @@
+{
+  "text": "Could you make the instrument cough, please?",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Could you make the instrument cough, please?",
+        "start_offset": 0,
+        "end_offset": 44,
+        "start": 0.0,
+        "end": 7.027
+      }
+    ],
+    "word": [
+      {
+        "word": "Could",
+        "start_offset": 0,
+        "end_offset": 5,
+        "start": 0.0,
+        "end": 0.26,
+        "score": -4.7254
+      },
+      {
+        "word": "you",
+        "start_offset": 6,
+        "end_offset": 9,
+        "start": 3.283,
+        "end": 3.363,
+        "score": -4.4244
+      },
+      {
+        "word": "make",
+        "start_offset": 10,
+        "end_offset": 14,
+        "start": 3.403,
+        "end": 3.604,
+        "score": -2.3891
+      },
+      {
+        "word": "the",
+        "start_offset": 15,
+        "end_offset": 18,
+        "start": 3.884,
+        "end": 4.004,
+        "score": -3.3349
+      },
+      {
+        "word": "instrument",
+        "start_offset": 19,
+        "end_offset": 29,
+        "start": 6.266,
+        "end": 6.466,
+        "score": -3.9195
+      },
+      {
+        "word": "cough,",
+        "start_offset": 30,
+        "end_offset": 36,
+        "start": 6.486,
+        "end": 6.587,
+        "score": -4.4047
+      },
+      {
+        "word": "please?",
+        "start_offset": 37,
+        "end_offset": 44,
+        "start": 6.907,
+        "end": 7.027,
+        "score": -3.7723
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "026-35.mp3",
+    "audio_duration": 7.027,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

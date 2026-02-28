@@ -1,0 +1,283 @@
+{
+  "text": "I would assume that the first step would be to find an individual with ability brought with him into this incarnation? Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I would assume that the first step would be to find an individual with ability brought with him into this incarnation?",
+        "start_offset": 0,
+        "end_offset": 118,
+        "start": 2.66,
+        "end": 19.083
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 119,
+        "end_offset": 135,
+        "start": 20.183,
+        "end": 28.244
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 136,
+        "end_offset": 144,
+        "start": 28.524,
+        "end": 30.924
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 145,
+        "end_offset": 161,
+        "start": 33.205,
+        "end": 36.105
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 0,
+        "end_offset": 1,
+        "start": 2.66,
+        "end": 2.68,
+        "score": -8.0313
+      },
+      {
+        "word": "would",
+        "start_offset": 2,
+        "end_offset": 7,
+        "start": 2.7,
+        "end": 2.86,
+        "score": -3.6574
+      },
+      {
+        "word": "assume",
+        "start_offset": 8,
+        "end_offset": 14,
+        "start": 2.88,
+        "end": 3.24,
+        "score": -3.3267
+      },
+      {
+        "word": "that",
+        "start_offset": 15,
+        "end_offset": 19,
+        "start": 3.26,
+        "end": 3.38,
+        "score": -5.2265
+      },
+      {
+        "word": "the",
+        "start_offset": 20,
+        "end_offset": 23,
+        "start": 3.4,
+        "end": 4.001,
+        "score": -3.4893
+      },
+      {
+        "word": "first",
+        "start_offset": 24,
+        "end_offset": 29,
+        "start": 4.081,
+        "end": 4.361,
+        "score": -2.2093
+      },
+      {
+        "word": "step",
+        "start_offset": 30,
+        "end_offset": 34,
+        "start": 4.401,
+        "end": 4.661,
+        "score": -2.669
+      },
+      {
+        "word": "would",
+        "start_offset": 35,
+        "end_offset": 40,
+        "start": 4.761,
+        "end": 4.921,
+        "score": -4.7602
+      },
+      {
+        "word": "be",
+        "start_offset": 41,
+        "end_offset": 43,
+        "start": 5.021,
+        "end": 5.121,
+        "score": -1.2453
+      },
+      {
+        "word": "to",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 5.201,
+        "end": 5.261,
+        "score": -3.7357
+      },
+      {
+        "word": "find",
+        "start_offset": 47,
+        "end_offset": 51,
+        "start": 6.561,
+        "end": 6.941,
+        "score": -4.7699
+      },
+      {
+        "word": "an",
+        "start_offset": 52,
+        "end_offset": 54,
+        "start": 8.621,
+        "end": 8.801,
+        "score": -5.3291
+      },
+      {
+        "word": "individual",
+        "start_offset": 55,
+        "end_offset": 65,
+        "start": 10.662,
+        "end": 11.322,
+        "score": -0.8643
+      },
+      {
+        "word": "with",
+        "start_offset": 66,
+        "end_offset": 70,
+        "start": 11.642,
+        "end": 13.322,
+        "score": -4.3278
+      },
+      {
+        "word": "ability",
+        "start_offset": 71,
+        "end_offset": 78,
+        "start": 13.342,
+        "end": 15.842,
+        "score": -3.6655
+      },
+      {
+        "word": "brought",
+        "start_offset": 79,
+        "end_offset": 86,
+        "start": 16.022,
+        "end": 16.322,
+        "score": -3.358
+      },
+      {
+        "word": "with",
+        "start_offset": 87,
+        "end_offset": 91,
+        "start": 16.862,
+        "end": 17.062,
+        "score": -1.7185
+      },
+      {
+        "word": "him",
+        "start_offset": 92,
+        "end_offset": 95,
+        "start": 17.082,
+        "end": 17.162,
+        "score": -3.816
+      },
+      {
+        "word": "into",
+        "start_offset": 96,
+        "end_offset": 100,
+        "start": 17.262,
+        "end": 17.443,
+        "score": -2.3215
+      },
+      {
+        "word": "this",
+        "start_offset": 101,
+        "end_offset": 105,
+        "start": 17.523,
+        "end": 17.743,
+        "score": -2.1633
+      },
+      {
+        "word": "incarnation?",
+        "start_offset": 106,
+        "end_offset": 118,
+        "start": 18.403,
+        "end": 19.083,
+        "score": -1.7232
+      },
+      {
+        "word": "Is",
+        "start_offset": 119,
+        "end_offset": 121,
+        "start": 20.183,
+        "end": 20.343,
+        "score": -6.1076
+      },
+      {
+        "word": "this",
+        "start_offset": 122,
+        "end_offset": 126,
+        "start": 20.383,
+        "end": 20.583,
+        "score": -2.7683
+      },
+      {
+        "word": "correct?",
+        "start_offset": 127,
+        "end_offset": 135,
+        "start": 20.663,
+        "end": 28.244,
+        "score": -3.9688
+      },
+      {
+        "word": "I",
+        "start_offset": 136,
+        "end_offset": 137,
+        "start": 28.524,
+        "end": 28.544,
+        "score": -1.6231
+      },
+      {
+        "word": "am",
+        "start_offset": 138,
+        "end_offset": 140,
+        "start": 29.404,
+        "end": 29.544,
+        "score": -2.8903
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 141,
+        "end_offset": 144,
+        "start": 30.824,
+        "end": 30.924,
+        "score": -3.8183
+      },
+      {
+        "word": "This",
+        "start_offset": 145,
+        "end_offset": 149,
+        "start": 33.205,
+        "end": 33.545,
+        "score": -4.0469
+      },
+      {
+        "word": "is",
+        "start_offset": 150,
+        "end_offset": 152,
+        "start": 34.645,
+        "end": 34.845,
+        "score": -3.5878
+      },
+      {
+        "word": "correct.",
+        "start_offset": 153,
+        "end_offset": 161,
+        "start": 35.525,
+        "end": 36.105,
+        "score": -2.4972
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "004-11.mp3",
+    "audio_duration": 40.0457,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

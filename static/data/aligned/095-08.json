@@ -1,0 +1,858 @@
+{
+  "text": "Is any place more appropriate than another to hang the garlic in the rooms; for instance, over the windows or anything like that? I know it is supposed to be hung in the area of the bar but I meant in the bedroom. Is there any more appropriate place than another? I am Ra. The windows and the doorways are most appropriate and, in addition, we suggest the salting and sprinkling of any door which may lead elsewhere than out of the dwelling in order to afford to the entities the understanding that they are not desired elsewhere within the dwelling.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Is any place more appropriate than another to hang the garlic in the rooms; for instance, over the windows or anything like that?",
+        "start_offset": 0,
+        "end_offset": 129,
+        "start": 1.66,
+        "end": 11.921
+      },
+      {
+        "segment": "I know it is supposed to be hung in the area of the bar but I meant in the bedroom.",
+        "start_offset": 130,
+        "end_offset": 213,
+        "start": 11.941,
+        "end": 15.281
+      },
+      {
+        "segment": "Is there any more appropriate place than another?",
+        "start_offset": 214,
+        "end_offset": 263,
+        "start": 15.321,
+        "end": 22.642
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 264,
+        "end_offset": 272,
+        "start": 22.662,
+        "end": 24.262
+      },
+      {
+        "segment": "The windows and the doorways are most appropriate and, in addition, we suggest the salting and sprinkling of any door which may lead elsewhere than out of the dwelling in order to afford to the entities the understanding that they are not desired elsewhere within the dwelling.",
+        "start_offset": 273,
+        "end_offset": 550,
+        "start": 26.202,
+        "end": 90.048
+      }
+    ],
+    "word": [
+      {
+        "word": "Is",
+        "start_offset": 0,
+        "end_offset": 2,
+        "start": 1.66,
+        "end": 1.78,
+        "score": -6.5184
+      },
+      {
+        "word": "any",
+        "start_offset": 3,
+        "end_offset": 6,
+        "start": 2.04,
+        "end": 2.18,
+        "score": -2.4409
+      },
+      {
+        "word": "place",
+        "start_offset": 7,
+        "end_offset": 12,
+        "start": 2.24,
+        "end": 2.5,
+        "score": -3.2637
+      },
+      {
+        "word": "more",
+        "start_offset": 13,
+        "end_offset": 17,
+        "start": 2.56,
+        "end": 2.7,
+        "score": -2.2567
+      },
+      {
+        "word": "appropriate",
+        "start_offset": 18,
+        "end_offset": 29,
+        "start": 2.74,
+        "end": 3.38,
+        "score": -3.3437
+      },
+      {
+        "word": "than",
+        "start_offset": 30,
+        "end_offset": 34,
+        "start": 3.74,
+        "end": 3.98,
+        "score": -3.1348
+      },
+      {
+        "word": "another",
+        "start_offset": 35,
+        "end_offset": 42,
+        "start": 4.2,
+        "end": 4.54,
+        "score": -3.6371
+      },
+      {
+        "word": "to",
+        "start_offset": 43,
+        "end_offset": 45,
+        "start": 4.6,
+        "end": 4.68,
+        "score": -6.1927
+      },
+      {
+        "word": "hang",
+        "start_offset": 46,
+        "end_offset": 50,
+        "start": 4.76,
+        "end": 5.0,
+        "score": -2.8327
+      },
+      {
+        "word": "the",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 5.08,
+        "end": 5.16,
+        "score": -7.1059
+      },
+      {
+        "word": "garlic",
+        "start_offset": 55,
+        "end_offset": 61,
+        "start": 5.24,
+        "end": 5.68,
+        "score": -3.6863
+      },
+      {
+        "word": "in",
+        "start_offset": 62,
+        "end_offset": 64,
+        "start": 5.761,
+        "end": 5.821,
+        "score": -3.3555
+      },
+      {
+        "word": "the",
+        "start_offset": 65,
+        "end_offset": 68,
+        "start": 5.861,
+        "end": 5.941,
+        "score": -4.2573
+      },
+      {
+        "word": "rooms;",
+        "start_offset": 69,
+        "end_offset": 75,
+        "start": 6.001,
+        "end": 6.521,
+        "score": -7.8042
+      },
+      {
+        "word": "for",
+        "start_offset": 76,
+        "end_offset": 79,
+        "start": 7.781,
+        "end": 7.841,
+        "score": -9.8087
+      },
+      {
+        "word": "instance,",
+        "start_offset": 80,
+        "end_offset": 89,
+        "start": 7.881,
+        "end": 8.481,
+        "score": -8.9645
+      },
+      {
+        "word": "over",
+        "start_offset": 90,
+        "end_offset": 94,
+        "start": 8.581,
+        "end": 8.801,
+        "score": -5.5694
+      },
+      {
+        "word": "the",
+        "start_offset": 95,
+        "end_offset": 98,
+        "start": 8.821,
+        "end": 8.901,
+        "score": -4.3784
+      },
+      {
+        "word": "windows",
+        "start_offset": 99,
+        "end_offset": 106,
+        "start": 8.961,
+        "end": 9.481,
+        "score": -5.8824
+      },
+      {
+        "word": "or",
+        "start_offset": 107,
+        "end_offset": 109,
+        "start": 9.561,
+        "end": 9.621,
+        "score": -10.8063
+      },
+      {
+        "word": "anything",
+        "start_offset": 110,
+        "end_offset": 118,
+        "start": 11.081,
+        "end": 11.361,
+        "score": -9.8162
+      },
+      {
+        "word": "like",
+        "start_offset": 119,
+        "end_offset": 123,
+        "start": 11.381,
+        "end": 11.521,
+        "score": -10.4234
+      },
+      {
+        "word": "that?",
+        "start_offset": 124,
+        "end_offset": 129,
+        "start": 11.801,
+        "end": 11.921,
+        "score": -9.8163
+      },
+      {
+        "word": "I",
+        "start_offset": 130,
+        "end_offset": 131,
+        "start": 11.941,
+        "end": 11.961,
+        "score": -8.0766
+      },
+      {
+        "word": "know",
+        "start_offset": 132,
+        "end_offset": 136,
+        "start": 11.981,
+        "end": 12.141,
+        "score": -9.6174
+      },
+      {
+        "word": "it",
+        "start_offset": 137,
+        "end_offset": 139,
+        "start": 12.321,
+        "end": 12.401,
+        "score": -8.9489
+      },
+      {
+        "word": "is",
+        "start_offset": 140,
+        "end_offset": 142,
+        "start": 12.441,
+        "end": 12.501,
+        "score": -8.1829
+      },
+      {
+        "word": "supposed",
+        "start_offset": 143,
+        "end_offset": 151,
+        "start": 12.521,
+        "end": 12.821,
+        "score": -9.4576
+      },
+      {
+        "word": "to",
+        "start_offset": 152,
+        "end_offset": 154,
+        "start": 12.841,
+        "end": 12.901,
+        "score": -10.4298
+      },
+      {
+        "word": "be",
+        "start_offset": 155,
+        "end_offset": 157,
+        "start": 12.921,
+        "end": 12.961,
+        "score": -11.2115
+      },
+      {
+        "word": "hung",
+        "start_offset": 158,
+        "end_offset": 162,
+        "start": 12.981,
+        "end": 13.181,
+        "score": -11.4153
+      },
+      {
+        "word": "in",
+        "start_offset": 163,
+        "end_offset": 165,
+        "start": 13.481,
+        "end": 13.521,
+        "score": -10.3145
+      },
+      {
+        "word": "the",
+        "start_offset": 166,
+        "end_offset": 169,
+        "start": 13.541,
+        "end": 13.601,
+        "score": -10.5446
+      },
+      {
+        "word": "area",
+        "start_offset": 170,
+        "end_offset": 174,
+        "start": 13.621,
+        "end": 13.801,
+        "score": -8.7562
+      },
+      {
+        "word": "of",
+        "start_offset": 175,
+        "end_offset": 177,
+        "start": 13.821,
+        "end": 13.861,
+        "score": -12.1216
+      },
+      {
+        "word": "the",
+        "start_offset": 178,
+        "end_offset": 181,
+        "start": 13.881,
+        "end": 13.961,
+        "score": -7.629
+      },
+      {
+        "word": "bar",
+        "start_offset": 182,
+        "end_offset": 185,
+        "start": 14.021,
+        "end": 14.201,
+        "score": -6.2187
+      },
+      {
+        "word": "but",
+        "start_offset": 186,
+        "end_offset": 189,
+        "start": 14.281,
+        "end": 14.381,
+        "score": -9.7809
+      },
+      {
+        "word": "I",
+        "start_offset": 190,
+        "end_offset": 191,
+        "start": 14.401,
+        "end": 14.421,
+        "score": -8.2532
+      },
+      {
+        "word": "meant",
+        "start_offset": 192,
+        "end_offset": 197,
+        "start": 14.501,
+        "end": 14.641,
+        "score": -8.554
+      },
+      {
+        "word": "in",
+        "start_offset": 198,
+        "end_offset": 200,
+        "start": 14.661,
+        "end": 14.721,
+        "score": -8.5738
+      },
+      {
+        "word": "the",
+        "start_offset": 201,
+        "end_offset": 204,
+        "start": 14.741,
+        "end": 14.801,
+        "score": -9.5834
+      },
+      {
+        "word": "bedroom.",
+        "start_offset": 205,
+        "end_offset": 213,
+        "start": 14.861,
+        "end": 15.281,
+        "score": -10.4335
+      },
+      {
+        "word": "Is",
+        "start_offset": 214,
+        "end_offset": 216,
+        "start": 15.321,
+        "end": 15.401,
+        "score": -9.8951
+      },
+      {
+        "word": "there",
+        "start_offset": 217,
+        "end_offset": 222,
+        "start": 15.421,
+        "end": 16.141,
+        "score": -10.6772
+      },
+      {
+        "word": "any",
+        "start_offset": 223,
+        "end_offset": 226,
+        "start": 16.321,
+        "end": 16.401,
+        "score": -10.7501
+      },
+      {
+        "word": "more",
+        "start_offset": 227,
+        "end_offset": 231,
+        "start": 16.441,
+        "end": 16.601,
+        "score": -8.7753
+      },
+      {
+        "word": "appropriate",
+        "start_offset": 232,
+        "end_offset": 243,
+        "start": 16.621,
+        "end": 17.001,
+        "score": -7.3427
+      },
+      {
+        "word": "place",
+        "start_offset": 244,
+        "end_offset": 249,
+        "start": 17.021,
+        "end": 17.582,
+        "score": -6.3179
+      },
+      {
+        "word": "than",
+        "start_offset": 250,
+        "end_offset": 254,
+        "start": 17.642,
+        "end": 20.262,
+        "score": -6.5103
+      },
+      {
+        "word": "another?",
+        "start_offset": 255,
+        "end_offset": 263,
+        "start": 21.082,
+        "end": 22.642,
+        "score": -6.1597
+      },
+      {
+        "word": "I",
+        "start_offset": 264,
+        "end_offset": 265,
+        "start": 22.662,
+        "end": 22.682,
+        "score": -8.3731
+      },
+      {
+        "word": "am",
+        "start_offset": 266,
+        "end_offset": 268,
+        "start": 22.702,
+        "end": 22.742,
+        "score": -10.0016
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 269,
+        "end_offset": 272,
+        "start": 22.762,
+        "end": 24.262,
+        "score": -10.1684
+      },
+      {
+        "word": "The",
+        "start_offset": 273,
+        "end_offset": 276,
+        "start": 26.202,
+        "end": 26.342,
+        "score": -0.8267
+      },
+      {
+        "word": "windows",
+        "start_offset": 277,
+        "end_offset": 284,
+        "start": 27.442,
+        "end": 28.162,
+        "score": -0.7114
+      },
+      {
+        "word": "and",
+        "start_offset": 285,
+        "end_offset": 288,
+        "start": 28.663,
+        "end": 28.923,
+        "score": -0.8749
+      },
+      {
+        "word": "the",
+        "start_offset": 289,
+        "end_offset": 292,
+        "start": 29.243,
+        "end": 29.383,
+        "score": -0.7784
+      },
+      {
+        "word": "doorways",
+        "start_offset": 293,
+        "end_offset": 301,
+        "start": 30.083,
+        "end": 30.863,
+        "score": -1.1038
+      },
+      {
+        "word": "are",
+        "start_offset": 302,
+        "end_offset": 305,
+        "start": 32.783,
+        "end": 33.063,
+        "score": -0.8336
+      },
+      {
+        "word": "most",
+        "start_offset": 306,
+        "end_offset": 310,
+        "start": 34.443,
+        "end": 34.863,
+        "score": -0.7072
+      },
+      {
+        "word": "appropriate",
+        "start_offset": 311,
+        "end_offset": 322,
+        "start": 35.243,
+        "end": 36.283,
+        "score": -0.9398
+      },
+      {
+        "word": "and,",
+        "start_offset": 323,
+        "end_offset": 327,
+        "start": 37.543,
+        "end": 37.823,
+        "score": -0.7279
+      },
+      {
+        "word": "in",
+        "start_offset": 328,
+        "end_offset": 330,
+        "start": 38.203,
+        "end": 38.383,
+        "score": -0.7093
+      },
+      {
+        "word": "addition,",
+        "start_offset": 331,
+        "end_offset": 340,
+        "start": 38.683,
+        "end": 39.383,
+        "score": -1.1375
+      },
+      {
+        "word": "we",
+        "start_offset": 341,
+        "end_offset": 343,
+        "start": 40.744,
+        "end": 40.884,
+        "score": -0.734
+      },
+      {
+        "word": "suggest",
+        "start_offset": 344,
+        "end_offset": 351,
+        "start": 41.344,
+        "end": 42.304,
+        "score": -0.7087
+      },
+      {
+        "word": "the",
+        "start_offset": 352,
+        "end_offset": 355,
+        "start": 43.324,
+        "end": 43.464,
+        "score": -0.7928
+      },
+      {
+        "word": "salting",
+        "start_offset": 356,
+        "end_offset": 363,
+        "start": 44.824,
+        "end": 45.484,
+        "score": -1.0761
+      },
+      {
+        "word": "and",
+        "start_offset": 364,
+        "end_offset": 367,
+        "start": 47.064,
+        "end": 47.384,
+        "score": -0.7258
+      },
+      {
+        "word": "sprinkling",
+        "start_offset": 368,
+        "end_offset": 378,
+        "start": 49.044,
+        "end": 49.924,
+        "score": -1.0256
+      },
+      {
+        "word": "of",
+        "start_offset": 379,
+        "end_offset": 381,
+        "start": 50.744,
+        "end": 51.004,
+        "score": -0.7231
+      },
+      {
+        "word": "any",
+        "start_offset": 382,
+        "end_offset": 385,
+        "start": 51.985,
+        "end": 52.245,
+        "score": -0.7293
+      },
+      {
+        "word": "door",
+        "start_offset": 386,
+        "end_offset": 390,
+        "start": 53.185,
+        "end": 53.505,
+        "score": -1.5406
+      },
+      {
+        "word": "which",
+        "start_offset": 391,
+        "end_offset": 396,
+        "start": 54.605,
+        "end": 54.925,
+        "score": -0.7271
+      },
+      {
+        "word": "may",
+        "start_offset": 397,
+        "end_offset": 400,
+        "start": 55.505,
+        "end": 55.845,
+        "score": -0.7076
+      },
+      {
+        "word": "lead",
+        "start_offset": 401,
+        "end_offset": 405,
+        "start": 57.225,
+        "end": 57.545,
+        "score": -0.7783
+      },
+      {
+        "word": "elsewhere",
+        "start_offset": 406,
+        "end_offset": 415,
+        "start": 58.405,
+        "end": 59.085,
+        "score": -1.3997
+      },
+      {
+        "word": "than",
+        "start_offset": 416,
+        "end_offset": 420,
+        "start": 60.045,
+        "end": 60.405,
+        "score": -1.8164
+      },
+      {
+        "word": "out",
+        "start_offset": 421,
+        "end_offset": 424,
+        "start": 61.285,
+        "end": 61.545,
+        "score": -1.4085
+      },
+      {
+        "word": "of",
+        "start_offset": 425,
+        "end_offset": 427,
+        "start": 62.706,
+        "end": 62.946,
+        "score": -0.713
+      },
+      {
+        "word": "the",
+        "start_offset": 428,
+        "end_offset": 431,
+        "start": 63.446,
+        "end": 63.566,
+        "score": -0.8087
+      },
+      {
+        "word": "dwelling",
+        "start_offset": 432,
+        "end_offset": 440,
+        "start": 63.986,
+        "end": 64.606,
+        "score": -0.9557
+      },
+      {
+        "word": "in",
+        "start_offset": 441,
+        "end_offset": 443,
+        "start": 65.726,
+        "end": 65.966,
+        "score": -0.8612
+      },
+      {
+        "word": "order",
+        "start_offset": 444,
+        "end_offset": 449,
+        "start": 66.546,
+        "end": 66.866,
+        "score": -0.7923
+      },
+      {
+        "word": "to",
+        "start_offset": 450,
+        "end_offset": 452,
+        "start": 68.066,
+        "end": 68.206,
+        "score": -0.8818
+      },
+      {
+        "word": "afford",
+        "start_offset": 453,
+        "end_offset": 459,
+        "start": 71.846,
+        "end": 72.566,
+        "score": -1.2775
+      },
+      {
+        "word": "to",
+        "start_offset": 460,
+        "end_offset": 462,
+        "start": 73.126,
+        "end": 73.266,
+        "score": -0.7561
+      },
+      {
+        "word": "the",
+        "start_offset": 463,
+        "end_offset": 466,
+        "start": 73.866,
+        "end": 73.987,
+        "score": -0.8138
+      },
+      {
+        "word": "entities",
+        "start_offset": 467,
+        "end_offset": 475,
+        "start": 75.487,
+        "end": 76.167,
+        "score": -1.6456
+      },
+      {
+        "word": "the",
+        "start_offset": 476,
+        "end_offset": 479,
+        "start": 78.707,
+        "end": 78.807,
+        "score": -0.7428
+      },
+      {
+        "word": "understanding",
+        "start_offset": 480,
+        "end_offset": 493,
+        "start": 79.187,
+        "end": 80.387,
+        "score": -1.5589
+      },
+      {
+        "word": "that",
+        "start_offset": 494,
+        "end_offset": 498,
+        "start": 81.427,
+        "end": 81.667,
+        "score": -2.7984
+      },
+      {
+        "word": "they",
+        "start_offset": 499,
+        "end_offset": 503,
+        "start": 81.807,
+        "end": 82.067,
+        "score": -2.453
+      },
+      {
+        "word": "are",
+        "start_offset": 504,
+        "end_offset": 507,
+        "start": 82.767,
+        "end": 83.007,
+        "score": -4.1382
+      },
+      {
+        "word": "not",
+        "start_offset": 508,
+        "end_offset": 511,
+        "start": 83.287,
+        "end": 83.567,
+        "score": -0.7003
+      },
+      {
+        "word": "desired",
+        "start_offset": 512,
+        "end_offset": 519,
+        "start": 84.607,
+        "end": 85.308,
+        "score": -0.7199
+      },
+      {
+        "word": "elsewhere",
+        "start_offset": 520,
+        "end_offset": 529,
+        "start": 86.328,
+        "end": 87.028,
+        "score": -1.7317
+      },
+      {
+        "word": "within",
+        "start_offset": 530,
+        "end_offset": 536,
+        "start": 87.848,
+        "end": 88.388,
+        "score": -0.8312
+      },
+      {
+        "word": "the",
+        "start_offset": 537,
+        "end_offset": 540,
+        "start": 88.788,
+        "end": 88.888,
+        "score": -0.8665
+      },
+      {
+        "word": "dwelling.",
+        "start_offset": 541,
+        "end_offset": 550,
+        "start": 89.548,
+        "end": 90.048,
+        "score": -0.863
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "095-08.mp3",
+    "audio_duration": 93.0482,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

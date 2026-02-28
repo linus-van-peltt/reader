@@ -1,0 +1,116 @@
+{
+  "text": "Can the cat see at all? I am Ra. Yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "Can the cat see at all?",
+        "start_offset": 0,
+        "end_offset": 23,
+        "start": 2.561,
+        "end": 3.562
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 24,
+        "end_offset": 32,
+        "start": 7.383,
+        "end": 11.105
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 12.726,
+        "end": 13.226
+      }
+    ],
+    "word": [
+      {
+        "word": "Can",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.561,
+        "end": 2.661,
+        "score": -4.3526
+      },
+      {
+        "word": "the",
+        "start_offset": 4,
+        "end_offset": 7,
+        "start": 2.681,
+        "end": 2.741,
+        "score": -4.8664
+      },
+      {
+        "word": "cat",
+        "start_offset": 8,
+        "end_offset": 11,
+        "start": 2.821,
+        "end": 3.021,
+        "score": -0.9237
+      },
+      {
+        "word": "see",
+        "start_offset": 12,
+        "end_offset": 15,
+        "start": 3.101,
+        "end": 3.241,
+        "score": -1.3271
+      },
+      {
+        "word": "at",
+        "start_offset": 16,
+        "end_offset": 18,
+        "start": 3.281,
+        "end": 3.361,
+        "score": -2.4861
+      },
+      {
+        "word": "all?",
+        "start_offset": 19,
+        "end_offset": 23,
+        "start": 3.421,
+        "end": 3.562,
+        "score": -4.814
+      },
+      {
+        "word": "I",
+        "start_offset": 24,
+        "end_offset": 25,
+        "start": 7.383,
+        "end": 7.403,
+        "score": -1.288
+      },
+      {
+        "word": "am",
+        "start_offset": 26,
+        "end_offset": 28,
+        "start": 9.124,
+        "end": 9.344,
+        "score": -1.4686
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 29,
+        "end_offset": 32,
+        "start": 10.985,
+        "end": 11.105,
+        "score": -0.9821
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 12.726,
+        "end": 13.226,
+        "score": -2.2313
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "104-08.mp3",
+    "audio_duration": 15.0466,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

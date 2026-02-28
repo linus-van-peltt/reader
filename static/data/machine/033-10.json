@@ -1,0 +1,366 @@
+{
+  "text": "I will ask you if you are familiar with the motion picture picture called the night configuration. Are you familiar with this? I am Ra. A we a scan, a your, a mind, a complex, and a see of this configuration, a called the ninth configuration.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "I will ask you if you are familiar with the motion picture picture called the night configuration.",
+        "start_offset": 22,
+        "end_offset": 135,
+        "start": 1.76,
+        "end": 10.8
+      },
+      {
+        "segment": "Are you familiar with this?",
+        "start_offset": 143,
+        "end_offset": 164,
+        "start": 11.44,
+        "end": 13.120000000000001
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 224,
+        "end_offset": 255,
+        "start": 17.92,
+        "end": 20.400000000000002
+      },
+      {
+        "segment": "A we a scan, a your, a mind, a complex, and a see of this configuration, a called the ninth configuration.",
+        "start_offset": 277,
+        "end_offset": 503,
+        "start": 22.16,
+        "end": 40.24
+      }
+    ],
+    "word": [
+      {
+        "word": "I",
+        "start_offset": 22,
+        "end_offset": 25,
+        "start": 1.76,
+        "end": 2.0
+      },
+      {
+        "word": "will",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 2.88,
+        "end": 3.12
+      },
+      {
+        "word": "ask",
+        "start_offset": 41,
+        "end_offset": 46,
+        "start": 3.2800000000000002,
+        "end": 3.68
+      },
+      {
+        "word": "you",
+        "start_offset": 46,
+        "end_offset": 49,
+        "start": 3.68,
+        "end": 3.92
+      },
+      {
+        "word": "if",
+        "start_offset": 49,
+        "end_offset": 51,
+        "start": 3.92,
+        "end": 4.08
+      },
+      {
+        "word": "you",
+        "start_offset": 51,
+        "end_offset": 54,
+        "start": 4.08,
+        "end": 4.32
+      },
+      {
+        "word": "are",
+        "start_offset": 54,
+        "end_offset": 57,
+        "start": 4.32,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "familiar",
+        "start_offset": 57,
+        "end_offset": 69,
+        "start": 4.5600000000000005,
+        "end": 5.5200000000000005
+      },
+      {
+        "word": "with",
+        "start_offset": 69,
+        "end_offset": 73,
+        "start": 5.5200000000000005,
+        "end": 5.84
+      },
+      {
+        "word": "the",
+        "start_offset": 77,
+        "end_offset": 81,
+        "start": 6.16,
+        "end": 6.48
+      },
+      {
+        "word": "motion",
+        "start_offset": 89,
+        "end_offset": 97,
+        "start": 7.12,
+        "end": 7.76
+      },
+      {
+        "word": "picture",
+        "start_offset": 97,
+        "end_offset": 100,
+        "start": 7.76,
+        "end": 8.0
+      },
+      {
+        "word": "picture",
+        "start_offset": 102,
+        "end_offset": 107,
+        "start": 8.16,
+        "end": 8.56
+      },
+      {
+        "word": "called",
+        "start_offset": 107,
+        "end_offset": 111,
+        "start": 8.56,
+        "end": 8.88
+      },
+      {
+        "word": "the",
+        "start_offset": 111,
+        "end_offset": 113,
+        "start": 8.88,
+        "end": 9.040000000000001
+      },
+      {
+        "word": "night",
+        "start_offset": 113,
+        "end_offset": 120,
+        "start": 9.040000000000001,
+        "end": 9.6
+      },
+      {
+        "word": "configuration.",
+        "start_offset": 123,
+        "end_offset": 135,
+        "start": 9.84,
+        "end": 10.8
+      },
+      {
+        "word": "Are",
+        "start_offset": 143,
+        "end_offset": 147,
+        "start": 11.44,
+        "end": 11.76
+      },
+      {
+        "word": "you",
+        "start_offset": 147,
+        "end_offset": 149,
+        "start": 11.76,
+        "end": 11.92
+      },
+      {
+        "word": "familiar",
+        "start_offset": 149,
+        "end_offset": 156,
+        "start": 11.92,
+        "end": 12.48
+      },
+      {
+        "word": "with",
+        "start_offset": 156,
+        "end_offset": 160,
+        "start": 12.48,
+        "end": 12.8
+      },
+      {
+        "word": "this?",
+        "start_offset": 160,
+        "end_offset": 164,
+        "start": 12.8,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "I",
+        "start_offset": 224,
+        "end_offset": 228,
+        "start": 17.92,
+        "end": 18.240000000000002
+      },
+      {
+        "word": "am",
+        "start_offset": 236,
+        "end_offset": 240,
+        "start": 18.88,
+        "end": 19.2
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 251,
+        "end_offset": 255,
+        "start": 20.080000000000002,
+        "end": 20.400000000000002
+      },
+      {
+        "word": "A",
+        "start_offset": 277,
+        "end_offset": 279,
+        "start": 22.16,
+        "end": 22.32
+      },
+      {
+        "word": "we",
+        "start_offset": 282,
+        "end_offset": 286,
+        "start": 22.56,
+        "end": 22.88
+      },
+      {
+        "word": "a",
+        "start_offset": 287,
+        "end_offset": 289,
+        "start": 22.96,
+        "end": 23.12
+      },
+      {
+        "word": "scan,",
+        "start_offset": 291,
+        "end_offset": 296,
+        "start": 23.28,
+        "end": 23.68
+      },
+      {
+        "word": "a",
+        "start_offset": 306,
+        "end_offset": 310,
+        "start": 24.48,
+        "end": 24.8
+      },
+      {
+        "word": "your,",
+        "start_offset": 310,
+        "end_offset": 313,
+        "start": 24.8,
+        "end": 25.04
+      },
+      {
+        "word": "a",
+        "start_offset": 340,
+        "end_offset": 344,
+        "start": 27.2,
+        "end": 27.52
+      },
+      {
+        "word": "mind,",
+        "start_offset": 344,
+        "end_offset": 348,
+        "start": 27.52,
+        "end": 27.84
+      },
+      {
+        "word": "a",
+        "start_offset": 355,
+        "end_offset": 359,
+        "start": 28.400000000000002,
+        "end": 28.72
+      },
+      {
+        "word": "complex,",
+        "start_offset": 359,
+        "end_offset": 367,
+        "start": 28.72,
+        "end": 29.36
+      },
+      {
+        "word": "and",
+        "start_offset": 380,
+        "end_offset": 384,
+        "start": 30.400000000000002,
+        "end": 30.72
+      },
+      {
+        "word": "a",
+        "start_offset": 392,
+        "end_offset": 396,
+        "start": 31.36,
+        "end": 31.68
+      },
+      {
+        "word": "see",
+        "start_offset": 396,
+        "end_offset": 400,
+        "start": 31.68,
+        "end": 32.0
+      },
+      {
+        "word": "of",
+        "start_offset": 403,
+        "end_offset": 405,
+        "start": 32.24,
+        "end": 32.4
+      },
+      {
+        "word": "this",
+        "start_offset": 407,
+        "end_offset": 410,
+        "start": 32.56,
+        "end": 32.8
+      },
+      {
+        "word": "configuration,",
+        "start_offset": 418,
+        "end_offset": 433,
+        "start": 33.44,
+        "end": 34.64
+      },
+      {
+        "word": "a",
+        "start_offset": 449,
+        "end_offset": 452,
+        "start": 35.92,
+        "end": 36.160000000000004
+      },
+      {
+        "word": "called",
+        "start_offset": 452,
+        "end_offset": 462,
+        "start": 36.160000000000004,
+        "end": 36.96
+      },
+      {
+        "word": "the",
+        "start_offset": 467,
+        "end_offset": 470,
+        "start": 37.36,
+        "end": 37.6
+      },
+      {
+        "word": "ninth",
+        "start_offset": 473,
+        "end_offset": 484,
+        "start": 37.84,
+        "end": 38.72
+      },
+      {
+        "word": "configuration.",
+        "start_offset": 488,
+        "end_offset": 503,
+        "start": 39.04,
+        "end": 40.24
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "033-10.mp3",
+    "audio_duration": 41.04,
+    "transcription_time": 0.11,
+    "rtfx": 368.44,
+    "timestamp": "2026-01-06T21:50:00.418481+00:00"
+  }
+}

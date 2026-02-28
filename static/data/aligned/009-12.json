@@ -1,0 +1,108 @@
+{
+  "text": "75, 000 years ago? I am Ra. This is approximately correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "years ago?",
+        "start_offset": 8,
+        "end_offset": 18,
+        "start": 3.642,
+        "end": 12.886
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 19,
+        "end_offset": 27,
+        "start": 12.946,
+        "end": 15.027
+      },
+      {
+        "segment": "This is approximately correct.",
+        "start_offset": 28,
+        "end_offset": 58,
+        "start": 16.688,
+        "end": 23.811
+      }
+    ],
+    "word": [
+      {
+        "word": "years",
+        "start_offset": 8,
+        "end_offset": 13,
+        "start": 3.642,
+        "end": 4.342,
+        "score": -5.3647
+      },
+      {
+        "word": "ago?",
+        "start_offset": 14,
+        "end_offset": 18,
+        "start": 12.726,
+        "end": 12.886,
+        "score": -5.3268
+      },
+      {
+        "word": "I",
+        "start_offset": 19,
+        "end_offset": 20,
+        "start": 12.946,
+        "end": 12.966,
+        "score": -1.5765
+      },
+      {
+        "word": "am",
+        "start_offset": 21,
+        "end_offset": 23,
+        "start": 13.806,
+        "end": 14.727,
+        "score": -2.4448
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 24,
+        "end_offset": 27,
+        "start": 14.947,
+        "end": 15.027,
+        "score": -2.6068
+      },
+      {
+        "word": "This",
+        "start_offset": 28,
+        "end_offset": 32,
+        "start": 16.688,
+        "end": 17.108,
+        "score": -2.3523
+      },
+      {
+        "word": "is",
+        "start_offset": 33,
+        "end_offset": 35,
+        "start": 18.048,
+        "end": 18.388,
+        "score": -1.5322
+      },
+      {
+        "word": "approximately",
+        "start_offset": 36,
+        "end_offset": 49,
+        "start": 19.569,
+        "end": 21.79,
+        "score": -2.0505
+      },
+      {
+        "word": "correct.",
+        "start_offset": 50,
+        "end_offset": 58,
+        "start": 22.97,
+        "end": 23.811,
+        "score": -0.897
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "009-12.mp3",
+    "audio_duration": 25.0514,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

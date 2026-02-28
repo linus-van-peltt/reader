@@ -1,0 +1,177 @@
+{
+  "text": "And in 25,000 years we lost 200 years of lifespan. Is this correct? I am Ra. This is correct.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "And in 25,000 years we lost 200 years of lifespan.",
+        "start_offset": 6,
+        "end_offset": 70,
+        "start": 0.48,
+        "end": 5.6000000000000005
+      },
+      {
+        "segment": "Is this correct?",
+        "start_offset": 76,
+        "end_offset": 93,
+        "start": 6.08,
+        "end": 7.44
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 125,
+        "end_offset": 148,
+        "start": 10.0,
+        "end": 11.84
+      },
+      {
+        "segment": "This is correct.",
+        "start_offset": 160,
+        "end_offset": 196,
+        "start": 12.8,
+        "end": 15.68
+      }
+    ],
+    "word": [
+      {
+        "word": "And",
+        "start_offset": 6,
+        "end_offset": 10,
+        "start": 0.48,
+        "end": 0.8
+      },
+      {
+        "word": "in",
+        "start_offset": 10,
+        "end_offset": 13,
+        "start": 0.8,
+        "end": 1.04
+      },
+      {
+        "word": "25,000",
+        "start_offset": 13,
+        "end_offset": 26,
+        "start": 1.04,
+        "end": 2.08
+      },
+      {
+        "word": "years",
+        "start_offset": 26,
+        "end_offset": 29,
+        "start": 2.08,
+        "end": 2.32
+      },
+      {
+        "word": "we",
+        "start_offset": 31,
+        "end_offset": 33,
+        "start": 2.48,
+        "end": 2.64
+      },
+      {
+        "word": "lost",
+        "start_offset": 33,
+        "end_offset": 37,
+        "start": 2.64,
+        "end": 2.96
+      },
+      {
+        "word": "200",
+        "start_offset": 37,
+        "end_offset": 46,
+        "start": 2.96,
+        "end": 3.68
+      },
+      {
+        "word": "years",
+        "start_offset": 46,
+        "end_offset": 53,
+        "start": 3.68,
+        "end": 4.24
+      },
+      {
+        "word": "of",
+        "start_offset": 53,
+        "end_offset": 57,
+        "start": 4.24,
+        "end": 4.5600000000000005
+      },
+      {
+        "word": "lifespan.",
+        "start_offset": 57,
+        "end_offset": 70,
+        "start": 4.5600000000000005,
+        "end": 5.6000000000000005
+      },
+      {
+        "word": "Is",
+        "start_offset": 76,
+        "end_offset": 80,
+        "start": 6.08,
+        "end": 6.4
+      },
+      {
+        "word": "this",
+        "start_offset": 80,
+        "end_offset": 83,
+        "start": 6.4,
+        "end": 6.640000000000001
+      },
+      {
+        "word": "correct?",
+        "start_offset": 83,
+        "end_offset": 93,
+        "start": 6.640000000000001,
+        "end": 7.44
+      },
+      {
+        "word": "I",
+        "start_offset": 125,
+        "end_offset": 129,
+        "start": 10.0,
+        "end": 10.32
+      },
+      {
+        "word": "am",
+        "start_offset": 133,
+        "end_offset": 137,
+        "start": 10.64,
+        "end": 10.96
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 144,
+        "end_offset": 148,
+        "start": 11.52,
+        "end": 11.84
+      },
+      {
+        "word": "This",
+        "start_offset": 160,
+        "end_offset": 164,
+        "start": 12.8,
+        "end": 13.120000000000001
+      },
+      {
+        "word": "is",
+        "start_offset": 172,
+        "end_offset": 176,
+        "start": 13.76,
+        "end": 14.08
+      },
+      {
+        "word": "correct.",
+        "start_offset": 184,
+        "end_offset": 196,
+        "start": 14.72,
+        "end": 15.68
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "020-15.mp3",
+    "audio_duration": 16.04,
+    "transcription_time": 0.09,
+    "rtfx": 184.97,
+    "timestamp": "2026-01-06T21:48:15.919331+00:00"
+  }
+}

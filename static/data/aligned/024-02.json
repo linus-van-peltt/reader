@@ -1,0 +1,307 @@
+{
+  "text": "She requests that if it is possible for you to cause the instrument's vehicle to cough at intervals that would help her. Is this possible? I am Ra. Please restate query, specifying interval.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "She requests that if it is possible for you to cause the instrument's vehicle to cough at intervals that would help her.",
+        "start_offset": 0,
+        "end_offset": 120,
+        "start": 2.061,
+        "end": 9.145
+      },
+      {
+        "segment": "Is this possible?",
+        "start_offset": 121,
+        "end_offset": 138,
+        "start": 9.745,
+        "end": 10.505
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 139,
+        "end_offset": 147,
+        "start": 17.689,
+        "end": 20.891
+      },
+      {
+        "segment": "Please restate query, specifying interval.",
+        "start_offset": 148,
+        "end_offset": 190,
+        "start": 24.473,
+        "end": 32.877
+      }
+    ],
+    "word": [
+      {
+        "word": "She",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.061,
+        "end": 2.181,
+        "score": -0.7298
+      },
+      {
+        "word": "requests",
+        "start_offset": 4,
+        "end_offset": 12,
+        "start": 2.281,
+        "end": 2.801,
+        "score": -0.7515
+      },
+      {
+        "word": "that",
+        "start_offset": 13,
+        "end_offset": 17,
+        "start": 2.841,
+        "end": 2.982,
+        "score": -0.7399
+      },
+      {
+        "word": "if",
+        "start_offset": 18,
+        "end_offset": 20,
+        "start": 3.022,
+        "end": 3.102,
+        "score": -0.7124
+      },
+      {
+        "word": "it",
+        "start_offset": 21,
+        "end_offset": 23,
+        "start": 3.162,
+        "end": 3.222,
+        "score": -0.7363
+      },
+      {
+        "word": "is",
+        "start_offset": 24,
+        "end_offset": 26,
+        "start": 3.262,
+        "end": 3.342,
+        "score": -0.718
+      },
+      {
+        "word": "possible",
+        "start_offset": 27,
+        "end_offset": 35,
+        "start": 3.442,
+        "end": 4.002,
+        "score": -0.6983
+      },
+      {
+        "word": "for",
+        "start_offset": 36,
+        "end_offset": 39,
+        "start": 4.062,
+        "end": 4.182,
+        "score": -0.6967
+      },
+      {
+        "word": "you",
+        "start_offset": 40,
+        "end_offset": 43,
+        "start": 4.242,
+        "end": 4.322,
+        "score": -0.6991
+      },
+      {
+        "word": "to",
+        "start_offset": 44,
+        "end_offset": 46,
+        "start": 4.362,
+        "end": 4.422,
+        "score": -0.6977
+      },
+      {
+        "word": "cause",
+        "start_offset": 47,
+        "end_offset": 52,
+        "start": 4.502,
+        "end": 4.863,
+        "score": -0.738
+      },
+      {
+        "word": "the",
+        "start_offset": 53,
+        "end_offset": 56,
+        "start": 4.923,
+        "end": 5.023,
+        "score": -0.8359
+      },
+      {
+        "word": "instrument's",
+        "start_offset": 57,
+        "end_offset": 69,
+        "start": 5.103,
+        "end": 5.663,
+        "score": -0.9938
+      },
+      {
+        "word": "vehicle",
+        "start_offset": 70,
+        "end_offset": 77,
+        "start": 5.723,
+        "end": 6.143,
+        "score": -0.8253
+      },
+      {
+        "word": "to",
+        "start_offset": 78,
+        "end_offset": 80,
+        "start": 6.183,
+        "end": 6.243,
+        "score": -0.7348
+      },
+      {
+        "word": "cough",
+        "start_offset": 81,
+        "end_offset": 86,
+        "start": 6.403,
+        "end": 6.784,
+        "score": -3.2056
+      },
+      {
+        "word": "at",
+        "start_offset": 87,
+        "end_offset": 89,
+        "start": 7.764,
+        "end": 7.844,
+        "score": -0.7319
+      },
+      {
+        "word": "intervals",
+        "start_offset": 90,
+        "end_offset": 99,
+        "start": 7.904,
+        "end": 8.324,
+        "score": -2.009
+      },
+      {
+        "word": "that",
+        "start_offset": 100,
+        "end_offset": 104,
+        "start": 8.344,
+        "end": 8.484,
+        "score": -1.0129
+      },
+      {
+        "word": "would",
+        "start_offset": 105,
+        "end_offset": 110,
+        "start": 8.504,
+        "end": 8.644,
+        "score": -0.7772
+      },
+      {
+        "word": "help",
+        "start_offset": 111,
+        "end_offset": 115,
+        "start": 8.684,
+        "end": 8.945,
+        "score": -0.7232
+      },
+      {
+        "word": "her.",
+        "start_offset": 116,
+        "end_offset": 120,
+        "start": 9.025,
+        "end": 9.145,
+        "score": -0.7347
+      },
+      {
+        "word": "Is",
+        "start_offset": 121,
+        "end_offset": 123,
+        "start": 9.745,
+        "end": 9.825,
+        "score": -0.8987
+      },
+      {
+        "word": "this",
+        "start_offset": 124,
+        "end_offset": 128,
+        "start": 9.845,
+        "end": 9.985,
+        "score": -1.3081
+      },
+      {
+        "word": "possible?",
+        "start_offset": 129,
+        "end_offset": 138,
+        "start": 10.045,
+        "end": 10.505,
+        "score": -0.7962
+      },
+      {
+        "word": "I",
+        "start_offset": 139,
+        "end_offset": 140,
+        "start": 17.689,
+        "end": 17.709,
+        "score": -0.9254
+      },
+      {
+        "word": "am",
+        "start_offset": 141,
+        "end_offset": 143,
+        "start": 19.05,
+        "end": 19.37,
+        "score": -1.5578
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 144,
+        "end_offset": 147,
+        "start": 20.771,
+        "end": 20.891,
+        "score": -1.0795
+      },
+      {
+        "word": "Please",
+        "start_offset": 148,
+        "end_offset": 154,
+        "start": 24.473,
+        "end": 25.193,
+        "score": -0.9364
+      },
+      {
+        "word": "restate",
+        "start_offset": 155,
+        "end_offset": 162,
+        "start": 26.153,
+        "end": 26.954,
+        "score": -0.7153
+      },
+      {
+        "word": "query,",
+        "start_offset": 163,
+        "end_offset": 169,
+        "start": 27.394,
+        "end": 27.934,
+        "score": -1.0187
+      },
+      {
+        "word": "specifying",
+        "start_offset": 170,
+        "end_offset": 180,
+        "start": 29.415,
+        "end": 30.496,
+        "score": -0.7042
+      },
+      {
+        "word": "interval.",
+        "start_offset": 181,
+        "end_offset": 190,
+        "start": 32.277,
+        "end": 32.877,
+        "score": -1.1949
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "024-02.mp3",
+    "audio_duration": 34.0376,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}

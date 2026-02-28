@@ -1,0 +1,283 @@
+{
+  "text": "The instrument has complained of intensive psychic attack for the past diurnal period, approximately. Is there a reason for the intensification of this at this time? I am Ra. Yes.",
+  "timestamps": {
+    "segment": [
+      {
+        "segment": "The instrument has complained of intensive psychic attack for the past diurnal period, approximately.",
+        "start_offset": 0,
+        "end_offset": 101,
+        "start": 2.341,
+        "end": 11.107
+      },
+      {
+        "segment": "Is there a reason for the intensification of this at this time?",
+        "start_offset": 102,
+        "end_offset": 165,
+        "start": 11.227,
+        "end": 16.19
+      },
+      {
+        "segment": "I am Ra.",
+        "start_offset": 166,
+        "end_offset": 174,
+        "start": 16.21,
+        "end": 19.872
+      },
+      {
+        "segment": "Yes.",
+        "start_offset": 175,
+        "end_offset": 179,
+        "start": 25.176,
+        "end": 25.576
+      }
+    ],
+    "word": [
+      {
+        "word": "The",
+        "start_offset": 0,
+        "end_offset": 3,
+        "start": 2.341,
+        "end": 2.462,
+        "score": -0.7673
+      },
+      {
+        "word": "instrument",
+        "start_offset": 4,
+        "end_offset": 14,
+        "start": 2.622,
+        "end": 3.202,
+        "score": -0.7527
+      },
+      {
+        "word": "has",
+        "start_offset": 15,
+        "end_offset": 18,
+        "start": 3.282,
+        "end": 3.522,
+        "score": -2.0441
+      },
+      {
+        "word": "complained",
+        "start_offset": 19,
+        "end_offset": 29,
+        "start": 4.083,
+        "end": 4.663,
+        "score": -1.7276
+      },
+      {
+        "word": "of",
+        "start_offset": 30,
+        "end_offset": 32,
+        "start": 4.723,
+        "end": 4.823,
+        "score": -0.797
+      },
+      {
+        "word": "intensive",
+        "start_offset": 33,
+        "end_offset": 42,
+        "start": 5.343,
+        "end": 5.904,
+        "score": -0.7132
+      },
+      {
+        "word": "psychic",
+        "start_offset": 43,
+        "end_offset": 50,
+        "start": 5.924,
+        "end": 6.344,
+        "score": -2.6839
+      },
+      {
+        "word": "attack",
+        "start_offset": 51,
+        "end_offset": 57,
+        "start": 6.404,
+        "end": 6.764,
+        "score": -1.3842
+      },
+      {
+        "word": "for",
+        "start_offset": 58,
+        "end_offset": 61,
+        "start": 8.665,
+        "end": 8.825,
+        "score": -0.7157
+      },
+      {
+        "word": "the",
+        "start_offset": 62,
+        "end_offset": 65,
+        "start": 8.865,
+        "end": 8.946,
+        "score": -0.7351
+      },
+      {
+        "word": "past",
+        "start_offset": 66,
+        "end_offset": 70,
+        "start": 9.006,
+        "end": 9.426,
+        "score": -0.8156
+      },
+      {
+        "word": "diurnal",
+        "start_offset": 71,
+        "end_offset": 78,
+        "start": 9.506,
+        "end": 9.966,
+        "score": -2.4013
+      },
+      {
+        "word": "period,",
+        "start_offset": 79,
+        "end_offset": 86,
+        "start": 10.026,
+        "end": 10.366,
+        "score": -0.7017
+      },
+      {
+        "word": "approximately.",
+        "start_offset": 87,
+        "end_offset": 101,
+        "start": 10.406,
+        "end": 11.107,
+        "score": -1.4663
+      },
+      {
+        "word": "Is",
+        "start_offset": 102,
+        "end_offset": 104,
+        "start": 11.227,
+        "end": 11.347,
+        "score": -0.7407
+      },
+      {
+        "word": "there",
+        "start_offset": 105,
+        "end_offset": 110,
+        "start": 11.407,
+        "end": 11.607,
+        "score": -0.7595
+      },
+      {
+        "word": "a",
+        "start_offset": 111,
+        "end_offset": 112,
+        "start": 12.988,
+        "end": 13.008,
+        "score": -0.7083
+      },
+      {
+        "word": "reason",
+        "start_offset": 113,
+        "end_offset": 119,
+        "start": 13.128,
+        "end": 13.448,
+        "score": -0.7518
+      },
+      {
+        "word": "for",
+        "start_offset": 120,
+        "end_offset": 123,
+        "start": 13.548,
+        "end": 13.749,
+        "score": -0.7089
+      },
+      {
+        "word": "the",
+        "start_offset": 124,
+        "end_offset": 127,
+        "start": 13.849,
+        "end": 13.969,
+        "score": -0.7393
+      },
+      {
+        "word": "intensification",
+        "start_offset": 128,
+        "end_offset": 143,
+        "start": 14.269,
+        "end": 15.209,
+        "score": -0.8945
+      },
+      {
+        "word": "of",
+        "start_offset": 144,
+        "end_offset": 146,
+        "start": 15.269,
+        "end": 15.35,
+        "score": -0.7818
+      },
+      {
+        "word": "this",
+        "start_offset": 147,
+        "end_offset": 151,
+        "start": 15.37,
+        "end": 15.57,
+        "score": -0.8399
+      },
+      {
+        "word": "at",
+        "start_offset": 152,
+        "end_offset": 154,
+        "start": 15.63,
+        "end": 15.69,
+        "score": -1.8316
+      },
+      {
+        "word": "this",
+        "start_offset": 155,
+        "end_offset": 159,
+        "start": 15.71,
+        "end": 15.89,
+        "score": -1.6994
+      },
+      {
+        "word": "time?",
+        "start_offset": 160,
+        "end_offset": 165,
+        "start": 15.93,
+        "end": 16.19,
+        "score": -1.8977
+      },
+      {
+        "word": "I",
+        "start_offset": 166,
+        "end_offset": 167,
+        "start": 16.21,
+        "end": 16.23,
+        "score": -8.089
+      },
+      {
+        "word": "am",
+        "start_offset": 168,
+        "end_offset": 170,
+        "start": 16.25,
+        "end": 16.29,
+        "score": -8.7935
+      },
+      {
+        "word": "Ra.",
+        "start_offset": 171,
+        "end_offset": 174,
+        "start": 16.33,
+        "end": 19.872,
+        "score": -7.8122
+      },
+      {
+        "word": "Yes.",
+        "start_offset": 175,
+        "end_offset": 179,
+        "start": 25.176,
+        "end": 25.576,
+        "score": -4.7282
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "070-03.mp3",
+    "audio_duration": 27.0368,
+    "alignment_method": "ctc_forced_align",
+    "model": "mms_fa"
+  }
+}
