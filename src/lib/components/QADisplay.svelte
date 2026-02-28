@@ -41,6 +41,9 @@
 	let highlightMenuPos = $state({ x: 0, y: 0 });
 	let pendingHighlight = $state<{ field: 'question' | 'answer'; start: number; end: number; text: string } | null>(null);
 	let highlightFeedback = $state('');
+	let highlightPhase = $state<'notebook' | 'note'>('notebook');
+	let selectedNotebook = $state<Notebook | null>(null);
+	let pendingNote = $state('');
 
 	let questionHighlights = $derived(
 		highlights?.filter((h) => h.field === 'question') ?? []
@@ -48,6 +51,39 @@
 	let answerHighlights = $derived(
 		highlights?.filter((h) => h.field === 'answer') ?? []
 	);
+
+	// Annotated highlights with sequential numbering
+	let annotatedHighlights = $derived.by(() => {
+		const all: { field: 'question' | 'answer'; start: number; end: number; note: string; noteIndex: number }[] = [];
+		let idx = 1;
+		const sorted = [...(highlights ?? [])].sort((a, b) => {
+			if (a.field !== b.field) return a.field === 'question' ? -1 : 1;
+			return a.start - b.start;
+		});
+		for (const h of sorted) {
+			if (h.note) {
+				all.push({ field: h.field, start: h.start, end: h.end, note: h.note, noteIndex: idx++ });
+			}
+		}
+		return all;
+	});
+
+	let questionHighlightsWithNotes = $derived(
+		questionHighlights.map((h) => {
+			const ann = annotatedHighlights.find((a) => a.field === 'question' && a.start === h.start && a.end === h.end);
+			return { ...h, noteIndex: ann?.noteIndex };
+		})
+	);
+
+	let answerHighlightsWithNotes = $derived(
+		answerHighlights.map((h) => {
+			const ann = annotatedHighlights.find((a) => a.field === 'answer' && a.start === h.start && a.end === h.end);
+			return { ...h, noteIndex: ann?.noteIndex };
+		})
+	);
+
+	let questionAnnotations = $derived(annotatedHighlights.filter((a) => a.field === 'question'));
+	let answerAnnotations = $derived(annotatedHighlights.filter((a) => a.field === 'answer'));
 
 	// Word-level timestamps for follow-along
 	let questionWordTimestamps = $state<WordTimestamp[]>([]);
@@ -101,15 +137,44 @@
 
 	// --- Text selection highlighting ---
 
-	function getTextOffset(container: Element, node: Node, offset: number): number {
-		const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT);
-		let chars = 0;
+	// Get the visible text content (excluding tooltip definitions) before a given DOM position
+	function getVisibleTextBefore(container: Element, node: Node, offset: number): string {
+		const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, {
+			acceptNode(n: Node) {
+				if ((n as Text).parentElement?.closest('[role="tooltip"]'))
+					return NodeFilter.FILTER_REJECT;
+				return NodeFilter.FILTER_ACCEPT;
+			}
+		});
+		let text = '';
 		let current: Text | null;
 		while ((current = walker.nextNode() as Text | null)) {
-			if (current === node) return chars + offset;
-			chars += current.textContent?.length ?? 0;
+			if (current === node) {
+				text += current.textContent?.slice(0, offset) ?? '';
+				break;
+			}
+			text += current.textContent ?? '';
 		}
-		return chars;
+		return text;
+	}
+
+	// Map a visible-text offset to the corresponding raw-text offset.
+	// Visible text may differ from raw text due to:
+	// - TimestampedText rendering \n\n as <br> (characters missing from DOM)
+	// - GlossaryText tooltip text (filtered out above)
+	function mapToRawOffset(rawText: string, visiblePrefix: string): number {
+		let rawIdx = 0;
+		let visIdx = 0;
+		while (visIdx < visiblePrefix.length && rawIdx < rawText.length) {
+			if (visiblePrefix[visIdx] === rawText[rawIdx]) {
+				visIdx++;
+				rawIdx++;
+			} else {
+				// Raw text character not present in visible text (e.g. \n from <br>)
+				rawIdx++;
+			}
+		}
+		return rawIdx;
 	}
 
 	function handleMouseUp(e: MouseEvent) {
@@ -119,8 +184,6 @@
 		}
 
 		const range = sel.getRangeAt(0);
-		const selectedText = sel.toString().trim();
-		if (!selectedText) return;
 
 		// Find which field the selection is in
 		const container = (range.startContainer.parentElement ?? range.startContainer) as Element;
@@ -130,15 +193,24 @@
 		const field = fieldEl.getAttribute('data-qa-field') as 'question' | 'answer';
 		if (!field) return;
 
-		const start = getTextOffset(fieldEl, range.startContainer, range.startOffset);
-		const end = getTextOffset(fieldEl, range.endContainer, range.endOffset);
+		const rawText = field === 'question' ? qa.question : qa.answer;
+		const visBefore1 = getVisibleTextBefore(fieldEl, range.startContainer, range.startOffset);
+		const visBefore2 = getVisibleTextBefore(fieldEl, range.endContainer, range.endOffset);
+		const start = mapToRawOffset(rawText, visBefore1);
+		const end = mapToRawOffset(rawText, visBefore2);
 
 		if (start === end) return;
 
+		const adjustedStart = Math.min(start, end);
+		const adjustedEnd = Math.max(start, end);
+		const selectedText = rawText.slice(adjustedStart, adjustedEnd);
+
+		if (!selectedText.trim()) return;
+
 		pendingHighlight = {
 			field,
-			start: Math.min(start, end),
-			end: Math.max(start, end),
+			start: adjustedStart,
+			end: adjustedEnd,
 			text: selectedText
 		};
 
@@ -153,19 +225,48 @@
 		showHighlightMenu = true;
 	}
 
-	async function handleHighlightToNotebook(nb: Notebook) {
-		if (!pendingHighlight) return;
-		await addHighlight(nb.id, qa.id, pendingHighlight);
-		highlightFeedback = `Highlighted in ${nb.title}`;
+	function selectNotebookForHighlight(nb: Notebook) {
+		selectedNotebook = nb;
+		highlightPhase = 'note';
+		pendingNote = '';
+	}
+
+	function finishHighlight(feedbackMsg: string) {
+		highlightFeedback = feedbackMsg;
 		showHighlightMenu = false;
+		highlightPhase = 'notebook';
+		selectedNotebook = null;
 		pendingHighlight = null;
+		pendingNote = '';
 		window.getSelection()?.removeAllRanges();
 		setTimeout(() => (highlightFeedback = ''), 2000);
 	}
 
+	async function confirmHighlight() {
+		if (!pendingHighlight || !selectedNotebook) return;
+		const highlightData = pendingNote.trim()
+			? { ...pendingHighlight, note: pendingNote.trim() }
+			: pendingHighlight;
+		await addHighlight(selectedNotebook.id, qa.id, highlightData);
+		finishHighlight(`Highlighted in ${selectedNotebook.title}`);
+	}
+
+	async function skipNote() {
+		if (!pendingHighlight || !selectedNotebook) return;
+		await addHighlight(selectedNotebook.id, qa.id, pendingHighlight);
+		finishHighlight(`Highlighted in ${selectedNotebook.title}`);
+	}
+
 	function dismissHighlightMenu() {
 		showHighlightMenu = false;
+		highlightPhase = 'notebook';
+		selectedNotebook = null;
 		pendingHighlight = null;
+		pendingNote = '';
+	}
+
+	function autofocus(node: HTMLInputElement) {
+		node.focus();
 	}
 </script>
 
@@ -192,6 +293,19 @@
 		{/if}
 	</div>
 
+	{#snippet marginNotes(annotations: typeof questionAnnotations)}
+		{#if annotations.length > 0}
+			<div class="absolute -right-2 top-0 hidden w-36 translate-x-full space-y-2 lg:block">
+				{#each annotations as ann}
+					<div class="border-l-2 border-fuchsia-300 pl-2 dark:border-fuchsia-600">
+						<span class="text-[9px] font-semibold text-fuchsia-500 dark:text-fuchsia-400">{ann.noteIndex}</span>
+						<p class="text-[11px] leading-snug text-stone-500 dark:text-stone-400">{ann.note}</p>
+					</div>
+				{/each}
+			</div>
+		{/if}
+	{/snippet}
+
 	<!-- Question -->
 	{#if qa.question}
 		<div class="mb-5 border-l-[3px] border-questioner/40 pl-4 dark:border-questioner/30">
@@ -200,20 +314,21 @@
 					Questioner
 				</span>
 			</div>
-			<div class="prose prose-stone max-w-none dark:prose-invert">
+			<div class="prose prose-stone relative max-w-none dark:prose-invert">
 				<p class="leading-relaxed" data-qa-field="question">
 					{#if highlightQuery}
 						{#each highlightText(qa.question, highlightQuery) as seg}
 							{#if seg.highlight}<mark class="rounded-sm bg-fuchsia-300/40 px-0.5 dark:bg-fuchsia-500/25">{seg.text}</mark>{:else}{seg.text}{/if}
 						{/each}
-					{:else if questionHighlights.length > 0}
-						<HighlightedText text={qa.question} highlights={questionHighlights} />
+					{:else if questionHighlightsWithNotes.length > 0}
+						<HighlightedText text={qa.question} highlights={questionHighlightsWithNotes} />
 					{:else if questionWordTimestamps.length > 0}
 						<TimestampedText text={qa.question} words={questionWordTimestamps} qaId={qa.id} />
 					{:else}
 						<GlossaryText text={qa.question} />
 					{/if}
 				</p>
+				{@render marginNotes(questionAnnotations)}
 			</div>
 		</div>
 	{/if}
@@ -225,20 +340,21 @@
 				Ra
 			</span>
 		</div>
-		<div class="prose prose-stone max-w-none dark:prose-invert">
+		<div class="prose prose-stone relative max-w-none dark:prose-invert">
 			<p class="whitespace-pre-line leading-relaxed" data-qa-field="answer">
 				{#if highlightQuery}
 					{#each highlightText(qa.answer, highlightQuery) as seg}
 						{#if seg.highlight}<mark class="rounded-sm bg-fuchsia-300/40 px-0.5 dark:bg-fuchsia-500/25">{seg.text}</mark>{:else}{seg.text}{/if}
 					{/each}
-				{:else if answerHighlights.length > 0}
-					<HighlightedText text={qa.answer} highlights={answerHighlights} />
+				{:else if answerHighlightsWithNotes.length > 0}
+					<HighlightedText text={qa.answer} highlights={answerHighlightsWithNotes} />
 				{:else if answerWordTimestamps.length > 0}
 					<TimestampedText text={qa.answer} words={answerWordTimestamps} qaId={qa.id} />
 				{:else}
 					<GlossaryText text={qa.answer} />
 				{/if}
 			</p>
+			{@render marginNotes(answerAnnotations)}
 		</div>
 	</div>
 
@@ -254,20 +370,50 @@
 			class="fixed z-50 -translate-x-1/2 rounded-xl border border-stone-200/60 bg-white/95 py-1.5 shadow-lg backdrop-blur-sm dark:border-stone-700/60 dark:bg-stone-900/95"
 			style="left: {highlightMenuPos.x}px; top: {highlightMenuPos.y}px; transform: translate(-50%, calc(-100% - 8px));"
 		>
-			<div class="px-3 py-1 text-[10px] font-medium tracking-wider text-stone-400 uppercase">Highlight in</div>
-			{#if nbState.notebooks.length === 0}
-				<div class="px-3 py-2 text-xs text-stone-400">
-					<a href="/notebooks" class="text-ra hover:underline">Create a notebook</a> first
-				</div>
+			{#if highlightPhase === 'notebook'}
+				<div class="px-3 py-1 text-[10px] font-medium tracking-wider text-stone-400 uppercase">Highlight in</div>
+				{#if nbState.notebooks.length === 0}
+					<div class="px-3 py-2 text-xs text-stone-400">
+						<a href="/notebooks" class="text-ra hover:underline">Create a notebook</a> first
+					</div>
+				{:else}
+					{#each nbState.notebooks as nb}
+						<button
+							onclick={() => selectNotebookForHighlight(nb)}
+							class="block w-full px-3 py-1.5 text-left text-xs text-stone-600 transition-colors hover:bg-stone-50 dark:text-stone-300 dark:hover:bg-stone-800"
+						>
+							{nb.title}
+						</button>
+					{/each}
+				{/if}
 			{:else}
-				{#each nbState.notebooks as nb}
-					<button
-						onclick={() => handleHighlightToNotebook(nb)}
-						class="block w-full px-3 py-1.5 text-left text-xs text-stone-600 transition-colors hover:bg-stone-50 dark:text-stone-300 dark:hover:bg-stone-800"
-					>
-						{nb.title}
-					</button>
-				{/each}
+				<div class="px-3 py-1 text-[10px] font-medium tracking-wider text-stone-400 uppercase">
+					Add a note
+				</div>
+				<div class="px-2 pb-1.5">
+					<input
+						type="text"
+						bind:value={pendingNote}
+						use:autofocus
+						class="w-full rounded-md border border-stone-200 bg-stone-50 px-2.5 py-1.5 text-xs text-stone-900 placeholder-stone-400 focus:border-fuchsia-400 focus:outline-none focus:ring-1 focus:ring-fuchsia-400 dark:border-stone-700 dark:bg-stone-800 dark:text-stone-100"
+						placeholder="Optional annotation..."
+						onkeydown={(e) => { if (e.key === 'Enter') confirmHighlight(); }}
+					/>
+					<div class="mt-1.5 flex gap-1.5">
+						<button
+							onclick={confirmHighlight}
+							class="flex-1 rounded-md bg-fuchsia-500 px-2 py-1 text-[11px] font-medium text-white hover:bg-fuchsia-600"
+						>
+							Save
+						</button>
+						<button
+							onclick={skipNote}
+							class="rounded-md px-2 py-1 text-[11px] font-medium text-stone-400 hover:text-stone-600 dark:hover:text-stone-300"
+						>
+							Skip
+						</button>
+					</div>
+				</div>
 			{/if}
 		</div>
 	{/if}

@@ -45,6 +45,7 @@ export interface TextHighlight {
 	start: number;
 	end: number;
 	text: string;
+	note?: string;
 	createdAt: number;
 }
 

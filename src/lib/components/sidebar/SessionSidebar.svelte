@@ -4,6 +4,7 @@
 	import SidebarNavPanel from './SidebarNavPanel.svelte';
 	import SidebarCategoriesPanel from './SidebarCategoriesPanel.svelte';
 	import SidebarIndexPanel from './SidebarIndexPanel.svelte';
+	import SidebarNotebooksPanel from './SidebarNotebooksPanel.svelte';
 
 	interface Props {
 		mobile?: boolean;
@@ -17,7 +18,8 @@
 	const tabs = [
 		{ id: 'nav' as const, label: 'Nav' },
 		{ id: 'categories' as const, label: 'Categories' },
-		{ id: 'index' as const, label: 'Index' }
+		{ id: 'index' as const, label: 'Index' },
+		{ id: 'notebooks' as const, label: 'Notebooks' }
 	];
 </script>
 
@@ -47,8 +49,10 @@
 			<SidebarNavPanel />
 		{:else if sidebar.activeTab === 'categories'}
 			<SidebarCategoriesPanel />
-		{:else}
+		{:else if sidebar.activeTab === 'index'}
 			<SidebarIndexPanel />
+		{:else}
+			<SidebarNotebooksPanel />
 		{/if}
 	</div>
 </aside>

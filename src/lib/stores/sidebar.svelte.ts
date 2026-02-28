@@ -1,11 +1,14 @@
 const STORAGE_KEY_OPEN = 'sidebar-open';
 const STORAGE_KEY_TAB = 'sidebar-tab';
 
+export type SidebarTab = 'nav' | 'categories' | 'index' | 'notebooks';
+
 let isOpen = $state(true);
-let activeTab = $state<'nav' | 'categories' | 'index'>('nav');
+let activeTab = $state<SidebarTab>('nav');
 let activeQaIndex = $state<number | null>(null);
 let visibleQaIndices = $state<number[]>([]);
 let scrollProgress = $state(0);
+let activeNotebookId = $state<string | null>(null);
 
 export function getSidebarState() {
 	return {
@@ -23,6 +26,9 @@ export function getSidebarState() {
 		},
 		get scrollProgress() {
 			return scrollProgress;
+		},
+		get activeNotebookId() {
+			return activeNotebookId;
 		}
 	};
 }
@@ -34,7 +40,11 @@ export function toggleSidebar(): void {
 	} catch {}
 }
 
-export function setSidebarTab(tab: 'nav' | 'categories' | 'index'): void {
+export function setActiveNotebookId(id: string | null): void {
+	activeNotebookId = id;
+}
+
+export function setSidebarTab(tab: SidebarTab): void {
 	activeTab = tab;
 	try {
 		localStorage.setItem(STORAGE_KEY_TAB, tab);
@@ -60,7 +70,7 @@ export function initSidebarFromStorage(): void {
 			isOpen = storedOpen === 'true';
 		}
 		const storedTab = localStorage.getItem(STORAGE_KEY_TAB);
-		if (storedTab === 'nav' || storedTab === 'categories' || storedTab === 'index') {
+		if (storedTab === 'nav' || storedTab === 'categories' || storedTab === 'index' || storedTab === 'notebooks') {
 			activeTab = storedTab;
 		}
 	} catch {}

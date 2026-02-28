@@ -3,6 +3,7 @@
 	import { getSession, getSessionCount } from '$lib/data/manifest';
 	import QADisplay from '$lib/components/QADisplay.svelte';
 	import { getSidebarState, toggleSidebar } from '$lib/stores/sidebar.svelte';
+	import { getHighlightsForQA, getNotesForQA } from '$lib/stores/notebooks.svelte';
 	import type { Session } from '$lib/types';
 
 	const sidebar = getSidebarState();
@@ -100,8 +101,19 @@
 
 	<div class="divide-y divide-stone-100 dark:divide-stone-800/50">
 		{#each session.segments as qa (qa.id)}
+			{@const notebookActive = sidebar.activeTab === 'notebooks'}
+			{@const highlights = notebookActive ? getHighlightsForQA(qa.id, sidebar.activeNotebookId) : []}
+			{@const notes = notebookActive ? getNotesForQA(qa.id, sidebar.activeNotebookId) : []}
 			<div class="py-8 first:pt-0 last:pb-0">
-				<QADisplay {qa} />
+				{#if notes.length > 0}
+					{#each notes as n}
+						<div class="mb-4 rounded-lg border-l-[3px] border-fuchsia-400 bg-fuchsia-50/50 px-4 py-3 dark:border-fuchsia-500 dark:bg-fuchsia-500/10">
+							<p class="text-sm leading-relaxed text-stone-700 dark:text-stone-300">{n.note}</p>
+							<p class="mt-1 text-[10px] text-fuchsia-400 dark:text-fuchsia-500">{n.notebook}</p>
+						</div>
+					{/each}
+				{/if}
+				<QADisplay {qa} highlights={highlights.length > 0 ? highlights : undefined} />
 			</div>
 		{/each}
 	</div>

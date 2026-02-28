@@ -155,6 +155,32 @@ export async function removeHighlight(
 	}
 }
 
+export function getHighlightsForQA(
+	qaPairId: string,
+	notebookId?: string | null
+): TextHighlight[] {
+	const source = notebookId ? notebooks.filter((nb) => nb.id === notebookId) : notebooks;
+	const highlights: TextHighlight[] = [];
+	for (const nb of source) {
+		const entry = nb.entries.find((e) => e.qaPairId === qaPairId);
+		if (entry?.highlights) highlights.push(...entry.highlights);
+	}
+	return highlights;
+}
+
+export function getNotesForQA(
+	qaPairId: string,
+	notebookId?: string | null
+): { notebook: string; note: string }[] {
+	const source = notebookId ? notebooks.filter((nb) => nb.id === notebookId) : notebooks;
+	const notes: { notebook: string; note: string }[] = [];
+	for (const nb of source) {
+		const entry = nb.entries.find((e) => e.qaPairId === qaPairId);
+		if (entry?.note) notes.push({ notebook: nb.title, note: entry.note });
+	}
+	return notes;
+}
+
 export async function exportAll(): Promise<string> {
 	const allKeys = await keys();
 	const nbKeys = (allKeys as string[]).filter((k) => k.startsWith(NOTEBOOKS_PREFIX));
