@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import { page } from '$app/state';
 	import { getSession } from '$lib/data/manifest';
 
@@ -59,7 +60,7 @@
 
 <a
 	bind:this={el}
-	href="/session/{session}#{qaIndex}"
+	href="{base}/session/{session}#{qaIndex}"
 	class={className}
 	{onclick}
 	onmouseenter={onMouseEnter}

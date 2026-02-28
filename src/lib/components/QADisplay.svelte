@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import type { QAPair, Notebook, TextHighlight } from '$lib/types';
 	import { playSegment, getAudioState, togglePlayback } from '$lib/stores/audio.svelte';
 	import {
@@ -119,14 +120,14 @@
 	}
 
 	async function handleCopy() {
-		const url = `${window.location.origin}/session/${qa.sessionNum}#${qa.qaIndex}`;
+		const url = `${window.location.origin}${base}/session/${qa.sessionNum}#${qa.qaIndex}`;
 		await navigator.clipboard.writeText(url);
 		copyStatus = 'Copied!';
 		setTimeout(() => (copyStatus = ''), 2000);
 	}
 
 	async function handleShare() {
-		const url = `${window.location.origin}/session/${qa.sessionNum}#${qa.qaIndex}`;
+		const url = `${window.location.origin}${base}/session/${qa.sessionNum}#${qa.qaIndex}`;
 		const title = `Law of One ${qa.sessionNum}.${qa.qaIndex}`;
 		try {
 			await navigator.share({ title, url });
@@ -279,7 +280,7 @@
 	<!-- Reference badge -->
 	<div class="mb-4 flex items-center gap-2">
 		<a
-			href="/session/{qa.sessionNum}#{qa.qaIndex}"
+			href="{base}/session/{qa.sessionNum}#{qa.qaIndex}"
 			class="font-mono text-sm font-semibold tabular-nums transition-colors duration-200 {isActive
 				? 'text-ra'
 				: 'text-stone-400 hover:text-ra dark:text-stone-500 dark:hover:text-ra'}"
@@ -374,7 +375,7 @@
 				<div class="px-3 py-1 text-[10px] font-medium tracking-wider text-stone-400 uppercase">Highlight in</div>
 				{#if nbState.notebooks.length === 0}
 					<div class="px-3 py-2 text-xs text-stone-400">
-						<a href="/notebooks" class="text-ra hover:underline">Create a notebook</a> first
+						<a href="{base}/notebooks" class="text-ra hover:underline">Create a notebook</a> first
 					</div>
 				{:else}
 					{#each nbState.notebooks as nb}
@@ -476,7 +477,7 @@
 				>
 					{#if nbState.notebooks.length === 0}
 						<div class="px-3 py-2 text-xs text-stone-400">
-							<a href="/notebooks" class="text-ra hover:underline">Create a notebook</a> first
+							<a href="{base}/notebooks" class="text-ra hover:underline">Create a notebook</a> first
 						</div>
 					{:else}
 						{#each nbState.notebooks as nb}

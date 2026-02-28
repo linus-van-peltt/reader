@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import { page } from '$app/state';
 	import { getSession, getSessionCount } from '$lib/data/manifest';
 	import QADisplay from '$lib/components/QADisplay.svelte';
@@ -82,7 +83,7 @@
 		<div class="flex items-center gap-2">
 			{#if sessionNum > 1}
 				<a
-					href="/session/{sessionNum - 1}"
+					href="{base}/session/{sessionNum - 1}"
 					class="rounded-lg border border-stone-200 px-3 py-1.5 text-sm text-stone-600 hover:bg-stone-100 dark:border-stone-700 dark:text-stone-400 dark:hover:bg-stone-800"
 				>
 					&larr; Prev
@@ -90,7 +91,7 @@
 			{/if}
 			{#if sessionNum < totalSessions}
 				<a
-					href="/session/{sessionNum + 1}"
+					href="{base}/session/{sessionNum + 1}"
 					class="rounded-lg border border-stone-200 px-3 py-1.5 text-sm text-stone-600 hover:bg-stone-100 dark:border-stone-700 dark:text-stone-400 dark:hover:bg-stone-800"
 				>
 					Next &rarr;
@@ -121,7 +122,7 @@
 	<div class="mt-8 flex items-center justify-between border-t border-stone-200 pt-6 dark:border-stone-800">
 		{#if sessionNum > 1}
 			<a
-				href="/session/{sessionNum - 1}"
+				href="{base}/session/{sessionNum - 1}"
 				class="rounded-lg border border-stone-200 px-4 py-2 text-sm text-stone-600 hover:bg-stone-100 dark:border-stone-700 dark:text-stone-400 dark:hover:bg-stone-800"
 			>
 				&larr; Session {sessionNum - 1}
@@ -131,7 +132,7 @@
 		{/if}
 		{#if sessionNum < totalSessions}
 			<a
-				href="/session/{sessionNum + 1}"
+				href="{base}/session/{sessionNum + 1}"
 				class="rounded-lg border border-stone-200 px-4 py-2 text-sm text-stone-600 hover:bg-stone-100 dark:border-stone-700 dark:text-stone-400 dark:hover:bg-stone-800"
 			>
 				Session {sessionNum + 1} &rarr;
@@ -141,6 +142,6 @@
 {:else}
 	<div class="py-12 text-center">
 		<p class="text-lg text-stone-500">Session not found</p>
-		<a href="/" class="mt-2 inline-block text-sm text-ra hover:underline">Back to sessions</a>
+		<a href="{base}/" class="mt-2 inline-block text-sm text-ra hover:underline">Back to sessions</a>
 	</div>
 {/if}

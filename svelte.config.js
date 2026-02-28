@@ -12,7 +12,7 @@ const config = {
 			pages: 'build'
 		}),
 		paths: {
-			base: process.env.NODE_ENV === 'production' ? '/reader' : ''
+			base: process.env.BASE_PATH || ''
 		},
 		serviceWorker: {
 			register: false

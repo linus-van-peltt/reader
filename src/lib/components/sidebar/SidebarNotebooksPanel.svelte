@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import { untrack } from 'svelte';
 	import { page } from '$app/state';
 	import { getSidebarState, setActiveNotebookId } from '$lib/stores/sidebar.svelte';
@@ -142,7 +143,7 @@
 			<p class="text-xs text-stone-400">
 				{mode === 'session' ? 'No saved passages for this session' : 'No saved passages'}
 			</p>
-			<a href="/notebooks" class="mt-2 inline-block text-xs text-ra hover:underline">
+			<a href="{base}/notebooks" class="mt-2 inline-block text-xs text-ra hover:underline">
 				Manage notebooks
 			</a>
 		</div>

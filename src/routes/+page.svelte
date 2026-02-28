@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import { getSessions, getRandomQAPair } from '$lib/data/manifest';
 	import QADisplay from '$lib/components/QADisplay.svelte';
 	import type { Session, QAPair } from '$lib/types';
@@ -59,7 +60,7 @@
 	<div class="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
 		{#each sessions as session}
 			<a
-				href="/session/{session.sessionNumber}"
+				href="{base}/session/{session.sessionNumber}"
 				class="group rounded-lg border border-stone-200 bg-white p-4 transition-colors hover:border-ra/50 hover:bg-rose-50/50 dark:border-stone-800 dark:bg-stone-900 dark:hover:border-ra/50 dark:hover:bg-stone-800/50"
 			>
 				<div class="flex items-baseline justify-between">

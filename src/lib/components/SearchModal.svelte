@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import {
 		getSearchState,
 		closeSearch,
@@ -52,7 +53,7 @@
 		if (e.key === 'Enter' && search.results.length > 0) {
 			const result = search.results[search.selectedIndex];
 			if (result?.sessionNum !== undefined) {
-				goto(`/session/${result.sessionNum}#${result.qaIndex}`);
+				goto(`${base}/session/${result.sessionNum}#${result.qaIndex}`);
 				closeSearch();
 			}
 		}
@@ -66,7 +67,7 @@
 	function navigateToResult(idx: number) {
 		const result = search.results[idx];
 		if (result?.sessionNum !== undefined) {
-			goto(`/session/${result.sessionNum}#${result.qaIndex}`);
+			goto(`${base}/session/${result.sessionNum}#${result.qaIndex}`);
 			closeSearch();
 		}
 	}
@@ -217,7 +218,7 @@
 						<span>
 							{search.results.length} results
 							<a
-								href="/search?q={encodeURIComponent(search.query)}&mode={search.searchMode}"
+								href="{base}/search?q={encodeURIComponent(search.query)}&mode={search.searchMode}"
 								onclick={closeSearch}
 								class="ml-2 text-ra hover:underline"
 							>
@@ -238,7 +239,7 @@
 				{#if selectedResult}
 					<div class="mb-4">
 						<a
-							href="/session/{selectedResult.sessionNum}#{selectedResult.qaIndex}"
+							href="{base}/session/{selectedResult.sessionNum}#{selectedResult.qaIndex}"
 							onclick={closeSearch}
 							class="text-sm font-medium text-ra hover:underline"
 						>

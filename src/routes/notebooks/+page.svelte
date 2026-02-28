@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import {
 		getNotebooksState,
 		loadNotebooks,
@@ -77,7 +78,7 @@
 	<div class="space-y-3">
 		{#each nbState.notebooks as nb}
 			<div class="flex items-center justify-between rounded-lg border border-stone-200 bg-white p-4 dark:border-stone-800 dark:bg-stone-900/50">
-				<a href="/notebooks/{nb.id}" class="min-w-0 flex-1">
+				<a href="{base}/notebooks/{nb.id}" class="min-w-0 flex-1">
 					<h2 class="font-medium text-stone-900 hover:text-ra dark:text-stone-100">
 						{nb.title}
 					</h2>
@@ -101,7 +102,7 @@
 
 <div class="mt-8">
 	<a
-		href="/settings"
+		href="{base}/settings"
 		class="text-sm text-stone-500 hover:text-ra dark:text-stone-400"
 	>
 		Backup &amp; Restore notebooks &rarr;

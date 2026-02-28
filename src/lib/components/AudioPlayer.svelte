@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import {
 		getAudioState,
 		togglePlayback,
@@ -49,7 +50,7 @@
 								</span>
 								<span class="text-xs text-stone-400 dark:text-stone-500">Now Playing</span>
 								<a
-									href="/session/{audio.currentSegment.sessionNum}#{audio.currentSegment.qaIndex}"
+									href="{base}/session/{audio.currentSegment.sessionNum}#{audio.currentSegment.qaIndex}"
 									onclick={() => (expanded = false)}
 									class="rounded px-2 py-0.5 text-xs font-medium text-ra hover:bg-ra/10"
 								>

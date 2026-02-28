@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import { page } from '$app/state';
 	import { goto } from '$app/navigation';
 	import {
@@ -60,7 +61,7 @@
 		if (!notebook) return;
 		if (confirm(`Delete notebook "${notebook.title}"?`)) {
 			await deleteNotebook(notebook.id);
-			goto('/notebooks');
+			goto(`${base}/notebooks`);
 		}
 	}
 
@@ -74,7 +75,7 @@
 	function getShareUrl() {
 		if (!notebook || notebook.entries.length === 0) return '';
 		const ids = notebook.entries.map((e) => e.qaPairId).join(',');
-		return `${window.location.origin}/notebooks/shared?title=${encodeURIComponent(notebook.title)}&entries=${ids}`;
+		return `${window.location.origin}${base}/notebooks/shared?title=${encodeURIComponent(notebook.title)}&entries=${ids}`;
 	}
 
 	async function handleCopy() {
@@ -123,7 +124,7 @@
 {:else if !notebook}
 	<div class="py-12 text-center">
 		<p class="text-lg text-stone-500">Notebook not found</p>
-		<a href="/notebooks" class="mt-2 inline-block text-sm text-ra hover:underline">
+		<a href="{base}/notebooks" class="mt-2 inline-block text-sm text-ra hover:underline">
 			Back to notebooks
 		</a>
 	</div>
@@ -131,7 +132,7 @@
 	<div class="mb-6 flex items-center justify-between">
 		<div>
 			<div class="flex items-center gap-2">
-				<a href="/notebooks" class="text-sm text-stone-400 hover:text-ra">&larr; Notebooks</a>
+				<a href="{base}/notebooks" class="text-sm text-stone-400 hover:text-ra">&larr; Notebooks</a>
 			</div>
 			<h1 class="mt-1 text-2xl font-bold text-stone-900 dark:text-stone-100">
 				{notebook.title}

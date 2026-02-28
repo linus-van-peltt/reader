@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import { page } from '$app/state';
 	import { getSessions } from '$lib/data/manifest';
 	import type { Session } from '$lib/types';
@@ -22,7 +23,7 @@
 	{#each sessions as s (s.sessionNumber)}
 		<a
 			data-session-nav={s.sessionNumber}
-			href="/session/{s.sessionNumber}"
+			href="{base}/session/{s.sessionNumber}"
 			class="flex items-center justify-between rounded-md px-2.5 py-1.5 text-xs transition-colors {currentNum ===
 			s.sessionNumber
 				? 'bg-ra/10 font-medium text-ra'

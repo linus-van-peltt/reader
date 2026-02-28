@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import { exportAll, importAll } from '$lib/stores/notebooks.svelte';
 
 	let importStatus = $state('');
@@ -95,7 +96,7 @@
 			Ra Reader is a study companion for the Law of One material.
 		</p>
 		<div class="mt-3">
-			<a href="/about" class="text-sm text-ra hover:underline">Learn more about Ra Reader</a>
+			<a href="{base}/about" class="text-sm text-ra hover:underline">Learn more about Ra Reader</a>
 		</div>
 	</section>
 

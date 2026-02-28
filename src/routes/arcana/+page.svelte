@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import { getCardsByStage, STAGES, type Stage } from '$lib/data/arcana';
 	import { getArcanaData } from '$lib/data/arcana';
 	import { getSession } from '$lib/data/manifest';
@@ -79,7 +80,7 @@
 <div class="mb-6">
 	<div class="flex items-baseline gap-3">
 		<h1 class="text-2xl font-bold text-stone-900 dark:text-stone-100">Arcana</h1>
-		<a href="/arcana/study" class="text-sm text-ra hover:underline">Study Guide</a>
+		<a href="{base}/arcana/study" class="text-sm text-ra hover:underline">Study Guide</a>
 	</div>
 	<p class="mt-1 text-sm text-stone-500 dark:text-stone-400">
 		The 22 archetypes of the tarot as studied in the Law of One material
@@ -137,7 +138,7 @@
 						class="group flex flex-col items-center rounded-lg border border-stone-200 bg-white p-3 text-left transition-colors hover:border-ra/30 hover:bg-rose-50/30 dark:border-stone-800 dark:bg-stone-900/50 dark:hover:border-ra/30 dark:hover:bg-stone-800/50"
 					>
 						<img
-							src="/{card.imagepath}"
+							src="{base}/{card.imagepath}"
 							alt={capitalize(card.name)}
 							class="h-52 w-auto rounded shadow-sm transition-shadow group-hover:shadow-md"
 							loading="lazy"
@@ -170,7 +171,7 @@
 					class="group flex flex-col items-center rounded-lg border border-stone-200 bg-white p-3 text-left transition-colors hover:border-ra/30 hover:bg-rose-50/30 dark:border-stone-800 dark:bg-stone-900/50 dark:hover:border-ra/30 dark:hover:bg-stone-800/50"
 				>
 					<img
-						src="/{choiceCard.imagepath}"
+						src="{base}/{choiceCard.imagepath}"
 						alt="The Choice"
 						class="h-52 w-auto rounded shadow-sm transition-shadow group-hover:shadow-md"
 						loading="lazy"
@@ -212,7 +213,7 @@
 			<!-- Image side -->
 			<div class="flex shrink-0 items-start justify-center overflow-y-auto bg-stone-100 p-6 dark:bg-stone-800/50">
 				<img
-					src="/{modalCard.imagepath}"
+					src="{base}/{modalCard.imagepath}"
 					alt={capitalize(modalCard.name)}
 					class="max-h-[80vh] w-auto rounded-lg shadow-lg"
 				/>
@@ -263,7 +264,7 @@
 								<div class="rounded-lg border border-stone-200 bg-stone-50/50 dark:border-stone-800 dark:bg-stone-800/30">
 									<!-- Reference header -->
 									<a
-										href="/session/{ref.session}#{ref.question}"
+										href="{base}/session/{ref.session}#{ref.question}"
 										class="block border-b border-stone-200 px-4 py-2 font-mono text-base font-semibold tabular-nums text-ra hover:underline dark:border-stone-800"
 									>
 										{ref.session}.{ref.question}

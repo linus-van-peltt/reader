@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import { page } from '$app/state';
 	import { goto } from '$app/navigation';
 	import { getQAPair } from '$lib/data/manifest';
@@ -43,7 +44,7 @@
 			await addEntry(nb.id, qa.id);
 		}
 		saveStatus = 'Saved!';
-		setTimeout(() => goto(`/notebooks/${nb.id}`), 500);
+		setTimeout(() => goto(`${base}/notebooks/${nb.id}`), 500);
 	}
 </script>
 
@@ -53,7 +54,7 @@
 
 <div class="mx-auto max-w-4xl">
 	<div class="mb-6">
-		<a href="/notebooks" class="text-sm text-stone-400 hover:text-ra">&larr; Notebooks</a>
+		<a href="{base}/notebooks" class="text-sm text-stone-400 hover:text-ra">&larr; Notebooks</a>
 	</div>
 
 	<div class="mb-6 flex items-center justify-between">

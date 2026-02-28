@@ -27,6 +27,8 @@ jobs:
       - run: bun install --frozen-lockfile
 
       - run: bun run build
+        env:
+          BASE_PATH: /reader
 
       - uses: actions/upload-pages-artifact@v3
         with:

@@ -1,17 +1,18 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import ThemeToggle from './ThemeToggle.svelte';
 	import { openSearch } from '$lib/stores/search.svelte';
 
 	let mobileMenuOpen = $state(false);
 
 	const navLinks = [
-		{ href: '/', label: 'Sessions' },
-		{ href: '/categories', label: 'Categories' },
-		{ href: '/glossary', label: 'Glossary' },
-		{ href: '/index-terms', label: 'Index' },
-		{ href: '/notebooks', label: 'Notebooks' },
-		{ href: '/arcana', label: 'Arcana' },
-		{ href: '/about', label: 'About' }
+		{ href: `${base}/`, label: 'Sessions' },
+		{ href: `${base}/categories`, label: 'Categories' },
+		{ href: `${base}/glossary`, label: 'Glossary' },
+		{ href: `${base}/index-terms`, label: 'Index' },
+		{ href: `${base}/notebooks`, label: 'Notebooks' },
+		{ href: `${base}/arcana`, label: 'Arcana' },
+		{ href: `${base}/about`, label: 'About' }
 	];
 </script>
 
@@ -20,7 +21,7 @@
 >
 	<div class="mx-auto flex h-14 max-w-6xl items-center justify-between px-4">
 		<div class="flex items-center gap-6">
-			<a href="/" class="text-lg font-semibold tracking-tight text-ra">Ra Reader</a>
+			<a href="{base}/" class="text-lg font-semibold tracking-tight text-ra">Ra Reader</a>
 			<nav class="hidden items-center gap-1 md:flex">
 				{#each navLinks as link}
 					<a
