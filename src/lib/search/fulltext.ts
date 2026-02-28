@@ -1,3 +1,4 @@
+import { base } from '$app/paths';
 import MiniSearch from 'minisearch';
 import type { SearchResult } from '$lib/types';
 
@@ -5,7 +6,7 @@ let index: MiniSearch | null = null;
 
 export async function initSearch(): Promise<void> {
 	if (index) return;
-	const resp = await fetch('/data/search-index.json');
+	const resp = await fetch(`${base}/data/search-index.json`);
 	const data = await resp.text();
 	index = MiniSearch.loadJSON(data, {
 		fields: ['question', 'answer'],

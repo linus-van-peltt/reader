@@ -11,6 +11,9 @@ const config = {
 			assets: 'build',
 			pages: 'build'
 		}),
+		paths: {
+			base: process.env.NODE_ENV === 'production' ? '/reader' : ''
+		},
 		serviceWorker: {
 			register: false
 		}

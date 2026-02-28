@@ -1,10 +1,11 @@
+import { base } from '$app/paths';
 import type { IndexTerm, IndexReference } from '$lib/types';
 
 let terms: IndexTerm[] | null = null;
 
 async function load(): Promise<IndexTerm[]> {
 	if (terms) return terms;
-	const resp = await fetch('/data/index-terms.json');
+	const resp = await fetch(`${base}/data/index-terms.json`);
 	const data: Record<string, IndexReference[]> = await resp.json();
 	terms = Object.entries(data)
 		.map(([term, references]) => ({ term, references }))

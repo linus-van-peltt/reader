@@ -1,3 +1,5 @@
+import { base } from '$app/paths';
+
 const DIMS = 768;
 
 let embeddings: Float32Array | null = null;
@@ -6,8 +8,8 @@ let embeddingIds: string[] | null = null;
 export async function initEmbeddings(): Promise<void> {
 	if (embeddings) return;
 	const [binResp, idsResp] = await Promise.all([
-		fetch('/data/embeddings.bin'),
-		fetch('/data/embedding_ids.json')
+		fetch(`${base}/data/embeddings.bin`),
+		fetch(`${base}/data/embedding_ids.json`)
 	]);
 	embeddings = new Float32Array(await binResp.arrayBuffer());
 	embeddingIds = await idsResp.json();

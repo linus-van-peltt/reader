@@ -1,10 +1,11 @@
+import { base } from '$app/paths';
 import type { ArcanaData, ArcanaCard } from '$lib/types';
 
 let data: ArcanaData | null = null;
 
 async function load(): Promise<ArcanaData> {
 	if (data) return data;
-	const resp = await fetch('/data/arcana.json');
+	const resp = await fetch(`${base}/data/arcana.json`);
 	data = (await resp.json()) as ArcanaData;
 	return data;
 }

@@ -1,7 +1,8 @@
+import { base } from '$app/paths';
 import { getQAPair } from '$lib/data/manifest';
 import type { QAPair } from '$lib/types';
 
-const AUDIO_BASE_URL = import.meta.env.PUBLIC_AUDIO_BASE_URL || '/data/audio';
+const AUDIO_BASE_URL = import.meta.env.PUBLIC_AUDIO_BASE_URL || `${base}/data/audio`;
 
 let audioEl: HTMLAudioElement | null = null;
 let rafId: number | null = null;

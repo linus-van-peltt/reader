@@ -1,3 +1,4 @@
+import { base } from '$app/paths';
 import type { Manifest, Session, QAPair } from '$lib/types';
 
 let manifest: Manifest | null = null;
@@ -6,7 +7,7 @@ let qaMap: Map<string, QAPair> | null = null;
 
 async function load(): Promise<Manifest> {
 	if (manifest) return manifest;
-	const resp = await fetch('/data/manifest.json');
+	const resp = await fetch(`${base}/data/manifest.json`);
 	manifest = (await resp.json()) as Manifest;
 
 	sessionMap = new Map();

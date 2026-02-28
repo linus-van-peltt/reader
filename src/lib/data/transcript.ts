@@ -1,3 +1,4 @@
+import { base } from '$app/paths';
 import type { TranscriptData, WordTimestamp } from '$lib/types';
 import { getQAPair } from '$lib/data/manifest';
 
@@ -8,7 +9,7 @@ export async function getTranscript(id: string): Promise<TranscriptData | null> 
 
 	for (const dir of ['aligned', 'machine']) {
 		try {
-			const resp = await fetch(`/data/${dir}/${id}.json`);
+			const resp = await fetch(`${base}/data/${dir}/${id}.json`);
 			if (resp.ok) {
 				const data = (await resp.json()) as TranscriptData;
 				cache.set(id, data);

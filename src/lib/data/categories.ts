@@ -1,10 +1,11 @@
+import { base } from '$app/paths';
 import type { Category } from '$lib/types';
 
 let categories: Category[] | null = null;
 
 async function load(): Promise<Category[]> {
 	if (categories) return categories;
-	const resp = await fetch('/data/categories.json');
+	const resp = await fetch(`${base}/data/categories.json`);
 	categories = (await resp.json()) as Category[];
 	return categories;
 }

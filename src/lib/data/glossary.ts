@@ -1,10 +1,11 @@
+import { base } from '$app/paths';
 import type { GlossaryTerm } from '$lib/types';
 
 let terms: GlossaryTerm[] | null = null;
 
 async function load(): Promise<GlossaryTerm[]> {
 	if (terms) return terms;
-	const resp = await fetch('/data/glossary.json');
+	const resp = await fetch(`${base}/data/glossary.json`);
 	const data: Record<string, string> = await resp.json();
 	terms = Object.entries(data).map(([term, definition]) => ({ term, definition }));
 	return terms;
