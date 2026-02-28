@@ -100,10 +100,24 @@ export interface ArcanaCard {
 	aliases: string[];
 }
 
+export interface ArcanaPair {
+	arcanum1: ArcanaCard;
+	arcanum2: ArcanaCard;
+}
+
+export interface ArcanaSecondaryStudy {
+	mindpairs: ArcanaPair[];
+	bodypairs: ArcanaPair[];
+	spiritpairs: ArcanaPair[];
+}
+
 export interface ArcanaData {
 	mind: { arcana: ArcanaCard[] };
 	body: { arcana: ArcanaCard[] };
 	spirit: { arcana: ArcanaCard[] };
+	thechoice: ArcanaCard;
+	primarystudy: ArcanaCard[][];
+	secondarystudy: ArcanaSecondaryStudy;
 }
 
 export interface WordTimestamp {

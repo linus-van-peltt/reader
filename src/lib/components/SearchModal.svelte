@@ -9,6 +9,7 @@
 	} from '$lib/stores/search.svelte';
 	import type { SearchMode } from '$lib/stores/search.svelte';
 	import { goto } from '$app/navigation';
+	import QADisplay from '$lib/components/QADisplay.svelte';
 
 	const search = getSearchState();
 	let inputEl: HTMLInputElement | undefined = $state();
@@ -70,46 +71,14 @@
 		}
 	}
 
-	function getContextAroundMatch(
-		text: string,
-		query: string,
-		contextLen = 200
-	): { before: string; match: string; after: string } {
-		if (!text || !query) return { before: '', match: '', after: '' };
-
-		const words = query
-			.toLowerCase()
-			.split(/\s+/)
-			.filter((w) => w.length > 2);
-		const lower = text.toLowerCase();
-
-		let bestPos = -1;
-		for (const word of words) {
-			const pos = lower.indexOf(word);
-			if (pos !== -1) {
-				bestPos = pos;
-				break;
-			}
-		}
-
-		if (bestPos === -1) {
-			return {
-				before: '',
-				match: text.slice(0, contextLen),
-				after: text.length > contextLen ? '...' : ''
-			};
-		}
-
-		const start = Math.max(0, bestPos - contextLen / 2);
-		const end = Math.min(text.length, bestPos + contextLen / 2);
-		const matchEnd = Math.min(text.length, bestPos + (words[0]?.length ?? 10));
-
-		return {
-			before: (start > 0 ? '...' : '') + text.slice(start, bestPos),
-			match: text.slice(bestPos, matchEnd),
-			after: text.slice(matchEnd, end) + (end < text.length ? '...' : '')
-		};
+	function truncate(text: string, len = 100): string {
+		if (!text || text.length <= len) return text ?? '';
+		return text.slice(0, len) + '...';
 	}
+
+	let selectedResult = $derived(
+		search.results.length > 0 ? search.results[search.selectedIndex] : null
+	);
 
 	const modes: { value: SearchMode; label: string }[] = [
 		{ value: 'fulltext', label: 'Text' },
@@ -132,7 +101,7 @@
 />
 
 {#if search.isOpen}
-	<div class="fixed inset-0 z-50 flex items-start justify-center pt-[15vh]">
+	<div class="fixed inset-0 z-50 flex items-center justify-center p-4">
 		<!-- backdrop -->
 		<button
 			class="absolute inset-0 bg-black/50"
@@ -141,137 +110,169 @@
 			tabindex="-1"
 		></button>
 
-		<!-- modal -->
+		<!-- panel modal -->
 		<div
-			class="relative mx-4 w-full max-w-3xl rounded-xl border border-stone-200 bg-white shadow-2xl dark:border-stone-700 dark:bg-stone-900"
+			class="relative flex max-h-[85vh] w-full max-w-7xl overflow-hidden rounded-2xl border border-stone-200 bg-white shadow-2xl dark:border-stone-700 dark:bg-stone-900"
 		>
-			<div class="flex items-center gap-3 border-b border-stone-200 px-4 dark:border-stone-700">
-				<svg
-					class="h-5 w-5 shrink-0 text-stone-400"
-					fill="none"
-					viewBox="0 0 24 24"
-					stroke="currentColor"
-					stroke-width="2"
-				>
-					<path
-						stroke-linecap="round"
-						stroke-linejoin="round"
-						d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
-					/>
-				</svg>
-				<input
-					bind:this={inputEl}
-					type="text"
-					value={search.query}
-					oninput={handleInput}
-					onkeydown={handleKeydown}
-					placeholder="Search the Ra Material..."
-					class="flex-1 border-0 bg-transparent py-3 text-sm text-stone-900 placeholder-stone-400 focus:ring-0 dark:text-stone-100"
-				/>
-				{#if search.isSearching}
-					<div
-						class="h-4 w-4 animate-spin rounded-full border-2 border-stone-300 border-t-ra"
-					></div>
-				{/if}
-			</div>
-
-			<div class="flex items-center gap-1 border-b border-stone-100 px-4 py-1.5 dark:border-stone-800">
-				{#each modes as mode}
-					<button
-						onclick={() => {
-							setSearchMode(mode.value);
-							if (search.query) performSearch(search.query);
-						}}
-						class="rounded px-2 py-0.5 text-xs"
-						class:bg-ra={search.searchMode === mode.value}
-						class:text-white={search.searchMode === mode.value}
-						class:text-stone-500={search.searchMode !== mode.value}
-						class:hover:bg-stone-100={search.searchMode !== mode.value}
-						class:dark:text-stone-400={search.searchMode !== mode.value}
-						class:dark:hover:bg-stone-800={search.searchMode !== mode.value}
+			<!-- Left sidebar -->
+			<div class="flex w-80 shrink-0 flex-col border-r border-stone-200 dark:border-stone-700">
+				<!-- Search input -->
+				<div class="flex items-center gap-3 border-b border-stone-200 px-4 dark:border-stone-700">
+					<svg
+						class="h-5 w-5 shrink-0 text-stone-400"
+						fill="none"
+						viewBox="0 0 24 24"
+						stroke="currentColor"
+						stroke-width="2"
 					>
-						{mode.label}
-					</button>
-				{/each}
-				{#if search.semanticLoading}
-					<span class="ml-2 text-xs text-stone-400">Loading model...</span>
-				{/if}
-			</div>
+						<path
+							stroke-linecap="round"
+							stroke-linejoin="round"
+							d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+						/>
+					</svg>
+					<input
+						bind:this={inputEl}
+						type="text"
+						value={search.query}
+						oninput={handleInput}
+						onkeydown={handleKeydown}
+						placeholder="Search..."
+						class="flex-1 border-0 bg-transparent py-3 text-sm text-stone-900 placeholder-stone-400 focus:ring-0 dark:text-stone-100"
+					/>
+					{#if search.isSearching}
+						<div
+							class="h-4 w-4 animate-spin rounded-full border-2 border-stone-300 border-t-ra"
+						></div>
+					{/if}
+				</div>
 
-			<div class="max-h-[60vh] overflow-y-auto p-2">
-				{#if search.results.length > 0}
-					{#each search.results as result, idx}
-						{#if idx > 0}
-							<div class="mx-3 border-t border-stone-100 dark:border-stone-800"></div>
-						{/if}
+				<!-- Mode toggle -->
+				<div class="flex items-center gap-1 border-b border-stone-100 px-4 py-1.5 dark:border-stone-800">
+					{#each modes as mode}
 						<button
-							data-search-idx={idx}
-							onclick={() => navigateToResult(idx)}
-							class="w-full rounded-lg px-4 py-3.5 text-left transition-colors"
-							class:bg-stone-100={search.selectedIndex === idx}
-							class:dark:bg-stone-800={search.selectedIndex === idx}
-							onmouseenter={() => setSelectedIndex(idx)}
+							onclick={() => {
+								setSearchMode(mode.value);
+								if (search.query) performSearch(search.query);
+							}}
+							class="rounded px-2 py-0.5 text-xs"
+							class:bg-ra={search.searchMode === mode.value}
+							class:text-white={search.searchMode === mode.value}
+							class:text-stone-500={search.searchMode !== mode.value}
+							class:hover:bg-stone-100={search.searchMode !== mode.value}
+							class:dark:text-stone-400={search.searchMode !== mode.value}
+							class:dark:hover:bg-stone-800={search.searchMode !== mode.value}
 						>
-							<div class="mb-1.5 flex items-center gap-2">
-								<span class="font-mono text-xs font-semibold tabular-nums text-ra"
-									>{result.sessionNum}.{result.qaIndex}</span
-								>
-								<span class="text-[10px] text-stone-400">
-									{result.score.toFixed(2)}
-								</span>
-							</div>
-							{#if result.question}
-								{@const ctx = getContextAroundMatch(result.question, search.query, 240)}
-								<div class="mb-2 text-sm leading-relaxed text-stone-600 dark:text-stone-400">
-									<span class="font-medium text-questioner">Q:</span>
-									<span>{ctx.before}</span><mark
-										class="rounded bg-fuchsia-300/40 px-0.5 dark:bg-fuchsia-500/25"
-										>{ctx.match}</mark
-									><span>{ctx.after}</span>
-								</div>
-							{/if}
-							{#if result.answer}
-								{@const ctx = getContextAroundMatch(result.answer, search.query, 320)}
-								<div class="text-sm leading-relaxed text-stone-500 dark:text-stone-500">
-									<span class="font-medium text-ra">Ra:</span>
-									<span>{ctx.before}</span><mark
-										class="rounded bg-fuchsia-300/40 px-0.5 dark:bg-fuchsia-500/25"
-										>{ctx.match}</mark
-									><span>{ctx.after}</span>
-								</div>
-							{/if}
+							{mode.label}
 						</button>
 					{/each}
-				{:else if search.query && !search.isSearching}
-					<div class="py-8 text-center text-sm text-stone-400">No results found</div>
-				{:else if !search.query}
-					<div class="py-8 text-center text-sm text-stone-400">
-						Type to search across all sessions
+					{#if search.semanticLoading}
+						<span class="ml-2 text-xs text-stone-400">Loading model...</span>
+					{/if}
+				</div>
+
+				<!-- Result list -->
+				<div class="flex-1 overflow-y-auto">
+					{#if search.results.length > 0}
+						{#each search.results as result, idx}
+							{#if idx > 0}
+								<div class="mx-3 border-t border-stone-100 dark:border-stone-800"></div>
+							{/if}
+							<button
+								data-search-idx={idx}
+								onclick={() => setSelectedIndex(idx)}
+								ondblclick={() => navigateToResult(idx)}
+								class="w-full px-4 py-3 text-left transition-colors"
+								class:bg-stone-100={search.selectedIndex === idx}
+								class:dark:bg-stone-800={search.selectedIndex === idx}
+								onmouseenter={() => setSelectedIndex(idx)}
+							>
+								<div class="mb-1 flex items-center gap-2">
+									<span class="font-mono text-xs font-semibold tabular-nums text-ra"
+										>{result.sessionNum}.{result.qaIndex}</span
+									>
+									<span class="text-[10px] text-stone-400">
+										{result.score.toFixed(2)}
+									</span>
+								</div>
+								<div class="text-xs leading-relaxed text-stone-500 dark:text-stone-400">
+									{truncate(result.answer ?? result.question ?? '', 100)}
+								</div>
+							</button>
+						{/each}
+					{:else if search.query && !search.isSearching}
+						<div class="py-8 text-center text-sm text-stone-400">No results found</div>
+					{:else if !search.query}
+						<div class="py-8 text-center text-sm text-stone-400">
+							Type to search
+						</div>
+					{/if}
+				</div>
+
+				<!-- Footer -->
+				{#if search.results.length > 0}
+					<div
+						class="border-t border-stone-100 px-4 py-2 text-xs text-stone-400 dark:border-stone-800"
+					>
+						<span>
+							{search.results.length} results
+							<a
+								href="/search?q={encodeURIComponent(search.query)}&mode={search.searchMode}"
+								onclick={closeSearch}
+								class="ml-2 text-ra hover:underline"
+							>
+								View all
+							</a>
+						</span>
+						<div class="mt-1">
+							<kbd class="rounded bg-stone-100 px-1 dark:bg-stone-800">↑↓</kbd> navigate
+							<kbd class="ml-2 rounded bg-stone-100 px-1 dark:bg-stone-800">↵</kbd> go to session
+							<kbd class="ml-2 rounded bg-stone-100 px-1 dark:bg-stone-800">esc</kbd> close
+						</div>
 					</div>
 				{/if}
 			</div>
 
-			{#if search.results.length > 0}
-				<div
-					class="flex items-center justify-between border-t border-stone-100 px-4 py-2 text-xs text-stone-400 dark:border-stone-800"
-				>
-					<span>
-					{search.results.length} results
-					<a
-						href="/search?q={encodeURIComponent(search.query)}&mode={search.searchMode}"
-						onclick={closeSearch}
-						class="ml-2 text-ra hover:underline"
-					>
-						View all
-					</a>
-				</span>
-					<span>
-						<kbd class="rounded bg-stone-100 px-1 dark:bg-stone-800">↑↓</kbd> navigate
-						<kbd class="ml-2 rounded bg-stone-100 px-1 dark:bg-stone-800">↵</kbd> select
-						<kbd class="ml-2 rounded bg-stone-100 px-1 dark:bg-stone-800">esc</kbd> close
-					</span>
-				</div>
-			{/if}
+			<!-- Right panel: full passage -->
+			<div class="flex-1 overflow-y-auto p-6">
+				{#if selectedResult}
+					<div class="mb-4">
+						<a
+							href="/session/{selectedResult.sessionNum}#{selectedResult.qaIndex}"
+							onclick={closeSearch}
+							class="text-sm font-medium text-ra hover:underline"
+						>
+							Session {selectedResult.sessionNum}, Q&A {selectedResult.qaIndex}
+						</a>
+					</div>
+					<QADisplay
+						qa={{
+							id: selectedResult.id,
+							sessionNum: selectedResult.sessionNum ?? 0,
+							qaIndex: selectedResult.qaIndex ?? 0,
+							question: selectedResult.question ?? '',
+							answer: selectedResult.answer ?? '',
+							audioPath: '',
+							machineTranscriptPath: '',
+							questionWordCount: 0,
+							answerWordCount: 0
+						}}
+						highlightQuery={search.query}
+					/>
+				{:else if search.query && !search.isSearching && search.results.length === 0}
+					<div class="flex h-full items-center justify-center text-sm text-stone-400">
+						No results found
+					</div>
+				{:else}
+					<div class="flex h-full items-center justify-center text-sm text-stone-400">
+						{#if search.query && search.isSearching}
+							Searching...
+						{:else}
+							Select a result to view the full passage
+						{/if}
+					</div>
+				{/if}
+			</div>
 		</div>
 	</div>
 {/if}

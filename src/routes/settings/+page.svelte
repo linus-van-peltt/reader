@@ -92,14 +92,10 @@
 			About
 		</h2>
 		<p class="text-sm text-stone-500 dark:text-stone-400">
-			Ra Reader is a study companion for the Ra Material (Law of One).
-			All content from the 106 sessions is available for browsing, searching, and study.
+			Ra Reader is a study companion for the Law of One material.
 		</p>
-		<div class="mt-3 text-xs text-stone-400 dark:text-stone-500">
-			<p>106 sessions &middot; 2,620 passages &middot; Full-text &amp; semantic search</p>
-			<p class="mt-1">
-				Data sourced from <a href="https://www.lawofone.info" target="_blank" rel="noopener" class="text-ra hover:underline">lawofone.info</a>
-			</p>
+		<div class="mt-3">
+			<a href="/about" class="text-sm text-ra hover:underline">Learn more about Ra Reader</a>
 		</div>
 	</section>
 

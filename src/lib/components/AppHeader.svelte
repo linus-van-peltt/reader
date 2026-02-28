@@ -9,7 +9,9 @@
 		{ href: '/categories', label: 'Categories' },
 		{ href: '/glossary', label: 'Glossary' },
 		{ href: '/index-terms', label: 'Index' },
-		{ href: '/notebooks', label: 'Notebooks' }
+		{ href: '/notebooks', label: 'Notebooks' },
+		{ href: '/arcana', label: 'Arcana' },
+		{ href: '/about', label: 'About' }
 	];
 </script>
 

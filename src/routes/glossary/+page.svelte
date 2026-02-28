@@ -52,7 +52,7 @@
 <div class="mb-6">
 	<h1 class="text-2xl font-bold text-stone-900 dark:text-stone-100">Glossary</h1>
 	<p class="mt-1 text-sm text-stone-500 dark:text-stone-400">
-		{allTerms.length} terms from the Ra Material
+		{allTerms.length} terms from the Law of One material
 	</p>
 </div>
 

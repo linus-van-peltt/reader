@@ -21,7 +21,6 @@ export function searchFullText(query: string, limit?: number): SearchResult[] {
 	if (!index) return [];
 	const raw = index.search(query, {
 		boost: { answer: 2 },
-		fuzzy: 0.2,
 		prefix: true
 	});
 	const sliced = limit ? raw.slice(0, limit) : raw;

@@ -47,7 +47,7 @@
 <div class="mb-6">
 	<h1 class="text-2xl font-bold text-stone-900 dark:text-stone-100">Categories</h1>
 	<p class="mt-1 text-sm text-stone-500 dark:text-stone-400">
-		Browse the Ra Material by topic
+		Browse the Law of One material by topic
 	</p>
 </div>
 

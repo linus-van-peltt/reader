@@ -113,7 +113,7 @@
 					type="text"
 					value={search.query}
 					oninput={handleInput}
-					placeholder="Search the Ra Material..."
+					placeholder="Search the Law of One material..."
 					class="w-full rounded-xl border border-stone-300 bg-white py-2.5 pl-10 pr-4 text-sm text-stone-900 placeholder-stone-400 focus:border-ra focus:ring-1 focus:ring-ra dark:border-stone-600 dark:bg-stone-800 dark:text-stone-100 dark:placeholder-stone-500"
 				/>
 				{#if search.isSearching}

@@ -25,7 +25,7 @@
 </svelte:head>
 
 <div class="mb-6">
-	<h1 class="text-2xl font-bold text-stone-900 dark:text-stone-100">The Ra Material</h1>
+	<h1 class="text-2xl font-bold text-stone-900 dark:text-stone-100">The Law of One</h1>
 	<p class="mt-1 text-sm text-stone-500 dark:text-stone-400">
 		{sessions.length} sessions &middot; {sessions.reduce((sum, s) => sum + s.segments.length, 0)} passages
 	</p>

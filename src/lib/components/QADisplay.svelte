@@ -91,7 +91,7 @@
 
 	async function handleShare() {
 		const url = `${window.location.origin}/session/${qa.sessionNum}#${qa.qaIndex}`;
-		const title = `Ra Material ${qa.sessionNum}.${qa.qaIndex}`;
+		const title = `Law of One ${qa.sessionNum}.${qa.qaIndex}`;
 		try {
 			await navigator.share({ title, url });
 		} catch {
