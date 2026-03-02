@@ -25,38 +25,44 @@ export async function getTranscript(id: string): Promise<TranscriptData | null> 
 }
 
 /**
- * Split word timestamps into question vs answer arrays.
- * Aligned transcripts contain the full combined text (question + answer),
- * so we split by the question's word count.
- * Machine transcripts contain only answer audio, so question timestamps are empty.
+ * Get question and answer word timestamps.
+ * New aligned transcripts have explicit question/answer arrays.
+ * Legacy transcripts with a flat `word` array fall back to word-count splitting.
  */
 export async function getFieldTimestamps(
 	id: string
 ): Promise<{ question: WordTimestamp[]; answer: WordTimestamp[] } | null> {
 	const transcript = await getTranscript(id);
-	if (!transcript?.timestamps?.word?.length) return null;
+	if (!transcript?.timestamps) return null;
+
+	const ts = transcript.timestamps;
+
+	// New format: explicit question/answer arrays
+	if (ts.question || ts.answer) {
+		return {
+			question: ts.question ?? [],
+			answer: ts.answer ?? []
+		};
+	}
+
+	// Legacy format: flat word array, split by questionWordCount
+	if (!ts.word?.length) return null;
 
 	const qa = await getQAPair(id);
 	if (!qa) return null;
 
-	const words = transcript.timestamps.word;
-
-	// Machine transcripts only cover Ra's answer — no question timestamps
 	if (qa.questionWordCount === 0) {
-		return { question: [], answer: words };
+		return { question: [], answer: ts.word };
 	}
 
-	// Aligned transcripts contain question + answer text combined.
-	// Split at the question word count boundary.
 	const splitIdx = qa.questionWordCount;
-	if (splitIdx >= words.length) {
-		// All words are question (shouldn't normally happen)
-		return { question: words, answer: [] };
+	if (splitIdx >= ts.word.length) {
+		return { question: ts.word, answer: [] };
 	}
 
 	return {
-		question: words.slice(0, splitIdx),
-		answer: words.slice(splitIdx)
+		question: ts.word.slice(0, splitIdx),
+		answer: ts.word.slice(splitIdx)
 	};
 }
 

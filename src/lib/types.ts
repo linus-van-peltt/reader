@@ -140,7 +140,9 @@ export interface TranscriptData {
 			start: number;
 			end: number;
 		}[];
-		word: WordTimestamp[];
+		word?: WordTimestamp[];
+		question?: WordTimestamp[];
+		answer?: WordTimestamp[];
 	};
 	metadata: { audio_duration: number; [key: string]: unknown };
 }

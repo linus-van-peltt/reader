@@ -5,6 +5,7 @@
 	import {
 		getNotebooksState,
 		loadNotebooks,
+		createNotebook,
 		addEntry,
 		addHighlight
 	} from '$lib/stores/notebooks.svelte';
@@ -45,6 +46,7 @@
 	let highlightPhase = $state<'notebook' | 'note'>('notebook');
 	let selectedNotebook = $state<Notebook | null>(null);
 	let pendingNote = $state('');
+	let newNotebookTitle = $state('');
 
 	let questionHighlights = $derived(
 		highlights?.filter((h) => h.field === 'question') ?? []
@@ -138,11 +140,14 @@
 
 	// --- Text selection highlighting ---
 
-	// Get the visible text content (excluding tooltip definitions) before a given DOM position
+	// Get the visible text content (excluding tooltip definitions and highlight note indices) before a given DOM position
 	function getVisibleTextBefore(container: Element, node: Node, offset: number): string {
 		const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, {
 			acceptNode(n: Node) {
-				if ((n as Text).parentElement?.closest('[role="tooltip"]'))
+				const parent = (n as Text).parentElement;
+				if (parent?.closest('[role="tooltip"]'))
+					return NodeFilter.FILTER_REJECT;
+				if (parent?.tagName === 'SUP' && parent?.closest('mark'))
 					return NodeFilter.FILTER_REJECT;
 				return NodeFilter.FILTER_ACCEPT;
 			}
@@ -239,6 +244,7 @@
 		selectedNotebook = null;
 		pendingHighlight = null;
 		pendingNote = '';
+		newNotebookTitle = '';
 		window.getSelection()?.removeAllRanges();
 		setTimeout(() => (highlightFeedback = ''), 2000);
 	}
@@ -264,9 +270,10 @@
 		selectedNotebook = null;
 		pendingHighlight = null;
 		pendingNote = '';
+		newNotebookTitle = '';
 	}
 
-	function autofocus(node: HTMLInputElement) {
+	function autofocus(node: HTMLElement) {
 		node.focus();
 	}
 </script>
@@ -322,7 +329,7 @@
 							{#if seg.highlight}<mark class="rounded-sm bg-fuchsia-300/40 px-0.5 dark:bg-fuchsia-500/25">{seg.text}</mark>{:else}{seg.text}{/if}
 						{/each}
 					{:else if questionHighlightsWithNotes.length > 0}
-						<HighlightedText text={qa.question} highlights={questionHighlightsWithNotes} />
+						<HighlightedText text={qa.question} highlights={questionHighlightsWithNotes} words={questionWordTimestamps} qaId={qa.id} />
 					{:else if questionWordTimestamps.length > 0}
 						<TimestampedText text={qa.question} words={questionWordTimestamps} qaId={qa.id} />
 					{:else}
@@ -348,7 +355,7 @@
 						{#if seg.highlight}<mark class="rounded-sm bg-fuchsia-300/40 px-0.5 dark:bg-fuchsia-500/25">{seg.text}</mark>{:else}{seg.text}{/if}
 					{/each}
 				{:else if answerHighlightsWithNotes.length > 0}
-					<HighlightedText text={qa.answer} highlights={answerHighlightsWithNotes} />
+					<HighlightedText text={qa.answer} highlights={answerHighlightsWithNotes} words={answerWordTimestamps} qaId={qa.id} />
 				{:else if answerWordTimestamps.length > 0}
 					<TimestampedText text={qa.answer} words={answerWordTimestamps} qaId={qa.id} />
 				{:else}
@@ -368,38 +375,49 @@
 			tabindex="-1"
 		></button>
 		<div
-			class="fixed z-50 -translate-x-1/2 rounded-xl border border-stone-200/60 bg-white/95 py-1.5 shadow-lg backdrop-blur-sm dark:border-stone-700/60 dark:bg-stone-900/95"
+			class="fixed z-50 w-64 -translate-x-1/2 rounded-xl border border-stone-200/60 bg-white/95 py-1.5 shadow-lg backdrop-blur-sm dark:border-stone-700/60 dark:bg-stone-900/95"
 			style="left: {highlightMenuPos.x}px; top: {highlightMenuPos.y}px; transform: translate(-50%, calc(-100% - 8px));"
 		>
 			{#if highlightPhase === 'notebook'}
 				<div class="px-3 py-1 text-[10px] font-medium tracking-wider text-stone-400 uppercase">Highlight in</div>
-				{#if nbState.notebooks.length === 0}
-					<div class="px-3 py-2 text-xs text-stone-400">
-						<a href="{base}/notebooks" class="text-ra hover:underline">Create a notebook</a> first
-					</div>
-				{:else}
-					{#each nbState.notebooks as nb}
-						<button
-							onclick={() => selectNotebookForHighlight(nb)}
-							class="block w-full px-3 py-1.5 text-left text-xs text-stone-600 transition-colors hover:bg-stone-50 dark:text-stone-300 dark:hover:bg-stone-800"
-						>
-							{nb.title}
-						</button>
-					{/each}
-				{/if}
+				<div class="px-2 pb-1.5">
+					<form onsubmit={async (e) => {
+						e.preventDefault();
+						const title = newNotebookTitle.trim();
+						if (!title) return;
+						const nb = await createNotebook(title);
+						newNotebookTitle = '';
+						selectNotebookForHighlight(nb);
+					}}>
+						<input
+							type="text"
+							bind:value={newNotebookTitle}
+							class="w-full rounded-md border border-stone-200 bg-stone-50 px-2.5 py-1.5 text-xs text-stone-900 placeholder-stone-400 focus:border-ra focus:outline-none focus:ring-1 focus:ring-ra dark:border-stone-700 dark:bg-stone-800 dark:text-stone-100"
+							placeholder="New notebook..."
+						/>
+					</form>
+				</div>
+				{#each nbState.notebooks as nb}
+					<button
+						onclick={() => selectNotebookForHighlight(nb)}
+						class="block w-full px-3 py-1.5 text-left text-xs text-stone-600 transition-colors hover:bg-stone-50 dark:text-stone-300 dark:hover:bg-stone-800"
+					>
+						{nb.title}
+					</button>
+				{/each}
 			{:else}
 				<div class="px-3 py-1 text-[10px] font-medium tracking-wider text-stone-400 uppercase">
 					Add a note
 				</div>
 				<div class="px-2 pb-1.5">
-					<input
-						type="text"
+					<textarea
 						bind:value={pendingNote}
 						use:autofocus
-						class="w-full rounded-md border border-stone-200 bg-stone-50 px-2.5 py-1.5 text-xs text-stone-900 placeholder-stone-400 focus:border-fuchsia-400 focus:outline-none focus:ring-1 focus:ring-fuchsia-400 dark:border-stone-700 dark:bg-stone-800 dark:text-stone-100"
+						rows="3"
+						class="w-full resize-none rounded-md border border-stone-200 bg-stone-50 px-2.5 py-2 text-sm text-stone-900 placeholder-stone-400 focus:border-fuchsia-400 focus:outline-none focus:ring-1 focus:ring-fuchsia-400 dark:border-stone-700 dark:bg-stone-800 dark:text-stone-100"
 						placeholder="Optional annotation..."
-						onkeydown={(e) => { if (e.key === 'Enter') confirmHighlight(); }}
-					/>
+						onkeydown={(e) => { if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); confirmHighlight(); } }}
+					></textarea>
 					<div class="mt-1.5 flex gap-1.5">
 						<button
 							onclick={confirmHighlight}
@@ -468,27 +486,38 @@
 			{#if showNotebookMenu}
 				<button
 					class="fixed inset-0 z-40"
-					onclick={() => (showNotebookMenu = false)}
+					onclick={() => { showNotebookMenu = false; newNotebookTitle = ''; }}
 					aria-label="Close menu"
 					tabindex="-1"
 				></button>
 				<div
 					class="absolute bottom-full left-0 z-50 mb-1.5 w-48 rounded-xl border border-stone-200/60 bg-white/95 py-1.5 shadow-lg backdrop-blur-sm dark:border-stone-700/60 dark:bg-stone-900/95"
 				>
-					{#if nbState.notebooks.length === 0}
-						<div class="px-3 py-2 text-xs text-stone-400">
-							<a href="{base}/notebooks" class="text-ra hover:underline">Create a notebook</a> first
-						</div>
-					{:else}
-						{#each nbState.notebooks as nb}
-							<button
-								onclick={() => handleAddToNotebook(nb)}
-								class="block w-full px-3 py-1.5 text-left text-xs text-stone-600 transition-colors hover:bg-stone-50 dark:text-stone-300 dark:hover:bg-stone-800"
-							>
-								{nb.title}
-							</button>
-						{/each}
-					{/if}
+					<div class="px-2 py-1.5">
+						<form onsubmit={async (e) => {
+							e.preventDefault();
+							const title = newNotebookTitle.trim();
+							if (!title) return;
+							const nb = await createNotebook(title);
+							newNotebookTitle = '';
+							await handleAddToNotebook(nb);
+						}}>
+							<input
+								type="text"
+								bind:value={newNotebookTitle}
+								class="w-full rounded-md border border-stone-200 bg-stone-50 px-2.5 py-1.5 text-xs text-stone-900 placeholder-stone-400 focus:border-ra focus:outline-none focus:ring-1 focus:ring-ra dark:border-stone-700 dark:bg-stone-800 dark:text-stone-100"
+								placeholder="New notebook..."
+							/>
+						</form>
+					</div>
+					{#each nbState.notebooks as nb}
+						<button
+							onclick={() => handleAddToNotebook(nb)}
+							class="block w-full px-3 py-1.5 text-left text-xs text-stone-600 transition-colors hover:bg-stone-50 dark:text-stone-300 dark:hover:bg-stone-800"
+						>
+							{nb.title}
+						</button>
+					{/each}
 				</div>
 			{/if}
 		</div>
